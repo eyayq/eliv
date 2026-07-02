@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 18:00:53 WIB 02-07-2026
-# 🔄 Total Channels: 6023
+# ⏰ Latest Updated: 18:08:00 WIB 02-07-2026
+# 🔄 Total Channels: 6021
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [18:00:53 WIB 02-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [18:08:00 WIB 02-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -18665,36 +18665,39 @@ http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465863.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ATJoWp8_eiI_XOlh1TpoJzxzXCwlctNKSPpnjRNTug&s=10" group-title="CH 4K Piala Dunia 🏆",FUSSBALL.TV 4K/UHD | Beberapa Device Ga Support - pilih channel yang lain
 http://line.ciao-ott.net/live/7VSUAK/S59UJY/1745180.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDNH8JVuy39SuS29kMij1-CD2Zx-2oTJ3jSftvifByg&s=10" group-title="LIVE EVENT",23:30 WIB Premier Padel '26: Bordeaux | BEINSPORTS 2 | Gvision TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDNH8JVuy39SuS29kMij1-CD2Zx-2oTJ3jSftvifByg&s=10" group-title="LIVE EVENT",01:00 WIB Premier Padel '26: Bordeaux | BEINSPORTS 2 | Gvision TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOQCPVK3WI4EBAXbIoU8z48FEGIh8zgkFlM0cBTQeG1A&s=10" group-title="LIVE EVENT",00:00 WIB The F1 Show '26: British GP | BEINSPORTS 1 | Gvision TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yP7V9prfWlo1oeSFvu2_IwYWRKXi6FagvI9XRM7Z5A&s=10" group-title="LIVE EVENT",00:00 WIB Yunani U18 vs Jerman U18
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel82.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yP7V9prfWlo1oeSFvu2_IwYWRKXi6FagvI9XRM7Z5A&s=10" group-title="LIVE EVENT",00:00 WIB Latvia U18 vs Islandia U18
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel83.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",00:15 WIB Goto Takuto / Yoshida Tsubasa vs Kral Jiri / Kral O | BWF. Men. Canada Open. Doubles | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://gvisiontv.channell.my.id/event/event2/stream.php/.m3u8?id=%2Fmatch%2Fgoto-takuto-yoshida-tsubasa-kral-jiri-kral-o-24743822
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",00:20 WIB Canada Open MD | Badminton | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.1827.com/
 #EXTVLCOPT:http-origin=https://www.1827.com
-https://tk-hd-liven.fheuuw.com/sla/94-6a4483430056754441914b30-backup2.m3u8?auth_key=1783036116-0-0-726b6b724cd3d90ad159f7114d032151
+https://tk-hd-liven.fheuuw.com/sla/94-6a45482357b14e876d9cc88d.m3u8?auth_key=1783037191-0-0-df0e91f98035d2880146a5e9f9545747
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",00:20 WIB Canada Open MD | Badminton | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.1827.com/
 #EXTVLCOPT:http-origin=https://www.1827.com
-https://tk-hd-liven.fheuuw.com/sla/94-6a45482357b14e876d9cc88d.m3u8?auth_key=1783036117-0-0-8a68533deb2ebfa0e53cfed2211dcb9e
+https://tk-hd-liven.fheuuw.com/sla/94-6a45482357b14e876d9cc88d-backup2.m3u8?auth_key=1783037191-0-0-f6fb1238752fa16c8a967c81d12a44fb
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",00:25 WIB Takei Riki vs Koga Minoru | BWF. Men. Canada Open | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://gvisiontv.channell.my.id/event/event2/stream.php/.m3u8?id=%2Fmatch%2Ftakei-riki-koga-minoru-24743823
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",00:30 WIB Canada Open | Badminton | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.1827.com/
 #EXTVLCOPT:http-origin=https://www.1827.com
-https://tk-hd-liven.fheuuw.com/sla/94-6a458e4bd06bfc5094faae96.m3u8?auth_key=1783036116-0-0-3fcde0660c3853ede75e518cd2e4783a
+https://tk-hd-liven.fheuuw.com/sla/94-6a458e4bd06bfc5094faae96.m3u8?auth_key=1783037192-0-0-8d010a68d02012abb5b7cbf4e064012d
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",00:30 WIB Canada Open | Badminton | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.1827.com/
+#EXTVLCOPT:http-origin=https://www.1827.com
+https://tk-hd-liven.fheuuw.com/sla/94-6a458e4bd06bfc5094faae96-backup2.m3u8?auth_key=1783037192-0-0-dd814cef37606595747421854579209b
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Canada Open - All Court | Gvision TV
 #EXTVLCOPT:http-referrer=https://pull.jxxgz.top/
 #EXTVLCOPT:http-origin=https://pull.jxxgz.top
@@ -18717,20 +18720,6 @@ https://badmintonlive.net/live-stream/live/98ef19a0d5b2f41dcebe2bae359140e6.flv
 https://badmintonlive.net/live-stream/live/53c3fac0062494b78845c38bf1e1ef7b.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Canada Open BWF WORLD TOUR | Court 3 | Gvision TV
 https://badmintonlive.net/live-stream/live/1a0c2fbdd03d534f88ace88c41f931de.flv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",23:25 WIB Carraggi Julien vs Ogawa Shogo | BWF. Men. Canada Open | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-http://gvisiontv.channell.my.id/event/event2/stream.php/.m3u8?id=%2Fmatch%2Fcarraggi-julien-ogawa-shogo-24745001
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",23:30 WIB Canada Open | Badminton | Gvision TV
-#EXTVLCOPT:http-referrer=https://www.1827.com/
-#EXTVLCOPT:http-origin=https://www.1827.com
-https://tk-hd-liven.fheuuw.com/sla/94-6a459c77a536306159d03916.m3u8?auth_key=1783036116-0-0-38be80cc867d73fe5a7bce5aa66dd0b7
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",23:30 WIB Canada Open | Badminton | Gvision TV
-#EXTVLCOPT:http-referrer=https://www.1827.com/
-#EXTVLCOPT:http-origin=https://www.1827.com
-https://tk-hd-liven.fheuuw.com/sla/94-6a459c77a536306159d03916-backup2.m3u8?auth_key=1783036116-0-0-27139db1e639184a5928e1d75b06e51e
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",23:53 WIB Chang Ko-Chi / Chen Sheng Fa vs Grimley Christopher / Grimley Matthew | BWF. Men. Canada Open. Doubles | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-http://gvisiontv.channell.my.id/event/event2/stream.php/.m3u8?id=%2Fmatch%2Fchang-ko-chi-chen-sheng-fa-grimley-christopher-grimley-matthew-24743821
 #EXTINF:-1 tvg-logo="https://cdn.manilastandard.net/wp-content/uploads/2026/02/Screen-Shot-2026-02-13-at-10.46.19-AM.png" group-title="CH AUTO RESO Piala Dunia 🏆",tvg-logo="https://cdn.manilastandard.net/wp-content/uploads/2026/02/Screen-Shot-2026-02-13-at-10.46.19-AM.png" tvg-uid="63fc442a4b5423c6fa4ab6298815b38f",WC TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
