@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [00:22 WIB 04/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:22 WIB 04/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [00:28 WIB 04/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:28 WIB 04/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500",[19:30 WIB 03/07/26] A.Rinderknech - D.Jokovic [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500",[19:30 WIB 03/07/26] A.Rinderknech - D.Jokovic [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500",[19:30 WIB 03/07/26] A.Rinderknech - D.Jokovic [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/329.png" group-title="Meistriliiga",[23:00 WIB 03/07/26] Nõmme United vs Kalju Nomme [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
@@ -29,13 +20,13 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/113.png" group-title="Allsvenskan",[00:00 WIB 04/07/26] Sirius vs Mjallby AIF [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[01:00 WIB 04/07/26] Australia vs Egypt [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[01:00 WIB 04/07/26] Australia vs Egypt [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[01:00 WIB 04/07/26] Australia vs Egypt [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[01:00 WIB 04/07/26] Australia vs Egypt [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[01:00 WIB 04/07/26] Australia vs Egypt [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[01:00 WIB 04/07/26] Australia vs Egypt [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[01:00 WIB 04/07/26] Australia vs Egypt [FHD] [NANTIKAN]
@@ -163,6 +154,15 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 04/07/26] Tianjin Teda vs Sichuan Jiuniu [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 ",[19:00 WIB 04/07/26] E.Mertens - Elena Rybakina [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 ",[19:00 WIB 04/07/26] E.Mertens - Elena Rybakina [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 ",[19:00 WIB 04/07/26] E.Mertens - Elena Rybakina [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[22:00 WIB 04/07/26] VPS vs Mariehamn [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
