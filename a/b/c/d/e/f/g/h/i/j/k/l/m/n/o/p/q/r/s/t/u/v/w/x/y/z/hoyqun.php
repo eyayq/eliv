@@ -1,23 +1,23 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [09:29 WIB 03/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [09:29 WIB 03/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [09:36 WIB 03/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [09:36 WIB 03/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[10:00 WIB 03/07/26] Switzerland vs Algeria [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[10:00 WIB 03/07/26] Switzerland vs Algeria [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[10:00 WIB 03/07/26] Switzerland vs Algeria [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[10:00 WIB 03/07/26] Switzerland vs Algeria [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[10:00 WIB 03/07/26] Switzerland vs Algeria [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[10:00 WIB 03/07/26] Switzerland vs Algeria [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[10:00 WIB 03/07/26] Switzerland vs Algeria [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[10:00 WIB 03/07/26] Switzerland vs Algeria [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[10:00 WIB 03/07/26] Switzerland vs Algeria [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[10:00 WIB 03/07/26] Switzerland vs Algeria [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[10:00 WIB 03/07/26] Switzerland vs Algeria [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[10:00 WIB 03/07/26] Switzerland vs Algeria [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[13:00 WIB 03/07/26] U18 Việt Nam vs U18 Ấn Độ [FHD] [NANTIKAN]
