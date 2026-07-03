@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.18 WIB 04/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.24 WIB 04/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-sirius-fk-4ad1af.webp" group-title="[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 1",[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -9,28 +9,28 @@ http://193.47.62.42/hls/RARARAQ.m3u8
 https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-sirius-fk-4ad1af.webp" group-title="[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 3",[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1783106063-0-0-2efea84e3c583aa0a0cd767b13013e6d
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1783106423-0-0-24a523f38602e361aa2db6a4cfc22e93
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-sirius-fk-4ad1af.webp" group-title="[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 4",[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1783106063-0-0-4ee25dcd1a33e9a4514c4504461e5748
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1783106423-0-0-c2fbcb922a8e0dea452c6593883636de
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-sirius-fk-4ad1af.webp" group-title="[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 5",[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=41cb2dcd14bb45d9bb31ae6de5c3583d&txTime=6a48505f
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=43ea5c4f41bbe2062c3edd7f80d92580&txTime=6a4851c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-sirius-fk-4ad1af.webp" group-title="[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 6",[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=5a8595ac322b453f4de362abf9bb69fd&txTime=6a48505f
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=8761c338a1b705e6117fd7d3fef59469&txTime=6a4851c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-sirius-fk-4ad1af.webp" group-title="[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 7",[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1783106063-0-0-f60b821cf0167fd20fa688f568fc9d32
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1783106423-0-0-004b89204eec5a134488affe3e897130
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-sirius-fk-4ad1af.webp" group-title="[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 8",[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1783106063-0-0-a916c5e49ca8425f62bd3d290b286012
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1783106423-0-0-69965b55e0d555b1e233810bd6fe4e21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-sirius-fk-4ad1af.webp" group-title="[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 9",[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1783106063-0-0-2256e61690de42afa2db7efb41fde6bc
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1783106423-0-0-9ac8ae95917930fc168e27869efccde7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-sirius-fk-4ad1af.webp" group-title="[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 10",[LIVE 00:00 WIB 04/07/26] IK Sirius FK vs Mjallby AIF | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1783106063-0-0-1763496e50e51b5a9edd47a4e2eef536
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1783106423-0-0-1447b403e76d5ffe4b7a711e0c2c3749
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.webp" group-title="[LIVE 00:00 WIB 04/07/26] Ranheim IL vs Stabaek | Server 1",[LIVE 00:00 WIB 04/07/26] Ranheim IL vs Stabaek | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/RARARA.m3u8
@@ -42,42 +42,39 @@ https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c9
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.webp" group-title="[LIVE 00:00 WIB 04/07/26] Ranheim IL vs Stabaek | Server 4",[LIVE 00:00 WIB 04/07/26] Ranheim IL vs Stabaek | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-622093_lsd.m3u8?auth_key=1783106063-0-0-4eda5a4eacdf49d5a017f69de6f124df
+https://pull.niues.live/live/stream-622093_lsd.m3u8?auth_key=1783106423-0-0-da150d3d6ab991279102e0d018e3e776
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.webp" group-title="[LIVE 00:00 WIB 04/07/26] Ranheim IL vs Stabaek | Server 5",[LIVE 00:00 WIB 04/07/26] Ranheim IL vs Stabaek | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1783106063-0-0-64b4224440fd5ca8bc68c1ad4e309bc2
+https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1783106423-0-0-d11ac0e5ae27e273d805ccd7dc847100
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.webp" group-title="[LIVE 00:00 WIB 04/07/26] Ranheim IL vs Stabaek | Server 6",[LIVE 00:00 WIB 04/07/26] Ranheim IL vs Stabaek | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1783106063-0-0-f8d3fd20a3df0861f7a40dc9b25cf6b7
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1783106423-0-0-fa781dca6bcbe8439fd031ccb2455482
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.webp" group-title="[LIVE 00:00 WIB 04/07/26] Ranheim IL vs Stabaek | Server 7",[LIVE 00:00 WIB 04/07/26] Ranheim IL vs Stabaek | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1783106063-0-0-94c9181d6b639abb109b524ba789a95e
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/fcd8dc280beafdd1681f5e0c6a8e038d.png" group-title="[LIVE 00:30 WIB 04/07/26] Tallinna Kalev vs Maardu | Server 1",[LIVE 00:30 WIB 04/07/26] Tallinna Kalev vs Maardu | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.bongtv.com/live/sd-6MvVNfSTwFPSB1YoZv.m3u8?txSecret=8e95c90d4eaf459d3d6000f685412ad3&txTime=6A48A4E9
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1783106423-0-0-6a5d4ff4d4117607c8a7bfdcd7ae4c7e
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/d6ac81c9df675adcaea6ef3220b02430.png" group-title="[LIVE 01:00 WIB 04/07/26] Cuenca Juniors vs San Antonio | Server 1",[LIVE 01:00 WIB 04/07/26] Cuenca Juniors vs San Antonio | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.bongtv.com/live/sd-6MwcqG74Qndk8BnHhn.m3u8?txSecret=0bf5268769b7063125323a778552d69e&txTime=6A48A4E9
+https://live.bongtv.com/live/sd-6MwcqG74Qndk8BnHhn.m3u8?txSecret=b2c6f680bdbcd270256b772452ac530f&txTime=6A48A705
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 1",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.bongtv.com/live/2299177-1-l5ergph48k79r8k.m3u8?txSecret=45ff46ca91e3122381d0ca3547723adb&txTime=6A48A4E9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 2",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/aus-egy-wc-cat/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 3",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 3 (SVR-BHNS 3)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 2",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/aus-egy-wc-cat.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 4",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 4 (SVR-BHNS 4)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 3",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/aus-egy-wc-bac/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 5",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 5 (SVR-BHNS 5)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 4",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/aus-egy-wc-bac.flv
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 5",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.bongtv.com/live/2299177-1-l5ergph48k79r8k.m3u8?txSecret=1f4d5b2cbcc65cc5f4731d223bbf85cb&txTime=6A48A705
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 6",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1783058247-0-0-a022e3f93ac92c21ae7ef36afdebd9b0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 7",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lsd.flv?auth_key=1783058247-0-0-a022e3f93ac92c21ae7ef36afdebd9b0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 8",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -110,116 +107,122 @@ http://193.47.62.47/hls/dTHXCZckkkqqq.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 18",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 18 (SVR-BHNS 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 19",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 19 (SVR-BHNS 19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|drmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 20",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 20 (SVR-BHNS 20)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|drmScheme=clearkey&drmLicense=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 21",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 21 (SVR-BHNS 21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd|drmScheme=clearkey&drmLicense=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 22",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 22 (SVR-BHNS 22)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd|drmScheme=clearkey&drmLicense=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 23",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 23 (SVR-BHNS 23)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd|drmScheme=clearkey&drmLicense=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 24",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 24 (SVR-BHNS 24)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|drmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 25",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 25 (SVR-BHNS 25)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.streamgoaldaddy.com/live/e71a3462c341d331.m3u8?wsSecret=04D7899C00EE10FA9FADD7BB8B08F9D1&wsTime=1783102460
+https://play.streamgoaldaddy.com/live/e71a3462c341d331.m3u8?wsSecret=B014DEBEEAD4D0A268D8992EC29A5127&wsTime=1783103002
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 26",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 26 (SVR-BHNS 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 27",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 27 (SVR-BHNS 27)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 28",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 28 (SVR-BHNS 28)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 29",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 29 (SVR-BHNS 29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 30",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 30 (SVR-BHNS 30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 31",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 31 (SVR-BHNS 31)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 32",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 32 (SVR-BHNS 32)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1783106063-0-0-e9d357e3bf2831f4dcbdc2ea0d9944f4
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=0b039df6d135491b8bc77760b7a919bf&txTime=6a4851c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 33",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 33 (SVR-BHNS 33)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1783106063-0-0-98746c9ac0c58cde73b14acb6c221882
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=cacf7db2b4130be9444cef5a2c0366e4&txTime=6a4851c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 34",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 34 (SVR-BHNS 34)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1783106063-0-0-4b542e23a1929e961477e07227efcd44
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1783106423-0-0-af059523c8564ba284a7bf756cd07232
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 35",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 35 (SVR-BHNS 35)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783106063-0-0-8e9e816091c3e64891a341d9db0fe1da
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783106423-0-0-9d913564fef0b31f5bff8b30ed88a146
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 36",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 36 (SVR-BHNS 36)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=8a6138e611159e3c15831595f6d1da80&txTime=6a48505f
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1783106423-0-0-48e687ebb4e28dbd68badca218857696
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 37",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 37 (SVR-BHNS 37)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=178cff9d9d2ede5128930609b6ceef4a&txTime=6a48505f
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1783106423-0-0-14366c68f293ea1d0f3bf37dc7127def
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 38",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 38 (SVR-BHNS 38)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1783106063-0-0-fcf9a91bbb4e2909efdfce1bef5c2c55
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1783106423-0-0-1a72291f10ab544e7153b558fe75d343
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 39",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 39 (SVR-BHNS 39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1783106063-0-0-7e819964d98d4a0fffbdc27fc1d487c6
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1783106423-0-0-f0c79891e58c5d219c36e0a5a5a9d264
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 40",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 40 (SVR-BHNS 40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1783106063-0-0-b303cf855eab04f3d90f0ade3a7a3fa6
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1783106423-0-0-76dba82e6a01db242a7c1244dcafbc04
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 41",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 41 (SVR-BHNS 41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1783106063-0-0-01f1febccda937c832505eb98e6e0b35
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783106423-0-0-2426b34498ff6478f944118bce26f43a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 42",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 42 (SVR-BHNS 42)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1783106063-0-0-f578abc36eaef46df87ae4adedcd2088
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=9b51b925b101e1bb731ef2cd9e887df3&txTime=6a4851c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 43",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 43 (SVR-BHNS 43)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1783106063-0-0-4be9a710f706018c0810f13f4f872395
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=ca4c014c4c3944e1c610b2287c069c60&txTime=6a4851c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 44",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 44 (SVR-BHNS 44)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=e703692beb17c66fb64fb8b43c2cb0ba&txTime=6a48505f
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1783106423-0-0-81b5753668e628e35ac6d53ed1f01aae
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 45",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 45 (SVR-BHNS 45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=3055565916391204dfcc743aa86567b4&txTime=6a48505f
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1783106423-0-0-112f15dbb5fc6b5d47c4e7c3a9580287
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 46",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 46 (SVR-BHNS 46)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1783106063-0-0-e1899f17368683b85baea904477aecab
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1783106423-0-0-005f576694dd57b07b0d27f393014e0b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 47",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 47 (SVR-BHNS 47)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783106063-0-0-2ba151fe71be4360d8905cf798ed19a4
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1783106423-0-0-37f44ef7a1f651718ae8cf4ab5d65d6e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 48",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 48 (SVR-BHNS 48)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1783106063-0-0-6498f81db0026036c2a180be31a93ed3
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1783106423-0-0-d57d6f43e22eea90a52b1f6ee9d17956
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 49",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 49 (SVR-BHNS 49)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1783106063-0-0-e548afc63115880ef7a959e5da1f23d9
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1783106423-0-0-b9504305bcb215741577ee04253a63e9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 50",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 50 (SVR-BHNS 50)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1783106063-0-0-696c6bcce5a95fa926aa7e96ad118cf5
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1783106423-0-0-466513d715a55f2e646e316ac305449a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 51",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 51 (SVR-BHNS 51)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1783106063-0-0-c26697cfdcda92d583273ec4f0b0496c
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1783106423-0-0-e9dbcbfae06c43f9cf0758a6863df5e3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 52",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 52 (SVR-BHNS 52)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1783106063-0-0-3e9d10cd74af48711908ee264d3b78f0
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1783106423-0-0-bbfc9acd716fb38062869c097b9412ab
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 53",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 53 (SVR-BHNS 53)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1783106063-0-0-a269a2b1d5b7a6c61559b4f5908ce1a6
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1783106423-0-0-c74e9fed872b5d9c65031f9f1d297967
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 54",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 54 (SVR-BHNS 54)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1783106063-0-0-1f0d196fe79cc3861dc26d8f452d71ef
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1783106423-0-0-b83e6313ba7473dd01c40c592733a67d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-fb2a54.png" group-title="[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 55",[LIVE 01:00 WIB 04/07/26] Australia vs Egypt | Server 55 (SVR-BHNS 55)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1783106063-0-0-044044018d41cdb59265eb00e4c305dc
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1783106423-0-0-9309a065ad2735c7bfc8fe0dbc818405
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hikma-847440.png" group-title="[LIVE 01:30 WIB 04/07/26] Al-Hikma vs Al-Nejmeh | Server 1",[LIVE 01:30 WIB 04/07/26] Al-Hikma vs Al-Nejmeh | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 02:00 WIB 04/07/26] NSI Runavik vs Klaksvik | Server 1",[LIVE 02:00 WIB 04/07/26] NSI Runavik vs Klaksvik | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.42/hls/RARARAQQ.m3u8
