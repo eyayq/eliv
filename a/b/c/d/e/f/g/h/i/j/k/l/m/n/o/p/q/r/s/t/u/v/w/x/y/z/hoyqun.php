@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:05 WIB 03/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:05 WIB 03/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [18:12 WIB 03/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:12 WIB 03/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[16:00 WIB 03/07/26] U18 Indonesia vs U18 Philippines [FHD] [LIVE]
@@ -30,13 +30,13 @@ https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 03/07/26] Yunnan Yukun vs Henan Jianye [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 03/07/26] Yunnan Yukun vs Henan Jianye [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 03/07/26] Yunnan Yukun vs Henan Jianye [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[19:00 WIB 03/07/26] U18 Thailand vs U18 Uzbekistan [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
@@ -234,4 +234,58 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[22:00 WIB 04/07/26] VPS vs Mariehamn [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[02:00 WIB 05/07/26] Novorizontino vs Atletico Goianiense [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[02:00 WIB 05/07/26] Novorizontino vs Atletico Goianiense [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[02:00 WIB 05/07/26] Novorizontino vs Atletico Goianiense [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[06:00 WIB 05/07/26] Goias vs Ceara [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[06:00 WIB 05/07/26] Goias vs Ceara [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[06:00 WIB 05/07/26] Goias vs Ceara [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/267.png" group-title="Copa Chile",[07:30 WIB 05/07/26] U. Catolica vs Deportes Copiapo [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/267.png" group-title="Copa Chile",[07:30 WIB 05/07/26] U. Catolica vs Deportes Copiapo [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/267.png" group-title="Copa Chile",[07:30 WIB 05/07/26] U. Catolica vs Deportes Copiapo [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/255.png" group-title="USL Championship",[09:30 WIB 05/07/26] Las Vegas Lights vs El Paso Locomotive [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/255.png" group-title="USL Championship",[09:30 WIB 05/07/26] Las Vegas Lights vs El Paso Locomotive [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/255.png" group-title="USL Championship",[09:30 WIB 05/07/26] Las Vegas Lights vs El Paso Locomotive [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/192.png" group-title="New South Wales NPL",[12:00 WIB 05/07/26] Blacktown City vs Sydney United [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/192.png" group-title="New South Wales NPL",[12:00 WIB 05/07/26] Blacktown City vs Sydney United [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/192.png" group-title="New South Wales NPL",[12:00 WIB 05/07/26] Blacktown City vs Sydney United [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 05/07/26] Xi'an Ronghai vs Shanghai Second [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 05/07/26] Xi'an Ronghai vs Shanghai Second [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 05/07/26] Xi'an Ronghai vs Shanghai Second [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
