@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 06:27:55 WIB 04-07-2026
+# ⏰ Latest Updated: 06:33:57 WIB 04-07-2026
 # 🔄 Total Channels: 6277
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [06:27:55 WIB 04-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [06:33:57 WIB 04-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -20150,12 +20150,8 @@ http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465863.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ATJoWp8_eiI_XOlh1TpoJzxzXCwlctNKSPpnjRNTug&s=10" group-title="CH 4K Piala Dunia 🏆",FUSSBALL.TV 4K/UHD | Beberapa Device Ga Support - pilih channel yang lain
 http://line.ciao-ott.net/live/7VSUAK/S59UJY/1745180.ts
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg" group-title="Berita Olahraga",12:30 WIB Zona Olahraga | Sin Po TV | Gvision TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27fe63a923084c12b0b05d33d204bdca:f9624ac728524e9fdf8e3a97018fe26d
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="Berita Olahraga",13:30 WIB Sports Arena | MAXSports | Gvision TV
+http://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/dc1ae89261a19f838b5f2fa0e21d37fa.png!w80" group-title="Live Event: Colalive",14:00 02/07 Bay Hawks vs Taranaki Mountainairs Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.koepgd.app/live/90865415.m3u8
