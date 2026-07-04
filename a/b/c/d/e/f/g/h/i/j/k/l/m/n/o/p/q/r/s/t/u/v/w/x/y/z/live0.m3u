@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 22:56:38 WIB 04-07-2026
-# 🔄 Total Channels: 6657
+# ⏰ Latest Updated: 23:03:03 WIB 04-07-2026
+# 🔄 Total Channels: 6658
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [22:56:38 WIB 04-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [23:03:03 WIB 04-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -21670,7 +21670,7 @@ https://tvri.cob.web.id/hls2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xKwmLc31/20260626-014340-1.gif" group-title="LIVE EVENT",04:00 WIB PARAGUAY VS FRANCE | World Cup | Gvision TV
 http://gvisiontv.channell.my.id/event/event1/stream.php/.m3u8?id=4374256
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/bolakami-5adec.firebasestorage.app/o/images%2F24e36666-aac3-473f-9055-9e84ca5be8b0.jpg?alt=media&token=d43a9dd4-a2c3-4a8c-b675-2d91b363230c" group-title="LIVE EVENT",04:00 WIB Paraguay vs France | FIFA World Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/hd-en-1-4459800.m3u8?txSecret=9987044623fdd296377121e49da6d8d2&txTime=6A4AE010
+https://pul-tenm.gkykp.com/live/hd-en-1-4459800.m3u8?txSecret=d37ecfdc71aa0ef1f7deb65ce062c09f&txTime=6A4AE178
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/60hL3Z9M/20260701-051322.jpg" group-title="LIVE EVENT",04:00 WIB Paraguay vs France | World - FIFA World Cup 2026 | Gvision TV
 https://cfd4.dfccfd.cfd/dbdn_x1/monomax2_480p/chunks.m3u8?nimblesessionid=22453182&wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjYgODo1NjowMSBQTSZoYXNoX3ZhbHVlPUMzTW51cmRNNjFGTnNRYk9SK1Ezc0E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMSZpZD0xNzgzMTk4NTYxODEx
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzvnZQOk4Snoo1jAtlmp_p1HWzMOMbWZFBdSt7iJFzQQ&s=10" group-title="LIVE EVENT",04:00 WIB Paraguay vs Perancis
@@ -21917,6 +21917,12 @@ http://line.ciao-ott.net/live/7VSUAK/S59UJY/1745180.ts
 #EXTVLCOPT:http-referrer=https://m.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFXPfcf1/68e1a851-d2a4-41a8-b871-7b17aceca7cf.jpg" group-title="Berita Olahraga",06:00 WIB Kabar Arena Pagi | tvOne | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/dc1ae89261a19f838b5f2fa0e21d37fa.png!w80" group-title="Live Event: Colalive",14:00 02/07 Bay Hawks vs Taranaki Mountainairs Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.koepgd.app/live/90865415.m3u8
