@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 16:31:05 WIB 04-07-2026
-# 🔄 Total Channels: 6633
+# ⏰ Latest Updated: 16:37:57 WIB 04-07-2026
+# 🔄 Total Channels: 6634
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [16:31:05 WIB 04-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [16:37:57 WIB 04-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -21335,7 +21335,7 @@ http://line.ciao-ott.net/live/7VSUAK/S59UJY/1745180.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDNH8JVuy39SuS29kMij1-CD2Zx-2oTJ3jSftvifByg&s=10" group-title="LIVE EVENT",22:00 WIB Premier Padel '26: Bordeaux | BEINSPORTS 2 | Gvision TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDNH8JVuy39SuS29kMij1-CD2Zx-2oTJ3jSftvifByg&s=10" group-title="LIVE EVENT",23:30 WIB Premier Padel '26: Bordeaux | BEINSPORTS 2 | Gvision TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -21353,6 +21353,14 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel61.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",23:00 WIB BWF CANADA OPEN 2026 : SF2 | True Sports 7 | Gvision TV
 http://6395online.com:8080/live/Iptv6988/0905692638/391448.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT30dpAzsaHUSB4i_hsCwDdd6cNj4WKTbCubQ&s" group-title="LIVE EVENT",23:30 WIB Yonex Canada Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel60.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/60hL3Z9M/20260701-051322.jpg" group-title="LIVE EVENT",23:30 WIB LIVE FIFA World Cup(tm) Canada VS Morocco Round of 16 7/5 #90 | WCTV PH | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Canada Open - All Court | Gvision TV
 #EXTVLCOPT:http-referrer=https://pull.jxxgz.top/
 #EXTVLCOPT:http-origin=https://pull.jxxgz.top
@@ -21365,8 +21373,6 @@ https://live1.pro2cdnlive.com/live/channel62.m3u8?wsSecret=064615a27b4272164a0b8
 https://badmintonlive.net/live-stream/live/98ef19a0d5b2f41dcebe2bae359140e6.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Canada Open BWF WORLD TOUR | Court 2 | Gvision TV
 https://badmintonlive.net/live-stream/live/53c3fac0062494b78845c38bf1e1ef7b.flv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT30dpAzsaHUSB4i_hsCwDdd6cNj4WKTbCubQ&s" group-title="LIVE EVENT",[Belum Mulai] 23:30 WIB Yonex Canada Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel60.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.manilastandard.net/wp-content/uploads/2026/02/Screen-Shot-2026-02-13-at-10.46.19-AM.png" group-title="CH AUTO RESO Piala Dunia 🏆",tvg-logo="https://cdn.manilastandard.net/wp-content/uploads/2026/02/Screen-Shot-2026-02-13-at-10.46.19-AM.png" tvg-uid="63fc442a4b5423c6fa4ab6298815b38f",WC TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
