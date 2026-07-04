@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 20:29:31 WIB 04-07-2026
-# 🔄 Total Channels: 6611
+# ⏰ Latest Updated: 20:36:02 WIB 04-07-2026
+# 🔄 Total Channels: 6616
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:29:31 WIB 04-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:36:02 WIB 04-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -21401,6 +21401,18 @@ http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465863.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ATJoWp8_eiI_XOlh1TpoJzxzXCwlctNKSPpnjRNTug&s=10" group-title="CH 4K Piala Dunia 🏆",FUSSBALL.TV 4K/UHD | Beberapa Device Ga Support - pilih channel yang lain
 http://line.ciao-ott.net/live/7VSUAK/S59UJY/1745180.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",03:30 WIB BWF CANADA OPEN 2026 : SF5 | True Sports 7 | Gvision TV
+http://6395online.com:8080/live/Iptv6988/0905692638/391448.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/60hL3Z9M/20260701-051322.jpg" group-title="LIVE EVENT",03:30 WIB LIVE FIFA World Cup(tm) Paraguay VS France Round of 16 7/5 #89 | WCTV PH | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xKwmLc31/20260626-014340-1.gif" group-title="LIVE EVENT",03:30 WIB LIVE FIFA World Cup(tm) Paraguay VS France Round of 16 7/5 #89 | TVRI DIGITAL | Gvision TV
+https://pildun.cob.web.id/hls2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xKwmLc31/20260626-014340-1.gif" group-title="LIVE EVENT",03:30 WIB LIVE FIFA World Cup(tm) Paraguay VS France Round of 16 7/5 #89 | TVRI SPORT DIGITAL | Gvision TV
+https://tvri.cob.web.id/hls2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Canada Open - All Court | Gvision TV
 #EXTVLCOPT:http-referrer=https://pull.jxxgz.top/
 #EXTVLCOPT:http-origin=https://pull.jxxgz.top
@@ -21413,6 +21425,11 @@ https://live1.pro2cdnlive.com/live/channel62.m3u8?wsSecret=064615a27b4272164a0b8
 https://badmintonlive.net/live-stream/live/98ef19a0d5b2f41dcebe2bae359140e6.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Canada Open BWF WORLD TOUR | Court 2 | Gvision TV
 https://badmintonlive.net/live-stream/live/53c3fac0062494b78845c38bf1e1ef7b.flv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzvnZQOk4Snoo1jAtlmp_p1HWzMOMbWZFBdSt7iJFzQQ&s=10" group-title="LIVE EVENT",[Belum Mulai] 04:00 WIB Paraguay vs Perancis
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+http://193.47.62.55/hls/cdTHXCZzsssQ.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.manilastandard.net/wp-content/uploads/2026/02/Screen-Shot-2026-02-13-at-10.46.19-AM.png" group-title="CH AUTO RESO Piala Dunia 🏆",tvg-logo="https://cdn.manilastandard.net/wp-content/uploads/2026/02/Screen-Shot-2026-02-13-at-10.46.19-AM.png" tvg-uid="63fc442a4b5423c6fa4ab6298815b38f",WC TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -21632,7 +21649,7 @@ http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465863.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ATJoWp8_eiI_XOlh1TpoJzxzXCwlctNKSPpnjRNTug&s=10" group-title="CH 4K Piala Dunia 🏆",FUSSBALL.TV 4K/UHD | Beberapa Device Ga Support - pilih channel yang lain
 http://line.ciao-ott.net/live/7VSUAK/S59UJY/1745180.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqYcytww/Screenshot-2026-0525-124513.png" group-title="Berita Olahraga",03:00 WIB Sports Today | Sportstars | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d0nMwQ18/Screenshot-2026-0525-125215.png" group-title="Berita Olahraga",03:30 WIB iNews Sport | Sportstars | Gvision TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
