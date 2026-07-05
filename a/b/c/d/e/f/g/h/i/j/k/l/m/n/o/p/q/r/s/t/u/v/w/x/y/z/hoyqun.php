@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [12:32 WIB 05/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [12:32 WIB 05/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [12:38 WIB 05/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [12:38 WIB 05/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[13:00 WIB 05/07/26] U18 Trung Quốc vs U18 Việt Nam [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[13:00 WIB 05/07/26] U18 Trung Quốc vs U18 Việt Nam [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[13:00 WIB 05/07/26] U18 Trung Quốc vs U18 Việt Nam [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[13:00 WIB 05/07/26] U18 Trung Quốc vs U18 Việt Nam [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[13:00 WIB 05/07/26] U18 Trung Quốc vs U18 Việt Nam [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[13:00 WIB 05/07/26] U18 Trung Quốc vs U18 Việt Nam [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 05/07/26] Xi'an Ronghai vs Shanghai Second [FHD] [NANTIKAN]
