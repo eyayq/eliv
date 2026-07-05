@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:16 WIB 05/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:16 WIB 05/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:22 WIB 05/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:22 WIB 05/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/113.png" group-title="Allsvenskan",[19:00 WIB 05/07/26] IFK Goteborg vs AIK Stockholm [FHD] [LIVE]
