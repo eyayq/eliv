@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [01:55 WIB 06/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:55 WIB 06/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [02:01 WIB 06/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:01 WIB 06/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 ",[21:00 WIB 05/07/26] Auger-Aliassime F. vs Davidovich  [FHD] [LIVE]
@@ -145,6 +145,24 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[19:00 WIB 06/07/26] U18 Hàn Quốc vs U18 Thái Lan [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500",[19:00 WIB 06/07/26] Alex de Mianur - F.Cobolli [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500",[19:00 WIB 06/07/26] Alex de Mianur - F.Cobolli [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500",[19:00 WIB 06/07/26] Alex de Mianur - F.Cobolli [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 ",[19:30 WIB 06/07/26] Jasmine Paolini - Alexandra Eala [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 ",[19:30 WIB 06/07/26] Jasmine Paolini - Alexandra Eala [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 ",[19:30 WIB 06/07/26] Jasmine Paolini - Alexandra Eala [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/365.png" group-title="Virsliga",[23:00 WIB 06/07/26] Super Nova vs Ogre United [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
