@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [23.40 WIB 05/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [23.42 WIB 05/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/serbia-u19-87dcec.webp" group-title="[LIVE 22:00 WIB 05/07/26] Serbia U19 vs Croatia U19 | Server 1",[LIVE 22:00 WIB 05/07/26] Serbia U19 vs Croatia U19 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -290,35 +290,35 @@ https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa28344
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santiago-wanderers-6cf200.png" group-title="[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 5",[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-622093_lsd.m3u8?auth_key=1783272743-0-0-509ba9ea5e7cf0affca0f9e5bc8ff023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-622093_lsd.m3u8?auth_key=1783273103-0-0-f4f79f4e639f9f32185933d7afe0bc59
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santiago-wanderers-6cf200.png" group-title="[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 6",[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1783272743-0-0-6ded279c7784c04085807294769df106
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1783273103-0-0-0516679109fe4f35203a05efd31e0df2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santiago-wanderers-6cf200.png" group-title="[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 7",[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1783272743-0-0-71cc45bd14d8f6f7bdf1af659f4c4624
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=6bb436f9979412b2702c0ac15e091619&txTime=6a4adcdf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santiago-wanderers-6cf200.png" group-title="[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 8",[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1783272743-0-0-af99497940dbabbb33825709b06022c6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=6385af0dc5f3c36c20cbcf2763c76265&txTime=6a4adcdf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santiago-wanderers-6cf200.png" group-title="[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 9",[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=3421155ddda9eb651f2f55fb7c38ba07&txTime=6a4adb77
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1783273103-0-0-0d309551405830ec9a1dfd67658090f3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santiago-wanderers-6cf200.png" group-title="[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 10",[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=804a827d7f6258d75fdd528bfb744caf&txTime=6a4adb77
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1783273103-0-0-908ee47c73993c5aa454444996a49ad3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santiago-wanderers-6cf200.png" group-title="[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 11",[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1783272743-0-0-ec2ebac847b8da1826f1905cce0317e9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1783273103-0-0-47168f18f451595121782cd76146ae09
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santiago-wanderers-6cf200.png" group-title="[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 12",[LIVE 23:30 WIB 05/07/26] Santiago Wanderers vs Universidad de Chile | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1783272743-0-0-85e034b2aa695c7e99759f31ac43d113
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1783273103-0-0-72b7133bb6055d4bcdf927ca84139e0c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jordan-d16d37.webp" group-title="[LIVE 23:30 WIB 05/07/26] Jordan vs Iraq | Server 1",[LIVE 23:30 WIB 05/07/26] Jordan vs Iraq | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1783272743-0-0-9bc7b539f1133766fc0640a550692400
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1783273103-0-0-de5b741d0eef64091b9e7f7612b3d43e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jordan-d16d37.webp" group-title="[LIVE 23:30 WIB 05/07/26] Jordan vs Iraq | Server 2",[LIVE 23:30 WIB 05/07/26] Jordan vs Iraq | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1783272743-0-0-b0266a7ccb90f199fa2ec26db77cd81f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1783273103-0-0-3ae53e307797f288aba9ae6379d2dd31
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 23:30 WIB 05/07/26] Omonia vs H Beer Sheva | Server 1",[LIVE 23:30 WIB 05/07/26] Omonia vs H Beer Sheva | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/HBBB.m3u8
