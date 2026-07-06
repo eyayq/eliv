@@ -1,45 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.42 WIB 07/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.49 WIB 07/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.webp" group-title="[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 1",[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.41/hls/SUUUZ.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.webp" group-title="[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 2",[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1783363022-0-0-a004bbf3c6ba77d304752a92e4c54f2d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.webp" group-title="[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 3",[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1783363022-0-0-76ef4b7b78f8d312633860f3de8bfce8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.webp" group-title="[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 4",[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1783362890-0-0-dabbefd285e2f30c6c4d41600e961c9e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.webp" group-title="[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 5",[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1783362890-0-0-f2477a55300c961590ed1104e28ab940
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.webp" group-title="[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 6",[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1783362936-0-0-8bba82c2c2ea7c80fd7927507081e3a6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.webp" group-title="[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 7",[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1783362936-0-0-4219fc1cd1671cf7d1cd56f923712609
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.webp" group-title="[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 8",[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1783362944-0-0-4c8aa72202b0d46e68cb754d44cabf4f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.webp" group-title="[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 9",[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1783362944-0-0-ffafdd928e8f4389a23cf6da8de94b54
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.webp" group-title="[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 10",[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1783363142-0-0-b6147440933d1852eebfc3569a37c8e4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.webp" group-title="[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 11",[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1783363142-0-0-840ddb51d148b67cdf6db28ac125b9f8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.webp" group-title="[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 12",[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1783363062-0-0-6acaa0a7edc9058116753a5bcd53d433
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.webp" group-title="[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 13",[LIVE 22:45 WIB 06/07/26] Suduva vs Transinvest | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1783363062-0-0-be63e1365725074f1fe704e073bad00d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/turkey-db7717.png" group-title="[LIVE 23:00 WIB 06/07/26] Turkey vs Switzerland | Server 1",[LIVE 23:00 WIB 06/07/26] Turkey vs Switzerland | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1783363478-0-0-8ddad3e8f44fccf03f18a61e411eb630
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/turkey-db7717.png" group-title="[LIVE 23:00 WIB 06/07/26] Turkey vs Switzerland | Server 2",[LIVE 23:00 WIB 06/07/26] Turkey vs Switzerland | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783363478-0-0-af0d305df3540af113b84c5bc67b7ae5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/super-nova-3136f7.png" group-title="[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 1",[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/super-ogre-lathighleague/index.m3u8
@@ -59,47 +26,41 @@ https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/super-nova-3136f7.png" group-title="[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 7",[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1783363103-0-0-82c7c9325bd808ca7a28f8888852aa16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1783363463-0-0-fd1dd9b781fc47a3294d7175f13376ab
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/super-nova-3136f7.png" group-title="[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 8",[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1783363103-0-0-4fc1b7cae37f83dcb10b60917f02e3b4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1783363463-0-0-09e5f10df426de84cc74caba63d16b5b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/super-nova-3136f7.png" group-title="[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 9",[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1783363103-0-0-e813f30a29c30fdcac851385205ee7b0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1783363463-0-0-bba45699677cbfaf28e47fbd840be1f6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/super-nova-3136f7.png" group-title="[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 10",[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1783363103-0-0-8902859718b64d7d8563dd7514e98d81
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1783363463-0-0-f86f680d60b7c1ac017a43b04cfc23fa
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/super-nova-3136f7.png" group-title="[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 11",[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1783363103-0-0-5f25e239e364489eca8a28e6f6d20de2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1783363463-0-0-89ca0f189665cbb8316183fc5365ecad
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/super-nova-3136f7.png" group-title="[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 12",[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1783363103-0-0-e59ae1119a16df3ea7a33effd296ab4f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1783363463-0-0-7ead419e99fe8778eff8694f046dec94
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/super-nova-3136f7.png" group-title="[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 13",[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-622093_lsd.m3u8?auth_key=1783363103-0-0-8e1ecda9964b2b6511cb4de1f5d68f72
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-622093_lsd.m3u8?auth_key=1783363463-0-0-c39e442b05f698cbc0e7dae83fc990c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/super-nova-3136f7.png" group-title="[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 14",[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1783363103-0-0-37c01a7c27a074d234c126d5c2eaff70
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1783363463-0-0-a53def6ced2e97136af5793a06ed0240
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/super-nova-3136f7.png" group-title="[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 15",[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1783363103-0-0-d13124ae72f43bb44307c44780b4e223
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1783363463-0-0-4992d9b323f75623e495c14397f0218b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/super-nova-3136f7.png" group-title="[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 16",[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1783363103-0-0-d5e6c54d53802ff513bef42fd36ade4a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1783363463-0-0-629d1c01e19e208f864ed47a00ddb82e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/super-nova-3136f7.png" group-title="[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 17",[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-606448_lsd.m3u8?txSecret=bd4bb4ba141656ade128bfac4a0b62b5&txTime=6a4c3c6f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-606448_lsd.m3u8?txSecret=5b446051160e6bb83d1887e2c84fd963&txTime=6a4c3dd7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/super-nova-3136f7.png" group-title="[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 18",[LIVE 23:00 WIB 06/07/26] Super Nova vs Ogre United | Server 18 (SVR-BHNS 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-606448_lhd.m3u8?txSecret=38700cf372006bd58ae136a3920d30ed&txTime=6a4c3c6f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/turkey-db7717.png" group-title="[LIVE 23:00 WIB 06/07/26] Turkey vs Switzerland | Server 1",[LIVE 23:00 WIB 06/07/26] Turkey vs Switzerland | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1783363103-0-0-d84379be3cd6a09b2ae580898e4196b2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/turkey-db7717.png" group-title="[LIVE 23:00 WIB 06/07/26] Turkey vs Switzerland | Server 2",[LIVE 23:00 WIB 06/07/26] Turkey vs Switzerland | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783363103-0-0-517aaa3db3eb9e8a4a4a8029a30b4712
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-606448_lhd.m3u8?txSecret=10a881b022df52e617c7bc6844dbf7c2&txTime=6a4c3dd7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brommapojkarna-2b37d8.webp" group-title="[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 1",[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/brom-gais-sweall/index.m3u8
@@ -119,47 +80,41 @@ https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brommapojkarna-2b37d8.webp" group-title="[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 7",[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=83955fd4f4e463e25f2ccbb539b6f750&txTime=6a4c3c6f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1783363463-0-0-83f8a258d6ce52a388af9e4697a5f371
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brommapojkarna-2b37d8.webp" group-title="[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 8",[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=7b116c73e8c4e1b4aa1d0d05a58e15ca&txTime=6a4c3c6f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1783363463-0-0-ae84af2ffe8f12129d7dc2cbe4fcdda4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brommapojkarna-2b37d8.webp" group-title="[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 9",[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1783363103-0-0-20c47e70662ab60c3e33883aac247809
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=3945bd83564e88856fd8b57ebe9f0eb3&txTime=6a4c3dd7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brommapojkarna-2b37d8.webp" group-title="[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 10",[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1783363103-0-0-fcaf9cbc51340d41bfd2c7d067049875
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=cf2686435aa8c6153a4a4acc15030acc&txTime=6a4c3dd7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brommapojkarna-2b37d8.webp" group-title="[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 11",[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1783363103-0-0-be7464f24338f936dd926a4c306883b9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1783363463-0-0-74ed3f2140e329359760fa1a6b78cf63
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brommapojkarna-2b37d8.webp" group-title="[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 12",[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1783363103-0-0-75917cf36ed00df976bd732bc5369225
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1783363463-0-0-ac5927fcd7f1f57213c38d678ebee10a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brommapojkarna-2b37d8.webp" group-title="[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 13",[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1783363103-0-0-dc51980fa2aa5c2693068fd60cda7035
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1783363463-0-0-23acd36f714cf78864991144f137497c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brommapojkarna-2b37d8.webp" group-title="[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 14",[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1783363103-0-0-66ee9b910e32d13c8735c8a84f71b74f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1783363463-0-0-ca86d6505d593921b55d659db7c34952
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brommapojkarna-2b37d8.webp" group-title="[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 15",[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1783363103-0-0-9ab0f85be2acd96279ab6d55aab120ff
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1783363463-0-0-0b7d7802cd9c67d2351c8408664564e2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brommapojkarna-2b37d8.webp" group-title="[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 16",[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1783363103-0-0-fc99bd862576c56a02ae114458f92354
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1783363463-0-0-574119a8f9e8932e6bca9eb674091540
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brommapojkarna-2b37d8.webp" group-title="[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 17",[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1783363103-0-0-4683009fd8069d3c46a3b09acdbdddf9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1783363463-0-0-0cdc5769f26f0302e6545446d4f7360d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brommapojkarna-2b37d8.webp" group-title="[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 18",[LIVE 00:00 WIB 07/07/26] Brommapojkarna vs GAIS | Server 18 (SVR-BHNS 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1783363103-0-0-179fb4a7d8e27eafd98907b454375d82
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 07/07/26] Germany vs Cyprus | Server 1",[LIVE 00:00 WIB 07/07/26] Germany vs Cyprus | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1783363103-0-0-442302d677c4d54eca477480c37875b9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 07/07/26] Germany vs Cyprus | Server 2",[LIVE 00:00 WIB 07/07/26] Germany vs Cyprus | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1783363103-0-0-8fce5545b6b311f41347deb0decad416
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1783363463-0-0-f7304f70c101e535904aeb7a4abc54f8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 1",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/hack-djur-sweall/index.m3u8
@@ -168,46 +123,52 @@ https://hls.lauthaitv.cc/live/hack-djur-sweall/index.m3u8
 https://flv.lauthaitv.cc/live/hack-djur-sweall.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 3",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 4",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 5",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1783363103-0-0-b952e70ae6aa51f67cdfcc22341fd97f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1783363463-0-0-6ca614cb22369eca560e3a2fa1fe26a9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 6",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1783363103-0-0-5f60b259ea929b4edc7dd8d13cb30f69
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1783363463-0-0-02b23b3f477447aea0ad1484877b5729
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 7",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1783363103-0-0-50dc9f0468674314e1e686799057dab4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1783363463-0-0-0adfe8d376c79aa9c652bd8fda8c61bf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 8",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1783363103-0-0-a1e288536b5563291240d84082a10ddd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1783363463-0-0-3606cda8f6af57e028ae645c5d5235f8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 9",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1783363103-0-0-fbd52f69d829150d31e7b460fecba749
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1783363463-0-0-c5251976af44a8b85d03a4fbcc377d87
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 10",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1783363103-0-0-70ab9eb6915854ad4a28568f5bbedc46
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1783363463-0-0-63e98b25cfd852e17c41c0cc59868da7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 11",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1783363103-0-0-076047fa5f2d110190f2af6ca5f5d7a0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1783363463-0-0-1eb1340938feb7cdb6f2af54850443a9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 12",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1783363103-0-0-80375c3cd2ef4a4ce64098d51cd49c1d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1783363463-0-0-fa40e316f14417ac1f75a72af8d8295b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 13",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=bd96caabd6d705de48187ff5e9cff6de&txTime=6a4c3c21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1783363463-0-0-5003bf58fb0c5c0d7f09ef1ae6638908
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 14",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=cb38f15a7f38831d70509dd0e81d44e4&txTime=6a4c3c21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1783363463-0-0-c89d23767d2684d9b47f11719996efdf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 15",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1783363103-0-0-47dc570c929bd3453ca92985e9073e71
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=58720296c6207233ba192f44ca992db4&txTime=6a4c3ddd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hacken-8faaca.png" group-title="[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 16",[LIVE 00:00 WIB 07/07/26] Hacken vs Djurgardens | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1783363103-0-0-04553f9836dc3ac7ca9f51ab70b55ded
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=c409869783e5c984da53ffb518f9fbeb&txTime=6a4c3ddd
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 07/07/26] Germany vs Cyprus | Server 1",[LIVE 00:00 WIB 07/07/26] Germany vs Cyprus | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1783363463-0-0-2a58d9b120d84a760a390a631367afac
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 07/07/26] Germany vs Cyprus | Server 2",[LIVE 00:00 WIB 07/07/26] Germany vs Cyprus | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1783363463-0-0-d26411e90a6ed778e4c6324bc3052999
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 07/07/26] Hacken vs Djurgarden | Server 1",[LIVE 01:00 WIB 07/07/26] Hacken vs Djurgarden | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/SUUUZQQQ.m3u8
