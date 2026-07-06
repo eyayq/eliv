@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Mon Jul  6 21:54:06 2026
+# Generated Mon Jul  6 21:55:06 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 07-07-2026 04:54:00 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 07-07-2026 04:54:34 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 LigaPro Serie A  📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0e046e806bd54b6ea05db95101f07401.png",📁😈CD Universidad Católica😈 [🆚] 😈Mushuc Runa [LIVE]😈📁
 https://tv.streamhy.com/live/5006866.m3u8?expire=1783387387&sign=d9182f91c5851e16475a744c90b86c27
