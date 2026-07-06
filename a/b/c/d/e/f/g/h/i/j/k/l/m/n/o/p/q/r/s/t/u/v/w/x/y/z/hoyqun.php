@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [09:33 WIB 06/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [09:33 WIB 06/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [09:39 WIB 06/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [09:39 WIB 06/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 06/07/26] Mexico vs England [FHD] [LIVE]
@@ -20,22 +20,22 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 06/07/26] Mexico vs England [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/489.png" group-title="USL League One",[10:00 WIB 06/07/26] Alta vs Charlotte Independence [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/489.png" group-title="USL League One",[10:00 WIB 06/07/26] Alta vs Charlotte Independence [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/489.png" group-title="USL League One",[10:00 WIB 06/07/26] Alta vs Charlotte Independence [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/489.png" group-title="USL League One",[10:00 WIB 06/07/26] Alta vs Charlotte Independence [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/489.png" group-title="USL League One",[10:00 WIB 06/07/26] Alta vs Charlotte Independence [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/489.png" group-title="USL League One",[10:00 WIB 06/07/26] Alta vs Charlotte Independence [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[10:00 WIB 06/07/26] U18 Việt Nam - U18 Mông Cổ	U18 Châu Á [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[10:00 WIB 06/07/26] U18 Việt Nam - U18 Mông Cổ	U18 Châu Á [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[10:00 WIB 06/07/26] U18 Việt Nam - U18 Mông Cổ	U18 Châu Á [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[10:00 WIB 06/07/26] U18 Việt Nam - U18 Mông Cổ	U18 Châu Á [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[10:00 WIB 06/07/26] U18 Việt Nam - U18 Mông Cổ	U18 Châu Á [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[10:00 WIB 06/07/26] U18 Việt Nam - U18 Mông Cổ	U18 Châu Á [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[11:00 WIB 06/07/26] Ulaanbaatar vs Deren [FHD] [NANTIKAN]
