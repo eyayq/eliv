@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [23:32 WIB 07/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:32 WIB 07/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [23:39 WIB 07/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:39 WIB 07/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 ",[21:30 WIB 07/07/26] Auger-Aliassime F. vs Djokovic [FHD] [LIVE]
@@ -47,22 +47,22 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[23:00 WIB 07/07/26] Argentina vs Egypt [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[00:00 WIB 08/07/26] Vardar Skopje vs KuPS [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[00:00 WIB 08/07/26] Vardar Skopje vs KuPS [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[00:00 WIB 08/07/26] Vardar Skopje vs KuPS [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[00:00 WIB 08/07/26] Vardar Skopje vs KuPS [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[00:00 WIB 08/07/26] Vardar Skopje vs KuPS [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[00:00 WIB 08/07/26] Vardar Skopje vs KuPS [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://havilahlabel.com/wp-content/uploads/truc-tiep/logos/football/team/922160cd42afdfdd1d589c027c0c85a6.webp" group-title="Hạng 2 Trung Quốc",[00:00 WIB 08/07/26] dd [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://havilahlabel.com/wp-content/uploads/truc-tiep/logos/football/team/922160cd42afdfdd1d589c027c0c85a6.webp" group-title="Hạng 2 Trung Quốc",[00:00 WIB 08/07/26] dd [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://havilahlabel.com/wp-content/uploads/truc-tiep/logos/football/team/922160cd42afdfdd1d589c027c0c85a6.webp" group-title="Hạng 2 Trung Quốc",[00:00 WIB 08/07/26] dd [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://havilahlabel.com/wp-content/uploads/truc-tiep/logos/football/team/922160cd42afdfdd1d589c027c0c85a6.webp" group-title="Hạng 2 Trung Quốc",[00:00 WIB 08/07/26] dd [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://havilahlabel.com/wp-content/uploads/truc-tiep/logos/football/team/922160cd42afdfdd1d589c027c0c85a6.webp" group-title="Hạng 2 Trung Quốc",[00:00 WIB 08/07/26] dd [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://havilahlabel.com/wp-content/uploads/truc-tiep/logos/football/team/922160cd42afdfdd1d589c027c0c85a6.webp" group-title="Hạng 2 Trung Quốc",[00:00 WIB 08/07/26] dd [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[01:30 WIB 08/07/26] Borac Banja Luka vs Levski Sofia [FHD] [NANTIKAN]
