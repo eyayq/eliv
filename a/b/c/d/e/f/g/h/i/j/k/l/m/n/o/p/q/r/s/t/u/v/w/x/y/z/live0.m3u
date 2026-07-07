@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 20:25:05 WIB 07-07-2026
-# 🔄 Total Channels: 6145
+# ⏰ Latest Updated: 20:25:30 WIB 07-07-2026
+# 🔄 Total Channels: 6148
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:25:05 WIB 07-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:25:30 WIB 07-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -19927,8 +19927,17 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/60hL3Z9M/20260701-051322.jpg" group-title="LIVE EVENT",03:00 WIB Switzerland vs Colombia | World Cup | Gvision TV
-https://api-football.ufalive169.net/play.m3u8?id=ce9d7e2e-f491-4759-af1c-3766314ca995
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FxKwmLc31%2F20260626-014340-1.gif&w=400&h=300&fit=contain&bg=white" group-title="LIVE EVENT",03:00 WIB SWITZERLAND VS COLOMBIA | World Cup | Gvision TV
+http://gvisiontv.channell.my.id/event/event1/stream.php/.m3u8?id=4374250
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/bolakami-5adec.firebasestorage.app/o/images%2Fed8911cd-7c9e-4bfa-ab84-388f05a1ae2c.jpg?alt=media&token=d051b5af-9c50-4c89-b97c-6eeb2c270ffd" group-title="LIVE EVENT",03:00 WIB Switzerland vs Colombia | FIFA World Cup | Gvision TV
+https://play.666666.zip/live/4459807.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/60hL3Z9M/20260701-051322.jpg" group-title="LIVE EVENT",03:00 WIB Switzerland vs Colombia | World - FIFA World Cup 2026 | Gvision TV
+https://live22.yei7784.xyz/npo1nl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzvnZQOk4Snoo1jAtlmp_p1HWzMOMbWZFBdSt7iJFzQQ&s=10" group-title="LIVE EVENT",03:00 WIB Swiss vs Kolombia
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+http://193.47.62.47/hls/QJMMMCZzsssQ.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2200.png&scale=crop&cquality=40&location=origin&w=500&h=500" group-title="live event: fawa",[AFC Champions League] Germany U19 W vs Austria U19 W Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
