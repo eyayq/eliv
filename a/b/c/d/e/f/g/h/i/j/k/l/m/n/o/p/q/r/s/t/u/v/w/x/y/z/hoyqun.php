@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:38 WIB 07/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:38 WIB 07/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [18:44 WIB 07/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:44 WIB 07/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTozZIASRs4w8dOYOBoIjuI6wtzqTSxCwrI2g&s" group-title="WK-League",[17:00 WIB 07/07/26] Hwacheon KSPO W vs Suwon FMC W [FHD] [LIVE]
@@ -11,22 +11,22 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTozZIASRs4w8dOYOBoIjuI6wtzqTSxCwrI2g&s" group-title="WK-League",[17:00 WIB 07/07/26] Hwacheon KSPO W vs Suwon FMC W [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 07/07/26] Drukpa vs Thimphu [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 07/07/26] Drukpa vs Thimphu [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 07/07/26] Drukpa vs Thimphu [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 07/07/26] Drukpa vs Thimphu [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 07/07/26] Drukpa vs Thimphu [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 07/07/26] Drukpa vs Thimphu [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[19:00 WIB 07/07/26] U18 Hàn Quốc vs U18 Trung Quốc [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[19:00 WIB 07/07/26] U18 Hàn Quốc vs U18 Trung Quốc [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[19:00 WIB 07/07/26] U18 Hàn Quốc vs U18 Trung Quốc [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[19:00 WIB 07/07/26] U18 Hàn Quốc vs U18 Trung Quốc [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[19:00 WIB 07/07/26] U18 Hàn Quốc vs U18 Trung Quốc [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png" group-title="U18 Châu Á",[19:00 WIB 07/07/26] U18 Hàn Quốc vs U18 Trung Quốc [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 ",[19:00 WIB 07/07/26] Kostyuk - Paolini [FHD] [NANTIKAN]
