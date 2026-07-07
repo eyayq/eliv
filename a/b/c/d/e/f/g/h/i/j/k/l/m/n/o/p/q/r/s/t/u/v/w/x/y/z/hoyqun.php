@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:33 WIB 07/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:33 WIB 07/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [18:38 WIB 07/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:38 WIB 07/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTozZIASRs4w8dOYOBoIjuI6wtzqTSxCwrI2g&s" group-title="WK-League",[17:00 WIB 07/07/26] Hwacheon KSPO W vs Suwon FMC W [FHD] [LIVE]
