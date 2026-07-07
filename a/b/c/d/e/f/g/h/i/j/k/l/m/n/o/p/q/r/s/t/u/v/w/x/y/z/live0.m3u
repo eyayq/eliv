@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 21:38:51 WIB 07-07-2026
-# 🔄 Total Channels: 6066
+# ⏰ Latest Updated: 21:45:03 WIB 07-07-2026
+# 🔄 Total Channels: 6068
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [21:38:51 WIB 07-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [21:45:03 WIB 07-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -202,16 +202,6 @@ https://edgestream2.pro/hls/dzjhkfazbka26.m3u8?st=_7mHppRr0bOicDd-x7OJUtt7aoT7BG
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://edgestream1.pro/hls/dazhfiach15.m3u8?st=gle8lGz2Gam7BZx9rQoz_lEd7ebPMaYBZW-MaPPrhVc&e=1783470117
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Milwaukee Brewers vs St. Louis Cardinals (Not Nguyen)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport1%2B%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport1%2B%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccafa/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWZhOjE3ODM0NjE2MzE0ODI6Y2RubGl2ZXR2LnR2OmFhYTNhNmFlYzFhMmJhZGIuMTIxMzQ4OTY1Y2M4MDk1MGVlYzFlODdmZTVlMGYxNDY3ZTI0NzRmMTUzOTljZDViNWU5Njc3ZTU1Y2EyNjJmOA
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] St. Louis Cardinals - Milwaukee Brewers (Not Nguyen)
-#EXTVLCOPT:http-referrer=https://exposestrat.com
-#EXTVLCOPT:http-origin=https://exposestrat.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn13.zohanayaan.com:1686/hls/mstlouiscardinals.m3u8?md5=0TWpqWK-yubk8Z10l9cvag&expires=1783459866
 #EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/StLouisCardinals.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [01:15 WIB 08/07/2026] [MLB] St. Louis Cardinals - Milwaukee Brewers
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
@@ -219,18 +209,31 @@ https://cdn13.zohanayaan.com:1686/hls/mstlouiscardinals.m3u8?md5=0TWpqWK-yubk8Z1
 https://cdn3.zohanayaan.com:1686/hls/mstlouiscardinals.m3u8?md5=Fv2dIsUnI9r0m5PibhPcGw&expires=1783451757
 #EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/StLouisCardinals.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING] [06:45 WIB 08/07/2026] [MLB] St. Louis Cardinals - Milwaukee Brewers
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/BaltimoreOrioles.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING] [05:35 WIB 08/07/2026] [MLB] Baltimore Orioles - Chicago Cubs
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/BaltimoreOrioles.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [05:35 WIB 08/07/2026] [MLB] Baltimore Orioles - Chicago Cubs
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn12.zohanayaan.com:1686/hls/mbaltimoreorioles.m3u8?md5=WQqBCxgaW36OEsaltpkpsA&expires=1783467354
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[05:35 WIB] [MLB] Baltimore Orioles vs Chicago Cubs (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.42/hls/JEEE.m3u8
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/c95d5521911fff98aba625b81585bd65-thumbnail.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ PRE-SHOW 05:35 WIB] [MLB] Chicago Cubs vs. Baltimore Orioles (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://damitv.app/
+#EXTVLCOPT:http-origin=https://damitv.app
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv.ahmadadityaberdikari.workers.dev/play/mlb/2026-07-07/chc-bal.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[05:35 WIB] [Baseball] Chicago Cubs at Baltimore Orioles (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?st=v9HxqDZzNCgbauwEIvABanboJYNASOsDnHg-VEIeVeI&e=1783470115
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/d0454c160a03478ca78ce1b0fdcfeed9-thumbnail.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ PRE-SHOW 05:40 WIB] [MLB] Athletics vs. Detroit Tigers (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://damitv.app/
+#EXTVLCOPT:http-origin=https://damitv.app
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv.ahmadadityaberdikari.workers.dev/play/mlb/2026-07-07/ath-det.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[05:40 WIB] [Baseball] Athletics Athletics at Detroit Tigers (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
@@ -307,7 +310,7 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001783459856-0-0-f87dfb598c25ddb12e02dec1869f0b7f
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001783460163-0-0-e8b09efe5e35c1a397c8883d97b9e4e2
 #EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/MemphisGrizzlies.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING] [06:00 WIB 08/07/2026] [NBA SUMMER] Memphis Grizzlies - Atlanta Hawks
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/CincinnatiReds.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING] [06:10 WIB 08/07/2026] [MLB] Cincinnati Reds - Philadelphia Phillies
@@ -503,7 +506,9 @@ https://streamvididi.bonetvkoe.web.id/index.mpd?q=21703&ext=dash&x=1783470539&k=
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F148.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.vidio.com%2F
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=206&ext=dash&x=1783470693&k=18f27f5d01edb20fd425a3394afd8c21f875fbadad36708b4f71b9affac175fb&sc=206
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=206&ext=drm&x=1783471131&k=b578bc50b2e25403073d5332ba9d36ab9b0ec7c78d28c5dbf20ec649ca1a6d3a
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=206&ext=dash&x=1783471131&k=d4fbf570fa7bc30fa917cb4faa64b96d25d695a7e9749fd83c60d5460349e0f2&sc=206
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8pChFEyS/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 09:35 WIB | TGL 08/07] Turkiye v Poland | Week 3 | Women's VNL 2026
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RfBpOZzw/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 10:05 WIB | TGL 08/07] Belgium v Dominican Republic | Week 3 | Women's VNL 2026
@@ -528,17 +533,17 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=7cedd4f5a3a4608d2b6838c43f63fb30&wsABSTime=1783503129
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=0c0f3f8967d75ebfa08ba05662825f59&wsABSTime=1783503564
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/vjxm8lhkdkvq6od/image/small" group-title="LIVE EVENT | VOLI 🏐",[ LIVE] 01:00 WIB 08/07 - TAY BAN NHA U18 VS CH SEC U18 [EUR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=29b7f71ef54f3cfcfc01038520fbc9f7&wsABSTime=1783503129
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=25f71a7ce52062d65b3488fdcf5ff041&wsABSTime=1783503565
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/1l4rjdh0ylpr7vx/image/small" group-title="LIVE EVENT | VOLI 🏐",[ LIVE] 04:00 WIB 08/07 - NU CANADA U21 VS NU MEXICO U21 [PAN]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=9d0635d04ed285aa8fbc368a6f16a24b&wsABSTime=1783503130
+https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=0a13e66c8afbc19046daef42333f6ca7&wsABSTime=1783503565
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/l965mkdh6kyr1ge/image/small" group-title="LIVE EVENT | VOLI 🏐",16:00 WIB 09/07 - NU BI VS NU CANADA [NAT]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/v2y8m4whkdgql07/image/small" group-title="LIVE EVENT | VOLI 🏐",16:30 WIB 09/07 - NU THO NHI KY U18 VS NU ITALY U18 [EUR]
@@ -755,102 +760,108 @@ https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/W08g9zS7QaGtPMErcsZ81Va_dKc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6412/euronews-795a60.jpg" group-title="INDONESIA TV", LIVE 00:00 WIB (03/01) - The European debrief
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6412&ext=hls&x=1783470693&k=e3b38be1431de1ac799f0134ed041037c59a7c7aa3f35a387576263981522af7&sc=6412
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6412&ext=hls&x=1783471131&k=d0c2c981727ccc0d83d68a94eff027e4c5bfeb4827135e48ab4e9cec57d6ef01&sc=6412
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="INDONESIA TV", LIVE 12:00 WIB (04/02) - MUSICA
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7619&ext=hls&x=1783470693&k=9ea87b3e45797f1750ac4282ae72a28700220c43ba1129294128a1f2f7358183&sc=7619
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7619&ext=hls&x=1783471131&k=036ee66e04cf341b856b5ebb749dc4fd82edd57ba69c43b458783a4a35f8e33f&sc=7619
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="INDONESIA TV", LIVE 12:00 WIB (22/02) - Gugak The Music Of Korea
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6784&ext=hls&x=1783470693&k=5e29919696556bde921761956b012aadd893e1467010b47645b63c5529ca0a90&sc=6784
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6784&ext=hls&x=1783471131&k=eb853a99206f55615873d46385134592e16a9c5d93d765d2c9b3bc02ef3a4106&sc=6784
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uyQ4DSnHtTWmJQD9OTs5liQDeBs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="INDONESIA TV", LIVE 19:00 WIB (22/03) - Makkah TV
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6852&ext=hls&x=1783470693&k=58234ac1b165bca223629fb1bbbbfdb1de00f5dce6470ca9e9d9a908a7507676&sc=6852
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6852&ext=hls&x=1783471131&k=88c39b6dbf8ee8dbaec77c71cd4a55b3a1fb60b7c476b358b9e678e86cd256dd&sc=6852
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cqM8vf1xK3YG5E3XF4DiuQ6LxR0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg" group-title="INDONESIA TV", LIVE 22:33 WIB (09/04) - U-Channel TV
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6898&ext=hls&x=1783470693&k=a5637d6a81350f8641a7a03e68bfab3db3060e4d99c7396de74c32f1978c2ddb&sc=6898
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6898&ext=hls&x=1783471131&k=969d1074214cf9473f4750bab7e87b58e5a8cecac58fa9ff4769fc8c3cfca7af&sc=6898
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="INDONESIA TV",DAAI TV
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6482&ext=hls&x=1783470693&k=26bf3b7b6a8539acb454c6259ec24c987d03e056249c6abf2157684035ad17b2&sc=6482
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6482&ext=hls&x=1783471131&k=266522a940b9fbc84eb44dd088eb4dea29df37c5f40358ac393e343ccf03c955&sc=6482
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/js-wGeyru_2IwlapPABOq8fi2sA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="INDONESIA TV", LIVE 12:00 WIB (17/07) - Magna TV
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7230&ext=hls&x=1783470693&k=83cda76a45ed810cf5e2544484028b3dc30102adf06464f60b9d03566eb5ae3a&sc=7230
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7230&ext=hls&x=1783471131&k=16eca8071a9f3ea220e0ca83daf71cdfee0eb948a6de6434d759f716859b74c5&sc=7230
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/c_718cCh2RH2UIUd4C3juKKZ9Wc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12607/dmi-tv-8f4cb7.jpg" group-title="INDONESIA TV", LIVE 14:00 WIB (05/05) - DMI TV
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=12607&ext=hls&x=1783470693&k=7ddabf99c54ce255e5238180b5a85815cf8e6db212c611e59eb75c6eb71a0e6d&sc=12607
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=12607&ext=hls&x=1783471131&k=20161eaf219a1e1618cc1fa7e6fdf81a9fe55a2f1ce3214c031a5c37897d4b08&sc=12607
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i_FKiCjf7lWJtJy8QqSg6bvb7Qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12784/africanews-d41bbb.jpg" group-title="INDONESIA TV", LIVE 11:00 WIB (18/05) - News
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=12784&ext=hls&x=1783470693&k=3644d73e39fb1ecc10465be9b6dc9933804b743561af3e8e7fbcc6b0c474e541&sc=12784
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=12784&ext=hls&x=1783471131&k=f80b68fb7b9aae19d431603c7df94f72f8faf847f39f9c63a3a5da75d85dc044&sc=12784
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ylbaeruDsVWau2s0PNo5jyEL9XE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg" group-title="INDONESIA TV", LIVE 19:00 WIB (25/06) - News Breakfast - Episode 135
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7150&ext=hls&x=1783470693&k=8f1909dc05031dd1a88ab7030ce432017350b36babfbf7ca7cd1bb88f0ab0cb3&sc=7150
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7150&ext=hls&x=1783471131&k=f650dd4a092b3a361b61e7a0b759dfdb8cde5166c744fbdbb8ccf32a444ffb55&sc=7150
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-fJcdGieHvetPDosR_ZwDD-YE5M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="INDONESIA TV", LIVE 09:00 WIB (08/07) - Islam Penuh Cinta
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=19046&ext=hls&x=1783470693&k=1a56dd93dd6f613138ba64c7f93f14ab528b624299c796b13724a296990e2862&sc=19046
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=19046&ext=hls&x=1783471131&k=685601311b7527bde2acde3c4af391a83a9b8ed5274a53528caf6825b67195b6&sc=19046
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nBRneLipjed0tzgVoHIft83fOYk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6411/news-asia-31d4e8.jpg" group-title="INDONESIA TV", LIVE 00:00 WIB (07/09) - This Way Up
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6411&ext=hls&x=1783470693&k=d0fa2e6a2f466729d537953b97063de0a2028011e2d1b0a7d9d3ba74c831deb7&sc=6411
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6411&ext=hls&x=1783471131&k=3d9304f37fef676259786e851194d929a595a6efe93299a61c6dfe1a0b6e09fe&sc=6411
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dqu2d5vovPKc448pBIc6ihswPTU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg" group-title="INDONESIA TV", LIVE 14:33 WIB (30/11) - Dive In Tokyo
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7968&ext=hls&x=1783470693&k=fae617823f66f30e9c640bfb596b55c5c09f5d3e1c87f2bfc6fc44b549773bf6&sc=7968
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7968&ext=hls&x=1783471131&k=280fca308c01f3120c022b85d31591ee7ad692ecc82e9f2fa29e661679434741&sc=7968
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="INDONESIA TV",Live Adzan Dan Sholat Subuh
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=tv-android%2F2.57.14%20(862)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=7464&ext=drm&x=1783470693&k=98416c26fab5cfb9605c0a05e82b8d7cab3d2464bf2daba8de9e970588fd84a1
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=7464&ext=dash&x=1783470693&k=d9e4baeb49486a20a66d7d41a0071702e4c3ae43d4d976ea0baea32f7e61e671&sc=7464
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=7464&ext=drm&x=1783471131&k=5fd9a41a9c27ac1a5d4794266769fb99552e20e12f84346d00b0d9ef6473e836
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=7464&ext=dash&x=1783471131&k=33796dfd026fc3b9d5ccf52b08f1720018ef57efa02f99060db79007c320913c&sc=7464
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="INDONESIA TV",INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F148.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.vidio.com%2F
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=1783470693&k=7521c1d9a1f7011bee0fde244d485172746c65dad27d8c5393b0d64cd814d905&sc=205
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=drm&x=1783471131&k=3d14820b4d17dfeecb483bfc73205ae179461d353c1359f2989614fdebc10411
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=1783471131&k=8ec1a6053e24ec40def91e0602992fa0745bf590ffaf190c750319def17d4abf&sc=205
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="INDONESIA TV",Jaktv
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=5415&ext=hls&x=1783470693&k=7a7c76e09b46d2de6e794d3b868d07f7d7653923a8aaf1f47da022e8f8d4405b&sc=5415
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=5415&ext=hls&x=1783471131&k=49bd05c13b91388abecc4e6821a044a856b3610dff05ad1159a38c79bbd60514&sc=5415
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="INDONESIA TV",Kampung Geulis
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=18162&ext=hls&x=1783470693&k=42ae63d829ea6dc0f122275f2a05e033573507dce8c9747e830dd92b861fc75a&sc=18162
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=18162&ext=hls&x=1783471131&k=e8811b82d773ddcc16ed6863f6d69179cdf8a291dd4bdc7579dd85419e66061a&sc=18162
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg" group-title="INDONESIA TV",Kompas Pagi
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=874&ext=hls&x=1783470693&k=19898669636cd224bf2d833a0a50de08b2e9b76df72b23254dd2eb70e628a6bb&sc=874
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=874&ext=hls&x=1783471131&k=dd10896c22a09075ed6be6f7cc805d25ce1d45817be3495200bf5577f658e57f&sc=874
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NtYMeVNZhPNyxZukYP38ohlF988=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg" group-title="INDONESIA TV",Mentari TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=tv-android%2F2.57.14%20(862)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=8237&ext=drm&x=1783470693&k=be476e9e460d03cb82021aaa4d8418bfa861d89e9c5d24992c39cb1d91d9dd1c
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=8237&ext=dash&x=1783470693&k=928b36b3491220b9d2c591b2773ae0a16e1267b2e8f84bfeb1899746b81ff9ad&sc=9884
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=8237&ext=drm&x=1783471131&k=7aa470d2e824c3c7e07704db8853ad0b603ba6537d01181b52ec3a25bcdbc1b2
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=8237&ext=dash&x=1783471131&k=fd3b187635d9407f79085a34840aad1a94780e68f1a9654e4ebd82058e0376f2&sc=50985
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg" group-title="INDONESIA TV",Metro Xinwen
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=777&ext=hls&x=1783470693&k=7c0ecab6c9eab4ae86b6061d261891fb0f7f2d9d5d0fd1410041ac75bd7d91cd&sc=777
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=777&ext=hls&x=1783471131&k=f546c66fffc09458acac3357834f7d8cd40cff9f24a4d34d92aa485eb858294c&sc=777
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" group-title="INDONESIA TV",MOJI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F148.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.vidio.com%2F
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=206&ext=dash&x=1783470693&k=18f27f5d01edb20fd425a3394afd8c21f875fbadad36708b4f71b9affac175fb&sc=206
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=206&ext=drm&x=1783471131&k=b578bc50b2e25403073d5332ba9d36ab9b0ec7c78d28c5dbf20ec649ca1a6d3a
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=206&ext=dash&x=1783471131&k=d4fbf570fa7bc30fa917cb4faa64b96d25d695a7e9749fd83c60d5460349e0f2&sc=206
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="INDONESIA TV",New Jelajah Masjid Nusantara
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=9714&ext=hls&x=1783470693&k=50df91f7060083597fe8e7c12f39cd45803c37395496cf96c6203b7d67ae9643&sc=9714
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=9714&ext=hls&x=1783471131&k=ec227953aded3893b705cb1d17b8be60d785e8852e220409e306395a3dd9b075&sc=9714
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="INDONESIA TV",NTV Prime
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7432&ext=hls&x=1783470693&k=27d32918da1ea0b46ace557297f231eac1a2f6ea6ec4a06598d681cf776948c4&sc=7432
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7432&ext=hls&x=1783471131&k=f79069fb553ec529fbbc2beee45f47d2b6f4cc80356bfaef6511faf149813e27&sc=7432
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="INDONESIA TV",Program Kesehatan Blue 99 & Minyak L74
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=9713&ext=hls&x=1783470693&k=e6df53f66b2ecca2fdcb656799967f53566dace019b99686f3a414545374757c&sc=9713
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=9713&ext=hls&x=1783471131&k=c5817a87f26e18bf986b85cc6c0c1c35ecbfe8158e6ad7615fd5af45425f0937&sc=9713
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Xr8AAOVjClvDNr9P3fkGaB9Zn20=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg" group-title="INDONESIA TV",SCTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F148.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.vidio.com%2F
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=dash&x=1783470693&k=3131873ce61eec88bcd4885f29000ab8ff3a753a7754e14fefc9d827dc74b545&sc=204
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=drm&x=1783471131&k=f2c8dba1159aac0474568c92b6d52b1ba385b88f42e8fa1da1ad5337858a9dd0
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=dash&x=1783471131&k=fc9bb5589f41a9d58ab125493e403bd2b5e81f18e8146068fd9f45e5f0f44f58&sc=204
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="INDONESIA TV",Spot On
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=18280&ext=hls&x=1783470693&k=c11bd8fd1149ead2ccbd001653e28ca5a71c088d7e89a580cfb4db01686c3fb0&sc=18280
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=18280&ext=hls&x=1783471131&k=7d4602b745348bc0695b389a58f8166094590aee5b3ec7682018c9c2600c6985&sc=18280
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_BxJeS85VII-ISq9BAZ9MWlAw30=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" group-title="INDONESIA TV",Spot On
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6165&ext=hls&x=1783470693&k=a99f29a486098337a320b3c40c2973d56a07ff95c982ba51e36fbbb22d638fe9&sc=6165
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6165&ext=hls&x=1783471131&k=c07c95391587759442191d75e6f4c9112c38b4e360dc4c73fc0e37a249235b47&sc=6165
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="INDONESIA TV",TVRI Program
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6441&ext=hls&x=1783470693&k=c7b724063cf772d10e1edc899d3c546ab506aaf8476f423d62fa65c3335c35c8&sc=6441
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6441&ext=hls&x=1783471131&k=621a2904143c9abe39b6cafb0e798ee06af1b07f6958b47e1494b8ce48e62371&sc=6441
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bt0yGtw.jpeg" group-title="SPORTS CDN BONE TV",Antena 1 FHD RO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
@@ -4159,22 +4170,22 @@ https://damitv.ahmadadityaberdikari.workers.dev/play/channel/845.m3u8
 https://damitv.ahmadadityaberdikari.workers.dev/play/channel/967.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_2.m3u8?auth_key=1783546159-0-0-9732653a3b75406e8c73c53d3a82fc7f
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_2.m3u8?auth_key=1783546619-0-0-9335fb4144061e7b7f777bac73d91268
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_6.m3u8?auth_key=1783546159-0-0-d46acec2256075bdcdc47bfc3afd6117
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_6.m3u8?auth_key=1783546619-0-0-766e1743b5fb3d3072cf2ac146a7dbd5
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_1.m3u8?auth_key=1783546159-0-0-cb5e78166809bb1b99bf5fc2326d080f
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_1.m3u8?auth_key=1783546619-0-0-db806a221e9d3bb3ad98c69c805cd59e
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_5.m3u8?auth_key=1783546159-0-0-9642d879857c7977208a951010f133ed
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_5.m3u8?auth_key=1783546619-0-0-cfe6f1ecdad9234808b8e6164cf875a1
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH5]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_4.m3u8?auth_key=1783546159-0-0-69af9abd632edcbc8fe54ddd9c33b9c5
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_4.m3u8?auth_key=1783546619-0-0-02a371f9f30c4cb88d87b318f44540f0
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH6]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_3.m3u8?auth_key=1783546159-0-0-17e890b72fcfbc9e45bb8a99f9675095
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_3.m3u8?auth_key=1783546619-0-0-8e779a121cf5f4505b4d18991a1b25ff
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/soccer-ball-logo-png_seeklogo-480250.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE] [03:00 WIB] [SOCCER] Switzerland vs Colombia (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1
 #EXTVLCOPT:http-origin=https://instream.click
@@ -4185,36 +4196,46 @@ https://instreams.pro/US/NFLHD1/index.m3u8
 #EXTVLCOPT:http-origin=https://instream.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://instreams.pro/US/NFLHD2/index.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:31 WIB] [24/7 Streams] 24/7 South Park (Server 1 - Master)
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:38 WIB] [24/7 Streams] 24/7 South Park (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv.ahmadadityaberdikari.workers.dev/play/247-south-park.m3u8
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:31 WIB] [24/7 Streams] 24/7 COWS (Server 1 - Master)
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:38 WIB] [24/7 Streams] 24/7 COWS (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv.ahmadadityaberdikari.workers.dev/play/247-cows.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:31 WIB] [24/7 Streams] 24/7 Family Guy (Server 1 - Master)
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:38 WIB] [24/7 Streams] 24/7 Family Guy (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv.ahmadadityaberdikari.workers.dev/play/247-family-guy.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:31 WIB] [24/7 Streams] 24/7 The Simpsons (Server 1 - Master)
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:38 WIB] [24/7 Streams] 24/7 The Simpsons (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv.ahmadadityaberdikari.workers.dev/play/247-the-simpsons.m3u8
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:31 WIB] [24/7 Streams] Rally TV (Server 1 - Master)
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:38 WIB] [24/7 Streams] Rally TV (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv.ahmadadityaberdikari.workers.dev/play/rally-tv.m3u8
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:31 WIB] [24/7 Streams] 24/7 SpongeBob Squarepants (Server 1 - Master)
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:38 WIB] [24/7 Streams] 24/7 SpongeBob Squarepants (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv.ahmadadityaberdikari.workers.dev/play/247-spongebob-squarepants.m3u8
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/c95d5521911fff98aba625b81585bd65-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ PRE-SHOW 05:35 WIB] [MLB] Chicago Cubs vs. Baltimore Orioles (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://damitv.app/
+#EXTVLCOPT:http-origin=https://damitv.app
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv.ahmadadityaberdikari.workers.dev/play/mlb/2026-07-07/chc-bal.m3u8
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/d0454c160a03478ca78ce1b0fdcfeed9-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ PRE-SHOW 05:40 WIB] [MLB] Athletics vs. Detroit Tigers (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://damitv.app/
+#EXTVLCOPT:http-origin=https://damitv.app
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv.ahmadadityaberdikari.workers.dev/play/mlb/2026-07-07/ath-det.m3u8
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/c1b059915b3f666402973fb87945a8e3-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ PRE-SHOW 05:45 WIB] [MLB] Houston Astros vs. Washington Nationals (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
@@ -4301,49 +4322,49 @@ https://damitv.ahmadadityaberdikari.workers.dev/play/channel/845.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv.ahmadadityaberdikari.workers.dev/play/channel/967.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 1]
-https://dz5.bhalocast.pro:7059/hls/tsn1ca.m3u8?md5=FuPR1XLA5SHzy9UxoE6K0w&expires=1783464064&ch=tsn1ca&s=05f3e68c17b80c1822277bf5fa396dca|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/tsn1ca.m3u8?md5=S19Gpg0LEeeIx6ifG4iPIQ&expires=1783464965&ch=tsn1ca&s=95f3d819b083fa5391a157f8fad2b439|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 2]
-https://dz5.bhalocast.pro:7059/hls/itv111.m3u8?md5=4TO3-_MJ9sfH-E4eZRrwww&expires=1783464067&ch=itv111&s=6f12bb3445f381523d7f885ae94a7741|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/itv111.m3u8?md5=r-SGOFA28Q_kJ1-OZFT6aQ&expires=1783464968&ch=itv111&s=8907540c3ed7cec3608f6b5cef8d5a41|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 3]
-https://dz5.bhalocast.pro:7059/hls/spch8.m3u8?md5=yifj4K69umKEwLvuzVYtew&expires=1783464071&ch=spch8&s=94a195eacd9b7f56ffec758f2870e75a|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch8.m3u8?md5=xLsfORhISS8Soa27MDdAvQ&expires=1783464971&ch=spch8&s=38868d469b012fef3096658b3d23dcf0|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 4]
-https://dz5.bhalocast.pro:7059/hls/spch9.m3u8?md5=ahq9SEjjXoqkAIroJj6czw&expires=1783464074&ch=spch9&s=d25936fb24b6b5342eea88169010456f|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch9.m3u8?md5=SuClDhvx7X3snCOED8_k9Q&expires=1783464975&ch=spch9&s=da4bd5346bac4a202467bd51244e4bc8|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 5]
-https://dz5.bhalocast.pro:7059/hls/spch10.m3u8?md5=mLG4xWOwplm0A_QJCSitag&expires=1783464077&ch=spch10&s=53d79579750ae19b932b6053f30ed08b|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch10.m3u8?md5=cuwhDZ2ZbJspGOysYlMY4Q&expires=1783464978&ch=spch10&s=09097f382b37c85bf661632335a8386f|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 6]
-https://dz5.bhalocast.pro:7059/hls/tsn3ca.m3u8?md5=L1u7IIK4VB77mqjy5iicZA&expires=1783464081&ch=tsn3ca&s=1d63335b007645d1074e1767bb3a2a3d|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/tsn3ca.m3u8?md5=bp5IIvH-bWI2bz49Zjs-cg&expires=1783464982&ch=tsn3ca&s=ddb59c38e90be5519ba98e11b653ab66|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 7]
-https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=mipq97Z1sxpsH_NES8PMww&expires=1783464084&ch=daznlaliga&s=e358c4af2fce8913f8451ebe3834de3b|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=PNs4wZ1rlzPPGEFiF-ovcA&expires=1783464985&ch=daznlaliga&s=bd1d0753655893925d053903a73b75f2|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 8]
-https://dz5.bhalocast.pro:7059/hls/yt25.m3u8?md5=BfV14ed4AHM7UfS3d0G59g&expires=1783464088&ch=yt25&s=fe7b273a1951e37b07c2d5a8fe4e6e44|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/yt25.m3u8?md5=O43VVEEpAKiCCVvPYdTtZA&expires=1783464989&ch=yt25&s=1f26254271477506761b42a2a1fcfe32|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 9]
-https://dz5.bhalocast.pro:7059/hls/bsp1fr.m3u8?md5=Myj9PGmm1epRo71ixYrzDQ&expires=1783464091&ch=bsp1fr&s=4fba47eee6e7df27c0aae3e55535047c|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/bsp1fr.m3u8?md5=MbE7wLP6eAHN3JHztVCFBQ&expires=1783464992&ch=bsp1fr&s=da0e08548e33310880be403d42736db3|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 10]
-https://dz5.bhalocast.pro:7059/hls/spch45.m3u8?md5=kWGA6Y8LOmmocknWXwPKdA&expires=1783464094&ch=spch45&s=9950927eff581b73a2d8ec2835e455ae|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch45.m3u8?md5=9paqpCPdUWUpuMzrjBrZ_A&expires=1783464996&ch=spch45&s=815fb0b86b16705a3ced7cd0f6ce64e5|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 11]
-https://dz5.bhalocast.pro:7059/hls/yt29.m3u8?md5=z0_0cel5qXBtLlxgNBcaCw&expires=1783464098&ch=yt29&s=67e6336dc5b563aee7127407540df09d|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/yt29.m3u8?md5=vmeVpGF9O8KnmshByx7Alg&expires=1783464999&ch=yt29&s=5236a95f6fdbbcb151ee3da001593f71|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_2.m3u8?auth_key=1783546159-0-0-9732653a3b75406e8c73c53d3a82fc7f
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_2.m3u8?auth_key=1783546619-0-0-9335fb4144061e7b7f777bac73d91268
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_6.m3u8?auth_key=1783546159-0-0-d46acec2256075bdcdc47bfc3afd6117
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_6.m3u8?auth_key=1783546619-0-0-766e1743b5fb3d3072cf2ac146a7dbd5
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_1.m3u8?auth_key=1783546159-0-0-cb5e78166809bb1b99bf5fc2326d080f
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_1.m3u8?auth_key=1783546619-0-0-db806a221e9d3bb3ad98c69c805cd59e
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_5.m3u8?auth_key=1783546159-0-0-9642d879857c7977208a951010f133ed
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_5.m3u8?auth_key=1783546619-0-0-cfe6f1ecdad9234808b8e6164cf875a1
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH5]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_4.m3u8?auth_key=1783546159-0-0-69af9abd632edcbc8fe54ddd9c33b9c5
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_4.m3u8?auth_key=1783546619-0-0-02a371f9f30c4cb88d87b318f44540f0
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH6]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_3.m3u8?auth_key=1783546159-0-0-17e890b72fcfbc9e45bb8a99f9675095
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_3.m3u8?auth_key=1783546619-0-0-8e779a121cf5f4505b4d18991a1b25ff
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/6wwvovu8tjclj5.png" group-title="🔴FIFA WORLD CUP 2026🔴",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] World Cup 2026 Round of 16 | (03.00 WIB) Switzerland vs Colombia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fsla%2F1-6a2d777f44007b44f9d3f1a9%2Findex.m3u8&client_id=cts&uid=fywm8nc1&is_vip=true&verify=1783458000-w%2FPpdTaclf0a2O884Dgjm58IfzIdjRl4xlP0EOXvwU0%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
+https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fsla%2F1-6a2d777f44007b44f9d3f1a9%2Findex.m3u8&client_id=cts&uid=yjptjogn&is_vip=true&verify=1783458000-3mfontSKqtxrwNyj0dTRXl1JPnjFigLscO9biJi9DM8%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/fad87ff2077540c8a951ade88a87901d.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [HD]
 #EXTVLCOPT:http-referrer=https://www.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://www.livenobarseru.com
@@ -4612,9 +4633,9 @@ http://193.47.62.55/hls/QJMMMCZckkkqr.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://live2.jxa76.com/live/sd-6MvYMRTH75CQrkyWNX.m3u8?txSecret=9b3a5498cdcec1e330b0c4ef04cda5f4&txTime=19F3F83435D
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp" group-title="LIVE EVENT | TENNIS 🎾",[ LIVE] [17:00 WIB] [ATP TOUR] ATP Tour [CH 1]
-https://dz5.bhalocast.pro:7059/hls/bbc1ld.m3u8?md5=pQcTgUtP2ckTflMlVzzqkA&expires=1783464058&ch=bbc1ld&s=efa395193b7af241fea5735f6bb3168e|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/bbc1ld.m3u8?md5=D9stUROjqAJF_n6prV4PCQ&expires=1783464958&ch=bbc1ld&s=f45c99edab36966f44803d16f12d7dc8|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp" group-title="LIVE EVENT | TENNIS 🎾",[ LIVE] [17:00 WIB] [ATP TOUR] ATP Tour [CH 2]
-https://dz5.bhalocast.pro:7059/hls/bbc2.m3u8?md5=21Z_qdytk6e3wgAIkYwmWQ&expires=1783464061&ch=bbc2&s=a0bdc29f690d5b741db989f546878b68|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/bbc2.m3u8?md5=m6tj9pj5ntk8NBo5HQOazw&expires=1783464961&ch=bbc2&s=db80b8a3c004c992915c829e30a13cd2|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/d49f8936c9c3510700ab7862aa14f7f8-thumbnail.jpg" group-title="LIVE EVENT | TENNIS 🎾",[ LIVE 17:00 WIB] [Tennis] Wimbledon: Courtside (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
@@ -4632,32 +4653,32 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdn3.zohanayaan.com:1686/hls/mstlouiscardinals.m3u8?md5=Fv2dIsUnI9r0m5PibhPcGw&expires=1783451757
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 1]
-https://dz5.bhalocast.pro:7059/hls/tsn1ca.m3u8?md5=FuPR1XLA5SHzy9UxoE6K0w&expires=1783464064&ch=tsn1ca&s=05f3e68c17b80c1822277bf5fa396dca|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/tsn1ca.m3u8?md5=S19Gpg0LEeeIx6ifG4iPIQ&expires=1783464965&ch=tsn1ca&s=95f3d819b083fa5391a157f8fad2b439|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 2]
-https://dz5.bhalocast.pro:7059/hls/itv111.m3u8?md5=4TO3-_MJ9sfH-E4eZRrwww&expires=1783464067&ch=itv111&s=6f12bb3445f381523d7f885ae94a7741|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/itv111.m3u8?md5=r-SGOFA28Q_kJ1-OZFT6aQ&expires=1783464968&ch=itv111&s=8907540c3ed7cec3608f6b5cef8d5a41|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 3]
-https://dz5.bhalocast.pro:7059/hls/spch8.m3u8?md5=yifj4K69umKEwLvuzVYtew&expires=1783464071&ch=spch8&s=94a195eacd9b7f56ffec758f2870e75a|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch8.m3u8?md5=xLsfORhISS8Soa27MDdAvQ&expires=1783464971&ch=spch8&s=38868d469b012fef3096658b3d23dcf0|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 4]
-https://dz5.bhalocast.pro:7059/hls/spch9.m3u8?md5=ahq9SEjjXoqkAIroJj6czw&expires=1783464074&ch=spch9&s=d25936fb24b6b5342eea88169010456f|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch9.m3u8?md5=SuClDhvx7X3snCOED8_k9Q&expires=1783464975&ch=spch9&s=da4bd5346bac4a202467bd51244e4bc8|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 5]
-https://dz5.bhalocast.pro:7059/hls/spch10.m3u8?md5=mLG4xWOwplm0A_QJCSitag&expires=1783464077&ch=spch10&s=53d79579750ae19b932b6053f30ed08b|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch10.m3u8?md5=cuwhDZ2ZbJspGOysYlMY4Q&expires=1783464978&ch=spch10&s=09097f382b37c85bf661632335a8386f|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 6]
-https://dz5.bhalocast.pro:7059/hls/tsn3ca.m3u8?md5=L1u7IIK4VB77mqjy5iicZA&expires=1783464081&ch=tsn3ca&s=1d63335b007645d1074e1767bb3a2a3d|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/tsn3ca.m3u8?md5=bp5IIvH-bWI2bz49Zjs-cg&expires=1783464982&ch=tsn3ca&s=ddb59c38e90be5519ba98e11b653ab66|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 7]
-https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=mipq97Z1sxpsH_NES8PMww&expires=1783464084&ch=daznlaliga&s=e358c4af2fce8913f8451ebe3834de3b|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=PNs4wZ1rlzPPGEFiF-ovcA&expires=1783464985&ch=daznlaliga&s=bd1d0753655893925d053903a73b75f2|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 8]
-https://dz5.bhalocast.pro:7059/hls/yt25.m3u8?md5=BfV14ed4AHM7UfS3d0G59g&expires=1783464088&ch=yt25&s=fe7b273a1951e37b07c2d5a8fe4e6e44|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/yt25.m3u8?md5=O43VVEEpAKiCCVvPYdTtZA&expires=1783464989&ch=yt25&s=1f26254271477506761b42a2a1fcfe32|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 9]
-https://dz5.bhalocast.pro:7059/hls/bsp1fr.m3u8?md5=Myj9PGmm1epRo71ixYrzDQ&expires=1783464091&ch=bsp1fr&s=4fba47eee6e7df27c0aae3e55535047c|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/bsp1fr.m3u8?md5=MbE7wLP6eAHN3JHztVCFBQ&expires=1783464992&ch=bsp1fr&s=da0e08548e33310880be403d42736db3|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 10]
-https://dz5.bhalocast.pro:7059/hls/spch45.m3u8?md5=kWGA6Y8LOmmocknWXwPKdA&expires=1783464094&ch=spch45&s=9950927eff581b73a2d8ec2835e455ae|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch45.m3u8?md5=9paqpCPdUWUpuMzrjBrZ_A&expires=1783464996&ch=spch45&s=815fb0b86b16705a3ced7cd0f6ce64e5|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 11]
-https://dz5.bhalocast.pro:7059/hls/yt29.m3u8?md5=z0_0cel5qXBtLlxgNBcaCw&expires=1783464098&ch=yt29&s=67e6336dc5b563aee7127407540df09d|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/yt29.m3u8?md5=vmeVpGF9O8KnmshByx7Alg&expires=1783464999&ch=yt29&s=5236a95f6fdbbcb151ee3da001593f71|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4402fbc939277321386d11fd427eb2b6.png!w80" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live.kinxie.com/live/53452523_3d33d9b8c420f991d02e0a9f359a3a5a_autoChange.m3u8?auth_key=1783473995-0-0-030c0ae835006c4a40a4b5d7cc04b6b6
+https://live.kinxie.com/live/53452523_3d33d9b8c420f991d02e0a9f359a3a5a_autoChange.m3u8?auth_key=1783474723-0-0-f1fbc0e120a0697c7913bfb4f95daa8b
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/fad87ff2077540c8a951ade88a87901d.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [HD]
 #EXTVLCOPT:http-referrer=https://www.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://www.livenobarseru.com
@@ -4678,10 +4699,15 @@ https://cdn14.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=SXlohl59qImR44HkYrBn3Q&e
 #EXTVLCOPT:http-origin=https://exposestrat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdn11.zohanayaan.com:1686/hls/nctvhd.m3u8?md5=ykJkEXmzaja62iv_OXBWjw&expires=1783458067
+#EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/BaltimoreOrioles.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [05:35 WIB 08/07/2026] [MLB] Baltimore Orioles - Chicago Cubs
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn12.zohanayaan.com:1686/hls/mbaltimoreorioles.m3u8?md5=WQqBCxgaW36OEsaltpkpsA&expires=1783467354
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [17:00 WIB] [ATP TOUR] ATP Tour [CH 1]
-https://dz5.bhalocast.pro:7059/hls/bbc1ld.m3u8?md5=pQcTgUtP2ckTflMlVzzqkA&expires=1783464058&ch=bbc1ld&s=efa395193b7af241fea5735f6bb3168e|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/bbc1ld.m3u8?md5=D9stUROjqAJF_n6prV4PCQ&expires=1783464958&ch=bbc1ld&s=f45c99edab36966f44803d16f12d7dc8|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [17:00 WIB] [ATP TOUR] ATP Tour [CH 2]
-https://dz5.bhalocast.pro:7059/hls/bbc2.m3u8?md5=21Z_qdytk6e3wgAIkYwmWQ&expires=1783464061&ch=bbc2&s=a0bdc29f690d5b741db989f546878b68|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/bbc2.m3u8?md5=m6tj9pj5ntk8NBo5HQOazw&expires=1783464961&ch=bbc2&s=db80b8a3c004c992915c829e30a13cd2|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/france/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[ UPCOMING] [03:00 WIB] [FIFA WORLD CUP] France - Morocco
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/pga-tour/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[ UPCOMING] [14:30 WIB] [PGA TOUR] PGA Tour
@@ -4712,22 +4738,22 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=f38298999e6ccbf5b2e5343b6f2a6280&wsABSTime=1783503056
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=a4f1e57cb625ea8915e5770fb738d09a&wsABSTime=1783503363
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/1l4rjdh0ylpr7vx/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",[ LIVE] 04:00 WIB 08/07 - NU CANADA U21 VS NU MEXICO U21 [PAN]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=9d0635d04ed285aa8fbc368a6f16a24b&wsABSTime=1783503130
+https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=0a13e66c8afbc19046daef42333f6ca7&wsABSTime=1783503565
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh3v4vr1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",05:00 WIB - ATLETICO TEMBETARY VS INDEPENDIENTE FBC [PAR D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=b4dcbc617daa40308f34c6c2d28f6059&wsABSTime=1783503056
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=c99e8cc48e00fecb297171d83e50ddc4&wsABSTime=1783503363
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghndogmoep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",05:00 WIB - WEST VIRGINIA ALLIANCE FC VS LOUISVILLE CITY B [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=7e51303fe908672997590facaa094a18&wsABSTime=1783503056
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=b342b24df830d1ad5d3e66df1bc5b1da&wsABSTime=1783503364
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="SPORTS FHD",ACI Sport TV (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="SPORTS FHD",AS3 Sport TV (1080p)
@@ -5203,26 +5229,16 @@ https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782978143-0-0-15f6
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=RT%C3%89%20Two%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc684/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNjg0OjE3ODM0NjcwNzEyNDM6Y2RubGl2ZXR2LnR2OjZjN2FlZDczOTk0Y2U4OTIuNDA3OTc1ZGZkYWEyNTRkYWM3YmUzMzU4Njg4OTk3YTI5YjVmZGFkZTJkNzZmZTMzMGIwYWRmMGRkMTEwMGIzMw
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[MLB] Milwaukee Brewers vs St. Louis Cardinals (Not Nguyen)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport1%2B%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport1%2B%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccafa/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWZhOjE3ODM0NjE2MzE0ODI6Y2RubGl2ZXR2LnR2OmFhYTNhNmFlYzFhMmJhZGIuMTIxMzQ4OTY1Y2M4MDk1MGVlYzFlODdmZTVlMGYxNDY3ZTI0NzRmMTUzOTljZDViNWU5Njc3ZTU1Y2EyNjJmOA
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[MLB] St. Louis Cardinals - Milwaukee Brewers (Not Nguyen)
-#EXTVLCOPT:http-referrer=https://exposestrat.com
-#EXTVLCOPT:http-origin=https://exposestrat.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn13.zohanayaan.com:1686/hls/mstlouiscardinals.m3u8?md5=0TWpqWK-yubk8Z10l9cvag&expires=1783459866
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[FIFA World Cup 2026] Switzerland vs Colombia (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn9.zohanayaan.com:1686/hls/do31.m3u8?md5=5n67wjALHobGnGG7djG5UQ&expires=1783459235
+https://cdn9.zohanayaan.com:1686/hls/do31.m3u8?md5=XhkJudFUg75W-7YuhpjVnQ&expires=1783464631
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[Fifa World Cup] Switzerland - Colombia (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn13.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=dFl8NtD76KkxC7gDYQCeww&expires=1783459867
+https://cdn14.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=SCCsla5YG1ujhKlRJl808g&expires=1783467055
 #EXTINF:-1 tvg-logo="https://images.open-epg.com/x1590.png" group-title="LIVE TV - USA",beIN Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="LIVE TV - USA",Fox Sports 1
@@ -9838,16 +9854,6 @@ https://edgestream2.pro/hls/dzjhkfazbka26.m3u8?st=_7mHppRr0bOicDd-x7OJUtt7aoT7BG
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://edgestream1.pro/hls/dazhfiach15.m3u8?st=gle8lGz2Gam7BZx9rQoz_lEd7ebPMaYBZW-MaPPrhVc&e=1783470117
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Milwaukee Brewers vs St. Louis Cardinals (Not Nguyen)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport1%2B%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport1%2B%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccafa/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWZhOjE3ODM0NjE2MzE0ODI6Y2RubGl2ZXR2LnR2OmFhYTNhNmFlYzFhMmJhZGIuMTIxMzQ4OTY1Y2M4MDk1MGVlYzFlODdmZTVlMGYxNDY3ZTI0NzRmMTUzOTljZDViNWU5Njc3ZTU1Y2EyNjJmOA
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] St. Louis Cardinals - Milwaukee Brewers (Not Nguyen)
-#EXTVLCOPT:http-referrer=https://exposestrat.com
-#EXTVLCOPT:http-origin=https://exposestrat.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn13.zohanayaan.com:1686/hls/mstlouiscardinals.m3u8?md5=0TWpqWK-yubk8Z10l9cvag&expires=1783459866
 #EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/StLouisCardinals.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [01:15 WIB 08/07/2026] [MLB] St. Louis Cardinals - Milwaukee Brewers
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
@@ -9855,18 +9861,31 @@ https://cdn13.zohanayaan.com:1686/hls/mstlouiscardinals.m3u8?md5=0TWpqWK-yubk8Z1
 https://cdn3.zohanayaan.com:1686/hls/mstlouiscardinals.m3u8?md5=Fv2dIsUnI9r0m5PibhPcGw&expires=1783451757
 #EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/StLouisCardinals.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING] [06:45 WIB 08/07/2026] [MLB] St. Louis Cardinals - Milwaukee Brewers
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/BaltimoreOrioles.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING] [05:35 WIB 08/07/2026] [MLB] Baltimore Orioles - Chicago Cubs
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/BaltimoreOrioles.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [05:35 WIB 08/07/2026] [MLB] Baltimore Orioles - Chicago Cubs
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn12.zohanayaan.com:1686/hls/mbaltimoreorioles.m3u8?md5=WQqBCxgaW36OEsaltpkpsA&expires=1783467354
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[05:35 WIB] [MLB] Baltimore Orioles vs Chicago Cubs (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.42/hls/JEEE.m3u8
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/c95d5521911fff98aba625b81585bd65-thumbnail.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ PRE-SHOW 05:35 WIB] [MLB] Chicago Cubs vs. Baltimore Orioles (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://damitv.app/
+#EXTVLCOPT:http-origin=https://damitv.app
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv.ahmadadityaberdikari.workers.dev/play/mlb/2026-07-07/chc-bal.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[05:35 WIB] [Baseball] Chicago Cubs at Baltimore Orioles (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?st=v9HxqDZzNCgbauwEIvABanboJYNASOsDnHg-VEIeVeI&e=1783470115
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/d0454c160a03478ca78ce1b0fdcfeed9-thumbnail.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ PRE-SHOW 05:40 WIB] [MLB] Athletics vs. Detroit Tigers (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://damitv.app/
+#EXTVLCOPT:http-origin=https://damitv.app
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv.ahmadadityaberdikari.workers.dev/play/mlb/2026-07-07/ath-det.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[05:40 WIB] [Baseball] Athletics Athletics at Detroit Tigers (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
@@ -9943,7 +9962,7 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001783459856-0-0-f87dfb598c25ddb12e02dec1869f0b7f
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001783460163-0-0-e8b09efe5e35c1a397c8883d97b9e4e2
 #EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/MemphisGrizzlies.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING] [06:00 WIB 08/07/2026] [NBA SUMMER] Memphis Grizzlies - Atlanta Hawks
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/CincinnatiReds.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING] [06:10 WIB 08/07/2026] [MLB] Cincinnati Reds - Philadelphia Phillies
@@ -10139,7 +10158,9 @@ https://streamvididi.bonetvkoe.web.id/index.mpd?q=21703&ext=dash&x=1783470539&k=
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F148.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.vidio.com%2F
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=206&ext=dash&x=1783470693&k=18f27f5d01edb20fd425a3394afd8c21f875fbadad36708b4f71b9affac175fb&sc=206
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=206&ext=drm&x=1783471131&k=b578bc50b2e25403073d5332ba9d36ab9b0ec7c78d28c5dbf20ec649ca1a6d3a
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=206&ext=dash&x=1783471131&k=d4fbf570fa7bc30fa917cb4faa64b96d25d695a7e9749fd83c60d5460349e0f2&sc=206
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8pChFEyS/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 09:35 WIB | TGL 08/07] Turkiye v Poland | Week 3 | Women's VNL 2026
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RfBpOZzw/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 10:05 WIB | TGL 08/07] Belgium v Dominican Republic | Week 3 | Women's VNL 2026
@@ -10164,17 +10185,17 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=7cedd4f5a3a4608d2b6838c43f63fb30&wsABSTime=1783503129
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=0c0f3f8967d75ebfa08ba05662825f59&wsABSTime=1783503564
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/vjxm8lhkdkvq6od/image/small" group-title="LIVE EVENT | VOLI 🏐",[ LIVE] 01:00 WIB 08/07 - TAY BAN NHA U18 VS CH SEC U18 [EUR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=29b7f71ef54f3cfcfc01038520fbc9f7&wsABSTime=1783503129
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=25f71a7ce52062d65b3488fdcf5ff041&wsABSTime=1783503565
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/1l4rjdh0ylpr7vx/image/small" group-title="LIVE EVENT | VOLI 🏐",[ LIVE] 04:00 WIB 08/07 - NU CANADA U21 VS NU MEXICO U21 [PAN]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=9d0635d04ed285aa8fbc368a6f16a24b&wsABSTime=1783503130
+https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=0a13e66c8afbc19046daef42333f6ca7&wsABSTime=1783503565
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/l965mkdh6kyr1ge/image/small" group-title="LIVE EVENT | VOLI 🏐",16:00 WIB 09/07 - NU BI VS NU CANADA [NAT]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/v2y8m4whkdgql07/image/small" group-title="LIVE EVENT | VOLI 🏐",16:30 WIB 09/07 - NU THO NHI KY U18 VS NU ITALY U18 [EUR]
@@ -10391,102 +10412,108 @@ https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/W08g9zS7QaGtPMErcsZ81Va_dKc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6412/euronews-795a60.jpg" group-title="INDONESIA TV", LIVE 00:00 WIB (03/01) - The European debrief
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6412&ext=hls&x=1783470693&k=e3b38be1431de1ac799f0134ed041037c59a7c7aa3f35a387576263981522af7&sc=6412
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6412&ext=hls&x=1783471131&k=d0c2c981727ccc0d83d68a94eff027e4c5bfeb4827135e48ab4e9cec57d6ef01&sc=6412
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="INDONESIA TV", LIVE 12:00 WIB (04/02) - MUSICA
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7619&ext=hls&x=1783470693&k=9ea87b3e45797f1750ac4282ae72a28700220c43ba1129294128a1f2f7358183&sc=7619
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7619&ext=hls&x=1783471131&k=036ee66e04cf341b856b5ebb749dc4fd82edd57ba69c43b458783a4a35f8e33f&sc=7619
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="INDONESIA TV", LIVE 12:00 WIB (22/02) - Gugak The Music Of Korea
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6784&ext=hls&x=1783470693&k=5e29919696556bde921761956b012aadd893e1467010b47645b63c5529ca0a90&sc=6784
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6784&ext=hls&x=1783471131&k=eb853a99206f55615873d46385134592e16a9c5d93d765d2c9b3bc02ef3a4106&sc=6784
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uyQ4DSnHtTWmJQD9OTs5liQDeBs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="INDONESIA TV", LIVE 19:00 WIB (22/03) - Makkah TV
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6852&ext=hls&x=1783470693&k=58234ac1b165bca223629fb1bbbbfdb1de00f5dce6470ca9e9d9a908a7507676&sc=6852
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6852&ext=hls&x=1783471131&k=88c39b6dbf8ee8dbaec77c71cd4a55b3a1fb60b7c476b358b9e678e86cd256dd&sc=6852
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cqM8vf1xK3YG5E3XF4DiuQ6LxR0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg" group-title="INDONESIA TV", LIVE 22:33 WIB (09/04) - U-Channel TV
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6898&ext=hls&x=1783470693&k=a5637d6a81350f8641a7a03e68bfab3db3060e4d99c7396de74c32f1978c2ddb&sc=6898
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6898&ext=hls&x=1783471131&k=969d1074214cf9473f4750bab7e87b58e5a8cecac58fa9ff4769fc8c3cfca7af&sc=6898
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="INDONESIA TV",DAAI TV
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6482&ext=hls&x=1783470693&k=26bf3b7b6a8539acb454c6259ec24c987d03e056249c6abf2157684035ad17b2&sc=6482
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6482&ext=hls&x=1783471131&k=266522a940b9fbc84eb44dd088eb4dea29df37c5f40358ac393e343ccf03c955&sc=6482
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/js-wGeyru_2IwlapPABOq8fi2sA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="INDONESIA TV", LIVE 12:00 WIB (17/07) - Magna TV
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7230&ext=hls&x=1783470693&k=83cda76a45ed810cf5e2544484028b3dc30102adf06464f60b9d03566eb5ae3a&sc=7230
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7230&ext=hls&x=1783471131&k=16eca8071a9f3ea220e0ca83daf71cdfee0eb948a6de6434d759f716859b74c5&sc=7230
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/c_718cCh2RH2UIUd4C3juKKZ9Wc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12607/dmi-tv-8f4cb7.jpg" group-title="INDONESIA TV", LIVE 14:00 WIB (05/05) - DMI TV
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=12607&ext=hls&x=1783470693&k=7ddabf99c54ce255e5238180b5a85815cf8e6db212c611e59eb75c6eb71a0e6d&sc=12607
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=12607&ext=hls&x=1783471131&k=20161eaf219a1e1618cc1fa7e6fdf81a9fe55a2f1ce3214c031a5c37897d4b08&sc=12607
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i_FKiCjf7lWJtJy8QqSg6bvb7Qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12784/africanews-d41bbb.jpg" group-title="INDONESIA TV", LIVE 11:00 WIB (18/05) - News
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=12784&ext=hls&x=1783470693&k=3644d73e39fb1ecc10465be9b6dc9933804b743561af3e8e7fbcc6b0c474e541&sc=12784
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=12784&ext=hls&x=1783471131&k=f80b68fb7b9aae19d431603c7df94f72f8faf847f39f9c63a3a5da75d85dc044&sc=12784
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ylbaeruDsVWau2s0PNo5jyEL9XE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg" group-title="INDONESIA TV", LIVE 19:00 WIB (25/06) - News Breakfast - Episode 135
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7150&ext=hls&x=1783470693&k=8f1909dc05031dd1a88ab7030ce432017350b36babfbf7ca7cd1bb88f0ab0cb3&sc=7150
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7150&ext=hls&x=1783471131&k=f650dd4a092b3a361b61e7a0b759dfdb8cde5166c744fbdbb8ccf32a444ffb55&sc=7150
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-fJcdGieHvetPDosR_ZwDD-YE5M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="INDONESIA TV", LIVE 09:00 WIB (08/07) - Islam Penuh Cinta
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=19046&ext=hls&x=1783470693&k=1a56dd93dd6f613138ba64c7f93f14ab528b624299c796b13724a296990e2862&sc=19046
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=19046&ext=hls&x=1783471131&k=685601311b7527bde2acde3c4af391a83a9b8ed5274a53528caf6825b67195b6&sc=19046
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nBRneLipjed0tzgVoHIft83fOYk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6411/news-asia-31d4e8.jpg" group-title="INDONESIA TV", LIVE 00:00 WIB (07/09) - This Way Up
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6411&ext=hls&x=1783470693&k=d0fa2e6a2f466729d537953b97063de0a2028011e2d1b0a7d9d3ba74c831deb7&sc=6411
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6411&ext=hls&x=1783471131&k=3d9304f37fef676259786e851194d929a595a6efe93299a61c6dfe1a0b6e09fe&sc=6411
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dqu2d5vovPKc448pBIc6ihswPTU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg" group-title="INDONESIA TV", LIVE 14:33 WIB (30/11) - Dive In Tokyo
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7968&ext=hls&x=1783470693&k=fae617823f66f30e9c640bfb596b55c5c09f5d3e1c87f2bfc6fc44b549773bf6&sc=7968
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7968&ext=hls&x=1783471131&k=280fca308c01f3120c022b85d31591ee7ad692ecc82e9f2fa29e661679434741&sc=7968
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="INDONESIA TV",Live Adzan Dan Sholat Subuh
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=tv-android%2F2.57.14%20(862)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=7464&ext=drm&x=1783470693&k=98416c26fab5cfb9605c0a05e82b8d7cab3d2464bf2daba8de9e970588fd84a1
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=7464&ext=dash&x=1783470693&k=d9e4baeb49486a20a66d7d41a0071702e4c3ae43d4d976ea0baea32f7e61e671&sc=7464
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=7464&ext=drm&x=1783471131&k=5fd9a41a9c27ac1a5d4794266769fb99552e20e12f84346d00b0d9ef6473e836
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=7464&ext=dash&x=1783471131&k=33796dfd026fc3b9d5ccf52b08f1720018ef57efa02f99060db79007c320913c&sc=7464
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="INDONESIA TV",INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F148.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.vidio.com%2F
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=1783470693&k=7521c1d9a1f7011bee0fde244d485172746c65dad27d8c5393b0d64cd814d905&sc=205
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=drm&x=1783471131&k=3d14820b4d17dfeecb483bfc73205ae179461d353c1359f2989614fdebc10411
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=1783471131&k=8ec1a6053e24ec40def91e0602992fa0745bf590ffaf190c750319def17d4abf&sc=205
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="INDONESIA TV",Jaktv
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=5415&ext=hls&x=1783470693&k=7a7c76e09b46d2de6e794d3b868d07f7d7653923a8aaf1f47da022e8f8d4405b&sc=5415
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=5415&ext=hls&x=1783471131&k=49bd05c13b91388abecc4e6821a044a856b3610dff05ad1159a38c79bbd60514&sc=5415
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="INDONESIA TV",Kampung Geulis
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=18162&ext=hls&x=1783470693&k=42ae63d829ea6dc0f122275f2a05e033573507dce8c9747e830dd92b861fc75a&sc=18162
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=18162&ext=hls&x=1783471131&k=e8811b82d773ddcc16ed6863f6d69179cdf8a291dd4bdc7579dd85419e66061a&sc=18162
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg" group-title="INDONESIA TV",Kompas Pagi
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=874&ext=hls&x=1783470693&k=19898669636cd224bf2d833a0a50de08b2e9b76df72b23254dd2eb70e628a6bb&sc=874
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=874&ext=hls&x=1783471131&k=dd10896c22a09075ed6be6f7cc805d25ce1d45817be3495200bf5577f658e57f&sc=874
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NtYMeVNZhPNyxZukYP38ohlF988=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg" group-title="INDONESIA TV",Mentari TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=tv-android%2F2.57.14%20(862)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=8237&ext=drm&x=1783470693&k=be476e9e460d03cb82021aaa4d8418bfa861d89e9c5d24992c39cb1d91d9dd1c
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=8237&ext=dash&x=1783470693&k=928b36b3491220b9d2c591b2773ae0a16e1267b2e8f84bfeb1899746b81ff9ad&sc=9884
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=8237&ext=drm&x=1783471131&k=7aa470d2e824c3c7e07704db8853ad0b603ba6537d01181b52ec3a25bcdbc1b2
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=8237&ext=dash&x=1783471131&k=fd3b187635d9407f79085a34840aad1a94780e68f1a9654e4ebd82058e0376f2&sc=50985
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg" group-title="INDONESIA TV",Metro Xinwen
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=777&ext=hls&x=1783470693&k=7c0ecab6c9eab4ae86b6061d261891fb0f7f2d9d5d0fd1410041ac75bd7d91cd&sc=777
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=777&ext=hls&x=1783471131&k=f546c66fffc09458acac3357834f7d8cd40cff9f24a4d34d92aa485eb858294c&sc=777
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" group-title="INDONESIA TV",MOJI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F148.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.vidio.com%2F
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=206&ext=dash&x=1783470693&k=18f27f5d01edb20fd425a3394afd8c21f875fbadad36708b4f71b9affac175fb&sc=206
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=206&ext=drm&x=1783471131&k=b578bc50b2e25403073d5332ba9d36ab9b0ec7c78d28c5dbf20ec649ca1a6d3a
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=206&ext=dash&x=1783471131&k=d4fbf570fa7bc30fa917cb4faa64b96d25d695a7e9749fd83c60d5460349e0f2&sc=206
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="INDONESIA TV",New Jelajah Masjid Nusantara
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=9714&ext=hls&x=1783470693&k=50df91f7060083597fe8e7c12f39cd45803c37395496cf96c6203b7d67ae9643&sc=9714
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=9714&ext=hls&x=1783471131&k=ec227953aded3893b705cb1d17b8be60d785e8852e220409e306395a3dd9b075&sc=9714
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="INDONESIA TV",NTV Prime
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7432&ext=hls&x=1783470693&k=27d32918da1ea0b46ace557297f231eac1a2f6ea6ec4a06598d681cf776948c4&sc=7432
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=7432&ext=hls&x=1783471131&k=f79069fb553ec529fbbc2beee45f47d2b6f4cc80356bfaef6511faf149813e27&sc=7432
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="INDONESIA TV",Program Kesehatan Blue 99 & Minyak L74
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=9713&ext=hls&x=1783470693&k=e6df53f66b2ecca2fdcb656799967f53566dace019b99686f3a414545374757c&sc=9713
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=9713&ext=hls&x=1783471131&k=c5817a87f26e18bf986b85cc6c0c1c35ecbfe8158e6ad7615fd5af45425f0937&sc=9713
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Xr8AAOVjClvDNr9P3fkGaB9Zn20=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg" group-title="INDONESIA TV",SCTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F148.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.vidio.com%2F
-https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=dash&x=1783470693&k=3131873ce61eec88bcd4885f29000ab8ff3a753a7754e14fefc9d827dc74b545&sc=204
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=drm&x=1783471131&k=f2c8dba1159aac0474568c92b6d52b1ba385b88f42e8fa1da1ad5337858a9dd0
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=dash&x=1783471131&k=fc9bb5589f41a9d58ab125493e403bd2b5e81f18e8146068fd9f45e5f0f44f58&sc=204
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="INDONESIA TV",Spot On
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=18280&ext=hls&x=1783470693&k=c11bd8fd1149ead2ccbd001653e28ca5a71c088d7e89a580cfb4db01686c3fb0&sc=18280
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=18280&ext=hls&x=1783471131&k=7d4602b745348bc0695b389a58f8166094590aee5b3ec7682018c9c2600c6985&sc=18280
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_BxJeS85VII-ISq9BAZ9MWlAw30=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" group-title="INDONESIA TV",Spot On
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6165&ext=hls&x=1783470693&k=a99f29a486098337a320b3c40c2973d56a07ff95c982ba51e36fbbb22d638fe9&sc=6165
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6165&ext=hls&x=1783471131&k=c07c95391587759442191d75e6f4c9112c38b4e360dc4c73fc0e37a249235b47&sc=6165
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="INDONESIA TV",TVRI Program
 #EXTVLCOPT:http-user-agent=tv-android/2.57.14 (862)
-https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6441&ext=hls&x=1783470693&k=c7b724063cf772d10e1edc899d3c546ab506aaf8476f423d62fa65c3335c35c8&sc=6441
+https://streambonetv.adenrahim97.workers.dev/play.m3u8?q=6441&ext=hls&x=1783471131&k=621a2904143c9abe39b6cafb0e798ee06af1b07f6958b47e1494b8ce48e62371&sc=6441
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bt0yGtw.jpeg" group-title="SPORTS CDN BONE TV",Antena 1 FHD RO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
@@ -13795,22 +13822,22 @@ https://damitv.ahmadadityaberdikari.workers.dev/play/channel/845.m3u8
 https://damitv.ahmadadityaberdikari.workers.dev/play/channel/967.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_2.m3u8?auth_key=1783546159-0-0-9732653a3b75406e8c73c53d3a82fc7f
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_2.m3u8?auth_key=1783546619-0-0-9335fb4144061e7b7f777bac73d91268
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_6.m3u8?auth_key=1783546159-0-0-d46acec2256075bdcdc47bfc3afd6117
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_6.m3u8?auth_key=1783546619-0-0-766e1743b5fb3d3072cf2ac146a7dbd5
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_1.m3u8?auth_key=1783546159-0-0-cb5e78166809bb1b99bf5fc2326d080f
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_1.m3u8?auth_key=1783546619-0-0-db806a221e9d3bb3ad98c69c805cd59e
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_5.m3u8?auth_key=1783546159-0-0-9642d879857c7977208a951010f133ed
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_5.m3u8?auth_key=1783546619-0-0-cfe6f1ecdad9234808b8e6164cf875a1
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH5]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_4.m3u8?auth_key=1783546159-0-0-69af9abd632edcbc8fe54ddd9c33b9c5
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_4.m3u8?auth_key=1783546619-0-0-02a371f9f30c4cb88d87b318f44540f0
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH6]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_3.m3u8?auth_key=1783546159-0-0-17e890b72fcfbc9e45bb8a99f9675095
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_3.m3u8?auth_key=1783546619-0-0-8e779a121cf5f4505b4d18991a1b25ff
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/soccer-ball-logo-png_seeklogo-480250.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE] [03:00 WIB] [SOCCER] Switzerland vs Colombia (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1
 #EXTVLCOPT:http-origin=https://instream.click
@@ -13821,36 +13848,46 @@ https://instreams.pro/US/NFLHD1/index.m3u8
 #EXTVLCOPT:http-origin=https://instream.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://instreams.pro/US/NFLHD2/index.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:31 WIB] [24/7 Streams] 24/7 South Park (Server 1 - Master)
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:38 WIB] [24/7 Streams] 24/7 South Park (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv.ahmadadityaberdikari.workers.dev/play/247-south-park.m3u8
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:31 WIB] [24/7 Streams] 24/7 COWS (Server 1 - Master)
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:38 WIB] [24/7 Streams] 24/7 COWS (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv.ahmadadityaberdikari.workers.dev/play/247-cows.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:31 WIB] [24/7 Streams] 24/7 Family Guy (Server 1 - Master)
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:38 WIB] [24/7 Streams] 24/7 Family Guy (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv.ahmadadityaberdikari.workers.dev/play/247-family-guy.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:31 WIB] [24/7 Streams] 24/7 The Simpsons (Server 1 - Master)
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:38 WIB] [24/7 Streams] 24/7 The Simpsons (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv.ahmadadityaberdikari.workers.dev/play/247-the-simpsons.m3u8
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:31 WIB] [24/7 Streams] Rally TV (Server 1 - Master)
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:38 WIB] [24/7 Streams] Rally TV (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv.ahmadadityaberdikari.workers.dev/play/rally-tv.m3u8
-#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:31 WIB] [24/7 Streams] 24/7 SpongeBob Squarepants (Server 1 - Master)
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 04:38 WIB] [24/7 Streams] 24/7 SpongeBob Squarepants (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv.ahmadadityaberdikari.workers.dev/play/247-spongebob-squarepants.m3u8
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/c95d5521911fff98aba625b81585bd65-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ PRE-SHOW 05:35 WIB] [MLB] Chicago Cubs vs. Baltimore Orioles (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://damitv.app/
+#EXTVLCOPT:http-origin=https://damitv.app
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv.ahmadadityaberdikari.workers.dev/play/mlb/2026-07-07/chc-bal.m3u8
+#EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/d0454c160a03478ca78ce1b0fdcfeed9-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ PRE-SHOW 05:40 WIB] [MLB] Athletics vs. Detroit Tigers (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://damitv.app/
+#EXTVLCOPT:http-origin=https://damitv.app
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv.ahmadadityaberdikari.workers.dev/play/mlb/2026-07-07/ath-det.m3u8
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/c1b059915b3f666402973fb87945a8e3-thumbnail.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ PRE-SHOW 05:45 WIB] [MLB] Houston Astros vs. Washington Nationals (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
@@ -13937,49 +13974,49 @@ https://damitv.ahmadadityaberdikari.workers.dev/play/channel/845.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv.ahmadadityaberdikari.workers.dev/play/channel/967.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 1]
-https://dz5.bhalocast.pro:7059/hls/tsn1ca.m3u8?md5=FuPR1XLA5SHzy9UxoE6K0w&expires=1783464064&ch=tsn1ca&s=05f3e68c17b80c1822277bf5fa396dca|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/tsn1ca.m3u8?md5=S19Gpg0LEeeIx6ifG4iPIQ&expires=1783464965&ch=tsn1ca&s=95f3d819b083fa5391a157f8fad2b439|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 2]
-https://dz5.bhalocast.pro:7059/hls/itv111.m3u8?md5=4TO3-_MJ9sfH-E4eZRrwww&expires=1783464067&ch=itv111&s=6f12bb3445f381523d7f885ae94a7741|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/itv111.m3u8?md5=r-SGOFA28Q_kJ1-OZFT6aQ&expires=1783464968&ch=itv111&s=8907540c3ed7cec3608f6b5cef8d5a41|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 3]
-https://dz5.bhalocast.pro:7059/hls/spch8.m3u8?md5=yifj4K69umKEwLvuzVYtew&expires=1783464071&ch=spch8&s=94a195eacd9b7f56ffec758f2870e75a|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch8.m3u8?md5=xLsfORhISS8Soa27MDdAvQ&expires=1783464971&ch=spch8&s=38868d469b012fef3096658b3d23dcf0|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 4]
-https://dz5.bhalocast.pro:7059/hls/spch9.m3u8?md5=ahq9SEjjXoqkAIroJj6czw&expires=1783464074&ch=spch9&s=d25936fb24b6b5342eea88169010456f|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch9.m3u8?md5=SuClDhvx7X3snCOED8_k9Q&expires=1783464975&ch=spch9&s=da4bd5346bac4a202467bd51244e4bc8|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 5]
-https://dz5.bhalocast.pro:7059/hls/spch10.m3u8?md5=mLG4xWOwplm0A_QJCSitag&expires=1783464077&ch=spch10&s=53d79579750ae19b932b6053f30ed08b|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch10.m3u8?md5=cuwhDZ2ZbJspGOysYlMY4Q&expires=1783464978&ch=spch10&s=09097f382b37c85bf661632335a8386f|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 6]
-https://dz5.bhalocast.pro:7059/hls/tsn3ca.m3u8?md5=L1u7IIK4VB77mqjy5iicZA&expires=1783464081&ch=tsn3ca&s=1d63335b007645d1074e1767bb3a2a3d|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/tsn3ca.m3u8?md5=bp5IIvH-bWI2bz49Zjs-cg&expires=1783464982&ch=tsn3ca&s=ddb59c38e90be5519ba98e11b653ab66|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 7]
-https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=mipq97Z1sxpsH_NES8PMww&expires=1783464084&ch=daznlaliga&s=e358c4af2fce8913f8451ebe3834de3b|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=PNs4wZ1rlzPPGEFiF-ovcA&expires=1783464985&ch=daznlaliga&s=bd1d0753655893925d053903a73b75f2|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 8]
-https://dz5.bhalocast.pro:7059/hls/yt25.m3u8?md5=BfV14ed4AHM7UfS3d0G59g&expires=1783464088&ch=yt25&s=fe7b273a1951e37b07c2d5a8fe4e6e44|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/yt25.m3u8?md5=O43VVEEpAKiCCVvPYdTtZA&expires=1783464989&ch=yt25&s=1f26254271477506761b42a2a1fcfe32|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 9]
-https://dz5.bhalocast.pro:7059/hls/bsp1fr.m3u8?md5=Myj9PGmm1epRo71ixYrzDQ&expires=1783464091&ch=bsp1fr&s=4fba47eee6e7df27c0aae3e55535047c|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/bsp1fr.m3u8?md5=MbE7wLP6eAHN3JHztVCFBQ&expires=1783464992&ch=bsp1fr&s=da0e08548e33310880be403d42736db3|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 10]
-https://dz5.bhalocast.pro:7059/hls/spch45.m3u8?md5=kWGA6Y8LOmmocknWXwPKdA&expires=1783464094&ch=spch45&s=9950927eff581b73a2d8ec2835e455ae|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch45.m3u8?md5=9paqpCPdUWUpuMzrjBrZ_A&expires=1783464996&ch=spch45&s=815fb0b86b16705a3ced7cd0f6ce64e5|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 11]
-https://dz5.bhalocast.pro:7059/hls/yt29.m3u8?md5=z0_0cel5qXBtLlxgNBcaCw&expires=1783464098&ch=yt29&s=67e6336dc5b563aee7127407540df09d|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/yt29.m3u8?md5=vmeVpGF9O8KnmshByx7Alg&expires=1783464999&ch=yt29&s=5236a95f6fdbbcb151ee3da001593f71|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_2.m3u8?auth_key=1783546159-0-0-9732653a3b75406e8c73c53d3a82fc7f
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_2.m3u8?auth_key=1783546619-0-0-9335fb4144061e7b7f777bac73d91268
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_6.m3u8?auth_key=1783546159-0-0-d46acec2256075bdcdc47bfc3afd6117
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_6.m3u8?auth_key=1783546619-0-0-766e1743b5fb3d3072cf2ac146a7dbd5
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_1.m3u8?auth_key=1783546159-0-0-cb5e78166809bb1b99bf5fc2326d080f
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_1.m3u8?auth_key=1783546619-0-0-db806a221e9d3bb3ad98c69c805cd59e
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_5.m3u8?auth_key=1783546159-0-0-9642d879857c7977208a951010f133ed
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_5.m3u8?auth_key=1783546619-0-0-cfe6f1ecdad9234808b8e6164cf875a1
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH5]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_4.m3u8?auth_key=1783546159-0-0-69af9abd632edcbc8fe54ddd9c33b9c5
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_4.m3u8?auth_key=1783546619-0-0-02a371f9f30c4cb88d87b318f44540f0
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fb0a4c118bacbeba732790cedb3495f1.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [Zhubo] [CH6]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_3.m3u8?auth_key=1783546159-0-0-17e890b72fcfbc9e45bb8a99f9675095
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5167041_3.m3u8?auth_key=1783546619-0-0-8e779a121cf5f4505b4d18991a1b25ff
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/6wwvovu8tjclj5.png" group-title="🔴FIFA WORLD CUP 2026🔴",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] World Cup 2026 Round of 16 | (03.00 WIB) Switzerland vs Colombia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fsla%2F1-6a2d777f44007b44f9d3f1a9%2Findex.m3u8&client_id=cts&uid=fywm8nc1&is_vip=true&verify=1783458000-w%2FPpdTaclf0a2O884Dgjm58IfzIdjRl4xlP0EOXvwU0%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
+https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fsla%2F1-6a2d777f44007b44f9d3f1a9%2Findex.m3u8&client_id=cts&uid=yjptjogn&is_vip=true&verify=1783458000-3mfontSKqtxrwNyj0dTRXl1JPnjFigLscO9biJi9DM8%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/fad87ff2077540c8a951ade88a87901d.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [HD]
 #EXTVLCOPT:http-referrer=https://www.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://www.livenobarseru.com
@@ -14248,9 +14285,9 @@ http://193.47.62.55/hls/QJMMMCZckkkqr.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://live2.jxa76.com/live/sd-6MvYMRTH75CQrkyWNX.m3u8?txSecret=9b3a5498cdcec1e330b0c4ef04cda5f4&txTime=19F3F83435D
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp" group-title="LIVE EVENT | TENNIS 🎾",[ LIVE] [17:00 WIB] [ATP TOUR] ATP Tour [CH 1]
-https://dz5.bhalocast.pro:7059/hls/bbc1ld.m3u8?md5=pQcTgUtP2ckTflMlVzzqkA&expires=1783464058&ch=bbc1ld&s=efa395193b7af241fea5735f6bb3168e|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/bbc1ld.m3u8?md5=D9stUROjqAJF_n6prV4PCQ&expires=1783464958&ch=bbc1ld&s=f45c99edab36966f44803d16f12d7dc8|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp" group-title="LIVE EVENT | TENNIS 🎾",[ LIVE] [17:00 WIB] [ATP TOUR] ATP Tour [CH 2]
-https://dz5.bhalocast.pro:7059/hls/bbc2.m3u8?md5=21Z_qdytk6e3wgAIkYwmWQ&expires=1783464061&ch=bbc2&s=a0bdc29f690d5b741db989f546878b68|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/bbc2.m3u8?md5=m6tj9pj5ntk8NBo5HQOazw&expires=1783464961&ch=bbc2&s=db80b8a3c004c992915c829e30a13cd2|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://static.assetstorage.net/assets/thumb/d49f8936c9c3510700ab7862aa14f7f8-thumbnail.jpg" group-title="LIVE EVENT | TENNIS 🎾",[ LIVE 17:00 WIB] [Tennis] Wimbledon: Courtside (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://damitv.app/
 #EXTVLCOPT:http-origin=https://damitv.app
@@ -14268,32 +14305,32 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdn3.zohanayaan.com:1686/hls/mstlouiscardinals.m3u8?md5=Fv2dIsUnI9r0m5PibhPcGw&expires=1783451757
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 1]
-https://dz5.bhalocast.pro:7059/hls/tsn1ca.m3u8?md5=FuPR1XLA5SHzy9UxoE6K0w&expires=1783464064&ch=tsn1ca&s=05f3e68c17b80c1822277bf5fa396dca|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/tsn1ca.m3u8?md5=S19Gpg0LEeeIx6ifG4iPIQ&expires=1783464965&ch=tsn1ca&s=95f3d819b083fa5391a157f8fad2b439|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 2]
-https://dz5.bhalocast.pro:7059/hls/itv111.m3u8?md5=4TO3-_MJ9sfH-E4eZRrwww&expires=1783464067&ch=itv111&s=6f12bb3445f381523d7f885ae94a7741|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/itv111.m3u8?md5=r-SGOFA28Q_kJ1-OZFT6aQ&expires=1783464968&ch=itv111&s=8907540c3ed7cec3608f6b5cef8d5a41|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 3]
-https://dz5.bhalocast.pro:7059/hls/spch8.m3u8?md5=yifj4K69umKEwLvuzVYtew&expires=1783464071&ch=spch8&s=94a195eacd9b7f56ffec758f2870e75a|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch8.m3u8?md5=xLsfORhISS8Soa27MDdAvQ&expires=1783464971&ch=spch8&s=38868d469b012fef3096658b3d23dcf0|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 4]
-https://dz5.bhalocast.pro:7059/hls/spch9.m3u8?md5=ahq9SEjjXoqkAIroJj6czw&expires=1783464074&ch=spch9&s=d25936fb24b6b5342eea88169010456f|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch9.m3u8?md5=SuClDhvx7X3snCOED8_k9Q&expires=1783464975&ch=spch9&s=da4bd5346bac4a202467bd51244e4bc8|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 5]
-https://dz5.bhalocast.pro:7059/hls/spch10.m3u8?md5=mLG4xWOwplm0A_QJCSitag&expires=1783464077&ch=spch10&s=53d79579750ae19b932b6053f30ed08b|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch10.m3u8?md5=cuwhDZ2ZbJspGOysYlMY4Q&expires=1783464978&ch=spch10&s=09097f382b37c85bf661632335a8386f|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 6]
-https://dz5.bhalocast.pro:7059/hls/tsn3ca.m3u8?md5=L1u7IIK4VB77mqjy5iicZA&expires=1783464081&ch=tsn3ca&s=1d63335b007645d1074e1767bb3a2a3d|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/tsn3ca.m3u8?md5=bp5IIvH-bWI2bz49Zjs-cg&expires=1783464982&ch=tsn3ca&s=ddb59c38e90be5519ba98e11b653ab66|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 7]
-https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=mipq97Z1sxpsH_NES8PMww&expires=1783464084&ch=daznlaliga&s=e358c4af2fce8913f8451ebe3834de3b|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=PNs4wZ1rlzPPGEFiF-ovcA&expires=1783464985&ch=daznlaliga&s=bd1d0753655893925d053903a73b75f2|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 8]
-https://dz5.bhalocast.pro:7059/hls/yt25.m3u8?md5=BfV14ed4AHM7UfS3d0G59g&expires=1783464088&ch=yt25&s=fe7b273a1951e37b07c2d5a8fe4e6e44|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/yt25.m3u8?md5=O43VVEEpAKiCCVvPYdTtZA&expires=1783464989&ch=yt25&s=1f26254271477506761b42a2a1fcfe32|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 9]
-https://dz5.bhalocast.pro:7059/hls/bsp1fr.m3u8?md5=Myj9PGmm1epRo71ixYrzDQ&expires=1783464091&ch=bsp1fr&s=4fba47eee6e7df27c0aae3e55535047c|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/bsp1fr.m3u8?md5=MbE7wLP6eAHN3JHztVCFBQ&expires=1783464992&ch=bsp1fr&s=da0e08548e33310880be403d42736db3|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 10]
-https://dz5.bhalocast.pro:7059/hls/spch45.m3u8?md5=kWGA6Y8LOmmocknWXwPKdA&expires=1783464094&ch=spch45&s=9950927eff581b73a2d8ec2835e455ae|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/spch45.m3u8?md5=9paqpCPdUWUpuMzrjBrZ_A&expires=1783464996&ch=spch45&s=815fb0b86b16705a3ced7cd0f6ce64e5|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/colombia/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [03:00 WIB] [FIFA WORLD CUP] Colombia - Switzerland [CH 11]
-https://dz5.bhalocast.pro:7059/hls/yt29.m3u8?md5=z0_0cel5qXBtLlxgNBcaCw&expires=1783464098&ch=yt29&s=67e6336dc5b563aee7127407540df09d|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/yt29.m3u8?md5=vmeVpGF9O8KnmshByx7Alg&expires=1783464999&ch=yt29&s=5236a95f6fdbbcb151ee3da001593f71|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4402fbc939277321386d11fd427eb2b6.png!w80" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live.kinxie.com/live/53452523_3d33d9b8c420f991d02e0a9f359a3a5a_autoChange.m3u8?auth_key=1783473995-0-0-030c0ae835006c4a40a4b5d7cc04b6b6
+https://live.kinxie.com/live/53452523_3d33d9b8c420f991d02e0a9f359a3a5a_autoChange.m3u8?auth_key=1783474723-0-0-f1fbc0e120a0697c7913bfb4f95daa8b
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/fad87ff2077540c8a951ade88a87901d.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 03:00 WIB] [FIFA World Cup] Switzerland vs Colombia [HD]
 #EXTVLCOPT:http-referrer=https://www.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://www.livenobarseru.com
@@ -14314,10 +14351,15 @@ https://cdn14.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=SXlohl59qImR44HkYrBn3Q&e
 #EXTVLCOPT:http-origin=https://exposestrat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdn11.zohanayaan.com:1686/hls/nctvhd.m3u8?md5=ykJkEXmzaja62iv_OXBWjw&expires=1783458067
+#EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/BaltimoreOrioles.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [05:35 WIB 08/07/2026] [MLB] Baltimore Orioles - Chicago Cubs
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn12.zohanayaan.com:1686/hls/mbaltimoreorioles.m3u8?md5=WQqBCxgaW36OEsaltpkpsA&expires=1783467354
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [17:00 WIB] [ATP TOUR] ATP Tour [CH 1]
-https://dz5.bhalocast.pro:7059/hls/bbc1ld.m3u8?md5=pQcTgUtP2ckTflMlVzzqkA&expires=1783464058&ch=bbc1ld&s=efa395193b7af241fea5735f6bb3168e|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/bbc1ld.m3u8?md5=D9stUROjqAJF_n6prV4PCQ&expires=1783464958&ch=bbc1ld&s=f45c99edab36966f44803d16f12d7dc8|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE] [17:00 WIB] [ATP TOUR] ATP Tour [CH 2]
-https://dz5.bhalocast.pro:7059/hls/bbc2.m3u8?md5=21Z_qdytk6e3wgAIkYwmWQ&expires=1783464061&ch=bbc2&s=a0bdc29f690d5b741db989f546878b68|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dz5.bhalocast.pro:7059/hls/bbc2.m3u8?md5=m6tj9pj5ntk8NBo5HQOazw&expires=1783464961&ch=bbc2&s=db80b8a3c004c992915c829e30a13cd2|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/france/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[ UPCOMING] [03:00 WIB] [FIFA WORLD CUP] France - Morocco
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/pga-tour/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[ UPCOMING] [14:30 WIB] [PGA TOUR] PGA Tour
@@ -14348,22 +14390,22 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=f38298999e6ccbf5b2e5343b6f2a6280&wsABSTime=1783503056
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=a4f1e57cb625ea8915e5770fb738d09a&wsABSTime=1783503363
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/1l4rjdh0ylpr7vx/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",[ LIVE] 04:00 WIB 08/07 - NU CANADA U21 VS NU MEXICO U21 [PAN]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=9d0635d04ed285aa8fbc368a6f16a24b&wsABSTime=1783503130
+https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=0a13e66c8afbc19046daef42333f6ca7&wsABSTime=1783503565
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh3v4vr1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",05:00 WIB - ATLETICO TEMBETARY VS INDEPENDIENTE FBC [PAR D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=b4dcbc617daa40308f34c6c2d28f6059&wsABSTime=1783503056
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=c99e8cc48e00fecb297171d83e50ddc4&wsABSTime=1783503363
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghndogmoep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",05:00 WIB - WEST VIRGINIA ALLIANCE FC VS LOUISVILLE CITY B [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=7e51303fe908672997590facaa094a18&wsABSTime=1783503056
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=b342b24df830d1ad5d3e66df1bc5b1da&wsABSTime=1783503364
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="SPORTS FHD",ACI Sport TV (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="SPORTS FHD",AS3 Sport TV (1080p)
@@ -14839,26 +14881,16 @@ https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782978143-0-0-15f6
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=RT%C3%89%20Two%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc684/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNjg0OjE3ODM0NjcwNzEyNDM6Y2RubGl2ZXR2LnR2OjZjN2FlZDczOTk0Y2U4OTIuNDA3OTc1ZGZkYWEyNTRkYWM3YmUzMzU4Njg4OTk3YTI5YjVmZGFkZTJkNzZmZTMzMGIwYWRmMGRkMTEwMGIzMw
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[MLB] Milwaukee Brewers vs St. Louis Cardinals (Not Nguyen)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport1%2B%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport1%2B%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccafa/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWZhOjE3ODM0NjE2MzE0ODI6Y2RubGl2ZXR2LnR2OmFhYTNhNmFlYzFhMmJhZGIuMTIxMzQ4OTY1Y2M4MDk1MGVlYzFlODdmZTVlMGYxNDY3ZTI0NzRmMTUzOTljZDViNWU5Njc3ZTU1Y2EyNjJmOA
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[MLB] St. Louis Cardinals - Milwaukee Brewers (Not Nguyen)
-#EXTVLCOPT:http-referrer=https://exposestrat.com
-#EXTVLCOPT:http-origin=https://exposestrat.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn13.zohanayaan.com:1686/hls/mstlouiscardinals.m3u8?md5=0TWpqWK-yubk8Z10l9cvag&expires=1783459866
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[FIFA World Cup 2026] Switzerland vs Colombia (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn9.zohanayaan.com:1686/hls/do31.m3u8?md5=5n67wjALHobGnGG7djG5UQ&expires=1783459235
+https://cdn9.zohanayaan.com:1686/hls/do31.m3u8?md5=XhkJudFUg75W-7YuhpjVnQ&expires=1783464631
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[Fifa World Cup] Switzerland - Colombia (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn13.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=dFl8NtD76KkxC7gDYQCeww&expires=1783459867
+https://cdn14.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=SCCsla5YG1ujhKlRJl808g&expires=1783467055
 #EXTINF:-1 tvg-logo="https://images.open-epg.com/x1590.png" group-title="LIVE TV - USA",beIN Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="LIVE TV - USA",Fox Sports 1
