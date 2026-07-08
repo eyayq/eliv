@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:48 WIB 08/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:48 WIB 08/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:56 WIB 08/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:56 WIB 08/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArVKf_QdNCMqIxSl8kXX9DaZetUZs2tK7lw&s" group-title="WTA1000 Miami",[19:00 WIB 08/07/26]  Linda Noskova vs Elise Mertens [FHD] [LIVE]
@@ -10,15 +10,6 @@ https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArVKf_QdNCMqIxSl8kXX9DaZetUZs2tK7lw&s" group-title="WTA1000 Miami",[19:00 WIB 08/07/26]  Linda Noskova vs Elise Mertens [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArVKf_QdNCMqIxSl8kXX9DaZetUZs2tK7lw&s" group-title="WTA1000 Miami",[19:30 WIB 08/07/26] Marta Kostuyk vs Jasmine Paolini [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArVKf_QdNCMqIxSl8kXX9DaZetUZs2tK7lw&s" group-title="WTA1000 Miami",[19:30 WIB 08/07/26] Marta Kostuyk vs Jasmine Paolini [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArVKf_QdNCMqIxSl8kXX9DaZetUZs2tK7lw&s" group-title="WTA1000 Miami",[19:30 WIB 08/07/26] Marta Kostuyk vs Jasmine Paolini [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.atptour.com/assets/atpwt/images/tournament/badges/categorystamps_1000.png" group-title="ATP1000 Miami",[20:10 WIB 08/07/26] Taylor Fritz vs Alexandet Zverev [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
