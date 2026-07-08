@@ -1,243 +1,282 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.43 WIB 09/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.52 WIB 09/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zira-fk-796dd4.png" group-title="[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 1",[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/YUYUYUQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zira-fk-796dd4.png" group-title="[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 2",[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.streamgoaldaddy.com/live/d8df9ae913f48b37.m3u8?wsSecret=205D2BC7106F66144B9C3324004E0430&wsTime=1783532312
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1783536626-0-0-11eaea22c1586eebb46acc4501402b24
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zira-fk-796dd4.png" group-title="[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 3",[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1783536626-0-0-4552e1c31d35ebbdb6e81395523fca14
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zira-fk-796dd4.png" group-title="[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 4",[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1783536623-0-0-8728ba85c153ab0c458093e5a8ba6d08
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zira-fk-796dd4.png" group-title="[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 5",[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1783535904-0-0-ac38b7207ed85cf22690808194455121
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1783536623-0-0-5fa69bce1a72ddd68c0965db72d94cd1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zira-fk-796dd4.png" group-title="[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 6",[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1783535904-0-0-a8934f7e0047f29fe88722932063c8a4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1783536624-0-0-a646abf7be607416cdc75f11fed30aa9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zira-fk-796dd4.png" group-title="[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 7",[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1783535903-0-0-b461ef57d8cc740121a8ec81d7c893dc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1783536624-0-0-65f99736ad28880ab11e07c699d986c8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zira-fk-796dd4.png" group-title="[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 8",[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1783535903-0-0-dbf04a5f3aaf96320ed4ded351bf2edf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1783536665-0-0-6978285b000e5b489795eba0d7118eee
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zira-fk-796dd4.png" group-title="[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 9",[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1783535904-0-0-770c8999dcf7d4b5a8591d8bc7d06856
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zira-fk-796dd4.png" group-title="[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 10",[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1783535904-0-0-337404c95d5a78d15aa3164b21b49751
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zira-fk-796dd4.png" group-title="[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 11",[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1783535904-0-0-f3cfa2406a5f97349edd077e1bff5eb1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zira-fk-796dd4.png" group-title="[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 12",[LIVE 23:00 WIB 08/07/26] Zira FK vs Torpedo Kutaisi | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1783535904-0-0-106f6bdd326509d7cced75fb958dec54
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1783536665-0-0-58d44c81a305bcf18d370fa5c85e14f4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 1",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/ZEZEZE.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 2",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.streamgoaldaddy.com/live/241cfba50755cab1.m3u8?wsSecret=34D21C9147D0D1B93BAD4833516C0C25&wsTime=1783532312
+https://play.streamgoaldaddy.com/live/241cfba50755cab1.m3u8?wsSecret=086B2A5280484066B2BCE9FE6049FB0C&wsTime=1783533034
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 3",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1783536624-0-0-b2bf2c3931d74130f10e121cbd369048
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 4",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1783536624-0-0-b290fc2f653847cdbdf704f4e61935db
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 5",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=ce1ce26ffdcd13a4547aa770c040beb0&txTime=6a4ee23f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 6",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=a38e149d33f0c11c5971108092a572b3&txTime=6a4ee23f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 7",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1783536623-0-0-91307138e5ed97344b504e1e0e6cabe5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 8",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1783536623-0-0-34a3ecc42bcc95bff228d3e70ab2e896
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 9",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1783536624-0-0-35da9e029f9c35204674c64eaa8e5b82
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 10",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1783536624-0-0-812f39fdcfc2f346043ff7cb1eb2e73a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 11",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=60f3fa37d0362e02eda5ec70e7424b55&txTime=6a4ee240
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 12",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=0ee4f7946c424890a8a2f21f01554040&txTime=6a4ee240
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 13",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-619108_lsd.m3u8?auth_key=1783536624-0-0-9e5d7db23c0baf0ecf78dd46568e37d7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 14",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1783536624-0-0-2304ee9e99e246089825af2f18b198a5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 15",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 5",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1783535904-0-0-9860a0bf7d76727ce445ea8ee8953d44
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 6",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1783535904-0-0-1624dda95c4fd779a23570f6e1afb332
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 7",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=8ef5cbd96a8adf31145ede7f428d5446&txTime=6a4edf6f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 8",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=7c8a14198b3f85f506a6dd95c0b9b055&txTime=6a4edf6f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 9",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1783535904-0-0-1c4f2c382dfaa38d919f3507e89b3f3f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 10",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1783535904-0-0-980128f13e9189b0b3a4b7b93924eb00
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 11",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1783535903-0-0-06db60504c39405e9f21c457f8d9bbcb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 12",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1783535903-0-0-cdeb2aa80e7a84191266652952f70879
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 13",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-619108_lsd.m3u8?auth_key=1783535904-0-0-329bca85046703c8e2bf1405dbd9891c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 14",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1783535904-0-0-7b9f531ef369a991bd16d3da8fcdb756
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 15",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=358325e8a8bcab08503cc1719b12b58a&txTime=6a4edf70
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 16",[LIVE 23:00 WIB 08/07/26] FC Flora Tallinn vs FC Iberia 1999 Tbilisi | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=bff7e47ec4185070a2138e39c2dc5bc7&txTime=6a4edf70
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 23:30 WIB 08/07/26] Spain U19 vs Croatia U19 | Server 1",[LIVE 23:30 WIB 08/07/26] Spain U19 vs Croatia U19 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/YUYUYUQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 1",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.streamgoaldaddy.com/live/277db393bb64dee6.m3u8?wsSecret=68EF07CF297686EE8AA8A28316AAC83C&wsTime=1783533034
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 2",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1783536624-0-0-e7c6e45b4f48c838397467cb57cb6e7c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 3",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1783536624-0-0-e239194bde865d9633c1191219269549
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 4",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=28ad878fd4dd435bd44a15d620d0eb26&txTime=6a4ee23f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 5",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=23035154530d3bad0573a24ef3c3dd0d&txTime=6a4ee23f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 6",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1783536623-0-0-084448409983cab87c5fb2dbd49ac813
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 7",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1783536623-0-0-1efa3d062538be8c5ecad04e4948d366
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 8",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1783536623-0-0-813a6a4d56bed06290a58f677b786eb3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 9",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1783536623-0-0-b00cebd3d85ff2a1f540046eb01c321b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 10",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1783536623-0-0-1ee49e600e653b426df1bf494eaeed13
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 11",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1783536623-0-0-551af1ccac8310a855d333c4b9a0862e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 12",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=65e30a33500154513ba5afe451f0c386&txTime=6a4ee23f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 13",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=bafcee3ee7dba88ed778abb1761c26f2&txTime=6a4ee23f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 14",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 15",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 15 (SVR-BHNS 15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 1",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/ZEZEZEQQ.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 2",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.streamgoaldaddy.com/live/adf8b9f5bbb3aaa2.m3u8?wsSecret=7CC00079C7EFF9DFA09A11D9B26A3E29&wsTime=1783532312
+https://play.streamgoaldaddy.com/live/adf8b9f5bbb3aaa2.m3u8?wsSecret=E53D11252FA7C40754FE5F2086633C5C&wsTime=1783533034
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 3",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1783536623-0-0-5a5e24fd0aa74d9856b1068df8275808
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 4",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1783536623-0-0-e3249b6f78bcbc29e0e85e34f76d8624
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 5",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1783536623-0-0-26e4db128289bb86cb1d604d59e5c637
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 6",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1783536623-0-0-50b4fafc830bc8906f696631932ff918
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 7",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1783536623-0-0-1e2a3a418dbc25c9a1ad93ddb719e4df
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 8",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1783536623-0-0-23d8ab5a960350fcdd856ddcb8fcbd4d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 9",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1783536624-0-0-cc7a3077160d5de161392e284ec3bcfc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 10",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1783536624-0-0-7a1f4f10e51f0d5f880c5ffb2b8f5b60
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 11",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1783536684-0-0-f8b91480be5a4bde92cb0c0a0af4e66d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 12",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1783536684-0-0-a4b5e459a8d12ddf4c3e9fef917f7fb4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 13",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1783536683-0-0-c6857cc9cf6338150c0f61f589403189
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 14",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1783536683-0-0-3981962de7d9f02c45279fc0a07119ab
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 15",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 5",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1783535903-0-0-dfd229cc07ac58ee831765da06c58b83
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 6",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1783535903-0-0-43c032addee12af17a22a79ba96fe8e9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 7",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1783535903-0-0-20f9f46f486f871850eca55b41c559fa
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 8",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1783535903-0-0-56526c3b87bbce67262f19edd0b3078a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 9",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1783535904-0-0-1af8e617517c045293e4ebc10e412414
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 10",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1783535904-0-0-c81af37d1c42aa2431748ec6941899ef
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 11",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1783535903-0-0-c405747327c79ed7c200123bf470f5d7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 12",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1783535903-0-0-f84a94b498e6e10f03f7d26b52642efe
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 13",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1783535903-0-0-4d1e380cc03d5640feeabddc486e7942
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 14",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1783535903-0-0-70ff55e020b1f26b666051b3b9d65c8f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 15",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1783535904-0-0-d3bd812c2fc1fd1213319ba04e4fc7ac
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cs-petrocub-9e34fc.png" group-title="[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 16",[LIVE 00:00 WIB 09/07/26] CS Petrocub vs Egnatia | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1783535904-0-0-24cbbe47213e5e77d12d966ed57b6f4a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 00:00 WIB 09/07/26] Zenit vs Neftchi Fargona | Server 1",[LIVE 00:00 WIB 09/07/26] Zenit vs Neftchi Fargona | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/KVVVFQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 1",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.streamgoaldaddy.com/live/277db393bb64dee6.m3u8?wsSecret=66A7A51FFED32AD5850641BE4965D197&wsTime=1783532312
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 2",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 3",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 4",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1783535903-0-0-a100e0ceccedaf0262c478fcdc7f3713
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 5",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1783535903-0-0-756047e674357850685eeb30b1946a94
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 6",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1783535903-0-0-759d24208122b94f680e1b6e92762878
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 7",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1783535903-0-0-f7ec6269264916d009288b0485161170
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 8",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1783535904-0-0-aa265c6531af23c712fbcf2398788b38
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 9",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1783535904-0-0-ffdd0e25db5e7676a0037b0292db5025
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 10",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=804ea3319eb950b5c96f16ffe531f199&txTime=6a4edf6f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 11",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=0c1cdbe256957d3aecc5a6d8559565ec&txTime=6a4edf6f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 12",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=959448147aca85aa582ad95eb363f204&txTime=6a4edf6f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 13",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=227d9ebf2f3ad7749e3d4e63c741da04&txTime=6a4edf6f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 14",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1783535903-0-0-d4e75837440cfb6a04065387e1e6336b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maxline-vitebsk-fafb74.png" group-title="[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 15",[LIVE 00:00 WIB 09/07/26] Maxline Vitebsk vs CS Universitatea Craiova | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1783535903-0-0-8a7fa8eb85d633209288dfd1cc2dfa21
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 1",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.42/hls/ZEZEZEQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 2",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.streamgoaldaddy.com/live/a8b05e68c01f2cd7.m3u8?wsSecret=B810120B352545093EA2F1EDDEF0A190&wsTime=1783532312
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 3",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 4",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1783535964-0-0-5584ee0a6a5ee12c80565ac60ac12513
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 5",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1783535964-0-0-b5e641adf94e017d64f6324251ff1256
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 6",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1783535963-0-0-9e25fedf15a66a6277dad3737403550b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 7",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1783535963-0-0-149d58028dd6de78529313994d199f87
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 8",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=59de81cec81a5a514823f950b182968c&txTime=6a4edfab
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 9",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=052e621cf5401cd407376e334e312345&txTime=6a4edfab
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-differdange-03-7ca7e6.png" group-title="[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 1",[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/ZEZEZEQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-differdange-03-7ca7e6.png" group-title="[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 2",[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.streamgoaldaddy.com/live/0c7d9fc7f6b891b1.m3u8?wsSecret=4675C42797C4C574528D3144DBA32EA8&wsTime=1783532312
+https://play.streamgoaldaddy.com/live/0c7d9fc7f6b891b1.m3u8?wsSecret=E0CDEEA2753D68F0C0674EB5C8A0BE92&wsTime=1783533034
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-differdange-03-7ca7e6.png" group-title="[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 3",[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1783536684-0-0-d1b770beca823289d6615569c038179d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-differdange-03-7ca7e6.png" group-title="[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 4",[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1783536684-0-0-f2a4b74a5e1d6e4cf62f05ebf523ef50
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-differdange-03-7ca7e6.png" group-title="[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 5",[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1783536684-0-0-c2581ce4d7b06b9fb66c1f93fa882ece
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-differdange-03-7ca7e6.png" group-title="[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 6",[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1783536684-0-0-61bed979d0dd98707ea30386c6767dd8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-differdange-03-7ca7e6.png" group-title="[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 7",[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-differdange-03-7ca7e6.png" group-title="[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 5",[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1783535964-0-0-c0733c70777918c6d8b74ebc1b6bde04
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-differdange-03-7ca7e6.png" group-title="[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 6",[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1783535964-0-0-16d2bc09a9e2399bc3595e613099deb5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-differdange-03-7ca7e6.png" group-title="[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 7",[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1783535964-0-0-98058253984db56be0d64a2d7e313a15
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-differdange-03-7ca7e6.png" group-title="[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 8",[LIVE 00:30 WIB 09/07/26] FC Differdange 03 vs Ilves Tampere | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1783535964-0-0-971a2a639364281c17054818171b94d9
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 09/07/26] ML Vitebsk vs Univ Craiova | Server 1",[LIVE 01:00 WIB 09/07/26] ML Vitebsk vs Univ Craiova | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 1",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.42/hls/ZEZEZEQ.m3u8
+http://193.47.62.42/hls/ZEZEZEQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 2",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.streamgoaldaddy.com/live/a8b05e68c01f2cd7.m3u8?wsSecret=EC58084135A951745CECACAD2A2B6028&wsTime=1783533034
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 3",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=664104f6a2ec0adff50d5ff8881e30b4&txTime=6a4ee27b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 4",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=c22ad5fd4890cd8376736871c99ac054&txTime=6a4ee27b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 5",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1783536684-0-0-e41f847527eb3585398713af9c26a0ed
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 6",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1783536684-0-0-9104ef145dabb8c1be80448a0f67829d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 7",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1783536683-0-0-09dbb5aaf40d117d8f7dfad195fb2164
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 8",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1783536683-0-0-26a8cc09aee28ce74f28e25a9c3c789a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/connahs-quay-nomads-fc-b7e969.png" group-title="[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 9",[LIVE 00:30 WIB 09/07/26] Connahs Quay Nomads FC vs FC Ballkani | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 09/07/26] FC Trenkwalder Admira vs Fenerbahce | Server 1",[LIVE 01:00 WIB 09/07/26] FC Trenkwalder Admira vs Fenerbahce | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/KVVVFQQqQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 09/07/26] ML Vitebsk vs Univ Craiova | Server 1",[LIVE 01:00 WIB 09/07/26] ML Vitebsk vs Univ Craiova | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.42/hls/ZEZEZEQ.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santos-youth-32dfba.png" group-title="[LIVE 01:00 WIB 09/07/26] Santos (Youth) vs Botafogo RJ (Youth) | Server 1",[LIVE 01:00 WIB 09/07/26] Santos (Youth) vs Botafogo RJ (Youth) | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santos-youth-32dfba.png" group-title="[LIVE 01:00 WIB 09/07/26] Santos (Youth) vs Botafogo RJ (Youth) | Server 2",[LIVE 01:00 WIB 09/07/26] Santos (Youth) vs Botafogo RJ (Youth) | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-u19-12bd1f.png" group-title="[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 1",[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1783536683-0-0-bab589e1125bef1b1f27c87e666dceea
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-u19-12bd1f.png" group-title="[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 2",[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1783536683-0-0-6fe3b25758c6716d91326196a21532d5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-u19-12bd1f.png" group-title="[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 3",[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1783536684-0-0-f11d15b3c9109bdd58504ed936db22f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-u19-12bd1f.png" group-title="[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 4",[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1783536684-0-0-87e4a80c2b3b70ec25a97b3973cb3c43
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-u19-12bd1f.png" group-title="[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 5",[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1783536684-0-0-931e4b11e225e78ab56ab51eb8c053f6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-u19-12bd1f.png" group-title="[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 6",[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1783536684-0-0-dc51d6f58a768820a36c29d73fafb4e8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-u19-12bd1f.png" group-title="[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 7",[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1783536684-0-0-cdd10e055baef26f0b28790585a885ca
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-u19-12bd1f.png" group-title="[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 8",[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1783536684-0-0-7d9c0aeb0e2fe4803fad94a4e900d876
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-u19-12bd1f.png" group-title="[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 9",[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1783536683-0-0-bec7bf5c4208841dceb1b48ee88a70f3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-u19-12bd1f.png" group-title="[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 10",[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1783536683-0-0-4605d1517e358b03e252163174660ec0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-u19-12bd1f.png" group-title="[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 11",[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1783536684-0-0-09d13f52b6f9aee3bd503739aae689ed
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-u19-12bd1f.png" group-title="[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 12",[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1783536684-0-0-3331755b2239061f7e9a0687850e00a7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-u19-12bd1f.png" group-title="[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 13",[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-u19-12bd1f.png" group-title="[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 14",[LIVE 01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
