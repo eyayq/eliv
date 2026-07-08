@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [19:43 WIB 08/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:43 WIB 08/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [19:49 WIB 08/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:49 WIB 08/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[18:30 WIB 08/07/26] Langfang Glory City vs Jiangxi Liansheng [FHD] [LIVE]
@@ -20,13 +20,13 @@ https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArVKf_QdNCMqIxSl8kXX9DaZetUZs2tK7lw&s" group-title="WTA1000 Miami",[19:00 WIB 08/07/26]  Linda Noskova vs Elise Mertens [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArVKf_QdNCMqIxSl8kXX9DaZetUZs2tK7lw&s" group-title="WTA1000 Miami",[19:30 WIB 08/07/26] Marta Kostuyk vs Jasmine Paolini [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArVKf_QdNCMqIxSl8kXX9DaZetUZs2tK7lw&s" group-title="WTA1000 Miami",[19:30 WIB 08/07/26] Marta Kostuyk vs Jasmine Paolini [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArVKf_QdNCMqIxSl8kXX9DaZetUZs2tK7lw&s" group-title="WTA1000 Miami",[19:30 WIB 08/07/26] Marta Kostuyk vs Jasmine Paolini [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArVKf_QdNCMqIxSl8kXX9DaZetUZs2tK7lw&s" group-title="WTA1000 Miami",[19:30 WIB 08/07/26] Marta Kostuyk vs Jasmine Paolini [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArVKf_QdNCMqIxSl8kXX9DaZetUZs2tK7lw&s" group-title="WTA1000 Miami",[19:30 WIB 08/07/26] Marta Kostuyk vs Jasmine Paolini [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArVKf_QdNCMqIxSl8kXX9DaZetUZs2tK7lw&s" group-title="WTA1000 Miami",[19:30 WIB 08/07/26] Marta Kostuyk vs Jasmine Paolini [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.atptour.com/assets/atpwt/images/tournament/badges/categorystamps_1000.png" group-title="ATP1000 Miami",[20:10 WIB 08/07/26] Taylor Fritz vs Alexandet Zverev [FHD] [NANTIKAN]
@@ -84,13 +84,13 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/493.png" group-title="UEFA U19 Championship",[01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/493.png" group-title="UEFA U19 Championship",[01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/493.png" group-title="UEFA U19 Championship",[01:00 WIB 09/07/26] Ukraine U19 vs Germany U19 [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[06:00 WIB 09/07/26] Ponte Preta vs Criciuma [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
