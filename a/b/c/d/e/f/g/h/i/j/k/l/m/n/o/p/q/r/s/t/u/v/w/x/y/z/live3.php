@@ -1,23 +1,23 @@
 #EXTM3U
-# Generated Wed Jul  8 05:14:35 2026
+# Generated Wed Jul  8 05:20:26 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Wednesday 08-07-2026 12:14:07 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Wednesday 08-07-2026 12:20:19 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Chinese Football League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png",📁😈Shanxi Chongde Ronghai😈 [🆚] 😈Dalian Kewei [165m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese Football League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png",📁😈Shanxi Chongde Ronghai😈 [🆚] 😈Dalian Kewei [159m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4513034
-#EXTINF:-1 group-title="📁😈 UEFA European U19 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png",📁😈Denmark U19😈 [🆚] 😈Italy U19 [465m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA European U19 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png",📁😈Denmark U19😈 [🆚] 😈Italy U19 [459m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4578733
-#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈FC Flora Tallinn😈 [🆚] 😈FC Iberia 1999 Tbilisi [645m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈FC Flora Tallinn😈 [🆚] 😈FC Iberia 1999 Tbilisi [639m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4556502
-#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Maxline Vitebsk😈 [🆚] 😈CS Universitatea Craiova [705m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Maxline Vitebsk😈 [🆚] 😈CS Universitatea Craiova [699m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4556514
-#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈CS Petrocub😈 [🆚] 😈Egnatia [705m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈CS Petrocub😈 [🆚] 😈Egnatia [699m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4556516
-#EXTINF:-1 group-title="📁😈 International Club Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png",📁😈Lausanne Sports😈 [🆚] 😈Flamengo - RJ [855m]😈📁
+#EXTINF:-1 group-title="📁😈 International Club Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png",📁😈Lausanne Sports😈 [🆚] 😈Flamengo - RJ [849m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4575130
-#EXTINF:-1 group-title="📁😈 Bolivian Primera Division 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5d75feb43ea08222def38c8aa43db089.png",📁😈Real Potosi😈 [🆚] 😈Academia del Balompié Boliviano [1125m]😈📁
+#EXTINF:-1 group-title="📁😈 Bolivian Primera Division 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5d75feb43ea08222def38c8aa43db089.png",📁😈Real Potosi😈 [🆚] 😈Academia del Balompié Boliviano [1119m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4525923
-#EXTINF:-1 group-title="📁😈 USL Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c3308f60cc17871dd88b2bbc690734a3.png",📁😈Sacramento Republic FC😈 [🆚] 😈Rhode Island [1275m]😈📁
+#EXTINF:-1 group-title="📁😈 USL Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c3308f60cc17871dd88b2bbc690734a3.png",📁😈Sacramento Republic FC😈 [🆚] 😈Rhode Island [1269m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4472997
-#EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈Alashkert😈 [🆚] 😈FK Yelimay Semey [2085m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈Alashkert😈 [🆚] 😈FK Yelimay Semey [2079m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4556534
