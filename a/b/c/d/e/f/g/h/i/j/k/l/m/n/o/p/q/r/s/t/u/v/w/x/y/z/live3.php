@@ -1,23 +1,23 @@
 #EXTM3U
-# Generated Thu Jul  9 06:09:42 2026
+# Generated Thu Jul  9 06:47:21 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 09-07-2026 13:09:14 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 09-07-2026 13:47:13 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Women's National League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/40121ad4dae08e4bef3bb8d4a46606d1.png",📁😈Ha Noi IIWomen😈 [🆚] 😈Phong Phu Ha Nam Women [170m]😈📁
+#EXTINF:-1 group-title="📁😈 Women's National League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/40121ad4dae08e4bef3bb8d4a46606d1.png",📁😈Ha Noi IIWomen😈 [🆚] 😈Phong Phu Ha Nam Women [132m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4552796
-#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈Jaiyq😈 [🆚] 😈Tobol Kostanai B [410m]😈📁
+#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈Jaiyq😈 [🆚] 😈Tobol Kostanai B [372m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4523582
-#EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈Alashkert😈 [🆚] 😈FK Yelimay Semey [590m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈Alashkert😈 [🆚] 😈FK Yelimay Semey [552m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4556534
-#EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈Dila Gori😈 [🆚] 😈SS Virtus [590m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈Dila Gori😈 [🆚] 😈SS Virtus [552m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4556546
-#EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈Dynamo Kyiv😈 [🆚] 😈FC Universitatea Cluj [650m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈Dynamo Kyiv😈 [🆚] 😈FC Universitatea Cluj [612m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4556473
-#EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈Dinamo Minsk😈 [🆚] 😈Sileks [650m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈Dinamo Minsk😈 [🆚] 😈Sileks [612m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4556560
-#EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈Hajduk Split😈 [🆚] 😈MSK Zilina [710m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈Hajduk Split😈 [🆚] 😈MSK Zilina [672m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4556475
-#EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈Glentoran FC😈 [🆚] 😈Rigas Futbola Skola [740m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈Glentoran FC😈 [🆚] 😈Rigas Futbola Skola [702m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4556556
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈France😈 [🆚] 😈Morocco [830m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈France😈 [🆚] 😈Morocco [792m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4459808
