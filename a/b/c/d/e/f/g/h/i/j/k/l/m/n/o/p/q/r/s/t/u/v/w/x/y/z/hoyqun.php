@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [15:39 WIB 09/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:39 WIB 09/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [15:53 WIB 09/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:53 WIB 09/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/V.League_1_new_logo.svg" group-title="V.league",[16:00 WIB 09/07/26] Hà Nội 2 Nữ vs Phong Phú Hà Nam Nữ [FHD] [LIVE]
