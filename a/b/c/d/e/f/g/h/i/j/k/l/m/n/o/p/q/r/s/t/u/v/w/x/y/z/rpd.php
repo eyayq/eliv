@@ -1,42 +1,42 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [05.03 WIB 11/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [05.09 WIB 11/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/alianza-atletico-sullana-e68dcf.gif" group-title="[LIVE 03:30 WIB 11/07/26] Alianza Atletico Sullana vs Molinos El Pirata | Server 1",[LIVE 03:30 WIB 11/07/26] Alianza Atletico Sullana vs Molinos El Pirata | Server 1 (SVR-BHNS 1)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 1",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://auto.cdnfaster.live/live/sd-6MweKtjP9qpy59L9WU/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/0bab5c51d1f07f0dc8447c5b860debe3.png" group-title="[LIVE 05:00 WIB 11/07/26] sư tử phương Bắc vs Universidad Catolica | Server 1",[LIVE 05:00 WIB 11/07/26] sư tử phương Bắc vs Universidad Catolica | Server 1 (SVR-BHNS 1)
+https://cds78y11d.org/live/sd-6MweaW3Qy1T3RTsvuS.m3u8?txSecret=62d0baa04bb3b3009a7fe08d76773f0f&txTime=6A52158C
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 2",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.41/hls/YOOOQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 3",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MvVNKqYBhxQ7pGAMr.m3u8?txSecret=f88b6b21db318ecece81db9b8500b2ae&txTime=6A521425
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-leones-del-norte-342c02.webp" group-title="[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 1",[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 1 (SVR-BHNS 1)
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 4",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=d00870bd1b34013301b856e8df508d6d&txTime=6a51bee8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-leones-del-norte-342c02.webp" group-title="[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 2",[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 2 (SVR-BHNS 2)
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1783724724-0-0-89902ff2b171e78f48ccea6a2ad49c64
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 5",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=93b739db9c5e42ca2ef502a75a2434fc&txTime=6a51bee8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-leones-del-norte-342c02.webp" group-title="[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 3",[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 3 (SVR-BHNS 3)
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1783724724-0-0-6a35134cda61381c301adbda31218ef4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 6",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1783724184-0-0-66b38b335d56411c20f1e28790d4bb20
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-leones-del-norte-342c02.webp" group-title="[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 4",[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 4 (SVR-BHNS 4)
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1783724724-0-0-0f8a143b1a4ec6d49154c04c7b18580d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 7",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1783724184-0-0-af001b52bbc9c38fd9b3c196efb5edc7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-leones-del-norte-342c02.webp" group-title="[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 5",[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 5 (SVR-BHNS 5)
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1783724724-0-0-28092a600007cb7c11d21cb6055cca19
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 8",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1783724184-0-0-50edefda90983b800b54c2218b2f5b68
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-leones-del-norte-342c02.webp" group-title="[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 6",[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 6 (SVR-BHNS 6)
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1783724724-0-0-ea93b68ecbf3c5882b0b3da1332eab8c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 9",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1783724184-0-0-10277818439c89ad2cac8fd7ec59bd6c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/leones-del-norte-85b20a.png" group-title="[LIVE 05:00 WIB 11/07/26] Leones del Norte vs Universidad Catolica | Server 1",[LIVE 05:00 WIB 11/07/26] Leones del Norte vs Universidad Catolica | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://auto.cdnfaster.live/live/sd-6MvVNKqYBhxQ7pGAHS/playlist.m3u8
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1783724724-0-0-f969f7b55629339f1c8729c6b388af6a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/juventude-8b3474.png" group-title="[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 1",[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/juven-vila-brasb/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MvVNfQEz9jursejba.m3u8?txSecret=efa52b34450803a158d862b3b4ade0c3&txTime=6A52158C
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/juventude-8b3474.png" group-title="[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 2",[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/juven-vila-brasb.flv
+https://hls.lauthaitv.cc/live/juven-vila-brasb/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/juventude-8b3474.png" group-title="[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 3",[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MvVNfQEz9jursejba.m3u8?txSecret=c97a1283cc43cbf2bb8bacf6aad24bf5&txTime=6A521425
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/juven-vila-brasb.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/juventude-8b3474.png" group-title="[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 4",[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/YOOOQQ.m3u8
@@ -45,58 +45,55 @@ http://193.47.62.41/hls/YOOOQQ.m3u8
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/juventude-8b3474.png" group-title="[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 6",[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1783724184-0-0-2e4db934a71458a43c9469c56f8dc50c
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1783724724-0-0-8e82a6214a2d6a5b6d2f242f3a69d06f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/juventude-8b3474.png" group-title="[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 7",[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1783724184-0-0-1042b8dd4cd0b307254b194e7ecfb808
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1783724724-0-0-13cf0ca30222621734baae08281ca12f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/juventude-8b3474.png" group-title="[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 8",[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1783724184-0-0-803281b3482c995a9b1d4016a754170a
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1783724724-0-0-613633be3176704a22d346861a72bf98
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/juventude-8b3474.png" group-title="[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 9",[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1783724184-0-0-376e7d55bc2f2824f297de0e052fb898
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1783724724-0-0-4c2335f08231c74bc1e9094923c61257
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/juventude-8b3474.png" group-title="[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 10",[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1783724184-0-0-cc220fb36fad461f354eeab21c557157
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1783724724-0-0-56f0ef8c3d9afda242555773f33260b9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/juventude-8b3474.png" group-title="[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 11",[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1783724184-0-0-e4ba52220257ddb93255b5662ef2aa1d
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1783724724-0-0-4d89d4f6c4ed2890b114cd7f1ac1e91d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/juventude-8b3474.png" group-title="[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 12",[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=a8d2bec2d11c4d808546267dd30d35ad&txTime=6a51bee8
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=c040905e4241b732d103dc1e62561e41&txTime=6a51c104
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/juventude-8b3474.png" group-title="[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 13",[LIVE 05:00 WIB 11/07/26] Juventude vs Vila Nova | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=b03fbde0fa6232d6b5324b40418c9be9&txTime=6a51bee8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 1",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 1 (SVR-BHNS 1)
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=2e91896defd4fd79e335b5831f3c5c28&txTime=6a51c104
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/0bab5c51d1f07f0dc8447c5b860debe3.png" group-title="[LIVE 05:00 WIB 11/07/26] sư tử phương Bắc vs Universidad Catolica | Server 1",[LIVE 05:00 WIB 11/07/26] sư tử phương Bắc vs Universidad Catolica | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MweaW3Qy1T3RTsvuS.m3u8?txSecret=538e59bbc541a061d0f1bab107408633&txTime=6A521425
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 2",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 3",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=b2417da827d91b705952fbd0ee6d2fe9&txTime=6a51b3f0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 4",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=333131291c13866023f6513749a94140&txTime=6a51b3f0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 5",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1783724184-0-0-6b0eb29e3dee3446300385fa3a771239
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 6",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1783724184-0-0-64f1ae756c8a0029008436cc6fc14415
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 7",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1783724184-0-0-345eac7b421b86c460e075ec737290da
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-maldonado-1bcbc4.webp" group-title="[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 8",[LIVE 05:00 WIB 11/07/26] Deportivo Maldonado vs Albion FC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1783724184-0-0-2e99d73d7899473f338de2131a9c7c09
+https://cds78y11d.org/live/sd-6MvVNKqYBhxQ7pGAMr.m3u8?txSecret=f58638cbb592d0cd2616aab8035c3cf2&txTime=6A52158C
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-knicks-389bd8.webp" group-title="[LIVE 05:00 WIB 11/07/26] New York Knicks vs Brooklyn Nets | Server 1",[LIVE 05:00 WIB 11/07/26] New York Knicks vs Brooklyn Nets | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1783724184-0-0-6cdab6262819a640a2ff64801570c4f0
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1783724724-0-0-f9d873bb71f25e703c51c3c7961749c0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-knicks-389bd8.webp" group-title="[LIVE 05:00 WIB 11/07/26] New York Knicks vs Brooklyn Nets | Server 2",[LIVE 05:00 WIB 11/07/26] New York Knicks vs Brooklyn Nets | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1783724184-0-0-43ad105aab6432f68e99540ccb56129e
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1783724724-0-0-2ac7e9ebbc17f8a50f5be3448c2b1a14
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-leones-del-norte-342c02.webp" group-title="[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 1",[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1783724724-0-0-2d66753f343f0c8e283454e7fd77e208
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-leones-del-norte-342c02.webp" group-title="[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 2",[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1783724724-0-0-f1a3a420f4bca57548dcd0d64360f830
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-leones-del-norte-342c02.webp" group-title="[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 3",[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=b04501c91de7058aa987bfc62133466e&txTime=6a51c104
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-leones-del-norte-342c02.webp" group-title="[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 4",[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=f0b5524180ac4284840a873f2f033a76&txTime=6a51c104
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-leones-del-norte-342c02.webp" group-title="[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 5",[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1783724724-0-0-a221a953f4ca5c2d68734a2b1518f65b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-leones-del-norte-342c02.webp" group-title="[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 6",[LIVE 05:00 WIB 11/07/26] Club Leones del Norte vs CD Universidad Católica | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1783724724-0-0-c86f78522bc9df07b9b950f8fe99bea1
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 06:00 WIB 11/07/26] Leones del Norte vs U Catolica | Server 1",[LIVE 06:00 WIB 11/07/26] Leones del Norte vs U Catolica | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/YOOOQQQ.m3u8
