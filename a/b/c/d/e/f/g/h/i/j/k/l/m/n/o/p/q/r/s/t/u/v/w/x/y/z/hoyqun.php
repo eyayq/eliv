@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:28 WIB 11/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:28 WIB 11/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:35 WIB 11/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:35 WIB 11/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[19:00 WIB 11/07/26] Lahti vs HJK Helsinki [FHD] [LIVE]
@@ -21,13 +21,13 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[21:00 WIB 11/07/26] Turku PS vs AC Oulu [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[21:00 WIB 11/07/26] Turku PS vs AC Oulu [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[21:00 WIB 11/07/26] Turku PS vs AC Oulu [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 ",[22:00 WIB 11/07/26] Kaorolina Muchova - Linda Noskova [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
@@ -39,13 +39,13 @@ https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:45 WIB 11/07/26] Dinamo Brest vs Slavia Mozyr [FHD] [NANTIKAN]
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:45 WIB 11/07/26] Dinamo Brest vs Slavia Mozyr [HD] [NANTIKAN]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:45 WIB 11/07/26] Dinamo Brest vs Slavia Mozyr [SD] [NANTIKAN]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/493.png" group-title="UEFA U19 Championship",[01:00 WIB 12/07/26] Spain U19 vs Germany U19 [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
