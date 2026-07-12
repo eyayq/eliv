@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 03:48:44 WIB 12-07-2026
-# 🔄 Total Channels: 6280
+# ⏰ Latest Updated: 03:54:50 WIB 12-07-2026
+# 🔄 Total Channels: 6279
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [03:48:44 WIB 12-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [03:54:50 WIB 12-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -21804,13 +21804,6 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #EXTVLCOPT:http-referrer=https://oxygentv.id
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 http://cdn.nng.cloudns.us/live/m3u8/Kids/7e5676155536bd5.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQraqoKAdBycCZO32kl3GvognnGqXKpHUrpjlgNLde6_xzvAMNUbis9gy60&s=10" group-title="LIVE EVENT",09:10 WIB GT World Challenge Asia '26 | BEINSPORTS 1 | Gvision TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/60hL3Z9M/20260701-051322.jpg" group-title="LIVE EVENT",07:30 WIB LIVE FIFA World Cup(tm) Argentina VS Switzerland Quarterfinals 7/12 #100 | WCTV PH | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -21831,18 +21824,20 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/PDSbcBWZ/live.is
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel83.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s" group-title="LIVE EVENT",10:00 WIB USA v Brazil | Week 3 | Women's VNL 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel82.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FxKwmLc31%2F20260626-014340-1.gif&w=400&h=300&fit=contain&bg=white" group-title="LIVE EVENT",TBA WIB Norway VS England | TVRI FOLA | World Cup - Quarter-finals | Gvision TV
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com
+https://hd-stream.lxscore.com/live/default-1798908.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3943PZyQ/20260622-041346.jpg" group-title="Live Event: Voli",09:50 WIB Belgium vs Ukraine | Gvision TV
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/osbb0okk/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3943PZyQ/20260622-041346.jpg" group-title="Live Event: Voli",09:50 WIB United States vs Brazil | Gvision TV
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/PDSbcBWZ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",10:00 WIB Valentine vs Kahibah FC | AUS NSW-N Premier League | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4498424.m3u8?txSecret=bd53f58a294f24be5bd2b70740014017&txTime=6A545F78
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",09:00 WIB Napier City Rovers vs Upper Hutt City | NZ Central Premier League | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4578517.m3u8?txSecret=13b63449523059ab4078c6c4e84ef29d&txTime=6A545F78
+https://pul-tenm.gkykp.com/live/sd-1-4498424.m3u8?txSecret=e36acfb88546f520337683b086369218&txTime=6A5460E0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",09:00 WIB Los Angeles FC II vs Portland Timbers Reserves | MLS Next Pro | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4578518.m3u8?txSecret=5f427bbd9edd50e8a8baa27f99783ce9&txTime=6A545F78
+https://pul-tenm.gkykp.com/live/sd-1-4578518.m3u8?txSecret=16d87d07e461d8a5337908027ccad78c&txTime=6A5460E0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",09:00 WIB Real Monarchs vs Vancouver Whitecaps Reserve | MLS Next Pro | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4576232.m3u8?txSecret=aa02f107c9472c58c55168a6d3ecda28&txTime=6A545F78
+https://pul-tenm.gkykp.com/live/sd-1-4576232.m3u8?txSecret=d533a9d7db03ea7844e8dad19f71083a&txTime=6A5460E0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 11:00 WIB Aries Tokyo vs Toho Titanium | JAP RL | Gvision TV
 https://play.666666.zip/live/8883027537.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 11:00 WIB Hokuriku Electric Power vs Fukui United | JAP RL | Gvision TV
