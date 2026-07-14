@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 20:41:57 WIB 14-07-2026
-# 🔄 Total Channels: 805
+# ⏰ Latest Updated: 20:48:29 WIB 14-07-2026
+# 🔄 Total Channels: 807
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:41:57 WIB 14-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:48:29 WIB 14-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4337
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4337
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -91,14 +91,20 @@ https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com
 https://hd-stream.lxscore.com/live/default-1798911.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT",Ad
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com/
+https://bintangstreaming.my.id/1/lxscore.php/.m3u8?id=1798911
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3943PZyQ/20260622-041346.jpg" group-title="Live Event: Voli",[Belum Mulai] 10:00 WIB NEXT MATCH | Gvision TV
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/yL7iVxaN/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/bolakami-5adec.firebasestorage.app/o/images%2Ff8397afd-d4d5-4627-863a-2842c14a01ef.jpg?alt=media&token=3cb517f1-5ccf-4c1c-bb04-03ee3c2e7980" group-title="Live Event: BolaKu",02:00 WIB France vs Spain | FIFA World Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/hd-en-1-4459812.m3u8?txSecret=3a7c7d29d679341eb330564123193918&txTime=6A57EFA8
+https://pul-tenm.gkykp.com/live/hd-en-1-4459812.m3u8?txSecret=38b4e3ce460904fbad741ab6cc73bb22&txTime=6A57F188
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",02:00 WIB SP La Fiorita vs UNA Strassen | UEFA ECL | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4556577.m3u8?txSecret=8edef95b5d1b792849e5f31b6d2b1156&txTime=6A57EFA8
+https://pul-tenm.gkykp.com/live/sd-1-4556577.m3u8?txSecret=cdf9a4d550d99eb425a4d84de84d12be&txTime=6A57F188
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",02:00 WIB Shamrock Rovers vs Floriana F.C. | UEFA UCL | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4556505.m3u8?txSecret=f4cac04671b938c068a0c89ac0f9c52e&txTime=6A57EFA8
+https://pul-tenm.gkykp.com/live/sd-1-4556505.m3u8?txSecret=5ca830ee89ad095c0f44608e1386b7a2&txTime=6A57F188
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",02:00 WIB Larne FC vs Tre Fiori | UEFA UCL | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4556521.m3u8?txSecret=57955e159e6b463d586c33084f6d86ef&txTime=6A57EFA8
+https://pul-tenm.gkykp.com/live/sd-1-4556521.m3u8?txSecret=1b2650087ac2280dff8a02d4bd449c88&txTime=6A57F188
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 04:00 WIB Sportivo Limpeno vs General Caballero LJM | PAR Cup | Gvision TV
 https://play.666666.zip/live/8883032139.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bgtD5VBB/Screenshot-2026-0615-001256.png" group-title="CH Piala Dunia 🏆",FOX SPORTS | Rekomendasi
