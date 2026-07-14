@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [14:35 WIB 14/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [14:35 WIB 14/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [14:42 WIB 14/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [14:42 WIB 14/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/874.png" group-title="Australia Cup",[16:30 WIB 14/07/26] APIA Leichhardt Tigers vs Peninsula Power [FHD] [NANTIKAN]
@@ -20,15 +20,6 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:35 WIB 14/07/26] Hangzhou Greentown vs Qingdao Jonoon [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 14/07/26] Bhutan U19 vs Drukpa [FHD] [NANTIKAN]
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 14/07/26] Bhutan U19 vs Drukpa [HD] [NANTIKAN]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 14/07/26] Bhutan U19 vs Drukpa [SD] [NANTIKAN]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 14/07/26] Muras United vs Bars [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
@@ -46,15 +37,6 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[22:00 WIB 14/07/26] KuPS vs Vardar Skopje [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[23:00 WIB 14/07/26] Saburtalo vs Flora Tallinn [FHD] [NANTIKAN]
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[23:00 WIB 14/07/26] Saburtalo vs Flora Tallinn [HD] [NANTIKAN]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[23:00 WIB 14/07/26] Saburtalo vs Flora Tallinn [SD] [NANTIKAN]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[00:30 WIB 15/07/26] The New Saints vs Sabah FA [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
@@ -118,15 +100,6 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/874.png" group-title="Australia Cup",[16:30 WIB 15/07/26] Marlin Coast vs Brunswick Juventus FC [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[17:00 WIB 15/07/26] Suwon City FC vs Pyeongchang United [FHD] [NANTIKAN]
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[17:00 WIB 15/07/26] Suwon City FC vs Pyeongchang United [HD] [NANTIKAN]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[17:00 WIB 15/07/26] Suwon City FC vs Pyeongchang United [SD] [NANTIKAN]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[17:20 WIB 15/07/26] Japan - Italy [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
