@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:49 WIB 15/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:49 WIB 15/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [19:00 WIB 15/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:00 WIB 15/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[17:20 WIB 15/07/26] Japan - Italy [FHD] [LIVE]
@@ -55,6 +55,60 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1087.png" group-title="Ykkösliiga",[22:30 WIB 15/07/26] JIPPO vs MP [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[00:30 WIB 16/07/26] Universitatea Craiova vs ML Vitebsk [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[00:30 WIB 16/07/26] Universitatea Craiova vs ML Vitebsk [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/2.png" group-title="UEFA Champions League",[00:30 WIB 16/07/26] Universitatea Craiova vs ML Vitebsk [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[02:00 WIB 16/07/26] England vs Argentina [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[02:00 WIB 16/07/26] England vs Argentina [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[02:00 WIB 16/07/26] England vs Argentina [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[02:00 WIB 16/07/26] England vs Argentina [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[02:00 WIB 16/07/26] England vs Argentina [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[02:00 WIB 16/07/26] England vs Argentina [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/242.png" group-title="Liga Pro",[05:00 WIB 16/07/26] Universidad Catolica vs LDU de Quito [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/242.png" group-title="Liga Pro",[05:00 WIB 16/07/26] Universidad Catolica vs LDU de Quito [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/242.png" group-title="Liga Pro",[05:00 WIB 16/07/26] Universidad Catolica vs LDU de Quito [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/242.png" group-title="Liga Pro",[07:30 WIB 16/07/26] Barcelona SC vs Guayaquil City FC [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/242.png" group-title="Liga Pro",[07:30 WIB 16/07/26] Barcelona SC vs Guayaquil City FC [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/242.png" group-title="Liga Pro",[07:30 WIB 16/07/26] Barcelona SC vs Guayaquil City FC [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 16/07/26] Thimphu vs Paro [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 16/07/26] Thimphu vs Paro [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 16/07/26] Thimphu vs Paro [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/364.png" group-title="1. Liga",[17:00 WIB 19/07/26] Riga FC II vs Super Nova 2 [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
