@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:35 WIB 15/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:35 WIB 15/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [21:45 WIB 15/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:45 WIB 15/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[21:30 WIB 15/07/26] Ukraina - Iran [FHD] [LIVE]
@@ -11,22 +11,22 @@ https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[21:30 WIB 15/07/26] Ukraina - Iran [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[22:00 WIB 15/07/26] Ordabasy vs Altay [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[22:00 WIB 15/07/26] Ordabasy vs Altay [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[22:00 WIB 15/07/26] Ordabasy vs Altay [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[22:00 WIB 15/07/26] Ordabasy vs Altay [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[22:00 WIB 15/07/26] Ordabasy vs Altay [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[22:00 WIB 15/07/26] Ordabasy vs Altay [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/667.png" group-title="Friendlies Clubs",[22:00 WIB 15/07/26] Ajax vs VfL Bochum [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/667.png" group-title="Friendlies Clubs",[22:00 WIB 15/07/26] Ajax vs VfL Bochum [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/667.png" group-title="Friendlies Clubs",[22:00 WIB 15/07/26] Ajax vs VfL Bochum [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/667.png" group-title="Friendlies Clubs",[22:00 WIB 15/07/26] Ajax vs VfL Bochum [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/667.png" group-title="Friendlies Clubs",[22:00 WIB 15/07/26] Ajax vs VfL Bochum [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/667.png" group-title="Friendlies Clubs",[22:00 WIB 15/07/26] Ajax vs VfL Bochum [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1087.png" group-title="Ykkösliiga",[22:30 WIB 15/07/26] JIPPO vs MP [FHD] [NANTIKAN]
