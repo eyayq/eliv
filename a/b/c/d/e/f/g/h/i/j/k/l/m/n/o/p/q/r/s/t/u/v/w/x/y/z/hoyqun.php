@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [08:58 WIB 15/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [08:58 WIB 15/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [09:05 WIB 15/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [09:05 WIB 15/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/162.png" group-title="Primera División",[07:30 WIB 15/07/26] Blooming vs Gualberto Villarroel SJ [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/162.png" group-title="Primera División",[07:30 WIB 15/07/26] Blooming vs Gualberto Villarroel SJ [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/162.png" group-title="Primera División",[07:30 WIB 15/07/26] Blooming vs Gualberto Villarroel SJ [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[10:00 WIB 15/07/26] Canada - Argentina [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
