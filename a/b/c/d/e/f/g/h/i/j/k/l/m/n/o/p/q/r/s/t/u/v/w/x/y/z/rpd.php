@@ -1,66 +1,54 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.45 WIB 16/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.51 WIB 16/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-sutjeska-niksic-c76f93.png" group-title="[LIVE 02:00 WIB 16/07/26] FK Sutjeska Niksic vs FC Kairat Almaty | Server 1",[LIVE 02:00 WIB 16/07/26] FK Sutjeska Niksic vs FC Kairat Almaty | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.41/hls/OFFFQ.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.streamgoaldaddy.com/live/0d7c808108e80831.m3u8?wsSecret=F02F2DF4819BEEFFA357A9FD60091CDC&wsTime=1784148444
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-sutjeska-niksic-c76f93.png" group-title="[LIVE 02:00 WIB 16/07/26] FK Sutjeska Niksic vs FC Kairat Almaty | Server 2",[LIVE 02:00 WIB 16/07/26] FK Sutjeska Niksic vs FC Kairat Almaty | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.streamgoaldaddy.com/live/0d7c808108e80831.m3u8?wsSecret=F9DCAC444CA1DD3A8105D2D4A2BDB8F2&wsTime=1784148083
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-sutjeska-niksic-c76f93.png" group-title="[LIVE 02:00 WIB 16/07/26] FK Sutjeska Niksic vs FC Kairat Almaty | Server 3",[LIVE 02:00 WIB 16/07/26] FK Sutjeska Niksic vs FC Kairat Almaty | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-sutjeska-niksic-c76f93.png" group-title="[LIVE 02:00 WIB 16/07/26] FK Sutjeska Niksic vs FC Kairat Almaty | Server 4",[LIVE 02:00 WIB 16/07/26] FK Sutjeska Niksic vs FC Kairat Almaty | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egnatia-rrogozhine-85ba1d.png" group-title="[LIVE 02:00 WIB 16/07/26] Egnatia Rrogozhine vs FC Petrocub | Server 1",[LIVE 02:00 WIB 16/07/26] Egnatia Rrogozhine vs FC Petrocub | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.41/hls/OFFF.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egnatia-rrogozhine-85ba1d.png" group-title="[LIVE 02:00 WIB 16/07/26] Egnatia Rrogozhine vs FC Petrocub | Server 2",[LIVE 02:00 WIB 16/07/26] Egnatia Rrogozhine vs FC Petrocub | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.streamgoaldaddy.com/live/35b65c188c229a3c.m3u8?wsSecret=ED5D35B116CDD9CFF9EB90C67EFA2FAA&wsTime=1784148083
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egnatia-rrogozhine-85ba1d.png" group-title="[LIVE 02:00 WIB 16/07/26] Egnatia Rrogozhine vs FC Petrocub | Server 3",[LIVE 02:00 WIB 16/07/26] Egnatia Rrogozhine vs FC Petrocub | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 1",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://hls.live123.fans/live/4459813.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 2",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 3",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://pullsgp.yyzb456.top/live/stream-525132_lhd.flv?auth_key=1784131582-0-0-20dd16405a1ab64141d958dd18e5e9c8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 4",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-525132_lsd.flv?auth_key=1784131582-0-0-20dd16405a1ab64141d958dd18e5e9c8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 5",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.59/hls/DXFECZzsss.m3u8
+https://live2.jxa76.com/live/sd-6MvYMRTGwDjUa2BEVR.m3u8?txSecret=98777f98981454e75f055fafd880bcb0&txTime=19F68689452
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 6",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.59/hls/DXFECZzsssG.m3u8
+https://live2.jxa76.com/live/hd-en-6MvYMRTGwDjUa2BEVR.m3u8?txSecret=f58af0e00daa165da2a9d1fa6ee31c73&txTime=19F68689452
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 7",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live2.jxa76.com/live/sd-6MvYMRTGwDjUa2BEVR.m3u8?txSecret=98777f98981454e75f055fafd880bcb0&txTime=19F68689452
+https://pul-tenm.gkykp.com/live/hd-en-1-4459813.m3u8?txSecret=7a28de5b22ea6d0e49c6685dfaa818b4&txTime=6A591BA8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 8",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live2.jxa76.com/live/hd-en-6MvYMRTGwDjUa2BEVR.m3u8?txSecret=f58af0e00daa165da2a9d1fa6ee31c73&txTime=19F68689452
+https://play3.315nb.com/live/112964133425_1363836344_1080p.m3u8?txSecret=94d3ce3b92c8608f4bd8a03c39a5c47d&txTime=6A57E6BE&t=1784141998301
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 9",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://pul-tenm.gkykp.com/live/hd-en-1-4459813.m3u8?txSecret=7a28de5b22ea6d0e49c6685dfaa818b4&txTime=6A591BA8
+http://193.47.62.47/hls/DXFECZzsss.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 10",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://play3.315nb.com/live/112964133425_1363836344_1080p.m3u8?txSecret=94d3ce3b92c8608f4bd8a03c39a5c47d&txTime=6A57E6BE&t=1784141998301
+http://193.47.62.47/hls/DXFECZzsssG.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 11",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.59/hls/XFECZckkkq.m3u8
+http://193.47.62.47/hls/XFECZckkkq.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 12",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.59/hls/XFECZckkkqq.m3u8
+http://193.47.62.47/hls/XFECZckkkqq.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 13",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.59/hls/XFHHHH.m3u8
+http://193.47.62.47/hls/XFHHHH.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 14",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.59/hls/XFECZckkkqqqq.m3u8
@@ -74,110 +62,137 @@ http://193.47.62.59/hls/XYYYYY.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-758611_lhd.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 18",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 18 (SVR-BHNS 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 19",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 19 (SVR-BHNS 19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|drmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 20",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 20 (SVR-BHNS 20)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd|drmScheme=clearkey&drmLicense=0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 21",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 21 (SVR-BHNS 21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|drmScheme=clearkey&drmLicense=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 22",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 22 (SVR-BHNS 22)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd|drmScheme=clearkey&drmLicense=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 23",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 23 (SVR-BHNS 23)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd|drmScheme=clearkey&drmLicense=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 24",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 24 (SVR-BHNS 24)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|drmScheme=clearkey&drmLicense=745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 25",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 25 (SVR-BHNS 25)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd|drmScheme=clearkey&drmLicense=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 26",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 26 (SVR-BHNS 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.streamgoaldaddy.com/live/e96fe2de6a60a2c1.m3u8?wsSecret=28A01080A52A2A452D59C2589A55092A&wsTime=1784148083
+https://play.streamgoaldaddy.com/live/e96fe2de6a60a2c1.m3u8?wsSecret=3FDA6A2132F9B6F7DF2CB7C0D03ED163&wsTime=1784148444
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 27",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 27 (SVR-BHNS 27)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1784151684-0-0-7c3fa4652247e3b48bc71f404363b699
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1784152044-0-0-a8459b3c6814e20d19465e70a8a73ff2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 28",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 28 (SVR-BHNS 28)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1784151684-0-0-465958785a1a672ee94e14be39e9d8ac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1784152044-0-0-21bddd6e209ff6b10c3139d231c0c99d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 29",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 29 (SVR-BHNS 29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1784151684-0-0-e78674217d1259413bcc4e206f8d341e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1784152044-0-0-934bd02e088645a6cdc5e26b7b921fef
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 30",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 30 (SVR-BHNS 30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1784151684-0-0-d6535825121206daace80fc9457eb4f5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1784152044-0-0-8ce9f20420793459dfd67c8cd55ed8e9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 31",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 31 (SVR-BHNS 31)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1784151684-0-0-12a1278d512730abd2b8777c6d5e232a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1784152044-0-0-f9cfa10860bedd450567290fc3f74597
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 32",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 32 (SVR-BHNS 32)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1784151684-0-0-dc710dd1006080ad3d4a83e65c81452a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1784152044-0-0-1cd48691286cb5b69a49801e5171ba14
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 33",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 33 (SVR-BHNS 33)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1784151684-0-0-cbb71e035beae6e90c9ee6c46312fddb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1784152044-0-0-c7c82f69f75a99e241a5083bc41a53e9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 34",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 34 (SVR-BHNS 34)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1784151684-0-0-f7907b1ab4e7d16f13c19c0e91d0cadc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1784152044-0-0-80d7c350d14c4c69b0ffc7a1a9477abf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 35",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 35 (SVR-BHNS 35)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1784151684-0-0-d601ca8164a5df2321d2391959633c38
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1784152044-0-0-614d53ea1b4b40c56296e74b9d823701
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 36",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 36 (SVR-BHNS 36)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1784151684-0-0-601bac3411bd96de0553b3c2d8916d7e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1784152044-0-0-c28ae2ee7c0cde254543b67b15a6f8d2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 37",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 37 (SVR-BHNS 37)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1784151684-0-0-a178d71f37178f0a6f2284a08a7c0979
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1784152044-0-0-7827435e4c4cb0b9775ac072bd03288a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 38",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 38 (SVR-BHNS 38)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1784151684-0-0-3f715e21751f0fe57c2710da61ac37c5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1784152044-0-0-0762ae4a173da26771f68bceb8626958
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 39",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 39 (SVR-BHNS 39)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1784151684-0-0-0cae356e8221a1d9c15f9c7c3f53b9ce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1784152044-0-0-10a16bdf75ba6042dc37e11a966ae0db
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 40",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 40 (SVR-BHNS 40)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1784151684-0-0-90254f1eb599acc8795814df6800c6e5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1784152044-0-0-35c12291791037e9ebd919af7e3b5d12
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 41",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 41 (SVR-BHNS 41)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1784151684-0-0-87d784c808bc68dfc6af9c26bfa559a4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1784152044-0-0-abba04be0e52c1051a088111495f3c27
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 42",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 42 (SVR-BHNS 42)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1784151684-0-0-ca48d5c3ed7e02b716d87d986b501810
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1784152044-0-0-226c11ea28ff58a842ebf132cf43846a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 43",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 43 (SVR-BHNS 43)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1784151684-0-0-95bbbe8a1c415a96b73c54e7f41631b0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1784152044-0-0-d993f6c197c690cd1216e0648a20248a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 44",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 44 (SVR-BHNS 44)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1784151684-0-0-ec2968ec1462b539034fccaeffbddabc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1784152044-0-0-476933c2063e183e217c8d33779af0cb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 45",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 45 (SVR-BHNS 45)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1784151684-0-0-102bb099d63fb177d94c93cf83db76ec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1784152044-0-0-0d020b4fb89bee8e95ff4789c24fde3b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 46",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 46 (SVR-BHNS 46)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1784151684-0-0-a1a0350057ce2012104d886bba59d8cc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1784152044-0-0-98b737b30abd89bee8d3f581f18e0a58
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 47",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 47 (SVR-BHNS 47)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1784151684-0-0-9340dc0724a9eaad1827a42f31ffc22e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1784152044-0-0-6e3392e01346234dc8c8eae97148cc46
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 48",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 48 (SVR-BHNS 48)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1784151684-0-0-2f4cb20c517c3e9e254c97dd098132ac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1784152044-0-0-56c8e6d7bc6a3e5831118d7743395e33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 49",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 49 (SVR-BHNS 49)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1784151684-0-0-ad9752329d17d3548f9a3e1582226c15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1784152044-0-0-153fd2b6cf1f64a2fe5d9370627ad16b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 50",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 50 (SVR-BHNS 50)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.5415.1508 Mobile Safari/537.36
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1784151684-0-0-9fe7f7a38a0820b6e920d11302af2c36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1784152044-0-0-2ef9329a194d2d26d67417b0e3c3cbfa
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 51",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 51 (SVR-BHNS 51)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 52",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 52 (SVR-BHNS 52)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 53",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 53 (SVR-BHNS 53)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 54",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 54 (SVR-BHNS 54)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 55",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 55 (SVR-BHNS 55)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 56",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 56 (SVR-BHNS 56)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 57",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 57 (SVR-BHNS 57)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 58",[LIVE 02:00 WIB 16/07/26] England vs Argentina | Server 58 (SVR-BHNS 58)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egnatia-rrogozhine-85ba1d.png" group-title="[LIVE 02:00 WIB 16/07/26] Egnatia Rrogozhine vs FC Petrocub | Server 1",[LIVE 02:00 WIB 16/07/26] Egnatia Rrogozhine vs FC Petrocub | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.41/hls/OFFF.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egnatia-rrogozhine-85ba1d.png" group-title="[LIVE 02:00 WIB 16/07/26] Egnatia Rrogozhine vs FC Petrocub | Server 2",[LIVE 02:00 WIB 16/07/26] Egnatia Rrogozhine vs FC Petrocub | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.streamgoaldaddy.com/live/35b65c188c229a3c.m3u8?wsSecret=A861575AD3F04DF81A62EFD7E4115BBF&wsTime=1784148444
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egnatia-rrogozhine-85ba1d.png" group-title="[LIVE 02:00 WIB 16/07/26] Egnatia Rrogozhine vs FC Petrocub | Server 3",[LIVE 02:00 WIB 16/07/26] Egnatia Rrogozhine vs FC Petrocub | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egnatia-rrogozhine-85ba1d.png" group-title="[LIVE 02:00 WIB 16/07/26] Egnatia Rrogozhine vs FC Petrocub | Server 4",[LIVE 02:00 WIB 16/07/26] Egnatia Rrogozhine vs FC Petrocub | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
