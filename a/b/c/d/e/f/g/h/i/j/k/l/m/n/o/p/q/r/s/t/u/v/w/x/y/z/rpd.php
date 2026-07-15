@@ -1,42 +1,42 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.09 WIB 16/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.16 WIB 16/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jippo-8b0f6e.webp" group-title="[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 1",[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=236959fa93199d18badb4b47953fbaff&txTime=6a581234
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1784139084-0-0-c4ab0bfcdfae21aa16c799a704adae83
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jippo-8b0f6e.webp" group-title="[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 2",[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=750fed7ba1b9b1d4a1f365ca29482fae&txTime=6a581234
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1784139084-0-0-37b7b5295840e39a44fcc1c8cf964171
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jippo-8b0f6e.webp" group-title="[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 3",[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1784138724-0-0-40176f1410da322f3276e7961f06ebf1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1784139084-0-0-4f153c78c7533d159c0f13f6a9f4f06f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jippo-8b0f6e.webp" group-title="[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 4",[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784138724-0-0-349eb39f03998dbfea1b6549f3833970
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1784139084-0-0-d1a4425f4b25d8a0721d8db30f8675b6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jippo-8b0f6e.webp" group-title="[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 5",[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1784138724-0-0-acf00128c1c027b7a1d98b9f6416c4a6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1784139084-0-0-b9d4a1e6eb15a716e010e1022597d878
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jippo-8b0f6e.webp" group-title="[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 6",[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1784138724-0-0-af39efa16aee48d6e48f46b523fb36fc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784139084-0-0-ac7ff7c150b6cfe538f3626d3c01a58d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jippo-8b0f6e.webp" group-title="[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 7",[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1784138724-0-0-b8704080997d8d60b9fc2ee651cbe86e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=de346c39653def6d9711f421fdd61852&txTime=6a58139c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jippo-8b0f6e.webp" group-title="[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 8",[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1784138724-0-0-0fb93a74efd8c9633cce4091cdd8fb18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=2632989c592ddf4accc8a292c296feec&txTime=6a58139c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jippo-8b0f6e.webp" group-title="[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 9",[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1784138724-0-0-b8739f7ef94d16f52558265901d4dc99
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1784139084-0-0-ee8cccbd99a673e6a6792bccc908c87b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jippo-8b0f6e.webp" group-title="[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 10",[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1784138724-0-0-c9642f15c6137f9ce903a4e14b26f041
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1784139084-0-0-a927911a9ddf99d6bf55aef121f13e0d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jippo-8b0f6e.webp" group-title="[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 11",[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=fcc0dd00ab9394111d7411812b500e99&txTime=6a581234
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=6c0e323aaf67c11554ff3d958b48b0db&txTime=6a58139c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jippo-8b0f6e.webp" group-title="[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 12",[LIVE 22:30 WIB 15/07/26] JIPPO vs Mikkelin Palloilijat | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=98bcb9b3880792380657d25a8e02fd76&txTime=6a581234
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5a0803ce40d4a3bf763b0593d4d34b7b&txTime=6a58139c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jippo-8b0f6e.webp" group-title="[LIVE 22:30 WIB 15/07/26] JIPPO vs MP MIKELI | Server 1",[LIVE 22:30 WIB 15/07/26] JIPPO vs MP MIKELI | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
