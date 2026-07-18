@@ -244,9 +244,9 @@ http://193.47.62.42/hls/JAAAQQ.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 19/07/26] SK Rapid vs Hamburger SV | Server 1",[LIVE 01:00 WIB 19/07/26] SK Rapid vs Hamburger SV | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/JAAAQ.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 19/07/26] NK Osijek vs Honved | Server 1",[LIVE 01:00 WIB 19/07/26] NK Osijek vs Honved | Server 1 (SVR-BHNS 1)
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 19/07/26] Slavia Prague vs Lyon | Server 1",[LIVE 01:00 WIB 19/07/26] Slavia Prague vs Lyon | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.42/hls/JAAA.m3u8
+http://193.47.62.42/hls/JAAAQQ.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 01:30 WIB 19/07/26] Beitar Jerusalem vs Hapoel Tel Aviv | Server 1",[LIVE 01:30 WIB 19/07/26] Beitar Jerusalem vs Hapoel Tel Aviv | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/JAAAQQQQQQ.m3u8
