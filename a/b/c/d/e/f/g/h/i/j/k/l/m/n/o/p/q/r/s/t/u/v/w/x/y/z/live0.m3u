@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 17:59:48 WIB 18-07-2026
-# 🔄 Total Channels: 851
+# ⏰ Latest Updated: 18:07:10 WIB 18-07-2026
+# 🔄 Total Channels: 837
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [17:59:48 WIB 18-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [18:07:10 WIB 18-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4350
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4350
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -68,18 +68,26 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="BILA ANDA MEMBELI ANDA KENA DITIPU",UPDATE PLAYLIST TERBARU ADA DI TELEGRAM
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQraqoKAdBycCZO32kl3GvognnGqXKpHUrpjlgNLde6_xzvAMNUbis9gy60&s=10" group-title="LIVE EVENT",01:00 WIB GT World Challenge Europe | BEINSPORTS 1 | Gvision TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-referrer=https://m.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSX0jbUjWLysnlxZH5eLxXGtXFpgXjlr-rVYLjvcY2H72eaKh2CxGxeN0&s=10" group-title="LIVE EVENT",22:30 WIB Man Utd vs Wrexham
 https://get.perfecttv.net/mutv.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3943PZyQ/20260622-041346.jpg" group-title="LIVE EVENT",00:40 WIB Serbia vs Germany | Gvision TV
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/vyA4crZd/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s" group-title="LIVE EVENT",01:00 WIB Serbia v Germany | Week 3 | Men's VNL 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live1.streambylivepulse.com/live/channel80.m3u8?wsSecret=5e64afe85836fe18dd8b4329f18a0bd6&wsABSTime=1784395130
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FxKwmLc31%2F20260626-014340-1.gif&w=400&h=300&fit=contain&bg=white" group-title="LIVE EVENT",03:30 France VS England | TVRI FOLA | World Cup - 3rd place | Gvision TV
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com
 https://hd-stream.lxscore.com/live/default-1798913.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s" group-title="LIVE EVENT",[Belum Mulai] 01:00 WIB Serbia v Germany | Week 3 | Men's VNL 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live1.streambylivepulse.com/live/channel80.m3u8?wsSecret=5e64afe85836fe18dd8b4329f18a0bd6&wsABSTime=1784395130
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3943PZyQ/20260622-041346.jpg" group-title="LIVE EVENT",21:10 WIB REPLAY - Turkey vs Slovenia | Gvision TV
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/PLfyppTa/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3943PZyQ/20260622-041346.jpg" group-title="Live Event: Voli",21:10 WIB REPLAY - Turkey vs Slovenia | Gvision TV
@@ -93,27 +101,25 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/6xnUTgmv/live.is
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3943PZyQ/20260622-041346.jpg" group-title="Live Event: Voli",[Belum Mulai] 09:40 WIB Belgium vs Canada | Gvision TV
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/aywa4Bco/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",01:00 WIB Dundee United vs Arbroath | SCO League Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4550539.m3u8?txSecret=d818d0dfbe49608d74fe6f0e33679f39&txTime=6A5D0FB0
+https://pul-tenm.gkykp.com/live/sd-1-4550539.m3u8?txSecret=087e5341f3cd639cbbfe861a90a8f3a1&txTime=6A5D1190
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",01:00 WIB Novi Pazar vs Radnicki 1923 | SER Mozzart Bet Superliga | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4554564.m3u8?txSecret=82ce4261c645b447513906f9b6ef467f&txTime=6A5D0FB0
+https://pul-tenm.gkykp.com/live/sd-1-4554564.m3u8?txSecret=8d20072078921aa7ff6a4fc365d19088&txTime=6A5D1190
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",01:00 WIB Zemun vs Partizan Belgrade | SER Mozzart Bet Superliga | Gvision TV
-https://feijing-xzbforanchor.52kq.top/live/sd-1-4554568.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4554568.m3u8?txSecret=5c89804d8d8f014a7b33b5860e3ec5ec&txTime=6A5D1190
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",01:00 WIB Denver Summit W vs Portland Thorns  Women | USA NWSL | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4511332.m3u8?txSecret=490206dfdfc8381aa570f78280ae3814&txTime=6A5D0FB0
+https://pul-tenm.gkykp.com/live/sd-1-4511332.m3u8?txSecret=7001af4ae5fa716f6db7163afb93149a&txTime=6A5D1190
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",00:00 WIB NK Osijek vs Honved FC | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4587700.m3u8?txSecret=f78b27a7561ed659ee685c5f9802680e&txTime=6A5D0FB0
+https://pul-tenm.gkykp.com/live/sd-1-4587700.m3u8?txSecret=70c472966d06b09f54e4888419822ea0&txTime=6A5D1190
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",00:00 WIB SK Rapid Wien vs Hamburger SV | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4587706.m3u8?txSecret=5e3b459820b7d5bf22b556573842449e&txTime=6A5D0FB0
+https://pul-tenm.gkykp.com/live/sd-1-4587706.m3u8?txSecret=853836d938f9f8d5f21f361e5cf3268d&txTime=6A5D1190
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",23:45 WIB Cadiz CF vs Orlando Pirates | INT CF | Gvision TV
 https://feijing-xzbforanchor.52kq.top/live/sd-1-4586202.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",23:30 WIB Zenit StPetersburg vs Spartak Moscow | RUS Super Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4564264.m3u8?txSecret=773733cbe66d0b9ff93944045e4d2335&txTime=6A5D0FB0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",23:00 WIB Molde vs Brann | NOR Eliteserien | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4467559.m3u8?txSecret=abfe0000545efde0268a5b441b2c69d0&txTime=6A5D0FB0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",23:00 WIB Pittsburgh Riverhounds vs Louisville City FC | USA USL | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4473024.m3u8?txSecret=3e387de29c2db16dfa0037815ad776c1&txTime=6A5D0FB0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",23:00 WIB Moquegua vs Comerciantes Unidos | PERU Liga 1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4550615.m3u8?txSecret=51211d5e221a30bebd8a6e1a8cf162fc&txTime=6A5D0FB0
+https://pul-tenm.gkykp.com/live/sd-1-4564264.m3u8?txSecret=bdccc20f92f001a689a8fe2eb020621c&txTime=6A5D1190
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:35 WIB Shelbourne  Women vs Galway LFC  Women | INT CF | Gvision TV
+https://play.666666.zip/live/8883035487.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:30 WIB Sporting Braga vs Celta Vigo | INT CF | Gvision TV
+https://play.666666.zip/live/8883031102.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:15 WIB CS Universitatea Craiova vs UTA Arad | ROM D1 | Gvision TV
 https://play.666666.zip/live/8883010361.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:15 WIB Ludogorets Razgrad vs Lokomotiv Plovdiv | BUL FL | Gvision TV
@@ -122,34 +128,6 @@ https://play.666666.zip/live/8882998425.m3u8
 https://play.666666.zip/live/8883009958.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:15 WIB NK Olimpija Ljubljana vs NK Bravo | SLO D1 | Gvision TV
 https://play.666666.zip/live/8883005745.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:00 WIB Compostela vs Deportivo La Coruna | INT CF | Gvision TV
-https://play.666666.zip/live/8883034247.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:00 WIB Zulte-Waregem vs AZ Alkmaar | INT CF | Gvision TV
-https://play.666666.zip/live/8883034240.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:00 WIB UE Olot vs RCD Espanyol | INT CF | Gvision TV
-https://play.666666.zip/live/8883034244.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:00 WIB Granada CF vs Juventud Torremolinos CF | INT CF | Gvision TV
-https://play.666666.zip/live/8883034243.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:00 WIB Villa Dalmine vs Defensores Unidos | ARG B MC | Gvision TV
-https://play.666666.zip/live/8882934704.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:00 WIB UAI Urquiza vs Comunicaciones BsAs | ARG B MC | Gvision TV
-https://play.666666.zip/live/8882934703.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:00 WIB Talleres Rem De Escalada vs CA Brown Adrogue | ARG B MC | Gvision TV
-https://play.666666.zip/live/8882934702.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:00 WIB San Martin Burzaco vs Sportivo Italiano | ARG B MC | Gvision TV
-https://play.666666.zip/live/8882934701.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:00 WIB Liniers vs Deportivo Merlo | ARG B MC | Gvision TV
-https://play.666666.zip/live/8882934699.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:00 WIB Real Pilar vs Sportivo Dock Sud | ARG B MC | Gvision TV
-https://play.666666.zip/live/8882934700.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:00 WIB Deportivo Laferrere vs Ituzaingo | ARG B MC | Gvision TV
-https://play.666666.zip/live/8882934698.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:00 WIB Excursionistas vs Argentino De Quilmes | ARG B MC | Gvision TV
-https://play.666666.zip/live/8882934697.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:00 WIB Arsenal De Sarandi vs Flandria | ARG B MC | Gvision TV
-https://play.666666.zip/live/8882934696.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 01:00 WIB Argentino De Merlo vs Deportivo Armenio | ARG B MC | Gvision TV
-https://play.666666.zip/live/8882934695.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bgtD5VBB/Screenshot-2026-0615-001256.png" group-title="CH Piala Dunia 🏆",FOX SPORTS | Rekomendasi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d
