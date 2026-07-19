@@ -1,87 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.30 WIB 20/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.37 WIB 20/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/petrolul-ploiesti-15e31a.png" group-title="[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 1",[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1784489218-0-0-750fc48a8a7d0866ffeb4315916ee686
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/petrolul-ploiesti-15e31a.png" group-title="[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 2",[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1784489218-0-0-27abb7134e72b7b3b2dfe57ab3c2984a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/petrolul-ploiesti-15e31a.png" group-title="[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 3",[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1784489185-0-0-c2f7d049ef8545cad44209a273311150
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/petrolul-ploiesti-15e31a.png" group-title="[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 4",[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1784489185-0-0-bea09e33b828025486132fa1157c4a70
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/petrolul-ploiesti-15e31a.png" group-title="[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 5",[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1784489190-0-0-0cbbfa2752e9b635dc85bb4f476116cd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/petrolul-ploiesti-15e31a.png" group-title="[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 6",[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1784489190-0-0-8020d3722076cb3c43070f1d159b306a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/petrolul-ploiesti-15e31a.png" group-title="[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 7",[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1784489174-0-0-a715ed880c294d52283b9dc172b6e8cf
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/petrolul-ploiesti-15e31a.png" group-title="[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 8",[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1784489174-0-0-b4d6a3dcb216cd935e41bf622c00979e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/petrolul-ploiesti-15e31a.png" group-title="[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 9",[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1784489185-0-0-e419f5e4a88957f7b8f3a9cec8c97bb2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/petrolul-ploiesti-15e31a.png" group-title="[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 10",[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1784489185-0-0-9ec6a457fa249b148ceda71f80460088
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/petrolul-ploiesti-15e31a.png" group-title="[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 11",[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1784489185-0-0-8b254276483f932031aaa71f5308877d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/petrolul-ploiesti-15e31a.png" group-title="[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 12",[LIVE 23:30 WIB 19/07/26] Petrolul Ploiesti vs FC Dinamo 1948 | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1784489185-0-0-24b253dbc7b182d3194a70e090402ee3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botev-vratsa-80a95c.png" group-title="[LIVE 23:30 WIB 19/07/26] Botev Vratsa vs Cherno More Varna | Server 1",[LIVE 23:30 WIB 19/07/26] Botev Vratsa vs Cherno More Varna | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.41/hls/FOOOQ.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botev-vratsa-80a95c.png" group-title="[LIVE 23:30 WIB 19/07/26] Botev Vratsa vs Cherno More Varna | Server 2",[LIVE 23:30 WIB 19/07/26] Botev Vratsa vs Cherno More Varna | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-622093_lsd.m3u8?auth_key=1784489096-0-0-ebf4f64c2b05be6728609869545538ba
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botev-vratsa-80a95c.png" group-title="[LIVE 23:30 WIB 19/07/26] Botev Vratsa vs Cherno More Varna | Server 3",[LIVE 23:30 WIB 19/07/26] Botev Vratsa vs Cherno More Varna | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1784489096-0-0-e2c6cab662d324f8df8d6dbfb233998f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botev-vratsa-80a95c.png" group-title="[LIVE 23:30 WIB 19/07/26] Botev Vratsa vs Cherno More Varna | Server 4",[LIVE 23:30 WIB 19/07/26] Botev Vratsa vs Cherno More Varna | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1784489100-0-0-0e4d6648df10255bdab79ad872d11c36
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botev-vratsa-80a95c.png" group-title="[LIVE 23:30 WIB 19/07/26] Botev Vratsa vs Cherno More Varna | Server 5",[LIVE 23:30 WIB 19/07/26] Botev Vratsa vs Cherno More Varna | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1784489100-0-0-1f6f4973935b4a1bf6f02354aed78ba2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botev-vratsa-80a95c.png" group-title="[LIVE 23:30 WIB 19/07/26] Botev Vratsa vs Cherno More Varna | Server 6",[LIVE 23:30 WIB 19/07/26] Botev Vratsa vs Cherno More Varna | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=e6b53995f20e067c6758e40a99ad2cb5&txTime=6a5d6b31
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botev-vratsa-80a95c.png" group-title="[LIVE 23:30 WIB 19/07/26] Botev Vratsa vs Cherno More Varna | Server 7",[LIVE 23:30 WIB 19/07/26] Botev Vratsa vs Cherno More Varna | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=e0019196b44ceadfcf4c0dba4bbcf79f&txTime=6a5d6b31
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dallas-wings-w-b4ec3f.png" group-title="[LIVE 00:00 WIB 20/07/26] Dallas Wings W vs Los Angeles Sparks W | Server 1",[LIVE 00:00 WIB 20/07/26] Dallas Wings W vs Los Angeles Sparks W | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1784489725-0-0-58b94d2c94319b65ff62ebbd74096eee
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dallas-wings-w-b4ec3f.png" group-title="[LIVE 00:00 WIB 20/07/26] Dallas Wings W vs Los Angeles Sparks W | Server 2",[LIVE 00:00 WIB 20/07/26] Dallas Wings W vs Los Angeles Sparks W | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1784489725-0-0-5d115bc81fe3f94a9910cc2beeb19f31
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-čukarički-580802.png" group-title="[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 1",[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1784489185-0-0-2c4f2ca4598b1cada531b311a56c670f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1784489725-0-0-3cfb6110214b00e4ad59db45c6427c2a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-čukarički-580802.png" group-title="[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 2",[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1784489185-0-0-5ce3f0dbe5c70e74b6093933c90fed49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1784489725-0-0-8462d279d737986db3d18e03659c6def
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-čukarički-580802.png" group-title="[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 3",[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1784489185-0-0-7f2cdad3a910b5950492acf7daa44c88
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1784489725-0-0-fdae4aa8675502ce22a1d3b3d9d30625
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-čukarički-580802.png" group-title="[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 4",[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1784489185-0-0-f2e2dc131961e3779a73ed2556e52278
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1784489725-0-0-7bf07c67ca816822613ce2f4bccca2a7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-čukarički-580802.png" group-title="[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 5",[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1784489185-0-0-0927a82c5655220172443d4ae9a05be2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1784489725-0-0-7919cebf1387aa12f7d78a0388a1fe9c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-čukarički-580802.png" group-title="[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 6",[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1784489185-0-0-0d719ec09212358fe980647c3739274a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784489725-0-0-c5e07dcf6b5a2d699b44a2fa42518753
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-čukarički-580802.png" group-title="[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 7",[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1784489185-0-0-d9229655aeb0e5869d05d47209d4d4dc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1784489725-0-0-2011730628a45b2cf0922590d296b601
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-čukarički-580802.png" group-title="[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 8",[LIVE 00:00 WIB 20/07/26] FK Čukarički vs FK IMT Belgrad | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784489185-0-0-9f874eee69d28a815a302c903bd32fcc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1784489725-0-0-711e3f4611e6ee11aa765b5f3ee796fd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/radnik-surdulica-9c4192.webp" group-title="[LIVE 00:00 WIB 20/07/26] Radnik Surdulica vs Mladost Lucani | Server 1",[LIVE 00:00 WIB 20/07/26] Radnik Surdulica vs Mladost Lucani | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/IMMM.m3u8
@@ -89,23 +38,23 @@ http://193.47.62.41/hls/IMMM.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/radnik-surdulica-9c4192.webp" group-title="[LIVE 00:00 WIB 20/07/26] Radnik Surdulica vs Mladost Lucani | Server 3",[LIVE 00:00 WIB 20/07/26] Radnik Surdulica vs Mladost Lucani | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1784489185-0-0-c8b47f036db243bc14e835e3ab5d9671
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1784489725-0-0-d289301b673adf83fca3f231201bfe75
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/radnik-surdulica-9c4192.webp" group-title="[LIVE 00:00 WIB 20/07/26] Radnik Surdulica vs Mladost Lucani | Server 4",[LIVE 00:00 WIB 20/07/26] Radnik Surdulica vs Mladost Lucani | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1784489185-0-0-c03b69b1a584baca79ecab66e5bf17a9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1784489725-0-0-42f092bbaf0fd0741c809c520015f34c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/radnik-surdulica-9c4192.webp" group-title="[LIVE 00:00 WIB 20/07/26] Radnik Surdulica vs Mladost Lucani | Server 5",[LIVE 00:00 WIB 20/07/26] Radnik Surdulica vs Mladost Lucani | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1784489185-0-0-ae3798a412c753f0006abed2ddff1242
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1784489725-0-0-21b509a890fd4b0bafafabd7d5ec7620
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/radnik-surdulica-9c4192.webp" group-title="[LIVE 00:00 WIB 20/07/26] Radnik Surdulica vs Mladost Lucani | Server 6",[LIVE 00:00 WIB 20/07/26] Radnik Surdulica vs Mladost Lucani | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1784489185-0-0-0169de3b76e234583905ef01f62320c5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1784489725-0-0-54349728a0cdee81b87ddd446fde6ece
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/radnik-surdulica-9c4192.webp" group-title="[LIVE 00:00 WIB 20/07/26] Radnik Surdulica vs Mladost Lucani | Server 7",[LIVE 00:00 WIB 20/07/26] Radnik Surdulica vs Mladost Lucani | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1784489185-0-0-6ff17b44c6726d06448a21d0811819fd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1784489725-0-0-c4119df545ad2f4c7c9a1fb1f0421f62
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/radnik-surdulica-9c4192.webp" group-title="[LIVE 00:00 WIB 20/07/26] Radnik Surdulica vs Mladost Lucani | Server 8",[LIVE 00:00 WIB 20/07/26] Radnik Surdulica vs Mladost Lucani | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1784489185-0-0-c8912b4909979fc1f6dcb2f76f1e52f0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1784489725-0-0-f5cbc9c1b9301d95f42cee6117995fe9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vojvodina-novi-sad-805aff.png" group-title="[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 1",[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/IMMMA.m3u8
@@ -113,47 +62,35 @@ http://193.47.62.41/hls/IMMMA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vojvodina-novi-sad-805aff.png" group-title="[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 3",[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=6040c9455035ae0b0ef484617c85bf3a&txTime=6a5d6b31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-619108_lsd.m3u8?auth_key=1784489725-0-0-4f41b01f47d54451f1e0cc7bb7039712
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vojvodina-novi-sad-805aff.png" group-title="[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 4",[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=b980321a0d6994867448f14ad61fabec&txTime=6a5d6b31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1784489725-0-0-3cde5fcfe44d0769016c4a1465c4306d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vojvodina-novi-sad-805aff.png" group-title="[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 5",[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=db2e6455f20103d7e01144936b50792b&txTime=6a5d6b31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=d75aaf3aae79e565e97e3ed9792afc61&txTime=6a5d6d4d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vojvodina-novi-sad-805aff.png" group-title="[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 6",[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=99e700cfca6dd5bbc4f729218afb81ce&txTime=6a5d6b31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=a098ea6f0b6b8629fdbba9795dad47bd&txTime=6a5d6d4d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vojvodina-novi-sad-805aff.png" group-title="[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 7",[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1784489185-0-0-00d86ca1e15d0bf3e179a7cdc4ce49e6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=4d503fafbce87065341f143d7d6a1e11&txTime=6a5d6d4d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vojvodina-novi-sad-805aff.png" group-title="[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 8",[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1784489185-0-0-5850aa44880338a69e63c400e5e4ce8c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=2ea299f1942a3b6d11b30fa8d5b20329&txTime=6a5d6d4d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vojvodina-novi-sad-805aff.png" group-title="[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 9",[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619108_lsd.m3u8?auth_key=1784489185-0-0-e9b9defd66bbf58070fd6e85d0b0ed8c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1784489725-0-0-d0944ba0fe936e131e731819b4736681
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vojvodina-novi-sad-805aff.png" group-title="[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 10",[LIVE 00:00 WIB 20/07/26] Vojvodina Novi Sad vs OFK Beograd | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1784489185-0-0-f700ad56dfec8abdb81f067e72e2dc39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/605.1.15 (Ecosia ios@11.0.2.2268)
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1784489725-0-0-d256c5dfc73c4ba2729039d1c845aaed
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cukaricki-stankom-b4621d.png" group-title="[LIVE 00:00 WIB 20/07/26] Cukaricki Stankom vs IMT Novi Beograd | Server 1",[LIVE 00:00 WIB 20/07/26] Cukaricki Stankom vs IMT Novi Beograd | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/GGHHHQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cukaricki-stankom-b4621d.png" group-title="[LIVE 00:00 WIB 20/07/26] Cukaricki Stankom vs IMT Novi Beograd | Server 2",[LIVE 00:00 WIB 20/07/26] Cukaricki Stankom vs IMT Novi Beograd | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dallas-wings-w-b4ec3f.png" group-title="[LIVE 00:00 WIB 20/07/26] Dallas Wings W vs Los Angeles Sparks W | Server 1",[LIVE 00:00 WIB 20/07/26] Dallas Wings W vs Los Angeles Sparks W | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1784489185-0-0-a2dbbe4ee4e9929526fd1b21d1a4daa7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dallas-wings-w-b4ec3f.png" group-title="[LIVE 00:00 WIB 20/07/26] Dallas Wings W vs Los Angeles Sparks W | Server 2",[LIVE 00:00 WIB 20/07/26] Dallas Wings W vs Los Angeles Sparks W | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1784489185-0-0-5f7514474e1504b913a07435ae6d2b92
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lễ-bế-mạc-4944b8.png" group-title="[LIVE 00:30 WIB 20/07/26] LỄ BẾ MẠC vs LƯƠNG SƠN TV | Server 1",[LIVE 00:30 WIB 20/07/26] LỄ BẾ MẠC vs LƯƠNG SƠN TV | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 00:30 WIB 20/07/26] Petrolul vs Dinamo Bucuresti | Server 1",[LIVE 00:30 WIB 20/07/26] Petrolul vs Dinamo Bucuresti | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.41/hls/FOOOQQ.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 00:45 WIB 20/07/26] Tecnico U vs Aucas | Server 1",[LIVE 00:45 WIB 20/07/26] Tecnico U vs Aucas | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/GGHHH.m3u8
