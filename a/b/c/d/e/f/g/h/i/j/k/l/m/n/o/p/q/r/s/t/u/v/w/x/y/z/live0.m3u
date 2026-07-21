@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 22:25:08 WIB 21-07-2026
-# 🔄 Total Channels: 762
+# ⏰ Latest Updated: 22:32:28 WIB 21-07-2026
+# 🔄 Total Channels: 766
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [22:25:08 WIB 21-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [22:32:28 WIB 21-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -70,22 +70,30 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3943PZyQ/20260622-041346.jpg" group-title="Live Event: Voli",[Belum Mulai] 14:40 WIB Next Match | Gvision TV
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/G1DkasQK/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",05:30 WIB Atletico Mineiro vs Bahia | BRA Serie A | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4465726.m3u8?txSecret=41d97989a230058eaeff30fea2ca57ce&txTime=6A6143F0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",05:30 WIB Avai FC vs America MG | BRA Serie B | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4494631.m3u8?txSecret=67c6654b767e52c0cc7c29dbbc0d7b56&txTime=6A6143F0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",05:30 WIB Gremio Novorizontino vs Criciuma | BRA Serie B | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4494636.m3u8?txSecret=ecb0c85623a0d0694665fa865d12036b&txTime=6A6143F0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",05:00 WIB Nacional Montevideo vs Club Atletico Tigre | Copa Sudamericana | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4546908.m3u8?txSecret=8162e4d4df4472b5ff4e91c8558da983&txTime=6A614288
+https://pul-tenm.gkykp.com/live/sd-1-4546908.m3u8?txSecret=b528cac59635ff189427609d9acc6d1c&txTime=6A6143F0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",05:00 WIB Internacional De Bogota vs Inter Palmira | COL Copa | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4544620.m3u8?txSecret=c88d977defb1106e7ce699d377b95940&txTime=6A614288
+https://pul-tenm.gkykp.com/live/sd-1-4544620.m3u8?txSecret=00080ef16c21e5d4d4d7796fe2112279&txTime=6A6143F0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",04:30 WIB Libertad Loja vs Delfin SC | LigaPro Serie A | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4492548.m3u8?txSecret=dbd08a4bc10bc27b0bd863732ed9ee97&txTime=6A614288
+https://pul-tenm.gkykp.com/live/sd-1-4492548.m3u8?txSecret=cb719561eda4ed003e5910e4c639d132&txTime=6A6143F0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",04:00 WIB Club 10 De Julio vs Benjamin Aceval | PAR Cup | Gvision TV
 https://feijing-xzbforanchor.52kq.top/live/sd-1-4586412.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",04:00 WIB Atletico Nacional Medellin vs Tigres Zipaquira | COL Copa | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4544614.m3u8?txSecret=973bcefd8454436824aa27846fb494d2&txTime=6A614288
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 05:30 WIB Avai FC vs America MG | BRA D2 | Gvision TV
-https://play.666666.zip/live/8882940086.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 05:30 WIB Gremio Novorizontino vs Criciuma | BRA D2 | Gvision TV
-https://play.666666.zip/live/8882940092.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 05:30 WIB Atletico Mineiro vs Bahia | BRA D1 | Gvision TV
-https://play.666666.zip/live/8882910807.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4544614.m3u8?txSecret=a77b17e9a07d58d8270ae19ea361f89f&txTime=6A6143F0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 06:00 WIB Itabirito  Women vs EC Bahia  Women | BRA WCUP | Gvision TV
+https://play.666666.zip/live/8883032722.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 06:00 WIB Independiente Petrolero vs Real Potosi | BOL D1 | Gvision TV
+https://play.666666.zip/live/8882971424.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 06:00 WIB Deportes Tolima vs Deportes Quindio | COL Cup | Gvision TV
+https://play.666666.zip/live/8882989145.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 06:00 WIB Independiente Santa Fe vs Union Magdalena | COL Cup | Gvision TV
+https://play.666666.zip/live/8882989150.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
