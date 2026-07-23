@@ -1,30 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [06.26 WIB 24/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [06.32 WIB 24/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/leones-del-norte-85b20a.png" group-title="[LIVE 04:30 WIB 24/07/26] Leones del Norte vs Guayaquil City | Server 1",[LIVE 04:30 WIB 24/07/26] Leones del Norte vs Guayaquil City | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.46/hls/RGGGQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/leones-del-norte-85b20a.png" group-title="[LIVE 04:30 WIB 24/07/26] Leones del Norte vs Guayaquil City | Server 2",[LIVE 04:30 WIB 24/07/26] Leones del Norte vs Guayaquil City | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bolivar-a2759c.png" group-title="[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 1",[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1784852455-0-0-af2da798f39dccfe2a580a54edeb48a6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bolivar-a2759c.png" group-title="[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 2",[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1784852455-0-0-8ee96c1c033078a90af2d99b01d7eaa7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bolivar-a2759c.png" group-title="[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 3",[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1784852455-0-0-c0d01c59187afb8e1d0f346c90c7e553
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bolivar-a2759c.png" group-title="[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 4",[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1784852455-0-0-d9b41869735da0dd15364ab915bf92c2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bolivar-a2759c.png" group-title="[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 5",[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1784852455-0-0-3e815df100a74e6962cf6d72a5eef567
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bolivar-a2759c.png" group-title="[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 6",[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1784852455-0-0-250811708a476bd8d489d3d416f0b7b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bolivar-a2759c.png" group-title="[LIVE 05:00 WIB 24/07/26] Bolivar vs Gremio | Server 1",[LIVE 05:00 WIB 24/07/26] Bolivar vs Gremio | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/bolivar-gremio-copasuda/index.m3u8
@@ -37,93 +13,24 @@ http://193.47.62.41/hls/ZGGG.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bolivar-a2759c.png" group-title="[LIVE 05:00 WIB 24/07/26] Bolivar vs Gremio | Server 4",[LIVE 05:00 WIB 24/07/26] Bolivar vs Gremio | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 1",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1784852455-0-0-60dcf8c34098360d248d453fc7fca910
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 2",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1784852455-0-0-b7ff5a08588bf20d7a567079d3c8e9fb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 3",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=ef3fb7f47979216014ad768c1ca0fd38&txTime=6a62f637
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 4",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=63ecb077d5825b813d47b6ef673e6eba&txTime=6a62f637
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 5",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1784852455-0-0-a135ed83207cdcba7adce20bb89e1921
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 6",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1784852455-0-0-710391fd8daee4d72eeba721ea1e8eb9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 7",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1784852455-0-0-914aa9ded7869c86a72acbf8e7bfe2e3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 8",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784852455-0-0-7892e3bd5151bbb5ef4288d492d1417f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 1",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-619108_lsd.m3u8?auth_key=1784852455-0-0-749d0b0e9568f4daa92fbf33fab4f73a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 2",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1784852455-0-0-7c95802de10716424da86885e213b63c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 3",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1784852455-0-0-f2bcbf995d4b78d15bc5ce60c6cec402
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 4",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1784852455-0-0-a190eb37cedd20b36aa8112c8c96e0bc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 5",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=441c1ac38a7aac20aa2c2c81f5725be0&txTime=6a62f637
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 6",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=03f272d7173b6f4de7f1974275d80971&txTime=6a62f637
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 7",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1784852455-0-0-c9cc84c551ad3ee26b021faa67864aff
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 8",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1784852455-0-0-e8bff8fce1531cc6c55e9b0511f7fcfa
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 05:30 WIB 24/07/26] Orense vs Aucas | Server 1",[LIVE 05:30 WIB 24/07/26] Orense vs Aucas | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.46/hls/RGGGQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 1",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/corinthians-remo-brasa/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 2",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/corinthians-remo-brasa.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 3",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.41/hls/ZGGGQQQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 4",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 5",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1784852455-0-0-82341af3aee8a0c46d3c5ccf8f58d426
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 6",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1784852455-0-0-5cbe78de3085ef0c87c7d2e1f0f54217
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 7",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=f8a823d4c4985f2d24a88f9ea2d4da5d&txTime=6a62f637
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 8",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=549d65c65000100666e7ca67d8d1b4df&txTime=6a62f637
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 9",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1784852455-0-0-ef06d2e7d02bf609ceff23762b07e83e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 10",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1784852455-0-0-51c1d2b520cc27b1f216aee93ce3edb1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 11",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1784852455-0-0-007c7c0b98ac9b67c3dcb8b28a285fc1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 12",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1784852455-0-0-ae7b75f98b9b7fc11eeb43761d5cee65
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bolivar-a2759c.png" group-title="[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 1",[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1784852995-0-0-98f91401d1b6599c776f127fddcd18e3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bolivar-a2759c.png" group-title="[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 2",[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1784852995-0-0-d0129656597e512a7bdcadcf55cadd4f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bolivar-a2759c.png" group-title="[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 3",[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1784852995-0-0-bfb5eb800acfa0357cd9fd391d2b220c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bolivar-a2759c.png" group-title="[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 4",[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1784852995-0-0-900891984304d3526d99a2dda835b3e7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bolivar-a2759c.png" group-title="[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 5",[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1784852995-0-0-a20ae124b66aa701a1236d8bea0ec962
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bolivar-a2759c.png" group-title="[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 6",[LIVE 05:00 WIB 24/07/26] Bolivar vs Grêmio - RS | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1784852995-0-0-f1c954315821ba06d9f062aee51f3cd9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-5029cc.png" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo vs Vitoria | Server 1",[LIVE 05:30 WIB 24/07/26] Botafogo vs Vitoria | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/botafogo-vitoria-brasa/index.m3u8
@@ -143,29 +50,116 @@ http://193.47.62.41/hls/ZGGGQQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgrano-089110.webp" group-title="[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 3",[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=070916039bc6c2ac697ba53708aed05a&txTime=6a62f637
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1784852999-0-0-1f76f9e0e9e69f0f2e04b4e22585099e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgrano-089110.webp" group-title="[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 4",[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=f5b0d0bf3ee75b3e4e2ddcc61e324787&txTime=6a62f637
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1784852999-0-0-fbd14db3c4e2c819827f94cfe185ef3e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgrano-089110.webp" group-title="[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 5",[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1784852455-0-0-976d134d38d6f246da23414e6d527f8f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=69597fb11ee8e792b4ebd832301ea14d&txTime=6a62f853
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgrano-089110.webp" group-title="[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 6",[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1784852455-0-0-177f7849e6a29ba32b321ec6b3d14b65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=773bd55e4637605c3d4e4c6fcf197e65&txTime=6a62f853
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgrano-089110.webp" group-title="[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 7",[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1784852455-0-0-03ec0cbd5dca2238369c9036e950d665
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1784852995-0-0-a73a30a8ac6512e7a3825183568f0942
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgrano-089110.webp" group-title="[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 8",[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1784852455-0-0-7efaeaa4020757140144a102ecd5d6b4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1784852995-0-0-d1725c401d852da3221258fbf34aa7ec
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgrano-089110.webp" group-title="[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 9",[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=1817ec63dcd94f8569b744a1e17698c4&txTime=6a62f637
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=32dc95cbcfe6fed86e6c795401689506&txTime=6a62f853
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgrano-089110.webp" group-title="[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 10",[LIVE 05:30 WIB 24/07/26] Belgrano vs Rosario Central | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=6a1d07b206c4dfcf3e4fa02a4ebd3216&txTime=6a62f637
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=e3468e83637733fcfd1c262d0581f863&txTime=6a62f853
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 1",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=a3ce93de48c2538d02c673df6ffeb35c&txTime=6a62f853
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 2",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=1e743f0a8df9400ac062f6567e4adb6f&txTime=6a62f853
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 3",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-619108_lsd.m3u8?auth_key=1784852995-0-0-38d6ad97b5e3a329e7eba8d8927c4696
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 4",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1784852995-0-0-73f8314a741e24f3d61546c0244e5426
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 5",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1784852995-0-0-5d97b4a9c50b76834706067b3dd1582b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 6",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1784852995-0-0-b2b3c0208b47481d7fde3ed1ecf53375
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 7",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1784852995-0-0-b8a1d0baf6d912b7bd82c8a3c776cc39
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botafogo-rj-f1ef5f.webp" group-title="[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 8",[LIVE 05:30 WIB 24/07/26] Botafogo - RJ vs Vitória - BA | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1784852995-0-0-5faf824052d06531cf481b04626b29f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 1",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1784852995-0-0-4585e75354dd32b732e3a543b306465d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 2",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1784852995-0-0-2e392fecbad5d5dc011e7dd49dfcff0f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 3",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1784852995-0-0-5838b6db3870c033a50aed79863a54c5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 4",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1784852995-0-0-4776a44257e2bb4da395969e172c9811
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 5",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1784852995-0-0-42628caead9cdef82fd8ebde18c96884
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 6",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784852995-0-0-5487720e70a189ca751d05419214ae89
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 7",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=b76340b035e341e4ee6d54187908842f&txTime=6a62f853
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sarmiento-junin-8d82f9.webp" group-title="[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 8",[LIVE 05:30 WIB 24/07/26] Sarmiento Junin vs Argentinos Juniors | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=597f649d526f1171a15424c9b34a931d&txTime=6a62f853
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 05:30 WIB 24/07/26] Orense vs Aucas | Server 1",[LIVE 05:30 WIB 24/07/26] Orense vs Aucas | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.46/hls/RGGGQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 1",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/corinthians-remo-brasa/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 2",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/corinthians-remo-brasa.flv
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 3",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.41/hls/ZGGGQQQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 4",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 5",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1784852995-0-0-e37f5b17f6569a3fa96bf62265402da3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 6",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1784852995-0-0-feb75c32b0cb55f707ddff15118626ac
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 7",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1784852995-0-0-aa9d0aa6ad9571f9b720059f8e6635d7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 8",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1784852995-0-0-0666a3da6b195f5af8e91fa3ce818ba3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 9",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1784853005-0-0-e02e22ebbce4efd502e1a8f9b581288b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 10",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1784853005-0-0-a5da7e5d9e91249faec44519e09d8c3c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 11",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=84154b75739fa04f80a6796c7a0c028e&txTime=6a62f853
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 12",[LIVE 05:30 WIB 24/07/26] Corinthians - SP vs Remo - PA | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=48af1d208b27fc8501ad94b05ef9ebe8&txTime=6a62f853
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 06:30 WIB 24/07/26] Athletic Club vs Sao Bernardo | Server 1",[LIVE 06:30 WIB 24/07/26] Athletic Club vs Sao Bernardo | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/ZGGGQQQQ.m3u8
@@ -174,13 +168,16 @@ http://193.47.62.41/hls/ZGGGQQQQ.m3u8
 http://193.47.62.41/hls/ZGGGQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cuiaba-ce5a0c.webp" group-title="[LIVE 06:30 WIB 24/07/26] Cuiaba vs Atletico Clube Goianiense | Server 1",[LIVE 06:30 WIB 24/07/26] Cuiaba vs Atletico Clube Goianiense | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+https://cds78y11d.org/live/sd-6MvVNfQFKUgyjYz7pp.m3u8?txSecret=c94badccd2e20752c6975fc3a6310d80&txTime=6A634CBD
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cuiaba-ce5a0c.webp" group-title="[LIVE 06:30 WIB 24/07/26] Cuiaba vs Atletico Clube Goianiense | Server 2",[LIVE 06:30 WIB 24/07/26] Cuiaba vs Atletico Clube Goianiense | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1784852455-0-0-0c2479eb6826dc9741f578ace0edace7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cuiaba-ce5a0c.webp" group-title="[LIVE 06:30 WIB 24/07/26] Cuiaba vs Atletico Clube Goianiense | Server 3",[LIVE 06:30 WIB 24/07/26] Cuiaba vs Atletico Clube Goianiense | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1784852455-0-0-05c79c2a086983968a3f97f1df17e42b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1784852995-0-0-2ef057f46612f6291b422a1448ae881f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cuiaba-ce5a0c.webp" group-title="[LIVE 06:30 WIB 24/07/26] Cuiaba vs Atletico Clube Goianiense | Server 4",[LIVE 06:30 WIB 24/07/26] Cuiaba vs Atletico Clube Goianiense | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1784852995-0-0-9db1a778937d2c696c0038d8b0ea9a99
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/0645bbd409afaa9d208188fc56bb3210.png" group-title="[LIVE 06:00 WIB 25/07/26] Mahaut Soca Strikers vs Máy bay ném bom Portsmouth | Server 1",[LIVE 06:00 WIB 25/07/26] Mahaut Soca Strikers vs Máy bay ném bom Portsmouth | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MwarCeF9zxAYd5XmN.m3u8?txSecret=061dbe893785db6453a35f2dc42f2c29&txTime=6A634B55
+https://cds78y11d.org/live/sd-6MwarCeF9zxAYd5XmN.m3u8?txSecret=df481f54329cc5d29bb7b05ae215101e&txTime=6A634CBD
