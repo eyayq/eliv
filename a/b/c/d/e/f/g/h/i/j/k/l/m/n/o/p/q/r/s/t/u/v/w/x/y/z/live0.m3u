@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 13:16:25 WIB 24-07-2026
-# 🔄 Total Channels: 868
+# ⏰ Latest Updated: 13:22:46 WIB 24-07-2026
+# 🔄 Total Channels: 867
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [13:16:25 WIB 24-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [13:22:46 WIB 24-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -102,9 +102,6 @@ https://live2.streambylivepulse.com/live/channel33.m3u8
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT",19:35 WIB Netherlands vs China | Women's Series. Indonesia | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-http://gvisiontv.channell.my.id/event/event2/stream.php/.m3u8?id=%2Fmatch%2Fnetherlands-w--china-w-24912750
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",China Open | Gvision TV
 https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4271158316464061_AiHD.m3u8?txSecret=6972426dd81d21cb6108992e131d7745&txTime=6A6434C0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",China Open | Gvision TV
@@ -126,17 +123,17 @@ https://badmintonlive.net/live-stream/live/98ef19a0d5b2f41dcebe2bae359140e6.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",VICTOR China Open 2026 | Court 2 | Gvision TV
 https://badmintonlive.net/live-stream/live/53c3fac0062494b78845c38bf1e1ef7b.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",20:00 WIB FK Aktobe II vs Kairat Almaty II | KAZ Division 1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4519526.m3u8?txSecret=350243092b437957303ce93e2930f0cb&txTime=6A64B699
+https://pul-tenm.gkykp.com/live/sd-1-4519526.m3u8?txSecret=3aea4a4c49a693a1cd820a267d718b69&txTime=6A64B788
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",20:00 WIB FC Shakhter Karagandy vs FK Arys | KAZ Division 1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4519527.m3u8?txSecret=41912ac19e9740fe9a3030eb091d4cbb&txTime=6A64B699
+https://pul-tenm.gkykp.com/live/sd-1-4519527.m3u8?txSecret=be21d55dae45e691155fc846e2a56255&txTime=6A64B788
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",19:10 WIB ADO Den Haag vs KVSK Lommel | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4589362.m3u8?txSecret=65483b61c44c30837315dcb78546faf5&txTime=6A64B699
+https://pul-tenm.gkykp.com/live/sd-1-4589362.m3u8?txSecret=c84ba4a09af0728eb4f034e37471af03&txTime=6A64B788
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",19:00 WIB Wolfsburg vs OL | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4593875.m3u8?txSecret=9564d56cc1abe31b0a7fc33ec308d1eb&txTime=6A64B699
+https://pul-tenm.gkykp.com/live/sd-1-4593875.m3u8?txSecret=ddf0288f750cfbb35026db1b00ae5c81&txTime=6A64B788
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",19:00 WIB FK Yelimay Semey B vs FK Taraz | KAZ Division 1 | Gvision TV
 https://play.666666.zip/live/4523587.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",19:00 WIB Cambodia vs Singapore | ASEAN Championship | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4546497.m3u8?txSecret=3b53f205219ee287d1f6f6aa6a185bdb&txTime=6A64B699
+https://pul-tenm.gkykp.com/live/sd-1-4546497.m3u8?txSecret=0e910072c36ad6f29c3750e576cb0e1c&txTime=6A64B788
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 20:30 WIB Timor Leste vs Vietnam | ASEAN Cup | Gvision TV
 https://play.666666.zip/live/8882999665.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 20:30 WIB Aral Nukus vs Shurtan Guzor | UZB D1 | Gvision TV
