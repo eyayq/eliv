@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁07:05:41 24-07-2026📁",📁SERVER PLAYLIST UPDATED📁
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁07:12:39 24-07-2026📁",📁SERVER PLAYLIST UPDATED📁
 http://phate.io/listen
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁LigaPro Serie A 📁00:00:00📁",📁LIVE📁Club Sport Emelec vs Mushuc Runa📁24-07-2026 07:05:38 WIB📁00:00:00📁
-https://hls.cdnfaster-b.site/live/GIANGATHO/index.m3u8?expire=1813410540&sign=ed2bb6147299941e41871ced7bf1efb5
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Brazilian Serie B📁00:00:00📁",📁LIVE📁Cuiaba vs Atletico Clube Goianiense📁24-07-2026 07:05:38 WIB📁00:00:00📁
-https://hls.cdnfaster-b.site/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Argentine Division 1📁00:00:00📁",📁LIVE📁Belgrano vs Rosario Central📁24-07-2026 07:05:38 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Argentine Division 1📁00:00:00📁",📁LIVE📁Belgrano vs Rosario Central📁24-07-2026 07:12:36 WIB📁00:00:00📁
 https://hls.cdnfaster-b.site/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Brazilian Serie A📁00:00:00📁",📁LIVE📁Corinthians - SP vs Remo - PA📁24-07-2026 07:05:38 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Brazilian Serie A📁00:00:00📁",📁LIVE📁Corinthians - SP vs Remo - PA📁24-07-2026 07:12:36 WIB📁00:00:00📁
 https://hls.cdnfaster-b.site/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Brazilian Serie A📁00:00:00📁",📁LIVE📁Botafogo - RJ vs Vitória - BA📁24-07-2026 07:05:38 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Brazilian Serie A📁00:00:00📁",📁LIVE📁Botafogo - RJ vs Vitória - BA📁24-07-2026 07:12:36 WIB📁00:00:00📁
 https://hls.cdnfaster-b.site/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Argentine Division 1📁00:00:00📁",📁LIVE📁Sarmiento Junin vs Argentinos Juniors📁24-07-2026 07:05:38 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Argentine Division 1📁00:00:00📁",📁LIVE📁Sarmiento Junin vs Argentinos Juniors📁24-07-2026 07:12:36 WIB📁00:00:00📁
 https://hls.cdnfaster-b.site/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁CONMEBOL Copa Sudamericana📁00:00:00📁",📁LIVE📁Bolivar vs Grêmio - RS📁24-07-2026 07:05:38 WIB📁00:00:00📁
-https://hls.cdnfaster-b.site/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁LigaPro Serie A 📁00:00:00📁",📁LIVE📁Club Sport Emelec vs Mushuc Runa📁24-07-2026 07:12:36 WIB📁00:00:00📁
+https://hls.cdnfaster-b.site/live/GIANGATHO/index.m3u8?expire=1813410540&sign=ed2bb6147299941e41871ced7bf1efb5
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Brazilian Serie B📁00:00:00📁",📁LIVE📁Cuiaba vs Atletico Clube Goianiense📁24-07-2026 07:12:36 WIB📁00:00:00📁
+https://hls.cdnfaster-b.site/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
