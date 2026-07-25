@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 20:35:48 WIB 25-07-2026
-# 🔄 Total Channels: 861
+# ⏰ Latest Updated: 20:42:15 WIB 25-07-2026
+# 🔄 Total Channels: 863
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:35:48 WIB 25-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:42:15 WIB 25-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -68,26 +68,34 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="BILA ANDA MEMBELI ANDA KENA DITIPU",UPDATE PLAYLIST TERBARU ADA DI TELEGRAM
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://img2.51gt3.com/rac/race/202502/d53ef561afe64e04984fdb4e3e0b980f.jpg" group-title="LIVE EVENT",03:35 WIB Ferrari Challenge 2026 | BEINSPORTS 1 | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/20/6a5e291fdc649-piala-presiden-elite-2026_gemini_1265_711.jpg" group-title="LIVE EVENT",PSMS Medan VS Port FC | PIALA PRESIDEN - Group Stage | [BACA: AKTIF PAS KICK-OFF] | Gvision TV
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com
 https://hd-stream.lxscore.com/live/default-108887.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",03:15 WIB Juan Pablo II vs Cienciano | PERU Liga 1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4550649.m3u8?txSecret=6ff45d5ee9bda9c44ca7d13fbc0d1bf6&txTime=6A666EC0
+https://pul-tenm.gkykp.com/live/sd-1-4550649.m3u8?txSecret=a8622865cf2f283a9ffc1316747e06bc&txTime=6A6670A0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",03:00 WIB SV Britannia vs Weymouth Wales | Caribbean Shield | Gvision TV
 https://play.666666.zip/live/4593998.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",03:00 WIB CA Newell Old Boys vs Talleres Cordoba | ARG Division 1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4539635.m3u8?txSecret=d7db6830233081f93aa9f8f96a3922b5&txTime=6A666EC0
+https://pul-tenm.gkykp.com/live/sd-1-4539635.m3u8?txSecret=f3f3e6cfcf6478ac5fa6483c899e851d&txTime=6A6670A0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",02:00 WIB FC Porto vs Aston Villa | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4593988.m3u8?txSecret=48ae9145b40f78e29337950951406670&txTime=6A666EC0
+https://pul-tenm.gkykp.com/live/sd-1-4593988.m3u8?txSecret=6a951c09213737d6c660ae906bdf0328&txTime=6A6670A0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",02:00 WIB Atletico Rafaela vs Nueva Chicago | ARG Primera Nacional | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4471279.m3u8?txSecret=d49eca88647785bb1f7befd54f02c942&txTime=6A666EC0
+https://pul-tenm.gkykp.com/live/sd-1-4471279.m3u8?txSecret=5fae9be7c37463cc022c8b9ee34080aa&txTime=6A6670A0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",02:00 WIB Deportivo Recoleta vs Sportivo San Lorenzo | PAR Primera Division | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4462177.m3u8?txSecret=4a93bf10ba849df2321706f6d9d51403&txTime=6A666EC0
+https://pul-tenm.gkykp.com/live/sd-1-4462177.m3u8?txSecret=d09b4ab3fea0a139c1f123d02fd6f4fe&txTime=6A6670A0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",02:00 WIB Always Ready vs San Antonio Bulo Bulo | BOL Primera Division | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4543797.m3u8?txSecret=71be10bc1084cd5690de3fec496412e1&txTime=6A666EC0
+https://pul-tenm.gkykp.com/live/sd-1-4543797.m3u8?txSecret=8cec9a2dce5e286da76558ff05475159&txTime=6A6670A0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",01:45 WIB Sligo Rovers vs Drogheda United | IRE Premier Division | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4469078.m3u8?txSecret=61e925c3a198ce78db2b6920871064d8&txTime=6A666EC0
+https://pul-tenm.gkykp.com/live/sd-1-4469078.m3u8?txSecret=c9b64eb8124d5e3c4ed30ebf183a6bd8&txTime=6A6670A0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 04:05 WIB Dep.Independiente Medellin vs Deportivo Pasto | COL D1C | Gvision TV
+https://play.666666.zip/live/8883011762.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 04:00 WIB Bogota FC vs Union Magdalena | COL D2C | Gvision TV
 https://play.666666.zip/live/8883012126.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 04:00 WIB Cuba U20 vs El Salvador U20 | CNCF U20Q | Gvision TV
