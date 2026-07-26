@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 01:49:12 WIB 26-07-2026
-# 🔄 Total Channels: 866
+# ⏰ Latest Updated: 01:57:29 WIB 26-07-2026
+# 🔄 Total Channels: 868
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [01:49:12 WIB 26-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [01:57:29 WIB 26-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4337
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4337
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -72,40 +72,44 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com
 https://hd-stream.lxscore.com/live/default-108887.m3u8
+#EXTINF:-1 tvg-logo="https://f.rpp-noticias.io/2026/06/05/305530_1875224.jpg" group-title="Live Event: Voli",[Belum Mulai] 14:10 WIB CHINA VS ITALY - FOR 3RD PLACE | Gvision TV
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/PA9u74As/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://f.rpp-noticias.io/2026/06/05/305530_1875224.jpg" group-title="Live Event: Voli",[Belum Mulai] 18:10 WIB TURKEY VS BRAZIL - FINAL | Gvision TV
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Wrzj4WWp/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",09:00 WIB Monterey Bay FC vs Orange County SC | USA USL | Gvision TV
+https://play.666666.zip/live/4472998.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",09:00 WIB Oakland Roots vs Sacramento Republic FC | USA USL | Gvision TV
+https://play.666666.zip/live/4473003.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",08:30 WIB San Diego FC vs FC Dallas | USA MLS | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4460389.m3u8?txSecret=d838ee943548b5bc783d09d669ef81a3&txTime=6A66B859
+https://pul-tenm.gkykp.com/live/sd-1-4460389.m3u8?txSecret=cb574398b64b02d16e7011adb0bd02e1&txTime=6A66BA39
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",08:15 WIB Deportes Tolima vs Atletico Junior Barranquilla | Categoria Primera A | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4569199.m3u8?txSecret=3a62abc75f6fd93b263e50391a09db84&txTime=6A66B859
+https://pul-tenm.gkykp.com/live/sd-1-4569199.m3u8?txSecret=53a254b91c87bd35082544edf11ced6a&txTime=6A66BA39
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",08:00 WIB El Paso Locomotive FC vs Sporting Jax | USA USL | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4473084.m3u8?txSecret=e0295126f45c04a1634e7db9d8dcaf94&txTime=6A66B859
+https://pul-tenm.gkykp.com/live/sd-1-4473084.m3u8?txSecret=63b3b3b343490e7476b0aab5c25b540d&txTime=6A66BA39
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",08:00 WIB Colorado Springs vs Charleston Battery | USA USL | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4473055.m3u8?txSecret=69a3cfb190cb348303408d7448fdbdbf&txTime=6A66B859
+https://pul-tenm.gkykp.com/live/sd-1-4473055.m3u8?txSecret=b603727f589e96a0ae70704af136aee7&txTime=6A66BA39
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",08:00 WIB CA Morelia vs Atletico La Paz | MEX Ascenso MX | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4578776.m3u8?txSecret=d9b3e9190e62b176953bed624f06508c&txTime=6A66B859
+https://pul-tenm.gkykp.com/live/sd-1-4578776.m3u8?txSecret=a966b4445e99e1f204c5290e52d9d5e8&txTime=6A66BA39
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",08:00 WIB FBC Melgar vs Sporting Cristal | PERU Liga 1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4550639.m3u8?txSecret=3ca32e758858cbb288afd0feec906c84&txTime=6A66B859
+https://pul-tenm.gkykp.com/live/sd-1-4550639.m3u8?txSecret=f277a1873d2f3d162a068ee9c4524241&txTime=6A66BA39
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:45 WIB Orlando City vs Nashville SC | USA MLS | Gvision TV
 https://play.666666.zip/live/4460380.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:40 WIB Houston Dynamo vs Austin FC | USA MLS | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4460383.m3u8?txSecret=4de7be22be94a59d4c020f150fa37a78&txTime=6A66B859
+https://pul-tenm.gkykp.com/live/sd-1-4460383.m3u8?txSecret=703b93788b6a754fa91332bb24013a1c&txTime=6A66BA39
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:40 WIB Minnesota United FC vs Vancouver Whitecaps | USA MLS | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4460385.m3u8?txSecret=f36884a3ab0e1f43af42194dfe1c2509&txTime=6A66B859
+https://pul-tenm.gkykp.com/live/sd-1-4460385.m3u8?txSecret=a45c4ec5678e965a23d1bf91a2735c3c&txTime=6A66BA39
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:40 WIB St. Louis City SC vs Colorado Rapids | USA MLS | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4460388.m3u8?txSecret=d78be68c14f3d2a573c534aca1e19b1f&txTime=6A66B859
+https://pul-tenm.gkykp.com/live/sd-1-4460388.m3u8?txSecret=33038b960b5379e6fabc5877c47f2ac3&txTime=6A66BA39
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:30 WIB CA Lanus vs CA San Lorenzo | ARG Division 1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4539634.m3u8?txSecret=3a6de92f1d41488d93b57a1e6c45551b&txTime=6A66B859
+https://pul-tenm.gkykp.com/live/sd-1-4539634.m3u8?txSecret=a254a76b2844d74872b6e63930edb430&txTime=6A66BA39
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:30 WIB Tulsa Roughneck vs Lexington | USA USL | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4473033.m3u8?txSecret=56f2f16e92ff367df4bf14cc86432440&txTime=6A66B859
+https://pul-tenm.gkykp.com/live/sd-1-4473033.m3u8?txSecret=e5db8785485dead852c721eeaa5cc6bd&txTime=6A66BA38
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:00 WIB Univ Catolica vs Deportes La Serena | CHI Liga de Primera | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4476404.m3u8?txSecret=28004edd8446d44e305e753286d9bd5b&txTime=6A66B859
+https://pul-tenm.gkykp.com/live/sd-1-4476404.m3u8?txSecret=f990e23fb26e39ff9d20ca9f359c8341&txTime=6A66BA38
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:00 WIB Real Cartagena vs Real Santander | COL Torneo BetPlay Dimayor | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4594048.m3u8?txSecret=df3c91188dd7e6e86f3a729ca89dcde6&txTime=6A66B859
+https://pul-tenm.gkykp.com/live/sd-1-4594048.m3u8?txSecret=aa5a9dee23e34fafd55fecc365e8a6d2&txTime=6A66BA38
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:00 WIB Tecnico Universitario vs Manta FC | LigaPro Serie A | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4492554.m3u8?txSecret=7b8818aea164b82f71109c093d3ba07f&txTime=6A66B859
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 09:00 WIB Monterey Bay FC vs Orange County Blues FC | USL CH | Gvision TV
-https://play.666666.zip/live/8882942522.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 09:00 WIB Oakland Roots vs Sacramento Republic FC | USL CH | Gvision TV
-https://play.666666.zip/live/8882942523.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4492554.m3u8?txSecret=afc03e61e0b39bc3c7108088fdce2512&txTime=6A66BA38
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 09:00 WIB Sporting San Jose vs Alajuelense | CRC D1A | Gvision TV
 https://play.666666.zip/live/8882997982.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[AFL Aussie Rules] Fremantle Dockers vs West Coast Eagles Gvision TV
