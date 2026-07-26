@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁23:48:54 26-07-2026📁",📁SERVER PLAYLIST UPDATED📁
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁23:55:17 26-07-2026📁",📁SERVER PLAYLIST UPDATED📁
 http://phate.io/listen
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Bulgarian First League📁00:00:00📁",📁LIVE📁Cherno More Varna vs Spartak Varna📁26-07-2026 23:48:53 WIB📁00:00:00📁
-https://hls.cdnfaster-b.site/live/THICHDUTHU2/index.m3u8?expire=1879277700&sign=ba0e4935fa6e7962f084086e60fdee9e
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Czech Chance Liga📁00:00:00📁",📁LIVE📁FK Jablonec vs SK Sigma Olomouc📁26-07-2026 23:48:53 WIB📁00:00:00📁
-https://hls.cdnfaster-b.site/live/TEOTEO/index.m3u8?expire=1813410540&sign=71d1ad098d165df5352a541a785a268a
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁PKO Bank Polski EKSTRAKLASA📁00:00:00📁",📁LIVE📁Widzew lodz vs Motor Lublin📁26-07-2026 23:48:53 WIB📁00:00:00📁
-https://hls.cdnfaster-b.site/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Norwegian Eliteserien📁00:00:00📁",📁LIVE📁Sandefjord vs Bodo Glimt📁26-07-2026 23:48:53 WIB📁00:00:00📁
-https://hls.cdnfaster-b.site/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Norwegian Eliteserien📁00:00:00📁",📁LIVE📁KFUM Oslo vs Molde📁26-07-2026 23:48:53 WIB📁00:00:00📁
-https://hls.cdnfaster-b.site/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁International Club Friendly📁00:00:00📁",📁LIVE📁Rangers vs West Ham United📁26-07-2026 23:48:53 WIB📁00:00:00📁
-https://hls.cdnfaster-b.site/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Norwegian Eliteserien📁00:00:00📁",📁LIVE📁Sarpsborg 08 vs Ham-Kam📁26-07-2026 23:48:53 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Norwegian Eliteserien📁00:00:00📁",📁LIVE📁Sarpsborg 08 vs Ham-Kam📁26-07-2026 23:55:16 WIB📁00:00:00📁
 https://hls.cdnfaster-b.site/live/temp/index.m3u8?expire=1814715900&sign=e5f12d5d53bf52913d0cc604dd8fef86
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Russian Premier League📁00:00:00📁",📁LIVE📁Rubin Kazan vs FK Krasnodar📁26-07-2026 23:48:53 WIB📁00:00:00📁
-https://hls.cdnfaster-b.site/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Danish Superliga📁00:00:00📁",📁LIVE📁AC Horsens vs Nordsjaelland📁26-07-2026 23:48:53 WIB📁00:00:00📁
-https://hls.cdnfaster-b.site/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Serbian Mozzart Bet Superliga📁00:00:00📁",📁LIVE📁Crvena Zvezda vs Vojvodina Novi Sad📁26-07-2026 23:48:53 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Serbian Mozzart Bet Superliga📁00:00:00📁",📁LIVE📁Crvena Zvezda vs Vojvodina Novi Sad📁26-07-2026 23:55:16 WIB📁00:00:00📁
 https://hls.cdnfaster-b.site/live/GIANGAKE1/index.m3u8?expire=1875900120&sign=4e26a135079793732e8db8d9edfb8f6d
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Russian Premier League📁00:00:00📁",📁LIVE📁Rubin Kazan vs FK Krasnodar📁26-07-2026 23:55:16 WIB📁00:00:00📁
+https://hls.cdnfaster-b.site/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Danish Superliga📁00:00:00📁",📁LIVE📁AC Horsens vs Nordsjaelland📁26-07-2026 23:55:16 WIB📁00:00:00📁
+https://hls.cdnfaster-b.site/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Bulgarian First League📁00:00:00📁",📁LIVE📁Cherno More Varna vs Spartak Varna📁26-07-2026 23:55:16 WIB📁00:00:00📁
+https://hls.cdnfaster-b.site/live/THICHDUTHU2/index.m3u8?expire=1879277700&sign=ba0e4935fa6e7962f084086e60fdee9e
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Czech Chance Liga📁00:00:00📁",📁LIVE📁FK Jablonec vs SK Sigma Olomouc📁26-07-2026 23:55:16 WIB📁00:00:00📁
+https://hls.cdnfaster-b.site/live/TEOTEO/index.m3u8?expire=1813410540&sign=71d1ad098d165df5352a541a785a268a
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁PKO Bank Polski EKSTRAKLASA📁00:00:00📁",📁LIVE📁Widzew lodz vs Motor Lublin📁26-07-2026 23:55:16 WIB📁00:00:00📁
+https://hls.cdnfaster-b.site/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Norwegian Eliteserien📁00:00:00📁",📁LIVE📁Sandefjord vs Bodo Glimt📁26-07-2026 23:55:16 WIB📁00:00:00📁
+https://hls.cdnfaster-b.site/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁Norwegian Eliteserien📁00:00:00📁",📁LIVE📁KFUM Oslo vs Molde📁26-07-2026 23:55:16 WIB📁00:00:00📁
+https://hls.cdnfaster-b.site/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LIVE📁International Club Friendly📁00:00:00📁",📁LIVE📁Rangers vs West Ham United📁26-07-2026 23:55:16 WIB📁00:00:00📁
+https://hls.cdnfaster-b.site/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
