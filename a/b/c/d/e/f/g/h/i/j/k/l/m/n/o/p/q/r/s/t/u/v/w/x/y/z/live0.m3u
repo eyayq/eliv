@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 14:53:46 WIB 27-07-2026
+# ⏰ Latest Updated: 15:00:33 WIB 27-07-2026
 # 🔄 Total Channels: 865
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:53:46 WIB 27-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:00:33 WIB 27-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -95,14 +95,20 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 http://gvisiontv.channell.my.id/event/event2/stream.php/.m3u8?id=%2Fmatch%2Findonesia-cambodia-24921181
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="👍🏻DONASI 085795119808👍🏻",Gagal Memuat Halaman (Connection timed out after 15001 milliseconds)
 https://localhost/error.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB Zhenis W vs Yelimay Semey W | KAZ Women's Super League | Gvision TV
+https://play.666666.zip/live/4600146.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB FK Andijon vs Buxoro FK | UZB Super League | Gvision TV
+https://play.666666.zip/live/4488084.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB Lokomotiv Tashkent vs Sogdiana Jizak | UZB Super League | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4488087.m3u8?txSecret=765d9918aa9a7fc80f84cbbac55f004c&txTime=6A68C300
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB FC AGMK vs Mashal Muborak | UZB Super League | Gvision TV
+https://play.666666.zip/live/4488090.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",20:30 WIB Indonesia vs Cambodia | ASEAN Championship | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4546498.m3u8?txSecret=4eb5a574dc0a44bcb4eb78a5de8ef263&txTime=6A68C210
+https://pul-tenm.gkykp.com/live/sd-1-4546498.m3u8?txSecret=254c1db3cd5fddd97ece6466a429b1c2&txTime=6A68C300
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",20:00 WIB Ordabasy Shymkent  Women vs Kaisar Kyzylorda W | KAZ Women's Super League | Gvision TV
 https://play.666666.zip/live/4600145.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 22:00 WIB FK Valmiera vs Riga FC II | LAT D2 | Gvision TV
 https://play.666666.zip/live/8882957207.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 22:00 WIB FK Zhenys  Women vs Yelimay Semey W | KWSL | Gvision TV
-https://play.666666.zip/live/8883047298.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 22:00 WIB Ferro Carril Oeste  Women vs CA Talleres De Cordoba  Women | ARGW D1 | Gvision TV
 https://play.666666.zip/live/8883045483.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 22:00 WIB Tukums-2000 vs FK Rigas Futbola Skola | LAT D1 | Gvision TV
@@ -111,12 +117,6 @@ https://play.666666.zip/live/8882940718.m3u8
 https://play.666666.zip/live/8883037854.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 22:00 WIB Al-Riyadh vs Al-Garrafa | INT CF | Gvision TV
 https://play.666666.zip/live/8883047324.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 22:00 WIB FK Andijon vs Buxoro FK | UZB D1 | Gvision TV
-https://play.666666.zip/live/8882933083.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 22:00 WIB Lokomotiv Tashkent vs Sogdiana Jizak | UZB D1 | Gvision TV
-https://play.666666.zip/live/8882933086.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 22:00 WIB OTMK Olmaliq vs Mashal Muborak | UZB D1 | Gvision TV
-https://play.666666.zip/live/8882933089.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[AFL Aussie Rules] Fremantle Dockers vs West Coast Eagles Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
