@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 14:17:49 WIB 28-07-2026
-# 🔄 Total Channels: 800
+# ⏰ Latest Updated: 14:24:36 WIB 28-07-2026
+# 🔄 Total Channels: 797
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:17:49 WIB 28-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:24:36 WIB 28-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -68,9 +68,6 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="BILA ANDA MEMBELI ANDA KENA DITIPU",UPDATE PLAYLIST TERBARU ADA DI TELEGRAM
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10" group-title="LIVE EVENT",19:30 WIB DPMM vs Persib Bandung | Indonesia. President's Cup. Group stage | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-http://gvisiontv.channell.my.id/event/event2/stream.php/.m3u8?id=%2Fmatch%2Fdpmm-persib-bandung-24934616
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10" group-title="LIVE EVENT",19:30 WIB DPMM FC vs Persib
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com/
@@ -103,8 +100,6 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #EXTVLCOPT:http-origin=https://lxscore.com
 https://hd-stream.lxscore.com/live/default-1838513.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Taipei Open | Gvision TV
-https://edg05.smytdryt.live/774ae3b2fd1105730cce89436de090f4/playlist.m3u8?match_id=15510882&s_id=29&t_id=9844&stats=stats1wcxpt.life&timestamp=1785245539&language=en&key=VTJGc2RHVmtYMStiVm9TaHdHaUVMLzh0NFROalJMUkNkaFJyc01QQnRwZ3o1bkFzOXRvM3FtVm91NE1IdUxRNk1aaXlwMklSMHJsNHZFRWNoWXk4Q2hDWUcrdGFtb2p3SnAxU1hsNmlYNFZLdHdxQWp4QWhGSysxbFNDWi9QZ08yNmdwSlNQblJTK2YycXdrM1NEOHpjbHBTTm1NV1dFUmcxdGFwc0J2L3NvSm11WTBwREYzcm5LVjRGUklTMWFqNmcwS0FLVWt0d3hmSTRKR0I1bElKSTUrM3VWc01MdkhxaTVRN25oSnB6OD0%3D&excluded_languages=
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Taipei Open | Gvision TV
 https://edg05.smytdryt.live/a9b536f24248e2382fb9f1fefd4c7b0e/playlist.m3u8?match_id=15510884&s_id=29&t_id=9844&stats=stats1wcxpt.life&timestamp=1785247060&language=en&key=VTJGc2RHVmtYMS8veE83Yi91Tk1yb3BYV0w2SFNzY2d2aXNRNE0xZUxsR2lqSE9Zb2JjRFF0Sm1rVlRpYWxUVXAwbVhUUVRzdGFRaWtxM3VVOWV4dGJVQmk2ajc0VG1QMjdjeU8vWnA0ZGUxaTNiNGdySWhQYytYdDdFSTBmbWVQMTdpQXpLVzVMSWFJd1daWVlCaTR2ZEx0UVo0S0Vmd3hyVUNsWlBrM09INGYrNXZBbkp2aXJqTkhOOFd5SDBwYXQzcjB0c29NcEhkMUhCVGdmamp0aHlCOE5LRUtFVnhMekRPZ1hHWWkxVT0%3D&excluded_languages=
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Taipei Open | Gvision TV
 https://edg05.smytdryt.live/00199bdc0f4d77168486b37e46d2fd11/playlist.m3u8?match_id=15510888&s_id=29&t_id=9844&stats=stats1wcxpt.life&timestamp=1785246224&language=en&key=VTJGc2RHVmtYMTl4T2Z1QzlkZ0FtRml6d1A4ZXFGa2pYVWo4aGVyWGMvYUUwMGpXSVBncUxFQ0lMbFM5MnU1UDlramZZdUpLZmk2N3hlSjRCSU9mMjJuazVGOHZ4T1IxUVhFM3BuZWNnOEtRWnFPZGlZTVNBK3NUeDlkNEV2RVJXekhmM2xjeml2bUNVckpVVGJLdEVxelFoR1dwcEYramM0a0hFYkZsay9WdWtUNVhvM1NINW1ERGFPMGlMTDhUbVh2QWNCdFdQcjErMVErQjFtWjQxVmdFajBpQVlZVldMZkUzUVk3T0hqRT0%3D&excluded_languages=
@@ -114,8 +109,6 @@ https://badmintonlive.net/live-stream/live/98ef19a0d5b2f41dcebe2bae359140e6.flv
 https://badmintonlive.net/live-stream/live/53c3fac0062494b78845c38bf1e1ef7b.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",YONEX Taipei Open 2026 | Court 3 | Gvision TV
 https://badmintonlive.net/live-stream/live/1a0c2fbdd03d534f88ace88c41f931de.flv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",Taipei Open | Gvision TV
-https://edg05.smytdryt.live/774ae3b2fd1105730cce89436de090f4/playlist.m3u8?match_id=15510882&s_id=29&t_id=9844&stats=stats1wcxpt.life&timestamp=1785245539&language=en&key=VTJGc2RHVmtYMStiVm9TaHdHaUVMLzh0NFROalJMUkNkaFJyc01QQnRwZ3o1bkFzOXRvM3FtVm91NE1IdUxRNk1aaXlwMklSMHJsNHZFRWNoWXk4Q2hDWUcrdGFtb2p3SnAxU1hsNmlYNFZLdHdxQWp4QWhGSysxbFNDWi9QZ08yNmdwSlNQblJTK2YycXdrM1NEOHpjbHBTTm1NV1dFUmcxdGFwc0J2L3NvSm11WTBwREYzcm5LVjRGUklTMWFqNmcwS0FLVWt0d3hmSTRKR0I1bElKSTUrM3VWc01MdkhxaTVRN25oSnB6OD0%3D&excluded_languages=
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",Taipei Open | Gvision TV
 https://edg05.smytdryt.live/a9b536f24248e2382fb9f1fefd4c7b0e/playlist.m3u8?match_id=15510884&s_id=29&t_id=9844&stats=stats1wcxpt.life&timestamp=1785247060&language=en&key=VTJGc2RHVmtYMS8veE83Yi91Tk1yb3BYV0w2SFNzY2d2aXNRNE0xZUxsR2lqSE9Zb2JjRFF0Sm1rVlRpYWxUVXAwbVhUUVRzdGFRaWtxM3VVOWV4dGJVQmk2ajc0VG1QMjdjeU8vWnA0ZGUxaTNiNGdySWhQYytYdDdFSTBmbWVQMTdpQXpLVzVMSWFJd1daWVlCaTR2ZEx0UVo0S0Vmd3hyVUNsWlBrM09INGYrNXZBbkp2aXJqTkhOOFd5SDBwYXQzcjB0c29NcEhkMUhCVGdmamp0aHlCOE5LRUtFVnhMekRPZ1hHWWkxVT0%3D&excluded_languages=
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",Taipei Open | Gvision TV
@@ -127,9 +120,9 @@ https://badmintonlive.net/live-stream/live/53c3fac0062494b78845c38bf1e1ef7b.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",YONEX Taipei Open 2026 | Court 3 | Gvision TV
 https://badmintonlive.net/live-stream/live/1a0c2fbdd03d534f88ace88c41f931de.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Anzhi Makhachkala vs Neftyanik Izberbash | RUS Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4560241.m3u8?txSecret=adbe08af637d716c5a5f093b0dd4baec&txTime=6A6A0AA8
+https://pul-tenm.gkykp.com/live/sd-1-4560241.m3u8?txSecret=21e4e42fe4d791edd95594009c4ea507&txTime=6A6A0C88
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",20:00 WIB Malaysia vs Laos | ASEAN Championship | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4546506.m3u8?txSecret=6bc32ac9b4fa2f9f29b788c6b929bf65&txTime=6A6A0AA8
+https://pul-tenm.gkykp.com/live/sd-1-4546506.m3u8?txSecret=3612db3623d1c5465aa3371a794aff2c&txTime=6A6A0C88
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 21:30 WIB Pendikspor vs Umraniyespor | INT CF | Gvision TV
 https://play.666666.zip/live/8883048314.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[AFL Aussie Rules] Fremantle Dockers vs West Coast Eagles Gvision TV
