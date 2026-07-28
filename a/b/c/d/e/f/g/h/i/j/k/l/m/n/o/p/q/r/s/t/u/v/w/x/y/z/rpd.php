@@ -1,126 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [23.57 WIB 28/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.01 WIB 29/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nasaf-qarshi-51edfa.webp" group-title="[LIVE 22:00 WIB 28/07/26] Nasaf Qarshi vs Qizilqum Zarafshon | Server 1",[LIVE 22:00 WIB 28/07/26] Nasaf Qarshi vs Qizilqum Zarafshon | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.42/hls/HFFFA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nasaf-qarshi-51edfa.webp" group-title="[LIVE 22:00 WIB 28/07/26] Nasaf Qarshi vs Qizilqum Zarafshon | Server 2",[LIVE 22:00 WIB 28/07/26] Nasaf Qarshi vs Qizilqum Zarafshon | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=66a1e947f6444d49acf88802a68f6d63&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nasaf-qarshi-51edfa.webp" group-title="[LIVE 22:00 WIB 28/07/26] Nasaf Qarshi vs Qizilqum Zarafshon | Server 3",[LIVE 22:00 WIB 28/07/26] Nasaf Qarshi vs Qizilqum Zarafshon | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=0e0fca225c8bd71fd93f1a029820b79d&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nasaf-qarshi-51edfa.webp" group-title="[LIVE 22:00 WIB 28/07/26] Nasaf Qarshi vs Qizilqum Zarafshon | Server 4",[LIVE 22:00 WIB 28/07/26] Nasaf Qarshi vs Qizilqum Zarafshon | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-612098_lsd.m3u8?txSecret=6592eb765abf200b4e060f155e7159e1&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nasaf-qarshi-51edfa.webp" group-title="[LIVE 22:00 WIB 28/07/26] Nasaf Qarshi vs Qizilqum Zarafshon | Server 5",[LIVE 22:00 WIB 28/07/26] Nasaf Qarshi vs Qizilqum Zarafshon | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-612098_lhd.m3u8?txSecret=6b29189e79afdd204bf5b13a3c4b3756&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nasaf-qarshi-51edfa.webp" group-title="[LIVE 22:00 WIB 28/07/26] Nasaf Qarshi vs Qizilqum Zarafshon | Server 6",[LIVE 22:00 WIB 28/07/26] Nasaf Qarshi vs Qizilqum Zarafshon | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1785261236-0-0-b48639dad1feb1d890165778621af298
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nasaf-qarshi-51edfa.webp" group-title="[LIVE 22:00 WIB 28/07/26] Nasaf Qarshi vs Qizilqum Zarafshon | Server 7",[LIVE 22:00 WIB 28/07/26] Nasaf Qarshi vs Qizilqum Zarafshon | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1785261236-0-0-0fb75ebce78f0835afb02ab0f05a0bb6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/xorazm-urganch-211bca.webp" group-title="[LIVE 22:00 WIB 28/07/26] Xorazm Urganch vs Termez Surkhon | Server 1",[LIVE 22:00 WIB 28/07/26] Xorazm Urganch vs Termez Surkhon | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.42/hls/HFFFAAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/xorazm-urganch-211bca.webp" group-title="[LIVE 22:00 WIB 28/07/26] Xorazm Urganch vs Termez Surkhon | Server 2",[LIVE 22:00 WIB 28/07/26] Xorazm Urganch vs Termez Surkhon | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1785261236-0-0-045103189a754c5be552a195ea090814
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/xorazm-urganch-211bca.webp" group-title="[LIVE 22:00 WIB 28/07/26] Xorazm Urganch vs Termez Surkhon | Server 3",[LIVE 22:00 WIB 28/07/26] Xorazm Urganch vs Termez Surkhon | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1785261236-0-0-9f4a7b4a918be6528f30e8e15d91de3a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/xorazm-urganch-211bca.webp" group-title="[LIVE 22:00 WIB 28/07/26] Xorazm Urganch vs Termez Surkhon | Server 4",[LIVE 22:00 WIB 28/07/26] Xorazm Urganch vs Termez Surkhon | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-620661_lsd.m3u8?txSecret=2be12d8126b37b25bf1478ed3af0be77&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/xorazm-urganch-211bca.webp" group-title="[LIVE 22:00 WIB 28/07/26] Xorazm Urganch vs Termez Surkhon | Server 5",[LIVE 22:00 WIB 28/07/26] Xorazm Urganch vs Termez Surkhon | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-620661_lhd.m3u8?txSecret=156e05783027703951d818df23ffda4a&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/xorazm-urganch-211bca.webp" group-title="[LIVE 22:00 WIB 28/07/26] Xorazm Urganch vs Termez Surkhon | Server 6",[LIVE 22:00 WIB 28/07/26] Xorazm Urganch vs Termez Surkhon | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-610677_lsd.m3u8?txSecret=e18b88b410a12257e9a7429c0280b36c&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/xorazm-urganch-211bca.webp" group-title="[LIVE 22:00 WIB 28/07/26] Xorazm Urganch vs Termez Surkhon | Server 7",[LIVE 22:00 WIB 28/07/26] Xorazm Urganch vs Termez Surkhon | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-610677_lhd.m3u8?txSecret=6d2daa08c75645ad0e47f6aaf4490235&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/neftchi-fergana-517f23.webp" group-title="[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 1",[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/neftchi-navbahor-uzbsup/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/neftchi-fergana-517f23.webp" group-title="[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 2",[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/neftchi-navbahor-uzbsup.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/neftchi-fergana-517f23.webp" group-title="[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 3",[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=bdb01351b46b44613246c3e96eb87d86&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/neftchi-fergana-517f23.webp" group-title="[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 4",[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=66f61a7885aa3bf1b06366140524f0fa&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/neftchi-fergana-517f23.webp" group-title="[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 5",[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-582342_lsd.m3u8?txSecret=5eb9981c25084d4451c1be0415f1474a&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/neftchi-fergana-517f23.webp" group-title="[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 6",[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-582342_lhd.m3u8?txSecret=2961b3f330260c57cd9f1c1274cae07c&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/neftchi-fergana-517f23.webp" group-title="[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 7",[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-619672_lsd.m3u8?txSecret=998800bad375e09368224aecf4703958&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/neftchi-fergana-517f23.webp" group-title="[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 8",[LIVE 22:00 WIB 28/07/26] Neftchi Fergana vs Navbahor Namangan | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=8db314a4f3d9dd0906a34968e7cc40d5&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kups-85b775.png" group-title="[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 1",[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=5368e10c88f993392500039a500c41a8&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kups-85b775.png" group-title="[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 2",[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=fb7c66dde2a4a521de7852eacf45dc72&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kups-85b775.png" group-title="[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 3",[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-380460_lsd.m3u8?txSecret=836770c0b64bedeccb45751ad26c40ff&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kups-85b775.png" group-title="[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 4",[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-380460_lhd.m3u8?txSecret=e88cdb3ffc6d34a907ca974c6672e11c&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kups-85b775.png" group-title="[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 5",[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-589848_lsd.m3u8?txSecret=0025a49889c5f17522aedbb6c5c21a50&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kups-85b775.png" group-title="[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 6",[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-589848_lhd.m3u8?txSecret=42b3e1c680a866521effe4bde7ae8436&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kups-85b775.png" group-title="[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 7",[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=f8d90ce131b72390f11f48b8649d485e&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kups-85b775.png" group-title="[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 8",[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=60999c83ec3c882d0222cfcc04339fad&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kups-85b775.png" group-title="[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 9",[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=9800a011398d8a2fe68f4f01844bdd07&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kups-85b775.png" group-title="[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 10",[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=f6c645e038760f57fdc94a7062b7214b&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kups-85b775.png" group-title="[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 11",[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=d06ca064f84a26995ad81d2d2bc54e64&txTime=6a6932f3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kups-85b775.png" group-title="[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 12",[LIVE 22:00 WIB 28/07/26] KuPs vs Sabah Baku | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=1ac40ba76a87e279c61a160d1f86e26a&txTime=6a6932f3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-dobrudzha-dobrich-040fb0.webp" group-title="[LIVE 22:30 WIB 28/07/26] FC Dobrudzha Dobrich vs Pirin Blagoevgrad | Server 1",[LIVE 22:30 WIB 28/07/26] FC Dobrudzha Dobrich vs Pirin Blagoevgrad | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=0e8dbfaec3e1fef2becdc3b931ea59d9&txTime=6a693304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=e9e0d0560dbdf6fcffe1d3b11ed667a5&txTime=6a6933b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-dobrudzha-dobrich-040fb0.webp" group-title="[LIVE 22:30 WIB 28/07/26] FC Dobrudzha Dobrich vs Pirin Blagoevgrad | Server 2",[LIVE 22:30 WIB 28/07/26] FC Dobrudzha Dobrich vs Pirin Blagoevgrad | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=d73bbbb07c5d9fb3a22879efc12b5aba&txTime=6a693304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=f658ee6db78f0a66d2aedb8169e0a4c6&txTime=6a6933b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-dobrudzha-dobrich-040fb0.webp" group-title="[LIVE 22:30 WIB 28/07/26] FC Dobrudzha Dobrich vs Pirin Blagoevgrad | Server 3",[LIVE 22:30 WIB 28/07/26] FC Dobrudzha Dobrich vs Pirin Blagoevgrad | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-560690_lsd.m3u8?txSecret=4213b863e2100d6137ee468f0b4088ae&txTime=6a693304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-560690_lsd.m3u8?txSecret=e331b7909125c1d4a4674f400590746d&txTime=6a6933b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-dobrudzha-dobrich-040fb0.webp" group-title="[LIVE 22:30 WIB 28/07/26] FC Dobrudzha Dobrich vs Pirin Blagoevgrad | Server 4",[LIVE 22:30 WIB 28/07/26] FC Dobrudzha Dobrich vs Pirin Blagoevgrad | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-560690_lhd.m3u8?txSecret=57320a62d2d233632c7289e167ab5bf4&txTime=6a693304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-560690_lhd.m3u8?txSecret=77046d4d31629a04fa5216742f3dab24&txTime=6a6933b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-dobrudzha-dobrich-040fb0.webp" group-title="[LIVE 22:30 WIB 28/07/26] FC Dobrudzha Dobrich vs Pirin Blagoevgrad | Server 5",[LIVE 22:30 WIB 28/07/26] FC Dobrudzha Dobrich vs Pirin Blagoevgrad | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-620797_lsd.m3u8?txSecret=cdd2627d7db3ea431863d7d985934448&txTime=6a693304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-620797_lsd.m3u8?txSecret=08b616f1599d35cf86073db513bd78aa&txTime=6a6933b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-dobrudzha-dobrich-040fb0.webp" group-title="[LIVE 22:30 WIB 28/07/26] FC Dobrudzha Dobrich vs Pirin Blagoevgrad | Server 6",[LIVE 22:30 WIB 28/07/26] FC Dobrudzha Dobrich vs Pirin Blagoevgrad | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=287c286dfcaa175dab2e6e75f15ecbf8&txTime=6a693304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=1d1a082d7c6e8903a56cbdf99febd01c&txTime=6a6933b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lincoln-red-imps-fc-e7b3f7.webp" group-title="[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 1",[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/lincoln-mjallby-c1qual/index.m3u8
@@ -135,51 +33,51 @@ http://193.47.62.42/hls/dbbbq.m3u8
 https://live2.jxa76.com/live/sd-6Mwb6s2wQihZDBArDZ.m3u8?txSecret=1d443952c32063011c4291dab5d350a1&txTime=19FAAC2AAC5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lincoln-red-imps-fc-e7b3f7.webp" group-title="[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 5",[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.streamgoaldaddy.com/live/69f4203ed5365ce7.m3u8?wsSecret=14669F98D2A478769A2D2FA48D55BE80&wsTime=1785257601
+https://play.streamgoaldaddy.com/live/69f4203ed5365ce7.m3u8?wsSecret=1E7274F4103FEFE5A2A8DF177359ED1C&wsTime=1785257961
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lincoln-red-imps-fc-e7b3f7.webp" group-title="[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 6",[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1785261236-0-0-72aad9e59455b3a5ccbbb9b7275aa8ca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1785261416-0-0-646d19cdbd0345132a7ca70d1302c76b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lincoln-red-imps-fc-e7b3f7.webp" group-title="[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 7",[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1785261236-0-0-aca33f12661c8bd44c656b69d42fcec8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1785261416-0-0-906da46fedd10ca73aeb7ed8fdc011db
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lincoln-red-imps-fc-e7b3f7.webp" group-title="[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 8",[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=0c189a59a7d2014730617cc287b5ffee&txTime=6a693304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1785261416-0-0-867898db0fed9fcaa87c4abfd559db84
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lincoln-red-imps-fc-e7b3f7.webp" group-title="[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 9",[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=a15a93fd43cc3e2782f894c40b1552da&txTime=6a693304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1785261416-0-0-1d646e4de3dcc96eff49129ca9558a96
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lincoln-red-imps-fc-e7b3f7.webp" group-title="[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 10",[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-536185_lsd.m3u8?txSecret=d07b4860af9aec7fc1d371dafb6ae9a7&txTime=6a693304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=66f1c9a5be3c8c3be67ffbd92e42fa60&txTime=6a6933b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lincoln-red-imps-fc-e7b3f7.webp" group-title="[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 11",[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-536185_lhd.m3u8?txSecret=05c20c4e0dac56d122445841265656f6&txTime=6a693304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=241239285e7cd95978ebded8834e6e5d&txTime=6a6933b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lincoln-red-imps-fc-e7b3f7.webp" group-title="[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 12",[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1785261236-0-0-249cc4648b995cbcb88ea31afed1f6c3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-536185_lsd.m3u8?txSecret=985c58652011423cbdf9fa7879faaf0d&txTime=6a6933b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lincoln-red-imps-fc-e7b3f7.webp" group-title="[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 13",[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1785261236-0-0-7af5e9ad55d278ec69d22a7cf0798851
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-536185_lhd.m3u8?txSecret=c3fedfbbb29301582192cbd450796551&txTime=6a6933b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lincoln-red-imps-fc-e7b3f7.webp" group-title="[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 14",[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-557845_lsd.m3u8?txSecret=be7873ab158d32c004dde109ae803eed&txTime=6a693304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-597929_lsd.m3u8?txSecret=f17b4e938df475ef19575f6b8cf875d4&txTime=6a6933b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lincoln-red-imps-fc-e7b3f7.webp" group-title="[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 15",[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-557845_lhd.m3u8?txSecret=53674f5d363dac311fa4d2b850bbe946&txTime=6a693304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-597929_lhd.m3u8?txSecret=7e1768fb547355cd32ed65999ed84253&txTime=6a6933b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lincoln-red-imps-fc-e7b3f7.webp" group-title="[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 16",[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-597929_lsd.m3u8?txSecret=0542f3264fbad7701ef5c8e261fa19c7&txTime=6a693304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-557845_lsd.m3u8?txSecret=c7378e666f85e03b52fb8fc7e699080c&txTime=6a6933b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lincoln-red-imps-fc-e7b3f7.webp" group-title="[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 17",[LIVE 23:00 WIB 28/07/26] Lincoln Red Imps FC vs Mjallby AIF | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-597929_lhd.m3u8?txSecret=a8cf0fe5911782560f71e6373c4b3b6b&txTime=6a693304
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-557845_lhd.m3u8?txSecret=bcdb4ff1ed5aa9061dcfdbcfa0676dc2&txTime=6a6933b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 23:00 WIB 28/07/26] Real Madrid vs Leganes | Server 1",[LIVE 23:00 WIB 28/07/26] Real Madrid vs Leganes | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://hls.live123.fans/live/4593733.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 23:00 WIB 28/07/26] Real Madrid vs Leganes | Server 2",[LIVE 23:00 WIB 28/07/26] Real Madrid vs Leganes | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://pull.qjkngv.com/live/stream-637513_lhd.flv?auth_key=1785202794-0-0-1a538841b9ac8aef1c40026a50df63ab
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 23:00 WIB 28/07/26] Real Madrid vs Leganes | Server 3",[LIVE 23:00 WIB 28/07/26] Real Madrid vs Leganes | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pull.qjkngv.com/live/stream-637513_lsd.flv?auth_key=1785202794-0-0-1a538841b9ac8aef1c40026a50df63ab
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 23:00 WIB 28/07/26] Real Madrid vs Leganes | Server 4",[LIVE 23:00 WIB 28/07/26] Real Madrid vs Leganes | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -204,52 +102,82 @@ http://193.47.62.42/hls/HFFFAAAAAA.m3u8
 https://pul-tenm.gkykp.com/live/sd-1-4596002.m3u8?txSecret=5c0a6dda9d85b057cddd81fa94aa0d5e&txTime=6A6A0EE0
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/c6f03c63a021892d8e0b1ef8b3bcfbbe.png" group-title="[LIVE 23:45 WIB 28/07/26] Hapoel Haifa vs Ironi Tiberias | Server 1",[LIVE 23:45 WIB 28/07/26] Hapoel Haifa vs Ironi Tiberias | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6Mwdq1s6nCeRZQPJix.m3u8?txSecret=51dadfa305cd6efcb769693455d5a071&txTime=6A69876C
+https://cds78y11d.org/live/sd-6Mwdq1s6nCeRZQPJix.m3u8?txSecret=a63cf1a5f77c775e193f7c1b9d344f85&txTime=6A6988D5
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/c6f03c63a021892d8e0b1ef8b3bcfbbe.png" group-title="[LIVE 23:45 WIB 28/07/26] Hapoel Haifa vs Ironi Tiberias | Server 2",[LIVE 23:45 WIB 28/07/26] Hapoel Haifa vs Ironi Tiberias | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/dbbbqq.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-fc-cafb5a.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol FC vs Dila Gori | Server 1",[LIVE 00:00 WIB 29/07/26] Apollon Limassol FC vs Dila Gori | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/real-leganes-intcf/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-fc-cafb5a.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol FC vs Dila Gori | Server 2",[LIVE 00:00 WIB 29/07/26] Apollon Limassol FC vs Dila Gori | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/real-leganes-intcf.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-fc-cafb5a.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol FC vs Dila Gori | Server 3",[LIVE 00:00 WIB 29/07/26] Apollon Limassol FC vs Dila Gori | Server 3 (SVR-BHNS 3)
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/d5cd028beef8bae114183a2635742176.png" group-title="[LIVE 00:00 WIB 29/07/26] Cambuur vs Volos NFC | Server 1",[LIVE 00:00 WIB 29/07/26] Cambuur vs Volos NFC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MwarUqKW7oe8Ka1dv.m3u8?txSecret=44ff0af5fd5de53f28169cd304a26c77&txTime=6A6988D5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fulham-e682d1.png" group-title="[LIVE 00:00 WIB 29/07/26] Fulham vs Al Ahli SC | Server 1",[LIVE 00:00 WIB 29/07/26] Fulham vs Al Ahli SC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MwarUqKWCCbsHDqwi.m3u8?txSecret=6aaf7e0433fffc932c1c25024027791d&txTime=6A6988D5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fulham-e682d1.png" group-title="[LIVE 00:00 WIB 29/07/26] Fulham vs Al Ahli SC | Server 2",[LIVE 00:00 WIB 29/07/26] Fulham vs Al Ahli SC | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.49/hls/FMMM.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-fc-cafb5a.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol FC vs Dila Gori | Server 4",[LIVE 00:00 WIB 29/07/26] Apollon Limassol FC vs Dila Gori | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-607552_lsd.m3u8?txSecret=5195cd6476c2a30eaba43626eb2e90a1&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-fc-cafb5a.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol FC vs Dila Gori | Server 5",[LIVE 00:00 WIB 29/07/26] Apollon Limassol FC vs Dila Gori | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-607552_lhd.m3u8?txSecret=d8b94d59a6a9ede0281a071ecd60d7f0&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-fc-cafb5a.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol FC vs Dila Gori | Server 6",[LIVE 00:00 WIB 29/07/26] Apollon Limassol FC vs Dila Gori | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-511367_lsd.m3u8?txSecret=9d9f08b24c22249c47be4b92b85e926a&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-fc-cafb5a.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol FC vs Dila Gori | Server 7",[LIVE 00:00 WIB 29/07/26] Apollon Limassol FC vs Dila Gori | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=aaf549343894b7032bb82f9a871efb97&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FC Vardar Skopje | Server 1",[LIVE 00:00 WIB 29/07/26] Riga FC vs FC Vardar Skopje | Server 1 (SVR-BHNS 1)
+http://193.47.62.42/hls/kcccqqqq.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/crystal-palace-550550.png" group-title="[LIVE 00:00 WIB 29/07/26] Crystal Palace vs RC Lens | Server 1",[LIVE 00:00 WIB 29/07/26] Crystal Palace vs RC Lens | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MwarUqKW5cAFqk6V2.m3u8?txSecret=0861bd28c7eff0ec7b01e5fa8755fb16&txTime=6A6988D5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/crystal-palace-550550.png" group-title="[LIVE 00:00 WIB 29/07/26] Crystal Palace vs RC Lens | Server 2",[LIVE 00:00 WIB 29/07/26] Crystal Palace vs RC Lens | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.42/hls/kccc.m3u8
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/948ffa9acc8612917e58fae02ccb6bf0.png" group-title="[LIVE 00:00 WIB 29/07/26] KoldingQ Nữ vs Fortuna Hjorring Nữ | Server 1",[LIVE 00:00 WIB 29/07/26] KoldingQ Nữ vs Fortuna Hjorring Nữ | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MwarbMJzk5L8yfhcg.m3u8?txSecret=8b54f5d67e9f38d11bf377708c3018af&txTime=6A6988D5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 1",[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/riga-vardar-c3qual/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FC Vardar Skopje | Server 2",[LIVE 00:00 WIB 29/07/26] Riga FC vs FC Vardar Skopje | Server 2 (SVR-BHNS 2)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 2",[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/riga-vardar-c3qual.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FC Vardar Skopje | Server 3",[LIVE 00:00 WIB 29/07/26] Riga FC vs FC Vardar Skopje | Server 3 (SVR-BHNS 3)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 3",[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.49/hls/FMMMQ.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FC Vardar Skopje | Server 4",[LIVE 00:00 WIB 29/07/26] Riga FC vs FC Vardar Skopje | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=d7a358c548d6e87a2a4bc800b9e004eb&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FC Vardar Skopje | Server 5",[LIVE 00:00 WIB 29/07/26] Riga FC vs FC Vardar Skopje | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=1c2554c5f4315172dff8586d9b73c08c&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FC Vardar Skopje | Server 6",[LIVE 00:00 WIB 29/07/26] Riga FC vs FC Vardar Skopje | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-617313_lsd.m3u8?txSecret=0d5897ea4c118635ad96000c171be661&txTime=6a693304
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FC Vardar Skopje | Server 7",[LIVE 00:00 WIB 29/07/26] Riga FC vs FC Vardar Skopje | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3402.1865 Mobile Safari/537.36
-https://pull.niur.live/live/stream-617313_lhd.m3u8?txSecret=2674a838260f7ca089375e3cc7983527&txTime=6a693304
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 4",[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.streamgoaldaddy.com/live/b9bf9e1d999e2c98.m3u8?wsSecret=C0AC4694F0B7A3217175DFD2D6B93CEA&wsTime=1785257968
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 5",[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-617313_lsd.m3u8?txSecret=d98f4a1a455a3f4ebce24e4fd51833f1&txTime=6a6933b8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 6",[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-617313_lhd.m3u8?txSecret=176c9eaa2ec4c6577e022d0486e07033&txTime=6a6933b8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 7",[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=2b4eeea75fb0bb8803ab9c139bea2006&txTime=6a6933b8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/riga-fc-1ab5f8.png" group-title="[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 8",[LIVE 00:00 WIB 29/07/26] Riga FC vs FK Vardar | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=108592d3ffa3472d522c44bd195bad5e&txTime=6a6933b8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-4e10ba.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 1",[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MwarNRyNqYh7yU3gp.m3u8?txSecret=2f2c97ef27019e19b92f1388c6c5a8bd&txTime=6A6988D5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-4e10ba.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 2",[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/real-leganes-intcf/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-4e10ba.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 3",[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/real-leganes-intcf.flv
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-4e10ba.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 4",[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.49/hls/FMMM.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-4e10ba.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 5",[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.streamgoaldaddy.com/live/6fbeab7b51e222cf.m3u8?wsSecret=8EDFD29640CE9CAF5CA3E82DAA62DE80&wsTime=1785257968
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-4e10ba.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 6",[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-511367_lsd.m3u8?txSecret=87a5db5c359bfd90470284a8ceb4f3a5&txTime=6a6933b8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-4e10ba.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 7",[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=3f481c2722ca3f9a6f0b01db42607a0f&txTime=6a6933b8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-4e10ba.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 8",[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-607552_lsd.m3u8?txSecret=ba174ff9d0573b3a1e6e3c00b9f8305b&txTime=6a6933b8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apollon-limassol-4e10ba.png" group-title="[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 9",[LIVE 00:00 WIB 29/07/26] Apollon Limassol vs FC Dila Gori | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://pull.niur.live/live/stream-607552_lhd.m3u8?txSecret=ad4e281f9b048dfed105499bb0cb29a0&txTime=6a6933b8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/drots-moscow-fc-0977de.png" group-title="[LIVE 00:00 WIB 29/07/26] Drots Moscow FC vs Oryol | Server 1",[LIVE 00:00 WIB 29/07/26] Drots Moscow FC vs Oryol | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6Mwea7A2KWqgtGhVC8.m3u8?txSecret=8056713f66dc5a60940a287370c7a574&txTime=6A6988D5
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 00:00 WIB 29/07/26] Jamus vs Simba | Server 1",[LIVE 00:00 WIB 29/07/26] Jamus vs Simba | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.194/hls/JJJJAA.m3u8
@@ -262,24 +190,18 @@ https://live2.jxa76.com/live/sd-6MxiZk7uoXzQvHXPTy.m3u8?txSecret=bcee5eab9567c29
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 00:00 WIB 29/07/26] Las Palmas vs Leiria | Server 1",[LIVE 00:00 WIB 29/07/26] Las Palmas vs Leiria | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/dbbbt.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 29/07/26] Fulham vs Al Ahli SC | Server 1",[LIVE 01:00 WIB 29/07/26] Fulham vs Al Ahli SC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.42/hls/kcccqqqq.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 29/07/26] Crystal Palace vs Lens | Server 1",[LIVE 01:00 WIB 29/07/26] Crystal Palace vs Lens | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.42/hls/kccc.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 29/07/26] Landskrona vs Norrkoping | Server 1",[LIVE 01:00 WIB 29/07/26] Landskrona vs Norrkoping | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/kcccqq.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 29/07/26] SC Cambuur vs Volos NPS | Server 1",[LIVE 01:00 WIB 29/07/26] SC Cambuur vs Volos NPS | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.42/hls/kcccqqq.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 29/07/26] Zambia W vs Egypt W | Server 1",[LIVE 01:00 WIB 29/07/26] Zambia W vs Egypt W | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/dbbbqqqq.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 29/07/26] SC Cambuur vs Volos NPS | Server 1",[LIVE 01:00 WIB 29/07/26] SC Cambuur vs Volos NPS | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.42/hls/kcccqqq.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 29/07/26] Helsingborg vs Nordic United | Server 1",[LIVE 01:00 WIB 29/07/26] Helsingborg vs Nordic United | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.42/hls/kcccq.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 29/07/26] Kiryat Shmona vs Maccabi Haifa | Server 1",[LIVE 01:00 WIB 29/07/26] Kiryat Shmona vs Maccabi Haifa | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.42/hls/dbbbqqq.m3u8
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/a26176c395984600e2f00a3bf67f0784.png" group-title="[LIVE 01:00 WIB 29/07/26] Helsingborg vs Nordic United | Server 1",[LIVE 01:00 WIB 29/07/26] Helsingborg vs Nordic United | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.42/hls/kcccq.m3u8
