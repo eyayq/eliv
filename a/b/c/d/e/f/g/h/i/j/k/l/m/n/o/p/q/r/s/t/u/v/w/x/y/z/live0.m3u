@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 01:17:39 WIB 28-07-2026
-# 🔄 Total Channels: 778
+# ⏰ Latest Updated: 01:25:38 WIB 28-07-2026
+# 🔄 Total Channels: 782
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [01:17:39 WIB 28-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [01:25:38 WIB 28-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -72,6 +72,14 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com
 https://hd-stream.lxscore.com/live/default-1838512.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Taipei Open | Gvision TV
+https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-InternationalVoice1HB_sjb480.m3u8?title=8215314&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=qwXnIuaCe1cCAcpX3XHfOgol&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-InternationalVoice1HB&ccode=live05010101&expire=21600&psid=AAE0940B573BF20DBBF8C2A43472E379&ups_client_netip=202.73.12.14&ups_ts=1785201592&ups_userid=0&utid=qwXnIuaCe1cCAcpX3XHfOgol&vid=8215314_8136744&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-InternationalVoice1HB_sjb480&vkey=B8061d7ec6710c6f9d38bdc6e5aaec8d0&cug=10&t=3b4ad10a3305882&rid=200000003F7626A35D38E8F46142875928F07EF100000000
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",Taipei Open | Gvision TV
+https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-InternationalVoice1HB_sjb480.m3u8?title=8215314&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=qwXnIuaCe1cCAcpX3XHfOgol&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-InternationalVoice1HB&ccode=live05010101&expire=21600&psid=AAE0940B573BF20DBBF8C2A43472E379&ups_client_netip=202.73.12.14&ups_ts=1785201592&ups_userid=0&utid=qwXnIuaCe1cCAcpX3XHfOgol&vid=8215314_8136744&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-InternationalVoice1HB_sjb480&vkey=B8061d7ec6710c6f9d38bdc6e5aaec8d0&cug=10&t=3b4ad10a3305882&rid=200000003F7626A35D38E8F46142875928F07EF100000000
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",Taipei Open | Gvision TV
+https://edg05.smytdryt.live/21d16bab68b60b6a9fe19ab12fc82879/playlist.m3u8?match_id=15509685&s_id=29&t_id=9844&stats=stats1wcxpt.life&timestamp=1785201833&language=en&key=VTJGc2RHVmtYMS8zN1NJN0plMUhLaS9kOHZTdnpJb3I4V2RFNWNJempQYkpBVDNXTHVUN3dIWW1UeEJOUHh5b3NFS1dTK3hMNlR5VW4zVHd3YjJ3c0c4eW8yc2ZqRDZqVUdJa0llYkxqM09VaFVmd3VWUzlsMVBZa0hndlR0NzkyMTFwTDNwL1RJcWV3aXo3WXhmV3R0T3daZG9kV0QrTS81UFZoS0lvQ1ZQd0pWcmNUNWNJL1AzeGcrY0dzVFY4S21Vd285R3MvdzJkcXJRRktSNHFoakMwMHF0SFFXTHBqRTRrREtnZ1A3Zz0%3D&excluded_languages=
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:30 WIB Atletico FC vs Independiente Yumbo | COL Torneo BetPlay Dimayor | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4596199.m3u8?txSecret=b93d8de9ab12e5154a40198c205423f4&txTime=6A6955B8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[AFL Aussie Rules] Fremantle Dockers vs West Coast Eagles Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
