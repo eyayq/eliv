@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 10:13:55 WIB 28-07-2026
-# 🔄 Total Channels: 808
+# ⏰ Latest Updated: 11:01:12 WIB 28-07-2026
+# 🔄 Total Channels: 805
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:13:55 WIB 28-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [11:01:12 WIB 28-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -74,9 +74,6 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="LIVE EVENT",15:30 WIB Tampines Rovers vs Arema Cronous | Indonesia. President's Cup. Group stage | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-http://gvisiontv.channell.my.id/event/event2/stream.php/.m3u8?id=%2Fmatch%2Ftampines-rovers-arema-cronous-24939165
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10" group-title="LIVE EVENT",15:30 WIB Tampines Rovers vs Arema
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com/
@@ -112,10 +109,6 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/20/6a5e291fdc649-piala-presiden-elite-2026_gemini_1265_711.jpg" group-title="LIVE EVENT",Tampines VS Arema FC | Piala Presiden - Group Stage | [BACA: AKTIF PAS KICK-OFF] | Gvision TV
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com
-https://hd-stream.lxscore.com/live/default-1838512.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Taipei Open | Gvision TV
 https://tfxy6gr5dgmttgha1hcto8yzdncbafisg17ufgr.100ycdn.com/live1.streambylivepulse.com/live/channel61.m3u8?wsSession=40b8e064c17d7357ee191639-178520989199253&wsIPSercert=7d528e29612bccf2de1c167dba323c6c&wsBindIP=2&wsserid=1168278531255916870
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Taipei Open | Gvision TV
@@ -147,15 +140,13 @@ https://badmintonlive.net/live-stream/live/1a0c2fbdd03d534f88ace88c41f931de.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Paro United vs Thimphu Raven FC | BHU Premier League | Gvision TV
 https://play.666666.zip/live/4594575.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Philippines vs Myanmar | ASEAN Championship | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4546505.m3u8?txSecret=be19ade9d7ee200c74882be67c83199f&txTime=6A69D178
+https://pul-tenm.gkykp.com/live/sd-1-4546505.m3u8?txSecret=d7cb3a753a6b8343c0d3ec818c19c552&txTime=6A69DD30
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:45 WIB Chelsea vs Western Sydney Wanderers FC | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4541773.m3u8?txSecret=5ac0a4345a321d0e1dfc7450947e8617&txTime=6A69D178
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB Young Lionesses FC  Women vs Zwekapin  Women | MML W | Gvision TV
-https://play.666666.zip/live/4600695.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 17:30 WIB Mawryngkneng Cultural vs Umphrup FC | IND SPL | Gvision TV
-https://play.666666.zip/live/8883047793.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 17:15 WIB Western Strikers Reserves vs Adelaide Vipers Reserve | FFSA SLR | Gvision TV
-https://play.666666.zip/live/8883048293.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4541773.m3u8?txSecret=7276e7d939b083a1c43e9261e34b4bb2&txTime=6A69DD30
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:30 WIB Subiaco AFC  Women vs Perth RedStar  Women | WAUS WD1 | Gvision TV
+https://play.666666.zip/live/8882961878.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:30 WIB Trau FC vs Neroca FC | Id DCup | Gvision TV
+https://play.666666.zip/live/8883047790.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[AFL Aussie Rules] Fremantle Dockers vs West Coast Eagles Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
