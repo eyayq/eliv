@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 10:15:37 WIB 30-07-2026
-# 🔄 Total Channels: 816
+# ⏰ Latest Updated: 10:22:32 WIB 30-07-2026
+# 🔄 Total Channels: 814
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:15:37 WIB 30-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:22:32 WIB 30-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -74,6 +74,8 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",12:00 WIB LIVE2026 Taipei Badminton Open Top 16 1200-1800 | BOSS SPORTS | Gvision TV
+http://gvisiontv.channell.my.id/ch/tw/wtv.php/.m3u8?id=202
 #EXTINF:-1 tvg-logo="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/pfgdt8vmwslqwekavhlo" group-title="LIVE EVENT",13:40 WIB ITALY [VS] UNITED STATES - 4TH FINAL | Gvision TV
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/gT7In44v/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="LIVE EVENT",YONEX Taipei Open 2026 | Court 1 | Twitch | Gvision TV
@@ -124,20 +126,14 @@ https://live1.streambylivepulse.com/live/channel62.m3u8?wsSecret=9031d0f1bdde86d
 https://live1.streambylivepulse.com/live/channel63.m3u8?wsSecret=f0f6a102520213780329d6d1aad97bb5&wsABSTime=1785422750
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",Taipei Open | Gvision TV
 https://live1.streambylivepulse.com/live/channel64.m3u8?wsSecret=e82f8740d3c1a50002887601dc94abf9&wsABSTime=1785423095
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",YONEX Taipei Open 2026 | Court 1 | Gvision TV
-https://badmintonlive.net/live-stream/live/98ef19a0d5b2f41dcebe2bae359140e6.flv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",YONEX Taipei Open 2026 | Court 2 | Gvision TV
-https://badmintonlive.net/live-stream/live/53c3fac0062494b78845c38bf1e1ef7b.flv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",YONEX Taipei Open 2026 | Court 3 | Gvision TV
-https://badmintonlive.net/live-stream/live/1a0c2fbdd03d534f88ace88c41f931de.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Ugyen Academy vs RTC FC | BHU Premier League | Gvision TV
 https://play.666666.zip/live/4596122.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:30 WIB Anri Vladivostok vs Dinamo Barnaul | RUS Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4560239.m3u8?txSecret=b19fa3626912576b6aa523cece084ec2&txTime=6A6C74F0
+https://pul-tenm.gkykp.com/live/sd-1-4560239.m3u8?txSecret=74bc51182a299494d164f53fa7fbb614&txTime=6A6C76D0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:30 WIB South Melbourne vs Adelaide United | AUS FFA Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4570119.m3u8?txSecret=e772d7671a79ab9d34f13bd4dc6410b2&txTime=6A6C74F0
+https://pul-tenm.gkykp.com/live/sd-1-4570119.m3u8?txSecret=db79c17bb90fb0cae3d14d22b158487f&txTime=6A6C76D0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:30 WIB Sydney Olympic vs Brisbane Roar | AUS FFA Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4570120.m3u8?txSecret=757172b5059056a4d0dace516ad799a7&txTime=6A6C74F0
+https://pul-tenm.gkykp.com/live/sd-1-4570120.m3u8?txSecret=331a27f3f62af15fce30003eb1fe65dd&txTime=6A6C76D0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 17:30 WIB Tynring Sports Club vs Sohryngkham | IND SPL | Gvision TV
 https://play.666666.zip/live/8883048406.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 17:30 WIB Mawlai SC vs Laitkor SC | IND SPL | Gvision TV
