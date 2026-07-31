@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 20:47:35 WIB 31-07-2026
-# 🔄 Total Channels: 809
+# ⏰ Latest Updated: 20:54:47 WIB 31-07-2026
+# 🔄 Total Channels: 807
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:47:35 WIB 31-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:54:47 WIB 31-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -81,6 +81,10 @@ https://live2.jxa76.com/live/sd-6Mwea3wDXjjWb3iXqd.m3u8?txSecret=30a5714b0d7e784
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 http://193.47.62.192/hls/IMMMAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/20/6a5e291fdc649-piala-presiden-elite-2026_gemini_1265_711.jpg" group-title="LIVE EVENT",Persija Jakarta VS PSMS Medan | Piala Presiden - Group Stage | [BACA: AKTIF PAS KICK-OFF] | Gvision TV
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com
+https://hd-stream.lxscore.com/live/default-1838518.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Link M3U8 Tidak Ditemukan
 https://localhost/error.m3u8
 #EXTINF:-1 tvg-logo="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/pfgdt8vmwslqwekavhlo" group-title="Live Event: Voli",[Belum Mulai] 14:00 WIB NEXT MATCH | Gvision TV
@@ -90,19 +94,13 @@ https://localhost/error.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",03:00 WIB Venezuela  Women vs Salvador  Women | UNCAF Women's American Games | Gvision TV
 https://play.666666.zip/live/4594208.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",03:00 WIB Los Chankas vs Comerciantes Unidos | PERU Liga 1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4550690.m3u8?txSecret=64a3c0f91498458238ba48ddce74d09f&txTime=6A6E5A91
+https://pul-tenm.gkykp.com/live/sd-1-4550690.m3u8?txSecret=341938e90a1a14be0c701e16da8c895d&txTime=6A6E5C71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",03:00 WIB Burkina Faso  Women vs Tanzania  Women | CAF Women's African Cup of Nation | Gvision TV
 https://play.666666.zip/live/4587729.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",02:00 WIB Dundee United vs Rangers F.C. | SCO Premiership | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4557554.m3u8?txSecret=493dd20d3bf31dcf71d39a27d5c5ebbf&txTime=6A6E5A91
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",02:00 WIB FK Bodo/Glimt vs Lillestrom | NOR Eliteserien | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4467604.m3u8?txSecret=247f4362b6da486e15ae7d81fa0f6db5&txTime=6A6E5A91
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",02:00 WIB Drogheda United vs Shamrock Rovers | IRE Premier Division | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4469080.m3u8?txSecret=ec56b9154061a6d31d7e641acc0a2f86&txTime=6A6E5A91
+https://pul-tenm.gkykp.com/live/sd-1-4469080.m3u8?txSecret=f62c20cdf5f6fd350274d9b832dddfa1&txTime=6A6E5C70
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",02:00 WIB Universitario De Vinto vs Club Guabira | BOL Primera Division | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4543801.m3u8?txSecret=d03802ac562c8241de3e9aeeb172543b&txTime=6A6E5A91
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",01:45 WIB Ballinamallard United vs Bangor FC | INT CF | Gvision TV
-https://play.666666.zip/live/4600904.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4543801.m3u8?txSecret=1cc75a504ec94f0e4f53e252cff16838&txTime=6A6E5C70
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 04:00 WIB Real Santander vs Patriotas FC | COL D2C | Gvision TV
 https://play.666666.zip/live/8883012135.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 04:00 WIB AD Rosario vs Jicaral | CRC D2 | Gvision TV
