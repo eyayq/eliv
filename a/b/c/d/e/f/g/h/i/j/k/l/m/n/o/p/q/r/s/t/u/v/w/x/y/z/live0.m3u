@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 08:54:20 WIB 31-07-2026
-# 🔄 Total Channels: 835
+# ⏰ Latest Updated: 09:13:33 WIB 31-07-2026
+# 🔄 Total Channels: 837
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [08:54:20 WIB 31-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [09:13:33 WIB 31-07-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -92,29 +92,31 @@ https://live2.streambylivepulse.com/live/channel15.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
-#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/20/6a5e291fdc649-piala-presiden-elite-2026_gemini_1265_711.jpg" group-title="LIVE EVENT",Arema FC VS DPMM | Piala Presiden - Group Stage | [BACA: AKTIF PAS KICK-OFF] | Gvision TV
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com
-https://hd-stream.lxscore.com/live/default-1838516.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="LIVE EVENT",Taipei Open BWF WORLD TOUR | Court 2 | Twitch | Gvision TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s" group-title="LIVE EVENT",16:00 WIB Indonesia vs Thailand | XOILACZ | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+https://live2.streambylivepulse.com/live/channel33.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s" group-title="LIVE EVENT",16:00 WIB Indonesia vs Thailand | ONE Sports | Gvision TV
+http://gvisiontv.channell.my.id/ch/ph/ones.php/.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="LIVE EVENT",YONEX Taipei Open 2026 | Court 2 | Twitch | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba02
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="LIVE EVENT",Taipei Open BWF WORLD TOUR | Court 3 | Twitch | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="LIVE EVENT",YONEX Taipei Open 2026 | Court 3 | Twitch | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba03
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="LIVE EVENT",Taipei Open BWF WORLD TOUR | Court 4 | Twitch | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="LIVE EVENT",YONEX Taipei Open 2026 | Court 4 | Twitch | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba04
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Taipei Open BWF WORLD TOUR | Court 1 | Server 1 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",YONEX Taipei Open 2026 | Court 1 | Server 1 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=badminton
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Taipei Open BWF WORLD TOUR | Court 1 | Server 2 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",YONEX Taipei Open 2026 | Court 1 | Server 2 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805928
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Taipei Open BWF WORLD TOUR | Court 1 | Server 3 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",YONEX Taipei Open 2026 | Court 1 | Server 3 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=880221
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Taipei Open BWF WORLD TOUR | Court 2 | Server 1 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",YONEX Taipei Open 2026 | Court 2 | Server 1 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805929
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Taipei Open BWF WORLD TOUR | Court 2 | Server 2 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",YONEX Taipei Open 2026 | Court 2 | Server 2 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805932
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Taipei Open BWF WORLD TOUR | Court 3 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",YONEX Taipei Open 2026 | Court 3 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805930
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Taipei Open BWF WORLD TOUR | Court 4 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",YONEX Taipei Open 2026 | Court 4 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805931
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Taipei Open | Gvision TV
 https://live1.streambylivepulse.com/live/channel61.m3u8?wsSecret=6bff00318e188fab66fdb24a7f7c3544&wsABSTime=1785527967
@@ -122,29 +124,25 @@ https://live1.streambylivepulse.com/live/channel61.m3u8?wsSecret=6bff00318e188fa
 https://live1.streambylivepulse.com/live/channel62.m3u8?wsSecret=aeffdd17e8a35ebd33451d22340c59d2&wsABSTime=1785526534
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="LIVE EVENT",Taipei Open | Gvision TV
 https://live1.streambylivepulse.com/live/channel63.m3u8?wsSecret=c958da54fbfa9eb4cd4e7412761965e5&wsABSTime=1785526604
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s" group-title="LIVE EVENT",[Belum Mulai] 16:00 WIB Indonesia vs Thailand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",Taipei Open BWF WORLD TOUR | Court 2 | Twitch | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",YONEX Taipei Open 2026 | Court 2 | Twitch | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba02
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",Taipei Open BWF WORLD TOUR | Court 3 | Twitch | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",YONEX Taipei Open 2026 | Court 3 | Twitch | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba03
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",Taipei Open BWF WORLD TOUR | Court 4 | Twitch | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",YONEX Taipei Open 2026 | Court 4 | Twitch | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba04
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",Taipei Open BWF WORLD TOUR | Court 1 | Server 1 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",YONEX Taipei Open 2026 | Court 1 | Server 1 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=badminton
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",Taipei Open BWF WORLD TOUR | Court 1 | Server 2 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",YONEX Taipei Open 2026 | Court 1 | Server 2 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805928
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",Taipei Open BWF WORLD TOUR | Court 1 | Server 3 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",YONEX Taipei Open 2026 | Court 1 | Server 3 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=880221
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",Taipei Open BWF WORLD TOUR | Court 2 | Server 1 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",YONEX Taipei Open 2026 | Court 2 | Server 1 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805929
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",Taipei Open BWF WORLD TOUR | Court 2 | Server 2 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",YONEX Taipei Open 2026 | Court 2 | Server 2 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805932
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",Taipei Open BWF WORLD TOUR | Court 3 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",YONEX Taipei Open 2026 | Court 3 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805930
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",Taipei Open BWF WORLD TOUR | Court 4 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",YONEX Taipei Open 2026 | Court 4 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805931
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",Taipei Open | Gvision TV
 https://live1.streambylivepulse.com/live/channel61.m3u8?wsSecret=6bff00318e188fab66fdb24a7f7c3544&wsABSTime=1785527967
@@ -152,28 +150,32 @@ https://live1.streambylivepulse.com/live/channel61.m3u8?wsSecret=6bff00318e188fa
 https://live1.streambylivepulse.com/live/channel62.m3u8?wsSecret=aeffdd17e8a35ebd33451d22340c59d2&wsABSTime=1785526534
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",Taipei Open | Gvision TV
 https://live1.streambylivepulse.com/live/channel63.m3u8?wsSecret=c958da54fbfa9eb4cd4e7412761965e5&wsABSTime=1785526604
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB Las Palmas vs Neom SC | INT CF | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4600841.m3u8?txSecret=bb8e482d41b89a9fc53f548faa589ba6&txTime=6A6DB7E8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",15:30 WIB Elche CF vs Cordoba | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4600837.m3u8?txSecret=f16fa8546eae64d03e7102f14f45e314&txTime=6A6DB338
+https://pul-tenm.gkykp.com/live/sd-1-4600837.m3u8?txSecret=841e685670cdfe97d3d4d143ae952f5d&txTime=6A6DB7E8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",15:30 WIB Alaves vs Castellon | INT CF | Gvision TV
-https://play.666666.zip/live/4600845.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",15:30 WIB Arema vs DPMM FC | IDN President Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4594006.m3u8?txSecret=e620adbcb29c1df8bc30eb53dee0b889&txTime=6A6DB338
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:00 WIB Yangon City U20 vs Dagon Star United U20 | Mya U20L | Gvision TV
-https://play.666666.zip/live/8883049456.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:00 WIB Yangon United FC U20 vs Thitsar Arman FC U20 | Mya U20L | Gvision TV
-https://play.666666.zip/live/8883049457.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:00 WIB Real Murcia U19 vs Sunderland A.F.C | INT CF | Gvision TV
-https://play.666666.zip/live/8883049594.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:00 WIB Amiens vs Chambly FC | INT CF | Gvision TV
-https://play.666666.zip/live/8883048410.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:00 WIB Albacete vs Real Madrid Castilla | INT CF | Gvision TV
-https://play.666666.zip/live/8883047943.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:00 WIB Stade Lavallois MFC vs Le Havre | INT CF | Gvision TV
-https://play.666666.zip/live/8883047977.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:00 WIB Kortrijk vs Gent B | INT CF | Gvision TV
-https://play.666666.zip/live/8883047907.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:00 WIB Las Palmas vs Neom SC | INT CF | Gvision TV
-https://play.666666.zip/live/8883047906.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4600845.m3u8?txSecret=f6b0cf5f6e5216469ece2685ff53637a&txTime=6A6DB7E8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:30 WIB Rochedale Rovers vs Eastern Suburbs Brisbane | AUS QSL | Gvision TV
+https://play.666666.zip/live/8882905401.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:30 WIB Wynnum Wolves vs Brisbane City | AUS QSL | Gvision TV
+https://play.666666.zip/live/8882905402.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:30 WIB Moreton City Excelsior  Women vs Mitchelton  Women | AUS WQSL | Gvision TV
+https://play.666666.zip/live/8883048444.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:30 WIB Peerless SC vs Kalighat Sports Lovers | CFL | Gvision TV
+https://play.666666.zip/live/8883049515.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:30 WIB United SC Kolkata vs Rainbow SC | CFL | Gvision TV
+https://play.666666.zip/live/8883049505.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:30 WIB BSS Sporting Club vs Bengal Nagpur Railway FC | CFL | Gvision TV
+https://play.666666.zip/live/8883047779.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:30 WIB Box Hill United SC vs Keilor Park SC | AUS VS L | Gvision TV
+https://play.666666.zip/live/8883048948.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:30 WIB University Of Cyprus vs University Of Huelva | EUG | Gvision TV
+https://play.666666.zip/live/8883049721.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:30 WIB Caen vs Dieppe | INT CF | Gvision TV
+https://play.666666.zip/live/8883048341.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 16:30 WIB Bentleigh Greens vs Oakleigh Cannons | AUS VPL | Gvision TV
+https://play.666666.zip/live/8882920930.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[AEW Wrestling] AEW Collision Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
