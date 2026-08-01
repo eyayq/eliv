@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 01:04:56 WIB 01-08-2026
-# 🔄 Total Channels: 810
+# ⏰ Latest Updated: 01:07:34 WIB 01-08-2026
+# 🔄 Total Channels: 814
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [01:04:56 WIB 01-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [01:07:34 WIB 01-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -76,32 +76,40 @@ https://hd-stream.lxscore.com/live/default-1838518.m3u8
 https://localhost/error.m3u8
 #EXTINF:-1 tvg-logo="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/pfgdt8vmwslqwekavhlo" group-title="Live Event: Voli",[Belum Mulai] 14:00 WIB NEXT MATCH | Gvision TV
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/WVbFXZtF/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",Canada Open BWF WORLD TOUR | Court 1 | Twitch | Gvision TV
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba01
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",Canada Open BWF WORLD TOUR | Court 2 | Twitch | Gvision TV
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba02
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",Canada Open BWF WORLD TOUR | Court 3 | Twitch | Gvision TV
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba03
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",Canada Open BWF WORLD TOUR | Court 4 | Twitch | Gvision TV
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba04
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="👍🏻DONASI 085795119808👍🏻",Link M3U8 Tidak Ditemukan
 https://localhost/error.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",08:00 WIB Cruz Azul   Women vs Atlas   Women | MEX Liga MX Femenil | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4599421.m3u8?txSecret=2e0fef9914238bc7c365ac643731e740&txTime=6A6E9709
+https://pul-tenm.gkykp.com/live/sd-1-4599421.m3u8?txSecret=f9ee27870cf9ab1058dc35d37bc79749&txTime=6A6E9780
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",08:00 WIB San Antonio vs Indy Eleven | USA USL | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4473177.m3u8?txSecret=906dfd8f3d6540857aecda491bab972a&txTime=6A6E9709
+https://pul-tenm.gkykp.com/live/sd-1-4473177.m3u8?txSecret=b2ddf3f9f646b48c924948ac8768948c&txTime=6A6E9780
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",08:00 WIB Puebla vs Guadalajara | MEX Liga MX | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4553813.m3u8?txSecret=a27d49cc561435323b111b6d2d37b6d5&txTime=6A6E9709
+https://pul-tenm.gkykp.com/live/sd-1-4553813.m3u8?txSecret=ec537fc75f906668e1c1480f12610f0e&txTime=6A6E9780
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",08:00 WIB Correcaminos UAT vs Tepatitlan De Morelos | MEX Ascenso MX | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4578784.m3u8?txSecret=25fced1d156b8ebe7841b2cf7a4ad6f5&txTime=6A6E9709
+https://pul-tenm.gkykp.com/live/sd-1-4578784.m3u8?txSecret=a16a77414f702e26d733d1eebf9221c6&txTime=6A6E9780
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",08:00 WIB Mineros De Zacatecas vs Tlaxcala | MEX Ascenso MX | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4578785.m3u8?txSecret=85230971454fde565cda486cec7e6279&txTime=6A6E9709
+https://pul-tenm.gkykp.com/live/sd-1-4578785.m3u8?txSecret=1504a55d867c9d834d18732c347ff2f1&txTime=6A6E9780
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",08:00 WIB Fortaleza vs Deportivo Pereira | Categoria Primera A | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4569210.m3u8?txSecret=539b9ff21aa9f8c5077e5f02bfa0eae3&txTime=6A6E9709
+https://pul-tenm.gkykp.com/live/sd-1-4569210.m3u8?txSecret=d45ea6c10f8f4d8957d4acd83599b888&txTime=6A6E9780
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:10 WIB North Carolina  Women vs Orlando Pride  Women | USA NWSL | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4511018.m3u8?txSecret=d71bd1ec263a132e631755f66397192e&txTime=6A6E9709
+https://pul-tenm.gkykp.com/live/sd-1-4511018.m3u8?txSecret=78d7b1cca650d3669bc86466982fdc19&txTime=6A6E9780
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:00 WIB MINNESOTA United B vs Portland Timbers Reserves | MLS Next Pro | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4598898.m3u8?txSecret=3728ae4f57fef011622daeff0b0e14f4&txTime=6A6E9709
+https://pul-tenm.gkykp.com/live/sd-1-4598898.m3u8?txSecret=1228575c8c3edb93dfd2ad89248d12da&txTime=6A6E9780
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:00 WIB Sporting Kansas City Reserve vs Houston Dynamo B | MLS Next Pro | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4598899.m3u8?txSecret=50d2248eecc53d49d1d431486f35bb2f&txTime=6A6E9709
+https://pul-tenm.gkykp.com/live/sd-1-4598899.m3u8?txSecret=39fa6c1077fc490986058fc2a7e4a32a&txTime=6A6E9780
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:00 WIB Universidad De Concepcion vs Audax Italiano | CHI Liga de Primera | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4476413.m3u8?txSecret=9491eb1dbff50dd355ebc058c535b30a&txTime=6A6E9709
+https://pul-tenm.gkykp.com/live/sd-1-4476413.m3u8?txSecret=6348074e67c21cd213b1af2153e21053&txTime=6A6E9780
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",07:00 WIB Libertad Loja vs Orense SC | LigaPro Serie A | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4492563.m3u8?txSecret=8e4a8b63bfcd267b05b8b8a59e274d40&txTime=6A6E9709
+https://pul-tenm.gkykp.com/live/sd-1-4492563.m3u8?txSecret=f69b4144779f0652291319b9704c711f&txTime=6A6E9780
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",06:40 WIB New York City Football Club vs Toronto FC | USA MLS | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4460402.m3u8?txSecret=279f80657ab4eaba6301a80d12df4783&txTime=6A6E9709
+https://pul-tenm.gkykp.com/live/sd-1-4460402.m3u8?txSecret=e55b3a53eb34612c6b11b5a079e85dbd&txTime=6A6E9780
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 08:30 WIB Avondale U23 vs Heidelberg United U23 | Aus NPL U23 | Gvision TV
 https://play.666666.zip/live/8882939478.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 08:15 WIB North Sunshine Eagles U23 vs Brunswick Juventus U23 | AVPL U23 | Gvision TV
