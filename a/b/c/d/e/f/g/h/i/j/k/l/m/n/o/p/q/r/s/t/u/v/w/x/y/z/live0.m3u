@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 10:02:38 WIB 04-08-2026
-# 🔄 Total Channels: 756
+# ⏰ Latest Updated: 10:06:39 WIB 04-08-2026
+# 🔄 Total Channels: 757
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:02:38 WIB 04-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:06:39 WIB 04-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -81,6 +81,11 @@ https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
 https://live2.streambylivepulse.com/live/channel4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10" group-title="LIVE EVENT",17:00 WIB Myanmar vs Laos
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1832582.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e5c7586cd5bd4d82ee0e35e877486a87
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10" group-title="LIVE EVENT",17:00 WIB Myanmar vs Laos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
@@ -124,7 +129,7 @@ https://tfy56gr5dgmttgha1hcto8yzdncbafisg17ufgr.100ycdn.com/live1.streambylivepu
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB RTC FC vs Thimphu Raven FC | BHU Premier League | Gvision TV
 https://play.666666.zip/live/4603082.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Myanmar vs Laos | ASEAN Championship | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4546509.m3u8?txSecret=87b9f7c19b9076cac669c3b6e3a02cec&txTime=6A7309A0
+https://pul-tenm.gkykp.com/live/sd-1-4546509.m3u8?txSecret=499e3e828e1c4c22d5f5f2fa2f92feb1&txTime=6A730A90
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Halftime Brothers vs Tuanpo Village | Guizhou Wufeng Cup | Gvision TV
 https://play.666666.zip/live/4602823.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB Yangon City  Women vs Ayeyawady Utd  Women | MML W | Gvision TV
