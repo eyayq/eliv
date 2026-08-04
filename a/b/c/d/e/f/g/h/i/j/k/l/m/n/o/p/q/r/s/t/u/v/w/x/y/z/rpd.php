@@ -1,30 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.08 WIB 05/08/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.14 WIB 05/08/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 1",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/larne-iberia-c2qual/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 2",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/larne-iberia-c2qual.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 3",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.193/hls/TYTYTYAAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 4",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live2.jxa76.com/live/sd-6MxiZdaTg7ZAKmfwGP.m3u8?txSecret=88d691a48a3ec84ae46137a7a0559326&txTime=19FCF7093DC
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 5",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1785877379-0-0-cd09cc5fb2cc7149df1f6812900a5bef
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 6",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1785877379-0-0-39c1627583de5a06335e75752cf6f30d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 7",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1785877379-0-0-8ac4e98dfc92b67806cedbea63df21f8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 8",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1785877379-0-0-00d0b0fb5f5580ae6337efd1f52935be
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shamrock-rovers-eb9607.webp" group-title="[LIVE 02:00 WIB 05/08/26] Shamrock Rovers vs Egnatia | Server 1",[LIVE 02:00 WIB 05/08/26] Shamrock Rovers vs Egnatia | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/shamrock-egnatia-c2qual/index.m3u8
@@ -38,17 +14,41 @@ http://193.47.62.194/hls/TYTYTYAAAAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://live2.jxa76.com/live/sd-6MxiZdaSqcC6HgCtvo.m3u8?txSecret=42fcb33f92978beda216dbc2e6b05c73&txTime=19FCF73DAF5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shamrock-rovers-eb9607.webp" group-title="[LIVE 02:00 WIB 05/08/26] Shamrock Rovers vs Egnatia | Server 5",[LIVE 02:00 WIB 05/08/26] Shamrock Rovers vs Egnatia | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-620504_lsd.m3u8?txSecret=3cff9f322e84940698b85749924b6f09&txTime=6a7299d3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1785877919-0-0-b11a61af5941e21a09e34292c959e4a6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shamrock-rovers-eb9607.webp" group-title="[LIVE 02:00 WIB 05/08/26] Shamrock Rovers vs Egnatia | Server 6",[LIVE 02:00 WIB 05/08/26] Shamrock Rovers vs Egnatia | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=898196b6ec9f4b83a7df507df2d9f845&txTime=6a7299d3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1785877919-0-0-51d8f5e3dfa6ce5671012dcfc6fd34ab
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shamrock-rovers-eb9607.webp" group-title="[LIVE 02:00 WIB 05/08/26] Shamrock Rovers vs Egnatia | Server 7",[LIVE 02:00 WIB 05/08/26] Shamrock Rovers vs Egnatia | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1785877379-0-0-e7511d0fe9f10f036250fd3fc87bf13e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-620504_lsd.m3u8?txSecret=28201aa2bfc955bfba50efa048a31f25&txTime=6a729bef
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shamrock-rovers-eb9607.webp" group-title="[LIVE 02:00 WIB 05/08/26] Shamrock Rovers vs Egnatia | Server 8",[LIVE 02:00 WIB 05/08/26] Shamrock Rovers vs Egnatia | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1785877379-0-0-9bb7f440e252e7362f9148c5a79a6281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=b053007b837b1f375f6ae00567ede71e&txTime=6a729bef
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 1",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/larne-iberia-c2qual/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 2",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/larne-iberia-c2qual.flv
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 3",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.193/hls/TYTYTYAAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 4",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://live2.jxa76.com/live/sd-6MxiZdaTg7ZAKmfwGP.m3u8?txSecret=88d691a48a3ec84ae46137a7a0559326&txTime=19FCF7093DC
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 5",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1785877919-0-0-4ab91b7761ad5b3065764159f95e154b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 6",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1785877919-0-0-7d0313e1939bd2d563d8b0814c467fa2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 7",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1785877919-0-0-020354ca2924efc5c89a17c925994a88
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/larne-fc-ad21f1.png" group-title="[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 8",[LIVE 02:00 WIB 05/08/26] Larne FC vs FC Iberia 1999 Tbilisi | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1785877919-0-0-3909a2fb4ba5c01570dddc56583326e1
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 02:30 WIB 05/08/26] Rotherham vs Derby County | Server 1",[LIVE 02:30 WIB 05/08/26] Rotherham vs Derby County | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.194/hls/NNNNAa.m3u8
