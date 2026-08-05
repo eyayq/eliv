@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 10:43:00 WIB 05-08-2026
-# 🔄 Total Channels: 790
+# ⏰ Latest Updated: 10:50:23 WIB 05-08-2026
+# 🔄 Total Channels: 785
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:43:00 WIB 05-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:50:23 WIB 05-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -104,6 +104,10 @@ http://193.47.62.192/hls/RRRRAAA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 http://193.47.62.191/hls/RRRRAA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",VICTOR Korea Masters 2026 | Court 2 | Twitch | Gvision TV
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba02
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",VICTOR Korea Masters 2026 | Court 3 | Twitch | Gvision TV
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba03
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",VICTOR Korea Masters 2026 | Court 1 | Server 1 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805928
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",VICTOR Korea Masters 2026 | Court 1 | Server 2 | Huya | Gvision TV
@@ -130,20 +134,6 @@ https://tfy66gr5dgmttgha1hcto8yzdncbafisg17ufgr.100ycdn.com/live1.streambylivepu
 https://tfy66gr5dgmttgha1hcto8yzdncbafisg17ufgr.100ycdn.com/live1.streambylivepulse.com/live/channel63.m3u8?wsSession=40b8e064c17d7357ee191639-178589215870636&wsIPSercert=c4d15725a2548c91ecbcbdaa9732e109&wsBindIP=2&wsserid=1168278531255916870
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",Korea Masters | Gvision TV
 https://tfy66gr5dgmttgha1hcto8yzdncbafisg17ufgr.100ycdn.com/live1.streambylivepulse.com/live/channel64.m3u8?wsSession=40b8e064c17d7357ee191639-178589217576975&wsIPSercert=c4d15725a2548c91ecbcbdaa9732e109&wsBindIP=2&wsserid=1168278531255916870
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Ugyen Academy vs BFF Academy U19 | BHU Premier League | Gvision TV
-https://play.666666.zip/live/4603119.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Khoromkhon vs Erchim | MGL Premier League | Gvision TV
-https://play.666666.zip/live/4609795.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:30 WIB Queanbeyan City vs Tuggeranong United | AUS NPL ACT 1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4498536.m3u8?txSecret=1a034d16d9687f4d3783702ebbaa073c&txTime=6A746480
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB Yadanarbon FC  Women vs Shan Utd  Women | MML W | Gvision TV
-https://play.666666.zip/live/4609651.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB ISPE FC  Women vs Myawady  Women | MML W | Gvision TV
-https://play.666666.zip/live/4609684.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB Changchun Xidu vs Dalian Yingbo B | CHN League 2 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4512932.m3u8?txSecret=2ef2adc737a3f51fb7204c104b6d9559&txTime=6A746480
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB Austria Wien  Women vs ZNK Hajduk Split  Women | UEFA Women's Champions League | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4589289.m3u8?txSecret=7bc5e4e8bb1b67f61b04d7ed48dc380a&txTime=6A746480
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/bolakami-5adec.firebasestorage.app/o/images%2F123ad58a-5127-4ee0-891c-12647dc544ae.jpg?alt=media&token=dad5c6d0-03d5-41b3-860b-45703271c15c" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB K-League All Stars vs Manchester City | INT CF | Gvision TV
 https://play.666666.zip/live/8883049991.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/bolakami-5adec.firebasestorage.app/o/images%2F30de397b-6ecf-49be-8a66-b9dd5e306904.jpg?alt=media&token=2c1203a5-0e89-46b5-b334-599bad487e2b" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB AC Milan vs Inter Milan | INT CF | Gvision TV
