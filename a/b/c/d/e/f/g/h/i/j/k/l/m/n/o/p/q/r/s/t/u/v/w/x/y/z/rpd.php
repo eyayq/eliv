@@ -1,96 +1,96 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.46 WIB 07/08/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.52 WIB 07/08/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-dorados-de-sinaloa-8ea726.webp" group-title="[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 1",[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=8a62bfbde80a3f75cc2b16730a5124fa&txTime=6a759a57
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-dorados-de-sinaloa-8ea726.webp" group-title="[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 2",[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=92dc3281e7cbbd3e6d7efd595a4d71b9&txTime=6a759a57
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-dorados-de-sinaloa-8ea726.webp" group-title="[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 3",[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=cb18fe0f82fbdfed043511e5eb1c15e8&txTime=6a759a57
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-dorados-de-sinaloa-8ea726.webp" group-title="[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 4",[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=149d3f2462ad5c1bf95c88cde16ea793&txTime=6a759a57
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/leones-negros-de-la-u-de-g-527f83.webp" group-title="[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 1",[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-619672_lsd.m3u8?txSecret=77c80b658d82e22b96360833c91dd5a1&txTime=6a759a57
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/leones-negros-de-la-u-de-g-527f83.webp" group-title="[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 2",[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=3373b663460f0504f6230290a1706e29&txTime=6a759a57
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/leones-negros-de-la-u-de-g-527f83.webp" group-title="[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 3",[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1786074119-0-0-4f24a20d9392ef0bc4fde6fbab2159f1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/leones-negros-de-la-u-de-g-527f83.webp" group-title="[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 4",[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1786074119-0-0-47349e429a003ea29a9b8ac6006425cb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austin-fc-04faa0.webp" group-title="[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 1",[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.190/hls/RFFFAAAAA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austin-fc-04faa0.webp" group-title="[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 2",[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1786074119-0-0-464be325750982505a239a0b5f990fb3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=7cb66072391cdb3d9072bcfd07e84cfa&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austin-fc-04faa0.webp" group-title="[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 3",[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1786074119-0-0-6af1c1dc29025e32b46ae7d898300ae7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=cffb430a34e8c16749050d1466407979&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austin-fc-04faa0.webp" group-title="[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 4",[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1786074119-0-0-0b4544a36544414a0013f4bfcd7ebd41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1786074659-0-0-d7045de4bf65d20d9c27992a5ae366f1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austin-fc-04faa0.webp" group-title="[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 5",[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1786074119-0-0-03dd8cc71ee601068ed18e126421a4cb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1786074659-0-0-0f2f4398e7e293ce0f7354c9bb9bc36a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austin-fc-04faa0.webp" group-title="[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 6",[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=a1542c53b691de6ad4c56aea76d7bcc7&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1786074659-0-0-3c25e76c19e7078ccb58cf9f3c9ef71e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austin-fc-04faa0.webp" group-title="[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 7",[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=48de42d64934ea40f3efd0d5a2a3769d&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1786074659-0-0-dae149eca83ef832934f29c2407ae292
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austin-fc-04faa0.webp" group-title="[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 8",[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1786074119-0-0-1dee0399ba9a98926cf4d17245c2597b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1786074659-0-0-f8dc453d1df291adec6323315b5c38a9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austin-fc-04faa0.webp" group-title="[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 9",[LIVE 08:00 WIB 07/08/26] Austin FC vs Club Tijuana | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1786074119-0-0-dc84c3e51e655038d6934af11f29f26c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1786074659-0-0-6c6e88042af0b7ea6984058e35d61520
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/minnesota-lynx-w-1767d1.png" group-title="[LIVE 08:00 WIB 07/08/26] Minnesota Lynx W vs Los Angeles Sparks W | Server 1",[LIVE 08:00 WIB 07/08/26] Minnesota Lynx W vs Los Angeles Sparks W | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1786074119-0-0-21b406fe4e61460a8b259f8746f94439
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786074659-0-0-16c2f23da4a23dac66d77f7479cbb5c3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/minnesota-lynx-w-1767d1.png" group-title="[LIVE 08:00 WIB 07/08/26] Minnesota Lynx W vs Los Angeles Sparks W | Server 2",[LIVE 08:00 WIB 07/08/26] Minnesota Lynx W vs Los Angeles Sparks W | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1786074119-0-0-5f8ddbc562c5b3fe961a05a26f316ffa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786074659-0-0-cda5e65d1f1da93ae7a6743957ab3d81
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/minnesota-lynx-w-1767d1.png" group-title="[LIVE 08:00 WIB 07/08/26] Minnesota Lynx W vs Los Angeles Sparks W | Server 3",[LIVE 08:00 WIB 07/08/26] Minnesota Lynx W vs Los Angeles Sparks W | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786074119-0-0-b9505439a9139db41320192d4214b3fc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1786074659-0-0-6dcd76d7558cc01a2ad2a0cbeab93f87
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/minnesota-lynx-w-1767d1.png" group-title="[LIVE 08:00 WIB 07/08/26] Minnesota Lynx W vs Los Angeles Sparks W | Server 4",[LIVE 08:00 WIB 07/08/26] Minnesota Lynx W vs Los Angeles Sparks W | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786074119-0-0-9c6d7dc6b84603aa4ba0b0fc59bab9bf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1786074659-0-0-7560c27b9f6e3790619274cfc928b20d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-dorados-de-sinaloa-8ea726.webp" group-title="[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 1",[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=d8392260e36d5c01d35703460bdd4587&txTime=6a759c73
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-dorados-de-sinaloa-8ea726.webp" group-title="[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 2",[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=dcf3ead0300d67f4ec7f54e3a32ffd82&txTime=6a759c73
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-dorados-de-sinaloa-8ea726.webp" group-title="[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 3",[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=7f2509663bcb0472f01c9da8abc6508e&txTime=6a759c73
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-dorados-de-sinaloa-8ea726.webp" group-title="[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 4",[LIVE 08:00 WIB 07/08/26] Club Deportivo Dorados de Sinaloa vs Mineros de Zacatecas | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=3e4971097425d267f4da394fbe2ba20d&txTime=6a759c73
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/leones-negros-de-la-u-de-g-527f83.webp" group-title="[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 1",[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-619672_lsd.m3u8?txSecret=fe74730c3738289872f11f231dbc9c66&txTime=6a759c73
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/leones-negros-de-la-u-de-g-527f83.webp" group-title="[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 2",[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=4a37137fe82ecdc78757643459f07cfb&txTime=6a759c73
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/leones-negros-de-la-u-de-g-527f83.webp" group-title="[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 3",[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1786074659-0-0-eb1e3397c0af014c64d9ae7ef52ddab4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/leones-negros-de-la-u-de-g-527f83.webp" group-title="[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 4",[LIVE 08:00 WIB 07/08/26] Leones Negros de la U. de G. vs Correcaminos de la U.A.T. | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1786074659-0-0-b9339a12db266d6c427e3933a25c696a
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 08:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 1",[LIVE 08:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.190/hls/RFFFAAAA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-fire-w-284e9b.webp" group-title="[LIVE 09:00 WIB 07/08/26] Portland Fire W vs Toronto Tempo W | Server 1",[LIVE 09:00 WIB 07/08/26] Portland Fire W vs Toronto Tempo W | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912106_lsd.m3u8?txSecret=4148bc67028e348e06a09b62a0dabb0a&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=4b4ba6356c59ec560a327aa7510a6787&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-fire-w-284e9b.webp" group-title="[LIVE 09:00 WIB 07/08/26] Portland Fire W vs Toronto Tempo W | Server 2",[LIVE 09:00 WIB 07/08/26] Portland Fire W vs Toronto Tempo W | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912106_lhd.m3u8?txSecret=3e384c454cdf9c04508ac3416b7eeec4&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=f4291b5be283c916a604a170ec2269ea&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-fire-w-284e9b.webp" group-title="[LIVE 09:00 WIB 07/08/26] Portland Fire W vs Toronto Tempo W | Server 3",[LIVE 09:00 WIB 07/08/26] Portland Fire W vs Toronto Tempo W | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=4932cda0273c9ee9e5c0d61a5471cfe2&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912106_lsd.m3u8?txSecret=5f47eba4fcade44f8c411254f0edd56a&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-fire-w-284e9b.webp" group-title="[LIVE 09:00 WIB 07/08/26] Portland Fire W vs Toronto Tempo W | Server 4",[LIVE 09:00 WIB 07/08/26] Portland Fire W vs Toronto Tempo W | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e2837bc15aaa26ceed7f25d4b46d30a9&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912106_lhd.m3u8?txSecret=916c1eaa03c39a4c626fe61251c5d59e&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/abejas-e381bc.webp" group-title="[LIVE 09:00 WIB 07/08/26] Abejas vs Astros | Server 1",[LIVE 09:00 WIB 07/08/26] Abejas vs Astros | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1786074119-0-0-e72f67f0f93be492d0a430382e987256
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1786074659-0-0-6f776d77185e325e2168e18490679b90
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/abejas-e381bc.webp" group-title="[LIVE 09:00 WIB 07/08/26] Abejas vs Astros | Server 2",[LIVE 09:00 WIB 07/08/26] Abejas vs Astros | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1786074119-0-0-f2c121e3abc4c495aa8a1d25bbfab4ca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1786074659-0-0-f2b9010cac7a32682cf4d237516b983e
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 09:00 WIB 07/08/26] Verdes vs Municipal | Server 1",[LIVE 09:00 WIB 07/08/26] Verdes vs Municipal | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.190/hls/YFFF.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 1",[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MxiZdbBpq4fk7yAmA.m3u8?txSecret=6d84123d0d5e61a8e5b86ce693700f95&txTime=6A75EEBC
+https://cds78y11d.org/live/sd-6MxiZdbBpq4fk7yAmA.m3u8?txSecret=b042727869a68ad6e30533d0422d92c5&txTime=6A75F0D9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 2",[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/clubamerica-sandiego-leagues/index.m3u8
@@ -104,89 +104,110 @@ http://193.47.62.190/hls/YFFFAAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://live2.jxa76.com/live/sd-6MxiZdbBpq4fk7yAgj_540p.m3u8?txSecret=e234f530312a83fa857b0208cf3d934c&txTime=19FDB504225
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 6",[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1786074119-0-0-1cbca02b2be87309a31516b3f5c7d25b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1786074659-0-0-2c936db5c3ca82ac586704ee91e7299f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 7",[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1786074119-0-0-576bbcffbd57a9e818730a61590f5927
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1786074659-0-0-5d9e5902c09ec872a4dc70544220ffd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 8",[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1786074119-0-0-f6197de0ce053632060a501f8ca264d3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1786074659-0-0-b7b72c66112210df2205db3f99a6b985
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 9",[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1786074119-0-0-5b1ac2794c4a95611a6d90d30e6e9eaf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1786074659-0-0-1895b87f2a805957556ef483b8a7c2e8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 10",[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=8083e09ba904db5624ae57994868d270&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1786074659-0-0-4d98ae5c2d0a829e4d0e81cd7807bca0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 11",[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=0d05a479a7cbb53c959b0c08dcdd6bf4&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1786074659-0-0-098bfcae9252299d2b5ae47aef1863f2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 12",[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1786074119-0-0-0e11ecdc585eda7a0cf7d08855210c0f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=f89f140ef3c4bc32899dc50b9b36ea32&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 13",[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1786074119-0-0-98e7d19d1ae7cd92b39cc5575b9efc39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=135ba33570882b3681d2d3fba6bc1347&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 14",[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=4764272cbbd85e4d7aaa98cb6449f325&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=6efbe99bfe15d729b9c1b2c00970a331&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 15",[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f2af0827366c3cfc8f879bfd79af0c84&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=2269af8c988a30fc7b74e00a5cdfb9cb&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 16",[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=14992a97245d6d75903c474dbdda14d8&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=3f7d6992bf2dd24f007e8998f985b7ed&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 17",[LIVE 09:10 WIB 07/08/26] Club America vs San Diego FC | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=b73e6ee5890fa8e360a12d25fd37bed5&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=37bd59036b745a13ec5491dc46e8fc65&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fuerza-regia-c33ca4.webp" group-title="[LIVE 09:15 WIB 07/08/26] Fuerza Regia vs Dorados | Server 1",[LIVE 09:15 WIB 07/08/26] Fuerza Regia vs Dorados | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=f2c46af3be0db7f43642b63547f44321&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=e6cd564e91775dc7e23a7b65c0e6ded3&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fuerza-regia-c33ca4.webp" group-title="[LIVE 09:15 WIB 07/08/26] Fuerza Regia vs Dorados | Server 2",[LIVE 09:15 WIB 07/08/26] Fuerza Regia vs Dorados | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5f028e5c394908de49f05aaf7fb7b4eb&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=971fb5a3b5311c62f7550613fd933656&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 1",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MwcqbgXhVxbVhbC2p.m3u8?txSecret=8aca7fe34000af5a2fde80964da675a8&txTime=6A75EEBC
+https://cds78y11d.org/live/sd-6MwcqbgXhVxbVhbC2p.m3u8?txSecret=b02fef989fe655dd939f8ec80472c2ec&txTime=6A75F0D9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 2",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.190/hls/YFFFAAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 3",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://live2.jxa76.com/live/sd-6MwcqbgXhVxbVhbBxP_540p.m3u8?txSecret=8a8931e3dd96f2cc369c73b2ddff84c7&txTime=19FDB5A6086
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 3",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=7c8979aa5d5dc64a28d03c300982111b&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 4",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=ed7c0dc1d51154afe0944d553abc024a&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=0dcb4cea87f1049cf1e806674d6d0160&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 5",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=7edbc563f34b8199b3086965bfdeb194&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=39adf85ba46a39b93204657134274710&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 6",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1786074119-0-0-9224cb0b383adcdcb60b38992a523497
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=1617d1e34612b411394d590feb5d7409&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 7",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1786074119-0-0-6627093ec6d1a6afe98dd420f2acd28d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=258f6945d3bee0703bf567f1fa2129a5&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 8",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=87186dea9c826597e6c575d063d46e1a&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=92c4ec9ec395b5588e0e7c81c289b0fd&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 9",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=da9d6ccd6df3f80eeee2d238a4c2b084&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1786074659-0-0-dd5253f7540aa3873eb00f6309978758
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 10",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=e4d01e73d3e159c48e0325985d6489a5&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1786074659-0-0-4e160814b2b86c0fe48f2aa66cda2665
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 11",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=5d229ccc3563ea7fdc8f17143ad794ce&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1786074659-0-0-7c12d537fd8fc37077f211b4168e38ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 12",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1786074119-0-0-49a269c9f819718e439c7f5b17a2b5e9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1786074659-0-0-6ff74282bfb12b33a8e0810f62d4755a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 13",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1786074119-0-0-348e887efdab0afcb4401b0d1b12b3f9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=a277ee7ddfdd3ab82eb4b196aa507741&txTime=6a759c73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 14",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=ce4aeb86ff1a561684df74ebb510ca07&txTime=6a759a57
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 15",[LIVE 09:30 WIB 07/08/26] Portland Timbers vs Puebla | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=9acf527f268c41d1843b57a786b91e9f&txTime=6a759a57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=d8b13315f8be98ac9fae48b15bfc4bf2&txTime=6a759c73
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cd-motagua-a2314d.webp" group-title="[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 1",[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-560690_lsd.m3u8?txSecret=43745210c40db3cc86ac2a1f3b919ff3&txTime=6a759c73
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cd-motagua-a2314d.webp" group-title="[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 2",[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-560690_lhd.m3u8?txSecret=37a1a652c1885f19eae72521bed1b976&txTime=6a759c73
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cd-motagua-a2314d.webp" group-title="[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 3",[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1786074659-0-0-116f77b435f777157b016fa7f8604d49
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cd-motagua-a2314d.webp" group-title="[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 4",[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1786074659-0-0-11a71581e044b03f33cf5068035ad393
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cd-motagua-a2314d.webp" group-title="[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 5",[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=0d5f4bcfc9215e1a8eeb48247b66f472&txTime=6a759c73
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cd-motagua-a2314d.webp" group-title="[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 6",[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=e1fd78dd9f6550e1b31724ffc2266e9e&txTime=6a759c73
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cd-motagua-a2314d.webp" group-title="[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 7",[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=23d9821c722a579f1f5c90729998e982&txTime=6a759c73
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cd-motagua-a2314d.webp" group-title="[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 8",[LIVE 10:00 WIB 07/08/26] CD Motagua vs CD FAS | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8650.1649 Mobile Safari/537.36
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=ee5f08cc2e711fc5521dda8e2e54593e&txTime=6a759c73
