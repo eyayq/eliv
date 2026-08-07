@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [07.20 WIB 07/08/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [07.27 WIB 07/08/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indiana-fever-w-373f9f.png" group-title="[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 1",[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1786065659-0-0-06205f6905804f8e38c0faf899e66488
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indiana-fever-w-373f9f.png" group-title="[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 2",[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1786065659-0-0-34576ae97704f8eca73e6e77b3104232
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indiana-fever-w-373f9f.png" group-title="[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 3",[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786065659-0-0-32c78ab3be457ebed57a6f029a7b12b2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indiana-fever-w-373f9f.png" group-title="[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 4",[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786065659-0-0-847b4186ed7ecf0c3d8efbf36c466e70
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 06:00 WIB 07/08/26] Corinthians - SP vs Internacional - RS | Server 1",[LIVE 06:00 WIB 07/08/26] Corinthians - SP vs Internacional - RS | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/corin-interna-copabra/index.m3u8
@@ -11,62 +23,44 @@ https://flv.lauthaitv.cc/live/corin-interna-copabra.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.190/hls/PUUUAaA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 06:00 WIB 07/08/26] Corinthians - SP vs Internacional - RS | Server 4",[LIVE 06:00 WIB 07/08/26] Corinthians - SP vs Internacional - RS | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=689a8adfecc207a7fb271692efac0931&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=a309f27138b314367f9ff39141515d8b&txTime=6a75794b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 06:00 WIB 07/08/26] Corinthians - SP vs Internacional - RS | Server 5",[LIVE 06:00 WIB 07/08/26] Corinthians - SP vs Internacional - RS | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=30c98f346bdbd4e92a5e0d6d76755db1&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=bd21e5fa899d47c184a48342cf678899&txTime=6a75794b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 06:00 WIB 07/08/26] Corinthians - SP vs Internacional - RS | Server 6",[LIVE 06:00 WIB 07/08/26] Corinthians - SP vs Internacional - RS | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=7e14692c68e231dbe863c398a0828cbd&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=507b451602f2361ce99648ce38096acf&txTime=6a75794b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 06:00 WIB 07/08/26] Corinthians - SP vs Internacional - RS | Server 7",[LIVE 06:00 WIB 07/08/26] Corinthians - SP vs Internacional - RS | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=490cc3773bf76cca5fa51af94e02cf6a&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=b8a8f218860437cd2365ffa9d780c5cf&txTime=6a75794b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 06:00 WIB 07/08/26] Corinthians - SP vs Internacional - RS | Server 8",[LIVE 06:00 WIB 07/08/26] Corinthians - SP vs Internacional - RS | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1786065479-0-0-55cef650d994a7bfd8e15cf3058da383
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1786065659-0-0-28d2966a88a6d0bf68ae88bfd3231706
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/corinthians-sp-95f9cd.webp" group-title="[LIVE 06:00 WIB 07/08/26] Corinthians - SP vs Internacional - RS | Server 9",[LIVE 06:00 WIB 07/08/26] Corinthians - SP vs Internacional - RS | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1786065479-0-0-58e45d1cc7558d86a50103101742820b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1786065659-0-0-ec072f4295e56f523a04cb3d650141fc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vitória-ba-3615aa.webp" group-title="[LIVE 06:00 WIB 07/08/26] Vitória - BA vs Athletico Paranaense - PR | Server 1",[LIVE 06:00 WIB 07/08/26] Vitória - BA vs Athletico Paranaense - PR | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-619672_lsd.m3u8?txSecret=174282b7c87b8f44d4271b5108a0b432&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1786065659-0-0-d5c44a1c44e694cc4ef64027c1faee54
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vitória-ba-3615aa.webp" group-title="[LIVE 06:00 WIB 07/08/26] Vitória - BA vs Athletico Paranaense - PR | Server 2",[LIVE 06:00 WIB 07/08/26] Vitória - BA vs Athletico Paranaense - PR | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=bb2c09e96d123060d0bdf84a4a938edf&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1786065659-0-0-0df1d62a3dcf7602367d0ed318108201
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vitória-ba-3615aa.webp" group-title="[LIVE 06:00 WIB 07/08/26] Vitória - BA vs Athletico Paranaense - PR | Server 3",[LIVE 06:00 WIB 07/08/26] Vitória - BA vs Athletico Paranaense - PR | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=1fa9d0f1b0737cbcbae3a4dd814756d0&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-619672_lsd.m3u8?txSecret=0593a302aa9cbcfce77aa257add699c0&txTime=6a75794b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vitória-ba-3615aa.webp" group-title="[LIVE 06:00 WIB 07/08/26] Vitória - BA vs Athletico Paranaense - PR | Server 4",[LIVE 06:00 WIB 07/08/26] Vitória - BA vs Athletico Paranaense - PR | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=4d7337ddc3d5e7091674cfa8e3aa065b&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=f6c97720a5e44c856fcde549101bd966&txTime=6a75794b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vitória-ba-3615aa.webp" group-title="[LIVE 06:00 WIB 07/08/26] Vitória - BA vs Athletico Paranaense - PR | Server 5",[LIVE 06:00 WIB 07/08/26] Vitória - BA vs Athletico Paranaense - PR | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1786065479-0-0-ff3f340dcd8acbbc8232da8bbc881513
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=37a63d924b089bae6579ca18470aeeab&txTime=6a75794b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vitória-ba-3615aa.webp" group-title="[LIVE 06:00 WIB 07/08/26] Vitória - BA vs Athletico Paranaense - PR | Server 6",[LIVE 06:00 WIB 07/08/26] Vitória - BA vs Athletico Paranaense - PR | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1786065479-0-0-145e5c254b8d9bb009637fb6cdb350ba
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indiana-fever-w-373f9f.png" group-title="[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 1",[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1786065479-0-0-86332df3fa1f22e7877c1c6203719c4a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indiana-fever-w-373f9f.png" group-title="[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 2",[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1786065479-0-0-349a613faa2435923598f2d8b46b8a85
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indiana-fever-w-373f9f.png" group-title="[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 3",[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1786065479-0-0-c374be4bbb568bbac1055979511db1f7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indiana-fever-w-373f9f.png" group-title="[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 4",[LIVE 06:00 WIB 07/08/26] Indiana Fever W vs Las Vegas Aces W | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1786065479-0-0-0db7c9fada9ad1ed58bf8a94e207816f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/blooming-5c0070.png" group-title="[LIVE 06:30 WIB 07/08/26] Blooming vs Always Ready (Bol) | Server 1",[LIVE 06:30 WIB 07/08/26] Blooming vs Always Ready (Bol) | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6Mwe5B5hVEPVx96ABN.m3u8?txSecret=ca6626661c34d7502310373e64891e5e&txTime=6A75CCFC
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/blooming-5c0070.png" group-title="[LIVE 06:30 WIB 07/08/26] Blooming vs Always Ready (Bol) | Server 2",[LIVE 06:30 WIB 07/08/26] Blooming vs Always Ready (Bol) | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.190/hls/PUUUAaAAAAA.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=11c7a6bef1d3f473fefe5d25f789e1df&txTime=6a75794b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-city-fc-e6d0e3.webp" group-title="[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 1",[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MwcqbgXhYA5NBR7Bi.m3u8?txSecret=1b0cd2bb5957e42649fc73aa293a5e04&txTime=6A75CCFC
+https://cds78y11d.org/live/sd-6MwcqbgXhYA5NBR7Bi.m3u8?txSecret=ad7a7ee7b53d2a24041a8f958da46561&txTime=6A75CE65
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-city-fc-e6d0e3.webp" group-title="[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 2",[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/nyfc-santoslaguna-leaguescup/index.m3u8
@@ -77,107 +71,110 @@ https://flv.lauthaitv.cc/live/nyfc-santoslaguna-leaguescup.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.190/hls/RFFF.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-city-fc-e6d0e3.webp" group-title="[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 5",[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1786065479-0-0-a914bf20e37307c24994cd944d04152f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1786065659-0-0-4b4e71b666dbc494b4d8272034eac54f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-city-fc-e6d0e3.webp" group-title="[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 6",[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1786065479-0-0-ea8c6338d6b468b8826706ee581ee918
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1786065659-0-0-67d59a8a4317f997050b514ac81574ae
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-city-fc-e6d0e3.webp" group-title="[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 7",[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-560690_lsd.m3u8?txSecret=3bfddc3883cd3f8987fac0a9867ab92b&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=d73d83b7c6c387b8df044c49008b9f35&txTime=6a75794b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-city-fc-e6d0e3.webp" group-title="[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 8",[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-560690_lhd.m3u8?txSecret=9c40246dd42a9206c45a1b0f959de738&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=a38828bb9586cf8b82f68f8f89ae1057&txTime=6a75794b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-city-fc-e6d0e3.webp" group-title="[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 9",[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=fefd03e181aaa4f8b98f9f7a20e0da20&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=89aad1fa54feaa75e9a7dd27d2fcd74d&txTime=6a75794b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-city-fc-e6d0e3.webp" group-title="[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 10",[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=6d6f6b73de5038fca51bdbae3f1fb628&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=acee22140ede5e248277b242b57d5d7e&txTime=6a75794b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-city-fc-e6d0e3.webp" group-title="[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 11",[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=d185ae912d4910bd54500ef038926b1d&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-560690_lsd.m3u8?txSecret=2ac879c90db34847986c22d4db99bd67&txTime=6a75794b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-city-fc-e6d0e3.webp" group-title="[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 12",[LIVE 06:40 WIB 07/08/26] New York City FC vs Santos Laguna | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=6f6ce4bd377758e79ef6709d923c7c01&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-560690_lhd.m3u8?txSecret=ca62f818930abdb1db301ec8eefcb840&txTime=6a75794b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/uruguay-w-728997.webp" group-title="[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 1",[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912106_lsd.m3u8?txSecret=bedb4908b9cd939704ddc319bb717b75&txTime=6a75794b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/uruguay-w-728997.webp" group-title="[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 2",[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912106_lhd.m3u8?txSecret=7104d1b59e7437e3f4a0d81e3aa5dbf4&txTime=6a75794b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/uruguay-w-728997.webp" group-title="[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 3",[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1786065659-0-0-916327f3f702b8b385003a889d98e2b9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/uruguay-w-728997.webp" group-title="[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 4",[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1786065659-0-0-4e65f8dc48a7f8ae1b3f1fc086030e35
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 07:00 WIB 07/08/26] Vitoria vs Athletico-PR | Server 1",[LIVE 07:00 WIB 07/08/26] Vitoria vs Athletico-PR | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.190/hls/PUUUAaAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 1",[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 1 (SVR-BHNS 1)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 1",[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MwcqbgXru3mLgUU5A.m3u8?txSecret=67d1084bf5fbcb6765d3c1a79b44e4b5&txTime=6A75CCFC
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 2",[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 2 (SVR-BHNS 2)
+https://cds78y11d.org/live/sd-6MwcqbgXru3mLgUU5A.m3u8?txSecret=8abebb78006b86f4d66e0809b9e65187&txTime=6A75CE65
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 2",[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/cruz-philadelphia-leagues/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 3",[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 3 (SVR-BHNS 3)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 3",[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/cruz-philadelphia-leagues.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 4",[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 4 (SVR-BHNS 4)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 4",[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.190/hls/RFFFAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 5",[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1786065479-0-0-8aad1b8d62b71e65f57e5a0961813882
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 6",[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1786065479-0-0-d56d27e0da8476647875712c57dbb5fe
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 7",[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=e684d4cd2b6e9b255fda8d5d56e573a3&txTime=6a757897
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 8",[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=447163fad48f1a40de479fbd58107ebb&txTime=6a757897
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 9",[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1786065479-0-0-a87c83404b550c8fdc322e46ab79dd94
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 10",[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1786065479-0-0-a295695fbf415c750cb67af7e89995e2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 11",[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=a766c6c69ffd92666c71e11a3c74322b&txTime=6a757897
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 12",[LIVE 07:00 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=94efcdc55a88d44de2931474561cc408&txTime=6a757897
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/uruguay-w-728997.webp" group-title="[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 1",[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1786065479-0-0-df5eef5ca4248a64e149e03a4381c86c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/uruguay-w-728997.webp" group-title="[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 2",[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1786065479-0-0-90406629eaa3f778e594057ca66de2fb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/uruguay-w-728997.webp" group-title="[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 3",[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912106_lsd.m3u8?txSecret=2e0af202e27f8d0846b5646c85dc464f&txTime=6a757897
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/uruguay-w-728997.webp" group-title="[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 4",[LIVE 07:00 WIB 07/08/26] Uruguay W vs Argentina W | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912106_lhd.m3u8?txSecret=b12716d446f083305563af212b3c247e&txTime=6a757897
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 5",[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=7ce6fc529593fee612d3f37702f58865&txTime=6a75794b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 6",[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=84fdc0d099f3949219d07d6d69451b0a&txTime=6a75794b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 7",[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=d66b4b63072cc03b0eca740d98e1c51b&txTime=6a75794b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 8",[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=59b449f774fa70498e2f58f5816c12bb&txTime=6a75794b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 9",[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1786065659-0-0-405d22c5ac5ba404585f5f6abd8e2b4f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 10",[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1786065659-0-0-ca0d7fa3bd90b05e91ee95e5cb44220b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 11",[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1786065659-0-0-c7dbf8d2ba84db007d2b4da4ecf4df4c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-071811.webp" group-title="[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 12",[LIVE 07:10 WIB 07/08/26] Cruz Azul vs Philadelphia Union | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1786065659-0-0-d8f4a25e2bb3eae881d7920acc12ceee
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chicago-fire-12b7af.png" group-title="[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 1",[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.190/hls/RFFFAAAA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chicago-fire-12b7af.png" group-title="[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 2",[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1786065479-0-0-00e272a4c5d3fec22c4b332d08690a95
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1786065659-0-0-eb4f1030ac3a3843a81d529b10e6d203
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chicago-fire-12b7af.png" group-title="[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 3",[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1786065479-0-0-b1c9663448b2b930f997dc294368b36c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1786065659-0-0-188eb91798fab2d75cef2a5616081158
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chicago-fire-12b7af.png" group-title="[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 4",[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1786065479-0-0-e6f8af1db52b687da9f338b18f6c18ef
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1786065659-0-0-b5edf626e21ac3a36fa0d6026c893a27
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chicago-fire-12b7af.png" group-title="[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 5",[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1786065479-0-0-aca8956ac8101f5a619eb91f1330464d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1786065659-0-0-73724ef8c48decb483f4a61cf73ae7df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chicago-fire-12b7af.png" group-title="[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 6",[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=70b33f1e6deb0000def94b73cdf30a46&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1786065659-0-0-9b26e8142791cec6139aee11d550a08c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chicago-fire-12b7af.png" group-title="[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 7",[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=4a856bbcdcafac1ac907ad2c0ddd3a41&txTime=6a757897
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1786065659-0-0-5fd2327ba3f90917cb7bc60c67bc187a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chicago-fire-12b7af.png" group-title="[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 8",[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1786065479-0-0-0c150593a3390afd4135721b82ed837a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=64d8e432940c5eec1de7082695d43497&txTime=6a75794b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chicago-fire-12b7af.png" group-title="[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 9",[LIVE 07:30 WIB 07/08/26] Chicago Fire vs Necaxa | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1786065479-0-0-c68b73cc8cd72bd5b609de93e03bf4d9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=a87222b7afc8438921ef8a6aa482a212&txTime=6a75794b
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 07:30 WIB 07/08/26] Blooming vs Always Ready | Server 1",[LIVE 07:30 WIB 07/08/26] Blooming vs Always Ready | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.190/hls/PUUUAaAAAAA.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 06:00 WIB 08/08/26] Union de Santa Fe vs Lanus | Server 1",[LIVE 06:00 WIB 08/08/26] Union de Santa Fe vs Lanus | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.190/hls/kddddFA.m3u8
