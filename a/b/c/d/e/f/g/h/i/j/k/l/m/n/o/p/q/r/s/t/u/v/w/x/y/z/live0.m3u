@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 15:28:45 WIB 08-08-2026
-# 🔄 Total Channels: 870
+# ⏰ Latest Updated: 15:35:45 WIB 08-08-2026
+# 🔄 Total Channels: 781
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:28:45 WIB 08-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:35:45 WIB 08-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -128,662 +128,154 @@ https://get.perfecttv.net/mutv.mpd
 http://gvisiontv.channell.my.id/ch/th/sbs.php/.m3u8?ch=truesporthd2
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rGySkbHm/20260806-155101.png" group-title="👍🏻DONASI 085795119808👍🏻",Link M3U8 Tidak Ditemukan
 https://localhost/error.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:30 WIB Mjallby AIF vs Elfsborg | SWE Allsvenskan | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4467124.m3u8?txSecret=40a278299e89f9c3e704faf0479a9b94&txTime=6A789D71
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:30 WIB SC Bregenz vs KSV 1919 | AUT 2.Liga | Gvision TV
+https://play.666666.zip/live/4567693.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:30 WIB SV Austria Salzburg vs First Vienna FC 1894 | AUT 2.Liga | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4567690.m3u8?txSecret=042649c68d82e5977972e01906abf746&txTime=6A789D71
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:30 WIB Angers vs Lorient | INT CF | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4610264.m3u8?txSecret=237b9bc66c492058bf60b0d233fdd618&txTime=6A789D71
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:30 WIB Pogon Szczecin vs Motor Lublin | Ekstraklasa | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4559268.m3u8?txSecret=a86ff3ea625ec2da8fefd123fd175276&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:30 WIB Kisvarda FC vs Ujpest | HUN Fizz Liga | Gvision TV
 https://play.666666.zip/live/4568827.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:10 WIB FC Vitebsk vs Neman Grodno | BLR Premier League | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4502885.m3u8?txSecret=8867dd6302f8085ca1552485d0bc7808&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4502885.m3u8?txSecret=709714f94a8d9af4f61c49f920e996b1&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/bolakami-5adec.firebasestorage.app/o/images%2F2a9310c8-00ad-4c7e-96e9-83d4f79ced87.jpg?alt=media&token=74cd50ed-e07d-43c0-bc0e-8cbb7d72cc51" group-title="Live Event: BolaKu",22:00 WIB Manchester United vs Paris Saint Germain PSG | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4541758.m3u8?txSecret=544ef695745bc8a48016a033b84557e9&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4541758.m3u8?txSecret=b65cba72a05afdf5a282b1195059ea0c&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB KaPa vs Ekenas IF Fotboll | FIN Ykkosliiga | Gvision TV
 https://play.666666.zip/live/4477410.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB SJK Akatemia vs PK-35 Vantaa | FIN Ykkosliiga | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4477411.m3u8?txSecret=ca0fc0eb2faf00fcb15a69750afa13be&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4477411.m3u8?txSecret=15379454a5e1686ca9c2a5cae86b0ec0&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB Grazer AK vs SC Austria Lustenau | AUT Bundesliga | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567023.m3u8?txSecret=b48f08325496be7cccd557e0e7c728c3&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4567023.m3u8?txSecret=ef2a90c26f220b9dd690ebf50ecb0ae2&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB Lokomotiv Moscow vs Akron Togliatti | RUS Premier League | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4564119.m3u8?txSecret=da67adcd8e94aa44a396cdd5491550e5&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4564119.m3u8?txSecret=a1c52a3bbbfd691230b5d0a8a5ee57d1&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB Torpedo Moskva vs FC Sochi | RUS 1st League | Gvision TV
 https://play.666666.zip/live/4576451.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB Rennes vs Brentford | INT CF | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4594039.m3u8?txSecret=741d443d8b9da193c55864d831e3cabe&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB Stuttgart vs Everton | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4594035.m3u8?txSecret=dfbb09fd15e2bc3f0266f2eccc615ea2&txTime=6A789C09
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB Mainz vs Paris FC | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4605646.m3u8?txSecret=672c52cec894d77b00f4e222068e20d6&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4594035.m3u8?txSecret=b2657c605a624ddc5a5255c3e98b9f8e&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB Schalke 04 vs Atalanta | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4610265.m3u8?txSecret=97ccfc63595805d2afbefb65304b5623&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4610265.m3u8?txSecret=79aa2110784c95fb29de416fac7273d1&txTime=6A789D71
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB Mainz vs Paris FC | INT CF | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4605646.m3u8?txSecret=d2ca49b6bd80170001a77f27ca8721b1&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB FC Bukovyna Chernivtsi vs Obolon Kyiv | UKR Premier League | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4569627.m3u8?txSecret=117ebb78033e06a2dbc7cfc92cdc8c50&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4569627.m3u8?txSecret=30335a118f8e95ca4fcac535db902242&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB Teplice vs Plzen | CZE Chance Liga | Gvision TV
 https://play.666666.zip/live/4568779.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB FK Kaspyi Aktau vs Ulytau Zhezkazgan | KAZ Premier League | Gvision TV
 https://play.666666.zip/live/4507303.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",22:00 WIB Nasaf Qarshi vs FK Kokand 1912 | UZB Super League | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4488102.m3u8?txSecret=917feacbc258477c40b559bd1b4f7590&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/bolakami-5adec.firebasestorage.app/o/images%2F63253b73-accb-4ad9-9cfb-928a56c4713a.jpg?alt=media&token=a885e180-e967-40fc-8328-5cf11534c3c8" group-title="Live Event: BolaKu",21:30 WIB Maritimo vs Casa Pia AC | Liga Portugal | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4578155.m3u8?txSecret=7e73952fb4243ca03a8a690659651880&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4578155.m3u8?txSecret=d8f4ffb5f620287604993675b5471932&txTime=6A789D71
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/bolakami-5adec.firebasestorage.app/o/images%2Ff89eda5b-244c-4aec-858c-0e1a4a9bf471.jpg?alt=media&token=3c842a76-c627-40b8-9061-8354dca05c36" group-title="Live Event: BolaKu",21:30 WIB NEC Nijmegen vs SC Telstar | NED Eredivisie | Gvision TV
+https://play.666666.zip/live/4552148.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/bolakami-5adec.firebasestorage.app/o/images%2Fdc69f856-306e-438b-9f43-c2ada9be21e6.jpg?alt=media&token=3abd06d4-f081-4392-9011-5929dfdb6f76" group-title="Live Event: BolaKu",21:00 WIB Spurs vs Getafe | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4578494.m3u8?txSecret=bd3b329f9b4e9cba3c670a815118cf69&txTime=6A789C09
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Saint Mirren vs Saint Johnstone | SCO Premiership | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4557563.m3u8?txSecret=7be7c886754b1bdbc85a3ce3c3d0cac4&txTime=6A789C09
+https://play.666666.zip/live/4578494.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Dundee vs Aberdeen | SCO Premiership | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4557560.m3u8?txSecret=e10138fdad2b31c63974c1e7d9b91b39&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4557560.m3u8?txSecret=255dae1b1c1900a475f12c09eb18abfd&txTime=6A789D71
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Saint Mirren vs Saint Johnstone | SCO Premiership | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4557563.m3u8?txSecret=b37b4bf248994fabcf354ad00f12d0b4&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Viking vs Sarpsborg 08 | NOR Eliteserien | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4467606.m3u8?txSecret=99e54fc5c679a13b5cd988bbc9f493f8&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4467606.m3u8?txSecret=4bd77578fa4da3c332d23e28342b4f9d&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Stabaek vs Lyn Oslo | NOR 1.Divisjon | Gvision TV
 https://play.666666.zip/live/4467891.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Hobro vs AB Gladsaxe | DEN 1st Division | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4553454.m3u8?txSecret=d3eb7a33a4d7f850f47657dbb87ee532&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4553454.m3u8?txSecret=10731e7924070b253f0460fd9ddffc15&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB FC Pari Nizhniy Novgorod vs Neftekhimik Nizhnekamsk | RUS 1st League | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4576447.m3u8?txSecret=981028a88adf01e4cb6c5667f7791f38&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4576447.m3u8?txSecret=338f0b9a1f95c36558e446fff772707b&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Ipswich vs Vallecano | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4609931.m3u8?txSecret=30171e39b844ca1a43f84b5c33f14027&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4609931.m3u8?txSecret=d7d0bdce1943d052ced3fe9becf5a9d4&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Brighton vs AS Roma | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4609930.m3u8?txSecret=3e8cf25653824b3ae2f4202119a7a114&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4609930.m3u8?txSecret=ac35fa77adff5ad3c70421df3aaef7c2&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Bandirmaspor vs Istanbulspor | TUR First League | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4583487.m3u8?txSecret=775c025b0b276d242f4ac6941491582e&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4583487.m3u8?txSecret=c93f0ae8c2ef93e75be453883f738b3e&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Central Espanol vs Club Atletico Progreso | URU Primera Division | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4610339.m3u8?txSecret=cc75c1dae58030b2751ffe9abaaf5f43&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4610339.m3u8?txSecret=fb7b8f535ad495afcf9b83012019e711&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Neftchi Fergana vs Qizilqum Zarafshon | UZB Super League | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4488103.m3u8?txSecret=e0b5246c1efc844e365206a25cb3ee6f&txTime=6A789C09
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Gillingham vs Luton Town | EFL Cup | Gvision TV
-https://play.666666.zip/live/4567193.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Burton vs Blackburn Rovers | EFL Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567185.m3u8?txSecret=a48b1c18e76b20db5fcbf7ed10bc0a29&txTime=6A789C09
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Cardiff City vs Swindon Town | EFL Cup | Gvision TV
-https://play.666666.zip/live/4567187.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4488103.m3u8?txSecret=d30cb80d6c54d7d29c815259e79468aa&txTime=6A789D71
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Bromley vs Reading | EFL Cup | Gvision TV
+https://play.666666.zip/live/4567183.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Burnley vs Notts County | EFL Cup | Gvision TV
 https://play.666666.zip/live/4567184.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Grimsby Town vs Blackpool | EFL Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567194.m3u8?txSecret=d89feafbfae7484c435f86630510da39&txTime=6A789C09
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Fleetwood Town vs Chesterfield | EFL Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567192.m3u8?txSecret=b2f38ebdd5a51e76d0c46f9e328640b3&txTime=6A789C09
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Bromley vs Reading | EFL Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567183.m3u8?txSecret=e6b3e8b61baeef4800de5f045d18fec8&txTime=6A789C09
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Derby County vs Lincoln City | EFL Cup | Gvision TV
-https://play.666666.zip/live/4567191.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Burton vs Blackburn Rovers | EFL Cup | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4567185.m3u8?txSecret=66b69fa435bf6efaaf7fc6d95c415a78&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Crewe Alexandra vs Accrington Stanley | EFL Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567190.m3u8?txSecret=2937344f7e98c917db43bf96b1a8145b&txTime=6A789C09
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Barnsley vs Wigan Athletic | EFL Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567180.m3u8?txSecret=96c000e4be9a72fc602f27cdd1c065da&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4567190.m3u8?txSecret=aa364ba1c02b89ba43fa8831a7697555&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Bristol Rovers vs Peterborough United | EFL Cup | Gvision TV
 https://play.666666.zip/live/4567182.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB AFC Wimbledon vs Newport County | EFL Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567179.m3u8?txSecret=ecb82c0e6cf1ec2c724d9cae742da495&txTime=6A789C09
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Sheffield Wednesday vs Bolton Wanderers | EFL Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567206.m3u8?txSecret=93513f4e312127ae5f9c66efd284036c&txTime=6A789C09
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Grimsby Town vs Blackpool | EFL Cup | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4567194.m3u8?txSecret=988407db7afa75477a4c00f791c93b05&txTime=6A789D71
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Derby County vs Lincoln City | EFL Cup | Gvision TV
+https://play.666666.zip/live/4567191.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Leyton Orient vs Oxford United | EFL Cup | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4567196.m3u8?txSecret=16fa8623dd7229112c008c1959dfe0a5&txTime=6A789D71
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Gillingham vs Luton Town | EFL Cup | Gvision TV
+https://play.666666.zip/live/4567193.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Leicester vs Northampton Town | EFL Cup | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4567195.m3u8?txSecret=94d3b580ab87611d95fe6c872d96430e&txTime=6A789D71
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Fleetwood Town vs Chesterfield | EFL Cup | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4567192.m3u8?txSecret=3ad06a43fa01cc3436620197505df9b0&txTime=6A789D71
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Barnsley vs Wigan Athletic | EFL Cup | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4567180.m3u8?txSecret=26ee8638cce1b69139ecbb5ecc9309c1&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Swansea City vs Birmingham City | EFL Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567209.m3u8?txSecret=8563d8b1cbae33deff6f01774cba88ef&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4567209.m3u8?txSecret=b12c2e82ca02ec1bfffa262ff1904d3e&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Watford vs Crawley Town | EFL Cup | Gvision TV
 https://play.666666.zip/live/4609035.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Salford City vs Shrewsbury Town | EFL Cup | Gvision TV
+https://play.666666.zip/live/4567205.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Sheffield Wednesday vs Bolton Wanderers | EFL Cup | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4567206.m3u8?txSecret=f4af63e1a2497fa14709b9565de2a552&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Stockport County vs Doncaster Rovers | EFL Cup | Gvision TV
 https://play.666666.zip/live/4567207.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Stoke City vs Oldham Athletic | EFL Cup | Gvision TV
 https://play.666666.zip/live/4567208.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB West Ham vs Portsmouth | EFL Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567210.m3u8?txSecret=c42d3777f6938f645310745c272eeca9&txTime=6A789C09
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Salford City vs Shrewsbury Town | EFL Cup | Gvision TV
-https://play.666666.zip/live/4567205.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4567210.m3u8?txSecret=f70710abe5ad6ce615c905f25be225cb&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Preston North End vs Huddersfield Town | EFL Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567202.m3u8?txSecret=72e0e50802fde3c5e1cca8f93b68f060&txTime=6A789C09
+https://pul-tenm.gkykp.com/live/sd-1-4567202.m3u8?txSecret=41d946a12e406ce05d15b5ef3607cfb3&txTime=6A789D71
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Bradford City vs Rochdale | EFL Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4607400.m3u8?txSecret=d4679db06f451685021b3b78eb086a9a&txTime=6A789C09
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Leyton Orient vs Oxford United | EFL Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567196.m3u8?txSecret=ad2d60b5dd9655c19e30d7919c0b6ce0&txTime=6A789C09
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Leicester vs Northampton Town | EFL Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567195.m3u8?txSecret=5f226780986dc181cb7599c9139dbc36&txTime=6A789C09
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",20:30 WIB Bayer Leverkusen vs Sevilla | INT CF | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4609927.m3u8?txSecret=21abde4b0e62930ac0f2d8cb97198017&txTime=6A789C09
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",20:30 WIB Puszcza Niepolomice vs Odra Opole | POL Liga 1 | Gvision TV
-https://play.666666.zip/live/4560273.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",20:30 WIB Miedz Legnica vs Pogon Grodzisk Mazowiecki | POL Liga 1 | Gvision TV
-https://play.666666.zip/live/4560268.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/afl.png" group-title="live event: fawa",[AFL Aussie Rules] Adelaide Crows vs Richmond Tigers Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/HLLLA.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2261.png" group-title="live event: fawa",[ASEAN Championship] Malaysia vs Philippines Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/gpppaa.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2261.png" group-title="live event: fawa",[ASEAN Championship] Thailand vs Myanmar Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/gpppaaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Calcio Italia] Juventus vs Inter Milan Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ea62e4c-d750-4919-9fe8-42b03c59ef72/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Calcio Italia] Juventus vs Inter Milan 1 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/GGGG.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Calcio Italia] Juventus vs Inter Milan 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.jxa76.com/live/sd-6Mwe5HawpbLGsDVigB_540p.m3u8?txSecret=3220d8270478cbc5dc7901a43c7ba58d&txTime=19FE25B7739
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2350.png" group-title="live event: fawa",[China Super League] Dalian Yingbo vs Liaoning Tieren Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/kvvv.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2350.png" group-title="live event: fawa",[China Super League] Qingdao Hainiu vs Shanghai Shenhua Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/UAAAQQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2350.png" group-title="live event: fawa",[China Super League] Yunnan Yukun vs Chengdu Rongcheng Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/kvvvda.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2350.png" group-title="live event: fawa",[China Super League] Zhejiang Professional vs Wuhan Three Towns Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/kvvvd.m3u8
-#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/04/The_Hundred_Logo.png" group-title="live event: fawa",[Cricket The Hundred] MI London W vs Trent Rockets W Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/HLLLAAA.m3u8
-#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/04/The_Hundred_Logo.png" group-title="live event: fawa",[Cricket The Hundred] MI London vs Trent Rockets Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/HLLLAAA.m3u8
-#EXTINF:-1 tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Danish1stDivision-alternate.vresize.500.500.medium.0.png" group-title="live event: fawa",[Denmark Division 1] Aarhus Fremad vs Koge Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/kvvvdaa.m3u8
-#EXTINF:-1 tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Danish1stDivision-alternate.vresize.500.500.medium.0.png" group-title="live event: fawa",[Denmark Division 1] Hobro vs AB Copenhagen Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/bnnn.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] AFC Wimbledon vs Newport Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/LLLLAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] AFC Wimbledon vs Newport 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/LLLLAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Barnsley vs Wigan Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/hrrr.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Barnsley vs Wigan 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/hrrr.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Bradford City vs Rochdale Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/FAFAFA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Bradford City vs Rochdale 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/FAFAFA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Bristol Rovers vs Peterborough Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/LLLLAAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Bristol Rovers vs Peterborough 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/LLLLAAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Bromley vs Reading Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/hrrra.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Bromley vs Reading 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/hrrra.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Burnley vs Notts County Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/FAFAFAZ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Burnley vs Notts County 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/FAFAFAZ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Burton vs Blackburn Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/SIII.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Burton vs Blackburn 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/SIII.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Cambridge Utd vs Barnet Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/ijjjaaaA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Cambridge Utd vs Barnet 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.jxa76.com/live/sd-6MweaAQFkWPqE5h4n7_540p.m3u8?txSecret=e9705c2f8de285fb8d7f43beba99fc5a&txTime=19FE28C6468
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Cardiff City vs Swindon Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/hrrraa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Cardiff City vs Swindon 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/hrrraa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Crewe vs Accrington Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/FAFAFAZZ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Crewe vs Accrington 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/FAFAFAZZ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Derby vs Lincoln Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/SIIIA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Derby vs Lincoln 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/SIIIA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Fleetwood vs Chesterfield Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/hrrraaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Fleetwood vs Chesterfield 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/hrrraaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Gillingham vs Luton Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/FAFAFAZZZ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Gillingham vs Luton 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/FAFAFAZZZ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Grimsby vs Blackpool Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/SIIIAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Grimsby vs Blackpool 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/SIIIAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Leicester City vs Northampton Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/hrrraaaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Leicester City vs Northampton 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/hrrraaaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Leyton Orient vs Oxford Utd Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/FAFAFAZZZZ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Leyton Orient vs Oxford Utd 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/FAFAFAZZZZ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Norwich City vs MK Dons Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/SIIIAAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Norwich City vs MK Dons 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/SIIIAAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Preston vs Huddersfield 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/RRRRR.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] QPR vs Millwall 1 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/rooo.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] QPR vs Millwall 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.jxa76.com/live/sd-6MweaAR1uSz6yrn1eB_540p.m3u8?txSecret=0ef7e712a627cb8694b1df6637fc3192&txTime=19FE2BDE2B9
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Salford vs Shrewsbury Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/DDDD.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Salford vs Shrewsbury 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/DDDD.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Sheffield Wednesday vs Bolton Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/SIIIAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Sheffield Wednesday vs Bolton 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/SIIIAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Stockport County vs Doncaster 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/hrrraaax.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Stoke City vs Oldham Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/DDDDA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Stoke City vs Oldham 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/DDDDA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Swansea vs Birmingham Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/tpppa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Swansea vs Birmingham 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/tpppa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Watford vs Crawley Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/SIIIAAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] Watford vs Crawley 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.jxa76.com/live/sd-6Mxia8qjJcG4ACTbNT_540p.m3u8?txSecret=603061b62de469e01d6d9917102e9b5e&txTime=19FE2F5E12B
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] West Ham United vs Portsmouth Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/DDDDAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="live event: fawa",[English EFL Cup] West Ham United vs Portsmouth 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/DDDDAA.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rugbyleaguefootball/images/c/c4/SuperLeagueLogoStacked.png/revision/latest/scale-to-width-down/1200" group-title="live event: fawa",[English Rugby Super League] Huddersfield vs Catalans Dragons Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/roooaaaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="live event: fawa",[Friendly Match] Bayer Leverkusen vs Sevilla Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/roooaaaaaaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="live event: fawa",[Friendly Match] Brighton-Hove Albion vs AS Roma Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/LLLLAAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="live event: fawa",[Friendly Match] Chelsea vs AC Milan Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/ijjjaaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="live event: fawa",[Friendly Match] Chelsea vs AC Milan 1 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/ijjjaaax.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="live event: fawa",[Friendly Match] Chelsea vs AC Milan 2 HD Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.jxa76.com/live/sd-6MwdLFVM7Qf8CkzCC3_540p.m3u8?txSecret=4ddc2063cd8a7484ea6f6998dd5a877b&txTime=19FE28B4C05
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="live event: fawa",[Friendly Match] Eintracht Frankfurt vs Hull City Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/roooaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="live event: fawa",[Friendly Match] Eintracht Frankfurt vs Hull City 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.jxa76.com/live/sd-6MxiZutAuEMwtvCeRy_540p.m3u8?txSecret=c52b78d63cea054dd0eb66e4e467751e&txTime=19FE2DD4C88
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="live event: fawa",[Friendly Match] Hamburger SV vs Lille Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/roooaaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="live event: fawa",[Friendly Match] Ipswich Town vs Rayo Vallecano Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/frrraaaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="live event: fawa",[Friendly Match] Leeds United vs RB Leipzig Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/roooa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="live event: fawa",[Friendly Match] Lens vs Sunderland Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/iiiii.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="live event: fawa",[Friendly Match] Tottenham Hotspur vs Getafe Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/bnnnAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/6c343e57acf501f4df3502d7ec646897.png" group-title="live event: fawa",[German 2 Bundesliga] Darmstadt vs Holstein Kiel Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/UAAAQQQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/6c343e57acf501f4df3502d7ec646897.png" group-title="live event: fawa",[German 2 Bundesliga] Heidenheim vs VfL Osnabruck Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/UUUM.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/6c343e57acf501f4df3502d7ec646897.png" group-title="live event: fawa",[German 2 Bundesliga] Karlsruher SC vs Arminia Bielefeld Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/UUUMQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/6c343e57acf501f4df3502d7ec646897.png" group-title="live event: fawa",[German 2 Bundesliga] Magdeburg vs Braunschweig Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/UUUMQQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/9f4f2e8370377b6214b4103003196de7.png" group-title="live event: fawa",[German 3 liga] Duisburg vs Meppen Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/kvvvdaaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/9f4f2e8370377b6214b4103003196de7.png" group-title="live event: fawa",[German 3 liga] Ingolstadt vs Wurzburger Kickers Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/kvvvdaaaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/9f4f2e8370377b6214b4103003196de7.png" group-title="live event: fawa",[German 3 liga] TSV Havelse vs Stuttgart II Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/kvvvdaaaaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/9f4f2e8370377b6214b4103003196de7.png" group-title="live event: fawa",[German 3 liga] Viktoria Koln vs Regensburg Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/ijjj.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/9f4f2e8370377b6214b4103003196de7.png" group-title="live event: fawa",[German 3 liga] Wehen vs Preussen Munster Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/ijjja.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="live event: fawa",[Golf LPGA] Golf LPGA PIF London Championship Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/OORRRA.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="live event: fawa",[Golf PGA] Golf PGA Wyndham Championship Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/OORRR.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Japan J League] Avispa Fukuoka vs Vissel Kobe Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/HHHH.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Japan J League] Cerezo Osaka vs Okayama Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/HHHHA.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Japan J League] FC Tokyo vs Machida Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/HHHHAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Japan J League] Kashiwa Reysol vs Mito Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/HHHHAAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Japan J League] Nagoya Grampus vs Shimizu S-Pulse Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/HHHHAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Japan J League] Sanfrecce Hiroshima vs Chiba Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/HHHHAAAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/03/MotoGP-Logo-500x281.png" group-title="live event: fawa",[MotoGP] MotoGP Grand Prix of Great Britain Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.194/hls/AVVVV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[NRL] South Sydney Rabbitohs vs Parramatta Eels Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/HLLLAA.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/13.png" group-title="live event: fawa",[Norway Eliteserien] Valerenga vs Bodo Glimt Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/ijjjaa.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/13.png" group-title="live event: fawa",[Norway Eliteserien] Viking vs Sarpsborg 08 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/bnnnA.m3u8
-#EXTINF:-1 tvg-logo="https://www.fotball.no/imagevault/publishedmedia/tv0fegz06hf1g7x0s7xu/OBOS-ligaen-logo.png" group-title="live event: fawa",[Norway OBOS-ligaen] Stabaek vs Lyn Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/frrr.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/362e31efdd0dad03b00858f4fb0901b5.png" group-title="live event: fawa",[Poland Ekstraklasa] Radomiak Radom vs Gornik Zabrze Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/ijjjaaaAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Rugby Friendly] Japan vs Australia Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/HHHHAAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/106.png" group-title="live event: fawa",[Russia Premier League] Krylya Sovetov vs Baltika Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/ijjjaaaAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/b9e0d222d2ea4e8749bbeeaef2b686f3.webp" group-title="live event: fawa",[SA Rugby Currie Cup] Bulls vs Pumas Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/roooaaaaa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/b9e0d222d2ea4e8749bbeeaef2b686f3.webp" group-title="live event: fawa",[SA Rugby Currie Cup] Griquas vs Lions Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.190/hls/UUUMQQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/e1a8b0c2a85a16494bcee4a3422ba514.png" group-title="live event: fawa",[Scottish Championship] Arbroath vs Inverness Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/LLLLA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/e1a8b0c2a85a16494bcee4a3422ba514.png" group-title="live event: fawa",[Scottish Championship] Dunfermline vs Ayr United Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/frrraa.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/e1a8b0c2a85a16494bcee4a3422ba514.png" group-title="live event: fawa",[Scottish Championship] Queens Park vs Raith Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/bnnnAA.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/e1a8b0c2a85a16494bcee4a3422ba514.png" group-title="live event: fawa",[Scottish Championship] Stenhousemuir vs Morton Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.193/hls/LLLLAA.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/45.png" group-title="live event: fawa",[Scottish Premiership] Dundee FC vs Aberdeen Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/bnnnAAA.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/45.png" group-title="live event: fawa",[Scottish Premiership] Dundee FC vs Aberdeen 2 Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.192/hls/bnnnAAA.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4607400.m3u8?txSecret=0210bb8c2c2561bb6ab6b82a9dc14c9b&txTime=6A789D71
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB AFC Wimbledon vs Newport County | EFL Cup | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4567179.m3u8?txSecret=7b6eec90a884f95bd2934e70f04a4970&txTime=6A789D71
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",21:00 WIB Norwich City vs Milton Keynes Dons | EFL Cup | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4567200.m3u8?txSecret=65446a647b6f488fb3adb183fced7043&txTime=6A789D71
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB Radnicki Nis vs Partizan Belgrade | SER D1 | Gvision TV
+https://play.666666.zip/live/8882998925.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB Jaro vs Vaasa VPS | FIN D1 | Gvision TV
+https://play.666666.zip/live/8882913687.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB Sivasspor vs Erokspor | TFF 1 Lig | Gvision TV
+https://play.666666.zip/live/8883030092.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB Umraniyespor vs Mardin BB | TFF 1 Lig | Gvision TV
+https://play.666666.zip/live/8883030093.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB Lokomotiv Sofia vs CSKA 1948 Sofia | BUL FL | Gvision TV
+https://play.666666.zip/live/8882998448.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB Michalovce vs KFC Komarno | SVK D1 | Gvision TV
+https://play.666666.zip/live/8883003402.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB MFK Ruzomberok vs Sport Podbrezova | SVK D1 | Gvision TV
+https://play.666666.zip/live/8883003403.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB Kauno Zalgiris vs Hegelmann Litauen | TOPLYGA | Gvision TV
+https://play.666666.zip/live/8882994875.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB Start Kristiansand vs Fredrikstad | NOR D1 | Gvision TV
+https://play.666666.zip/live/8882912863.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB SC Covilha vs UD Santarem | POR L3 | Gvision TV
+https://play.666666.zip/live/8883052449.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB Lusitano Evora vs Atletico Clube Purtugal | POR L3 | Gvision TV
+https://play.666666.zip/live/8883052450.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB Lausanne Sports vs Young Boys | SUI SL | Gvision TV
+https://play.666666.zip/live/8883000786.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB ACD Virtus Entella vs Carrarese | INT CF | Gvision TV
+https://play.666666.zip/live/8883057003.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB AJ Auxerre vs Troyes | INT CF | Gvision TV
+https://play.666666.zip/live/8883057009.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB Cittadella vs Luparense FC | INT CF | Gvision TV
+https://play.666666.zip/live/8883057013.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 23:00 WIB LHospitalet vs CF Badalona | INT CF | Gvision TV
+https://play.666666.zip/live/8883057711.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
