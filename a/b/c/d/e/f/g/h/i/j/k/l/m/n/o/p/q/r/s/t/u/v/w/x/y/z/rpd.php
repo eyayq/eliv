@@ -1,27 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [23.27 WIB 13/08/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [23.34 WIB 13/08/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/urartu-e3603a.webp" group-title="[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 1",[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/uratu-syunik-armprem/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/urartu-e3603a.webp" group-title="[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 2",[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/uratu-syunik-armprem.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/urartu-e3603a.webp" group-title="[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 3",[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.190/hls/SSSSAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/urartu-e3603a.webp" group-title="[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 4",[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-622093_lsd.m3u8?txSecret=c0ae8baef17c0f7daed8a76d791d5ce2&txTime=6a7e434b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/urartu-e3603a.webp" group-title="[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 5",[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=cf9a4954462f9bf1ec18641c657ea40f&txTime=6a7e434b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/urartu-e3603a.webp" group-title="[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 6",[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1786641659-0-0-dc6fd85dd27affe0852b61c317ea674a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/urartu-e3603a.webp" group-title="[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 7",[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1786641659-0-0-f4bf49af352bf0a99002146837b66cc4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tobol-kostanai-541051.png" group-title="[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 1",[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/tobol-partizan-c3qual/index.m3u8
@@ -35,41 +14,62 @@ http://193.47.62.191/hls/BYYY.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://live2.jxa76.com/live/sd-6MxiZdbCfe1ak43YFV_540p.m3u8?txSecret=d25c15a7cc2e415b471b86bdfa47e1df&txTime=19FFCFA8449
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tobol-kostanai-541051.png" group-title="[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 5",[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-9912015_lsd.m3u8?txSecret=9a42f4f9fb057df703278115f276acf5&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1786642199-0-0-abe45e7c0985d31595da286ee588927d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tobol-kostanai-541051.png" group-title="[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 6",[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-9912015_lhd.m3u8?txSecret=d99e3404c40ae0c7c264d059ed2af930&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1786642199-0-0-b604ccf0cd97b941e2a70e15928dca05
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tobol-kostanai-541051.png" group-title="[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 7",[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1786641659-0-0-de391117cf50355febe880da3df7e26a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912015_lsd.m3u8?txSecret=5cb4404bf1ba47944b0c6bafb4240020&txTime=6a7e4567
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tobol-kostanai-541051.png" group-title="[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 8",[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1786641659-0-0-a082455c31df35de719637d402654bbc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912015_lhd.m3u8?txSecret=b3369eac6fcaf4e6cccdd9bbf40b1361&txTime=6a7e4567
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tobol-kostanai-541051.png" group-title="[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 9",[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=defeaa5b60754a8202ff4fcddf7b4136&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1786642199-0-0-eec00d2242ed5d6edc5e10ff84273579
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tobol-kostanai-541051.png" group-title="[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 10",[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=bc5d44e0b2d2c3c9906c140aa584eaea&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1786642199-0-0-29b32f5e1356366b2b71e0cc672ea88c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tobol-kostanai-541051.png" group-title="[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 11",[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1786641659-0-0-7c868575291b0430af6077479273d973
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=2303ed0147d84ce2562edd69c912f002&txTime=6a7e4567
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tobol-kostanai-541051.png" group-title="[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 12",[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1786641659-0-0-91f86af5896055f6711a8cb428d18245
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=84aa25df041084a2f5ce41f3d3d38a73&txTime=6a7e4567
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tobol-kostanai-541051.png" group-title="[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 13",[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1786641659-0-0-d5f7aef03eddfcf99d40a3df879993dd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=a2165ee75cab81cbf1427fb3a1457ce0&txTime=6a7e4567
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tobol-kostanai-541051.png" group-title="[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 14",[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1786641659-0-0-ba5c9a5bb2998faf98267c4e5d905ea4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=004e2d1ca695753432c0d2461bc15cd4&txTime=6a7e4567
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tobol-kostanai-541051.png" group-title="[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 15",[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=4aa06eb2b639733fba8f12944bd09388&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1786642199-0-0-b319f742d71ac34e02abc56cd7cecb7a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tobol-kostanai-541051.png" group-title="[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 16",[LIVE 22:00 WIB 13/08/26] Tobol Kostanai vs Partizan Belgrade | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=d14ab162ae78226609317a801057e6b8&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1786642199-0-0-0584fd1df6aca124eb4ccba4ba5e06d1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/urartu-e3603a.webp" group-title="[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 1",[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/uratu-syunik-armprem/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/urartu-e3603a.webp" group-title="[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 2",[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/uratu-syunik-armprem.flv
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/urartu-e3603a.webp" group-title="[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 3",[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.190/hls/SSSSAA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/urartu-e3603a.webp" group-title="[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 4",[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-622093_lsd.m3u8?txSecret=322685a248e2a24db074e1bd0d8cd89c&txTime=6a7e4567
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/urartu-e3603a.webp" group-title="[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 5",[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=0eb256367a62b9ca016fbcbc2bf35349&txTime=6a7e4567
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/urartu-e3603a.webp" group-title="[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 6",[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1786642199-0-0-1b9f56308c3ad7fa2191a92f5fd8a0d4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/urartu-e3603a.webp" group-title="[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 7",[LIVE 22:00 WIB 13/08/26] Urartu vs FC Syunik | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1786642199-0-0-284401fd8da5ed26510b3ec8b023e935
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/buxoro-fk-caf48c.webp" group-title="[LIVE 22:30 WIB 13/08/26] Buxoro FK vs FC OKMK Olmaliq | Server 1",[LIVE 22:30 WIB 13/08/26] Buxoro FK vs FC OKMK Olmaliq | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/buxoro-okmk-uzbsup/index.m3u8
@@ -80,59 +80,26 @@ https://flv.lauthaitv.cc/live/buxoro-okmk-uzbsup.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.190/hls/SSSSAAA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/buxoro-fk-caf48c.webp" group-title="[LIVE 22:30 WIB 13/08/26] Buxoro FK vs FC OKMK Olmaliq | Server 4",[LIVE 22:30 WIB 13/08/26] Buxoro FK vs FC OKMK Olmaliq | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=8e1dfa66fe4d8fb0421728f709a97c54&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=bf5a58d5c9b45f5a6f20545155190258&txTime=6a7e4567
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/buxoro-fk-caf48c.webp" group-title="[LIVE 22:30 WIB 13/08/26] Buxoro FK vs FC OKMK Olmaliq | Server 5",[LIVE 22:30 WIB 13/08/26] Buxoro FK vs FC OKMK Olmaliq | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=e0f6100166759bebb75622ce95026316&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=696fa3ba191b76307960624faa4f3fdf&txTime=6a7e4567
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/buxoro-fk-caf48c.webp" group-title="[LIVE 22:30 WIB 13/08/26] Buxoro FK vs FC OKMK Olmaliq | Server 6",[LIVE 22:30 WIB 13/08/26] Buxoro FK vs FC OKMK Olmaliq | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1786641659-0-0-dd7dfb783dddd8fdadcab755f98c8a6b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1786642199-0-0-8bcd41e2db94b6e8bfb882e7f4e2daf7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/buxoro-fk-caf48c.webp" group-title="[LIVE 22:30 WIB 13/08/26] Buxoro FK vs FC OKMK Olmaliq | Server 7",[LIVE 22:30 WIB 13/08/26] Buxoro FK vs FC OKMK Olmaliq | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1786641659-0-0-79ae2d9c2973085dede3d261f78ad67c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 1",[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1786641659-0-0-33633843f319639d9defcd1ede0a4cd8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 2",[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1786641659-0-0-6d5feafa8a3dff86ab2be1c82e48b9cb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 3",[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1786641659-0-0-5b9a5c62cc8c484953c687afeb762492
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 4",[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1786641659-0-0-576f5042c2f59d4f0e488ddc7736aef0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ilves-tampere-584ee3.webp" group-title="[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 1",[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MxiZdbCLEfZ8R4Knt.m3u8?txSecret=b3175b15185a0911633cef3e89bb6308&txTime=6A7E9864
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ilves-tampere-584ee3.webp" group-title="[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 2",[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.191/hls/BYYYAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ilves-tampere-584ee3.webp" group-title="[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 3",[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live2.jxa76.com/live/sd-6MxiZdbCLEfZ8R4KiT_540p.m3u8?txSecret=f770b08288f97dfc59b6e44db9e4afec&txTime=19FFD272B0E
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ilves-tampere-584ee3.webp" group-title="[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 4",[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1786641659-0-0-3a9f9565af38800d5eed859cdb521d79
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ilves-tampere-584ee3.webp" group-title="[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 5",[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1786641659-0-0-3d433c5cc935114eb107645a7411868b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ilves-tampere-584ee3.webp" group-title="[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 6",[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-620649_lsd.m3u8?auth_key=1786641659-0-0-e74908083e6e31233eb7f89db47939af
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ilves-tampere-584ee3.webp" group-title="[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 7",[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-620649_lhd.m3u8?auth_key=1786641659-0-0-6436a0a01fb0ef6c153c96df6f039497
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1786642199-0-0-3bd3a39514300500bf0c8d3ecb6b965a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 1",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/qarabag-kyiv-c3qual/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MxiZdbCAcPW4ZDYqA.m3u8?txSecret=9d3ccc040c53523b76dd30baf56541e3&txTime=6A7E99CD
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 2",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/qarabag-kyiv-c3qual.flv
+https://hls.lauthaitv.cc/live/qarabag-kyiv-c3qual/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 3",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MxiZdbCAcPW4ZDYqA.m3u8?txSecret=289d73ac71caa356bd3b4229da9eea89&txTime=6A7E9864
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/qarabag-kyiv-c3qual.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 4",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.191/hls/BYYYAAA.m3u8
@@ -140,50 +107,86 @@ http://193.47.62.191/hls/BYYYAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://live2.jxa76.com/live/sd-6MxiZdbCAcPW4ZDYkj_540p.m3u8?txSecret=19ded8b0c77dc46f895ccbb837cf806a&txTime=19FFD2696DB
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 6",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=64ca7367399e575b652af3cdca6374d9&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1786642199-0-0-d55b33b9d119516aa3fcdb3aa4d46d6a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 7",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=b81dd66ad945cd0a2b901fdf6514b69a&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1786642199-0-0-65737ec5880a3837fde2c9f40fe8c789
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 8",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1786641659-0-0-59d94c426a60eb034d2f9254b391c333
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=d0beab17f66a5a714179ea6cc5440cda&txTime=6a7e4567
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 9",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1786641659-0-0-5575c439eeacb49b858d60864333aea1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=9b41c655d76d4a6b26597ccc8360cb42&txTime=6a7e4567
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 10",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1786641659-0-0-c6d7ad2cc206c39acbc29681904925ee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1786642199-0-0-d17354a6d9672ad29f68901b3b4528ce
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 11",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1786641659-0-0-69fa9d0deb66c413307c62cbffe0500a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1786642199-0-0-0c9fa089e4342ea388e2ec13538177cf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 12",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=3ce3efc05b1619740e81d1f6770e9b14&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=0cbb8b4a3499a433af6c07c5838bb45d&txTime=6a7e4567
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 13",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=674cccc317f8ef27c285752b5ea1ee1a&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=54072f79c4fb80f578c592466a032706&txTime=6a7e4567
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 14",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-620003_lsd.m3u8?txSecret=b9924a0f9eb333af1f9644d50c075803&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1786642199-0-0-1f8ef01124d77d2e47e286a1fbd05089
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 15",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-620003_lhd.m3u8?txSecret=e56ad70d5720eb045e7f123c85e4a6ef&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1786642199-0-0-6365a32d2771c56f0d4ebf2268dcd0e0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 16",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1786641659-0-0-2f4c4e2afd63dc2263ec9b459982284b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-620003_lsd.m3u8?txSecret=4d171ccd21f2c338badeabbe3221db2d&txTime=6a7e4567
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qarabag-6c3845.png" group-title="[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 17",[LIVE 23:00 WIB 13/08/26] Qarabag vs Dynamo Kyiv | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1786641659-0-0-dbd4a5c1fb8bee67212e6185830e3f64
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-620003_lhd.m3u8?txSecret=875a8b5b0f54494a5b6bd65374f9f094&txTime=6a7e4567
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Escaldes | Server 1",[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Escaldes | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MxiZdbCLK4WsNiA6g.m3u8?txSecret=3cd58a2e585fa62e58e5218432e1f5a0&txTime=6A7E9864
+https://cds78y11d.org/live/sd-6MxiZdbCLK4WsNiA6g.m3u8?txSecret=d3941d21aef518899234a9d6c02883e4&txTime=6A7E99CD
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Escaldes | Server 2",[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Escaldes | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.191/hls/BYYYA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Escaldes | Server 3",[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Escaldes | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://live2.jxa76.com/live/sd-6MxiZdbCLK4WsNiA2F_540p.m3u8?txSecret=24ac33f3532c387bb02487da2fc283ad&txTime=19FFD261E7C
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ilves-tampere-584ee3.webp" group-title="[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 1",[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MxiZdbCLEfZ8R4Knt.m3u8?txSecret=705c243c9a70b556787c89346c1db80d&txTime=6A7E99CD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ilves-tampere-584ee3.webp" group-title="[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 2",[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.191/hls/BYYYAA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ilves-tampere-584ee3.webp" group-title="[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 3",[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://live2.jxa76.com/live/sd-6MxiZdbCLEfZ8R4KiT_540p.m3u8?txSecret=f770b08288f97dfc59b6e44db9e4afec&txTime=19FFD272B0E
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ilves-tampere-584ee3.webp" group-title="[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 4",[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1786642199-0-0-7ba619c8eb3331990a4903ab8ee45ec8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ilves-tampere-584ee3.webp" group-title="[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 5",[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1786642199-0-0-1eee1cfe334222205bc5e7d32f831075
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ilves-tampere-584ee3.webp" group-title="[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 6",[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620649_lsd.m3u8?auth_key=1786642199-0-0-ccf5cb51052b6a4356430e623fe3f62f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ilves-tampere-584ee3.webp" group-title="[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 7",[LIVE 23:00 WIB 13/08/26] Ilves Tampere vs Rijeka | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620649_lhd.m3u8?auth_key=1786642199-0-0-6d232a351dc553c736ca05778e111efc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 1",[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1786642199-0-0-0ddfd68da7cfd427b7c831821e429fd3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 2",[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1786642199-0-0-47b77c7f13e4c5d3d42f85373aa72e30
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 3",[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1786642199-0-0-e427c06dd8c367856f248e8b5e6d7039
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-flora-tallinn-d4ed47.webp" group-title="[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 4",[LIVE 23:00 WIB 13/08/26] FC Flora Tallinn vs Inter Club d'Escaldes | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1786642199-0-0-bdbfcf3e29021f6a0d2f5b0d785dbca8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/abha-58bee9.webp" group-title="[LIVE 23:15 WIB 13/08/26] Abha vs Al Hazm | Server 1",[LIVE 23:15 WIB 13/08/26] Abha vs Al Hazm | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MwarmByq1ZyZUU73J.m3u8?txSecret=26187d3b929bff1e6ccba15ae41377df&txTime=6A7E99CD
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/abha-58bee9.webp" group-title="[LIVE 23:15 WIB 13/08/26] Abha vs Al Hazem | Server 1",[LIVE 23:15 WIB 13/08/26] Abha vs Al Hazem | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/abha-hazem/index.m3u8
@@ -193,21 +196,27 @@ https://flv.lauthaitv.cc/live/abha-hazem.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/abha-58bee9.webp" group-title="[LIVE 23:15 WIB 13/08/26] Abha vs Al Hazem | Server 3",[LIVE 23:15 WIB 13/08/26] Abha vs Al Hazem | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.190/hls/SSSSAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/abha-58bee9.webp" group-title="[LIVE 23:15 WIB 13/08/26] Abha vs Al Hazm | Server 1",[LIVE 23:15 WIB 13/08/26] Abha vs Al Hazm | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MwarmByq1ZyZUU73J.m3u8?txSecret=16805c5c59a0097c8149bc75c7ca7e67&txTime=6A7E9864
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.webp" group-title="[LIVE 23:30 WIB 13/08/26] Rigas Futbola Skola vs FK Jablonec | Server 1",[LIVE 23:30 WIB 13/08/26] Rigas Futbola Skola vs FK Jablonec | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=9f93342e3839820f638ed364082ec45f&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MxiZdbCAgnToWsP8x.m3u8?txSecret=7f82c81492126f3061928c98301761b6&txTime=6A7E99CD
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.webp" group-title="[LIVE 23:30 WIB 13/08/26] Rigas Futbola Skola vs FK Jablonec | Server 2",[LIVE 23:30 WIB 13/08/26] Rigas Futbola Skola vs FK Jablonec | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=8b594ad2523ace6ec2359e14f9015b69&txTime=6a7e434b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=b9efdda8f6ddb31bcc2d65c817d7b185&txTime=6a7e4413
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.webp" group-title="[LIVE 23:30 WIB 13/08/26] Rigas Futbola Skola vs FK Jablonec | Server 3",[LIVE 23:30 WIB 13/08/26] Rigas Futbola Skola vs FK Jablonec | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1786641659-0-0-6221160d1b1054b0bf927c332ce89854
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=437604eb5e765e9ccffc326c38f1d8e6&txTime=6a7e4413
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.webp" group-title="[LIVE 23:30 WIB 13/08/26] Rigas Futbola Skola vs FK Jablonec | Server 4",[LIVE 23:30 WIB 13/08/26] Rigas Futbola Skola vs FK Jablonec | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1786641659-0-0-7503870ad7e689d3f420ea6e42d67f5d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1786642199-0-0-c21faf3523edbef012eb44bf5abc28e4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.webp" group-title="[LIVE 23:30 WIB 13/08/26] Rigas Futbola Skola vs FK Jablonec | Server 5",[LIVE 23:30 WIB 13/08/26] Rigas Futbola Skola vs FK Jablonec | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1786642199-0-0-24665ebe8d380c06365940e194b57190
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 00:30 WIB 14/08/26] RFS vs Jablonec | Server 1",[LIVE 00:30 WIB 14/08/26] RFS vs Jablonec | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.191/hls/BYYYAAAA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 00:30 WIB 14/08/26] RFS vs Jablonec | Server 2",[LIVE 00:30 WIB 14/08/26] RFS vs Jablonec | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://live2.jxa76.com/live/sd-6MxiZdbCAgnToWsP4X_540p.m3u8?txSecret=276f6f3ede3845377613d738d187a2e4&txTime=19FFD3E8473
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 14/08/26] Hammarby vs Rakow | Server 1",[LIVE 01:00 WIB 14/08/26] Hammarby vs Rakow | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.192/hls/TIIIAA.m3u8
