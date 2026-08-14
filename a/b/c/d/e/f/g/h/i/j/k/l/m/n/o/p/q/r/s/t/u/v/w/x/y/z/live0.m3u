@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 21:56:24 WIB 14-08-2026
-# 🔄 Total Channels: 704
+# ⏰ Latest Updated: 22:05:49 WIB 14-08-2026
+# 🔄 Total Channels: 703
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [21:56:24 WIB 14-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [22:05:49 WIB 14-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -68,27 +68,20 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="BILA ANDA MEMBELI ANDA KENA DITIPU",UPDATE PLAYLIST TERBARU ADA DI TELEGRAM
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKF4t5o17n3PkqwRHnpvj5c31aDxX_XLsvXTPjdmYTSg&s=10" group-title="LIVE EVENT",02:00 WIB Wolverhampton Wanderers vs Blackburn Rovers
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",05:00 WIB Boston River vs Danubio FC | URU Primera Division | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4613112.m3u8?txSecret=9f79bc0a634513ca16464b94c9064399&txTime=6A80E1D8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",04:30 WIB Deportivo Recoleta vs 2 De Mayo | PAR Primera Division | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4609069.m3u8?txSecret=5c751c56af740485c1647ab91c280b8c&txTime=6A80DF80
+https://pul-tenm.gkykp.com/live/sd-1-4609069.m3u8?txSecret=863c4e781766e69653b759d1fb78ceed&txTime=6A80E1D8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",04:00 WIB AD Carmelita vs Futbol Consultants Moravia | CRC 2.Liga | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4594537.m3u8?txSecret=74a984a2225114f8fb849d296985cdac&txTime=6A80DF80
+https://pul-tenm.gkykp.com/live/sd-1-4594537.m3u8?txSecret=7c88a14f1ec3ef50adc068b5a8b68f29&txTime=6A80E1D8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",03:30 WIB Atlanta United FC II vs New York Red Bulls B | MLS Next Pro | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4611493.m3u8?txSecret=efcdd1199dc31f37070b74ca520d356c&txTime=6A80DF80
+https://pul-tenm.gkykp.com/live/sd-1-4611493.m3u8?txSecret=2f9f5997e9b5c4e312aa0c4c93e454b8&txTime=6A80E1D8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",03:00 WIB Atletico Grau vs Comerciantes Unidos | PERU Liga 1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4550724.m3u8?txSecret=ba2ee1b04abdcd7586078d19e6ea906f&txTime=6A80DF80
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 05:00 WIB Club Fernando De La Mora vs Benjamin Aceval | PAR D2 | Gvision TV
-https://play.666666.zip/live/8883056558.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 05:00 WIB OSTO Youth Team vs Uniao Sao Joao Youth | BRA CPY | Gvision TV
-https://play.666666.zip/live/8883058237.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 05:00 WIB Boston River vs Danubio FC | URU D1C | Gvision TV
-https://play.666666.zip/live/8883061728.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4550724.m3u8?txSecret=8442e7ef0c7ea4fef1717cc0a9d5ad9b&txTime=6A80E1D8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 05:30 WIB Ponte Preta vs Nautico PE | BRA D2 | Gvision TV
+https://play.666666.zip/live/8882940122.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 05:30 WIB Sao Bernardo vs Botafogo SP | BRA D2 | Gvision TV
+https://play.666666.zip/live/8882940123.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
