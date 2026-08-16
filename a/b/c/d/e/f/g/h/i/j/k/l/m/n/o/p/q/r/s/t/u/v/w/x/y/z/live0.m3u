@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 10:31:30 WIB 16-08-2026
-# 🔄 Total Channels: 746
+# ⏰ Latest Updated: 10:35:22 WIB 16-08-2026
+# 🔄 Total Channels: 766
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:31:30 WIB 16-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:35:22 WIB 16-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -73,53 +73,57 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy252hzAVVnNvHRv4BbSuvcRkctyCi5IqxPgNKnl2X1w&s=10" group-title="LIVE EVENT",16:00 WIB Yokohama FC vs Jubilo Iwata | JPN J2 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4555538.m3u8?txSecret=37e99008f7ec8f6da6016dffa6da8d89&txTime=6A82D3A8
+https://pul-tenm.gkykp.com/live/sd-1-4555538.m3u8?txSecret=8f147734de70fa5d0be851a619217e52&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFn4k-DiB1VPoZMbiiWjT1tpXXaWgppZ8zeAb1yVuV_Q&s=10" group-title="LIVE EVENT",16:00 WIB Nara Club vs Kagoshima United | JPN J3 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4555929.m3u8?txSecret=39f380ef21e45fc5257f6e2587baa7fe&txTime=6A82D3A8
+https://pul-tenm.gkykp.com/live/sd-1-4555929.m3u8?txSecret=6c5b4b25d8dec5dabbfef0b6f41aaa26&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFn4k-DiB1VPoZMbiiWjT1tpXXaWgppZ8zeAb1yVuV_Q&s=10" group-title="LIVE EVENT",16:00 WIB FC Osaka vs Nagano Parceiro | JPN J3 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4555932.m3u8?txSecret=e58cf64d33dcc312e07b20207256110d&txTime=6A82D3A8
+https://pul-tenm.gkykp.com/live/sd-1-4555932.m3u8?txSecret=825295ebaafd04221aef0867af7d6d48&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvQ3dqBHHl1xPepySn-LhHl49c2Fvxj0ksqg-YjfZRsmGFRpmm6ucwb1u4&s=10" group-title="LIVE EVENT",16:00 WIB Live broadcast of the 16th Thai Karate sports competition | T SPORT 7 | Gvision TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
 http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy252hzAVVnNvHRv4BbSuvcRkctyCi5IqxPgNKnl2X1w&s=10" group-title="LIVE EVENT",17:00 WIB Tokushima Vortis vs Sagan Tosu | JPN J2 | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4555540.m3u8?txSecret=f714c5e648c4a7923a0c7eb618b0cbea&txTime=6A82E321
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFn4k-DiB1VPoZMbiiWjT1tpXXaWgppZ8zeAb1yVuV_Q&s=10" group-title="LIVE EVENT",17:00 WIB Matsumoto Yamaga FC vs Reilac Shiga FC | JPN J3 | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4555937.m3u8?txSecret=bb5003b7ef1e3ea00a654328be17e7fd&txTime=6A82E321
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFn4k-DiB1VPoZMbiiWjT1tpXXaWgppZ8zeAb1yVuV_Q&s=10" group-title="LIVE EVENT",17:00 WIB Ehime FC vs Gainare Tottori | JPN J3 | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4555989.m3u8?txSecret=235f485f957923c2433ec5c7b5b0aca4&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:30 WIB Bucheon FC 1995 vs Jeonbuk Hyundai Motors | KOR K1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4480503.m3u8?txSecret=c410e0d4690b3a4f0e3b08fd26348326&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4480503.m3u8?txSecret=8a64ebb8192dfa9d12b7e8b07c1dbbec&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:30 WIB Ulsan HD FC vs Gangwon FC | KOR K1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4480483.m3u8?txSecret=6c889e7c13386687d4d3cacbbb23a99c&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4480483.m3u8?txSecret=89dbf579a0348528043de94483d7fcd6&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:30 WIB Incheon United vs Gimcheon Sangmu FC | KOR K1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4480485.m3u8?txSecret=3e5a13260e05ed01470d29a4513967c2&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4480485.m3u8?txSecret=2060ee42d3028526d5d8649ea2f55893&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:30 WIB Daegu FC vs Chungnam Asan | KOR K2 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4481166.m3u8?txSecret=9c44ab1a5516b12ddfaf0323f5e69d37&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4481166.m3u8?txSecret=46c1e8362a78cec3307e9f909f03b625&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:30 WIB Gimpo FC vs Cheonan City | KOR K2 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4481167.m3u8?txSecret=33bf99727ca894a072bd68657bbd75e3&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4481167.m3u8?txSecret=e4a847e52b817b6d84fd25fca4af8663&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:30 WIB Paju Frontier FC vs Seongnam FC | KOR K2 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4481168.m3u8?txSecret=b6f04b5f02de3fc6f0181b7721027aed&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4481168.m3u8?txSecret=c80075011be5e65e2c454e81bb6c63eb&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:30 WIB Seoul E Land FC vs Ansan Greeners FC | KOR K2 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4481169.m3u8?txSecret=4ba16c0acf27430bec1df57c189f61dc&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4481169.m3u8?txSecret=4355904ae07c0c6a5aec8c55afae440c&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:15 WIB ADO Den Haag vs Groningen | NED Eredivisie | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4552161.m3u8?txSecret=6502957cd00cb0206576e60c9f86c611&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4552161.m3u8?txSecret=a160f7666dfbd146f139bb467700e523&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Portimonense vs Vizela | Liga Portugal 2 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4577859.m3u8?txSecret=eee63e6f542b22920562627ce40b7c5c&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4577859.m3u8?txSecret=ef7d13c3c823b5f28b648809d442c2ac&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Ugyen Academy vs Tensung FC | BHU Premier League | Gvision TV
 https://feijing-xzbforanchor.52kq.top/live/sd-1-4612852.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB LNZ Cherkasy vs Chornomorets Odesa | UKR Premier League | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4569647.m3u8?txSecret=e8d7fd8225b4ac707bd8e2ee44c48117&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4569647.m3u8?txSecret=f70e8ab269cad37af7133405419125af&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Tokushima Vortis vs Sagan Tosu | JPN J2 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4555540.m3u8?txSecret=c1ce53a5521b517b36a1b742c5fd1f63&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4555540.m3u8?txSecret=f714c5e648c4a7923a0c7eb618b0cbea&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Matsumoto Yamaga FC vs Reilac Shiga FC | JPN J3 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4555937.m3u8?txSecret=9b002346467a104036aa2c106b91f94f&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4555937.m3u8?txSecret=bb5003b7ef1e3ea00a654328be17e7fd&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Ehime FC vs Gainare Tottori | JPN J3 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4555989.m3u8?txSecret=33be31af787965e9d74d27982fdc830c&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4555989.m3u8?txSecret=235f485f957923c2433ec5c7b5b0aca4&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB Fenix Mariupol vs Kolos Kovalivka II | UKR First League | Gvision TV
 https://feijing-xzbforanchor.52kq.top/live/sd-1-4589906.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB Yokohama FC vs Jubilo Iwata | JPN J2 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4555538.m3u8?txSecret=458964d972cd87ec317eb6bb11aa6ded&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4555538.m3u8?txSecret=8f147734de70fa5d0be851a619217e52&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB Nara Club vs Kagoshima United | JPN J3 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4555929.m3u8?txSecret=d92a83b4d3cd8a27ac5d8aa613a1123d&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4555929.m3u8?txSecret=6c5b4b25d8dec5dabbfef0b6f41aaa26&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB FC Osaka vs Nagano Parceiro | JPN J3 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4555932.m3u8?txSecret=a1039de06cc6882ea1620eb9ec8b930a&txTime=6A82E230
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",15:30 WIB First Vienna FC 1894 vs FC Liefering | AUT 2.Liga | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4567725.m3u8?txSecret=991300bed66adf1128f3932ff8a6be81&txTime=6A82E230
+https://pul-tenm.gkykp.com/live/sd-1-4555932.m3u8?txSecret=825295ebaafd04221aef0867af7d6d48&txTime=6A82E321
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB IFK Varnamo vs Ostersunds FK | SWE D2 | Gvision TV
 https://play.666666.zip/live/8882914662.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB Zawisza Bydgoszcz SA vs Lechia Zielona Gora | POL D2 | Gvision TV
@@ -132,10 +136,10 @@ https://play.666666.zip/live/8882913497.m3u8
 https://play.666666.zip/live/8882919867.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB FC Stockholm Internazionale vs FC Arlanda | SWE D1 SNN | Gvision TV
 https://play.666666.zip/live/8882920107.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB Ningbo FC U21 vs Henan Football Club U21 | CHA CSL U21 | Gvision TV
-https://play.666666.zip/live/8883018361.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB Beijing Guoan U21 vs Shanghai Port U21 | CHA CSL U21 | Gvision TV
 https://play.666666.zip/live/8883018363.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB Ningbo FC U21 vs Henan Football Club U21 | CHA CSL U21 | Gvision TV
+https://play.666666.zip/live/8883018361.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB VfL Osnabruck U19 vs Fortuna Dusseldorf U19 | GER JB | Gvision TV
 https://play.666666.zip/live/8883052844.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB Zvezda Sint Petersburg vs Dynamo Vologda | RUS D3BW | Gvision TV
@@ -148,10 +152,6 @@ https://play.666666.zip/live/8882951617.m3u8
 https://play.666666.zip/live/8882951618.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB FC Inhulets Petrove vs Nyva Ternopil | UKR D2 | Gvision TV
 https://play.666666.zip/live/8883035618.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 17:30 WIB Pitea IF vs Vasalunds IF | SWE D1 SNN | Gvision TV
-https://play.666666.zip/live/8882920105.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 17:30 WIB Liverpool vs Como | INT CF | Gvision TV
-https://play.666666.zip/live/8883061246.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="live event: fawa",[Argentina Liga Profesional] Talleres Cordoba vs Lanus Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -217,6 +217,106 @@ http://193.47.62.192/hls/UFFFAAAAA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.192/hls/UFFFAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="live event: fawa",[MLB Baseball] Arizona Diamondbacks vs Colorado Rockies Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.193/hls/LRRRZ.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="live event: fawa",[MLB Baseball] Athletics vs Tampa Bay Rays Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.193/hls/LRRRZZ.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="live event: fawa",[MLB Baseball] Atlanta Braves vs New York Mets Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.190/hls/TTTTAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="live event: fawa",[MLB Baseball] Chicago White Sox vs Cincinnati Reds Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.191/hls/AFFFFXAA.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="live event: fawa",[MLB Baseball] Los Angeles Angels vs Texas Rangers Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.193/hls/LRRR.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="live event: fawa",[MLB Baseball] Los Angeles Dodgers vs Kansas City Royals Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.190/hls/DBBBAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="live event: fawa",[MLB Baseball] Minnesota Twins vs Baltimore Orioles Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.191/hls/AFFFFXAAA.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="live event: fawa",[MLB Baseball] New York Yankees vs Seattle Mariners Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.190/hls/TTTTAA.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="live event: fawa",[MLB Baseball] San Diego Padres vs Milwaukee Brewers Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.193/hls/LRRRZZZ.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="live event: fawa",[MLB Baseball] San Francisco Giants vs Houston Astros Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.193/hls/LRRRZZZZ.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="live event: fawa",[MLB Baseball] St Louis Cardinals vs Philadelphia Phillies Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.191/hls/AFFFFXAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="live event: fawa",[MLB Baseball] Toronto Blue Jays vs Boston Red Sox Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.190/hls/TTTTAAA.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="live event: fawa",[MLB Baseball] Washington Nationals vs Chicago Cubs Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.40/hls/FBBBDDDDD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[MMA UFC] Dana White Contender Series Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.190/hls/TTTTA.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="live event: fawa",[Tennis Masters] Tennis ATP Montreal Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.190/hls/zazaza.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="live event: fawa",[Tennis Masters] Tennis WTA Toronto Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.190/hls/XAXAXA.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="live event: fawa",[WNBA Basketball] Indiana Fever W vs New York Liberty W Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.191/hls/AFFFF.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="live event: fawa",[WNBA Basketball] Las Vegas Aces W vs Washington Mystics W Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.190/hls/LRRRZZZZA.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="live event: fawa",[WNBA Basketball] Los Angeles Sparks W vs Phoenix Mercury W Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.190/hls/DBBB.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[WWE Wrestling] WWE NXT Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.192/hls/AFFFFXAAAAA.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
