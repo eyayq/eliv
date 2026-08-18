@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 13:01:11 WIB 18-08-2026
-# 🔄 Total Channels: 736
+# ⏰ Latest Updated: 13:51:46 WIB 18-08-2026
+# 🔄 Total Channels: 745
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [13:01:11 WIB 18-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [13:51:46 WIB 18-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -76,15 +76,18 @@ http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFzONdLZSOuvXlH7kxeM-LBpNZs5NOSZEIxjNSBavC4A&s=10" group-title="LIVE EVENT",19:30 WIB Persib Bandung VS Bali United zzz
-#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
-https://cdnb.rkda.my.id/memfs/3897b566-43d7-4f1e-862b-1aa22932504a_output_0.m3u8?session=Y35yrQwosgPC4GhGtjK2iP
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10" group-title="LIVE EVENT",20:00 WIB Thailand vs Singapura
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFzONdLZSOuvXlH7kxeM-LBpNZs5NOSZEIxjNSBavC4A&s=10" group-title="LIVE EVENT",19:30 WIB Persib Bandung VS Bali United | XOILACZ | Gvision TV
+https://live2.deliverfluxlive.com/livecdn/channel-7.flv?auth_key=3000001787056307-0-0-a334d5dc7bf6481b17732751eb132d66
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFzONdLZSOuvXlH7kxeM-LBpNZs5NOSZEIxjNSBavC4A&s=10" group-title="LIVE EVENT",19:30 WIB Persib Bandung VS Bali United | Indosiar | Gvision TV
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com
+https://hd-stream.lxscore.com/live/default-103563.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",BWF World Championships 2026 | Court 1 | Server 1 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805928
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",BWF World Championships 2026 | Court 1 | Server 2 | Huya | Gvision TV
@@ -146,9 +149,25 @@ https://seep.eu.org/http://iptv.852851.xyz/l/7Asrbux_vkFdn5hVJiQQhZs5FTtomkUnk5o
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="Live Event: Badminton",World Championships | Court 2 | HUB SPORTS | Gvision TV
 https://seep.eu.org/http://iptv.852851.xyz/l/Uy01rfKuQiU4z-ONg-ZLmom6uzR8e2C7WNo8gRRhZhndC0PPyTFgSVULrEzLH8xb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",20:00 WIB Thailand vs Singapore | ASEAN Championship | Gvision TV
-https://feijing-xzbforanchor.xzb99.com/live/sd-1-4612552.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",18:35 WIB Shanghai Shenhua vs Beijing Guoan | CSL | Gvision TV
-https://pul-tenm.gkykp.com/live/hd-zh-1-4498914.m3u8?txSecret=597a0925da5a1b5a90b44d07da0dfc90&txTime=6A85A858
+https://pul-tenm.gkykp.com/live/sd-1-4612552.m3u8?txSecret=b66e731165c0974702ea2fb2c46f1517&txTime=6A85B410
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",19:30 WIB Bali United vs Persib Bandung | INT CF | Gvision TV
+https://feijing-xzbforanchor.xzb99.com/live/sd-1-4614072.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 21:00 WIB Oman Club vs Fnjaa | OMA FA Cup | Gvision TV
+https://play.666666.zip/live/8883064927.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 21:00 WIB Wales U16 vs Ireland U16 | INT FRL | Gvision TV
+https://play.666666.zip/live/8883067652.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 21:00 WIB Armenia  U19 Women vs Georgia  U19 Women | INT FRL | Gvision TV
+https://play.666666.zip/live/8883067851.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 21:00 WIB Regar-TadAZ Tursunzoda vs FK Parvoz Bobojon Ghafurov | TAJ L1 | Gvision TV
+https://play.666666.zip/live/8882952347.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 21:00 WIB Toktogul vs FC Asiagoal | Kyr TL | Gvision TV
+https://play.666666.zip/live/8883068372.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 21:00 WIB Sakaryaspor vs Sabail | INT CF | Gvision TV
+https://play.666666.zip/live/8883067952.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 21:00 WIB Sogdiana Jizak vs Qizilqum Zarafshon | UZB D1 | Gvision TV
+https://play.666666.zip/live/8882933121.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 20:55 WIB Sur Club vs Bahla | OMA FA Cup | Gvision TV
+https://play.666666.zip/live/8883064926.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2261.png" group-title="live event: fawa",[ASEAN Championship] Thailand vs Singapore Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
