@@ -1,186 +1,267 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.07 WIB 20/08/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.43 WIB 20/08/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sporting-kansas-city-9aab90.webp" group-title="[LIVE 07:25 WIB 20/08/26] Sporting Kansas City vs St. Louis City SC | Server 1",[LIVE 07:25 WIB 20/08/26] Sporting Kansas City vs St. Louis City SC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1787194980-0-0-b43fb35992f807607ddd0431819e346b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sporting-kansas-city-9aab90.webp" group-title="[LIVE 07:25 WIB 20/08/26] Sporting Kansas City vs St. Louis City SC | Server 2",[LIVE 07:25 WIB 20/08/26] Sporting Kansas City vs St. Louis City SC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787194980-0-0-e389ac13b04136a49318a3540dbfd633
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sporting-kansas-city-9aab90.webp" group-title="[LIVE 07:25 WIB 20/08/26] Sporting Kansas City vs St. Louis City SC | Server 3",[LIVE 07:25 WIB 20/08/26] Sporting Kansas City vs St. Louis City SC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620003_lsd.m3u8?auth_key=1787194980-0-0-967032c4eb82d74547472c9e3d62c900
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sporting-kansas-city-9aab90.webp" group-title="[LIVE 07:25 WIB 20/08/26] Sporting Kansas City vs St. Louis City SC | Server 4",[LIVE 07:25 WIB 20/08/26] Sporting Kansas City vs St. Louis City SC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787194980-0-0-e093186052c2917819de4b584d2045bc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/independiente-santa-fe-786319.webp" group-title="[LIVE 07:30 WIB 20/08/26] Independiente Santa Fe vs River Plate | Server 1",[LIVE 07:30 WIB 20/08/26] Independiente Santa Fe vs River Plate | Server 1 (SVR-BHNS 1)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 1",[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.59/hls/NVVVAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/independiente-santa-fe-786319.webp" group-title="[LIVE 07:30 WIB 20/08/26] Independiente Santa Fe vs River Plate | Server 2",[LIVE 07:30 WIB 20/08/26] Independiente Santa Fe vs River Plate | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1787194980-0-0-5fb52feb146dd74bbb70c56170e7b02f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/independiente-santa-fe-786319.webp" group-title="[LIVE 07:30 WIB 20/08/26] Independiente Santa Fe vs River Plate | Server 3",[LIVE 07:30 WIB 20/08/26] Independiente Santa Fe vs River Plate | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787194980-0-0-0288c4fad39f20ae6eac681167f5002b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/independiente-santa-fe-786319.webp" group-title="[LIVE 07:30 WIB 20/08/26] Independiente Santa Fe vs River Plate | Server 4",[LIVE 07:30 WIB 20/08/26] Independiente Santa Fe vs River Plate | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1787194980-0-0-f81447a330c7ca770fd4e530a013dbd1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/independiente-santa-fe-786319.webp" group-title="[LIVE 07:30 WIB 20/08/26] Independiente Santa Fe vs River Plate | Server 5",[LIVE 07:30 WIB 20/08/26] Independiente Santa Fe vs River Plate | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1787194980-0-0-9f98dd4bf684003983cd3aafd83ac28c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/minnesota-united-fc-b1af19.webp" group-title="[LIVE 07:30 WIB 20/08/26] Minnesota United FC vs Atlanta United | Server 1",[LIVE 07:30 WIB 20/08/26] Minnesota United FC vs Atlanta United | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1787194980-0-0-0ec4c12ada1737ec7e56132027f335d8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/minnesota-united-fc-b1af19.webp" group-title="[LIVE 07:30 WIB 20/08/26] Minnesota United FC vs Atlanta United | Server 2",[LIVE 07:30 WIB 20/08/26] Minnesota United FC vs Atlanta United | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787194980-0-0-d8e16311f18e1c415cccbf680c1f5315
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/minnesota-united-fc-b1af19.webp" group-title="[LIVE 07:30 WIB 20/08/26] Minnesota United FC vs Atlanta United | Server 3",[LIVE 07:30 WIB 20/08/26] Minnesota United FC vs Atlanta United | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1787194980-0-0-7c0283a8069bf8ebe1a89f5830767346
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/minnesota-united-fc-b1af19.webp" group-title="[LIVE 07:30 WIB 20/08/26] Minnesota United FC vs Atlanta United | Server 4",[LIVE 07:30 WIB 20/08/26] Minnesota United FC vs Atlanta United | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787194980-0-0-9437fcb08a7a87302556a9333d808300
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 1",[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 1 (SVR-BHNS 1)
+http://193.47.62.59/hls/DIIIVV.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 2",[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.dancingreen1.com/live/84a4269700e83754.m3u8?wsSecret=D01F50A06FDE9F085B15E860C3DA29EA&wsTime=1787193505
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 3",[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1787197140-0-0-532df2a997ef37d9f5dfe317475bd4b6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 4",[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1787197140-0-0-b845a8b69df54b0c1e30e2cb6324c39e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 5",[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1787197140-0-0-3b6c7d4624425961b1832e8192784f97
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 6",[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787197140-0-0-d290e2c92f8f84b55be49b74939be39e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 7",[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=d0912731a30ed5f2131d03763ddd2ab9&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 8",[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4f5a5f953fb58e7eec54e86344ca1374&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 9",[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=c097a4b0e99e59c804c779acc7093650&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 10",[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=3e79ec128267fe7dc57fca7582c06bfd&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 11",[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1787197140-0-0-83a05b3767cbcfb7bbcb419a4f666a4e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 12",[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787197140-0-0-80ea8f2f7626b89cf879927f477b8aba
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 13",[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1787197140-0-0-1ee695fd801b0b9d55b457b6c36a0b57
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 14",[LIVE 08:30 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1787197140-0-0-ed2a02f9b09143581b045aea00c0ac2c
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 08:30 WIB 20/08/26] Flamengo RJ vs Cruzeiro | Server 1",[LIVE 08:30 WIB 20/08/26] Flamengo RJ vs Cruzeiro | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.59/hls/NVVVAAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 2",[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=3d7e42329f8a7ef2708815fa43cf1e17&txTime=6a86b4b4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 3",[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=304cfd3a1377384fc92e715dbf7caa04&txTime=6a86b4b4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 4",[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1787194980-0-0-d92d5df02e88093ef0c2b42b8f1d1f65
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 5",[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787194980-0-0-6800b8fc5cd9f131b6ef119b9274eeb9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 6",[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c8f5e0f5cede3bcf255c812a778629ce&txTime=6a86b4b4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 7",[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=08422b6cc4703bb7114829a081f32a4a&txTime=6a86b4b4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 8",[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1787194980-0-0-dc4d66c9131e67233ef0d616ec441c43
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 9",[LIVE 07:30 WIB 20/08/26] Flamengo - RJ vs Cruzeiro - MG | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787194980-0-0-fdac31aadbc23d35ecf758c4d25e4a09
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 08:00 WIB 20/08/26] Houston Dash W vs Chicago W | Server 1",[LIVE 08:00 WIB 20/08/26] Houston Dash W vs Chicago W | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.59/hls/RPPPEA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-salt-lake-057a2d.png" group-title="[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 1",[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MvZ6B9zNJQKskQrDa.m3u8?txSecret=d2362363b46837764fecd9e3c6e36f20&txTime=6A870919
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-salt-lake-057a2d.png" group-title="[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 2",[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1787194980-0-0-b73d806badc4221ae2661bbba48cdf38
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-salt-lake-057a2d.png" group-title="[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 3",[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1787194980-0-0-c8cab4cd1a7cad2877b8e888f7073762
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-salt-lake-057a2d.png" group-title="[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 4",[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=f867460df9622f9a8c12f222513674b8&txTime=6a86b4b4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-salt-lake-057a2d.png" group-title="[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 5",[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=0e0c8a7034d95019108d8186d0f25816&txTime=6a86b4b4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-salt-lake-057a2d.png" group-title="[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 6",[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1787194980-0-0-150ce6cdacb3844e88ab3b0a392ac0e7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-salt-lake-057a2d.png" group-title="[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 7",[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787194980-0-0-bcba3592504957d6b577e65513ab8bcd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/seattle-sounders-0c590f.webp" group-title="[LIVE 08:30 WIB 20/08/26] Seattle Sounders vs Austin FC | Server 1",[LIVE 08:30 WIB 20/08/26] Seattle Sounders vs Austin FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MvZ6B9zNGCr1Gaw4g.m3u8?txSecret=9299e1338d9df20101f421cddc79a060&txTime=6A870919
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.59/hls/DIIIVVVV.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/seattle-sounders-0c590f.webp" group-title="[LIVE 08:30 WIB 20/08/26] Seattle Sounders vs Austin FC | Server 2",[LIVE 08:30 WIB 20/08/26] Seattle Sounders vs Austin FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=0da3bd5b6d75539abf998e4a510f62f4&txTime=6a86b4b4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=da3b135f7052fa5869388de6ccd6dca0&txTime=6a86bd24
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/seattle-sounders-0c590f.webp" group-title="[LIVE 08:30 WIB 20/08/26] Seattle Sounders vs Austin FC | Server 3",[LIVE 08:30 WIB 20/08/26] Seattle Sounders vs Austin FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=78da34dccdb9cc190390675bfd0fea27&txTime=6a86b4b4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=79e1d7711ec74b53db09523b2cca9b3d&txTime=6a86bd24
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/seattle-sounders-0c590f.webp" group-title="[LIVE 08:30 WIB 20/08/26] Seattle Sounders vs Austin FC | Server 4",[LIVE 08:30 WIB 20/08/26] Seattle Sounders vs Austin FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1787194980-0-0-49e06e3423ee11cb9a9129f0baae0f50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1787197140-0-0-b831a61f48f9ee464e46d0baca5e8e7f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/seattle-sounders-0c590f.webp" group-title="[LIVE 08:30 WIB 20/08/26] Seattle Sounders vs Austin FC | Server 5",[LIVE 08:30 WIB 20/08/26] Seattle Sounders vs Austin FC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787194980-0-0-00f01990705fa0df4b3caec1edf5d976
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787197140-0-0-c44aebcc63e95e5dc03b896b2b49c4d8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-salt-lake-057a2d.png" group-title="[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 1",[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.59/hls/DIIIVVV.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-salt-lake-057a2d.png" group-title="[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 2",[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=de64d06f67faf0a50013f8b457588719&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-salt-lake-057a2d.png" group-title="[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 3",[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=7dc1863589965f39df2f4cbec76ea247&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-salt-lake-057a2d.png" group-title="[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 4",[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1787197140-0-0-9672dfa85c0d902e429146f6c414b9eb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-salt-lake-057a2d.png" group-title="[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 5",[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787197140-0-0-e6fb52841b3f16c0324db5035071e0ed
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-salt-lake-057a2d.png" group-title="[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 6",[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1787197140-0-0-d9a4c9f5be444eff44ab670a24599ff3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-salt-lake-057a2d.png" group-title="[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 7",[LIVE 08:30 WIB 20/08/26] Real Salt Lake vs FC Dallas | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1787197140-0-0-33bad214264dfc1138376ac48ee87a27
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 08:30 WIB 20/08/26] Santa Fe vs River Plate | Server 1",[LIVE 08:30 WIB 20/08/26] Santa Fe vs River Plate | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.59/hls/NVVVAA.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 08:30 WIB 20/08/26] Montevideo City vs Tigre | Server 1",[LIVE 08:30 WIB 20/08/26] Montevideo City vs Tigre | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.59/hls/NVVVA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 08:30 WIB 20/08/26] Botafogo SP vs Criciuma | Server 1",[LIVE 08:30 WIB 20/08/26] Botafogo SP vs Criciuma | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.59/hls/RPPPEAAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 1",[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MvZ6B9zNBotGJw6kt.m3u8?txSecret=68415a7118c785c899b7e12cfdb493c4&txTime=6A870919
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 2",[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.dancingreen1.com/live/84a4269700e83754.m3u8?wsSecret=87D499F25296672779F8F24813EDC140&wsTime=1787191341
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 3",[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1787194980-0-0-b14d117d995c9627feb4edcf4b63c3f8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 4",[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787194980-0-0-e3aae54ddc6c3201a78724c6c0dc3c0a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 5",[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1787194980-0-0-fd2845e0e701bd7aecd9e1446b5a5ac0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 6",[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1787194980-0-0-47a425120b52f695e52cb29a87b5dfde
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 7",[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=8334466b4f2cb86ed2ab0d20e1f70b9f&txTime=6a86b4b4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 8",[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=2fc9ae9f379383302b8fb1af3bb4c9dd&txTime=6a86b4b4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 9",[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=b070616ade406c4bbf02f16e09478785&txTime=6a86b4b4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 10",[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=0ed70586513ddc5bc98cb24cd4493898&txTime=6a86b4b4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 11",[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1787194980-0-0-ac6373d2af38587340bf311d700f458c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 12",[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787194980-0-0-beec4d0b53c0ccee3283aa3f41846274
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 13",[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1787194980-0-0-3851c113c55ab3da2d4403c0ebce1a6e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colorado-rapids-6ab037.webp" group-title="[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 14",[LIVE 08:40 WIB 20/08/26] Colorado Rapids vs Los Angeles FC | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1787194980-0-0-28f1b849b7f8c58c2bf375c39a475afe
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/golden-state-valkyries-w-0a4cc9.webp" group-title="[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 1",[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1787197140-0-0-6569483656ce3d543293d4a95c55d518
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/golden-state-valkyries-w-0a4cc9.webp" group-title="[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 2",[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787197140-0-0-28b3d4a19fc1f2b9dfd7156afc48a071
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/golden-state-valkyries-w-0a4cc9.webp" group-title="[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 3",[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787197140-0-0-11d4e41bab5703460770b25662d0f93e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/golden-state-valkyries-w-0a4cc9.webp" group-title="[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 4",[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787197140-0-0-112d60a4a59cf94a016ce254e9d89bee
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 09:00 WIB 20/08/26] Deportivo Mixco vs UMECIT | Server 1",[LIVE 09:00 WIB 20/08/26] Deportivo Mixco vs UMECIT | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.59/hls/DIII.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 09:00 WIB 20/08/26] Marathon vs Alianza FC | Server 1",[LIVE 09:00 WIB 20/08/26] Marathon vs Alianza FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.59/hls/DIIIV.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/golden-state-valkyries-w-0a4cc9.webp" group-title="[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 1",[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1787194980-0-0-92f4eec2fc995d219063e5ec3c71ff0e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/golden-state-valkyries-w-0a4cc9.webp" group-title="[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 2",[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787194980-0-0-ab519e7bf1efc0fefddf5492e2d508a2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/golden-state-valkyries-w-0a4cc9.webp" group-title="[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 3",[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1787194980-0-0-e68fb90e2a8e36debc38db449bb58a64
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/golden-state-valkyries-w-0a4cc9.webp" group-title="[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 4",[LIVE 09:00 WIB 20/08/26] Golden State Valkyries W vs Minnesota Lynx W | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787194980-0-0-f4b6eb337b4fc70bb06298aaded9d5c4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/freseros-bf4d98.webp" group-title="[LIVE 09:00 WIB 20/08/26] Freseros vs El Calor de Cancun | Server 1",[LIVE 09:00 WIB 20/08/26] Freseros vs El Calor de Cancun | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=5991e2afb760933863b3cd14b33b2515&txTime=6a86b4b4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1787197140-0-0-062df069cd58cb8dde0fdea3505a4bfe
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/freseros-bf4d98.webp" group-title="[LIVE 09:00 WIB 20/08/26] Freseros vs El Calor de Cancun | Server 2",[LIVE 09:00 WIB 20/08/26] Freseros vs El Calor de Cancun | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c09479ea39dd5130166b28cdefca2578&txTime=6a86b4b4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787197140-0-0-c259a4e45b0bc5c68d0121fa5e043209
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/freseros-bf4d98.webp" group-title="[LIVE 09:00 WIB 20/08/26] Freseros vs El Calor de Cancun | Server 3",[LIVE 09:00 WIB 20/08/26] Freseros vs El Calor de Cancun | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1787194980-0-0-0bf4790496aba1567187ee8bca4f0c65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=dc342da15d4287252a94ba80b4c96868&txTime=6a86bd24
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/freseros-bf4d98.webp" group-title="[LIVE 09:00 WIB 20/08/26] Freseros vs El Calor de Cancun | Server 4",[LIVE 09:00 WIB 20/08/26] Freseros vs El Calor de Cancun | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787194980-0-0-4f622259b3e7219e95947de479a25d0f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=8a49dfb365a69f165dd3486354897581&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/phoenix-rising-fc-f219af.webp" group-title="[LIVE 09:10 WIB 20/08/26] Phoenix Rising FC vs Colorado Springs | Server 1",[LIVE 09:10 WIB 20/08/26] Phoenix Rising FC vs Colorado Springs | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MvYqd9uv4kZHaNVRE.m3u8?txSecret=8a8e217ea14b4eeea41e846c5580adce&txTime=6A871189
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/8ef755c4d2e1aed96dc5d291977c1043.png" group-title="[LIVE 09:30 WIB 20/08/26] LA Galaxy vs San Jose Earthquakes | Server 1",[LIVE 09:30 WIB 20/08/26] LA Galaxy vs San Jose Earthquakes | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MvZ6B9zNNoHci4gXN.m3u8?txSecret=0a82d37f9a7eb9a5bf62af49f7c68903&txTime=6A871189
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vancouver-whitecaps-8536cc.webp" group-title="[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 1",[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MvZ6B9zNQzmVBtbgG.m3u8?txSecret=a3e8fa8ecdf14962c8c183f51a2c3611&txTime=6A871189
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vancouver-whitecaps-8536cc.webp" group-title="[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 2",[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.59/hls/ZVVVAA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vancouver-whitecaps-8536cc.webp" group-title="[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 3",[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912118_lsd.m3u8?txSecret=54ff18f897906bf88fa079bc2dda184b&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vancouver-whitecaps-8536cc.webp" group-title="[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 4",[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912118_lhd.m3u8?txSecret=e022798bb89f7dca4ee8009087e4cca7&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vancouver-whitecaps-8536cc.webp" group-title="[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 5",[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1787197140-0-0-7a21ea4e6e53eb7e3f1c82e19a8efbdb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vancouver-whitecaps-8536cc.webp" group-title="[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 6",[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787197140-0-0-886534dce9280747eb3df36c45238c65
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vancouver-whitecaps-8536cc.webp" group-title="[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 7",[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1787197140-0-0-6360ebbc04107660c4462b5314b3af7c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vancouver-whitecaps-8536cc.webp" group-title="[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 8",[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1787197140-0-0-82c4c6522e72a4e666c87e24620d9823
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vancouver-whitecaps-8536cc.webp" group-title="[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 9",[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=27660e739db79690f231690eaed8bd2b&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vancouver-whitecaps-8536cc.webp" group-title="[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 10",[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=d429294806e8eb5cb0af297a35d127c6&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vancouver-whitecaps-8536cc.webp" group-title="[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 11",[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=db0b3fb26345783c4c52b274eed4a544&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vancouver-whitecaps-8536cc.webp" group-title="[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 12",[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=53467b49ddf655fbc9f876b7a962ed51&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vancouver-whitecaps-8536cc.webp" group-title="[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 13",[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=81a11b133d7582020253a2844b938557&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vancouver-whitecaps-8536cc.webp" group-title="[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 14",[LIVE 09:30 WIB 20/08/26] Vancouver Whitecaps vs Houston Dynamo | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=ebf37f9d812b55f51c34d709e8666c93&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 1",[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MvZ6B9zNLbokEEmNU.m3u8?txSecret=b91f8eccd8223250e7389c7aaafff075&txTime=6A871189
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 2",[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.59/hls/ZVVVA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 3",[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1787197140-0-0-1503994f4a4f122fa510f9550f33aa26
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 4",[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787197140-0-0-d98c88fb8a4b6d76acf60fdf59151482
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 5",[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-560690_lsd.m3u8?txSecret=f3b40354e200559194a84c7688faeca6&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 6",[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-560690_lhd.m3u8?txSecret=e10984e1bcddd8626f923a0ee174ebb6&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 7",[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1787197140-0-0-f7e89e5e39fde6fcf6d8df6fefed1068
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 8",[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787197140-0-0-ef2e56afe382b8db0f818a0d522b3344
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 9",[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-619108_lsd.m3u8?auth_key=1787197140-0-0-d9cea0c8c3f9f58dfc27aaeed0051899
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 10",[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1787197140-0-0-f517ba1c0514b1e086545904edf92ac3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 11",[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912015_lsd.m3u8?txSecret=c104f796b06644b76eb942a9d588e12d&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 12",[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912015_lhd.m3u8?txSecret=221f85dbd2a83c517e0b1b666cec018c&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 13",[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1787197140-0-0-5edce8877ff4a275fd948040e6124bfe
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-timbers-3a9825.webp" group-title="[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 14",[LIVE 09:30 WIB 20/08/26] Portland Timbers vs San Diego FC | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787197140-0-0-6595d7dd2663b13ba5a8ce05a384a037
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/senegal-w-19b038.png" group-title="[LIVE 09:30 WIB 20/08/26] Senegal W vs Mexico W | Server 1",[LIVE 09:30 WIB 20/08/26] Senegal W vs Mexico W | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1787197140-0-0-b129815c30cf6087633b332e42798494
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/senegal-w-19b038.png" group-title="[LIVE 09:30 WIB 20/08/26] Senegal W vs Mexico W | Server 2",[LIVE 09:30 WIB 20/08/26] Senegal W vs Mexico W | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787197140-0-0-ea1719f2f18e5ef96138beacd535f0ae
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/senegal-w-19b038.png" group-title="[LIVE 09:30 WIB 20/08/26] Senegal W vs Mexico W | Server 3",[LIVE 09:30 WIB 20/08/26] Senegal W vs Mexico W | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=e9d16ca83da5b66bab2118c111ed50a0&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/senegal-w-19b038.png" group-title="[LIVE 09:30 WIB 20/08/26] Senegal W vs Mexico W | Server 4",[LIVE 09:30 WIB 20/08/26] Senegal W vs Mexico W | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a60b87b7d18731fbbb2dec69042bb7dc&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 1",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/lagalaxy-sanjose-mls/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 2",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/lagalaxy-sanjose-mls.flv
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 3",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.59/hls/ZVVV.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 4",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c7dcf73a9db39790dc6797c297335048&txTime=6a86bb18
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 5",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f7ab607998283b433aa25e4795c134ed&txTime=6a86bb18
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 6",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=d894fa6032f5ec6d659672cc92125587&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 7",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=0c331af89d89eb7f9f6e4d578c92e23a&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 8",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=42b793a3197c08d2f8052de7d5240b9d&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 9",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e30b2287ab04ea8f5e55c383db1a76ae&txTime=6a86bd24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 10",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1787197140-0-0-f7f74bfcaa5a6623c1d8609f7cac645d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 11",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787197140-0-0-e845b34e983a321c48f520d92c9b1f1c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 12",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1787197140-0-0-3e0340be74ba1b557651b332fe750e91
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 13",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787197140-0-0-319c0d48f91e68a7b7db50d769e612a6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 14",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1787197140-0-0-4b248c8f57f2411ff726905f3ae6ebc2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/los-angeles-galaxy-e71c14.webp" group-title="[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 15",[LIVE 09:30 WIB 20/08/26] Los Angeles Galaxy vs San Jose Earthquakes | Server 15 (SVR-BHNS 15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787197140-0-0-bab10311f067c92d43364597daf76c17
