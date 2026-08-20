@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.15 WIB 21/08/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.16 WIB 21/08/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/naft-missan-f5722a.png" group-title="[LIVE 22:30 WIB 20/08/26] Naft Missan vs Al-Naft SC | Server 1",[LIVE 22:30 WIB 20/08/26] Naft Missan vs Al-Naft SC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -262,135 +262,57 @@ http://193.47.62.56/hls/FRRRAA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egnatia-343aa8.png" group-title="[LIVE 00:00 WIB 21/08/26] Egnatia vs Lillestrom | Server 3",[LIVE 00:00 WIB 21/08/26] Egnatia vs Lillestrom | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://live.666666.zip/live/4608862.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lech-poznan-5d1d48.webp" group-title="[LIVE 00:00 WIB 21/08/26] Lech Poznan vs Thun | Server 1",[LIVE 00:00 WIB 21/08/26] Lech Poznan vs Thun | Server 1 (SVR-BHNS 1)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nordsjaelland-04fea0.png" group-title="[LIVE 00:00 WIB 21/08/26] Nordsjaelland vs St. Gallen | Server 1",[LIVE 00:00 WIB 21/08/26] Nordsjaelland vs St. Gallen | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MxiaCCcw9cAaaJcFN.m3u8?txSecret=4296d8fbb885ba2cf325f9eaff510357&txTime=6A87DE25
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lech-poznan-5d1d48.webp" group-title="[LIVE 00:00 WIB 21/08/26] Lech Poznan vs Thun | Server 2",[LIVE 00:00 WIB 21/08/26] Lech Poznan vs Thun | Server 2 (SVR-BHNS 2)
+https://cds78y11d.org/live/sd-6MxiaCDN6BkCTH3EjW.m3u8?txSecret=06c7cf9a229ca66252204020cd938e68&txTime=6A87DED9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nordsjaelland-04fea0.png" group-title="[LIVE 00:00 WIB 21/08/26] Nordsjaelland vs St. Gallen | Server 2",[LIVE 00:00 WIB 21/08/26] Nordsjaelland vs St. Gallen | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.56/hls/FRRRAAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lech-poznan-5d1d48.webp" group-title="[LIVE 00:00 WIB 21/08/26] Lech Poznan vs Thun | Server 3",[LIVE 00:00 WIB 21/08/26] Lech Poznan vs Thun | Server 3 (SVR-BHNS 3)
+http://193.47.62.44/hls/EJJJAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nordsjaelland-04fea0.png" group-title="[LIVE 00:00 WIB 21/08/26] Nordsjaelland vs St. Gallen | Server 3",[LIVE 00:00 WIB 21/08/26] Nordsjaelland vs St. Gallen | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live.666666.zip/live/4608870.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lech-poznan-5d1d48.webp" group-title="[LIVE 00:00 WIB 21/08/26] Lech Poznan vs Thun | Server 4",[LIVE 00:00 WIB 21/08/26] Lech Poznan vs Thun | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=2995769e803173f1fa89730e405082d2&txTime=6a87890c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lech-poznan-5d1d48.webp" group-title="[LIVE 00:00 WIB 21/08/26] Lech Poznan vs Thun | Server 5",[LIVE 00:00 WIB 21/08/26] Lech Poznan vs Thun | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=82ceb3d9b9495b0a762e59a9a5e053c1&txTime=6a87890c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lech-poznan-5d1d48.webp" group-title="[LIVE 00:00 WIB 21/08/26] Lech Poznan vs Thun | Server 6",[LIVE 00:00 WIB 21/08/26] Lech Poznan vs Thun | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1787249340-0-0-a71e4db0d003ec75bd075a721f8f860f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lech-poznan-5d1d48.webp" group-title="[LIVE 00:00 WIB 21/08/26] Lech Poznan vs Thun | Server 7",[LIVE 00:00 WIB 21/08/26] Lech Poznan vs Thun | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1787249340-0-0-291f48a0f097c9c0330e501897177dc6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 1",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MxiaCCcwBoeT48XQG.m3u8?txSecret=d15e903c3e58f77ea921267b1b3a5145&txTime=6A87DE25
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 2",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.56/hls/FRRRA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 3",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.dancingreen1.com/live/de5926ddf01e0c11.m3u8?wsSecret=0D420E65380A18C9BCF2C41C52B656E6&wsTime=1787245726
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 4",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620661_lsd.m3u8?auth_key=1787249340-0-0-6e14a68ff9ad536e98e04e4559db892a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 5",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620661_lhd.m3u8?auth_key=1787249340-0-0-e3b7da140764b57a6f2f11779e9d86cc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 6",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1787249340-0-0-d6445fed12b2e5b54e1ff18d70be9dbe
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 7",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787249340-0-0-2e991f022032f9cc7963e78ca3531a12
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/trabzonspor-268f33.webp" group-title="[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 1",[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MxiaCCcbi4f6TVUZS.m3u8?txSecret=ba0a091761902dd134d56b91a4752602&txTime=6A87DE25
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/trabzonspor-268f33.webp" group-title="[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 2",[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/trabzonspor-ferenc-c2/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/trabzonspor-268f33.webp" group-title="[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 3",[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/trabzonspor-ferenc-c2.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/trabzonspor-268f33.webp" group-title="[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 4",[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.dancingreen1.com/live/a4cf5bc59036e8a5.m3u8?wsSecret=027CAB04015940C0AD204D63359A63C9&wsTime=1787245726
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/trabzonspor-268f33.webp" group-title="[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 5",[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1787249340-0-0-7877b952d381fa41c799afafa60b7b6d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/trabzonspor-268f33.webp" group-title="[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 6",[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787249340-0-0-217438e1a61b0010f47e763968cedae2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/trabzonspor-268f33.webp" group-title="[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 7",[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-620504_lsd.m3u8?txSecret=53b06b52e9cdbc6cd971f0dc8c8da587&txTime=6a87890c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/trabzonspor-268f33.webp" group-title="[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 8",[LIVE 00:00 WIB 21/08/26] Trabzonspor vs Ferencvarosi | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=eed26ba2e5935375877906fdbb1d1ec1&txTime=6a87890c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 1",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/tromso-brighton-c3/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 2",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/tromso-brighton-c3.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 3",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MxiaCCbvbnkuLuiGC.m3u8?txSecret=10b51b36f66fd2f88e534cf0912ed5dc&txTime=6A87DE25
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 4",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.44/hls/EJJJAAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 5",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live.666666.zip/live/4608899.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 6",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.dancingreen1.com/live/38e64873dc89d9c6.m3u8?wsSecret=6EF9C4910EE8C6645BB1FCBBB63E0660&wsTime=1787245726
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 7",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1787249340-0-0-1fc4cdec0e9500bac85e5560cd1269b4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 8",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1787249340-0-0-97c658ddc53b8eb1d311e10d4d49c085
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 9",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=4251f44d027b1f46bdf558f1010b03a5&txTime=6a87890c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 10",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=500c37c57347510a96f2b91f2e498df3&txTime=6a87890c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 11",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1787249340-0-0-b8c35c1d43b3731a46c520367ac5a813
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 12",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1787249340-0-0-01d43c1bf0f8f2b549249f1555472e81
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 13",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=130c6990b9331d431413d9db9563d816&txTime=6a87890c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 14",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=3f47c8c0618f6d0a0064799fd624f9b1&txTime=6a87890c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 15",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1787249340-0-0-b0069aaf463ec68a0de3ba052e58e0c3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 16",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1787249340-0-0-14186d1f26591aed19fb7458145eb08a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 17",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=da4fa40adf1299f43807c9ef03f1fc84&txTime=6a87890c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tromso-il-c418ac.webp" group-title="[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 18",[LIVE 00:00 WIB 21/08/26] Tromso IL vs Brighton Hove Albion | Server 18 (SVR-BHNS 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=16ffac122eb8fec569e1c11354c1e911&txTime=6a87890c
+https://live.666666.zip/live/4608915.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/midtjylland-dd861f.png" group-title="[LIVE 00:00 WIB 21/08/26] Midtjylland vs Rijeka | Server 1",[LIVE 00:00 WIB 21/08/26] Midtjylland vs Rijeka | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cds78y11d.org/live/sd-6MxiaCDN62xGyMja7v.m3u8?txSecret=81e312efe9e09faca41c4a6e2debe1cf&txTime=6A87DE25
+https://cds78y11d.org/live/sd-6MxiaCDN62xGyMja7v.m3u8?txSecret=11348123303f020d0a86a7889de0bb0e&txTime=6A87DED9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/midtjylland-dd861f.png" group-title="[LIVE 00:00 WIB 21/08/26] Midtjylland vs Rijeka | Server 2",[LIVE 00:00 WIB 21/08/26] Midtjylland vs Rijeka | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.58/hls/IIIIAAAaa.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/midtjylland-dd861f.png" group-title="[LIVE 00:00 WIB 21/08/26] Midtjylland vs Rijeka | Server 3",[LIVE 00:00 WIB 21/08/26] Midtjylland vs Rijeka | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://live.666666.zip/live/4608911.m3u8
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/a15c88656472719bf9fbfebf353052fd.png" group-title="[LIVE 00:00 WIB 21/08/26] Thể thao Humaita vs 2 de Mayo | Server 1",[LIVE 00:00 WIB 21/08/26] Thể thao Humaita vs 2 de Mayo | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MxiKass95k3EARxEg.m3u8?txSecret=955f472d8b1106b98a6c49aebe32c00d&txTime=6A87DED9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vendsyssel-0b9885.png" group-title="[LIVE 00:00 WIB 21/08/26] Vendsyssel vs Hillerod | Server 1",[LIVE 00:00 WIB 21/08/26] Vendsyssel vs Hillerod | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MwdpnqrxQRMz51dwS.m3u8?txSecret=f7a55d724d380265498fb8abae2cf55f&txTime=6A87DED9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vendsyssel-0b9885.png" group-title="[LIVE 00:00 WIB 21/08/26] Vendsyssel vs Hillerod | Server 2",[LIVE 00:00 WIB 21/08/26] Vendsyssel vs Hillerod | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.41/hls/EOOOOAAAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 1",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cds78y11d.org/live/sd-6MxiaCCcwBoeT48XQG.m3u8?txSecret=b82181ea6f01387dff5e49910872123d&txTime=6A87DED9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 2",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.56/hls/FRRRA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 3",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://live.666666.zip/live/4608873.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 4",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.dancingreen1.com/live/de5926ddf01e0c11.m3u8?wsSecret=0189104513DDC927852E251F256BE701&wsTime=1787246086
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 5",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620661_lsd.m3u8?auth_key=1787249700-0-0-61dbd9c1c7e225b9b861a3752fd38b01
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 6",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620661_lhd.m3u8?auth_key=1787249700-0-0-e93790b9fdb760ab0f19cb5b5cb8befe
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 7",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1787249700-0-0-a4ac18ac486fa8e2b90c2444056e8ab0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 8",[LIVE 00:00 WIB 21/08/26] Besiktas JK vs Kauno Zalgiris | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787249700-0-0-1f688aa9d476c427d5bcb7c190435aac
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 00:30 WIB 21/08/26] Vasalund vs Norrkoping | Server 1",[LIVE 00:30 WIB 21/08/26] Vasalund vs Norrkoping | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/EOOOOAAAA.m3u8
@@ -399,10 +321,10 @@ http://193.47.62.41/hls/EOOOOAAAA.m3u8
 http://193.47.62.41/hls/EOOOOA.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 21/08/26] Trabzonspor vs Ferencvaros | Server 1",[LIVE 01:00 WIB 21/08/26] Trabzonspor vs Ferencvaros | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.56/hls/FRRRAAAA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 01:00 WIB 21/08/26] Trabzonspor vs Ferencvaros | Server 2",[LIVE 01:00 WIB 21/08/26] Trabzonspor vs Ferencvaros | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://live.666666.zip/live/4608851.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 01:45 WIB 21/08/26] PAOK vs Brann | Server 1",[LIVE 01:45 WIB 21/08/26] PAOK vs Brann | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.56/hls/FRRRAAAAAA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 02:00 WIB 21/08/26] OFI Crete vs CSKA Sofia | Server 1",[LIVE 02:00 WIB 21/08/26] OFI Crete vs CSKA Sofia | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.49/hls/UOOOAAAA.m3u8
