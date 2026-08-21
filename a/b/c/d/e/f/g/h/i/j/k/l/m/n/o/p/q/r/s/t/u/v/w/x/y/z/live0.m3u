@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 10:25:34 WIB 21-08-2026
-# 🔄 Total Channels: 770
+# ⏰ Latest Updated: 10:32:24 WIB 21-08-2026
+# 🔄 Total Channels: 775
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:25:34 WIB 21-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:32:24 WIB 21-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -73,9 +73,15 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoQvJAwPWLu35OUWCxQ-QFBxNZs7Sdup2xv9kLA1XpWQ&s=10" group-title="LIVE EVENT",17:00 WIB Kashiwa Reysol vs V-Varen Nagasaki | JPN J1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4555244.m3u8?txSecret=e386b1e2344009e49cd1e31377e0c26e&txTime=6A897849
+https://pul-tenm.gkykp.com/live/sd-1-4555244.m3u8?txSecret=e418471fb427c77315b7f037d0a0537d&txTime=6A897A29
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" group-title="LIVE EVENT",17:15 WIB JAPAN vs HONG KONG - Asian Volleyball Championship | Gvision TV
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoQvJAwPWLu35OUWCxQ-QFBxNZs7Sdup2xv9kLA1XpWQ&s=10" group-title="LIVE EVENT",17:30 WIB FC Tokyo vs JEF United Ichihara Chiba | JPN J1 | Gvision TV
+https://feijing-xzbforanchor.xzb99.com/live/sd-1-4555272.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10" group-title="LIVE EVENT",17:30 WIB Japan v Hong Kong | Pool Phase | AVC Women's Continentals 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.edgevaultmedia.com/
+https://live2.livefeedtextbox.com/live/channel33.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",World Championships BWF | Court 1 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805928
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",World Championships BWF | Court 2 | Huya | Gvision TV
@@ -92,13 +98,9 @@ http://gvisiontv.channell.my.id/event/event6/play.php/d1cf2c2f.m3u8
 http://iptv.852851.xyz/l/7Asrbux_vkFdn5hVJiQQhZs5FTtomkUnk5ojX0itoET2Bev6EL8JRoNfVySMLrBh/index.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=A9A9A9" group-title="LIVE EVENT",World Championships | Court 2 | HUB SPORTS | Gvision TV
 http://iptv.852851.xyz/l/Uy01rfKuQiU4z-ONg-ZLmom6uzR8e2C7WNo8gRRhZhndC0PPyTFgSVULrEzLH8xb/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10" group-title="LIVE EVENT",[Belum Mulai] 17:30 WIB Japan v Hong Kong | Pool Phase | AVC Women's Continentals 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.edgevaultmedia.com/
-https://live2.livefeedtextbox.com/live/channel33.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" group-title="Live Event: Voli",17:15 WIB JAPAN vs HONG KONG - Asian Volleyball Championship | Gvision TV
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o2sNE7P.jpeg" group-title="Live Event: Voli",[Belum Mulai] 18:00 WIB FRANCE vs SLOVAKIA - European Volleyball Championship | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2sNE7P.jpeg" group-title="Live Event: Voli",18:00 WIB FRANCE vs SLOVAKIA - European Volleyball Championship | Gvision TV
 insertar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzRa4Zf.jpeg" group-title="Live Event: Voli",[Belum Mulai] 19:00 WIB AUSTRIA vs SERBIA - European Volleyball Championship | Gvision TV
 insertar.m3u8
@@ -132,34 +134,42 @@ http://gvisiontv.channell.my.id/event/event6/play.php/d1cf2c2f.m3u8
 http://iptv.852851.xyz/l/7Asrbux_vkFdn5hVJiQQhZs5FTtomkUnk5ojX0itoET2Bev6EL8JRoNfVySMLrBh/index.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=A9A9A9" group-title="Live Event: Badminton",World Championships | Court 2 | HUB SPORTS | Gvision TV
 http://iptv.852851.xyz/l/Uy01rfKuQiU4z-ONg-ZLmom6uzR8e2C7WNo8gRRhZhndC0PPyTFgSVULrEzLH8xb/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:30 WIB FC Tokyo vs JEF United Ichihara Chiba | JPN J1 | Gvision TV
+https://pul-tenm.gkykp.com/live/sd-1-4555272.m3u8?txSecret=b8fd9ca08bab36cac336affb5bb1421f&txTime=6A897A29
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Kashiwa Reysol vs V-Varen Nagasaki | JPN J1 | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4555244.m3u8?txSecret=e386b1e2344009e49cd1e31377e0c26e&txTime=6A897849
+https://pul-tenm.gkykp.com/live/sd-1-4555244.m3u8?txSecret=e418471fb427c77315b7f037d0a0537d&txTime=6A897A29
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Hwacheon Kspo  Women vs Seoul WFC  Women | KOR WK League | Gvision TV
 https://feijing-xzbforanchor.xzb99.com/live/sd-1-4514737.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",17:00 WIB Incheon Red Angels  Women vs Mungyeong Sangmu  Women | KOR WK League | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4514738.m3u8?txSecret=e4363da8ca2a76a31b75f84da53182e0&txTime=6A897849
+https://pul-tenm.gkykp.com/live/sd-1-4514738.m3u8?txSecret=495a0b69f48aaf2111a68139977365c9&txTime=6A897A29
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:30 WIB Sydney Fc Youth vs Rockdale City Suns | AUS NSW Premier League | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4473527.m3u8?txSecret=f1fb02aedb7adb8bdcf31f4ab39db3e2&txTime=6A897848
+https://pul-tenm.gkykp.com/live/sd-1-4473527.m3u8?txSecret=db1af0aeff6800855484b3538d9036ff&txTime=6A897A29
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:30 WIB Green Gully Cavaliers vs St Albans Saints | NPL Victoria | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4476178.m3u8?txSecret=1b3a23587c8b1b27390a354fd9666ba7&txTime=6A897849
+https://pul-tenm.gkykp.com/live/sd-1-4476178.m3u8?txSecret=6cac571f279fb4d8097a8824247d5c25&txTime=6A897A29
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB Druzhba Kozaky vs Bazys | UKR Cup | Gvision TV
 https://feijing-xzbforanchor.xzb99.com/live/sd-1-4618338.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB Bratslav Vinnytsia vs FK Oleksandria | UKR Cup | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4610211.m3u8?txSecret=22d82f7ac20bb678335cf3ee6408ce34&txTime=6A897848
+https://pul-tenm.gkykp.com/live/sd-1-4610211.m3u8?txSecret=5cdc9f2c039ee9ff3c743f01a2a9b6f0&txTime=6A897A29
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB Rebel Kyiv vs Ahrobiznes Volochysk | UKR Cup | Gvision TV
 https://feijing-xzbforanchor.xzb99.com/live/sd-1-4610225.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",16:00 WIB Guangdong Guangzhou Power U20 vs Beijing Guoan U20 | Chinese U-20 League | Gvision TV
-https://pul-tenm.gkykp.com/live/sd-1-4621286.m3u8?txSecret=916d8e479241a080b1cf11a007949c28&txTime=6A897848
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 17:30 WIB Northcote City vs Brunswick Juventus | Aus VD1 | Gvision TV
-https://play.666666.zip/live/8882915739.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 17:30 WIB Essendon Royals vs Keilor Park SC | AUS VS L | Gvision TV
-https://play.666666.zip/live/8883069184.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 17:30 WIB Whittlesea United vs Moreland City | AUS VS L | Gvision TV
-https://play.666666.zip/live/8883069185.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 17:30 WIB FC Tokyo vs JEF United Ichihara Chiba | JPN D1 | Gvision TV
-https://play.666666.zip/live/8883000413.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 17:30 WIB Bentleigh Greens  Women vs Preston Lions  Women | AUS WPL | Gvision TV
-https://play.666666.zip/live/8882981862.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4621286.m3u8?txSecret=2a1eeb0c8488f9a235b4dcd35e0afc50&txTime=6A897A29
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB Indonesia U20 vs United Arab Emirates U20 | INT FRL | Gvision TV
+https://play.666666.zip/live/8883069256.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB Lokomotiv Kyiv vs Probiy Horodenka | UKRC | Gvision TV
+https://play.666666.zip/live/8883056724.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB Podillya Khmelnytskyi vs FC Victoria Mykolaivka | UKRC | Gvision TV
+https://play.666666.zip/live/8883056729.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB Garuda FC vs Darwin Olympics | AUS DPL | Gvision TV
+https://play.666666.zip/live/8883068588.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB Ningbo FC U21 vs Wuhan Three Towns U21 | CHA CSL U21 | Gvision TV
+https://play.666666.zip/live/8883069330.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB Power Dynamos vs ZESCO United Ndola | INT CF | Gvision TV
+https://play.666666.zip/live/8883068723.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB Torredonjimeno vs Martos Club Deportivo | INT CF | Gvision TV
+https://play.666666.zip/live/8883068655.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNByRd8B/20260622-040230.jpg" group-title="Live Event: BolaKu",[Belum Mulai] 18:00 WIB Konavljanin vs Nk Neretvanac Opuzen | INT CF | Gvision TV
+https://play.666666.zip/live/8883068653.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2320.png" group-title="live event: fawa",[Argentina Copa] Racing Club vs Belgrano Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
