@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁18:16:52 23-08-2026📁",📁SERVER PLAYLIST UPDATED📁
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁18:20:45 23-08-2026📁",📁SERVER PLAYLIST UPDATED📁
 http://phate.io/listen
