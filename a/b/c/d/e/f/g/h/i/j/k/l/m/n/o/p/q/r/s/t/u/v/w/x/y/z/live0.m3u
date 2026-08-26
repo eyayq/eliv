@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 13:36:23 WIB 26-08-2026
+# ⏰ Latest Updated: 13:40:36 WIB 26-08-2026
 # 🔄 Total Channels: 748
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [13:36:23 WIB 26-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [13:40:36 WIB 26-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -72,15 +72,15 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10" group-title="LIVE EVENT",18:00 WIB thaayth`dsd AVC WOMEN'S CONTINENTAL 2026 / khaawainphraraachsamnak | MONO29 | Gvision TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10" group-title="LIVE EVENT",18:00 WIB Live broadcast of AVC WOMEN'S CONTINENTAL 2026 / Royal news | MONO29 | Gvision TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=29
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" group-title="LIVE EVENT",18:30 WIB CHINA vs CHINA TAIPEI - Campeonato Asiatico de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" group-title="LIVE EVENT",18:30 WIB CHINA vs CHINA TAIPEI - Asian Volleyball Championship | Gvision TV
 https://rumble.com/live-hls-dvr/NFcEPqWw-78/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KJ2FkDTE3II/hq720.jpg" group-title="LIVE EVENT",18:30 WIB ESPANA vs PORTUGAL - Campeoneto Europeo de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KJ2FkDTE3II/hq720.jpg" group-title="LIVE EVENT",18:30 WIB SPAIN vs PORTUGAL - European Volleyball Championship | Gvision TV
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/Drrj4cTBRkl8/2026/8/26/10_38_8/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s" group-title="LIVE EVENT",18:30 WIB Spanyol W vs Portugal w
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/Drrj4cTBRkl8/2026/8/26/10_38_8/index.m3u8
@@ -92,7 +92,7 @@ https://live1.quickscoreboardz.com/live/channel83.m3u8?wsSecret=60310a7a90225d43
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P4SSW-gH_uA/hq720.jpg" group-title="LIVE EVENT",20:00 WIB ESLOVENIA vs LETONIA - Campeoneto Europeo de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P4SSW-gH_uA/hq720.jpg" group-title="LIVE EVENT",20:00 WIB SLOVENIA vs LATVIA - European Volleyball Championship | Gvision TV
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/nrl71Hk3no28/2026/8/26/12_0_48/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10" group-title="LIVE EVENT",20:00 WIB Vietnam vs Thailand
 #EXTVLCOPT:http-referrer=https://lxscore.com/
@@ -117,29 +117,29 @@ https://player2.originpullstream.com/live/channel33.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
 https://live1.quickscoreboardz.com/live/channel86.m3u8?wsSecret=a4ffd3d74afa3f2bb480a08f574f6f8a&wsABSTime=1787764831
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" group-title="Live Event: Voli",18:30 WIB CHINA vs CHINA TAIPEI - Campeonato Asiatico de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" group-title="Live Event: Voli",18:30 WIB CHINA vs CHINA TAIPEI - Asian Volleyball Championship | Gvision TV
 https://rumble.com/live-hls-dvr/NFcEPqWw-78/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KJ2FkDTE3II/hq720.jpg" group-title="Live Event: Voli",18:30 WIB ESPANA vs PORTUGAL - Campeoneto Europeo de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KJ2FkDTE3II/hq720.jpg" group-title="Live Event: Voli",18:30 WIB SPAIN vs PORTUGAL - European Volleyball Championship | Gvision TV
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/Drrj4cTBRkl8/2026/8/26/10_38_8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P4SSW-gH_uA/hq720.jpg" group-title="Live Event: Voli",20:00 WIB ESLOVENIA vs LETONIA - Campeoneto Europeo de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P4SSW-gH_uA/hq720.jpg" group-title="Live Event: Voli",20:00 WIB SLOVENIA vs LATVIA - European Volleyball Championship | Gvision TV
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/nrl71Hk3no28/2026/8/26/12_0_48/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SXOSN1BYoeM/hq720.jpg" group-title="Live Event: Voli",21:00 WIB AUSTRALIA vs BULGARIA - Campeoneto Europeo de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SXOSN1BYoeM/hq720.jpg" group-title="Live Event: Voli",21:00 WIB AUSTRALIA vs BULGARIA - European Volleyball Championship | Gvision TV
 insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jwgZ6h8jvBY/hq720.jpg" group-title="Live Event: Voli",21:00 WIB FRANCIA vs ITALIA - Campeoneto Europeo de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jwgZ6h8jvBY/hq720.jpg" group-title="Live Event: Voli",21:00 WIB FRANCE vs ITALY - European Volleyball Championship | Gvision TV
 insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QBxUxh4m0zk/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 21:30 WIB BELGICA vs AZERBAIYAN - Campeoneto Europeo de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QBxUxh4m0zk/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 21:30 WIB BELGIUM vs AZERBAIJAN - European Volleyball Championship | Gvision TV
 insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XRUJEqIpdUk/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 23:00 WIB ALEMANIA vs TURQUIA - Campeoneto Europeo de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XRUJEqIpdUk/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 23:00 WIB GERMANY vs TURKEY - European Volleyball Championship | Gvision TV
 insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eNPRVe5SpQg/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 00:00 WIB SERBIA vs GRECIA - Campeoneto Europeo de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eNPRVe5SpQg/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 00:00 WIB SERBIA vs GREECE - European Volleyball Championship | Gvision TV
 insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0AvN_G_tisk/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 00:00 WIB ESLOVAQUIA vs MONTENEGRO - Campeoneto Europeo de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0AvN_G_tisk/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 00:00 WIB SLOVAKIA vs MONTENEGRO - European Volleyball Championship | Gvision TV
 insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hy99lAmHwVI/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 03:00 WIB ESTADOS UNIDOS vs REPUBLICA DOMINICANA - Campeoneto Norte y Centroamericano de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hy99lAmHwVI/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 03:00 WIB UNITED STATES vs DOMINICAN REPUBLIC - North and Central American Volleyball Championship | Gvision TV
 insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hy99lAmHwVI/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 03:00 WIB CANADA vs MEXICO - Campeoneto Norte y Centroamericano de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hy99lAmHwVI/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 03:00 WIB CANADA vs MEXICO - North and Central American Volleyball Championship | Gvision TV
 insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hy99lAmHwVI/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 07:00 WIB PUERTO RICO vs GUATEMALA - Campeoneto Norte y Centroamericano de Voley | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hy99lAmHwVI/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 07:00 WIB PUERTO RICO vs GUATEMALA - North and Central American Volleyball Championship | Gvision TV
 insertar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",World Championships BWF | Court 2 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805929
