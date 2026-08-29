@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 18:15:01 WIB 29-08-2026
-# 🔄 Total Channels: 734
+# ⏰ Latest Updated: 18:22:01 WIB 29-08-2026
+# 🔄 Total Channels: 738
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [18:15:01 WIB 29-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [18:22:01 WIB 29-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -2253,6 +2253,14 @@ http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=chillhopradio
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=relaxbeats
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAAB2Yz_huDtzi4oNuCc8US6BKa-idd17pn3XVYADQ0w&s" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAAB2Yz_huDtzi4oNuCc8US6BKa-idd17pn3XVYADQ0w&s" group-title="MUSIC",Chilledcat Music
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=chilledcat_music
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2c87a96a-c480-440b-ab12-0923e332cf57-profile_image-300x300.png" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2c87a96a-c480-440b-ab12-0923e332cf57-profile_image-300x300.png" group-title="MUSIC",Starlight Slumber
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=starlightslumber
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000478590135-h0nljf-t500x500.jpg" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://i1.sndcdn.com/artworks-000478590135-h0nljf-t500x500.jpg" group-title="MUSIC",Haru Haru Asmr
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=haruharuasmr
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8baa958f-154e-442b-8806-8f9343283f9a-profile_image-300x300.png" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8baa958f-154e-442b-8806-8f9343283f9a-profile_image-300x300.png" group-title="MUSIC",Japan Asmr
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=japan_asmr
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273309029cb2b165f13f55b2919" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://i.scdn.co/image/ab67616d0000b273309029cb2b165f13f55b2919" group-title="MUSIC",Kipas Angin ASMR
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=relaxingfan
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8GzR3hT/Krone-Hit-TV.jpg" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/K8GzR3hT/Krone-Hit-TV.jpg" tvg-name="KroneHit TV | (1080p) (AT) (TizTV)"  group-title="MUSIC",KroneHit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xqZPGux6KeyTnCJf28ssXJdwfPX08BccxFih30MbAIq6nUBhvY7R544MYoT_O-00gGUa--GC9Q=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC",Persiana Music
