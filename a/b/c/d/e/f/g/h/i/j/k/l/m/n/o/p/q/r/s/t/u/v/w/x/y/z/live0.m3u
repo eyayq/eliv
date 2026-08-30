@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 07:12:30 WIB 30-08-2026
-# 🔄 Total Channels: 735
+# ⏰ Latest Updated: 07:19:28 WIB 30-08-2026
+# 🔄 Total Channels: 738
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [07:12:30 WIB 30-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [07:19:28 WIB 30-08-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4337
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4337
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -83,20 +83,26 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-#EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="LIVE EVENT",MPL INDONESIA SEASON 18 Week 3 Day 3 | Streaming mobile legends: bang bang. | Gvision TV
-http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10" group-title="LIVE EVENT",[Belum Mulai] 14:15 WIB Iran v Japan | Playoffs | AVC Women's Continentals 2026
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" group-title="LIVE EVENT",14:15 WIB IRAN vs JAPON - Medalla de Bronce Campeonato Asiatico de Voley | Gvision TV
+https://rumble.com/live-hls-dvr/JroblyKQDnI/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10" group-title="LIVE EVENT",14:15 WIB Iran v Japan | Playoffs | AVC Women's Continentals 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.m3u8delivery.com/
 https://live.mediafreightnet.com/live/channel33.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=556B2F" group-title="LIVE EVENT",Intl Challenge Pontianak - Finals | Court 1 | Gvision TV
+https://d302.soft4game.com/o22/stream94/o/stream94/chunks.m3u8?nimblesessionid=124806847&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDI2IDc6MTc6MjEgQU0maGFzaF92YWx1ZT1DL1VsTGNuQmV5S1c1MFJ5eHJ4ZmVBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+#EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="LIVE EVENT",MPL INDONESIA SEASON 18 Week 3 Day 3 | Streaming mobile legends: bang bang. | Gvision TV
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" group-title="Live Event: Voli",14:15 WIB IRAN vs JAPON - Medalla de Bronce Campeonato Asiatico de Voley | Gvision TV
-insertar.m3u8
+https://rumble.com/live-hls-dvr/JroblyKQDnI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" group-title="Live Event: Voli",[Belum Mulai] 17:45 WIB CHINA vs TAILANDIA - Final Campeonato Asiatico de Voley | Gvision TV
 insertar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5jSx_m9NQDU/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 21:00 WIB FRANCIA vs GRECIA - 8avos de Final Campeoneto Europeo de Voley | Gvision TV
 insertar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TRtjmxME-Eo/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 00:00 WIB SERBIA vs GROACIA - 8avos de Final Campeoneto Europeo de Voley | Gvision TV
 insertar.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=556B2F" group-title="Live Event: Badminton",Intl Challenge Pontianak - Finals | Court 1 | Gvision TV
+https://d302.soft4game.com/o22/stream94/o/stream94/chunks.m3u8?nimblesessionid=124806847&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDI2IDc6MTc6MjEgQU0maGFzaF92YWx1ZT1DL1VsTGNuQmV5S1c1MFJ5eHJ4ZmVBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 #EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="Live Esports",MPL INDONESIA SEASON 18 Week 3 Day 3 | Streaming mobile legends: bang bang. | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV
