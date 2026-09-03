@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 22:00:30 WIB 03-09-2026
-# 🔄 Total Channels: 792
+# ⏰ Latest Updated: 23:20:48 WIB 03-09-2026
+# 🔄 Total Channels: 787
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [22:00:30 WIB 03-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [23:20:48 WIB 03-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -68,64 +68,42 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="BILA ANDA MEMBELI ANDA KENA DITIPU",UPDATE PLAYLIST TERBARU ADA DI TELEGRAM
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",02:00 WIB Real Sociedad vs Celta de Vigo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzsa_oea_WrvEdQb4T7MAAnjAgMuPkgwxkxbD5QF-95w&s=10" group-title="LIVE EVENT",02:00 WIB Cagliari vs Verona
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-logo="https://asset.prohades.com/public/tournament/liga-1-indonesia.webp" group-title="LIVE EVENT",Arema FC VS Isenmulang Kalteng | TBA | [BACA: AKTIF PAS KICK-OFF] | Gvision TV
 #EXTVLCOPT:http-referrer=http://lxscore.com/
 #EXTVLCOPT:http-origin=http://lxscore.com
 http://hd-stream.prohades.com/live/default-1854128.m3u8
-#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",US Open - US Open | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788558446-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a4007d1a8262006c0585ea6bfc1c625b
-#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Court 5 - US Open | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1788558447-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a2b1f160198184388d1f113446b19431
-#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Court 6 - US Open | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1788558448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7d3a683715306d343aaf5bd6adfbb112
-#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Court 7 - US Open | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143075/720p/chunks.m3u8?is_vip=false&token=1788558450-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7d4f37cbbe86014e0ab7877b9fd2cbf2
-#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Court 12 - US Open | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143076/720p/chunks.m3u8?is_vip=false&token=1788558451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fd50a42158af7e2745fe87934f4c09ca
-#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Grandstand - US Open | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1788558452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e0d3a05624d0b742e7c50a0b0041a28e
 #EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Louis Armstrong Stadium - US Open | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510509/720p/chunks.m3u8?is_vip=false&token=1788558454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dafec95aef6b862dd0906c394ac8bc02
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1428/720p/chunks.m3u8?is_vip=false&token=1788563847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b2a0d2c243e0acb8c91b91dd100f3ebd
+#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Grandstand - US Open | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1788563849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7e2e5d088133e49223447167bf548661
+#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Court 7 - US Open | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143075/720p/chunks.m3u8?is_vip=false&token=1788563850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-702cde00ab50dddfb9b24c871e01ee49
+#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Court 6 - US Open | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1788563851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4259b51c716a40ecd0a673525a7c2dbd
+#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",US Open - US Open | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788563852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b4d4ed507be1c43a9252ea4281cf0731
+#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Court 5 - US Open | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1788563854-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-856b40cb1ef3d53b88bf710277e67184
 #EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Arthur Ashe Stadium - US Open | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788558455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8d8440f125cd261c4c0964e67e2dca5e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788563855-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bfaf7c352557dff486554a74ee806bde
 #EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Court 17 - US Open | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1428/720p/chunks.m3u8?is_vip=false&token=1788558457-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ff07e6eb8f6b852ab1019d4e9950faff
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1i_Q0ENu9w48GeRDh1WdE1kFSUl9k3Cy-I_qtteulvw&s=10" group-title="LIVE EVENT",British Open: Quarto turno - World Snooker Tour | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1788558459-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0ca3f069a15fccdedb1f816a072ab5a7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kb2O9E3.jpeg" group-title="Live Event: Voli",[Belum Mulai] 06:00 WIB CANADA U23 vs MEXICO U23 - Copa Panamericana Sub 23 | Gvision TV
-insertar.m3u8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1428/720p/chunks.m3u8?is_vip=false&token=1788563856-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2e675f5ce7f2392971205ca86e2cba66
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kb2O9E3.jpeg" group-title="Live Event: Voli",[Belum Mulai] 08:00 WIB NICARAGUA U23 vs COSTA RICA U23 - Copa Panamericana Sub 23 | Gvision TV
 insertar.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="live event: fawa",[Argentina Liga Profesional] Boca Juniors vs Lanus Gvision TV
