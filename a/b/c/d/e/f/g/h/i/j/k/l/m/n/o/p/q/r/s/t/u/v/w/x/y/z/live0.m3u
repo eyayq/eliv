@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 19:05:25 WIB 04-09-2026
-# 🔄 Total Channels: 804
+# ⏰ Latest Updated: 19:12:01 WIB 04-09-2026
+# 🔄 Total Channels: 799
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:05:25 WIB 04-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:12:01 WIB 04-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -102,88 +102,74 @@ http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiq
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",02:05 WIB PSG vs Monaco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
+https://live2.domainkqt.cc/live/channel6.m3u8
 #EXTINF:-1 tvg-logo="https://asset.prohades.com/public/tournament/la-liga.webp" group-title="LIVE EVENT",Betis VS Real Madrid | TBA | [BACA: AKTIF PAS KICK-OFF] | Gvision TV
 #EXTVLCOPT:http-referrer=http://lxscore.com/
 #EXTVLCOPT:http-origin=http://lxscore.com
 http://hd-stream.prohades.com/live/default-1812438.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Lyon vs Auxerre - Ligue 1 [Server 1] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/398/720p/chunks.m3u8?is_vip=false&token=1788634049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e82deb7eedb37417972882a63fc399c3
-#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Lyon vs Auxerre - Ligue 1 [Server 2] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c6-hd/chunks.m3u8?is_vip=false&token=1788634050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-650eadfe74d379eb9f6c1fc0e12b45d7
-#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Lyon vs Auxerre - Ligue 1 [Server 3] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c6-backup/chunks.m3u8?is_vip=false&token=1788634051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7e3f591dfa7eaa2cd8fbe493d8acf6ca
-#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Lyon vs Auxerre - Ligue 1 [Server 4] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c6-cnhd/chunks.m3u8?is_vip=false&token=1788634052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-29368cfcc17a2264602160a5f49578bb
-#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Lyon vs Auxerre - Ligue 1 [Server 5] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c6/chunks.m3u8?is_vip=false&token=1788634053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-67e1a3487b7dd10443906c552133a6d4
 #EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",Real Betis vs Real Madrid - La Liga [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=1788634060-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fe68929f6c44a2c186526e2f07d700fb
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=1788634953-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8fea1a3105c9138959d09dd4049485be
 #EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",Real Betis vs Real Madrid - La Liga [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb34748-hd/chunks.m3u8?is_vip=false&token=1788634061-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b7c1d13b1fbecff2423b028b234b8a60
-#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",US Open - US Open | Gvision TV
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb34748-hd/chunks.m3u8?is_vip=false&token=1788634954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-86a018fa39ecdf6e0529ae5990929e9e
+#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",Real Betis vs Real Madrid - La Liga [Server 3] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788634062-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ae523fa42d3cc0de8681bde94bfeec95
-#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Louis Armstrong Stadium - US Open | Gvision TV
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb34748-cnhd/chunks.m3u8?is_vip=false&token=1788634956-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fb58e9fdb59f3f6c907befb0c5290252
+#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Paris Saint Germain vs Monaco - Ligue 1 [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788634063-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6a4239b6444b800c08ec8da1babc8488
-#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Grandstand - US Open | Gvision TV
+https://livecdn-tc-iptv.rumsport10.live/live_abr/398/720p/chunks.m3u8?is_vip=false&token=1788634963-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf69576c33f8c0898d78dedb2212f6af
+#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Paris Saint Germain vs Monaco - Ligue 1 [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/61349/720p/chunks.m3u8?is_vip=false&token=1788634064-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-658fc095f5b414378f771bdf99a2562c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce883fb2-hd/chunks.m3u8?is_vip=false&token=1788634964-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7c157d92dce869960c66a3469a95e394
+#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Paris Saint Germain vs Monaco - Ligue 1 [Server 3] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce883fb2-cnhd/chunks.m3u8?is_vip=false&token=1788634966-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c42d32ec63fc5076c9d223743425f011
 #EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Arthur Ashe Stadium - US Open [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1428/720p/chunks.m3u8?is_vip=false&token=1788634065-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0063cd961819b861361c7db30e0b646e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1428/720p/chunks.m3u8?is_vip=false&token=1788634968-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-feacd6ed42f7228cf5b35536a26ab672
 #EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Arthur Ashe Stadium - US Open [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510510/720p/chunks.m3u8?is_vip=false&token=1788634066-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dd4e881d36283de88bd112f74de589bd
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510510/720p/chunks.m3u8?is_vip=false&token=1788634969-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-22d6b130bb8cecc92efe3f0be50f8010
+#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",US Open - US Open | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788634970-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9fca1e550722e54c9ab6729085b1f08f
+#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Louis Armstrong Stadium - US Open | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788634971-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f3ef8608106c043037bf5f4f9ee6c6d0
+#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",Grandstand - US Open | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/61349/720p/chunks.m3u8?is_vip=false&token=1788634972-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b2de28fbef3213d5e2c00a5817df8a86
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Shabab%20vs%20Al-Hilal%20Saudi%20FC.jpg" group-title="LIVE EVENT",Al Shabab vs Al-Hilal Saudi FC - Pro League [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce883f9e-backup/chunks.m3u8?is_vip=false&token=1788634085-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d101607c2b4b1839fe02feb218e76ba7
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce883f9e-backup/chunks.m3u8?is_vip=false&token=1788634998-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-71729adcb00bb9195335092e121379f3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Shabab%20vs%20Al-Hilal%20Saudi%20FC.jpg" group-title="LIVE EVENT",Al Shabab vs Al-Hilal Saudi FC - Pro League [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce883f9e/chunks.m3u8?is_vip=false&token=1788634085-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fbbe0b492343aeb091b912331ff68fc1
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce883f9e/chunks.m3u8?is_vip=false&token=1788634999-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a2b92f9e1a607adbbcb969766adeab6a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Ahli%20Jeddah%20vs%20Al%20Riyadh.jpg" group-title="LIVE EVENT",Al-Ahli Jeddah vs Al Riyadh - Pro League | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce883f9f/chunks.m3u8?is_vip=false&token=1788634087-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2f09d40984bdceee5daf264b685cec77
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce883f9f/chunks.m3u8?is_vip=false&token=1788635001-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b7c25dc33a5eeb85f890255659c6ec09
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1i_Q0ENu9w48GeRDh1WdE1kFSUl9k3Cy-I_qtteulvw&s=10" group-title="LIVE EVENT",British Open: Quarti di finale - World Snooker Tour | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1788634088-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ecbed480e14282d0cfbf0b50f38979ce
-#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Paris Saint Germain vs Monaco - Ligue 1 | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/398/720p/chunks.m3u8?is_vip=false&token=1788634123-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d8176d01a6ad1dadf2778a347c109592
-#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",[Belum Mulai] 02:05 WIB PSG vs Monaco
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
-https://live2.domainkqt.cc/live/channel6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kb2O9E3.jpeg" group-title="Live Event: Voli",[Belum Mulai] 04:00 WIB REPUBLICA DOMINICANA U23 vs CANADA U23 - Copa Panamericana Sub 23 | Gvision TV
-insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kb2O9E3.jpeg" group-title="Live Event: Voli",[Belum Mulai] 06:00 WIB MEXICO U23 vs COSTA RICA U23 - Copa Panamericana Sub 23 | Gvision TV
-insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kb2O9E3.jpeg" group-title="Live Event: Voli",[Belum Mulai] 08:00 WIB NICARAGUA U23 vs ESTADOS UNIDOS U23 - Copa Panamericana Sub 23 | Gvision TV
-insertar.m3u8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1788635013-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a7764e877cde996b52193ccc65f52507
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="live event: fawa",[Argentina Liga Profesional] Boca Juniors vs Lanus Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
