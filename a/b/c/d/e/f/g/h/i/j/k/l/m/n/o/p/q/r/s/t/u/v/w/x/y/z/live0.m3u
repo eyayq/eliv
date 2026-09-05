@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 10:22:56 WIB 05-09-2026
+# ⏰ Latest Updated: 10:29:41 WIB 05-09-2026
 # 🔄 Total Channels: 813
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:22:56 WIB 05-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:29:41 WIB 05-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4337
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4337
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -133,24 +133,30 @@ https://tfz16gr4ugmtwgczdcqjqgr5n4amoxb5gccdzqchunmu3cf3gha5rpa.100ycdn.com/apxv
 https://tfz16gr4ugmtwgczdcqjqgr5n4amoxb5gccdzqchunmu3cf3gha5rpa.100ycdn.com/apxvf0ws91.yarncdn.live/live/sd-6MxiKav4bUW8Cc4rt8/playlist.m3u8?wsSession=17d591544bac42808d907f0a-178859954274121&wsIPSercert=219f1e78744c9fe79481d6c58b81e935&wsBindIP=2&wsserid=1168287746140338896
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",China Masters | Court 1 | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=bf64dc064aa54b0b095b10dce63a4f5a&wsABSTime=1788635962
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",China Masters | Court 1 | ASTRO BADMINTON | Gvision TV
-http://gvisiontv.channell.my.id/event/event6/play.php/dd227e87.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",PSIM Yogyakarta vs Persita - Liga 1 [Server 1] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e8f3-backup/chunks.m3u8?is_vip=false&token=1788689865-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-72d910b27f74078b87e93ad73721d7c2
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",PSIM Yogyakarta vs Persita - Liga 1 [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e8f3/chunks.m3u8?is_vip=false&token=1788689866-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-15221d945b46f04bec3caa683bc25b2f
 #EXTINF:-1 tvg-logo="https://assets.bharian.com.my/images/articles/liji_1779879612.jpg" group-title="LIVE EVENT",Negeri Sembilan vs Imigresen - Super League [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb34774-backup/chunks.m3u8?is_vip=false&token=1788688956-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-984d65e84296f3041f596443dc51ea70
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb34774-backup/chunks.m3u8?is_vip=false&token=1788689869-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2c030fdc3b261ce2ded3cf81ce7b57d6
 #EXTINF:-1 tvg-logo="https://assets.bharian.com.my/images/articles/liji_1779879612.jpg" group-title="LIVE EVENT",Negeri Sembilan vs Imigresen - Super League [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb34774/chunks.m3u8?is_vip=false&token=1788688957-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a7f2fe2514400a9973e8a36bee007cbb
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb34774/chunks.m3u8?is_vip=false&token=1788689870-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-23ef8db0887ae641080177b188c37490
 #EXTINF:-1 tvg-logo="https://assets.fiba.basketball/image/upload/w_400,c_fill/q_auto/f_auto/v1733147640/mrt4nkrjamucesukpngx" group-title="LIVE EVENT",c_fill/q_auto/f_auto/v1733147640/mrt4nkrjamucesukpngx" group-title="LIVE EVENT",Mali vs Spain - FIBA Women's Basketball World Cup | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/138846/720p/chunks.m3u8?is_vip=false&token=1788688969-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c71de5550a63d51ec9a11fe3c0a536de
+https://livecdn-tc-iptv.rumsport10.live/live_abr/138846/720p/chunks.m3u8?is_vip=false&token=1788689879-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-860570aefa2185123a4f600c5a8940b5
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C5612AQHiXakt8m5VIg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520114902559?e=2147483647&v=beta&t=gpsPzRKfj148HxTRgEfYfz88P5HVMAhZaoiQCuSpo50" group-title="LIVE EVENT",Italian Grand Prix 2026 - Practice 3 - Formula 1 Practice | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788689011-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-806a4801721cbb1de6eb6fc4113df1c2
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788689897-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-935e022fd15da956bd81289dd38ef99b
 #EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="LIVE EVENT",MPL INDONESIA SEASON 18 Week 4 Day 2 | Streaming mobile legends: bang bang. | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RysNTbqaPcU/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 20:00 WIB TURQUIA vs SERBIA - Semifinal Campeoneto Europeo de Voley | Gvision TV
@@ -169,8 +175,6 @@ insertar.m3u8
 insertar.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",China Masters | Court 1 | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=bf64dc064aa54b0b095b10dce63a4f5a&wsABSTime=1788635962
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="Live Event: Badminton",China Masters | Court 1 | ASTRO BADMINTON | Gvision TV
-http://gvisiontv.channell.my.id/event/event6/play.php/dd227e87.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="Live Esports",MPL INDONESIA SEASON 18 Week 4 Day 2 | Streaming mobile legends: bang bang. | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="live event: fawa",[Argentina Liga Profesional] Boca Juniors vs Lanus Gvision TV
