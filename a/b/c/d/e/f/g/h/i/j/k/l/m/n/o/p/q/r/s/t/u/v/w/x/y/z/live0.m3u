@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 19:01:16 WIB 05-09-2026
-# 🔄 Total Channels: 822
+# ⏰ Latest Updated: 19:07:59 WIB 05-09-2026
+# 🔄 Total Channels: 816
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:01:16 WIB 05-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:07:59 WIB 05-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -72,6 +72,11 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",01:15 WIB Serie A Liga Italia | ANTV | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://tvratu.my.id/vid/index.m3u8?id=782&type=hls
 #EXTINF:-1 tvg-logo="https://shorter.me/87PxH" group-title="LIVE EVENT",01:00 WIB Ajax vs PSV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -93,6 +98,21 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RysNTbqaPcU/hq720.jpg" group-title="LIVE EVENT",02:00 WIB REPLAY - TURQUIA vs SERBIA - Semifinal Campeoneto Europeo de Voley | Gvision TV
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/cOXUcUzYCUlt/2026/9/5/12_8_15/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WCDNQxBZRTg/hq720.jpg" group-title="LIVE EVENT",02:00 WIB REPLAY - POLONIA vs ITALIA - Semifinal Campeoneto Europeo de Voley | Gvision TV
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/IZkjesfc2SrM/2026/9/5/15_3_49/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",02:00 WIB Villarreal vs Deportivo La Coruna
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKF4t5o17n3PkqwRHnpvj5c31aDxX_XLsvXTPjdmYTSg&s=10" group-title="LIVE EVENT",02:00 WIB Swansea City vs Wrexham
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 tvg-logo="https://faqsoccer.com/wp-content/uploads/2022/11/campionato-olandese-eredivisie.jpeg" group-title="LIVE EVENT",Ajax vs PSV Eindhoven - Eredivisie [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
@@ -213,35 +233,6 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7bcf-hd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884045-hd/chunks.m3u8?is_vip=false&token=1788720500-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-07885555ab4dd98bdf78ce7d65da693e
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RysNTbqaPcU/hq720.jpg" group-title="LIVE EVENT",02:00 WIB REPLAY - TURQUIA vs SERBIA - Semifinal Campeoneto Europeo de Voley | Gvision TV
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/cOXUcUzYCUlt/2026/9/5/12_8_15/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WCDNQxBZRTg/hq720.jpg" group-title="LIVE EVENT",02:00 WIB REPLAY - POLONIA vs ITALIA - Semifinal Campeoneto Europeo de Voley | Gvision TV
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/IZkjesfc2SrM/2026/9/5/15_3_49/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",[Belum Mulai] 02:00 WIB Villarreal vs Deportivo La Coruna
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKF4t5o17n3PkqwRHnpvj5c31aDxX_XLsvXTPjdmYTSg&s=10" group-title="LIVE EVENT",[Belum Mulai] 02:00 WIB Swansea City vs Wrexham
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RysNTbqaPcU/hq720.jpg" group-title="Live Event: Voli",02:00 WIB REPLAY - TURQUIA vs SERBIA - Semifinal Campeoneto Europeo de Voley | Gvision TV
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/cOXUcUzYCUlt/2026/9/5/12_8_15/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WCDNQxBZRTg/hq720.jpg" group-title="Live Event: Voli",02:00 WIB REPLAY - POLONIA vs ITALIA - Semifinal Campeoneto Europeo de Voley | Gvision TV
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/IZkjesfc2SrM/2026/9/5/15_3_49/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vyJ1trT.jpeg" group-title="Live Event: Voli",02:00 WIB MARTIN LUTHER/MARECHAL VOLEI vs CASTRO VOLEI/ACV - Campeonato Paranaense de Voley | Gvision TV
-insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kb2O9E3.jpeg" group-title="Live Event: Voli",[Belum Mulai] 04:00 WIB CANADA U23 vs COSTA RICA U23 - Copa Panamericana Sub 23 | Gvision TV
-insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kb2O9E3.jpeg" group-title="Live Event: Voli",[Belum Mulai] 06:00 WIB ESTADOS UNIDOS U23 vs MEXICO U23 - Copa Panamericana Sub 23 | Gvision TV
-insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kb2O9E3.jpeg" group-title="Live Event: Voli",[Belum Mulai] 08:00 WIB REPUBLICA DOMINICANA U23 vs NICARAGUA U23 - Copa Panamericana Sub 23 | Gvision TV
-insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vyJ1trT.jpeg" group-title="Live Event: Voli",[Belum Mulai] 08:00 WIB IRAN vs INDIA - Campeonato Asiatico de Voley Masculino | Gvision TV
-insertar.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="live event: fawa",[Argentina Liga Profesional] Boca Juniors vs Lanus Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
