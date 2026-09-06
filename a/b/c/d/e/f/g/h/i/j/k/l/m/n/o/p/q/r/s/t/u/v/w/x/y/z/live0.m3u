@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 20:00:08 WIB 06-09-2026
-# 🔄 Total Channels: 740
+# ⏰ Latest Updated: 20:07:32 WIB 06-09-2026
+# 🔄 Total Channels: 755
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:00:08 WIB 06-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:07:32 WIB 06-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -84,26 +84,86 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",Juventus vs AC Milan - Serie A | Gvision TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",Juventus vs AC Milan - Serie A [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8671/chunks.m3u8?is_vip=false&token=1788810445-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3498a04448438a993d2966d68e636085
-#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Marseille vs Paris FC - Ligue 1 | Gvision TV
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8671-hd/chunks.m3u8?is_vip=false&token=1788811347-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a2e86eb7085f81359d82e8c90177d99f
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",Juventus vs AC Milan - Serie A [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8672/chunks.m3u8?is_vip=false&token=1788810446-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5fb4acc1bfc3dc34929bf9a6d736a598
-#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",Espanyol vs Sevilla - La Liga | Gvision TV
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8671-fhd/chunks.m3u8?is_vip=false&token=1788811348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9817740bc719401ee6e8cd3254058636
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",Juventus vs AC Milan - Serie A [Server 3] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8673/chunks.m3u8?is_vip=false&token=1788810447-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-92f294964cf0dc7d39947c9150566bc4
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8671-backup/chunks.m3u8?is_vip=false&token=1788811349-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-20efff9b652eafb18c8b28ef8b7dea34
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",Juventus vs AC Milan - Serie A [Server 4] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8671/chunks.m3u8?is_vip=false&token=1788811350-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cac10be344553ac17109db24b60c0f4b
+#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Marseille vs Paris FC - Ligue 1 [Server 1] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8672-hd/chunks.m3u8?is_vip=false&token=1788811351-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-59ac839b14df0f75da4eaf2ecb04fd63
+#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Marseille vs Paris FC - Ligue 1 [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8672-backup/chunks.m3u8?is_vip=false&token=1788811352-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4b0d76f5ba875131d21e420807a963d4
+#EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Marseille vs Paris FC - Ligue 1 [Server 3] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8672/chunks.m3u8?is_vip=false&token=1788811353-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a4b765384c3a7726dc689a558b3374fe
+#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",Espanyol vs Sevilla - La Liga [Server 1] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8673-hd/chunks.m3u8?is_vip=false&token=1788811354-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0a7d00262effec1486ca7656ccf01d5a
+#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",Espanyol vs Sevilla - La Liga [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8673-backup/chunks.m3u8?is_vip=false&token=1788811355-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7b231dcb2f3ade4e4a04d6c457e13025
+#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",Espanyol vs Sevilla - La Liga [Server 3] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8673/chunks.m3u8?is_vip=false&token=1788811357-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-79f68dce876915fdc1d2e9f2e96d46bf
 #EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",US Open - US Open | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788810448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1abcfc6b78da5809948e942258fbea7f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788811358-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a78b80335c96df05e03081d977089111
 #EXTINF:-1 tvg-logo="https://www.indycar.com/-/media/IndyCar/News/Standard/2022/11/11-03-INDYNXT.png" group-title="LIVE EVENT",Grand Prix of Monterey Race 2 - Indy NXT Series | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788810462-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-41713ededab366c794d2aaa347043fd0
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788811384-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8ff1f1e1cc98e50235508ba304bb5fd5
+#EXTINF:-1 tvg-logo="https://b2-content.tuttocampo.it/News/Original/1861293.png" group-title="LIVE EVENT",Cittadella vs Lumezzane - Serie C - Girone A | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b684fd/chunks.m3u8?is_vip=false&token=1788811395-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5a027f335fbf382c88e77bb3a0ffa685
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ea912-2318-733b-a1c1-d875cc6ae6a0/compose?aspectRatio=1.78&format=webp&width=1200" group-title="LIVE EVENT",Almeria vs Cadiz - Segunda Division [Server 1] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e263-fhd/chunks.m3u8?is_vip=false&token=1788811405-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8622117787b6227f4e2f478f2157ae87
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ea912-2318-733b-a1c1-d875cc6ae6a0/compose?aspectRatio=1.78&format=webp&width=1200" group-title="LIVE EVENT",Almeria vs Cadiz - Segunda Division [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e263-backup/chunks.m3u8?is_vip=false&token=1788811406-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-48f77d264e74e362cad92e85101e08cb
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ea912-2318-733b-a1c1-d875cc6ae6a0/compose?aspectRatio=1.78&format=webp&width=1200" group-title="LIVE EVENT",Almeria vs Cadiz - Segunda Division [Server 3] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e263/chunks.m3u8?is_vip=false&token=1788811407-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-36e75486507541d4f0a08407cd68c29d
+#EXTINF:-1 tvg-logo="https://b2-content.tuttocampo.it/News/Original/1861293.png" group-title="LIVE EVENT",Ospitaletto vs Arzignano Valchiampo - Serie C - Girone A | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b684fc/chunks.m3u8?is_vip=false&token=1788811408-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cda253fe6aa65645e740e1013d410476
+#EXTINF:-1 tvg-logo="https://b2-content.tuttocampo.it/News/Original/1861293.png" group-title="LIVE EVENT",Union Brescia vs Desenzano Calvina - Serie C - Girone A | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b684fe/chunks.m3u8?is_vip=false&token=1788811409-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-15645fe86f97bf14ed851d5244d00969
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/Portuguese-Primeira-Liga-logo.jpg" group-title="LIVE EVENT",GIL Vicente vs Academico Viseu - Primeira Liga [Server 1] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e268-backup/chunks.m3u8?is_vip=false&token=1788811412-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ce7e40479e68796a5749c0e3c23a543e
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/Portuguese-Primeira-Liga-logo.jpg" group-title="LIVE EVENT",GIL Vicente vs Academico Viseu - Primeira Liga [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e268/chunks.m3u8?is_vip=false&token=1788811413-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1349e37e098939dc185f70d4c5664f01
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kt-463Gna88/hq720.jpg" group-title="Live Event: Voli",00:05 WIB REPLAY - POLONIA vs SERBIA - Medalla de Bronce Campeoneto Europeo de Voley | Gvision TV
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/PEppq2nR7zrY/2026/9/6/12_2_17/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eTRhGMCkRqk/hq720.jpg" group-title="Live Event: Voli",00:05 WIB ITALIA vs TURQUIA - Final Campeoneto Europeo de Voley | Gvision TV
