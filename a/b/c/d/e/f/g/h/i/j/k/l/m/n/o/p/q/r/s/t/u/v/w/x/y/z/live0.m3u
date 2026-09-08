@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 13:57:01 WIB 08-09-2026
-# 🔄 Total Channels: 836
+# ⏰ Latest Updated: 14:03:49 WIB 08-09-2026
+# 🔄 Total Channels: 826
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [13:57:01 WIB 08-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:03:49 WIB 08-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -533,26 +533,6 @@ http://193.47.62.41/hls/IZZZ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.41/hls/IZZZQQ.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/18.png" group-title="live event: fawa",[Turkey Super Lig] Trabzonspor vs Genclerbirligi Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/IZZZQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2026/01/uae_pro_league-logo_brandlogos.net_2xkd7-512x612.png" group-title="live event: fawa",[UAE Premier League] Al Dhafra vs Al Wahda Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/UBBBA.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2323.png" group-title="live event: fawa",[USA NWSL Women] Denver Summit W vs Gotham W Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.59/hls/atttA.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png" group-title="live event: fawa",[Uruguay Liga AUF] Central Esp vs Defensor Sp Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/KTTTA.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -710,21 +690,17 @@ http://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnnindonesia.png" group-title="Nasional",CNN Indonesia
-#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oXUlkWZEek-aVRktTmJ0ztMGmV2y4VF0FCIhsNC5EQ&s=10" group-title="Nasional",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png" group-title="Nasional",TVONE (DN)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png" group-title="Nasional",TVONE (DN)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=http://www.visionplus.id/
@@ -849,13 +825,11 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg" group-title="Nasional",SIN PO TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxedX4yS-4XhyUfJlsi5FmHfos7iVuZvuBMeLwoHG5hg&s=10" group-title="Nasional",VTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27fe63a923084c12b0b05d33d204bdca:f9624ac728524e9fdf8e3a97018fe26d
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxedX4yS-4XhyUfJlsi5FmHfos7iVuZvuBMeLwoHG5hg&s=10" group-title="Nasional",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" group-title="Nasional",Mentari TV
@@ -903,7 +877,7 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT370BM9ASByQuGS3WvkQuPa-sS2lP0qA4Phl5G8zvncg&s=10" group-title="DAERAH",SAKTI TV | Madiun
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT370BM9ASByQuGS3WvkQuPa-sS2lP0qA4Phl5G8zvncg&s=10" group-title="DAERAH",SAKTI TV | Madiun X
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYxQTitN1UMPtaB2bxTXwVPi06P5Xdu9QWHhAxGozR_w&s=10" group-title="DAERAH",Madu TV | Jawa Timur
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -923,8 +897,6 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Xpy6aJPk6VQh3TtblFrFcED6XfEmcycb7pAvBrlVOQ&s=10" group-title="DAERAH",JTV | Kediri
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-PRHE7UVBD4FTMdWD1gMPVjId3egIl-EhF3i9hXlHQ&s=10" group-title="DAERAH",TATV | Solo
-https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXLUWiBllarKsFrPVAYVA5g7PYPjBmW2XEVZ-D3WLnuFZ-ivhfR02PDVRaDNPT9KONvEatw4g8FEGEvHYEr_aQnqbXlLejgEnFljJdg&s=10" group-title="DAERAH",BMS TV | Banyumas
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvE8WPi1WeteheEzwnkzBVYA7jJ4xpZYe_tO3ynPsVg&s" group-title="DAERAH",Duta TV | Banjarmasin
@@ -993,29 +965,27 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.visionplus.id/
 http://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_jaktv.png" group-title="DAERAH",JAK TV (DN) | Jakarta
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_jaktv.png" group-title="DAERAH",JAK TV | Jakarta
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8?app_type=web&userid=lite&chname=Jak_tv
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_jaktv.png" group-title="DAERAH",JAKTV (FX) | Jakarta
+http://op-flashcon-digdayasd-1.dens.tv/h/h209/stream.m3u8?app_type=web&userid=lite&chname=Jak_tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKkQuzgBQ8AXj3WOiyxjyKPr2M2jp6xLIW5LrFijznQ&s=10" group-title="DAERAH",KTV | Jakarta
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKkQuzgBQ8AXj3WOiyxjyKPr2M2jp6xLIW5LrFijznQ&s=10" group-title="DAERAH",KTV | Jakarta
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch118.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyctx470LFHo6ArxAA1JRqrs7MIZHwA9TGR9sKV6K5sT5R2l44qKY3xTc&s=10" group-title="DAERAH",ELSHINTA TV | Jakarta
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-flashcon-digdayasd-1.dens.tv/h/h209/stream.m3u8?app_type=web&userid=lite&chname=Elshinta_TV
+http://op-flashcon-digdayasd-1.dens.tv/h/h216/stream.m3u8?app_type=web&userid=lite&chname=Elshinta_TV
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C510BAQGxAiCCQ0R_Yg/company-logo_200_200/company-logo_200_200/0/1630607250063?e=2147483647&v=beta&t=9pA_cApHVxMn8MSw_S2xhpT_AG4FfC1WK2ZCbnn8OGw" group-title="DAERAH",Efarina TV | Sumatera Utara
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1114,16 +1084,14 @@ https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 https://63b2dc7196c38.streamlock.net:1937/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlQ8kkA74APoR0zxlp6I_sxPdFIresGSqApaA8DHP-8w&s=10" group-title="DAERAH",Selaparang TV | Lombok Timur | Ga 24 Jam
 https://selaparangtv.siar.us/live/selaparangtv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9L-JVJCPL2kL2gYNG1RlvVRZ-yMzCy9wJ6VyeG64G7A&s=10" group-title="DAERAH",Semarang TV | Semarang | Ga 24 Jam
-http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX_V3t0WlHz4ybv6ly4j-6H5H67jI0pzooYsXJbApv5Oiw8RDp452aj7pc&s=10" group-title="DAERAH",Sriwijaya TV | Palembang | Ga 24 Jam
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Y9RIlp3tNyCCizZXWKhczh7LZ1J3Ir40j1wb-4RhUdsSbyAY3BFh4pg&s=10" group-title="DAERAH",Sultra TV | Kendari | Ga 24 Jam
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Y9RIlp3tNyCCizZXWKhczh7LZ1J3Ir40j1wb-4RhUdsSbyAY3BFh4pg&s=10" group-title="DAERAH",Sultra TV | Kendari | Ga 24 Jam X
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6vcpGZrd59cVQIOVTxvl4NO9rM6lsyj9ndy_yOB67w5b2PScoOV9CA_p7&s=10" group-title="DAERAH",Riau TV | Riau | Ga 24 Jam
 http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6cfvWpU5dvWQa0shc4v4vldFxEHr6ddgyW-BTg8jXg&s=10" group-title="DAERAH",Smile TV | Jakarta | Ga 24 Jam
-https://103.109.155.226/hls/streaming/playlist.m3u8
+http://36.93.73.155:1919/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg" group-title="MOVIES & ENTERTAINMENT",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
