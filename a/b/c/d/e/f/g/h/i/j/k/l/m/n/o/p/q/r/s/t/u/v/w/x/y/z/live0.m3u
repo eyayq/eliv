@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 15:30:50 WIB 11-09-2026
-# 🔄 Total Channels: 849
+# ⏰ Latest Updated: 15:37:40 WIB 11-09-2026
+# 🔄 Total Channels: 851
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:30:50 WIB 11-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:37:40 WIB 11-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -89,35 +89,39 @@ https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126fa
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1i_Q0ENu9w48GeRDh1WdE1kFSUl9k3Cy-I_qtteulvw&s=10" group-title="LIVE EVENT",English Open: Terzo turno - World Snooker Tour | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1789226251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8ea59e2fc6dadb5b047367ff7a5b611e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1789227151-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3d2783666c922eba905998e49d4fb828
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hatta%20SC%20vs%20Al-Dhafra.jpg" group-title="LIVE EVENT",Hatta SC vs Al-Dhafra - Pro League [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fcb66eee29798bad18981-backup/chunks.m3u8?is_vip=false&token=1789226252-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-214c35f993de7be19eaebf3425ae1c99
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fcb66eee29798bad18981-backup/chunks.m3u8?is_vip=false&token=1789227152-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2f653f4299fc16c376c1db6dbfbd981f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hatta%20SC%20vs%20Al-Dhafra.jpg" group-title="LIVE EVENT",Hatta SC vs Al-Dhafra - Pro League [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fcb66eee29798bad18981/chunks.m3u8?is_vip=false&token=1789226253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1ebe06eeaddd1b277c10b3e38c89ad7c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fcb66eee29798bad18981/chunks.m3u8?is_vip=false&token=1789227154-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6e390c481dc47556ef1b9009c2f11b95
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Khorfakkan%20vs%20Baniyas%20SC.jpg" group-title="LIVE EVENT",Khorfakkan vs Baniyas SC - Pro League [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fcb66eee29798bad18980-backup/chunks.m3u8?is_vip=false&token=1789226255-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1f07053010e4356c5a43145e1a7dad86
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fcb66eee29798bad18980-backup/chunks.m3u8?is_vip=false&token=1789227155-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-70071b98241a1d6839a833d2dfbc8dd3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Khorfakkan%20vs%20Baniyas%20SC.jpg" group-title="LIVE EVENT",Khorfakkan vs Baniyas SC - Pro League [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fcb66eee29798bad18980/chunks.m3u8?is_vip=false&token=1789226255-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a5a1b09614e4f5ff86be9e4bc40faabf
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fcb66eee29798bad18980/chunks.m3u8?is_vip=false&token=1789227157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d922a2547ef1e5c7a3771d25d85c44a7
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C5612AQHiXakt8m5VIg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520114902559?e=2147483647&v=beta&t=gpsPzRKfj148HxTRgEfYfz88P5HVMAhZaoiQCuSpo50" group-title="LIVE EVENT",Spanish Grand Prix 2026 Practice 2 - Formula 1 Practice | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/263/720p/chunks.m3u8?is_vip=false&token=1789226257-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ce4376552362f1f75a35ef25028768cf
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwFk8l5_Iq5bfQUkIZ3BPu5GILguwjsfNOMrtGQ8a67UmiR3l9RaAmtDc&s=10" group-title="LIVE EVENT",Parma U20 vs Genoa U20 - Campionato Primavera - 1 [Server 1] | Gvision TV
+https://livecdn-tc-iptv.rumsport10.live/live_abr/263/720p/chunks.m3u8?is_vip=false&token=1789227159-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-052b08adda2c1222198aade0c1d7e67d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Qadisiyah%20FC%20vs%20Al-Ettifaq.jpg" group-title="LIVE EVENT",Al-Qadisiyah FC vs Al-Ettifaq - Pro League | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847aba6c031c11fac464c4-backup/chunks.m3u8?is_vip=false&token=1789226264-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fe1bc1885c94a6912547154f46efeef4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwFk8l5_Iq5bfQUkIZ3BPu5GILguwjsfNOMrtGQ8a67UmiR3l9RaAmtDc&s=10" group-title="LIVE EVENT",Parma U20 vs Genoa U20 - Campionato Primavera - 1 [Server 2] | Gvision TV
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a84/chunks.m3u8?is_vip=false&token=1789227167-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7910ec074fb5344f5a59ff7e67d75b3f
+#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",US Open - US Open | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847aba6c031c11fac464c4/chunks.m3u8?is_vip=false&token=1789226265-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-634b9ea276bfb74e4b52fd8aac6c45ae
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789227173-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-27b344b1f4d855e491cd630f11da899e
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xMyo6OiOGa0/hq720.jpg" group-title="LIVE EVENT",23:00 WIB PORTUGAL vs BULGARIA - Campeonato Europeo de Voley Masculino | Gvision TV
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/7wFZn8fKZ27j/2026/9/11/15_6_28/index.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/oLPEz" group-title="LIVE EVENT",[Belum Mulai] 23:00 WIB Portugal vs Bulgaria
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uK2Z4q-szcE/hq720.jpg" group-title="Live Event: Voli",20:00 WIB UCRANIA vs MACEDONIA - Campeonato Europeo de Voley Masculino | Gvision TV
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/BbQScOR6WNzi/2026/9/11/12_13_31/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WEDWY-J2j0U/hq720.jpg" group-title="Live Event: Voli",21:00 WIB REPUBLICA CHECA vs GRECIA - Campeonato Europeo de Voley Masculino | Gvision TV
@@ -128,7 +132,7 @@ https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126fa
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/2USwlGiNoVMk/2026/9/11/13_4_42/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lPjhYbT.png" group-title="Live Event: Voli",21:00 WIB ESTADOS UNIDOS vs GUATEMALA - Campeonato Norte y Centro Americano de Voley Masculino | Gvision TV
 https://rumble.com/live-hls-dvr/u8qCfsJ3FpU/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xMyo6OiOGa0/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 23:00 WIB PORTUGAL vs BULGARIA - Campeonato Europeo de Voley Masculino | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xMyo6OiOGa0/hq720.jpg" group-title="Live Event: Voli",23:00 WIB PORTUGAL vs BULGARIA - Campeonato Europeo de Voley Masculino | Gvision TV
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/7wFZn8fKZ27j/2026/9/11/15_6_28/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lPjhYbT.png" group-title="Live Event: Voli",[Belum Mulai] 23:30 WIB MEXICO vs PUERTO RICO - Campeonato Norte y Centro Americano de Voley Masculino | Gvision TV
 insertar.m3u8
