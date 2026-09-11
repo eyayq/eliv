@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 09:49:43 WIB 11-09-2026
+# ⏰ Latest Updated: 10:44:56 WIB 11-09-2026
 # 🔄 Total Channels: 826
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [09:49:43 WIB 11-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:44:56 WIB 11-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -74,34 +74,36 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/photo/2021/0726/r885715_1296x729_16-9.jpg" group-title="LIVE EVENT",13:30 WIB IRAN vs CHINA TAIPEI - 4to de Final Campeonato Asiatico de Voley Masculino | Gvision TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10" group-title="LIVE EVENT",17:00 WIB thaayth`dsd AVC MEN'S CONTINENTAL 2026 / khaawainphraraachsamnak | MONO29 | Gvision TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=29
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/photo/2021/0726/r885715_1296x729_16-9.jpg" group-title="LIVE EVENT",17:30 WIB JAPON vs INDIA - 4to de Final Campeonato Asiatico de Voley Masculino | Gvision TV
 https://rumble.com/live-hls-dvr/u8qCfsJ3FpU/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",15:30 WIB Garudayaksa vs Persik Kediri
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622763.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=38f71c93a9e027aaccc17416c4e3ba20
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",15:30 WIB Garudayaksa vs Persik Kediri
-#EXTVLCOPT:http-origin=https://ppdd19.playaindg12.xyz/
-#EXTVLCOPT:http-referrer=https://ppdd19.playaindg12.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://xxyznt1-cf.sbbol1011play.sbs/auth%3D8858473e79b310e7305e3ad4262fdcd961daffba3e5d4329c3e1b90614088750aa9e6bd82411531ba186f629d2795c3a642a4bb462a8a17e23d64cfefe7f6f1012b9da9a12bce27446d161530a57c71a8322169fafeadaef712443e548a4a32c1539afdc08048ebd053363456d8c10ba416d901541b28f8c4c95f5983652dfd5588642abccb635b3218d7cd7ec0d4e54e5dca7791306cbb9c12d44691c66433b%26cid%3D1q9m1ORfaBxOeZ3xAgxrW260911%26_v%3D2%26_r%3D_3TA_6%26_vis%3D872ccbb9fa67a1083b9118815b60917e3323155ab2569811d01368a071c58b21%26_vvs%3Decaa80fc1fda6249f80b4b6448a4039917ae136943f90a9b644c439fd780e38b%26_vas%3De2e6c7b3809b10d7dee266c14f2912868dcea9a57b1b9c80632415d2301bb1f2/app/c437551.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",15:30 WIB Garudayaksa vs Persik Kediri
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjMpYtloeDkG1NInHMVRkBCP2ER5DFnrS_DCjgOv-Ww&s=10" group-title="LIVE EVENT",17:30 WIB Jepang vs India
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjMpYtloeDkG1NInHMVRkBCP2ER5DFnrS_DCjgOv-Ww&s=10" group-title="LIVE EVENT",17:30 WIB Jepang vs India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel18.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",Vietnam Open | Court 2 | XOILACZ | Gvision TV
-https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=385e106e4b2622593f85b51a6f3e87f7&wsABSTime=1789145960
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",Vietnam Open | Court 3 | XOILACZ | Gvision TV
-https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=385e106e4b2622593f85b51a6f3e87f7&wsABSTime=1789145960
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",Garudayaksa vs Persik Kediri - Liga 1 | Gvision TV
+https://live2.felnorastreamvault.com/live/channel33.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoQvJAwPWLu35OUWCxQ-QFBxNZs7Sdup2xv9kLA1XpWQ&s=10" group-title="LIVE EVENT",Kyoto Sanga vs Kashiwa Reysol - J1 League [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a94/chunks.m3u8?is_vip=false&token=1789205547-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-858ee88a9afe8b07ecd7f27b80fdb47c
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnmNYfbhKztPfIuflkffCrwUu__cg0BvQ7lKX9mjxwjNWBXInYG7tDXQ&s=10" group-title="LIVE EVENT",Madrid Spain - FIA Formula 2 Championship Practice | Gvision TV
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847aba6c031c11fac464d4-backup/chunks.m3u8?is_vip=false&token=1789209155-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b19625aa3a457eb08b9bb48f01605b8f
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoQvJAwPWLu35OUWCxQ-QFBxNZs7Sdup2xv9kLA1XpWQ&s=10" group-title="LIVE EVENT",Kyoto Sanga vs Kashiwa Reysol - J1 League [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/263/720p/chunks.m3u8?is_vip=false&token=1789205549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-414c4fc2525ff55942de994a288256b1
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847aba6c031c11fac464d4/chunks.m3u8?is_vip=false&token=1789209155-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c316b0f51f4d831df276481b61432966
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoQvJAwPWLu35OUWCxQ-QFBxNZs7Sdup2xv9kLA1XpWQ&s=10" group-title="LIVE EVENT",Vissel Kobe vs Kashima - J1 League [Server 1] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847aba6c031c11fac464d8-backup/chunks.m3u8?is_vip=false&token=1789209157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-49d18309e0424fda871bf2c0c9bf528b
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoQvJAwPWLu35OUWCxQ-QFBxNZs7Sdup2xv9kLA1XpWQ&s=10" group-title="LIVE EVENT",Vissel Kobe vs Kashima - J1 League [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847aba6c031c11fac464d8/chunks.m3u8?is_vip=false&token=1789209157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4aefbed8b5af1205ea9e3b8576285f0e
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="live event: fawa",[Argentina Liga Profesional] Rosario Central vs Newells Old Boys Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
