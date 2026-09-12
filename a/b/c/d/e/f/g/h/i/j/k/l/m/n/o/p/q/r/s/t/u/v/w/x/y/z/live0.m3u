@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 21:49:55 WIB 12-09-2026
-# 🔄 Total Channels: 887
+# ⏰ Latest Updated: 21:56:55 WIB 12-09-2026
+# 🔄 Total Channels: 889
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [21:49:55 WIB 12-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [21:56:55 WIB 12-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -71,19 +71,27 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",US Open - US Open | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789335144-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-df40184bb38a8c6c7b9174f284e21f7e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789336040-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf4d9d033d9b67610895f0920cb67e2e
+#EXTINF:-1 tvg-logo="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2025/06/05185845/ufc_noche.jpg" group-title="LIVE EVENT",PRELIMS - NOCHE UFC | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1789336041-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4704bd0f11ec276c9988326b4b11e2ed
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvvyGryUauSTqRQG35-yAHp6iN-_YwYyzeVw&s=10" group-title="LIVE EVENT",Atletico Tucuman vs River Plate - Liga Profesional Argentina [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db012-fhd/chunks.m3u8?is_vip=false&token=1789335164-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-797c46477f05a88509cf16fa32f0f2c6
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db012-fhd/chunks.m3u8?is_vip=false&token=1789336058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9a70960a7a1ff2e993bf3f1e6dcf4069
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvvyGryUauSTqRQG35-yAHp6iN-_YwYyzeVw&s=10" group-title="LIVE EVENT",Atletico Tucuman vs River Plate - Liga Profesional Argentina [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db012-backup/chunks.m3u8?is_vip=false&token=1789335165-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-697850472ed34ebc834ea5befd8c3323
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db012-backup/chunks.m3u8?is_vip=false&token=1789336059-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-be6be56815dac82595a17257cd134a34
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvvyGryUauSTqRQG35-yAHp6iN-_YwYyzeVw&s=10" group-title="LIVE EVENT",Atletico Tucuman vs River Plate - Liga Profesional Argentina [Server 3] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db012/chunks.m3u8?is_vip=false&token=1789335166-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3d95d25fa0bbb0918d6f63a2b48de82f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db012/chunks.m3u8?is_vip=false&token=1789336060-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2fedaa076d6eef2bafa5d1817b3a90f2
+#EXTINF:-1 tvg-logo="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2025/06/05185845/ufc_noche.jpg" group-title="LIVE EVENT",SILVA vs DELGADOA - NOCHE UFC | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/53766/720p/chunks.m3u8?is_vip=false&token=1789336062-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6f95c0b3cd4fc84bdd3587ca942976b5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lPjhYbT.png" group-title="Live Event: Voli",05:00 WIB ESTADOS UNIDOS vs REPUBLICA DOMINICANA - Campeonato Norte y Centro Americano de Voley Masculino | Gvision TV
 insertar.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/83d851fb1110f1e395690403f9cf01bb.webp" group-title="live event: fawa",[Austria Bundesliga] Altach vs Grazer AK Gvision TV
