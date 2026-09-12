@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 15:37:29 WIB 12-09-2026
-# 🔄 Total Channels: 904
+# ⏰ Latest Updated: 15:44:11 WIB 12-09-2026
+# 🔄 Total Channels: 897
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:37:29 WIB 12-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:44:11 WIB 12-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -108,178 +108,162 @@ https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126fa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg" group-title="LIVE EVENT",FC Augsburg vs Bayer Leverkusen - Bundesliga [Server 1] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54362-hd/chunks.m3u8?is_vip=false&token=1789312649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1d523ff7e8079fa3643637f09d06c0b2
-#EXTINF:-1 tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg" group-title="LIVE EVENT",FC Augsburg vs Bayer Leverkusen - Bundesliga [Server 2] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54362/chunks.m3u8?is_vip=false&token=1789312650-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e23608ce2faff2315b0005db22f76773
-#EXTINF:-1 tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg" group-title="LIVE EVENT",FSV Mainz 05 vs Eintracht Frankfurt - Bundesliga [Server 1] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54361-hd/chunks.m3u8?is_vip=false&token=1789312651-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2d74050965c52225c3c5c6a8ef9cbc5c
-#EXTINF:-1 tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg" group-title="LIVE EVENT",FSV Mainz 05 vs Eintracht Frankfurt - Bundesliga [Server 2] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54361-backup/chunks.m3u8?is_vip=false&token=1789312652-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e0803c184aa4201e1c219d1c6626838b
-#EXTINF:-1 tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg" group-title="LIVE EVENT",FSV Mainz 05 vs Eintracht Frankfurt - Bundesliga [Server 3] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54361/chunks.m3u8?is_vip=false&token=1789312653-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-48f8ee5800e46794d003c5d20211a363
-#EXTINF:-1 tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg" group-title="LIVE EVENT",Borussia Dortmund vs SC Paderborn 07 - Bundesliga [Server 1] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54365-hd/chunks.m3u8?is_vip=false&token=1789312657-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5555ff95e458d40d83b107ec94c88e1b
-#EXTINF:-1 tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg" group-title="LIVE EVENT",Borussia Dortmund vs SC Paderborn 07 - Bundesliga [Server 2] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54365/chunks.m3u8?is_vip=false&token=1789312658-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f6825ba72f11f00e64a85eb531f8f58b
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Aston Villa vs Nottingham Forest - Premier League [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52432/720p/chunks.m3u8?is_vip=false&token=1789312660-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-614f570d73ded48ba44aa35265f2de8d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/52432/720p/chunks.m3u8?is_vip=false&token=1789313544-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5adba5277bb43ae0bb894f0887945ff4
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Aston Villa vs Nottingham Forest - Premier League [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54380/chunks.m3u8?is_vip=false&token=1789312662-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-effbabc5dede54fc7584741edbfa8d67
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54380/chunks.m3u8?is_vip=false&token=1789313545-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-65a2e59ac7ed61a14f7ae860d02312b1
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Aston Villa vs Nottingham Forest - Premier League [Server 3] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a847abae9d80a100ce54380/720p/chunks.m3u8?is_vip=false&token=1789312662-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-911490fec3e1fd2c4e9bf00f80b8d417
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a847abae9d80a100ce54380/720p/chunks.m3u8?is_vip=false&token=1789313547-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9d2164ff32e0da9e0e06d5a0a8fcb830
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Bournemouth vs Brentford - Premier League [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143075/720p/chunks.m3u8?is_vip=false&token=1789312664-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f2f95a807064849fb1da0458de9a9e33
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143075/720p/chunks.m3u8?is_vip=false&token=1789313548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-89e7fec66a2e4b4f8808cf88d19f4657
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Bournemouth vs Brentford - Premier League [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5437f/chunks.m3u8?is_vip=false&token=1789312664-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0035cb0782801db5977680ab2e26f626
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5437f/chunks.m3u8?is_vip=false&token=1789313549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-14587870b534cd35f509a47436d9df47
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Bournemouth vs Brentford - Premier League [Server 3] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a847abae9d80a100ce5437f/720p/chunks.m3u8?is_vip=false&token=1789312665-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5d8881608f5e979efe77614eb3eb3c20
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a847abae9d80a100ce5437f/720p/chunks.m3u8?is_vip=false&token=1789313549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2f00264d056a60520548436e3e79573f
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Chelsea vs Hull City - Premier League [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52434/720p/chunks.m3u8?is_vip=false&token=1789312666-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7ecf2c412f1a1534bf92409dca789c8f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/52434/720p/chunks.m3u8?is_vip=false&token=1789313551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a64bc974a44b9c42ddf7b0d6083dbf45
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Chelsea vs Hull City - Premier League [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5437e-hd/chunks.m3u8?is_vip=false&token=1789312667-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-739e337492b643321b22f8770ef03fbd
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5437e/chunks.m3u8?is_vip=false&token=1789313551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-01c895044d172a693f2468725432331a
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Chelsea vs Hull City - Premier League [Server 3] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5437e/chunks.m3u8?is_vip=false&token=1789312668-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9b6eb2fa0803c558a666b3078bcd41ba
-#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Chelsea vs Hull City - Premier League [Server 4] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a847abae9d80a100ce5437e/720p/chunks.m3u8?is_vip=false&token=1789312668-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-46d99af83befc9cd017a05c149004309
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a847abae9d80a100ce5437e/720p/chunks.m3u8?is_vip=false&token=1789313552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5ebc2eea2a803c2b79465789bca7ea36
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Crystal Palace vs Ipswich - Premier League | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/144258/720p/chunks.m3u8?is_vip=false&token=1789312669-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7165727644bae66b2a95251f801f75a7
+https://livecdn-tc-iptv.rumsport10.live/live_abr/144258/720p/chunks.m3u8?is_vip=false&token=1789313553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf9766042986ee3cb31b5a1cb2400e34
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Liverpool vs Fulham - Premier League [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5437c/chunks.m3u8?is_vip=false&token=1789312671-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9bf4af2c34867f64338f1fdf180116c9
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=1789313554-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f06903cbefd80fb03a35782e1e4d3871
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Liverpool vs Fulham - Premier League [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a847abae9d80a100ce5437c-hd/720p/chunks.m3u8?is_vip=false&token=1789312671-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0b6c53bef43c9e0f1ac489e018719c94
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5437c-fhd/chunks.m3u8?is_vip=false&token=1789313555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-841a90b67191c41c42df975148921f38
+#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Liverpool vs Fulham - Premier League [Server 3] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5437c/chunks.m3u8?is_vip=false&token=1789313556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3504ad8879fd062580b6c6a455101317
+#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",Liverpool vs Fulham - Premier League [Server 4] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a847abae9d80a100ce5437c-hd/720p/chunks.m3u8?is_vip=false&token=1789313556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d8ea28dda64fb84e623af3f75d53f19d
 #EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",Osasuna vs Espanyol - La Liga | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0016/chunks.m3u8?is_vip=false&token=1789312673-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6d23abf7c968bdd73547a8e33d43f606
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0016/chunks.m3u8?is_vip=false&token=1789313557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b9465a115f467d38448c7a956cf910b6
 #EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Strasbourg vs Monaco - Ligue 1 [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac46655-hd/chunks.m3u8?is_vip=false&token=1789312674-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d7bc24801ede9e3ede89c1545436814c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac46655-hd/chunks.m3u8?is_vip=false&token=1789313558-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-029f526f42d6536343bdc1e462149171
 #EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",Strasbourg vs Monaco - Ligue 1 [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac46655/chunks.m3u8?is_vip=false&token=1789312675-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9de579129d441a2eab67b1b7224c0c3c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac46655/chunks.m3u8?is_vip=false&token=1789313559-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dc6d6c9b4f6e20026967ab78e8eb970e
 #EXTINF:-1 tvg-logo="https://e0.365dm.com/22/06/1600x900/skysports-league-two-badge_5812037.jpg?20220622124652" group-title="LIVE EVENT",York vs Swindon Town - League Two | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac46571/chunks.m3u8?is_vip=false&token=1789312695-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f9d77841315d9b8336e3f7eedbb4a9e2
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Blackburn vs Millwall - Championship [Server 1] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5438c-backup/chunks.m3u8?is_vip=false&token=1789312703-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9e339807e040127107998154c5707bde
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Blackburn vs Millwall - Championship [Server 2] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5438c/chunks.m3u8?is_vip=false&token=1789312704-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-84627d4ae3d80cc9360c1f8db7e27eb1
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Charlton vs Portsmouth - Championship [Server 1] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5438b-backup/chunks.m3u8?is_vip=false&token=1789312705-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b7a8ef443d98a499f96f1d25f20489e1
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Charlton vs Portsmouth - Championship [Server 2] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5438b/chunks.m3u8?is_vip=false&token=1789312705-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4eaa50cc0c48d5539506ae8cba93c0d8
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Middlesbrough vs Norwich - Championship [Server 1] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54389-hd/chunks.m3u8?is_vip=false&token=1789312707-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7c85c80e848f7045f9b60d94f7eb963c
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Middlesbrough vs Norwich - Championship [Server 2] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54389-backup/chunks.m3u8?is_vip=false&token=1789312708-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3f7be1bec534ec68865e2c81917315d5
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Middlesbrough vs Norwich - Championship [Server 3] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54389/chunks.m3u8?is_vip=false&token=1789312708-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9998cdab349a4ad51d0ad0f46714325f
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Preston vs Lincoln - Championship | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54388/chunks.m3u8?is_vip=false&token=1789312710-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cd5d457dd0ff07144d7c72e4f2726dfc
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Southampton vs Bristol City - Championship [Server 1] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54386-hd/chunks.m3u8?is_vip=false&token=1789312712-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-94b5ca46ee64a26bd14bee3d96ef7b48
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Southampton vs Bristol City - Championship [Server 2] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54386/chunks.m3u8?is_vip=false&token=1789312713-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e15e0c020607af0789c2ece7ca4a3be8
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Swansea vs Burnley - Championship | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/485/720p/chunks.m3u8?is_vip=false&token=1789312714-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b66e152c1e0c76bcfbb6d779c6fc79b7
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Watford vs Stoke City - Championship | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54385/chunks.m3u8?is_vip=false&token=1789312715-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5372f504e91419924736a001f4514989
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/22/06/1600x900/skysports-league-two-badge_5812037.jpg?20220622124652" group-title="LIVE EVENT",Barnet vs Accrington ST - League Two [Server 1] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac4657b-backup/chunks.m3u8?is_vip=false&token=1789312717-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-507f7e9072004baf99857bbf22114289
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/22/06/1600x900/skysports-league-two-badge_5812037.jpg?20220622124652" group-title="LIVE EVENT",Barnet vs Accrington ST - League Two [Server 2] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac4657b/chunks.m3u8?is_vip=false&token=1789312718-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ee3fd933d7fa733e4647d9608ce7769d
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/22/06/1600x900/skysports-league-two-badge_5812037.jpg?20220622124652" group-title="LIVE EVENT",Colchester vs Crewe - League Two | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac4657a/chunks.m3u8?is_vip=false&token=1789312719-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-399beaa3879e64f01d2e83aeaf40a461
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/22/06/1600x900/skysports-league-two-badge_5812037.jpg?20220622124652" group-title="LIVE EVENT",Gillingham vs Tranmere - League Two | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac46578/chunks.m3u8?is_vip=false&token=1789312720-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1cf65186471a2a02bded08acb36accf5
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac46571/chunks.m3u8?is_vip=false&token=1789313576-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f47c8aef88426948502e1450e8ae5252
 #EXTINF:-1 tvg-logo="https://e0.365dm.com/22/06/1600x900/skysports-league-two-badge_5812037.jpg?20220622124652" group-title="LIVE EVENT",Walsall vs Rochdale - League Two | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac46572-backup/chunks.m3u8?is_vip=false&token=1789312722-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9fc6a137b995ae52087b832ba830a5fc
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ea912-2318-733b-a1c1-d875cc6ae6a0/compose?aspectRatio=1.78&format=webp&width=1200" group-title="LIVE EVENT",Cadiz vs Las Palmas - Segunda Division | Gvision TV
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac46572-backup/chunks.m3u8?is_vip=false&token=1789313578-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f67f9a3bf323ca85cee0424ae26641ca
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/22/06/1600x900/skysports-league-two-badge_5812037.jpg?20220622124652" group-title="LIVE EVENT",Port Vale vs Exeter City - League Two | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0238/chunks.m3u8?is_vip=false&token=1789312723-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-61cc4c4006e56abb87b6b1e5dc2f1f6f
-#EXTINF:-1 tvg-logo="https://faqsoccer.com/wp-content/uploads/2022/11/campionato-olandese-eredivisie.jpeg" group-title="LIVE EVENT",Twente vs ADO Den Haag - Eredivisie | Gvision TV
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac46575/chunks.m3u8?is_vip=false&token=1789313579-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-202e71e86213bcb757d443faf2a5c4e6
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/22/06/1600x900/skysports-league-two-badge_5812037.jpg?20220622124652" group-title="LIVE EVENT",Colchester vs Crewe - League Two | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465bc/chunks.m3u8?is_vip=false&token=1789312724-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b295e501a945b97377357f8d024e6dc8
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac4657a/chunks.m3u8?is_vip=false&token=1789313580-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f17c6b7bd3ee14c92198c7a282724cf2
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Blackburn vs Millwall - Championship | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5438c/chunks.m3u8?is_vip=false&token=1789313586-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4f65a1abfad74d29e4fa37aab7da89aa
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/22/06/1600x900/skysports-league-two-badge_5812037.jpg?20220622124652" group-title="LIVE EVENT",Gillingham vs Tranmere - League Two [Server 1] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac46578-backup/chunks.m3u8?is_vip=false&token=1789313587-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cb5d251895b1f9e5756a8dcf56ba284a
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/22/06/1600x900/skysports-league-two-badge_5812037.jpg?20220622124652" group-title="LIVE EVENT",Gillingham vs Tranmere - League Two [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac46578/chunks.m3u8?is_vip=false&token=1789313588-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fed90039176d0c9f9273fdd2483b8ceb
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/22/06/1600x900/skysports-league-two-badge_5812037.jpg?20220622124652" group-title="LIVE EVENT",Barnet vs Accrington ST - League Two | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac4657b-backup/chunks.m3u8?is_vip=false&token=1789313589-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7a3146200c00ca32df054d637f913075
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Watford vs Stoke City - Championship | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54385/chunks.m3u8?is_vip=false&token=1789313590-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-715aef6c839f2a8f636cf99e9ab662f4
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Swansea vs Burnley - Championship [Server 1] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/485/720p/chunks.m3u8?is_vip=false&token=1789313592-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b8a7b1381fb868b7e17c838013515fb2
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Swansea vs Burnley - Championship [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54382-backup/chunks.m3u8?is_vip=false&token=1789313593-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8530c5cb74ddc538d2b4ee240ea58ad7
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Swansea vs Burnley - Championship [Server 3] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54382/chunks.m3u8?is_vip=false&token=1789313594-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a35bfca2d32fe7f4fb22c3fdcf208335
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Charlton vs Portsmouth - Championship | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5438b/chunks.m3u8?is_vip=false&token=1789313595-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-14dfef4d96d714030625fd1f48421a27
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Middlesbrough vs Norwich - Championship [Server 1] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54389-backup/chunks.m3u8?is_vip=false&token=1789313596-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-988b7e2a2bb3e44b93da8da7371e4c80
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Middlesbrough vs Norwich - Championship [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54389/chunks.m3u8?is_vip=false&token=1789313597-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8744e4622096495dd7539f03795ec54d
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Southampton vs Bristol City - Championship | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54386/chunks.m3u8?is_vip=false&token=1789313598-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fd2d2b3f89f18d00fbf1e694bd5ba35c
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/25/06/1600x900/skysports-graphic-championship_6939838.jpg?20250612073847" group-title="LIVE EVENT",Preston vs Lincoln - Championship | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54388/chunks.m3u8?is_vip=false&token=1789313599-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-96733be119a151ca30b08c570e1f6f0d
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ea912-2318-733b-a1c1-d875cc6ae6a0/compose?aspectRatio=1.78&format=webp&width=1200" group-title="LIVE EVENT",Cadiz vs Las Palmas - Segunda Division [Server 1] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0238-fhd/chunks.m3u8?is_vip=false&token=1789313600-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4c768d5ebf06be87afce7a82f314ba2b
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ea912-2318-733b-a1c1-d875cc6ae6a0/compose?aspectRatio=1.78&format=webp&width=1200" group-title="LIVE EVENT",Cadiz vs Las Palmas - Segunda Division [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0238/chunks.m3u8?is_vip=false&token=1789313601-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-21a62e6bc2155198797ca7cf4380ce30
+#EXTINF:-1 tvg-logo="https://faqsoccer.com/wp-content/uploads/2022/11/campionato-olandese-eredivisie.jpeg" group-title="LIVE EVENT",Twente vs ADO Den Haag - Eredivisie [Server 1] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465bc-fhd/chunks.m3u8?is_vip=false&token=1789313608-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8ca95a8f18d99236b58f444520955020
+#EXTINF:-1 tvg-logo="https://faqsoccer.com/wp-content/uploads/2022/11/campionato-olandese-eredivisie.jpeg" group-title="LIVE EVENT",Twente vs ADO Den Haag - Eredivisie [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465bc/chunks.m3u8?is_vip=false&token=1789313608-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-09fa6e6e95f3a411662fe30e9f398c4c
+#EXTINF:-1 tvg-logo="https://images.mykhel.com/img/2026/08/usopen-tn-53611787226154.jpg" group-title="LIVE EVENT",US Open - US Open | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789313626-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9289685104cd2cfdc4a6d68bfae70fda
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",[Belum Mulai] 23:00 WIB Lazio vs Milan
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -287,12 +271,6 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465bc/chu
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jak8FC6U0sI/hq720.jpg" group-title="Live Event: Voli",19:00 WIB DINAMARCA vs HOLANDA - Campeonato Europeo de Voley Masculino | Gvision TV
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/mIlQ0KFRTrcd/2026/9/12/11_24_42/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t1UO-7GRNuA/hq720.jpg" group-title="Live Event: Voli",20:00 WIB POLONIA vs ISRAEL - Campeonato Europeo de Voley Masculino | Gvision TV
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/eynUBkgm3d8U/2026/9/12/12_8_35/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/66VeWzD.jpeg" group-title="Live Event: Voli",20:30 WIB  ARGENTINA vs VENEZUELA - Campeonato Sudamericano de Voley | Gvision TV
-https://rumble.com/live-hls-dvr/kZrgfR3MsC4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1-t2g4S-BzA/hq720.jpg" group-title="Live Event: Voli",21:00 WIB SUECIA vs REPUBLICA CHECA - Campeonato Europeo de Voley Masculino | Gvision TV
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/8AVFUBjqaiOy/2026/9/12/13_10_58/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sXpKoulBhn0/hq720.jpg" group-title="Live Event: Voli",21:00 WIB FRANCIA vs TURQUIA - Campeonato Europeo de Voley Masculino | Gvision TV
@@ -302,7 +280,7 @@ https://rumble.com/live-hls-dvr/B5ID9RDJqJw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jL-qfY8zQmk/hq720.jpg" group-title="Live Event: Voli",22:00 WIB BELGICA vs FINLANDIA - Campeonato Europeo de Voley Masculino | Gvision TV
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/FO8Jn3Ffgbb9/2026/9/12/13_58_41/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ri4OcDdgEZY/hq720.jpg" group-title="Live Event: Voli",23:00 WIB BULGARIA vs UCRANIA - Campeonato Europeo de Voley Masculino | Gvision TV
-insertar.m3u8
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/vb0SXsO7XNj7/2026/9/12/15_8_26/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lPjhYbT.png" group-title="Live Event: Voli",[Belum Mulai] 23:30 WIB MEXICO vs CURAZAO - Campeonato Norte y Centro Americano de Voley Masculino | Gvision TV
 insertar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/v3hHpkYDp3k/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 00:00 WIB RUMANIA vs ALEMANIA - Campeonato Europeo de Voley Masculino | Gvision TV
