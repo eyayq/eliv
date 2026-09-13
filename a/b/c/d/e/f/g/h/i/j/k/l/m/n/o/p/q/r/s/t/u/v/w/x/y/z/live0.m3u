@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 00:49:47 WIB 13-09-2026
-# 🔄 Total Channels: 900
+# ⏰ Latest Updated: 00:56:33 WIB 13-09-2026
+# 🔄 Total Channels: 904
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [00:49:47 WIB 13-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [00:56:33 WIB 13-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -71,71 +71,87 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",Inter Miami vs Nashville SC - Major League Soccer [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42a-hd/chunks.m3u8?is_vip=false&token=1789345953-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2bba162a94d46df5bb29a23a324a5a69
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42a-backup/chunks.m3u8?is_vip=false&token=1789346842-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bd9c4122e290010cabf461f531e56879
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",Inter Miami vs Nashville SC - Major League Soccer [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42a-backup/chunks.m3u8?is_vip=false&token=1789345954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8cacf7b378960c9abdf721a92a4c6c78
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",Inter Miami vs Nashville SC - Major League Soccer [Server 3] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42a/chunks.m3u8?is_vip=false&token=1789345955-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2f5325869d268005962706cb67e6be7f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42a/chunks.m3u8?is_vip=false&token=1789346843-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0b89af8bc2d28ea3eb5275836cb154a6
 #EXTINF:-1 tvg-logo="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2025/06/05185845/ufc_noche.jpg" group-title="LIVE EVENT",SILVA vs DELGADOA - NOCHE UFC | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/53766/720p/chunks.m3u8?is_vip=false&token=1789345956-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-67536b95305f52990ec513d0cd31063a
+https://livecdn-tc-iptv.rumsport10.live/live_abr/53766/720p/chunks.m3u8?is_vip=false&token=1789346844-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8a30ae3487aec417810dd187785abe3c
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvvyGryUauSTqRQG35-yAHp6iN-_YwYyzeVw&s=10" group-title="LIVE EVENT",Talleres Cordoba vs Union Santa Fe - Liga Profesional Argentina [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db006-backup/chunks.m3u8?is_vip=false&token=1789345978-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-620798aa139dd743135fec2b2d7a1faf
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db006-backup/chunks.m3u8?is_vip=false&token=1789346865-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f5cefbdead98a7fd1669e7924a79e361
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvvyGryUauSTqRQG35-yAHp6iN-_YwYyzeVw&s=10" group-title="LIVE EVENT",Talleres Cordoba vs Union Santa Fe - Liga Profesional Argentina [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db006/chunks.m3u8?is_vip=false&token=1789345979-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-11d438c5e48c6802c89b8b06a9ebb56e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db006/chunks.m3u8?is_vip=false&token=1789346865-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-55874254b92e0756847651d05b91ec74
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",DC United vs Atlanta United FC - Major League Soccer [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42b-backup/chunks.m3u8?is_vip=false&token=1789345995-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-07b33676323c6efd174db7f1c123c518
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42b-backup/chunks.m3u8?is_vip=false&token=1789346878-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9ed38e94a5c132f0c9f11a92d99587c8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",DC United vs Atlanta United FC - Major League Soccer [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42b/chunks.m3u8?is_vip=false&token=1789345996-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5324649f37c0782476aafacf0c87da09
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42b/chunks.m3u8?is_vip=false&token=1789346879-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ac9ab3f123e68cb0b757fcc80c375c05
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",Orlando City SC vs Toronto FC - Major League Soccer [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a429-backup/chunks.m3u8?is_vip=false&token=1789345997-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-83c7bd3c103b43ea4aeb3ce490937a28
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a429-backup/chunks.m3u8?is_vip=false&token=1789346880-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-82bc25c6a81ce28f32e96049b54791d3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",Orlando City SC vs Toronto FC - Major League Soccer [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a429/chunks.m3u8?is_vip=false&token=1789345998-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d35697b904ba58a4f63b4a4d4064c73a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a429/chunks.m3u8?is_vip=false&token=1789346880-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f4734012f229a86693137a334a6b1d8a
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",FC Cincinnati vs Charlotte - Major League Soccer [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42d-backup/chunks.m3u8?is_vip=false&token=1789345999-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4f7c9abf78bcb50f00261edf3bd238fd
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42d-hd/chunks.m3u8?is_vip=false&token=1789346882-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-05915ce0257a430989093303d83b8b03
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",FC Cincinnati vs Charlotte - Major League Soccer [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42d/chunks.m3u8?is_vip=false&token=1789346000-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f4915301e6cbfb221c7385cfb1ed8883
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42d-backup/chunks.m3u8?is_vip=false&token=1789346883-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a59577caa195b685a9a3ee1440ad0164
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",FC Cincinnati vs Charlotte - Major League Soccer [Server 3] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42d/chunks.m3u8?is_vip=false&token=1789346883-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-94118c473654d3a5ea7bbeabebf8a23d
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",Columbus Crew vs New York Red Bulls - Major League Soccer [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42c-backup/chunks.m3u8?is_vip=false&token=1789346001-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7f5e40f30f9a5ebf2d52ca53e340b1ac
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42c-backup/chunks.m3u8?is_vip=false&token=1789346884-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ad471e316bb3ed53d16cda3dfce602da
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",Columbus Crew vs New York Red Bulls - Major League Soccer [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42c/chunks.m3u8?is_vip=false&token=1789346001-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c31f794f422b9203b0eb74c9301cd524
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",St. Louis City vs Minnesota United FC - Major League Soccer | Gvision TV
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42c/chunks.m3u8?is_vip=false&token=1789346885-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3a973e90eb8457f11bad89f78a34d03f
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",St. Louis City vs Minnesota United FC - Major League Soccer [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42f/chunks.m3u8?is_vip=false&token=1789346009-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-278c3b6f1bdef9db8bc8ced6cabe24da
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",FC Dallas vs Portland Timbers - Major League Soccer | Gvision TV
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42f-backup/chunks.m3u8?is_vip=false&token=1789346892-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6bc2f68e53f439e8d4b273fd79010215
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",St. Louis City vs Minnesota United FC - Major League Soccer [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a431/chunks.m3u8?is_vip=false&token=1789346010-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-856162ee3b08ec768afe2e3587ba9ddd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",Sporting Kansas City vs Los Angeles FC - Major League Soccer | Gvision TV
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a42f/chunks.m3u8?is_vip=false&token=1789346893-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a149454db9f0a1218df3e4f17a156d8c
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",FC Dallas vs Portland Timbers - Major League Soccer [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a430/chunks.m3u8?is_vip=false&token=1789346012-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b7782fbf3968f09b9fcda195ec3f1f0e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a431-hd/chunks.m3u8?is_vip=false&token=1789346894-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c5b710118291ce133056e114bb285c61
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",FC Dallas vs Portland Timbers - Major League Soccer [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a431-backup/chunks.m3u8?is_vip=false&token=1789346894-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d62f5b55680407004e3e00fcac28041c
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",FC Dallas vs Portland Timbers - Major League Soccer [Server 3] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a431/chunks.m3u8?is_vip=false&token=1789346895-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-df85bad74917cbf5b261c7064a2e0eaf
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",Sporting Kansas City vs Los Angeles FC - Major League Soccer [Server 1] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a430-backup/chunks.m3u8?is_vip=false&token=1789346896-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-955f8ca43f0569fe91806783207be95f
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",Sporting Kansas City vs Los Angeles FC - Major League Soccer [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a430/chunks.m3u8?is_vip=false&token=1789346897-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-772647468ffc12c2915351a5452b01e6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lPjhYbT.png" group-title="Live Event: Voli",05:00 WIB ESTADOS UNIDOS vs REPUBLICA DOMINICANA - Campeonato Norte y Centro Americano de Voley Masculino | Gvision TV
 https://rumble.com/live-hls-dvr/jGVIS_aVUc8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/83d851fb1110f1e395690403f9cf01bb.webp" group-title="live event: fawa",[Austria Bundesliga] Altach vs Grazer AK Gvision TV
