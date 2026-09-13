@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 04:25:46 WIB 13-09-2026
-# 🔄 Total Channels: 889
+# ⏰ Latest Updated: 04:42:57 WIB 13-09-2026
+# 🔄 Total Channels: 886
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [04:25:46 WIB 13-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [04:42:57 WIB 13-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -60,7 +60,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="PLAYLIST TERBARU ADA DI TELEGRAM",SCAN QR CODE UNTUK UPDATE PLAYLIST
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -71,31 +71,19 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",Los Angeles Galaxy vs Seattle Sounders - Major League Soccer [Server 1] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a445-hd/chunks.m3u8?is_vip=false&token=1789359745-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6e6a4de5eedda948ae6761a87b7a3d8e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a445-hd/chunks.m3u8?is_vip=false&token=1789360350-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf2d243fce336148cd2832e05e2a7dfa
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",Los Angeles Galaxy vs Seattle Sounders - Major League Soccer [Server 2] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a445-backup/chunks.m3u8?is_vip=false&token=1789359746-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8c49d67107a4c763f63c442bab086a6e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a445-backup/chunks.m3u8?is_vip=false&token=1789360352-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aef834b5b15a3e24bf9116535e46ca6f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",Los Angeles Galaxy vs Seattle Sounders - Major League Soccer [Server 3] | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a445/chunks.m3u8?is_vip=false&token=1789359747-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6f10fa284e3bd55241c3d8fe7e1b994a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a445/chunks.m3u8?is_vip=false&token=1789360352-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6f2fb9b58b6c227530a4edf15f50c8b7
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpJNnZGdzv5hLM18ZpvQYYVU3KGOJBtRKoW8Hr7FGxw&s=10" group-title="LIVE EVENT",Race Day Part 1: China - MXGP | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/208/720p/chunks.m3u8?is_vip=false&token=1789359754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0774b2952cb1cdd26a15ce85eaafa3ae
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",San Jose Earthquakes vs Houston Dynamo - Major League Soccer [Server 1] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a444-hd/chunks.m3u8?is_vip=false&token=1789359757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c89e861963af577910ed21ce71d2a714
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",San Jose Earthquakes vs Houston Dynamo - Major League Soccer [Server 2] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a444-backup/chunks.m3u8?is_vip=false&token=1789359757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d22d1b62c19dea460c73f23183c30987
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevsKCG6WWn3mCL4YD1fkhVdcFzuTrj7xLHKNealvD8w&s=10" group-title="LIVE EVENT",San Jose Earthquakes vs Houston Dynamo - Major League Soccer [Server 3] | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a444/chunks.m3u8?is_vip=false&token=1789359758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0012d881ff1ad80e5ba0c59e9cf2247f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/208/720p/chunks.m3u8?is_vip=false&token=1789360364-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5855c849a103267064a15340f6f7ff4a
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/83d851fb1110f1e395690403f9cf01bb.webp" group-title="live event: fawa",[Austria Bundesliga] Altach vs Grazer AK Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
