@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated Thu Sep 17 13:20:07 2026
+# Generated Fri Sep 18 06:01:23 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 17-09-2026 20:20:06 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Friday 18-09-2026 13:01:22 WIB😈📁
 http://phate.io/listen
