@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 12:11:49 WIB 18-09-2026
-# 🔄 Total Channels: 761
+# ⏰ Latest Updated: 12:18:44 WIB 18-09-2026
+# 🔄 Total Channels: 763
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:11:49 WIB 18-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:18:44 WIB 18-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2019/03/10/12/03/vpn-4046047_1280.jpg" group-title="INFO DEVICE",2a06:98c0:3600::103
 http://127.0.0.1/dummy.ts
@@ -54,7 +54,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",18:10 WIB MotoGP: Grand Prix of Austria - Practice | MOTOGP TV | Gvision TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -80,6 +80,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 #EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",19:00 WIB Madura United vs PSIM Yogyakarta
 https://pull.streamviewk7x.click/livesp/sd-6MxiKav4RtRZ1E415L_hd.m3u8?txSecret=76a6eb15e45c77eb190f226c9bad4b56&txTime=6AAE7940
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",19:00 WIB Madura United vs PSIM Yogyakarta
+https://live3.dyrur1.com/live/73576634_54f4516666701f63bb9173c8782d5852_1080p.m3u8?auth_key=1789747440-0-0-49a3a36cbf825f7fa749e7572a0d1998
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",19:00 WIB Madura United vs PSIM Yogyakarta
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-1-4614355.m3u8?txSecret=44962abd6d7ef6205165a3b23d85c172&txTime=6AAD3B1E
 #EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",19:00 WIB Madura United vs PSIM Yogyakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
@@ -138,9 +145,9 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://ABDJPCXAAAAAAAAMMHZ7SCUOJOUIP.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqwOfIBhpqrSFIA2pjbG91ZGZyb250Angpc3NpZDo5NTdhYjE1OC1mNmVhLTRhMWMtYTY1OC1lYzBmMjhkYzg0MmYZATihBaECeDMvZGxuaGdrMHRiZC9vdXQvdjEvODE5N2M4ZTA1NWM5NGE4Njg2MjM2NTNhYzU1YzEwYmZYIOlQU07WM7Pn4ImnoCuplHn9pqsri1q1Cm3FiDfQJ5iw/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/dlnhgk0tbd/out/v1/8197c8e055c94a868623653ac55c10bf/7b6d0123-bf42-4036-bdd7-167fa47ea24c-cenc.mpd?aws.sessionId=853313d8-db8a-43b3-ab8b-302c7f656350
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lPjhYbT.png" group-title="Live Event: Voli",[Belum Mulai] 02:30 WIB CANADA vs MEXICO - Clasificacion a  Olimpiada NORCECA de Voley Masculino | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lPjhYbT.png" group-title="Live Event: Voli",[Belum Mulai] 02:30 WIB CANADA vs MEXICO - NORCECA Men's Volleyball Olympiad Qualification | Gvision TV
 insertar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lPjhYbT.png" group-title="Live Event: Voli",[Belum Mulai] 05:00 WIB CANADA vs MEXICO - Clasificacion a  Olimpiada NORCECA de Voley Masculino | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lPjhYbT.png" group-title="Live Event: Voli",[Belum Mulai] 05:00 WIB CANADA vs MEXICO - NORCECA Men's Volleyball Olympiad Qualification | Gvision TV
 insertar.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="Live Esports",MPL INDONESIA SEASON 18 Week 6 Day 1 | Streaming mobile legends: bang bang. | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
