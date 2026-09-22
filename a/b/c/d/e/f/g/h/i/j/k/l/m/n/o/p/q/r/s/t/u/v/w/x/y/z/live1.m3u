@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 00:01:05 WIB 23-09-2026
-# 🔄 Total Channels: 2060
+# ⏰ Latest Updated: 00:05:36 WIB 23-09-2026
+# 🔄 Total Channels: 2066
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="http://oyey.int.yt//0.php" group-title="DONASI: [00:01:05 WIB 23-09-2026] TOTAL: [2060]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="http://oyey.int.yt//0.php" group-title="DONASI: [00:05:36 WIB 23-09-2026] TOTAL: [2066]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="http://oyey.int.yt//0.php" group-title="📢TRANSVISION NEW🍜",DANA OVO GOPAY 085795119808 
@@ -291,6 +291,18 @@ https://webcast-origin.b-cdn.net/bcdn_token=4_8NKuAX0DPwOV5YZ4urWQWL4jEsZhx_i_MS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://webcast-origin.b-cdn.net/bcdn_token=4LqWVtvQ_JgPT8ZH-Bw1bqVm9rnnrDjR1s5DIXzF9uU&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv%2F&expires=1790092935/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv/129.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="📢LIVE EVENTS🍜",📢[MLB] TAMPA BAY RAYS AT NEW YORK YANKEES (SPRTSPASS)🍜
+#EXTVLCOPT:http-referrer=https://edgesport.cfd/mlb/yankees.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://orionblackwood.s3.us-east-1.amazonaws.com/yankees.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="📢LIVE EVENTS🍜",📢[MLB] TAMPA BAY RAYS VS NEW YORK YANKEES | ENGLISH (STRMGATE)🍜
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401873648
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live/tv401873648/index.m3u8?st=1yCRVVza7KuBT_9_EiM_QA&e=1790107215
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.ppvservices.st/assets/thumb/87041ef1a76f1feaeae30212907339f9-thumbnail.jpg" group-title="📢LIVE EVENTS🍜",📢[MLB] TAMPA BAY RAYS VS. NEW YORK YANKEES (DAMITV)🍜
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mlb/2026-09-22/tb-nyy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/mlb/2026-09-22/tb-nyy/playlist.m3u8?tk=EuYKMtSHrPlTMghMHH9UtA&e=1790139611
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="📢LIVE EVENTS🍜",📢[MLB] TWINS VS GIANTS (WEBCAST)🍜
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -391,6 +403,10 @@ http://193.47.62.59/hls/diiiAAAAQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/diiiAAAAQQQQQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="📢LIVE EVENTS🍜",📢[UEFA WOMEN'S CHAMPIONS LEAGUE] BAYERN MUNCHEN VS MANCHESTER CITY (WATCHFTY)🍜
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401917018/bayern-munchen-w-manchester-city-w/sigma/3?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb1.wfty.st/secure/DV9ZfXXXNy3Tojg3THVRbQ/sigma/bayern-munchen-w-manchester-city-w/3/401917018/1790118018/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="📢LIVE EVENTS🍜",📢[UEFA WOMEN'S CHAMPIONS LEAGUE] BAYERN VS MANCHESTER CITY | ESPANOL 1 (PLIBRE)🍜
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -403,6 +419,14 @@ https://eWVz.fubo18.com:443/disney1/mono.m3u8?token=b29d5bdc4eee2862a80ba4a5d0cf
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://c2f2zq.fubo18.com:443/espndeportes/mono.m3u8?token=d0779eb06188a49faaf152d189307ccfa234efec-af-1790095513-1790077513
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="📢LIVE EVENTS🍜",📢[UEFA_WCHAMPIONS] BK HACKEN VS INTERNAZIONALE | ENGLISH (STRMGATE)🍜
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401917017
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live/tv401917017/index.m3u8?st=n2zQx-YtO3hd-iva43nFRg&e=1790107212
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="📢LIVE EVENTS🍜",📢[UEFA_WCHAMPIONS] MANCHESTER CITY VS BAYERN MUNICH | ENGLISH (STRMGATE)🍜
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401917018
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live/tv401917018/index.m3u8?st=37VjjGXa2bt9OJ0d67kUjg&e=1790107211
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="📢LIVE EVENTS🍜",📢[WNBA] INDIANA VS MINNESOTA | ESPN 2 (STRMXHD)🍜
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
