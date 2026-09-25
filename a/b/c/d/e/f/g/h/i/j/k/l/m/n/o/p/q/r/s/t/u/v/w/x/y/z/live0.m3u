@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 02:10:51 WIB 25-09-2026
-# 🔄 Total Channels: 828
+# ⏰ Latest Updated: 02:17:35 WIB 25-09-2026
+# 🔄 Total Channels: 826
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [02:10:51 WIB 25-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [02:17:35 WIB 25-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -86,10 +86,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=00FA9A" group-title="Live Event: Badminton",20TH Asian Games | Court 1 | Gvision TV
-https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/e4df75e5-58f8-4667-9175-5bc06fb00c14/HLS_ENC/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=00FA9A" group-title="Live Event: Badminton",20TH Asian Games | Court 2 | Gvision TV
-https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/7a7f544f-16f7-4196-9ca2-7f6a883f40de/HLS_ENC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d15rKps/20260701-044822.jpg" group-title="Live Event: Badminton",ASIAN GAMES 2026 | Court 1 | Gvision TV
 https://badmintonlive.net/live-stream/live/98ef19a0d5b2f41dcebe2bae359140e6.flv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg" group-title="Asian Games 2026",Asian Games CH01
