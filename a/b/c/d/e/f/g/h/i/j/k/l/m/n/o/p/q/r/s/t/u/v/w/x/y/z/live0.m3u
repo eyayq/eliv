@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 13:44:07 WIB 25-09-2026
-# 🔄 Total Channels: 831
+# ⏰ Latest Updated: 13:52:48 WIB 25-09-2026
+# 🔄 Total Channels: 832
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [13:44:07 WIB 25-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [13:52:48 WIB 25-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2019/03/10/12/03/vpn-4046047_1280.jpg" group-title="INFO DEVICE",2a06:98c0:3600::103
 http://127.0.0.1/dummy.ts
@@ -54,7 +54,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://shorter.me/yKOXu" group-title="LIVE EVENT",20:00 WIB Indonesia vs Singapura
 https://pull.streamviewk7x.click/livesp/sd-6MxipX7m8AWkANWLDg_hd.m3u8?txSecret=756125ffc499433c7e18ecd5fec94e91&txTime=6AB7C1D0
@@ -71,6 +71,9 @@ https://cxyznt3-cf.sbbol1011play.sbs/auth%3D544f8f58642c39bb7acd3d4be252af5b531b
 https://yallavoide.yalla-shoot-zhubo.com/sport/202_5768191_1.m3u8?auth_key=1790427667-0-0-a21299e12562c0b44a5440d562fe9026
 #EXTINF:-1 tvg-logo="https://shorter.me/yKOXu" group-title="LIVE EVENT",20:00 WIB Indonesia vs Singapura
 https://apxvf0ws91.yarncdn.live/live/sd-6MxipX7m8AWkANWLDe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/yKOXu" group-title="LIVE EVENT",20:00 WIB Indonesia vs Singapura
+#EXTVLCOPT:http-referer=https://lxscore.com/
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1641703.m3u8?user_session_id=a705f6a2d892a9d3af567df7cc93478a&sub_m3u8=true&hwTime=6ab67a32&hwSecret=f997afb5056589fda8d3aad4a8d227e827edbf1e041ca895baff3fb261005175&edge_slice=true
 #EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games | Court 1 | Gvision TV
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/2d2d7315-9dfa-484c-831c-7e66c12fe329/HLS_ENC/index.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games | Court 2 | Gvision TV
