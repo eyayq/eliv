@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 01:58:47 WIB 26-09-2026
+# ⏰ Latest Updated: 02:02:36 WIB 26-09-2026
 # 🔄 Total Channels: 2503
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="http://oyey.int.yt//0.php" group-title="DONASI: [01:58:47 WIB 26-09-2026] TOTAL: [2503]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="http://oyey.int.yt//0.php" group-title="DONASI: [02:02:36 WIB 26-09-2026] TOTAL: [2503]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="http://oyey.int.yt//0.php" group-title="📢TRANSVISION NEW🍜",DANA OVO GOPAY 085795119808 
@@ -55,6 +55,18 @@ http://mi.bianet.es.vip.hk:80///12/F18115/068f009e/80292
 http://mi.bianet.es.vip.hk:80///12/F18115/068f009e/166686
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="📢TV NASIONAL PREM🍜",⚠️MOJI TV⚠️ 
 http://mi.bianet.es.vip.hk:80///12/F18115/068f009e/298550
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFCON Q.] ALGERIA VS ZAMBIA | MAIN FEED (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hey.futbol-tv.online/alg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFCON Q.] EGYPT VS ANGOLA | MAIN FEED (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hey.futbol-tv.online/egyp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFCON Q.] MOROCCO VS GABON | MAIN FEED (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hey.futbol-tv.online/moro/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFCON Q.] MOZAMBIQUE VS SENEGAL | MAIN FEED (FUTBOLX)🍜
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -95,22 +107,6 @@ http://193.47.62.41/hls/DTTTAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://www.rtmpcdn.com/live/4c83a480-06a7-4ab1-a8a0-ca20cde631a6.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFRICA CUP OF NATIONS QUALIFICATION] GAMBIA VS SOMALIA 1 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/HVVVV.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFRICA CUP OF NATIONS QUALIFICATION] GAMBIA VS SOMALIA 2 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/f82033c6-9be3-4d5e-8ee6-dfa7131e5c27.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFRICA CUP OF NATIONS QUALIFICATION] MALAWI VS SOUTH SUDAN 1 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/HVVVVA.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFRICA CUP OF NATIONS QUALIFICATION] MALAWI VS SOUTH SUDAN 2 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/69cbe171-11ee-44e1-945c-bfeba04a9337.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFRICA CUP OF NATIONS QUALIFICATION] MALI VS CAPE VERDE 1 (FAWA)🍜
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -127,34 +123,6 @@ http://193.47.62.41/hls/DTTTAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://www.rtmpcdn.com/live/2b24f899-f079-4d3c-80a1-68f6044029c5.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFRICA CUP OF NATIONS QUALIFICATION] NIGER VS LESOTHO 2 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/62815578-1daf-4c32-a4ce-fd900094747f.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFRICA CUP OF NATIONS QUALIFICATION] NIGERIA VS MADAGASCAR 1 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/HVVVVAA.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFRICA CUP OF NATIONS QUALIFICATION] NIGERIA VS MADAGASCAR 2 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/5ac965a0-2d25-4048-93e4-a5cf06fadfac.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFRICA CUP OF NATIONS QUALIFICATION] RWANDA VS LIBERIA 1 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/HVVVVAAA.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFRICA CUP OF NATIONS QUALIFICATION] RWANDA VS LIBERIA 2 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/d6474bc0-a2a2-47c2-ac1f-a473a526a9af.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFRICA CUP OF NATIONS QUALIFICATION] TOGO VS BURUNDI 1 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/HVVVVAAAA.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="📢LIVE EVENTS🍜",📢[AFRICA CUP OF NATIONS QUALIFICATION] TOGO VS BURUNDI 2 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/bef5a372-e37b-4aa0-b5cd-0f58950f73d4.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="📢LIVE EVENTS🍜",📢[AMERICAN FOOTBALL] ARMY BLACK KNIGHTS VS. TEMPLE OWLS | ENGLISH (STRMCNTR)🍜
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -415,10 +383,6 @@ http://193.47.62.41/hls/GIII.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.41/hls/AGGGQQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="📢LIVE EVENTS🍜",📢[EURO U21 QUALIFICATION] BULGARIA U21 VS PORTUGAL U21 (WATCHFTY)🍜
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/732419/bulgaria-u21-portugal-u21/prime/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/diF4vRXC1MNolR-pKoYCeQ/prime/bulgaria-u21-portugal-u21/1/732419/1790373655/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="📢LIVE EVENTS🍜",📢[EURO U21 QUALIFICATION] CYPRUS U21 VS ROMANIA U21 (FAWA)🍜
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -439,10 +403,6 @@ http://193.47.62.41/hls/AGGGQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.41/hls/AGGG.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="📢LIVE EVENTS🍜",📢[EURO U21 QUALIFICATION] ICELAND U21 VS FRANCE U21 (WATCHFTY)🍜
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/732415/iceland-u21-france-u21/prime/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb4.wfty.st/secure/bej8H4_BYV5DiAAP2Y3zwg/prime/iceland-u21-france-u21/1/732415/1790373658/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="📢LIVE EVENTS🍜",📢[EURO U21 QUALIFICATION] NETHERLANDS U21 VS NORWAY U21 (FAWA)🍜
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -575,18 +535,10 @@ http://193.47.62.41/hls/AGGGQQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.41/hls/AGGGQQQQQQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.ppvservices.st/assets/thumb/96adc3320d4d01dc1224ec22dcf2dc2e-thumbnail.jpg" group-title="📢LIVE EVENTS🍜",📢[FOOTBALL] ARMENIA VS. LATVIA (DAMITV)🍜
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-25/arm-lva
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-25/arm-lva/playlist.m3u8?tk=UqmDT5-Q8kwpjcAaMx-Jdw&e=1790395250
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="📢LIVE EVENTS🍜",📢[FOOTBALL] ARMENIA VS. LATVIA | ENGLISH (STRMCNTR)🍜
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.ppvservices.st/assets/thumb/01c7ef402dd258b8c2068cbf6b6d33de-thumbnail.jpg" group-title="📢LIVE EVENTS🍜",📢[FOOTBALL] GEORGIA VS. NORTHERN IRELAND (DAMITV)🍜
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-25/geo-nir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-25/geo-nir/playlist.m3u8?tk=UqmDT5-Q8kwpjcAaMx-Jdw&e=1790395250
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="📢LIVE EVENTS🍜",📢[FOOTBALL] GEORGIA VS. NORTHERN IRELAND | ENGLISH (STRMCNTR)🍜
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1086,7 +1038,7 @@ https://webcast-origin.b-cdn.net/bcdn_token=DBpnfdVXBu-s-YOXtwo6Tg6M2-iwuz3ebGMY
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="📢LIVE EVENTS🍜",📢[MLB] BOSTON RED SOX VS CHICAGO CUBS (FLYEMBD)🍜
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/72z60gad-3041
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/0118d6af84733a1b8573fefebec5dfe12d1dfeeb1b9e8956014c81a40da205ba/1790364648/mlb-red-sox.m3u8
+https://juxrd.hundxvision.co.uk/main/secure/f62b7fe23213397e788df860e7dfc3b99ff2c1ba3c9b50c7eb9b9a2af896918f/1790371848/mlb-red-sox.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="📢LIVE EVENTS🍜",📢[MLB] BOSTON RED SOX VS CHICAGO CUBS (ISTRMEAST)🍜
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57052?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1467,14 +1419,6 @@ https://lb3.wfty.st/secure/Ecjttu7jAa7F8S9wsbNQJA/pro/armenia-latvia/1/401861050
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57045?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://chatgpt.hereisman.net/playlist/57045/load-playlist
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] ARMENIA VS LATVIA 1 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/HVVVVAAAAQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] ARMENIA VS LATVIA 2 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/f845cdb3-29e7-4146-b62e-9258b171f954.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] ARMENIA VS LATVIA | MAIN FEED (FUTBOLX)🍜
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1523,14 +1467,6 @@ https://lb6.wfty.st/secure/5aI_vZ473opZFOngJHedPQ/pro/georgia-northern-ireland/1
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57044?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://chatgpt.hereisman.net/playlist/57044/load-playlist
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] GEORGIA VS NORTHERN IRELAND 1 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/HVVVVAAAAQQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] GEORGIA VS NORTHERN IRELAND 2 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/525c698e-5506-4e67-b394-4e1793965139.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] GEORGIA VS NORTHERN IRELAND | MAIN FEED (FUTBOLX)🍜
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1539,6 +1475,14 @@ https://hey.futbol-tv.online/geo/index.m3u8
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/b9c6igh5-6410
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://juxrd.hundxvision.co.uk/main/secure/b96deaed609a3a22669fd3899c22d0d911c34e626fc9ce7baa5156b8a5b577cb/1790370049/unl-401861054.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] HUNGARY VS UKRAINE (WATCHFTY)🍜
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401861054/hungary-ukraine/pro/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb4.wfty.st/secure/IEy1VHwLyH9_iDT23Owskg/pro/hungary-ukraine/1/401861054/1790384461/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] HUNGARY VS UKRAINE (ISTRMEAST)🍜
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57055?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57055/load-playlist
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] HUNGARY VS UKRAINE 1 (FAWA)🍜
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1547,6 +1491,10 @@ http://193.47.62.41/hls/LIII.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://www.rtmpcdn.com/live/7db4ab96-ad90-45cc-984b-cd9fa1effa14.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] HUNGARY VS UKRAINE | MAIN FEED (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hey.futbol-tv.online/hung/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] HUNGRIA VS UCRANIA 1 (PLIBRE)🍜
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1575,6 +1523,14 @@ https://2.ftlly.com:443/foxsports2_usa/mono.m3u8?token=998de8a46fa4c246fa305c4b7
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/yjl69ry8-3802
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://juxrd.hundxvision.co.uk/main/secure/3784cabbc0c902f465f1e2a38fd22196fd27abd13c3423d0ae31a9cf1277db44/1790370050/unl-401861052.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] ITALY VS BELGIUM (WATCHFTY)🍜
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401861052/italy-belgium/pro/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb2.wfty.st/secure/205ecEYdVS77kAh0w9EAgw/pro/italy-belgium/1/401861052/1790384454/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] ITALY VS BELGIUM (ISTRMEAST)🍜
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57058?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57058/load-playlist
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] ITALY VS BELGIUM 1 (FAWA)🍜
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1583,6 +1539,10 @@ http://193.47.62.41/hls/LIIIAAAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://www.rtmpcdn.com/live/dd713707-0e3c-4608-a515-71f8ae0968d0.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] ITALY VS BELGIUM | MAIN FEED (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hey.futbol-tv.online/italy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://streamfree.top/thumbnails/soccer_latvia-vs-armenia_Latvia_vs_Armenia" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] LATVIA VS ARMENIA (STRMFREE)🍜
 #EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1595,6 +1555,10 @@ https://YXdlc29tZQ.fubo18.com:443/disney8/mono.m3u8?token=9810138800d8a4b551ac55
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/rwfu9ehh-9402
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://juxrd.hundxvision.co.uk/main/secure/11cf9092e2759ca2b11c018adcf637fe4c24fd05c2a4510d1e14127b73927917/1790370050/unl-401861056.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] MONTENEGRO VS CYPRUS (ISTRMEAST)🍜
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57056?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57056/load-playlist
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] MONTENEGRO VS CYPRUS 1 (FAWA)🍜
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1603,14 +1567,26 @@ http://193.47.62.41/hls/LIIIA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://www.rtmpcdn.com/live/875dc817-28d2-4f7e-9804-051297192fb7.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] MONTENEGRO VS CYPRUS | MAIN FEED (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hey.futbol-tv.online/mont/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://streamfree.top/thumbnails/soccer_northern-ireland-vs-georgia_Northern_Ireland_vs_Georgia" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] NORTHERN IRELAND VS GEORGIA (STRMFREE)🍜
 #EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://streamfree.top/live-origin/northern-ireland-vs-georgia1080p3/index.m3u8?_e=1790384449&_n=014148d6b4b66b60&_t=g4hEY0dkz27psnB60c4oiw
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] POLAND VS BOSNIA & HERZEGOVINA (ISTRMEAST)🍜
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57054?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57054/load-playlist
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] POLAND VS BOSNIA-HERZEGOVINA (FLYEMBD)🍜
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/3zw4w25n-8362
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://juxrd.hundxvision.co.uk/main/secure/ac96e7ddd36fc23ba8e4e4e33adbe347ed95153e4ce5e1970dfdd7404391be82/1790370050/unl-401861055.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] POLAND VS BOSNIA-HERZEGOVINA (WATCHFTY)🍜
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401861055/poland-bosnia-herzegovina/pro/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb6.wfty.st/secure/X_A29Lw36-C6dafWHA933Q/pro/poland-bosnia-herzegovina/1/401861055/1790384456/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] POLAND VS BOSNIA-HERZEGOVINA 1 (FAWA)🍜
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1619,6 +1595,10 @@ http://193.47.62.41/hls/LIIIAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://www.rtmpcdn.com/live/caf0994c-efb4-442e-932c-8abf4681ef8e.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] POLAND VS BOSNIA-HERZEGOVINA | MAIN FEED (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hey.futbol-tv.online/polan/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] POLONIA VS BOSNIA-HERZEGOVINA 1 (PLIBRE)🍜
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1635,6 +1615,14 @@ https://YXdlc29tZQ.fubo18.com:443/disney5/mono.m3u8?token=7d40be7be048ccfb039a92
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/xahpqbrt-3450
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://juxrd.hundxvision.co.uk/main/secure/0664d7e76ccb27c82bbe7ea8edf688e8f56ec9431812bd5d5d2c683bb744c78b/1790370050/unl-401861051.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] SWEDEN VS ROMANIA (WATCHFTY)🍜
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5181838/sweden-romania/pro/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb3.wfty.st/secure/fNbg-c2CIf7nndBHV6sZqw/pro/sweden-romania/1/5181838/1790384459/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] SWEDEN VS ROMANIA (ISTRMEAST)🍜
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57053?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57053/load-playlist
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] SWEDEN VS ROMANIA 1 (FAWA)🍜
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1643,6 +1631,10 @@ http://193.47.62.41/hls/LIIIAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://www.rtmpcdn.com/live/97549ec0-bc8d-4970-ac61-af1cf3312f22.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] SWEDEN VS ROMANIA | MAIN FEED (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hey.futbol-tv.online/swed/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] TURKEY VS FRANCE 1 (FAWA)🍜
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1651,6 +1643,10 @@ http://193.47.62.41/hls/LIIIAAAQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://www.rtmpcdn.com/live/5379da79-901c-4cc2-b511-47cdd1f2b9c0.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] TURKIYE VS FRANCE (WATCHFTY)🍜
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5181789/turkiye-france/pro/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb1.wfty.st/secure/Rw0SOBYvb6avQY1MHcVvJg/pro/turkiye-france/1/5181789/1790384451/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] TURQUIA VS FRANCIA 1 (PLIBRE)🍜
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1663,10 +1659,18 @@ https://b2ZmaWNpYWw.fubo18.com:443/sportv/mono.m3u8?token=7beeb5f0da723fda3377a0
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/k25vj3zg-1521
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://juxrd.hundxvision.co.uk/main/secure/52dbc8f6690d49b7ea723851f8696fa332692e3a9eb535c67dec6068384f740b/1790370051/unl-401861053.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/armenia.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/latvia.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&color1=&color2=&q=65&w=100" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAUGE] ARMENIA VS LATVIA (XYZ)🍜
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/soccer-1.html
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] TURKIYE VS FRANCE (ISTRMEAST)🍜
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57057?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://xyzstreams.blog/1/latvia/mono.ts.m3u8?token=a34616dcf1953299f882f25ae76c8144
+https://chatgpt.hereisman.net/playlist/57057/load-playlist
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] TURKIYE VS FRANCE | ALT FEED 1 FR (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hey.futbol-tv.online/fran/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAGUE] TURKIYE VS FRANCE | MAIN FEED EN (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hey.futbol-tv.online/turk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/unl-401861052.png" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAUGE] BELGIUM @ ITALY (TIMSTRM)🍜
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/yjl69ry8-3802
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1683,10 +1687,6 @@ https://juxrd.hundxvision.co.uk/main/secure/1dfb5f6c850dbe9a5c75e3db650e00678a71
 #EXTVLCOPT:http-referrer=https://exmxbxe.cfd/k25vj3zg-1521
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://juxrd.hundxvision.co.uk/main/secure/20f44571ac38400d79a1fb3232444f6c8ffc0cc0e6fdcb1ef737bb5991cbbdb4/1790370050/unl-401861053.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/georgia.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/northern-ireland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&=002B49&=C6011F&q=65&w=100" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAUGE] GEORGIA VS NORTHERN IRELAND (XYZ)🍜
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/soccer-2.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://xyzstreams.blog/1/fsp/mono.ts.m3u8?token=a34616dcf1953299f882f25ae76c8144
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/hungary.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/ukraine.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&&q=65&w=100" group-title="📢LIVE EVENTS🍜",📢[UEFA NATIONS LEAUGE] HUNGARY VS UKRAINE (XYZ)🍜
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/soccer-7.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1746,11 +1746,11 @@ https://instreams.live/live/tv401861053/index.m3u8?st=F1RbfYXZP402xRrhiKjS0Q&e=1
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="📢LIVE EVENTS🍜",📢[UEFA_NATIONS] LATVIA VS ARMENIA | ENGLISH (STRMGATE)🍜
 #EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401861050
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.live/live/tv401861050/index.m3u8?st=A3fQa94xO0eapjFY1Wufnw&e=1790362850
+https://instreams.live/live/tv401861050/index.m3u8?st=sxNgJoR6EbQPmfIl6-lSTA&e=1790373649
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="📢LIVE EVENTS🍜",📢[UEFA_NATIONS] NORTHERN IRELAND VS GEORGIA | ENGLISH (STRMGATE)🍜
 #EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401861049
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.live/live/tv401861049/index.m3u8?st=2UYNin1Q615BVmH_3b5TWw&e=1790362852
+https://instreams.live/live/tv401861049/index.m3u8?st=AfsFf15G9gF4bSe7vTxQug&e=1790373650
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="📢LIVE EVENTS🍜",📢[UEFA_NATIONS] ROMANIA VS SWEDEN | ENGLISH (STRMGATE)🍜
 #EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401861051
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -2950,7 +2950,7 @@ https://live.dyrur1.com/live/11927547_80bd45e673623f98448fa560750353a8_autoChang
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
 https://live2.dyrur1.com/live/58209133_ece97c5eb558807ca4fc7b4ea58e5fae_autoChange.m3u8?auth_key=1790371797-0-0-3e84df62028a060258edd783d65f2b26
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="📢⚽DONASI HTTPS://TRAKTEER.ID/MYBHIANESSE0 2026-09-26 01:58:24 WIB⚽🍜",📢DUKUNG SERVER KAMI 2026-09-26 01:58:24 WIB🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="📢⚽DONASI HTTPS://TRAKTEER.ID/MYBHIANESSE0 2026-09-26 02:02:14 WIB⚽🍜",📢DUKUNG SERVER KAMI 2026-09-26 02:02:14 WIB🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://viiip.kitashinsaku.com/gam.php?url=https://i.ibb.co.com/RkmBWqRr/free.png" group-title="📢LIVE🍜",📢DONASI HTTPS://TRAKTEER.ID/MYBHIANESSE0🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
@@ -6027,7 +6027,7 @@ https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="😈⚠IP 134.33.76.1 | PHOENIX UNITED STATES | ISP MICROSOFT CORPORATION⚠😈",📢INFORMASI IP 134.33.76.1 | PHOENIX UNITED STATES | ISP MICROSOFT CORPORATION🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" group-title="😈DONASI SERVER😈:01:54:11-WIB😈",📢DONASI SERVER PLAYLIST AGAR TETAP HIDUP🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" group-title="😈DONASI SERVER😈:02:01:23-WIB😈",📢DONASI SERVER PLAYLIST AGAR TETAP HIDUP🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📢01:54:31 26-09-2026🍜",📢SERVER PLAYLIST UPDATED🍜
 http://phate.io/listen
@@ -6253,7 +6253,7 @@ https://live05.meung.app/live/19919577_tsc.m3u8
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="😈 HTTPS://TRAKTEER.ID/MYBHIANESSE0😈",📢STREAM SERVER BACKUP🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="📢☕AUTO UPDATE☕:⚠SABTU, 26 SEPTEMBER 2026 01:53:30 WIB⚠🍜",📢26 SEPTEMBER 2026 01:53:30 WIB",DANA OVO GOPAY 085795119808🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="📢☕AUTO UPDATE☕:⚠SABTU, 26 SEPTEMBER 2026 02:00:48 WIB⚠🍜",📢26 SEPTEMBER 2026 02:00:48 WIB",DANA OVO GOPAY 085795119808🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="📢❤DONASI❤🍜",📢DANA OVO GOPAY 085795119808🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
@@ -6868,7 +6868,7 @@ http://193.47.62.41/hls/DTTTAAA.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="📢[LIVE 03:00 WIB 26/09/26] ALGERIA VS ZAMBIA | SERVER 1🍜",📢[LIVE 03:00 WIB 26/09/26] ALGERIA VS ZAMBIA | SERVER 1 (SVR-BHNS 1)🍜
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/DTTT.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="📢DONASI [18:53:35 WIB 25-09-2026]🍜",📢DANA OVO GOPAY 085795119808 HTTPS://MY.BIANET.ES/ALL🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="📢DONASI [19:00:45 WIB 25-09-2026]🍜",📢DANA OVO GOPAY 085795119808 HTTPS://MY.BIANET.ES/ALL🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.pixabay.com/photo/2019/03/10/12/03/vpn-4046047_1280.jpg" group-title="📢INFO DEVICE🍜",📢2A06:98C0:3600::103🍜
 http://127.0.0.1/dummy.ts
@@ -6876,7 +6876,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="📢INFO DEVICE🍜",📢CLOUDFLARE, INC.🍜
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="📢INFO DEVICE🍜",📢ONLINE USERS: 4250🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="📢INFO DEVICE🍜",📢ONLINE USERS: 4225🍜
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://oyey.int.yt:80/0.php" group-title="📢DOWNLOAD   TV V.2.0🍜",📢DOWNLOAD OK TV V.2.0🍜
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -6898,6 +6898,10 @@ http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
 http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=29
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://shorter.me/JHxeb" group-title="📢LIVE EVENTS🍜",📢01:45 WIB LIVE - ITALY VS. BELGIUM; UEFA NATIONS LEAGUE SOCCER | SONY SPORTS 1 | SVR-BHNS0🍜
 http://gvisiontv.channell.my.id/ch/in/sony.php/.m3u8?id=162
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://shorter.me/JHxeb" group-title="📢LIVE EVENTS🍜",📢01:45 WIB UEFA NATIONS LEAGUE | GTV | SVR-BHNS0🍜
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://shorter.me/JHxeb" group-title="📢LIVE EVENTS🍜",📢01:45 WIB LIVE - POLAND VS. BOSNIA AND HERZEGOVINA; UEFA NATIONS LEAGUE SOCCER | SONY LIV 5 | SVR-BHNS0🍜
 http://gvisiontv.channell.my.id/ch/in/sony.php/.m3u8?id=155
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://shorter.me/JHxeb" group-title="📢LIVE EVENTS🍜",📢01:45 WIB 01:45 WIB TURKI VS PERANCIS🍜
@@ -6933,14 +6937,10 @@ https://pu1se1.xn--ukq5h.shop/puk4/usergendx3j2x4tqrnd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
 https://pu1se1.xn--ukq5h.shop/puk5/usergen0grnd8l2y6gw.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ytimg.com/vi/_03enQtibc4/hq720.jpg" group-title="📢LIVE EVENTS🍜",📢02:00 WIB FINLAND VS FRANCE - MEN'S EUROPEAN VOLLEYBALL CHAMPIONSHIP SEMIFINAL | SVR-BHNS0🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ytimg.com/vi/_03enQtibc4/hq720.jpg" group-title="📢LIVE EVENTS🍜",📢02:00 WIB FINLANDIA VS FRANCIA - SEMIFINAL CAMPEONATO EUROPEO DE VOLEY MASCULINO | SVR-BHNS0🍜
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/jhNReJct7F29/2026/9/25/18_2_3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ytimg.com/vi/M6TjWZnjnEI/hq720.jpg" group-title="📢LIVE EVENTS🍜",📢22:00 WIB SLOVENIA VS POLAND - MEN'S EUROPEAN VOLLEYBALL CHAMPIONSHIP SEMIFINAL | SVR-BHNS0🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ytimg.com/vi/M6TjWZnjnEI/hq720.jpg" group-title="📢LIVE EVENTS🍜",📢22:00 WIB ESLOVENIA VS POLONIA - SEMIFINAL CAMPEONATO EUROPEO DE VOLEY MASCULINO | SVR-BHNS0🍜
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/3cy42c2hnsjT/2026/9/25/14_10_42/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://shorter.me/JHxeb" group-title="📢LIVE EVENTS🍜",📢22:45 WIB UEFA NATIONS LEAGUE | GTV | SVR-BHNS0🍜
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://shorter.me/JHxeb" group-title="📢LIVE EVENTS🍜",📢ITALY VS BELGIUM - UEFA NATIONS LEAGUE [SERVER 1] | SVR-BHNS0🍜
 https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c5-hd/chunks.m3u8?is_vip=false&token=1790448459-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-95bbb612d4f7d4981e2c148b23862aa7
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://shorter.me/JHxeb" group-title="📢LIVE EVENTS🍜",📢ITALY VS BELGIUM - UEFA NATIONS LEAGUE [SERVER 2] | SVR-BHNS0🍜
@@ -6998,9 +6998,9 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ytimg.com/vi/_03enQtibc4/hq720.jpg" group-title="📢LIVE EVENTS: VOLI🍜",📢02:00 WIB FINLAND VS FRANCE - MEN'S EUROPEAN VOLLEYBALL CHAMPIONSHIP SEMIFINAL | SVR-BHNS0🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ytimg.com/vi/_03enQtibc4/hq720.jpg" group-title="📢LIVE EVENTS: VOLI🍜",📢02:00 WIB FINLANDIA VS FRANCIA - SEMIFINAL CAMPEONATO EUROPEO DE VOLEY MASCULINO | SVR-BHNS0🍜
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/jhNReJct7F29/2026/9/25/18_2_3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ytimg.com/vi/M6TjWZnjnEI/hq720.jpg" group-title="📢LIVE EVENTS: VOLI🍜",📢22:00 WIB SLOVENIA VS POLAND - MEN'S EUROPEAN VOLLEYBALL CHAMPIONSHIP SEMIFINAL | SVR-BHNS0🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ytimg.com/vi/M6TjWZnjnEI/hq720.jpg" group-title="📢LIVE EVENTS: VOLI🍜",📢22:00 WIB ESLOVENIA VS POLONIA - SEMIFINAL CAMPEONATO EUROPEO DE VOLEY MASCULINO | SVR-BHNS0🍜
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/3cy42c2hnsjT/2026/9/25/14_10_42/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=00FA9A" group-title="📢LIVE EVENTS: BADMINTON🍜",📢20TH ASIAN GAMES | COURT 1 | SVR-BHNS0🍜
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/2d2d7315-9dfa-484c-831c-7e66c12fe329/HLS_ENC/index.m3u8
