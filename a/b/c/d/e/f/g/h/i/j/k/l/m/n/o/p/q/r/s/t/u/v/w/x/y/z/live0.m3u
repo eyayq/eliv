@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 15:00:40 WIB 26-09-2026
-# 🔄 Total Channels: 876
+# ⏰ Latest Updated: 15:06:50 WIB 26-09-2026
+# 🔄 Total Channels: 878
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:00:40 WIB 26-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:06:50 WIB 26-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,12 +58,18 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",LINK DOWNLOAD ADA DI CHANNEL TELE
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/oLPEz" group-title="LIVE EVENT",22:00 WIB Bronze Medal match : CEV Enel EuroVolley 2026 | SPOTV PH | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games | Court 1 | Gvision TV
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/6a20038e-3495-416b-88d0-146757f2541b/HLS_ENC/index.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games | Court 2 | Gvision TV
@@ -75,6 +81,8 @@ https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/0a9916e6-972e-467f
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IkcrWAYnrWU/hq720.jpg" group-title="LIVE EVENT",22:00 WIB FINLAND vs SLOVENIA - 3rd Place European Men's Volleyball Championship | Gvision TV
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/9uaa69d5asAN/2026/9/26/13_57_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",Slovenia Vs Scotland - SonyLiv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
@@ -151,7 +159,7 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/AG_DX8_22509/ENG/master.
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/AG_DX2_22509/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IkcrWAYnrWU/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 22:00 WIB FINLAND vs SLOVENIA - 3rd Place European Men's Volleyball Championship | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IkcrWAYnrWU/hq720.jpg" group-title="Live Event: Voli",22:00 WIB FINLAND vs SLOVENIA - 3rd Place European Men's Volleyball Championship | Gvision TV
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/9uaa69d5asAN/2026/9/26/13_57_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MWGwwIGeV2w/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 02:00 WIB FRANCE vs POLAND - Men's European Volleyball Championship Final | Gvision TV
 insertar.m3u8
