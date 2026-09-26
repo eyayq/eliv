@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 09:09:37 WIB 26-09-2026
-# 🔄 Total Channels: 906
+# ⏰ Latest Updated: 09:16:19 WIB 26-09-2026
+# 🔄 Total Channels: 889
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [09:09:37 WIB 26-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [09:16:19 WIB 26-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -74,6 +74,13 @@ http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+#EXTINF:-1 tvg-logo="https://shorter.me/yKOXu" group-title="LIVE EVENT",15:00 WIB Pakistan vs Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg" group-title="LIVE EVENT",Pakistan Vs Thailand - STREAM TV + HD | Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/CCCCA.m3u8?
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="LIVE EVENT",05:00 WIB 26 Sep Day 8 | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
@@ -118,51 +125,10 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/AG_DX6_22609/ENG/master.
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/AG_MDS1_2609/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/yKOXu" group-title="LIVE EVENT",15:00 WIB Pakistan vs Thailand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games | Court 1 | Gvision TV
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/6a20038e-3495-416b-88d0-146757f2541b/HLS_ENC/index.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games | Court 2 | Gvision TV
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/0a9916e6-972e-467f-b175-7437e79cd82a/HLS_ENC/index.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",Turkiye vs France - UEFA Nations League [Server 1] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c4-hd/chunks.m3u8?is_vip=false&token=1790452065-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-673e99bd0391e566f0e4692daf34786f
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",Turkiye vs France - UEFA Nations League [Server 2] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c4/chunks.m3u8?is_vip=false&token=1790452065-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ea79b9bb3f9075abdb1fa5daf1a0ee36
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",Montenegro vs Cyprus - UEFA Nations League [Server 1] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c0-hd/chunks.m3u8?is_vip=false&token=1790452068-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-305e863bfaee852768b620eceea848c0
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",Montenegro vs Cyprus - UEFA Nations League [Server 2] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c0/chunks.m3u8?is_vip=false&token=1790452068-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f4861194ea7d71f886f02c7d3e5e274e
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",Sweden vs Romania - UEFA Nations League [Server 1] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1-hd/chunks.m3u8?is_vip=false&token=1790452071-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2f46f387e42b0ba965c7f864710b84dd
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",Sweden vs Romania - UEFA Nations League [Server 2] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1/chunks.m3u8?is_vip=false&token=1790452072-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ab5dc46dcef6a7337f1d4586848387ca
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",Sweden vs Romania - UEFA Nations League [Server 3] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1-fhd/chunks.m3u8?is_vip=false&token=1790452072-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3e923c640b1233aaa49af85902617743
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",Poland vs Bosnia & Herzegovina - UEFA Nations League [Server 1] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c2/chunks.m3u8?is_vip=false&token=1790452075-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-40d47f6ef9ac2db14afebb4ad3e0ba27
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",Poland vs Bosnia & Herzegovina - UEFA Nations League [Server 2] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c2-hd/chunks.m3u8?is_vip=false&token=1790452075-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ea0aee1e8cf5eb699beb5ff316fac6bb
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",Hungary vs Ukraine - UEFA Nations League [Server 1] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c3-hd/chunks.m3u8?is_vip=false&token=1790452078-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-12f4cce3340f3c8f32a074c8d0daba18
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",Hungary vs Ukraine - UEFA Nations League [Server 2] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c3/chunks.m3u8?is_vip=false&token=1790452078-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b5544f757a5f476f8c5f3d707d079ccd
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",Italy vs Belgium - UEFA Nations League [Server 1] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c5-hd/chunks.m3u8?is_vip=false&token=1790452081-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e80fda10fb3944a67366262fc9e90304
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",Italy vs Belgium - UEFA Nations League [Server 2] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c5/chunks.m3u8?is_vip=false&token=1790452081-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3c09efa09f859e8958e7445435c3a139
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ea912-2318-733b-a1c1-d875cc6ae6a0/compose?aspectRatio=1.78&format=webp&width=1200" group-title="LIVE EVENT",Girona vs Albacete - Segunda Division [Server 1] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba738-fancode/chunks.m3u8?is_vip=false&token=1790452104-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-378f1466079f59f4832e7123f4041f80
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ea912-2318-733b-a1c1-d875cc6ae6a0/compose?aspectRatio=1.78&format=webp&width=1200" group-title="LIVE EVENT",Girona vs Albacete - Segunda Division [Server 2] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba738/chunks.m3u8?is_vip=false&token=1790452104-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-658564c453ea992ce52f687a6347dda7
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ea912-2318-733b-a1c1-d875cc6ae6a0/compose?aspectRatio=1.78&format=webp&width=1200" group-title="LIVE EVENT",Girona vs Albacete - Segunda Division [Server 3] | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba738-fhd/chunks.m3u8?is_vip=false&token=1790452105-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a932d1cb541c3b631eb5ba34c0a5ee87
-#EXTINF:-1 tvg-logo="https://voetbaljournaal.com/wp-content/uploads/2023/05/Keuken-Kampioen-Divisie-Eredivisie-logos.png" group-title="LIVE EVENT",Dordrecht vs Almere City FC - Eerste Divisie | Gvision TV
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9d0/chunks.m3u8?is_vip=false&token=1790452115-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-132239b7b25a579edfdd87476e7c53ab
-#EXTINF:-1 tvg-logo="https://shorter.me/yKOXu" group-title="LIVE EVENT",Pakistan Vs Thailand - STREAM TV + HD | Gvision TV
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/CCCCA.m3u8?
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.97c308f7-4df4-4358-b7b8-5f8edb70f55c/18/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Predator Pro Billiard Series: Vietnam  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
