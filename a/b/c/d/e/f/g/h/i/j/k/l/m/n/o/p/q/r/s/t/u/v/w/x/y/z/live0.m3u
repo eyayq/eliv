@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 02:33:12 WIB 27-09-2026
-# 🔄 Total Channels: 845
+# ⏰ Latest Updated: 02:39:45 WIB 27-09-2026
+# 🔄 Total Channels: 848
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [02:33:12 WIB 27-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [02:39:45 WIB 27-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4350
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4350
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -72,10 +72,6 @@ https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
 http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=7
-#EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%2716630037%27&EntityType=%27Item%27&EntityId=%27850536%27&Width=448&Height=252&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="LIVE EVENT",07:55 WIB Diving - 20th Asian Games Aichi-Nagoya 2026 Women's Synchronised 3m Springboard Final | Asian Games CH05 | Gvision TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2dc792d1b97441a92a4be4e9a655e18:2ba047bfd23d36bb823990fb69a98cca
-https://tglmp03.akamaized.net/out/v1/c2dd987e84784d478cb0e9eb797fda5d/manifest.mpd
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%2716593521%27&EntityType=%27Item%27&EntityId=%27849695%27&Width=448&Height=252&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="LIVE EVENT",09:00 WIB Athletics - 20th Asian Games Aichi-Nagoya 2026 Men's & Women's Heats | Finals - 27 Sep 2026 | Asian Games CH01 | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -88,6 +84,26 @@ https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Raul%20Rosas%20Jr.%20Vs%20Raoni%20Barcelos.jpg" group-title="LIVE EVENT",Raul Rosas Jr. Vs Raoni Barcelos - PARAMOUNT+ FHD | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db683d059dfaf1f32f3a8162656c6725:cf325534ea496365b2e0834d913167aa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xsl3qjiero/out/v1/5e63410b4fca4a8a97243a8b2f14d8ef/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Raul%20Rosas%20Jr.%20Vs%20Raoni%20Barcelos.jpg" group-title="LIVE EVENT",Raul Rosas Jr. Vs Raoni Barcelos - PARAMOUNT+ ALT | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91c369f8579e3824b4604bf573726b26:8000cad8c28844f145ba45bc831441eb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yccrx4cftf/out/v1/75d33583e4ce40dfa9b447f853779365/c1a91071-cdd0-436b-841f-66ae21603155-cenc.mpd?aws_sessionId=1d014f33-15e2-4955-9417-f274fefaa89b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Raul%20Rosas%20Jr.%20Vs%20Raoni%20Barcelos.jpg" group-title="LIVE EVENT",Raul Rosas Jr. Vs Raoni Barcelos - PARAMOUNT+ FHD | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5365f66e2716f0311124d62b326dfc6:2f0511b885ae7faf41eff3ece2933a06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z6e4nz7ldo/out/v1/b076c83a8c9d461ca94bf3114b4cf886/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Raul%20Rosas%20Jr.%20Vs%20Raoni%20Barcelos.jpg" group-title="LIVE EVENT",Raul Rosas Jr. Vs Raoni Barcelos - PARAMOUNT+ FHD | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73c658c668ce95620f4ec06ef697baac:25943ea01a7449bf18f7c0b3485e599c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3kqirt2kdh/out/v1/5d452af859b3471984a9ac97cae836c4/cenc.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024986/1790372336608218_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg" group-title="LIVE EVENT",India In Action - Athletics | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
