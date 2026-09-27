@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 04:50:44 WIB 27-09-2026
-# 🔄 Total Channels: 836
+# ⏰ Latest Updated: 04:57:03 WIB 27-09-2026
+# 🔄 Total Channels: 838
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [04:50:44 WIB 27-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [04:57:03 WIB 27-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -92,19 +92,23 @@ https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024986/1790372336608218_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg" group-title="LIVE EVENT",India In Action - Boxing | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024988/1790462924709672_AG26_27Sep_Weightlifting_Harjinder_Kaur_live_landscape_thumb.jpg" group-title="LIVE EVENT",India In Action - Weightlifting | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/AG_strea2709/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="LIVE EVENT",Day 9 - Athletics | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025008/1790482800397580_AG26_Athletics_Mens-Decathlon-Pole-Vault-Tejaswin-Noushad_live_landscape_thumb.jpg" group-title="LIVE EVENT",India In Action - Athletics | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/AG_strea2609/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024987/1790461410803801_AG26_27Sep_Boxing_Mens_80kg_live_landscape_thumb.jpg" group-title="LIVE EVENT",ANKUSH vs Nekruz SALIMOV - Men's 80kg - Boxing | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541386/thumbnail/1790484363586_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",WANG Xiaobao vs Hussein IASHAISH - Men's 80kg - Boxing | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/AG_DX5_22709/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024983/1790458706246522_AG26_27Sep_Badminton_Womens_Singles_live_landscape_thumb.jpg" group-title="LIVE EVENT",India In Action - Badminton | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790481643332_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Volleyball | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/AG_DX6_22609/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Badminton | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/AG_DX3_22609/ENG/master.m3u8
@@ -112,15 +116,11 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/AG_DX3_22609/ENG/master.
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/AG_DX8_22709/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790481643332_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Korea vs Philippines - Men - Volleyball | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/AG_DX6_22609/ENG/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Men's Women's & Mixed Quarterfinals - Badminton | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/AG_DX4_22609/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Athletics | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Weightlifting | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/AG_DX7_22609/ENG/master.m3u8
@@ -172,19 +172,23 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024986/1790372336608218_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",India In Action - Boxing | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024988/1790462924709672_AG26_27Sep_Weightlifting_Harjinder_Kaur_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",India In Action - Weightlifting | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/AG_strea2709/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Live Event: Sony Liv 1",Day 9 - Athletics | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025008/1790482800397580_AG26_Athletics_Mens-Decathlon-Pole-Vault-Tejaswin-Noushad_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",India In Action - Athletics | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/AG_strea2609/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024987/1790461410803801_AG26_27Sep_Boxing_Mens_80kg_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",ANKUSH vs Nekruz SALIMOV - Men's 80kg - Boxing | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541386/thumbnail/1790484363586_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",WANG Xiaobao vs Hussein IASHAISH - Men's 80kg - Boxing | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/AG_DX5_22709/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024983/1790458706246522_AG26_27Sep_Badminton_Womens_Singles_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",India In Action - Badminton | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790481643332_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Volleyball | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/AG_DX6_22609/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Badminton | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/AG_DX3_22609/ENG/master.m3u8
@@ -192,15 +196,11 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/AG_DX3_22609/ENG/master.
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/AG_DX8_22709/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790481643332_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Korea vs Philippines - Men - Volleyball | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/AG_DX6_22609/ENG/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Men's, Women's & Mixed Quarterfinals - Badminton | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/AG_DX4_22609/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Athletics | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Weightlifting | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/AG_DX7_22609/ENG/master.m3u8
@@ -232,6 +232,10 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/AG_MDS2_2609/ENG/master.
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/AG_MDS2_2509/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",20th Asian Games Aichi | Court 1 | Twitch | Gvision TV
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba01
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",20th Asian Games Aichi | Court 2 | Twitch | Gvision TV
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba02
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=00FA9A" group-title="Live Event: Badminton",20TH Asian Games | Court 1 | Gvision TV
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/6a20038e-3495-416b-88d0-146757f2541b/HLS_ENC/index.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=00FA9A" group-title="Live Event: Badminton",20TH Asian Games | Court 2 | Gvision TV
