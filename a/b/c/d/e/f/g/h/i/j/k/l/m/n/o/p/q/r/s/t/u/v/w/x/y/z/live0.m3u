@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 00:00:20 WIB 29-09-2026
-# 🔄 Total Channels: 876
+# ⏰ Latest Updated: 00:07:23 WIB 29-09-2026
+# 🔄 Total Channels: 873
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [00:00:20 WIB 29-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [00:07:23 WIB 29-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -68,14 +68,8 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
 https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games | Court 1 | XOILACZ | Gvision TV
-https://live1.quickscoreboardz.com/live/channel65.m3u8?wsSecret=244762cede9b6320ea0677419f439d97&wsABSTime=1790598874
-#EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games | Court 2 | XOILACZ | Gvision TV
-https://live1.quickscoreboardz.com/live/channel66.m3u8?wsSecret=b2c33b58e993d7d6bc81ce86e9b4a6fc&wsABSTime=1790598933
-#EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games | Court 1 | Gvision TV
-https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/b73d64f4-a528-4296-b051-5711e6a64f0e/HLS_ENC/index.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games | Court 2 | Gvision TV
-https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/dba6af30-ebdd-4a92-a3b8-b8303d926188/HLS_ENC/index.m3u8
+#EXTINF:-1 tvg-logo="https://staticg.sportskeeda.com/editor/2023/07/a17f4-16890646767775-1920.jpg" group-title="LIVE EVENT",07:00 WIB TRUYEN HINH TRUC TIEP: CAC MON THI DAU ASIAD 20 - 2026 | VTV6 | Gvision TV
+https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025159/1790591344093509_AG26_MENS_CRICKET_QF_SL_VS_NEP_LIVE_landscape_thumb.jpg" group-title="LIVE EVENT",Sri Lanka vs Nepal - Quarter-Final | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
