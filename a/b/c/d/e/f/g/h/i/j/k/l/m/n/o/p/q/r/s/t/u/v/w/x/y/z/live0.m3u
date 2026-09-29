@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 21:21:11 WIB 29-09-2026
+# ⏰ Latest Updated: 21:28:32 WIB 29-09-2026
 # 🔄 Total Channels: 813
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [21:21:11 WIB 29-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [21:28:32 WIB 29-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -157,7 +157,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/R1RWLUNIQU5ORUw/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png" group-title="Nasional",SCTV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=sctv
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=sctv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png" group-title="Nasional",SCTV (TRV)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -222,7 +222,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 #EXTVLCOPT:http-referrer=http://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=moji
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=moji
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="Nasional",MOJI (DN)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -236,7 +236,7 @@ http://gvisiontv.channell.my.id/ch/id/mdtvnow.php/.m3u8
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TURUVg/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=nettv-hd
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=nettv-hd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (DN)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -247,7 +247,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lit
 http://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;jmnuserid=lite&amp;chname=RTV
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rtv.png" group-title="Nasional",RTV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=rtv
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=rtv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rtv.png" group-title="Nasional",RTV (TRV)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -266,7 +266,7 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=indosiar
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=indosiar
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_indosiar.png" group-title="Nasional",INDOSIAR (TRV)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -297,7 +297,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png" group-title="Nasional",TVONE (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=tvone
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=tvone
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png" group-title="Nasional",TVONE (TRV)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -310,7 +310,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 http://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_metrotv.png" group-title="Nasional",METRO TV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=metrotv
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=metrotv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_metrotv.png" group-title="Nasional",METRO TV (TRV)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -324,14 +324,14 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png" group-title="Nasional",iNEWS (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=inews
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=inews
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_kompastv.png" group-title="Nasional",KOMPAS TV (DN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_kompastv.png" group-title="Nasional",KOMPAS TV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=kompastv
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=kompastv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_kompastv.png" group-title="Nasional",Kompas TV (TRV)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -363,14 +363,14 @@ https://hgmtv.com:2020/hls/garudatvlivestreaming/garudatvlivestreaming.m3u8
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1j9Vhek9O3Aw2KYJBUK5sqw7WTH195yagxBFypBWRQ&s=10" group-title="Nasional",Oxygen TV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=oxygentv
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=oxygentv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (LIVE)
 http://gvisiontv.channell.my.id/ch/id/daai.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (DN)
 http://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=daaitv
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=daaitv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_btv.png" group-title="Nasional",BTV (DN)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
@@ -410,21 +410,21 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZSSQ/manifest.mpd
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" group-title="Nasional",TVRI (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=tvri
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=tvri
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" group-title="Nasional",TVRI (LIVE)
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="Nasional",TVRI SPORT
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=tvrisport
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=tvrisport
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg" group-title="Nasional",TVRI WORLD (LIVE)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg" group-title="Nasional",TVRI WORLD (OXY)
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=tvriworld
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=tvriworld
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg" group-title="Nasional",SIN PO TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=sinpotv
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=sinpotv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxedX4yS-4XhyUfJlsi5FmHfos7iVuZvuBMeLwoHG5hg&s=10" group-title="Nasional",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
@@ -572,7 +572,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=ktv
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=ktv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyctx470LFHo6ArxAA1JRqrs7MIZHwA9TGR9sKV6K5sT5R2l44qKY3xTc&s=10" group-title="DAERAH",ELSHINTA TV | Jakarta
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -1019,7 +1019,7 @@ https://live-manifest.production-public.tubi.io/live/e8f55e68-0e26-44f2-afac-c13
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_arirang.png" group-title="MOVIES & ENTERTAINMENT",Arirang (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=arirangworld
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=arirangworld
 #EXTINF:-1 tvg-logo="" group-title="MOVIES & ENTERTAINMENT",HBO Comedy Mexico
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1377,7 +1377,7 @@ https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=cgtndocumentary
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=cgtndocumentary
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_cgtndocumentary.png" group-title="KNOWLEDGE & LIFESTYLE",CGTN Documentary (LIVE)
 http://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_cgtndocumentary.png" group-title="KNOWLEDGE & LIFESTYLE",CGTN Documentary (TRV)
@@ -1604,7 +1604,7 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV4.png" group-title="KNOWLEDGE & LIFESTYLE",CCTV4 (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=cctv4asia
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=cctv4asia
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://images.indihometv.com/images/channels/image_ch_fashiontv.png" group-title="KNOWLEDGE & LIFESTYLE",FASHION TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1647,7 +1647,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 http://op-flashcon-digdayahd-1.dens.tv/h/h312/index.m3u8?app_type=web&userid=lite&chname=TV5MONDE_ASIE
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tv5monde.png" group-title="KNOWLEDGE & LIFESTYLE",TV5Monde (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=tv5monde
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=tv5monde
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCwY6zBSiMC5qVKl49fgTsGPaa26_D6h3movHHcSo3Q&s=10" group-title="KNOWLEDGE & LIFESTYLE",tv5monde STYLE
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -1677,25 +1677,25 @@ https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_chinesenewsasia.png" group-title="News",Channel News Asia
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=channelnewsasia
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=channelnewsasia
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_dwtv.png" group-title="News",DW
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=dwenglish
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=dwenglish
 #EXTINF:-1 tvg-logo="" group-title="News",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_france24.png" group-title="News",France24
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=france24
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=france24
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_euronews.png" group-title="News",Euronews
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=euronewsasia
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=euronewsasia
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdzMq4Vh/20260304-060630.jpg" group-title="News",CNBC asia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e7c10b448444c53904de46d1a30f427:d638c2cb75ff93d38b5ec8b6f5098dea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=http://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=cnbc
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=cnbc
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnninter.png" group-title="News",CNN INTERNATIONAL
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="News",RT NEWS
@@ -1723,7 +1723,7 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=bloomberg
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=bloomberg
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_nhkworldjapan.png" group-title="News",NHK World Japan (DN)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c2c7834abd740669637bc4b029c9aee:2f7808671f1a6f63ebd86850d8d7cc5f
@@ -2205,7 +2205,7 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8?app_type=web&userid=lite&chname=RodjaTV
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rodjatv.png" group-title="Religion: ISLAM",Rodja TV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=rodjatv
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=rodjatv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_DMITV-180x180_2025_11_06_11_00_00.jpg" group-title="Religion: ISLAM",DMI TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf8d36bbfa904cb8a1c714dd74217cf2:97c0f4b08a496f8ab05e46f29a71c7c8
@@ -2235,7 +2235,7 @@ https://e.siar.us/live/tvmu.m3u8
 http://tvratu.my.id/nissa/index.mpd?id=7464&type=dash
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQ0DHlejXf0c--WXmbUldYWmQwXWf5-RnXT5-IukuPg&s=10" group-title="Religion: ISLAM",SALAM TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=salamtv
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=salamtv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsVzy3db24Yz74efVtgIWAKuxuCdR_KZRaQioAM60xw&s=10" group-title="Religion: ISLAM",INSAN TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch1.m3u8
@@ -2292,10 +2292,10 @@ http://gvisiontv.channell.my.id/ch/ph/maria.php/.mpd
 http://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_uchannel.png" group-title="Religion: KRISTEN",UChannel
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=uchannel
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=uchannel
 #EXTINF:-1 tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/a884e62071548b2c23a8.png" group-title="Religion: KRISTEN",HOPE CHANNEL
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy.php/.m3u8?id=hope
+http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=hope
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyjQ06lJjc-ekyMKv4ByNQK2Fwug8dQyUerAiyHny5FQ&s" group-title="Religion: KRISTEN",TBN ASIA
 http://gvisiontv.channell.my.id/ch/ph/tbnasia.php/.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yLxH1fK/tbnuk.png" group-title="Religion: KRISTEN",TBN UK
