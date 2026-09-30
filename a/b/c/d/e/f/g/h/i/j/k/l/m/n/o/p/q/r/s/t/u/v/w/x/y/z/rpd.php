@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.48 WIB 01/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.59 WIB 01/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/benfica-women-7ef69a.webp" group-title="[LIVE 02:00 WIB 01/10/26] Benfica Women vs Bayern Munich Women | Server 1",[LIVE 02:00 WIB 01/10/26] Benfica Women vs Bayern Munich Women | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -8,29 +8,68 @@ https://hls.lauthaitv.cc/live/benfiw-bayernw-c1w/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/benfiw-bayernw-c1w.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sl-benfica-women-2b404f.webp" group-title="[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 1",[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-620504_lsd.m3u8?auth_key=1790804524-0-0-c0cad62603ab118a34c694b41a6a6297
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=60ff60b8b4944914fe48acac0b40dd2b&txTime=6abdcb38
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sl-benfica-women-2b404f.webp" group-title="[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 2",[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1790804524-0-0-5a1f405e7c5f4bfbc6eabfe2ce9ffe58
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=2a1486c37ae014d54df07098b5c6f89d&txTime=6abdcb38
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sl-benfica-women-2b404f.webp" group-title="[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 3",[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=1eba8080cbb5387b4f44e79a3deb1956&txTime=6abdc87c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=0b1eaf6423099ff7f61cd6a4ffce42a3&txTime=6abdcb4c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sl-benfica-women-2b404f.webp" group-title="[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 4",[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=fc1cdc4828c477cea8d5a78bf4b7a6be&txTime=6abdc87c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=6013f531e93ecf9f33e672e8ee4ea7b2&txTime=6abdcb4c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sl-benfica-women-2b404f.webp" group-title="[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 5",[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1790804524-0-0-cccb0a09393c172e2f5a9bc440e28aba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1790805244-0-0-09188357a725c81cc1bb06cab7bce25e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sl-benfica-women-2b404f.webp" group-title="[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 6",[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1790804524-0-0-f40aab6d4af4ed2e1d385f48a45c2838
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1790805244-0-0-ea73ebe6c66b1ef47ceeda17510c56cc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sl-benfica-women-2b404f.webp" group-title="[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 7",[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=321add241d0719f0934c3fb269c8b0f4&txTime=6abdc87c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620504_lsd.m3u8?auth_key=1790805236-0-0-106083f89b9a7a9f8a1286a55a803346
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sl-benfica-women-2b404f.webp" group-title="[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 8",[LIVE 02:00 WIB 01/10/26] SL Benfica Women vs Bayern Munchen Women | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=af1b6d6868c98a2083c10798fb9c6bb5&txTime=6abdc87c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1790805236-0-0-d05415d9b7e281407be2240042a9feae
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 1",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.50/hls/EHHH.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 2",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912127_lsd.m3u8?txSecret=4e4153e2445df37977ee1fe63f87f0b7&txTime=6abdcb4c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 3",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=53548ac82951900bd97bba8cd3e8c7df&txTime=6abdcb4c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 4",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=b58343b236263121d698fb701367c8bb&txTime=6abdcb3a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 5",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=4e726e09c7f59da005f2d3bc41053e15&txTime=6abdcb3a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 6",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912142_lsd.m3u8?auth_key=1790805239-0-0-9204ae7b11250008c4f002377207749a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 7",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1790805239-0-0-229965f73f3cceab982d97aa5046f83a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 8",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1790805135-0-0-669b94a45bce57e59a243b9c6f593b01
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 9",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1790805135-0-0-ed0afe91e57ba02886ae7d9459bffe2a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 10",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1790805117-0-0-dfd262c65a21da3ca573fc0948cd0c19
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 11",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1790805117-0-0-ee73cc106b95d1a0a7d3de8c375f1327
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 12",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1790805217-0-0-be63f35f72b6a8d2c23ae5d09896a458
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 13",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1790805217-0-0-16b03efd15ee00d605b3f9ff8726f2f2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ol-lyonnes-women-2e5fae.webp" group-title="[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 1",[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/lyonnesw-chew-c1w/index.m3u8
@@ -38,137 +77,71 @@ https://hls.lauthaitv.cc/live/lyonnesw-chew-c1w/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/lyonnesw-chew-c1w.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ol-lyonnes-women-2e5fae.webp" group-title="[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 3",[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=c66155dd9d0748913397eb76062d0c0d&txTime=6abdc87c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1790805244-0-0-ffb1024d8360c47f85b1d9ce32f78610
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ol-lyonnes-women-2e5fae.webp" group-title="[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 4",[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=44e6ecd054c2edca1613cc8221de506c&txTime=6abdc87c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1790805244-0-0-5cf42b60d84522e51a4b2703e4898de8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ol-lyonnes-women-2e5fae.webp" group-title="[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 5",[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1790804524-0-0-ff1eca9fcec8c72fb4c4bf2741ec990b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=c70768d5170399fc44801b7fea942073&txTime=6abdcb4c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ol-lyonnes-women-2e5fae.webp" group-title="[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 6",[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1790804524-0-0-33282b712cc3f81e963bc48c2f7be00d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=eac070f48666fb6cc80f8e5d6185ce5a&txTime=6abdcb4c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ol-lyonnes-women-2e5fae.webp" group-title="[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 7",[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1790804524-0-0-b1f0895ecc090325daec3ad73b14cf08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1790805244-0-0-8bd3ba9a1a1bd12e4ce1fa6aa5de307e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ol-lyonnes-women-2e5fae.webp" group-title="[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 8",[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1790804524-0-0-c32e3538a7a43754e43682f50576df06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1790805244-0-0-dc90ae55f2027f8fd0781a7f5944db84
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ol-lyonnes-women-2e5fae.webp" group-title="[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 9",[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1790804524-0-0-f64e0c893f0edae1e14c3a4a0dd45f7f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1790805244-0-0-12c17be9ee4d9e3d68b239ea6a8c41b5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ol-lyonnes-women-2e5fae.webp" group-title="[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 10",[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1790804524-0-0-da3dd0490e138affd5801121f98dec39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1790805244-0-0-4fb3e77a012fd9d2789119865aa60e3b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ol-lyonnes-women-2e5fae.webp" group-title="[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 11",[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=61eaac778b588c1d67315e7a9aab756a&txTime=6abdc87c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1790805244-0-0-fd4773148113bf7301e483469efd392e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ol-lyonnes-women-2e5fae.webp" group-title="[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 12",[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=4931805513e7815f1df915279fcbacf9&txTime=6abdc87c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1790805244-0-0-a78451f5c3120595b926bd5da6d90b08
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ol-lyonnes-women-2e5fae.webp" group-title="[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 13",[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1790804524-0-0-de52c98b9cd76fd78b33a81c3d9a3c0e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=9e288c486c4d041d57deb8516278a036&txTime=6abdcb4c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ol-lyonnes-women-2e5fae.webp" group-title="[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 14",[LIVE 02:00 WIB 01/10/26] OL Lyonnes Women vs Chelsea FC Women | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1790804524-0-0-110604c49be379a7ff32674904b9f1ad
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 1",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.50/hls/EHHH.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 2",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912127_lsd.m3u8?txSecret=046dbf21d182d89ab2503b0d04d2807c&txTime=6abdc87c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 3",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=dbebe8ec13a12e72f9deb443ca79fd81&txTime=6abdc87c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 4",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912142_lsd.m3u8?auth_key=1790804524-0-0-971c03536f329563f6e562995bf07acf
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 5",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1790804524-0-0-3dbc467188311af5b15e257572284522
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 6",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1790804524-0-0-f0205cab5ba29230b172275ace639794
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 7",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1790804524-0-0-5b2f0ede8315782d94d475d0a4f448fe
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 8",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=96f477feae653daa515bb3baa8863de7&txTime=6abdc87c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 9",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=31950cda2ec07ec294521fbd868460ff&txTime=6abdc87c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 10",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1790804524-0-0-7fe03eda4545bd862a0e66a10b2e5ac6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 11",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1790804524-0-0-41f1f0a92089432596eceb49f622bf27
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 12",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1790804524-0-0-63bfaa0eb895e7b591ebbec88a61eca2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 13",[LIVE 02:00 WIB 01/10/26] Portugal U21 vs Gibraltar U21 | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1790804524-0-0-0cb57741c3ff98d4e690cc1119fb78d8
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 02:45 WIB 01/10/26] Eastleigh vs Southend | Server 1",[LIVE 02:45 WIB 01/10/26] Eastleigh vs Southend | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAAA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 02:45 WIB 01/10/26] Tamworth vs Sutton | Server 1",[LIVE 02:45 WIB 01/10/26] Tamworth vs Sutton | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAAAA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 02:45 WIB 01/10/26] Sporting Lisbon W vs Brondby W | Server 1",[LIVE 02:45 WIB 01/10/26] Sporting Lisbon W vs Brondby W | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAAAAA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 02:45 WIB 01/10/26] Brighton W vs Tottenham W | Server 1",[LIVE 02:45 WIB 01/10/26] Brighton W vs Tottenham W | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAA.m3u8
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/bbea4446131c9a06a327316c695a5538.png" group-title="[LIVE 03:00 WIB 01/10/26] Independiente FBC vs Nacional Asuncion | Server 1",[LIVE 03:00 WIB 01/10/26] Independiente FBC vs Nacional Asuncion | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjZPLUsxe4waFwsS.m3u8?txSecret=53f1c7427246c7bab8d4b907aba350d0&txTime=6ABE1CDC
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/bbea4446131c9a06a327316c695a5538.png" group-title="[LIVE 03:00 WIB 01/10/26] Independiente FBC vs Nacional Asuncion | Server 2",[LIVE 03:00 WIB 01/10/26] Independiente FBC vs Nacional Asuncion | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.41/hls/PMMMA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cienciano-f1ac7c.png" group-title="[LIVE 03:00 WIB 01/10/26] Cienciano vs người Chanka | Server 1",[LIVE 03:00 WIB 01/10/26] Cienciano vs người Chanka | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mwdpxf4pfPpZUCeNg.m3u8?txSecret=18b9fe7fb17a038d523aeb6f36a39ddb&txTime=6ABE1CDC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=810beb47760cc80f54fa94ab68674c2b&txTime=6abdcb4c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cienciano-f1ac7c.png" group-title="[LIVE 03:00 WIB 01/10/26] Cienciano vs Los Chankas | Server 1",[LIVE 03:00 WIB 01/10/26] Cienciano vs Los Chankas | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/PMMM.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cienciano-f1ac7c.png" group-title="[LIVE 03:00 WIB 01/10/26] Cienciano vs Los Chankas | Server 2",[LIVE 03:00 WIB 01/10/26] Cienciano vs Los Chankas | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912132_lsd.m3u8?txSecret=13c37ac1d18cb7492478b9b1d5203fc1&txTime=6abdc87c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912132_lsd.m3u8?txSecret=09473439031ddfb645b19f58afad7e3d&txTime=6abdcb4c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cienciano-f1ac7c.png" group-title="[LIVE 03:00 WIB 01/10/26] Cienciano vs Los Chankas | Server 3",[LIVE 03:00 WIB 01/10/26] Cienciano vs Los Chankas | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=5d57ed504f1c5f93be93acb6fbfee462&txTime=6abdc87c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=a41a89fc656c5c413be032ced38c58e5&txTime=6abdcb4c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cienciano-f1ac7c.png" group-title="[LIVE 03:00 WIB 01/10/26] Cienciano vs Los Chankas | Server 4",[LIVE 03:00 WIB 01/10/26] Cienciano vs Los Chankas | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=9b127daeb0b0ccf243ca0d15ccbef908&txTime=6abdc87c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=5744031a2b98f61874b12609424e47cb&txTime=6abdcb4c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cienciano-f1ac7c.png" group-title="[LIVE 03:00 WIB 01/10/26] Cienciano vs Los Chankas | Server 5",[LIVE 03:00 WIB 01/10/26] Cienciano vs Los Chankas | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7040.1307 Mobile Safari/537.36
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=dd2aa44f87f8125da20ae2096358b60c&txTime=6abdc87c
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 03:00 WIB 01/10/26] Benfica W vs Bayern Munchen W | Server 1",[LIVE 03:00 WIB 01/10/26] Benfica W vs Bayern Munchen W | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=29af6a8a5d7f4e02f1e7ebe2aa9504cf&txTime=6abdcb4c
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 03:00 WIB 01/10/26] Real Oruro vs Always Ready | Server 1",[LIVE 03:00 WIB 01/10/26] Real Oruro vs Always Ready | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.50/hls/EHHHAA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 03:00 WIB 01/10/26] Benfica W vs Bayern Munchen W | Server 2",[LIVE 03:00 WIB 01/10/26] Benfica W vs Bayern Munchen W | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live1.dyrur1.com/live/74403626_517a58d6e2727804c847d1aab1dba31d_540p.m3u8?auth_key=1790809481-0-0-8ee59ede3ddf01ba0c0ffb7c5b719113
+http://193.47.62.50/hls/ZPPPAAAAAAA.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 03:00 WIB 01/10/26] Defensor Sp vs Plaza Colonia | Server 1",[LIVE 03:00 WIB 01/10/26] Defensor Sp vs Plaza Colonia | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.50/hls/ZPPPAAAAAAAA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 03:00 WIB 01/10/26] Torreense W vs FC Kharkiv W | Server 1",[LIVE 03:00 WIB 01/10/26] Torreense W vs FC Kharkiv W | Server 1 (SVR-BHNS 1)
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 03:00 WIB 01/10/26] Cerro Largo vs Rentistas | Server 1",[LIVE 03:00 WIB 01/10/26] Cerro Largo vs Rentistas | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAAAAAA.m3u8
+http://193.47.62.50/hls/ZPPPAAAAAAAAA.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 03:00 WIB 01/10/26] OL Lyonnes W vs Chelsea W | Server 1",[LIVE 03:00 WIB 01/10/26] OL Lyonnes W vs Chelsea W | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.50/hls/EHHHA.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 03:00 WIB 01/10/26] OL Lyonnes W vs Chelsea W | Server 2",[LIVE 03:00 WIB 01/10/26] OL Lyonnes W vs Chelsea W | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://live2.dyrur1.com/live/74371806_e06bd9f2036b0f4dfff0293e2681ede4_540p.m3u8?auth_key=1790809169-0-0-91a0532b8a23158b7ce8a77fee8f4055
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 03:00 WIB 01/10/26] Cerro Largo vs Rentistas | Server 1",[LIVE 03:00 WIB 01/10/26] Cerro Largo vs Rentistas | Server 1 (SVR-BHNS 1)
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/10/26] Independiente FBC vs Nacional Asuncion | Server 1",[LIVE 04:00 WIB 01/10/26] Independiente FBC vs Nacional Asuncion | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAAAAAAAAA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 03:00 WIB 01/10/26] Real Oruro vs Always Ready | Server 1",[LIVE 03:00 WIB 01/10/26] Real Oruro vs Always Ready | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAAAAAAA.m3u8
+http://193.47.62.41/hls/PMMMA.m3u8
