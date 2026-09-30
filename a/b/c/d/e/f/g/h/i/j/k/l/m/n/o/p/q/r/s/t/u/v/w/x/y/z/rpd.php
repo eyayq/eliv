@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [06.19 WIB 01/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [06.25 WIB 01/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ca-central-cordoba-sde-reserves-73e9e1.png" group-title="[LIVE 05:00 WIB 01/10/26] CA Central Cordoba SDE Reserves vs Newell's Reserves | Server 1",[LIVE 05:00 WIB 01/10/26] CA Central Cordoba SDE Reserves vs Newell's Reserves | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -7,171 +7,165 @@ https://hls.lauthaitv.cc/live/cordo-newell-argrl/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ca-central-cordoba-sde-reserves-73e9e1.png" group-title="[LIVE 05:00 WIB 01/10/26] CA Central Cordoba SDE Reserves vs Newell's Reserves | Server 2",[LIVE 05:00 WIB 01/10/26] CA Central Cordoba SDE Reserves vs Newell's Reserves | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/cordo-newell-argrl.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-tomayapo-96bf7f.webp" group-title="[LIVE 05:30 WIB 01/10/26] Real Tomayapo vs Nacional Potosi | Server 1",[LIVE 05:30 WIB 01/10/26] Real Tomayapo vs Nacional Potosi | Server 1 (SVR-BHNS 1)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-ottawa-33c5da.png" group-title="[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 1",[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=50a3c3d0c86ecd09ec7808841f2907ed&txTime=6abdedc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-ottawa-33c5da.png" group-title="[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 2",[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=f02f72742b2d468830a46e9fa7d3113a&txTime=6abdedc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-ottawa-33c5da.png" group-title="[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 3",[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=7474e40e27038d2c4b5870e1c691ed59&txTime=6abdedc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-ottawa-33c5da.png" group-title="[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 4",[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=c7f332c85fcc567c55865ba5e3a74a73&txTime=6abdedc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-mystics-w-aedbac.webp" group-title="[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 1",[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1790814064-0-0-8367c91f1883ada5efb1c5da9e27e5b8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-mystics-w-aedbac.webp" group-title="[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 2",[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1790814064-0-0-86a514856d8b01041556e05043043869
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-mystics-w-aedbac.webp" group-title="[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 3",[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1790814064-0-0-178a9791f1c6d77c110013c0ea2e26b1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-mystics-w-aedbac.webp" group-title="[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 4",[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1790814064-0-0-b960077401d495eaf7600dedd4e3e220
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/d-concepcion-e10796.webp" group-title="[LIVE 06:00 WIB 01/10/26] D. Concepcion vs O'Higgins | Server 1",[LIVE 06:00 WIB 01/10/26] D. Concepcion vs O'Higgins | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxiKXeLNFbtSvpTet.m3u8?txSecret=06f2847493dbac661868b18b0b9343ad&txTime=6ABE40C0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-tomayapo-96bf7f.webp" group-title="[LIVE 05:30 WIB 01/10/26] Real Tomayapo vs Nacional Potosi | Server 2",[LIVE 05:30 WIB 01/10/26] Real Tomayapo vs Nacional Potosi | Server 2 (SVR-BHNS 2)
+https://live.cds78y11d.org/live/sd-6MxjJqSJK3hGSeaYmS.m3u8?txSecret=cc2aacbe116d49110cd70cf517521f60&txTime=6ABE42D5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/d-concepcion-e10796.webp" group-title="[LIVE 06:00 WIB 01/10/26] D. Concepcion vs O'Higgins | Server 2",[LIVE 06:00 WIB 01/10/26] D. Concepcion vs O'Higgins | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.41/hls/PMMMAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cerro-porteno-a3bbb6.png" group-title="[LIVE 05:30 WIB 01/10/26] Cerro Porteno vs Rubio nu | Server 1",[LIVE 05:30 WIB 01/10/26] Cerro Porteno vs Rubio nu | Server 1 (SVR-BHNS 1)
+http://193.47.62.41/hls/ZOOOAAA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/miami-fc-02bfb5.png" group-title="[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 1",[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjZPLUsvSb56S2iY.m3u8?txSecret=53773cf5e5bbcd6f53326d127d60eaac&txTime=6ABE40C0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cerro-porteno-a3bbb6.png" group-title="[LIVE 05:30 WIB 01/10/26] Cerro Porteno vs Rubio nu | Server 2",[LIVE 05:30 WIB 01/10/26] Cerro Porteno vs Rubio nu | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.41/hls/PMMMAAA.m3u8
+https://live.cds78y11d.org/live/sd-6MvYqdAdQ1mVM8XCvQ.m3u8?txSecret=d673eec4695463a2e9a7153fff6c3d1c&txTime=6ABE42D5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/miami-fc-02bfb5.png" group-title="[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 2",[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912138_lsd.m3u8?auth_key=1790814064-0-0-5d679079e378a2e5187dfd9aeb782df7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/miami-fc-02bfb5.png" group-title="[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 3",[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1790814064-0-0-e96e7b2131e5473976c1d2e591b063a4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/miami-fc-02bfb5.png" group-title="[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 4",[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1790814064-0-0-716ad2f09d9342648604d99febb8c1d6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/miami-fc-02bfb5.png" group-title="[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 5",[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1790814064-0-0-284e545a2c79aba73de9d63aab1c3f52
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chattanooga-red-wolves-26a04b.webp" group-title="[LIVE 06:00 WIB 01/10/26] Chattanooga Red Wolves vs Spokane Velocity | Server 1",[LIVE 06:00 WIB 01/10/26] Chattanooga Red Wolves vs Spokane Velocity | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mwd6CqhBRmKFVtw8Y.m3u8?txSecret=63fd009c7fd57bcb09e0e2897b66f416&txTime=6ABE40C0
+https://live.cds78y11d.org/live/sd-6Mwd6CqhBRmKFVtw8Y.m3u8?txSecret=b4e6f7a0eb4ee7c82355718f3cd5a2f2&txTime=6ABE42D5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brooklyn-fc-02ee9b.webp" group-title="[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 1",[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MvYqdAdPZPiuNcD5e.m3u8?txSecret=0bcbf6ce1f1d211c823ae95d22edb84b&txTime=6ABE42D5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brooklyn-fc-02ee9b.webp" group-title="[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 2",[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=e0b7d1d7d2e2144368fdcbe2943fbd3b&txTime=6abdedc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brooklyn-fc-02ee9b.webp" group-title="[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 3",[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=7bb81b925623bfa7245f4e4719d3dd88&txTime=6abdedc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brooklyn-fc-02ee9b.webp" group-title="[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 4",[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1790814064-0-0-4a3fe58f1e0255ce7fcf6854450db595
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brooklyn-fc-02ee9b.webp" group-title="[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 5",[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1790814064-0-0-d32a30fa60dffde12528d847cb3046ea
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montevideo-city-torque-c47294.png" group-title="[LIVE 06:00 WIB 01/10/26] Montevideo City Torque vs CA Penarol | Server 1",[LIVE 06:00 WIB 01/10/26] Montevideo City Torque vs CA Penarol | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxiKMt5cNkffDDVun.m3u8?txSecret=0a23662af383a58b9ba0406b6a4b13ce&txTime=6ABE40C0
+https://live.cds78y11d.org/live/sd-6MxiKMt5cNkffDDVun.m3u8?txSecret=112d5bc8b5b58cb18aaf7f29e32d5304&txTime=6ABE42D5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montevideo-city-torque-c47294.png" group-title="[LIVE 06:00 WIB 01/10/26] Montevideo City Torque vs CA Penarol | Server 2",[LIVE 06:00 WIB 01/10/26] Montevideo City Torque vs CA Penarol | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/ZOOOAAAA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montevideo-city-torque-c47294.png" group-title="[LIVE 06:00 WIB 01/10/26] Montevideo City Torque vs CA Penarol | Server 3",[LIVE 06:00 WIB 01/10/26] Montevideo City Torque vs CA Penarol | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=506c7fca9eedf453daa72fb8ea4a67e9&txTime=6abdec58
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=83ccd71890262ee821735b74fbfdcc0c&txTime=6abdedc0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montevideo-city-torque-c47294.png" group-title="[LIVE 06:00 WIB 01/10/26] Montevideo City Torque vs CA Penarol | Server 4",[LIVE 06:00 WIB 01/10/26] Montevideo City Torque vs CA Penarol | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=89a3c70a9f897eb4f4e7301d1e8a8a01&txTime=6abdec58
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=afc7bd76b7597a893f53f73f605e5332&txTime=6abdedc0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montevideo-city-torque-c47294.png" group-title="[LIVE 06:00 WIB 01/10/26] Montevideo City Torque vs CA Penarol | Server 5",[LIVE 06:00 WIB 01/10/26] Montevideo City Torque vs CA Penarol | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=588ff83e102da8984856247603b7cb99&txTime=6abdec58
+https://pull.niur.live/live/stream-607400_lsd.m3u8?txSecret=d5afaf266a3786fdc70a2c6eca3e2d1b&txTime=6abdedc0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montevideo-city-torque-c47294.png" group-title="[LIVE 06:00 WIB 01/10/26] Montevideo City Torque vs CA Penarol | Server 6",[LIVE 06:00 WIB 01/10/26] Montevideo City Torque vs CA Penarol | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=881efe67a2eba80ea93517255c65f205&txTime=6abdec58
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/d-concepcion-e10796.webp" group-title="[LIVE 06:00 WIB 01/10/26] D. Concepcion vs O'Higgins | Server 1",[LIVE 06:00 WIB 01/10/26] D. Concepcion vs O'Higgins | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjJqSJK3hGSeaYmS.m3u8?txSecret=f2bbc84d62ac724489623a8c36d6fa19&txTime=6ABE40C0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/d-concepcion-e10796.webp" group-title="[LIVE 06:00 WIB 01/10/26] D. Concepcion vs O'Higgins | Server 2",[LIVE 06:00 WIB 01/10/26] D. Concepcion vs O'Higgins | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.41/hls/ZOOOAAA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brooklyn-fc-02ee9b.webp" group-title="[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 1",[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MvYqdAdPZPiuNcD5e.m3u8?txSecret=1b4cd406b69aac63ced37554fb8153eb&txTime=6ABE40C0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brooklyn-fc-02ee9b.webp" group-title="[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 2",[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1790813704-0-0-6ccd5069ba6f70b6cc267f79d9fe4f87
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brooklyn-fc-02ee9b.webp" group-title="[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 3",[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1790813704-0-0-6d5742d72f7b8e2008fe78ec0217cf2c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brooklyn-fc-02ee9b.webp" group-title="[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 4",[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=851ac5ac8d3b5c7ba04f1eb71b51bca9&txTime=6abdec58
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brooklyn-fc-02ee9b.webp" group-title="[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 5",[LIVE 06:00 WIB 01/10/26] Brooklyn FC vs Detroit City | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=a0846961b220f56797a7516140e0ad31&txTime=6abdec58
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/miami-fc-02bfb5.png" group-title="[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 1",[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MvYqdAdQ1mVM8XCvQ.m3u8?txSecret=38657dbcafd07751646d752c53da2608&txTime=6ABE40C0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/miami-fc-02bfb5.png" group-title="[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 2",[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912138_lsd.m3u8?auth_key=1790813704-0-0-9e3f764f55c94f79dc308cfd20cc44d1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/miami-fc-02bfb5.png" group-title="[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 3",[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1790813704-0-0-5cfa82ceb9b7f3e8576afdd8a616a364
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/miami-fc-02bfb5.png" group-title="[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 4",[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1790813704-0-0-8a4fd7be66f65ac7aac5ed62e7a4b203
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/miami-fc-02bfb5.png" group-title="[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 5",[LIVE 06:00 WIB 01/10/26] Miami FC vs Sporting Jax | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1790813704-0-0-4d52b7c2a968e0e91cc763bcb246f82d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-ottawa-33c5da.png" group-title="[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 1",[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=cdf6cc3788d6489c98d9b1163509c2a2&txTime=6abdec58
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-ottawa-33c5da.png" group-title="[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 2",[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=4a6f9a5ac61133b7324b9fa436dc56f3&txTime=6abdec58
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-ottawa-33c5da.png" group-title="[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 3",[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=5adf88f187da85ba7c47451cfb8f2a2b&txTime=6abdec58
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-ottawa-33c5da.png" group-title="[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 4",[LIVE 06:00 WIB 01/10/26] Atletico Ottawa vs Cavalry FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=11f4d944344551f971a0c9e80003797d&txTime=6abdec58
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-mystics-w-aedbac.webp" group-title="[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 1",[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1790813704-0-0-ea9bb2e19989e5d026e1fd982fadac20
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-mystics-w-aedbac.webp" group-title="[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 2",[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1790813704-0-0-659f5bf51097cbda0800af0278e99b44
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-mystics-w-aedbac.webp" group-title="[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 3",[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1790813704-0-0-d0be8f158e200bda77d37a33305e7ba1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-mystics-w-aedbac.webp" group-title="[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 4",[LIVE 06:00 WIB 01/10/26] Washington Mystics W vs Atlanta Dream W | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1790813704-0-0-3b69980332872a237e56a74e01f3e788
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=9118209e069d07024a7b0f2759ace67b&txTime=6abdedc0
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/c050aaae65b61e563cdc5d50c5af6212.png" group-title="[LIVE 06:10 WIB 01/10/26] Atlético Ottawa vs Cavalry | Server 1",[LIVE 06:10 WIB 01/10/26] Atlético Ottawa vs Cavalry | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MvVNKp4YfZGpZiqP2.m3u8?txSecret=846c5ac34a7616379c1be53f30fba7f3&txTime=6ABE40C0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rhode-island-122a1f.webp" group-title="[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 1",[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 1 (SVR-BHNS 1)
+https://live.cds78y11d.org/live/sd-6MvVNKp4YfZGpZiqP2.m3u8?txSecret=ec2464413872f0608a2d00d27e84a045&txTime=6ABE42D5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 1",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1790813704-0-0-1c2c938175a177d4c826c6480f71e4e8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rhode-island-122a1f.webp" group-title="[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 2",[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 2 (SVR-BHNS 2)
+https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1790814064-0-0-3412943d917baf27d294a1dec8fe36e0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 2",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1790813704-0-0-60b7a57383054adb139b672a4515c3c8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rhode-island-122a1f.webp" group-title="[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 3",[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 3 (SVR-BHNS 3)
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1790814064-0-0-ff1250d8cf420bb6c7cffdf47cb18599
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 3",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619672_lsd.m3u8?auth_key=1790813712-0-0-eeb644a6a369f19fe5cdd8d75d6ed083
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rhode-island-122a1f.webp" group-title="[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 4",[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 4 (SVR-BHNS 4)
+https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=679f80f76ba7ecd7b1a5a92663b5654d&txTime=6abdedc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 4",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1790813712-0-0-97ca06674677b34c4fef19c24f4261cf
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=36bf716525e207a84010b0b08754e790&txTime=6abdedc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 5",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1790814064-0-0-9b470f1e720935f209e86227eae61746
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 6",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1790814064-0-0-da213a75abe3c2325b030db2f96f6475
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 7",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=064f646d437c6f066ab08959214e792b&txTime=6abdedc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 8",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6263936276c4f89bebd244bc55f4bd39&txTime=6abdedc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 9",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1790814064-0-0-a0b9490810051d46f0bf03aa7c382503
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 10",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1790814064-0-0-4774d6f3bb84c03d9dd58efcb0136121
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 11",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1790814064-0-0-9afa9055159d19c818de666c4f94f50f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 12",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1790814064-0-0-a87fcdb7b4fe1ad819c4d24898f64540
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/penarol-10289c.webp" group-title="[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 1",[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1790814064-0-0-a9e5b9610ea96fa2c76615e5e912fd97
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/penarol-10289c.webp" group-title="[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 2",[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1790814064-0-0-2487675810b6dcec54024dfe6a806945
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/penarol-10289c.webp" group-title="[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 3",[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1790814064-0-0-ba854e2b6ea1416ced1c32fbbd17c7cb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/penarol-10289c.webp" group-title="[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 4",[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1790814064-0-0-b2441ad487d5128d6e254abd14656486
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 06:30 WIB 01/10/26] Tomayapo vs Nacional Potosi | Server 1",[LIVE 06:30 WIB 01/10/26] Tomayapo vs Nacional Potosi | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.41/hls/PMMMAA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/caimanes-del-llano-89524f.webp" group-title="[LIVE 06:30 WIB 01/10/26] Caimanes del Llano vs Capitanes Bogota | Server 1",[LIVE 06:30 WIB 01/10/26] Caimanes del Llano vs Capitanes Bogota | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1790814064-0-0-fe6bd08a5a6039d4e1fce3e956d79771
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/caimanes-del-llano-89524f.webp" group-title="[LIVE 06:30 WIB 01/10/26] Caimanes del Llano vs Capitanes Bogota | Server 2",[LIVE 06:30 WIB 01/10/26] Caimanes del Llano vs Capitanes Bogota | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1790814064-0-0-22d382cb64fb3bc60b50b7a0726c03ce
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 06:30 WIB 01/10/26] Cerro Porteno vs Rubio Nu | Server 1",[LIVE 06:30 WIB 01/10/26] Cerro Porteno vs Rubio Nu | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.41/hls/PMMMAAA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St.Louis City | Server 1",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St.Louis City | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/nyrb-stlouis-mls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St.Louis City | Server 2",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St.Louis City | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/nyrb-stlouis-mls.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/caimanes-del-llano-89524f.webp" group-title="[LIVE 06:30 WIB 01/10/26] Caimanes del Llano vs Capitanes Bogota | Server 1",[LIVE 06:30 WIB 01/10/26] Caimanes del Llano vs Capitanes Bogota | Server 1 (SVR-BHNS 1)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rhode-island-122a1f.webp" group-title="[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 1",[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1790813704-0-0-b678c54ef1e1aa12f1c5c460ec59e439
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/caimanes-del-llano-89524f.webp" group-title="[LIVE 06:30 WIB 01/10/26] Caimanes del Llano vs Capitanes Bogota | Server 2",[LIVE 06:30 WIB 01/10/26] Caimanes del Llano vs Capitanes Bogota | Server 2 (SVR-BHNS 2)
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1790814064-0-0-21bbcf65b116ad08448dc1747efd1f57
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rhode-island-122a1f.webp" group-title="[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 2",[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1790813704-0-0-a299c33be617c08e51198344f1f8cc05
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 1",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 1 (SVR-BHNS 1)
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1790814064-0-0-e499d9974511394cf98bf1a67ebc1779
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rhode-island-122a1f.webp" group-title="[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 3",[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=9f0f14c47e944f0d9379f4559f484677&txTime=6abdec58
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 2",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 2 (SVR-BHNS 2)
+https://pull.niues.live/live/stream-619672_lsd.m3u8?auth_key=1790814064-0-0-5fc8be48f7e4bfde9f07f9d28fbfc19a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rhode-island-122a1f.webp" group-title="[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 4",[LIVE 06:30 WIB 01/10/26] Rhode Island vs Indy Eleven | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=265c9239e00a9c6f1663e67c39fc13bc&txTime=6abdec58
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 3",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1790813704-0-0-070333343aec30563bd3064a8dcaed77
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 4",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1790813704-0-0-59fbb85ce4f44905aa34f63c6c325b6d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 5",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1790813704-0-0-7fd76c19e8d6a72e45084a978e570548
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 6",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1790813704-0-0-f4d78488af115a8df1b1bbdc3b9c941f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 7",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=ec5d77d6daa428b1605190179259feca&txTime=6abdec58
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 8",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=f259707b3f278a5f58bd65cecafa6750&txTime=6abdec58
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 9",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1790813704-0-0-cfe2200af9380460ee37e5fd14dd177d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 10",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1790813704-0-0-a510e7784368b3c840c104a79fceef6f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 11",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1790813704-0-0-d361c0b3d485969ac585cfa1527adcda
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-red-bulls-a04e25.webp" group-title="[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 12",[LIVE 06:30 WIB 01/10/26] New York Red Bulls vs St. Louis City SC | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1790813704-0-0-ea4cf816016ce0bb038fddd75360ca96
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/penarol-10289c.webp" group-title="[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 1",[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1790813704-0-0-f17587634de454f44ff0b02c2785b191
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/penarol-10289c.webp" group-title="[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 2",[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1790813704-0-0-766045e5c99f14580a5bc7c589d3d206
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/penarol-10289c.webp" group-title="[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 3",[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1790813704-0-0-ef0eb93a22641eb14bf77fbf809dc0c9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/penarol-10289c.webp" group-title="[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 4",[LIVE 06:30 WIB 01/10/26] Penarol vs Gimnasia | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1790813704-0-0-deef84e45be01168de21fc7bfcb221f4
+https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1790814064-0-0-44d0c6afcaa76a047e28a4dcc61865f8
