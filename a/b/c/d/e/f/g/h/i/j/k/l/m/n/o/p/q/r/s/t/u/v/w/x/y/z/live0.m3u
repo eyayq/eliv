@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 12:14:14 WIB 30-09-2026
-# 🔄 Total Channels: 778
+# ⏰ Latest Updated: 12:25:37 WIB 30-09-2026
+# 🔄 Total Channels: 772
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:14:14 WIB 30-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:25:37 WIB 30-09-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -74,10 +74,6 @@ https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6.m3u8
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/ag_strea2909/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="LIVE EVENT",Day 12 | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/ag_strea2909/ENG/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Wrestling | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
@@ -92,10 +88,6 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="LIVE EVENT",India vs Republic Of Korea - Hockey | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022315/ag_strea3009/ENG/master.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/yKOXu" group-title="LIVE EVENT",19:00 WIB Hong Kong vs Brunei Darussalam
 https://live2.dyrur1.com/live/9gklzi1gj36fm7x_369aa296e1ad2b2772571428b6379099_1080p.m3u8?auth_key=1790783886-0-0-32763e00ff617cc1279f04e0dc5c5e42
 #EXTINF:-1 tvg-logo="https://shorter.me/yKOXu" group-title="LIVE EVENT",Brunei Darussalam Vs Hong Kong - STREAM+ TV | Gvision TV
@@ -104,10 +96,6 @@ http://193.47.62.41/hls/fafafaAAA.m3u8?
 #EXTINF:-1 tvg-logo="https://shorter.me/yKOXu" group-title="LIVE EVENT",Brunei Darussalam Vs Hong Kong - LOW QUALITY | Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/fafafaAAA.m3u8?
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="LIVE EVENT",Football | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/ag_mds4_2909/ENG/master.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/6/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -142,18 +130,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/ag_strea2909/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",India vs Republic Of Korea - Hockey | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022315/ag_strea3009/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Live Event: Sony Liv 1",Day 12 | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/ag_strea2909/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Football | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/ag_mds4_2909/ENG/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Wrestling | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
