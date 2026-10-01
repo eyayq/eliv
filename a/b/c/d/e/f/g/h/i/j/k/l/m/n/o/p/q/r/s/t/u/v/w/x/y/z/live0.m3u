@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 16:43:32 WIB 01-10-2026
-# 🔄 Total Channels: 793
+# ⏰ Latest Updated: 17:03:20 WIB 01-10-2026
+# 🔄 Total Channels: 805
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [16:43:32 WIB 01-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [17:03:20 WIB 01-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -81,6 +81,60 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Footlive0110/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/9/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.258f8760-20bb-4fd8-9bb9-ccbc6e7bf21f/50/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",FloWrestling Radio Live - Episode 23  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.235260c9-6a1b-4d8b-9ed1-f6b7f51a5adb/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 1st Round  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025240/1790650314984639_UNL2627_MD3_Azerbaijan_vs_LiechTenstein_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Azerbaijan vs Liechtenstein | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Footlive0110/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790037081710813_UNL2627_Spain_vs_Croatia_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep Spain vs Croatia | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/Footlive2909/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790037196135628_UNL2627_Czechia_vs_England_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep Czechia vs England | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037139/Footlive2909/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790037297951813_UNL2627_Scotland_vs_Switzerland_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep Scotland vs Switzerland | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Footlive2909/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790036876475628_UNL2627_Luxembourg_vs_Iceland_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep Luxembourg vs Iceland | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/Footlive2909/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790036514355813_UNL2627_Slovakia_vs_Kazakhstan_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep Slovakia vs Kazakhstan | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Footlive2909/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790036383044813_UNL2627_San_Marino_vs_Albania_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep San Marino vs Albania | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037141/Footlive2909/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790036204655813_UNL2627_Slovenia_vs_North_Macedonia_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep Slovenia vs North Macedonia | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/Footlive2909/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790036639667628_UNL2627_Bulgaria_vs_Estonia_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep Bulgaria vs Estonia | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/Footlive2909/ENG/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="live event: fawa",[Africa Cup of Nations Qualification] Central Africa vs Burkina Faso 1 Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
