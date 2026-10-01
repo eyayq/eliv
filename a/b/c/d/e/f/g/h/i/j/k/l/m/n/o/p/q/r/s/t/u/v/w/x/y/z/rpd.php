@@ -1,54 +1,42 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.25 WIB 02/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.36 WIB 02/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 1",[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1790878864-0-0-0fe5ce98d436656db218c1013a836660
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1790879404-0-0-4a2b68af2c54065241798d7f05ad24d3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 2",[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1790878864-0-0-e81b23d01c02f300845b8871a8721435
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1790879404-0-0-ac80c24f2e60fe9ed7f0e47b1c69bb94
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 3",[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620504_lsd.m3u8?auth_key=1790878864-0-0-5f3f05168d36fb20f1e6e39e57bd47ad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912136_lsd.m3u8?txSecret=b94ce26cc80ee2a078fe9276e028c1e6&txTime=6abeecfc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 4",[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1790878864-0-0-b9dfc7405c5df82ab9ec40e8e6d8034e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=b6e156e29ee79796169e29d7eb9c8f09&txTime=6abeecfc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 5",[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912136_lsd.m3u8?txSecret=dfdba9435f16c78ebdaef84581036c30&txTime=6abeeae0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=0af2ed6dec52e90fb385bf04fdf81813&txTime=6abeecfc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 6",[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=96f9e5de1270ea83eafa8851a10dc5b0&txTime=6abeeae0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=269da6763294d4864050606a3f5cf30c&txTime=6abeecfc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 7",[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=f42882a19e1453c22266badab24eb9a7&txTime=6abeeae0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-620504_lsd.m3u8?auth_key=1790879404-0-0-d2d89b09f53e19dbd17b65e767e3926e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 8",[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=ab3499cea52be8546dfe66cd189c0e4d&txTime=6abeeae0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1790879404-0-0-c1110f50da0e3a029ce04d0c6874d6df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 9",[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=da0699046e432a0e87a61c3061d0b9f7&txTime=6abeeae0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=6d7774179f2a29be42826c073347a56f&txTime=6abeecfc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 10",[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=860e0768d721f48bfa2ff8fdeacf64ee&txTime=6abeeae0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=2b2a58cd20af548cd01c8a4a4808128d&txTime=6abeecfc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 11",[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1790878864-0-0-dc4aa8a237ae048461d9509e83ffb343
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1790879404-0-0-6299a1213b52542a4e6bc0563cb62736
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 12",[LIVE 22:45 WIB 01/10/26] Baniyas Club vs Al Wahda(UAE) | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1790878864-0-0-7bfd8a8b8f735143fc607ee8fe882d0a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-tel-aviv-8ce87a.webp" group-title="[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 1",[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=e7242216f12d6f81cb92bb56f65eae35&txTime=6abeeae0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-tel-aviv-8ce87a.webp" group-title="[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 2",[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=aec1b091a03456e95ca04b792d7a0497&txTime=6abeeae0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-tel-aviv-8ce87a.webp" group-title="[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 3",[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1790878864-0-0-c6e301f6fb16903c9977649a5187c05e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-tel-aviv-8ce87a.webp" group-title="[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 4",[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1790878864-0-0-ac74ad2ce0c7febbea7db1979ee76429
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1790879404-0-0-82d83ab5c0f26d9f9b9f8866102e8ea2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guinea-3da0d1.png" group-title="[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 1",[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/gui-ken-afcon/index.m3u8
@@ -59,29 +47,29 @@ https://flv.lauthaitv.cc/live/gui-ken-afcon.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.44/hls/QQQQAX.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guinea-3da0d1.png" group-title="[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 4",[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=41c8d5fbdfd3db67162433a399ef160a&txTime=6abeeae0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=df9f01928d4fb2350ba803bf82ad24ab&txTime=6abeecfc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guinea-3da0d1.png" group-title="[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 5",[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=32a5c23627c33cbd082727e6a00d2b19&txTime=6abeeae0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=000f2941355630a305b3472f969ecb2e&txTime=6abeecfc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guinea-3da0d1.png" group-title="[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 6",[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1790878864-0-0-a4323a3d982fadbfff6657b70cf4bf34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1790879404-0-0-a0a8ef8df551b3464f3b596b784afff8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guinea-3da0d1.png" group-title="[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 7",[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1790878864-0-0-2e63a6a3eaeedf5f1b8db2793c2993ad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1790879404-0-0-bd93316c06d4a0d8ade79c9697055078
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guinea-3da0d1.png" group-title="[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 8",[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912138_lsd.m3u8?auth_key=1790878864-0-0-8af5e6327abea29c34752247d7759dfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912138_lsd.m3u8?auth_key=1790879404-0-0-33a7258d903851e89a354a1dad668f65
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guinea-3da0d1.png" group-title="[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 9",[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1790878864-0-0-bd5d2e9782280798db7404d1458da221
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1790879404-0-0-4eaeba18d5764c3efa7b36e865656b29
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guinea-3da0d1.png" group-title="[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 10",[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=0cc9ef8766b1da6221834b3b7ca4439d&txTime=6abeeae0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=e24548a525b750bbf45c7530d0fe729f&txTime=6abeecfc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guinea-3da0d1.png" group-title="[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 11",[LIVE 23:00 WIB 01/10/26] Guinea vs Kenya | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=5a117655bafc658c953a264f0269bb58&txTime=6abeeae0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=2275c949173b6fef36cace5eaf933801&txTime=6abeecfc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 1",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/aze-lie-uefanl/index.m3u8
@@ -89,7 +77,7 @@ https://hls.lauthaitv.cc/live/aze-lie-uefanl/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/aze-lie-uefanl.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 3",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://hwyypull.ncctrials.com/live/stream-551893_lhd.flv?auth_key=1790718313-0-0-bc8c2400bb5ff8a2e4935139ade5732d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 4",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
@@ -104,89 +92,86 @@ https://www.rtmpcdn.com/live/37b4d54e-ef33-4b8a-8a0c-228515cb37fd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 8",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1790878864-0-0-9dcd61826e0c84123e8beb40f88ceef6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1790879404-0-0-895d8387cae8db83db59931986b2b2a3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 9",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1790878864-0-0-f545edadd9cb36bb43f810d1efcae6e3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1790879404-0-0-684b03e70dd95239dbc66a9c48f1d251
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 10",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1790878864-0-0-f710ec849250f8ed1fc59d63c60dfdc6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1790879404-0-0-de649d540cedc8b0f6a723b09dccace7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 11",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1790878864-0-0-71acc56458d5fe5074bd92d62c6c4b44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1790879404-0-0-8b47010772de66716776d52a5e8d1dfd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 12",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1790878864-0-0-87da9d6c75db1ab31e206318ec0df71b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1790879404-0-0-3ac8200236df0ccc37591e02380002e6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 13",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1790878864-0-0-11e1c62daccdc6944c86ec4bcfe6771f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1790879404-0-0-167e8d9972900a4ae0149ac959e7fb6a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 14",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1790878864-0-0-0abf60a5b415e0d1bdaaf144cd8fc24d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1790879404-0-0-31851be2be0a3a1054729efc07a3ff30
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 15",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1790878864-0-0-c6b1a4d95dbd011c474d3189c10ab6d6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1790879404-0-0-4d02f641146b51a5d193610feff9f0b1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 16",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912127_lsd.m3u8?txSecret=bc66dac932c96a5b6c94623ce2bcad85&txTime=6abeeae0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912127_lsd.m3u8?txSecret=7dd831dc7fc1b3df470ec9ff89799edd&txTime=6abeecfc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 17",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=36f234677dc3673dcac4495a0f52e5ba&txTime=6abeeae0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=82f7fb8d6d67635d083e7337a0c65c55&txTime=6abeecfc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 18",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 18 (SVR-BHNS 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1790878864-0-0-20e177ff5504ae21a80f5728ef08bd1a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1790879404-0-0-e3b20fa39142d6835976ce5400b93d63
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.webp" group-title="[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 19",[LIVE 23:00 WIB 01/10/26] Azerbaijan vs Liechtenstein | Server 19 (SVR-BHNS 19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1790878864-0-0-9351d077de433420536f43fd159d8825
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 23:30 WIB 01/10/26] Stuttgart vs Greuther Furth | Server 1",[LIVE 23:30 WIB 01/10/26] Stuttgart vs Greuther Furth | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.41/hls/ZOOOAAA.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1790879404-0-0-c08995b776d2c7901eadc9100e0363bd
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-tel-aviv-8ce87a.webp" group-title="[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 1",[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=efed2cec37c98ba4b1df0b56b5160015&txTime=6abeecfc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-tel-aviv-8ce87a.webp" group-title="[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 2",[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=ea31d384f78297178157a78b59b706da&txTime=6abeecfc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-tel-aviv-8ce87a.webp" group-title="[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 3",[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1790879404-0-0-4bab5c985a28962e729c66c13dc27a98
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-tel-aviv-8ce87a.webp" group-title="[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 4",[LIVE 23:00 WIB 01/10/26] Hapoel Tel Aviv vs Real Madrid | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1790879404-0-0-8b0b7be59d3f92acf52ff378036cb6ae
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/armenia-u21-48c32a.png" group-title="[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 1",[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/zfffAAAAAAQ.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/armenia-u21-48c32a.png" group-title="[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 2",[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1790878864-0-0-adaa39a094682fbc2236555490b8c6a4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1790879404-0-0-b548708bed3c471fedcb11989f072485
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/armenia-u21-48c32a.png" group-title="[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 3",[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1790878864-0-0-ebfc327b88c4e61ae69d778ac56003c7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1790879404-0-0-46a982d97c3a20b48816e877a6b0ae95
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/armenia-u21-48c32a.png" group-title="[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 4",[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1790878864-0-0-c33c5384103e157cc07fea3918c895cb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1790879404-0-0-1e502c0a83a2291e4ee36f1facc3d869
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/armenia-u21-48c32a.png" group-title="[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 5",[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1790878864-0-0-b09884f328dec1454f47b7ce6eeebb33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1790879404-0-0-d588430da4a4b3803ac8da0a827ba9f1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/armenia-u21-48c32a.png" group-title="[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 6",[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1790878864-0-0-2b2a1702ee51d962dc5c4e712c211c70
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1790879404-0-0-f112612012403e3b82a8a071906961db
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/armenia-u21-48c32a.png" group-title="[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 7",[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1790878864-0-0-b42e4422b181f6955427c44320926a13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1790879404-0-0-24157dd1e69e2a2bb466253f1b0ccb7c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/armenia-u21-48c32a.png" group-title="[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 8",[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1790878864-0-0-e69b32a5ee459de2af32e905d63b0d06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1790879404-0-0-b0418a5e1e4f84f93ba6f13aad08e7d7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/armenia-u21-48c32a.png" group-title="[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 9",[LIVE 23:30 WIB 01/10/26] Armenia U21 vs Italy U21 | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1790878864-0-0-f92466d59b2942c3a67bfe661fe69183
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/31dc5c767bfeeba8745f8170e7c278e4.png" group-title="[LIVE 23:45 WIB 01/10/26] Koge Nữ vs Servette Geneve FC Nữ | Server 1",[LIVE 23:45 WIB 01/10/26] Koge Nữ vs Servette Geneve FC Nữ | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjZPMyC7K6RwP39W.m3u8?txSecret=d5e75c3260d56b65373a0ccbbd96a9e1&txTime=6ABF3FF5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1790879404-0-0-85c401524bcf18bedbf12aa9fc76358a
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/0454e224a578f2d2fb8e4bafc58e140e.png" group-title="[LIVE 23:45 WIB 01/10/26] Áo Vienna phụ nữ vs Inter Nữ | Server 1",[LIVE 23:45 WIB 01/10/26] Áo Vienna phụ nữ vs Inter Nữ | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjZPMxgfWjBATxxt.m3u8?txSecret=854e5eab0d5864d845a04fb362d56d0d&txTime=6ABF3FF5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hb-koge-women-640ed3.webp" group-title="[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 1",[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1790878864-0-0-bbb9848c917c041cf54b2be29b6be84f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hb-koge-women-640ed3.webp" group-title="[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 2",[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1790878864-0-0-536c0310c50604f9e0bad761d3d94457
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hb-koge-women-640ed3.webp" group-title="[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 3",[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1790878864-0-0-5224b665a624dd39fb00d0d18ef4c892
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hb-koge-women-640ed3.webp" group-title="[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 4",[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1790878864-0-0-adc93252545c0f2cb3d15749d9cbb526
+https://live.cds78y11d.org/live/sd-6MxjZPMxgfWjBATxxt.m3u8?txSecret=c4c142072fce6e991966653e5e6e545e&txTime=6ABF415D
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/31dc5c767bfeeba8745f8170e7c278e4.png" group-title="[LIVE 23:45 WIB 01/10/26] Koge Nữ vs Servette Geneve FC Nữ | Server 1",[LIVE 23:45 WIB 01/10/26] Koge Nữ vs Servette Geneve FC Nữ | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxjZPMyC7K6RwP39W.m3u8?txSecret=70666ec42150ceaa7a4fe04f7307f9c8&txTime=6ABF415D
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 23:45 WIB 01/10/26] Austria Wien Women vs Inter Milan Women | Server 1",[LIVE 23:45 WIB 01/10/26] Austria Wien Women vs Inter Milan Women | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/austria-inter-c1w/index.m3u8
@@ -194,44 +179,56 @@ https://hls.lauthaitv.cc/live/austria-inter-c1w/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/austria-inter-c1w.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 23:45 WIB 01/10/26] Austria Wien Women vs Inter Milan Women | Server 3",[LIVE 23:45 WIB 01/10/26] Austria Wien Women vs Inter Milan Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1790878864-0-0-ebc34bb6978b2d954a7c99cd148fcc93
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=476dfe2311b153cc71555ac5ee2099ac&txTime=6abeecfc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 23:45 WIB 01/10/26] Austria Wien Women vs Inter Milan Women | Server 4",[LIVE 23:45 WIB 01/10/26] Austria Wien Women vs Inter Milan Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1790878864-0-0-75bc442c27f915db23e5c0678aea9b42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=0673a55b301790270c2ec8307c5fe242&txTime=6abeecfc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 23:45 WIB 01/10/26] Austria Wien Women vs Inter Milan Women | Server 5",[LIVE 23:45 WIB 01/10/26] Austria Wien Women vs Inter Milan Women | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=1a95b051ff7f761c124a892b71009859&txTime=6abeeae0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1790879404-0-0-0b2399182188b394e0523670f1d3fc26
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 23:45 WIB 01/10/26] Austria Wien Women vs Inter Milan Women | Server 6",[LIVE 23:45 WIB 01/10/26] Austria Wien Women vs Inter Milan Women | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=57826147bc44055107f7aa71a7571382&txTime=6abeeae0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1790879404-0-0-024deb31037763b8dc8b64562cf66ffb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hb-koge-women-640ed3.webp" group-title="[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 1",[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1790879404-0-0-ee778470bd420f65552e368cd04cf107
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hb-koge-women-640ed3.webp" group-title="[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 2",[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1790879404-0-0-2a90c6c8046c41ead486ec5658fd0146
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hb-koge-women-640ed3.webp" group-title="[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 3",[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1790879404-0-0-b97fab79c6553afecdce50f55ad8bc21
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hb-koge-women-640ed3.webp" group-title="[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 4",[LIVE 23:45 WIB 01/10/26] HB Koge Women vs Servette Women | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1790879404-0-0-3553e2744dbe9ad4b8a6ba13f3fe1515
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 00:00 WIB 02/10/26] North Macedonia U21 vs Montenegro U21 | Server 1",[LIVE 00:00 WIB 02/10/26] North Macedonia U21 vs Montenegro U21 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/zfffAAAAAA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-u21-4984d8.png" group-title="[LIVE 00:00 WIB 02/10/26] Hungary U21 vs Lithuania U21 | Server 1",[LIVE 00:00 WIB 02/10/26] Hungary U21 vs Lithuania U21 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MuSNSjZnpQ4vNZK5e.m3u8?txSecret=cd89ca5d5ac24cb77e9b562dd8872bb9&txTime=6ABF3FF5
+https://live.cds78y11d.org/live/sd-6MuSNSjZnpQ4vNZK5e.m3u8?txSecret=71d017374fdd7b2ad3a8fe7de3fd7735&txTime=6ABF415D
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-u21-4984d8.png" group-title="[LIVE 00:00 WIB 02/10/26] Hungary U21 vs Lithuania U21 | Server 2",[LIVE 00:00 WIB 02/10/26] Hungary U21 vs Lithuania U21 | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.55/hls/JJJJ.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-u21-4984d8.png" group-title="[LIVE 00:00 WIB 02/10/26] Hungary U21 vs Lithuania U21 | Server 3",[LIVE 00:00 WIB 02/10/26] Hungary U21 vs Lithuania U21 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1790878864-0-0-e145161b6198ea3e812b3ef5684e24df
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1790879404-0-0-2ed4d630e4eba02e6298d72c5c757f18
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-u21-4984d8.png" group-title="[LIVE 00:00 WIB 02/10/26] Hungary U21 vs Lithuania U21 | Server 4",[LIVE 00:00 WIB 02/10/26] Hungary U21 vs Lithuania U21 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1790878864-0-0-0fcb773c7795a21904bde56c1a6f18d6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1790879404-0-0-e02bc275d5b45bce4472e76ce5ef6da3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-u21-4984d8.png" group-title="[LIVE 00:00 WIB 02/10/26] Hungary U21 vs Lithuania U21 | Server 5",[LIVE 00:00 WIB 02/10/26] Hungary U21 vs Lithuania U21 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912133_lsd.m3u8?auth_key=1790878864-0-0-b6fbec5095d3cc45ea3be593e874f81d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912133_lsd.m3u8?auth_key=1790879404-0-0-0a8937f29ca9442c513d9575361f12de
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-u21-4984d8.png" group-title="[LIVE 00:00 WIB 02/10/26] Hungary U21 vs Lithuania U21 | Server 6",[LIVE 00:00 WIB 02/10/26] Hungary U21 vs Lithuania U21 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1790878864-0-0-2d76a6a4ae2c03d036b0bdeb987657b5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1790879404-0-0-0c50ed410f5b41467e0a4992583ee736
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chomutov-w-35117e.webp" group-title="[LIVE 00:00 WIB 02/10/26] Chomutov (W) vs Chartell Women | Server 1",[LIVE 00:00 WIB 02/10/26] Chomutov (W) vs Chartell Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1790878864-0-0-35b067178fc16e5ff91591ad206c0308
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1790879404-0-0-84d16510e2ebf2d884fdd2f80772ff9b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chomutov-w-35117e.webp" group-title="[LIVE 00:00 WIB 02/10/26] Chomutov (W) vs Chartell Women | Server 2",[LIVE 00:00 WIB 02/10/26] Chomutov (W) vs Chartell Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1790878864-0-0-b2c3a74a4415e86aba575fec177290ff
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1790879404-0-0-903f2b90b862b0456dc39377f7e76a8a
 #EXTINF:-1 tvg-logo="" group-title="[LIVE 00:45 WIB 02/10/26] Austria Vienna W vs Inter Milan W | Server 1",[LIVE 00:45 WIB 02/10/26] Austria Vienna W vs Inter Milan W | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://193.47.62.41/hls/zfffAAAAAAQQ.m3u8
