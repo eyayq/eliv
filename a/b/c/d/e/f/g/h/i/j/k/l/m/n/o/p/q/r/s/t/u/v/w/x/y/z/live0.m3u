@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 03:00:47 WIB 03-10-2026
-# 🔄 Total Channels: 833
+# ⏰ Latest Updated: 03:07:41 WIB 03-10-2026
+# 🔄 Total Channels: 839
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [03:00:47 WIB 03-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [03:07:41 WIB 03-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -95,6 +95,28 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7ImQS53NNg3W7LEgCpPCm3sGvLs57tvBXNlNl5Zcww&s=10" group-title="LIVE EVENT",Formula 1 | - FANCODE FHD | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7ImQS53NNg3W7LEgCpPCm3sGvLs57tvBXNlNl5Zcww&s=10" group-title="LIVE EVENT",Formula 1 | - TSN5 SPORTS FHD | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7ImQS53NNg3W7LEgCpPCm3sGvLs57tvBXNlNl5Zcww&s=10" group-title="LIVE EVENT",Formula 1 | - TSN1 SPORTS FHD | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7ImQS53NNg3W7LEgCpPCm3sGvLs57tvBXNlNl5Zcww&s=10" group-title="LIVE EVENT",Formula 1 | - SporTV BR FHD | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7ImQS53NNg3W7LEgCpPCm3sGvLs57tvBXNlNl5Zcww&s=10" group-title="LIVE EVENT",Formula 1 | - LOW QUALITY | Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/FEEE.m3u8?
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="LIVE EVENT",Day 15 - Oct 2026 | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
@@ -225,38 +247,42 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/ag_mds3_0210/ENG/master.
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 https://sonymtmnew-akamaized.pages.dev/hls/live/2022315/ag_dx4_00310/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790037081710813_UNL2627_Spain_vs_Croatia_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep Spain vs Croatia | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561614716673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day2_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",17:30 WIB 02 Oct Alfred Dunhill Links Championship - Day 2 | DP World Tour | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/Footlive2909/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790037196135628_UNL2627_Czechia_vs_England_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep Czechia vs England | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/Golf_Alf0210/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="Live Event: Sony Liv 2 ",15:30 WIB 02 Oct Day 14 | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037139/Footlive2909/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790037297951813_UNL2627_Scotland_vs_Switzerland_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep Scotland vs Switzerland | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/ag_strea0210/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Live Event: Sony Liv 2 ",15:00 WIB 02 Oct Day 14 | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Footlive2909/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790036876475628_UNL2627_Luxembourg_vs_Iceland_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep Luxembourg vs Iceland | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/ag_strea0210/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/landscapeThumb/1790931672149_1789298767394741_AG26_Rhythmic_Gymnastics_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",10:25 WIB 02 Oct Group All-Around - Rhythmic Gymnastics | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/Footlive2909/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790036514355813_UNL2627_Slovakia_vs_Kazakhstan_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep Slovakia vs Kazakhstan | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/ag_dx8_00210/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",07:40 WIB 02 Oct Wrestling | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Footlive2909/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790036383044813_UNL2627_San_Marino_vs_Albania_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep San Marino vs Albania | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/ag_mds3_0110/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/landscapeThumb/1790936421499_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",06:25 WIB 02 Oct Japan vs China - Men - Volleyball | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037141/Footlive2909/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790036204655813_UNL2627_Slovenia_vs_North_Macedonia_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep Slovenia vs North Macedonia | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301156639741_AG26_Taekwondo_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",06:25 WIB 02 Oct Taekwondo | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/Footlive2909/ENG/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790036639667628_UNL2627_Bulgaria_vs_Estonia_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",01:05 WIB 30 Sep Bulgaria vs Estonia | UEFA Nations League 2026-27 | Sony Liv | Gvision TV
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/ag_mds1_0110/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",06:25 WIB 02 Oct Boxing | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/Footlive2909/ENG/master.m3u8
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/ag_mds2_0110/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg" group-title="Live Event: Sony Liv 2 ",06:25 WIB 02 Oct Judo | 20th Asian Games Aichi-Nagoya 2026 | Sony Liv | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/ag_mds4_0110/ENG/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3cad2616-dbe9-402e-a484-eaa4df368b46/3/BOXART-16X9/en-US._UR1920-1080_.jpeg" group-title="Live Event: Willow",Asian Games 2026 - 3rd Place Play-off- Bangladesh vs Sri Lanka  | Willow | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
