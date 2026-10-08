@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 13:31:50 WIB 08-10-2026
-# 🔄 Total Channels: 768
+# ⏰ Latest Updated: 13:41:41 WIB 08-10-2026
+# 🔄 Total Channels: 765
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [13:31:50 WIB 08-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [13:41:41 WIB 08-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -64,26 +64,10 @@ http://127.0.0.1/dummy.ts
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",LINK DOWNLOAD ADA DI CHANNEL TELE
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/5V7pE" group-title="LIVE EVENT",18:30 WIB ACC Shopee Cup 2026/2027 | RCTI | Gvision TV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
-#EXTINF:-1 tvg-logo="https://shorter.me/5V7pE" group-title="LIVE EVENT",18:30 WIB Shopee Cup | GTV | Gvision TV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-#EXTINF:-1 tvg-logo="https://shorter.me/5V7pE" group-title="LIVE EVENT",18:45 WIB ASEAN C'ship Shopee Cup | iNews | Gvision TV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #EXTINF:-1 tvg-logo="https://shorter.me/5V7pE" group-title="LIVE EVENT",18:30 WIB Johor Darul Ta'zim vs Svay Rieng | XOILACZ | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.zundrixmediapipeline.com/live/channel24.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/5V7pE" group-title="LIVE EVENT",18:30 WIB Port FC vs Persib Bandung | GTV | Gvision TV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #EXTINF:-1 tvg-logo="https://shorter.me/5V7pE" group-title="LIVE EVENT",18:30 WIB Port FC vs Persib Bandung | BERSIH NO LOGO | Gvision TV
 https://pull.streamviewk7x.click/livesp/sd-6Mwea3yRzZiZdHGb62_hd.m3u8?txSecret=7ee4e12f372b087acb0c4612f9b6930c&txTime=6AC8D740
 #EXTINF:-1 tvg-logo="https://shorter.me/5V7pE" group-title="LIVE EVENT",18:30 WIB Port FC vs Persib Bandung | XOILACZ | Gvision TV
@@ -109,12 +93,14 @@ http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805930
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025963/1791360261025494_APL26_Rajputana-Royals-vs-Prithviraj-Yodhas_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Rajputana Royals vs Prithviraj Yodhas | Archery Premier League 2026 | ENG | Sony Liv | Gvision TV
+https://sonymtmnew.akamaized.net/hls/live/2120303/Archery_0810/ENG/master.m3u8?hdnea=exp=1791481824~acl=/*~id=f060f22f7b936522d65ef5666d3155d6-1791438603850~hmac=6cf99e021f84c2eddf5b9ae2cbce0921c45aa4c886dc18e4e0a2e114ea953171|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=65a2255c9d692ced8ec9a69ff966edb2-1791466203125
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791370390628475_VCL_Emperia-Marathas-vs-Rajasthan-Spikers_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Emperia Marathas vs Rajasthan Spikers | Volleyball Champions League 2026 | ENG | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/master.m3u8?hdnea=exp=1791481824~acl=/*~id=f060f22f7b936522d65ef5666d3155d6-1791438603850~hmac=6cf99e021f84c2eddf5b9ae2cbce0921c45aa4c886dc18e4e0a2e114ea953171|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=86e9fa6a1e979ece6993536115a7b1ee-1791462602539
+https://sonymtmnew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/master.m3u8?hdnea=exp=1791481824~acl=/*~id=f060f22f7b936522d65ef5666d3155d6-1791438603850~hmac=6cf99e021f84c2eddf5b9ae2cbce0921c45aa4c886dc18e4e0a2e114ea953171|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=65a2255c9d692ced8ec9a69ff966edb2-1791466203125
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791370390628475_VCL_Emperia-Marathas-vs-Rajasthan-Spikers_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Emperia Marathas vs Rajasthan Spikers | Volleyball Champions League 2026 | HIN | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/master.m3u8?hdnea=exp=1791481824~acl=/*~id=f060f22f7b936522d65ef5666d3155d6-1791438603850~hmac=6cf99e021f84c2eddf5b9ae2cbce0921c45aa4c886dc18e4e0a2e114ea953171|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=86e9fa6a1e979ece6993536115a7b1ee-1791462602539
+https://sonymtmnew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/master.m3u8?hdnea=exp=1791481824~acl=/*~id=f060f22f7b936522d65ef5666d3155d6-1791438603850~hmac=6cf99e021f84c2eddf5b9ae2cbce0921c45aa4c886dc18e4e0a2e114ea953171|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=65a2255c9d692ced8ec9a69ff966edb2-1791466203125
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649374942310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day1_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Open de Espana Presented By Madrid - Day 1 | DP World Tour | ENG | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2120300/golflive0810/ENG/master.m3u8?hdnea=exp=1791481824~acl=/*~id=f060f22f7b936522d65ef5666d3155d6-1791438603850~hmac=6cf99e021f84c2eddf5b9ae2cbce0921c45aa4c886dc18e4e0a2e114ea953171|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=86e9fa6a1e979ece6993536115a7b1ee-1791462602539
+https://sonymtmnew.akamaized.net/hls/live/2120300/golflive0810/ENG/master.m3u8?hdnea=exp=1791481824~acl=/*~id=f060f22f7b936522d65ef5666d3155d6-1791438603850~hmac=6cf99e021f84c2eddf5b9ae2cbce0921c45aa4c886dc18e4e0a2e114ea953171|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=65a2255c9d692ced8ec9a69ff966edb2-1791466203125
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",CLASH OF CLANS Arctic Open 2026 powered by YONEX | Court 1 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805928
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",CLASH OF CLANS Arctic Open 2026 powered by YONEX | Court 2 | Huya | Gvision TV
