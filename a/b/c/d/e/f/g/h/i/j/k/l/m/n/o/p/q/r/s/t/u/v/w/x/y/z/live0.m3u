@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 17:45:46 WIB 08-10-2026
-# 🔄 Total Channels: 799
+# ⏰ Latest Updated: 17:54:05 WIB 08-10-2026
+# 🔄 Total Channels: 795
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [17:45:46 WIB 08-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [17:54:05 WIB 08-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -357,7 +357,7 @@ http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=rtv
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rtv.png" group-title="Nasional",RTV (WEWATCH)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1148
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1148
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_indosiar.png" group-title="Nasional",INDOSIAR (VD)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 http://gvisiontv.channell.my.id/ch/id/vd.php/stream.mpd?id=205
@@ -404,9 +404,9 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=metrotv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_metrotv.png" group-title="Nasional",METRO TV (WEWATCH)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1048
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1048
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zZkqJj5qCgswMA-ZjFUudUQJEL_nSbKnix5YojYTGw&s=10" group-title="Nasional",BN CHANNEL (WEWATCH)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1122
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1122
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png" group-title="Nasional",iNEWS (R+)
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -520,7 +520,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 http://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=lite&chname=Magna_Channel
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Uih7rCesQQ6wlvUOWGFne2czdRFLQATmU1okbJ9aGQ&s=10" group-title="Nasional",MAGNA Channel (WEWATCH)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1104
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1104
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Uih7rCesQQ6wlvUOWGFne2czdRFLQATmU1okbJ9aGQ&s=10" group-title="Nasional",MAGNA Channel (LIVE)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -627,7 +627,7 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_balitv.png" group-title="DAERAH",Bali TV | Bali
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1150
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1150
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_jaktv.png" group-title="DAERAH",JAK TV (DN) | Jakarta
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -767,26 +767,22 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 tvg-logo="" group-title="MOVIES & ENTERTAINMENT",Local
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_9/dash.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rockaction.png" group-title="MOVIES & ENTERTAINMENT",ROCK ACTION (WEWATCH INDONESIA)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1112
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rockaction.png" group-title="MOVIES & ENTERTAINMENT",ROCK ACTION (WEWATCH KAMBOJA)
-http://live.eac-news.com/live/streams/rock_action.m3u8
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1112
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rockent.png" group-title="MOVIES & ENTERTAINMENT",ROCK ENTERTAINMENT (WEWATCH INDONESIA)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1111
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rockent.png" group-title="MOVIES & ENTERTAINMENT",ROCK ENTERTAINMENT (WEWATCH KAMBOJA)
-http://live.eac-news.com/live/streams/rock_entertainment.m3u8
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1111
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_axn.png" group-title="MOVIES & ENTERTAINMENT",AXN (WEWATCH INDONESIA)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1137
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1137
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_axn.png" group-title="MOVIES & ENTERTAINMENT",AXN (WEWATCH MALAYSIA)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1158
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1158
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_axn.png" group-title="MOVIES & ENTERTAINMENT",AXN (WEWATCH KAMBOJA)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1007
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1007
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_axn.png" group-title="MOVIES & ENTERTAINMENT",AXN (WEWATCH THAILAND)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1138
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1138
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_axn.png" group-title="MOVIES & ENTERTAINMENT",AXN (WEWATCH SINGAPURA)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1139
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1139
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png" group-title="MOVIES & ENTERTAINMENT",Animax (WEWATCH INDONESIA)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
@@ -805,11 +801,9 @@ http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1139
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1162
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1162
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png" group-title="MOVIES & ENTERTAINMENT",Animax (WEWATCH FILIPINA)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1008
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png" group-title="MOVIES & ENTERTAINMENT",Animax (WEWATCH KAMBOJA)
-http://live.eac-news.com/live/streams/animax.m3u8
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1008
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_kix.png" group-title="MOVIES & ENTERTAINMENT",KIX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
@@ -1205,7 +1199,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1110
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1110
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE & LIFESTYLE",Lifestyle
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
@@ -1628,9 +1622,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="News",RT NEWS (LIVE)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="News",RT NEWS (WEWATCH)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1178
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1178
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="News",RT NEWS ARAB
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1174
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1174
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title="News",Sky News
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia | Ga 24 Jam
@@ -1694,7 +1688,7 @@ https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch83.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lusianaputri/ikanterindah/refs/heads/main/cn.png" group-title="KIDS",CARTOON NETWORK | WEWATCH
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1013
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1013
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lusianaputri/ikanterindah/refs/heads/main/cn.png" group-title="KIDS",CARTOON NETWORK | BBTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
@@ -1712,7 +1706,7 @@ https://wurljansonmedia.global.transmit.live/hls/69029561e0b3f0f215eef867/playli
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
 http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=302
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_cartoonito.png" group-title="KIDS",CARTOONITO (WEWATCH)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1012
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1012
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFNp1qlY_j3EEEqG0hhPfEInfh355YzVaEhlWkbElaw&s=10" group-title="KIDS",MOONBUG (AMG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
@@ -1751,7 +1745,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
 #EXTVLCOPT:http-referrer=http://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1113
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1113
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHP4gK-yGMUdK7XLqiQlbVuKt_JBxekK5jD0HtMDWzmA&s=10" group-title="KIDS",ZOO MOO (AMG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -2203,7 +2197,7 @@ http://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesi
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=uchannel
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_uchannel.png" group-title="Religion: KRISTEN",UChannel (WEWATCH)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1165
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1165
 #EXTINF:-1 tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/a884e62071548b2c23a8.png" group-title="Religion: KRISTEN",HOPE CHANNEL
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=hope
@@ -2221,11 +2215,9 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1162
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png" group-title="Dunia Wibu (Anime)",Animax (WEWATCH FILIPINA)
-http://wwhomeindo.wewatch.asia:8081/nn_live.m3u8?id=1008
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1162
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png" group-title="Dunia Wibu (Anime)",Animax (WEWATCH KAMBOJA)
-http://live.eac-news.com/live/streams/animax.m3u8
+http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1008
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/307b3b9ea321539b9688148fc97a8bfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694207383202_RokuImage-HUD-2_260x147px_Wil_Rosser.png" group-title="Dunia Wibu (Anime)",Crunchyroll Ruko
 https://aka-live1050.delivery.roku.com/cdd53068-81e9-4898-999d-7f4f6d0b28ad/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png" group-title="Dunia Wibu (Anime)",Crunchyroll Pluto
