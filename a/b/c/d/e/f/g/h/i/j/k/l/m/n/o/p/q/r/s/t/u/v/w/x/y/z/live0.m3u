@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 18:51:55 WIB 09-10-2026
-# 🔄 Total Channels: 838
+# ⏰ Latest Updated: 18:59:08 WIB 09-10-2026
+# 🔄 Total Channels: 843
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [18:51:55 WIB 09-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [18:59:08 WIB 09-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -148,6 +148,24 @@ https://netanjahu.hls.st/t/ce187d8ee55cdb6201b93e2151018460/index.m3u8?|Referer=
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2673/image" group-title="Live Event: CFY",01:30 WIB Borussia Dortmund vs SV Werder Bremen | Football | SportKlub HD | Gvision TV
 #EXTVLCOPT:http-referrer=https://iplayer.is/
 https://netanjahu.hls.st/t/f1dec65a2c99e19668094a772c75549b/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",01:45 WIB RC Lens vs Olympique Lyonnais | Football | CazeTV - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",01:45 WIB RC Lens vs Olympique Lyonnais | Football | DAZN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/4eb2245d294bf6f3ac76e4113b414c7b/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",01:45 WIB RC Lens vs Olympique Lyonnais | Football | ELEVEN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/a48741aea15cbd796d1bf0ddddce1c8a/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",01:45 WIB RC Lens vs Olympique Lyonnais | Football | ARENA SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/7ae091c8160bb04fa20c54b49b2f1467/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",01:45 WIB RC Lens vs Olympique Lyonnais | Football | SPORT TV HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/4efc704d1486e7f8f3a837c163aeac9c/index.m3u8?|Referer=https://iplayer.is/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2952/image" group-title="Live Event: CFY",01:00 WIB PSV Eindhoven vs SC Heerenveen | Football | SportDigital Fussball | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
