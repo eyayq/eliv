@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 16:20:59 WIB 10-10-2026
-# 🔄 Total Channels: 805
+# ⏰ Latest Updated: 16:28:41 WIB 10-10-2026
+# 🔄 Total Channels: 817
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [16:20:59 WIB 10-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [16:28:41 WIB 10-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -204,6 +204,50 @@ https://sonymtmnew.akamaized.net/hls/live/2120308/Archery_1010/ENG/master.m3u8?h
 https://sonymtmnew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/master.m3u8?hdnea=exp=1791668887~acl=/*~id=26924024410862108232172516458929~hmac=42a5ad9cb7747cfa48dbb629a5c816041eb41906abad3543a2225e5fa5999c8f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8774c00b425d306254b3fc2e3e719424-1791648602930
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137498177852_VCL_Delhi-Dynamites-vs-Hoogly-Hitters_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Delhi Dynamites vs Hoogly Hitters | Volleyball Championship League 2026 | HIN | Sony Liv | Gvision TV
 https://sonymtmnew.akamaized.net/hls/live/2120301/Volleyba1010/HIN/master.m3u8?hdnea=exp=1791668887~acl=/*~id=26924024410862108232172516458929~hmac=42a5ad9cb7747cfa48dbb629a5c816041eb41906abad3543a2225e5fa5999c8f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8774c00b425d306254b3fc2e3e719424-1791648602930
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&amp;s=10" group-title="Live Event: CFY",22:30 WIB WCL World Championship of Legends | Cricket | WILLOW - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daf736abe0dee29b1526cc585ad96616:939a783f61b091f2e9ee0ab59fa8b1e8
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cisttwu8yg/out/v1/c7afac933ac74449bb074c9e7a13126b/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&amp;s=10" group-title="Live Event: CFY",22:30 WIB WCL World Championship of Legends | Cricket | WILLOW - ALT | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daf736abe0dee29b1526cc585ad96616:939a783f61b091f2e9ee0ab59fa8b1e8
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cisttwu8yg/out/v1/c7afac933ac74449bb074c9e7a13126b/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2697/image" group-title="Live Event: CFY",23:00 WIB Inter vs Parma | Football | beIN ENGLISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2697/image" group-title="Live Event: CFY",23:00 WIB Inter vs Parma | Football | SPORT1 CZ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2697/image" group-title="Live Event: CFY",23:00 WIB Inter vs Parma | Football | PARAMOUNT+ HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/10a77df36682030bfbe76b8fe0938b92/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2697/image" group-title="Live Event: CFY",23:00 WIB Inter vs Parma | Football | ELEVEN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/93d14e7846ee29d7977edbfb2d6deccd/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2697/image" group-title="Live Event: CFY",23:00 WIB Inter vs Parma | Football | SPORT TV HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/df74d8eaa9503265f4ddb3bd047c851c/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2885/image" group-title="Live Event: CFY",21:15 WIB Deportivo Alaves vs Atletico Madrid | Football | DAZN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/8864c3ac8f3969acbe2472ab7dd4064e/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2885/image" group-title="Live Event: CFY",21:15 WIB Deportivo Alaves vs Atletico Madrid | Football | ZIGGO SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/da383155e526d4379428ddea6b584400/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2885/image" group-title="Live Event: CFY",21:15 WIB Deportivo Alaves vs Atletico Madrid | Football | ARENA SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/2453b138295ab518df047052051a7915/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1643/image" group-title="Live Event: CFY",22:15 WIB Lille vs Le Havre | Football | ARENA SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/6fb2f7d0b7de7f143995a47d2df55901/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1643/image" group-title="Live Event: CFY",22:15 WIB Lille vs Le Havre | Football | DAZN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/c0a3faf751fb410feae999fcd33356b8/index.m3u8?|Referer=https://iplayer.is/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",Arctic Open BWF WORLD TOUR | Court 1 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805928
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV
