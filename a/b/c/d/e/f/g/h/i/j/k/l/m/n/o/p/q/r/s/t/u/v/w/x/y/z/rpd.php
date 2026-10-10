@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.40 WIB 11/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.47 WIB 11/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hilal-79eeb1.webp" group-title="[LIVE 01:00 WIB 11/10/26] Al Hilal vs Al Ittihad | Server 1",[LIVE 01:00 WIB 11/10/26] Al Hilal vs Al Ittihad | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -9,88 +9,73 @@ https://hls.lauthaitv.cc/live/hilal-ittihad-ksapro/index.m3u8
 https://flv.lauthaitv.cc/live/hilal-ittihad-ksapro.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hilal-79eeb1.webp" group-title="[LIVE 01:00 WIB 11/10/26] Al Hilal vs Al Ittihad | Server 3",[LIVE 01:00 WIB 11/10/26] Al Hilal vs Al Ittihad | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1791664385-0-0-02028497df3995f5b8427f7c39a8a229
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1791664925-0-0-8fbd74ce51a0601318efacef1955d64e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hilal-79eeb1.webp" group-title="[LIVE 01:00 WIB 11/10/26] Al Hilal vs Al Ittihad | Server 4",[LIVE 01:00 WIB 11/10/26] Al Hilal vs Al Ittihad | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1791664385-0-0-6bbf82cea1ca2e656bc43b070c84e1e4
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1791664925-0-0-6c47c7f5ac27381e2f54cafa9dc25d1f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hilal-79eeb1.webp" group-title="[LIVE 01:00 WIB 11/10/26] Al Hilal vs Al Ittihad | Server 5",[LIVE 01:00 WIB 11/10/26] Al Hilal vs Al Ittihad | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1791664385-0-0-106c1e1c2b5f616f689ff453154d6b0a
+https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1791664925-0-0-fa071687fa0e9e2660ae821e842cc495
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hilal-79eeb1.webp" group-title="[LIVE 01:00 WIB 11/10/26] Al Hilal vs Al Ittihad | Server 6",[LIVE 01:00 WIB 11/10/26] Al Hilal vs Al Ittihad | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1791664385-0-0-084f668abfcf7d4a29edca73392c0510
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1791664925-0-0-4d6f8c8dbd06fef497f3cf5476a48498
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortuna-sittard-27bf20.webp" group-title="[LIVE 01:00 WIB 11/10/26] Fortuna Sittard vs FC Twente Enschede | Server 1",[LIVE 01:00 WIB 11/10/26] Fortuna Sittard vs FC Twente Enschede | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1791664385-0-0-799ed44ed28fdad98bca6210ffb8bca0
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1791664925-0-0-fa95a4babf8ea6ba2dda1da7bcbbfc4f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortuna-sittard-27bf20.webp" group-title="[LIVE 01:00 WIB 11/10/26] Fortuna Sittard vs FC Twente Enschede | Server 2",[LIVE 01:00 WIB 11/10/26] Fortuna Sittard vs FC Twente Enschede | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1791664385-0-0-41a91ad769f5a6309da38c28abb3c551
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1791664925-0-0-68de9bc7cfd9f5bc296905edd3cf212f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortuna-sittard-27bf20.webp" group-title="[LIVE 01:00 WIB 11/10/26] Fortuna Sittard vs FC Twente Enschede | Server 3",[LIVE 01:00 WIB 11/10/26] Fortuna Sittard vs FC Twente Enschede | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1791664385-0-0-b27ce6e19037e26624c5a05227a56044
+https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1791664925-0-0-f9f7262315b19b255d509f444667152c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortuna-sittard-27bf20.webp" group-title="[LIVE 01:00 WIB 11/10/26] Fortuna Sittard vs FC Twente Enschede | Server 4",[LIVE 01:00 WIB 11/10/26] Fortuna Sittard vs FC Twente Enschede | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1791664385-0-0-e05e9cc23492f2199ad54ecbec952354
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 01:30 WIB 11/10/26] France Women vs Latvia Women | Server 1",[LIVE 01:30 WIB 11/10/26] France Women vs Latvia Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ac3faddd83fdbd7c34b8b38.m3u8?auth_key=1791682322-0-0-0f93224bf0bb5ba269efd6f1ccce94ba
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/universitario-de-vinto-8660cc.png" group-title="[LIVE 01:30 WIB 11/10/26] Universitario De Vinto vs Real Oruro | Server 1",[LIVE 01:30 WIB 11/10/26] Universitario De Vinto vs Real Oruro | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aaab631cfbac0cba8a6fb38.m3u8?auth_key=1791682322-0-0-5c7cb4bca3a6f8366af515e5b75e7431
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manta-fc-f6d760.png" group-title="[LIVE 01:30 WIB 11/10/26] Manta FC vs Tecnico Universitario | Server 1",[LIVE 01:30 WIB 11/10/26] Manta FC vs Tecnico Universitario | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aac078e06a083c458dd4155.m3u8?auth_key=1791682322-0-0-3395d039e6692906d479cf347498c9a7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/amal-tiznit-59cfc9.png" group-title="[LIVE 01:30 WIB 11/10/26] Amal Tiznit vs DHJ Difaa Hassani Jadidi | Server 1",[LIVE 01:30 WIB 11/10/26] Amal Tiznit vs DHJ Difaa Hassani Jadidi | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6a9d870cfd629e492fe0db26.m3u8?auth_key=1791682322-0-0-541e334468f810232d44c9b0e0591b92
+https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1791664925-0-0-3846fff945ad6391af47f27df55e75b1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/celta-vigo-b-c141b4.webp" group-title="[LIVE 01:30 WIB 11/10/26] Celta Vigo B vs Real Sociedad B | Server 1",[LIVE 01:30 WIB 11/10/26] Celta Vigo B vs Real Sociedad B | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aaab631cfbac0cba8a6fd83.m3u8?auth_key=1791682322-0-0-3980243c32c10a76b5c62e5383b2288a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 1",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/napoli-frosi-seriea/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 2",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/napoli-frosi-seriea.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 3",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://hwyypull.ncctrials.com/live/stream-374391_lhd.flv?auth_key=1791581414-0-0-f3c77af2c9c12e5d85f5914952bf6582
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 4",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://hwyypull.ncctrials.com/live/stream-374391_lsd.flv?auth_key=1791581414-0-0-f3c77af2c9c12e5d85f5914952bf6582
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 5",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 6",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 7",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/e6f3a70c97c5b0d0.m3u8?wsSecret=894BA4FF736DB0F958455073B020F5DF&wsTime=1791660727
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 8",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 8 (SVR-BHNS 8)
+https://pull.fmp.live/sla/1-6aaab631cfbac0cba8a6fd83.m3u8?auth_key=1791682862-0-0-486d87ebe4fca0ef20cf9a84efe46d3a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manta-fc-f6d760.png" group-title="[LIVE 01:30 WIB 11/10/26] Manta FC vs Tecnico Universitario | Server 1",[LIVE 01:30 WIB 11/10/26] Manta FC vs Tecnico Universitario | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6aac078e06a083c458dd4155.m3u8?auth_key=1791682862-0-0-004ff03cd99389b085ab2cb1e5b6cf90
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/amal-tiznit-59cfc9.png" group-title="[LIVE 01:30 WIB 11/10/26] Amal Tiznit vs DHJ Difaa Hassani Jadidi | Server 1",[LIVE 01:30 WIB 11/10/26] Amal Tiznit vs DHJ Difaa Hassani Jadidi | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6a9d870cfd629e492fe0db26.m3u8?auth_key=1791682862-0-0-c4a808ac173ab2a71d0f9945a1ee87e2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/universitario-de-vinto-8660cc.png" group-title="[LIVE 01:30 WIB 11/10/26] Universitario De Vinto vs Real Oruro | Server 1",[LIVE 01:30 WIB 11/10/26] Universitario De Vinto vs Real Oruro | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6aaab631cfbac0cba8a6fb38.m3u8?auth_key=1791682862-0-0-701778b4e090adbec0bbfe4ef94b724a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 01:30 WIB 11/10/26] France Women vs Latvia Women | Server 1",[LIVE 01:30 WIB 11/10/26] France Women vs Latvia Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ac3faddd83fdbd7c34b8b38.m3u8?auth_key=1791682862-0-0-f3c12e4b9b93117918470729c1f96c39
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 1",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://pull.qjkngv.com/live/stream-514592_lhd.flv?auth_key=1791623404-0-0-6e80ce4c96a2859173efe33f721707e4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 2",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://pull.qjkngv.com/live/stream-514592_lsd.flv?auth_key=1791623404-0-0-6e80ce4c96a2859173efe33f721707e4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 3",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1791664385-0-0-75f15e49b491238022bd98892a9e366d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 9",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 9 (SVR-BHNS 9)
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1791664925-0-0-0eb2b4b8e80c8ac2a4499deff4aa2a7e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 4",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1791664385-0-0-68f97247a9b9f14d394be1273d1b7f49
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 10",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 10 (SVR-BHNS 10)
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1791664925-0-0-17a938a3502298b351774308508183d6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 5",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1791664385-0-0-624a451aca4324cdfb5e2cef81af5580
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 11",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 11 (SVR-BHNS 11)
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1791664925-0-0-483045ca6bfda311360ca01fb181a7e5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 6",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1791664385-0-0-5d120cf3a0a3415bd89e6e531aad7a44
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 12",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 12 (SVR-BHNS 12)
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1791664925-0-0-fa4fa828061952956281282406feb2c4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 7",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912136_lsd.m3u8?txSecret=f4cbd11179e1a8e602851432d3a590a5&txTime=6acae751
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 13",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 13 (SVR-BHNS 13)
+https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1791664925-0-0-a8fb53b81bc43333b189e0eaa80db6fa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 8",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=b0c975e23600677c5c6049ccd2fdbac5&txTime=6acae751
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 14",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 14 (SVR-BHNS 14)
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1791664925-0-0-34250e50b29bbd74c8236e5d7bcca802
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 9",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=686990a665014da5f9aa20b4310f7e6b&txTime=6acae751
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 15",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 15 (SVR-BHNS 15)
+https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=ae9489457f8cc6a4bfc8eb1cb56cbc65&txTime=6acae96d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 10",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c0b8e0cbe70ee221b3b2f7cb8d062e93&txTime=6acae751
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=7856f2b202687608aedfcc526489d91d&txTime=6acae96d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 1",[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/psg-mans-ligue1/index.m3u8
@@ -111,85 +96,43 @@ https://pull.qjkngv.com/live/stream-620066_lsd.flv?auth_key=1791623404-0-0-4df3f
 https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 7",[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/22c1f8d30fb29b39.m3u8?wsSecret=325027194E11FCB953F6788642A3EC6B&wsTime=1791660727
+https://play.lacrima2000.com/live/22c1f8d30fb29b39.m3u8?wsSecret=E232E80BA1884FF0BC32C7D479C18C46&wsTime=1791661269
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 8",[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1791664385-0-0-b9e905ab7d35b6d5bb8601317dc861e8
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1791664925-0-0-7f59a2be08c8c96ddd20d9e762c31100
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 9",[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1791664385-0-0-8bbb7016c569a96bd8a5c817dd94f074
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1791664925-0-0-1e25111914c8ee54207711d45434beb3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 10",[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=1389e466223ad5fb5dfc7af6816c8b33&txTime=6acae751
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=b9a6ae00a44967d2153cd76ce96ff04b&txTime=6acae96d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 11",[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=3a644efcb73ca0637c031d92dc118344&txTime=6acae751
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=9e514b6e6e97ffb36b91d09a97b3d266&txTime=6acae96d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 12",[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1791664385-0-0-30c77b56958d87357039356b3ebdfe29
+https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1791664925-0-0-f0de69bf92b9a6e9cd65e8c1e73abef2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 13",[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1791664385-0-0-3ee274231d7b875e151f907199f5e65b
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1791664925-0-0-12698c9927f0007f91efbaf45a8f0ea6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 14",[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1791664385-0-0-767aef52ffef753a28912fa3276040cb
+https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1791664925-0-0-65b79c01e862561ca5d03e1fa506c3b7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 15",[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1791664385-0-0-ac763b7fc8a15fe293484a8bd0e7bf86
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1791664925-0-0-d1910bffe34f56f169c3e9ce3330a38a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 16",[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 16 (SVR-BHNS 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-626841_lsd.m3u8?auth_key=1791664385-0-0-3030a1358f8c4e1c0b42a3b38b6a2ba1
+https://pull.niues.live/live/stream-626841_lsd.m3u8?auth_key=1791664925-0-0-c6b3dcd0495de700409fc4c0ced352e9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 17",[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 17 (SVR-BHNS 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1791664385-0-0-d7c6183294d6189849ead7fe342e8eaa
+https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1791664925-0-0-005e752ce634dbc49ef798dc25a7502e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 18",[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 18 (SVR-BHNS 18)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1791664385-0-0-01014a30f0cf87cb54c82e66acc1cfc6
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1791664925-0-0-6fc2286b7029a89e3dbbd7cae13c97ee
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 19",[LIVE 01:45 WIB 11/10/26] Paris Saint Germain vs Le Mans | Server 19 (SVR-BHNS 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1791664385-0-0-39a40e5eede07639a643a25e09fc5699
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stade-brestois-29-57468b.webp" group-title="[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 1",[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1791664385-0-0-604aaec592856b109e68e1db85cd0456
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stade-brestois-29-57468b.webp" group-title="[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 2",[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1791664385-0-0-e5b425fcefde93e3fdb80b3eb2af67bc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stade-brestois-29-57468b.webp" group-title="[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 3",[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=297732e199be560b2145fc724d64fd4e&txTime=6acae751
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stade-brestois-29-57468b.webp" group-title="[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 4",[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=12fd313e24c9df2b5559054275c4b6e7&txTime=6acae751
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 1",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://pull.qjkngv.com/live/stream-514592_lhd.flv?auth_key=1791623404-0-0-6e80ce4c96a2859173efe33f721707e4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 2",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://pull.qjkngv.com/live/stream-514592_lsd.flv?auth_key=1791623404-0-0-6e80ce4c96a2859173efe33f721707e4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 3",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1791664385-0-0-a982a552f3e7ac0bae785bccdc2e7562
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 4",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1791664385-0-0-ace99c9e7867d5f0dfcf7ff088472bab
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 5",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=1d325d8081326d3cfbb1e74a738c409d&txTime=6acae751
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 6",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=7cfd08d4c02221b47bc84cd63a78b229&txTime=6acae751
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 7",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1791664385-0-0-689be4dc96ce7c227af6a1f87d65f810
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 8",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1791664385-0-0-ed43ad11320a38c1767ee98512105b41
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 9",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1791664385-0-0-5686ab6b41cb1c99d31bdb69c3d3763f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 10",[LIVE 01:45 WIB 11/10/26] AS Monaco vs Toulouse FC | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1791664385-0-0-f82be27521da5c832ceca1d507bef33f
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1791664925-0-0-ef15281b14e44919f6e9cef35e250d0b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lorient-abd141.png" group-title="[LIVE 01:45 WIB 11/10/26] Lorient vs Paris FC | Server 1",[LIVE 01:45 WIB 11/10/26] Lorient vs Paris FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://hwyypull.ncctrials.com/live/stream-415439_lhd.flv?auth_key=1791582093-0-0-59c76336d4927d64235e34cb77deeca4
@@ -198,31 +141,109 @@ https://hwyypull.ncctrials.com/live/stream-415439_lhd.flv?auth_key=1791582093-0-
 https://hwyypull.ncctrials.com/live/stream-415439_lsd.flv?auth_key=1791582093-0-0-59c76336d4927d64235e34cb77deeca4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lorient-abd141.png" group-title="[LIVE 01:45 WIB 11/10/26] Lorient vs Paris FC | Server 3",[LIVE 01:45 WIB 11/10/26] Lorient vs Paris FC | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912138_lsd.m3u8?auth_key=1791664385-0-0-888d3de31ae2bde71db6f26b036da8b6
+https://pull.niues.live/live/stream-9912138_lsd.m3u8?auth_key=1791664925-0-0-8ef9ce2cdf60e21941ed3adbd0b00ea5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lorient-abd141.png" group-title="[LIVE 01:45 WIB 11/10/26] Lorient vs Paris FC | Server 4",[LIVE 01:45 WIB 11/10/26] Lorient vs Paris FC | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1791664385-0-0-8da3ee08be010bc9c2bc6ebee65e5acf
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-women-6ec806.png" group-title="[LIVE 02:00 WIB 11/10/26] Brazil Women vs Argentina Women | Server 1",[LIVE 02:00 WIB 11/10/26] Brazil Women vs Argentina Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ac9a36efd629e492f7f0bb4.m3u8?auth_key=1791682322-0-0-9b6451a69fbae621fb01a13767e53b8b
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1791664925-0-0-9c375fb33e5ab52eb0552151a7ce4e17
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 1",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/napoli-frosi-seriea/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 2",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/napoli-frosi-seriea.flv
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 3",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://hwyypull.ncctrials.com/live/stream-374391_lhd.flv?auth_key=1791581414-0-0-f3c77af2c9c12e5d85f5914952bf6582
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 4",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://hwyypull.ncctrials.com/live/stream-374391_lsd.flv?auth_key=1791581414-0-0-f3c77af2c9c12e5d85f5914952bf6582
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 5",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 6",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 7",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/e6f3a70c97c5b0d0.m3u8?wsSecret=CF2D6F1E014A68BE40FD94A75F6460E2&wsTime=1791661269
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 8",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1791664925-0-0-26cbc1ec3b752786e2c2800fdd961553
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 9",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1791664925-0-0-6e42c936c05108ca6be0f609f882781b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 10",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912136_lsd.m3u8?txSecret=a694398ae3fc3ba7ebc557478d494d17&txTime=6acae96d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 11",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=16c8b038d3db80d0546d04c06554866c&txTime=6acae96d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 12",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1791664925-0-0-08f887bde729919efba48df7755edcde
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 13",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1791664925-0-0-37fb84cde1ffe9d246e3d6e73db9fecd
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 14",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=ac9121e3595003e23d980577ab323506&txTime=6acae96d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 15",[LIVE 01:45 WIB 11/10/26] Napoli vs Frosinone | Server 15 (SVR-BHNS 15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=b7a245c71ea447b9f864c61797f3691b&txTime=6acae96d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stade-brestois-29-57468b.webp" group-title="[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 1",[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1791664925-0-0-b6fd5c654ae452a67614dd5dcc7f28d7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stade-brestois-29-57468b.webp" group-title="[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 2",[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1791664925-0-0-a85c98dd9683b2f8fee9ff28edad4590
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stade-brestois-29-57468b.webp" group-title="[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 3",[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=3a899d77671aeba982ed6c6fc7137f5e&txTime=6acae96d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stade-brestois-29-57468b.webp" group-title="[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 4",[LIVE 01:45 WIB 11/10/26] Stade Brestois 29 vs Angers SCO | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=e2c90a8e8a94eb319433e14273ba45a0&txTime=6acae96d
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/3679dc2a79876fe397c5a7e96c844e0e.png" group-title="[LIVE 02:00 WIB 11/10/26] Manta vs Tecnico U | Server 1",[LIVE 02:00 WIB 11/10/26] Manta vs Tecnico U | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxjZPQtoHyeZh1Mtg.m3u8?txSecret=b173dd817d40aae82ecb7c28a3dd04bb&txTime=6ACB3DCD
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/quilmes-26728a.png" group-title="[LIVE 02:00 WIB 11/10/26] Quilmes vs Agropecuario | Server 1",[LIVE 02:00 WIB 11/10/26] Quilmes vs Agropecuario | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MvYqji6gtY59cuv9r.m3u8?txSecret=dd0f5e32b0d5d254ba2e4aa1234a4e3c&txTime=6ACB3C65
+https://live.cds78y11d.org/live/sd-6MvYqji6gtY59cuv9r.m3u8?txSecret=5e7de58a6170d3e86063ce567aac7a55&txTime=6ACB3DCD
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/quilmes-26728a.png" group-title="[LIVE 02:00 WIB 11/10/26] Quilmes vs Agropecuario | Server 2",[LIVE 02:00 WIB 11/10/26] Quilmes vs Agropecuario | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aaab631cfbac0cba8a6fb3f.m3u8?auth_key=1791682322-0-0-1f62ce8a7fd41215c218e3c56dab6bd2
+https://pull.fmp.live/sla/1-6aaab631cfbac0cba8a6fb3f.m3u8?auth_key=1791682862-0-0-bee402d11268746fc468c633d6ab6ed4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/amal-tiznit-59cfc9.png" group-title="[LIVE 02:00 WIB 11/10/26] Amal Tiznit vs Difaa El Jadidi | Server 1",[LIVE 02:00 WIB 11/10/26] Amal Tiznit vs Difaa El Jadidi | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxip1oYtr5RQUZoSL.m3u8?txSecret=1749c5ef8a1b078be8776e99254a440d&txTime=6ACB3DCD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-women-6ec806.png" group-title="[LIVE 02:00 WIB 11/10/26] Brazil Women vs Argentina Women | Server 1",[LIVE 02:00 WIB 11/10/26] Brazil Women vs Argentina Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ac9a36efd629e492f7f0bb4.m3u8?auth_key=1791682862-0-0-7c10db4594a8d1103f0a3d40fc1b54bb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.png" group-title="[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 1",[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/hd-en-6Mwdpr5PEHLPpmSyLG.m3u8?txSecret=9ae427f4bddec58fef4981738ccd9d35&txTime=6ACB3DCD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.png" group-title="[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 2",[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mwdpr5PEHLPpmSyLG.m3u8?txSecret=2d1b75e4b9c19e08b671aff3a45ca369&txTime=6ACB3DCD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.png" group-title="[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 3",[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6aaab631cfbac0cba8a6fb36.m3u8?auth_key=1791682862-0-0-8735aab36facc0f7d2bb03951db5dd43
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.png" group-title="[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 4",[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912132_lsd.m3u8?txSecret=4adf79709c7bae289cd9f619b5089106&txTime=6acae96d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.png" group-title="[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 5",[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=49325293f215446512e726d9607b4abf&txTime=6acae96d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 1",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/hd-en-6MweaGxUNPMpoT6Ruv.m3u8?txSecret=fe572432723df5b5e4fbbd51c61b9734&txTime=6ACB3C65
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 2",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweaGxUNPMpoT6Ruv.m3u8?txSecret=55c5cc128572a1d1f7a63e64c161ab86&txTime=6ACB3C65
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 3",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/real-villa-laliga/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 4",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 4 (SVR-BHNS 4)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 2",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/real-villa-laliga.flv
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 3",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/hd-en-6MweaGxUNPMpoT6Ruv.m3u8?txSecret=076bea6e182b962ba478f8b24771180f&txTime=6ACB3DCD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 4",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MweaGxUNPMpoT6Ruv.m3u8?txSecret=53b823f3ed1c08c20c2d473fb48d9b54&txTime=6ACB3DCD
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 5",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://live05.meung.app/live/07428422_tsc.m3u8
@@ -240,91 +261,70 @@ https://pull.fmp.live/live/live_57037_lud.m3u8?auth_key=1791670581-0-0-bae93897e
 https://pull.fmp.live/live/live_57037_lud.flv?auth_key=1791670581-0-0-dd449b8d3a1934399fa868aad44ce155
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 10",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aaab631cfbac0cba8a6fb34.m3u8?auth_key=1791682322-0-0-30c83ccca06d1a429b51ca1484804ee9
+https://pull.fmp.live/sla/1-6aaab631cfbac0cba8a6fb34.m3u8?auth_key=1791682862-0-0-9a39c5d2b43a4b70f4ed92b22aa92b1a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 11",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 12",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/86fc66de3e7f259d.m3u8?wsSecret=B42EBBF61C0B4846A40CD5977D5ABC37&wsTime=1791660727
+https://play.lacrima2000.com/live/86fc66de3e7f259d.m3u8?wsSecret=95FC8AF7067816FEA6E7DA9056D24728&wsTime=1791661269
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 13",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912142_lsd.m3u8?auth_key=1791664385-0-0-3394046442b80c43ca0e3b6be3f090bc
+https://pull.niues.live/live/stream-9912142_lsd.m3u8?auth_key=1791664925-0-0-9788e0457948817b343ff3d3006c75b7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 14",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1791664385-0-0-9877a33d69fa2f22fa99608d10e0ddae
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1791664925-0-0-f646a373e0212769a20f4414ee6daca7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 15",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=6948593966d9e9a651411f32162df327&txTime=6acae751
+https://pull.niur.live/live/stream-9912129_lsd.m3u8?txSecret=e7e2e0fafce048e0973495b9c42c9da3&txTime=6acae96d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 16",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 16 (SVR-BHNS 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=01aadb376d4dac22bbd1b0b967a713d9&txTime=6acae751
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=b1de4709cc69ec16ec122c3c5ebf9a14&txTime=6acae96d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 17",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 17 (SVR-BHNS 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912129_lsd.m3u8?txSecret=97e9985768e3de04746fe40c483554ea&txTime=6acae751
+https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1791664925-0-0-e3d44b51af2c2b0061666bd010e34480
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 18",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 18 (SVR-BHNS 18)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=adf9a39852f7c6d30a15f0d33a199393&txTime=6acae751
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1791664925-0-0-8ed24a68fac1d90da973ee26a0ef1315
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 19",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 19 (SVR-BHNS 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1791664385-0-0-4a051bcac54c95ff25a4d98799c6dd65
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=d4149650eba434fb75ebb1754536477c&txTime=6acae96d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 20",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 20 (SVR-BHNS 20)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1791664385-0-0-48de1c4d36c1f30d78422d46de3f7dd3
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=d7d511d3ee2de48569b2f2ce70d831d3&txTime=6acae96d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 21",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 21 (SVR-BHNS 21)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1791664385-0-0-be0e38cb790f0103987e2ac1bdfa6eb1
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1791664925-0-0-f98b69fdfcde513ec4aac210a808c920
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 22",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 22 (SVR-BHNS 22)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1791664385-0-0-e0498a48606fb0cca0fe724cc36f258b
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1791664925-0-0-2dbfcef9ab382893e35c3d906fea95e2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 23",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 23 (SVR-BHNS 23)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1791664385-0-0-6036cc530a36dae7c3a22ccdae8f966d
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1791664925-0-0-5e8cd3ef717f530f7bfab443b9f7e835
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png" group-title="[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 24",[LIVE 02:00 WIB 11/10/26] Real Madrid vs Villarreal CF | Server 24 (SVR-BHNS 24)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1791664385-0-0-5d1074cda0ca2480685f38a98bc72f79
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.png" group-title="[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 1",[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/hd-en-6Mwdpr5PEHLPpmSyLG.m3u8?txSecret=798a220fdf9020dbb1dc241be6f1d8f0&txTime=6ACB3C65
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.png" group-title="[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 2",[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mwdpr5PEHLPpmSyLG.m3u8?txSecret=6d2de8256d7a4c7f3f06e698c53b0160&txTime=6ACB3C65
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.png" group-title="[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 3",[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aaab631cfbac0cba8a6fb36.m3u8?auth_key=1791682322-0-0-d9dc47d9a97fc44da8ed106274b915a1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.png" group-title="[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 4",[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912132_lsd.m3u8?txSecret=6a14bf16465f2e9f867b22f25a38e885&txTime=6acae751
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.png" group-title="[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 5",[LIVE 02:00 WIB 11/10/26] AFC Ajax vs NEC Nijmegen | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=ddf65993b27674c54b219f04a574f70d&txTime=6acae751
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/3679dc2a79876fe397c5a7e96c844e0e.png" group-title="[LIVE 02:00 WIB 11/10/26] Manta vs Tecnico U | Server 1",[LIVE 02:00 WIB 11/10/26] Manta vs Tecnico U | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjZPQtoHyeZh1Mtg.m3u8?txSecret=467fe85e7eeacce2481c865636a4583c&txTime=6ACB3C65
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/amal-tiznit-59cfc9.png" group-title="[LIVE 02:00 WIB 11/10/26] Amal Tiznit vs Difaa El Jadidi | Server 1",[LIVE 02:00 WIB 11/10/26] Amal Tiznit vs Difaa El Jadidi | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxip1oYtr5RQUZoSL.m3u8?txSecret=345cb7015fba8e3e1909832f923f343b&txTime=6ACB3C65
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vizela-7f2fb1.png" group-title="[LIVE 02:30 WIB 11/10/26] Vizela vs Sporting CP B | Server 1",[LIVE 02:30 WIB 11/10/26] Vizela vs Sporting CP B | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweKnKJZ65epxzKHe.m3u8?txSecret=f4b69503c22d5d442b40cd183b7da3f7&txTime=6ACB3C65
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vizela-7f2fb1.png" group-title="[LIVE 02:30 WIB 11/10/26] Vizela vs Sporting CP B | Server 2",[LIVE 02:30 WIB 11/10/26] Vizela vs Sporting CP B | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aaab631cfbac0cba8a6fd8a.m3u8?auth_key=1791682322-0-0-5634822822240b3461edbda708eef125
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/viseu-05c47b.webp" group-title="[LIVE 02:30 WIB 11/10/26] Viseu vs Estoril | Server 1",[LIVE 02:30 WIB 11/10/26] Viseu vs Estoril | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/hd-en-6MweLB36scH2czRgiG.m3u8?txSecret=22184a57283f0cb9750a4cb92dcf0471&txTime=6ACB3C65
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/viseu-05c47b.webp" group-title="[LIVE 02:30 WIB 11/10/26] Viseu vs Estoril | Server 2",[LIVE 02:30 WIB 11/10/26] Viseu vs Estoril | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweLB36scH2czRgiG.m3u8?txSecret=ec4fd2f69a84b77935d9654bf9b96511&txTime=6ACB3C65
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/viseu-05c47b.webp" group-title="[LIVE 02:30 WIB 11/10/26] Viseu vs Estoril | Server 3",[LIVE 02:30 WIB 11/10/26] Viseu vs Estoril | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aaab631cfbac0cba8a6fb3b.m3u8?auth_key=1791682322-0-0-3abbcf7878d7bbbcfddcf811f7b61e63
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/casa-pia-ac-58247d.webp" group-title="[LIVE 02:30 WIB 11/10/26] Casa Pia AC vs Santa Clara | Server 1",[LIVE 02:30 WIB 11/10/26] Casa Pia AC vs Santa Clara | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweLB36sm4x6ujMKr.m3u8?txSecret=030f1bf2a9157a0019662f807ffc4dd5&txTime=6ACB3C65
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/casa-pia-ac-58247d.webp" group-title="[LIVE 02:30 WIB 11/10/26] Casa Pia AC vs Santa Clara | Server 2",[LIVE 02:30 WIB 11/10/26] Casa Pia AC vs Santa Clara | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aa964a3887f467189122bbb.m3u8?auth_key=1791682322-0-0-541da8ce277feec313beba1a00c1bc9c
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1791664925-0-0-3275a4b8adb3ded013218b7aa97abc69
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ferrocarril-midland-13082f.png" group-title="[LIVE 02:30 WIB 11/10/26] Ferrocarril Midland vs Atletico Rafaela | Server 1",[LIVE 02:30 WIB 11/10/26] Ferrocarril Midland vs Atletico Rafaela | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MvYqji6hRJoLLUkJQ.m3u8?txSecret=3a088841938ab23bb6a30111557fabbf&txTime=6ACB3C65
+https://live.cds78y11d.org/live/sd-6MvYqji6hRJoLLUkJQ.m3u8?txSecret=6ec3296871cd8b18593aae026abdab38&txTime=6ACB3DCD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vizela-7f2fb1.png" group-title="[LIVE 02:30 WIB 11/10/26] Vizela vs Sporting CP B | Server 1",[LIVE 02:30 WIB 11/10/26] Vizela vs Sporting CP B | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MweKnKJZ65epxzKHe.m3u8?txSecret=5c59cba964513f652209bd9f6429d3c4&txTime=6ACB3DCD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vizela-7f2fb1.png" group-title="[LIVE 02:30 WIB 11/10/26] Vizela vs Sporting CP B | Server 2",[LIVE 02:30 WIB 11/10/26] Vizela vs Sporting CP B | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6aaab631cfbac0cba8a6fd8a.m3u8?auth_key=1791682862-0-0-7508a5f0abefd3a40786aad010134a70
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/casa-pia-ac-58247d.webp" group-title="[LIVE 02:30 WIB 11/10/26] Casa Pia AC vs Santa Clara | Server 1",[LIVE 02:30 WIB 11/10/26] Casa Pia AC vs Santa Clara | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MweLB36sm4x6ujMKr.m3u8?txSecret=963675f3c2f41fcf5c1ce92b8cd07e56&txTime=6ACB3DCD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/casa-pia-ac-58247d.webp" group-title="[LIVE 02:30 WIB 11/10/26] Casa Pia AC vs Santa Clara | Server 2",[LIVE 02:30 WIB 11/10/26] Casa Pia AC vs Santa Clara | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6aa964a3887f467189122bbb.m3u8?auth_key=1791682862-0-0-77c03c01882bc08db3ba9ab8d26aa8ad
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/viseu-05c47b.webp" group-title="[LIVE 02:30 WIB 11/10/26] Viseu vs Estoril | Server 1",[LIVE 02:30 WIB 11/10/26] Viseu vs Estoril | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/hd-en-6MweLB36scH2czRgiG.m3u8?txSecret=25c4825393696724c957d5aea7c49364&txTime=6ACB3DCD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/viseu-05c47b.webp" group-title="[LIVE 02:30 WIB 11/10/26] Viseu vs Estoril | Server 2",[LIVE 02:30 WIB 11/10/26] Viseu vs Estoril | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MweLB36scH2czRgiG.m3u8?txSecret=837fd5c283250b67f147ba50ac8f4d82&txTime=6ACB3DCD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/viseu-05c47b.webp" group-title="[LIVE 02:30 WIB 11/10/26] Viseu vs Estoril | Server 3",[LIVE 02:30 WIB 11/10/26] Viseu vs Estoril | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6aaab631cfbac0cba8a6fb3b.m3u8?auth_key=1791682862-0-0-251e74d1cca5f30582b013e1baade921
