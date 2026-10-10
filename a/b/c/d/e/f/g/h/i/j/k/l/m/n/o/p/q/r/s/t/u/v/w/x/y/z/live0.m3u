@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 14:55:09 WIB 10-10-2026
-# 🔄 Total Channels: 800
+# ⏰ Latest Updated: 15:02:04 WIB 10-10-2026
+# 🔄 Total Channels: 802
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:55:09 WIB 10-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:02:04 WIB 10-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,12 +58,18 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",LINK DOWNLOAD ADA DI CHANNEL TELE
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",20:15 WIB thaayth`dsd PREMIER LEAGUE 2026/2027 / khaawainphraraachsamnak | MONO29 | Gvision TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",21:00 WIB Bri Super League 2026/27 | INDOSIAR | Gvision TV
 https://ogietv.biz.id:443/Dimas01/bara01/1325.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",21:00 WIB Bri Super League 2026/27 | INDOSIAR | Gvision TV
@@ -106,6 +112,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Arctic Open BWF WORLD TOUR | Court 1 | Huya | Gvision TV
+http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805928
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373944150475_VCL_Rajasthan-Spikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg" group-title="LIVE EVENT",Rajasthan Spikers vs Ayodhya Garjan | India Volleyball Championship League 2026 | ENG | Sony Liv | Gvision TV
 https://sonymtmnew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/master.m3u8?hdnea=exp=1791654623~acl=/*~id=0b6e89dabf632c178245f10c8311b810-1791611401472~hmac=ce1140b5cc9caf5852f9c817efbb34f17b4a12909b46fa35b2f0ebb064cb83e0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5694fd6c3b3c8d93c22385925d8235a5-1791640200528
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373944150475_VCL_Rajasthan-Spikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg" group-title="LIVE EVENT",Rajasthan Spikers vs Ayodhya Garjan | India Volleyball Championship League 2026 | HIN | Sony Liv | Gvision TV
