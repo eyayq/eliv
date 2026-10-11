@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 20:05:14 WIB 11-10-2026
-# 🔄 Total Channels: 811
+# ⏰ Latest Updated: 20:11:58 WIB 11-10-2026
+# 🔄 Total Channels: 787
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:05:14 WIB 11-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:11:58 WIB 11-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -78,11 +78,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",00:00 WIB Pittsburgh Steelers vs Indianapolis Colts | American football | Live 2 | Gvision TV
-https://veltristream.s3.us-east-1.amazonaws.com/steelers.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",00:00 WIB Pittsburgh Steelers vs Indianapolis Colts | American football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream1.pro/hls/uheyztezgj34.m3u8?|Referer=https://streame.center&Origin=https://streame.center
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",01:45 WIB Cagliari vs Juventus | Football | beIN ENGLISH - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -106,47 +101,30 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a
 https://ABBJKZFAAAAAAAAMCI6PSHDNECGUX.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq31ZtBhpqy4_tA2pjbG91ZGZyb250AngoZmlkOjAxYTEyYjJhLTM3M2UtNzU1Ny04NGRmLTcyMDQyNDA4MjY4YhkBOKEFoQJ4My94YmF6bGZsZDJrL291dC92MS82OTIzNWVmNjQ4NmI0OGUwYmJlZWEwMmIyMGZhYWMzZVggL3dTlVmvh2K6jdGiUBtuGGL4-2tepGCiNCyBvgyGgas/PDX/f1d5711e7938446f8ba77aa4cace74fe/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xbazlfld2k/out/v1/69235ef6486b48e0bbeea02b20faac3e/459530df-6730-470b-a351-dd8d13bf0417-cenc.mpd?aws.sessionId=b8bbae1d-e4d8-422f-b963-2f78b81aabef
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a809c206-961c-4d37-bdce-31bdb52cc0b0/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",AHA Hockey: Royal Military College vs Army  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.91305dfe-df54-4cc5-a367-27853e87b8c6/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",PPA Tour Chicago Cup: Championships  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4ff6f593-3af0-4d69-8b21-66f2a092928d/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Season 2026  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bd82db30-711c-4d40-8477-dd00e37785cb/4/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Utah State at Boise State  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a809c206-961c-4d37-bdce-31bdb52cc0b0/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",AHA Hockey: Royal Military College vs Army  | Prime Sports | Gvision TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d7edc9c9-e9a5-44ea-8be9-de746e38b0b2/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",World Championship of Legends 2026 - 13th Match - India Champions vs Bangladesh Champions  | Prime Sports | Gvision TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12cdb08af9c2f9c7667a3c3c58ed9443:1679c9c3398400a552e34e9f5153bc78
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dcgyb7ajoh/out/v1/833fa8f3599440ab8e36ab0e86efc452/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&amp;s=10" group-title="Live Event: CFY",22:30 WIB WCL World Championship of Legends | Cricket | WILLOW - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12cdb08af9c2f9c7667a3c3c58ed9443:1679c9c3398400a552e34e9f5153bc78
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2obepsx4jx/out/v1/0fd776498ea149a2893b6ba533f5a7aa/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&amp;s=10" group-title="Live Event: CFY",22:30 WIB WCL World Championship of Legends | Cricket | WILLOW - ALT | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12cdb08af9c2f9c7667a3c3c58ed9443:1679c9c3398400a552e34e9f5153bc78
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2obepsx4jx/out/v1/0fd776498ea149a2893b6ba533f5a7aa/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&amp;s=10" group-title="Live Event: CFY",22:30 WIB WCL World Championship of Legends | Cricket | STARZPLAY - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
-https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&amp;s=10" group-title="Live Event: CFY",22:30 WIB WCL World Championship of Legends | Cricket | WILLOW HD | Gvision TV
-https://df3xownvf1f4t.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/willow_tv/playlist.m3u8
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2719/image" group-title="Live Event: CFY",01:45 WIB Cagliari vs Juventus | Football | beIN ENGLISH - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -163,54 +141,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4424/image" group-title="Live Event: CFY",00:00 WIB New England Patriots vs Las Vegas Raiders | American football | Live 2 | Gvision TV
-https://veltristream.s3.us-east-1.amazonaws.com/patriots.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4424/image" group-title="Live Event: CFY",00:00 WIB New England Patriots vs Las Vegas Raiders | American football | Live 3 | Gvision TV
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream4.pro/hls/jnknjfzbk35.m3u8?|Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4424/image" group-title="Live Event: CFY",00:00 WIB New England Patriots vs Las Vegas Raiders | American football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream4.pro/hls/jnknjfzbk35.m3u8?|Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4420/image" group-title="Live Event: CFY",00:00 WIB Green Bay Packers vs Chicago Bears | American football | Live 2 | Gvision TV
-https://veltristream.s3.us-east-1.amazonaws.com/packers.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4420/image" group-title="Live Event: CFY",00:00 WIB Green Bay Packers vs Chicago Bears | American football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream3.pro/hls/ysvbxwnbc38.m3u8?|Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4287/image" group-title="Live Event: CFY",00:00 WIB Miami Dolphins vs Cincinnati Bengals | American football | Live 2 | Gvision TV
-https://veltristream.s3.us-east-1.amazonaws.com/bengals.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4287/image" group-title="Live Event: CFY",00:00 WIB Miami Dolphins vs Cincinnati Bengals | American football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream7.pro/hls/sfjnzabacah31.m3u8?|Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4345/image" group-title="Live Event: CFY",00:00 WIB Pittsburgh Steelers vs Indianapolis Colts | American football | Live 2 | Gvision TV
-https://veltristream.s3.us-east-1.amazonaws.com/steelers.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4345/image" group-title="Live Event: CFY",00:00 WIB Pittsburgh Steelers vs Indianapolis Colts | American football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream1.pro/hls/uheyztezgj34.m3u8?|Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4432/image" group-title="Live Event: CFY",00:00 WIB Washington Commanders vs New York Giants | American football | Live 2 | Gvision TV
-https://veltristream.s3.us-east-1.amazonaws.com/giants.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4432/image" group-title="Live Event: CFY",00:00 WIB Washington Commanders vs New York Giants | American football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream3.pro/hls/yetehznecs37.m3u8?|Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4425/image" group-title="Live Event: CFY",00:00 WIB New Orleans Saints vs Minnesota Vikings | American football | Live 2 | Gvision TV
-https://veltristream.s3.us-east-1.amazonaws.com/vikings.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4425/image" group-title="Live Event: CFY",00:00 WIB New Orleans Saints vs Minnesota Vikings | American football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream5.pro/hls/jkhazabcka36.m3u8?|Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4431/image" group-title="Live Event: CFY",00:00 WIB Tennessee Titans vs Houston Texans | American football | PRIME VIDEO - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd1c5091e5aa3d5ceaecd735dbd79d80:9cbb20826e097123163447471227afb3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qydmdhqoiq/out/v1/53b9013dc88c463cafe4a8e708f4a191/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4431/image" group-title="Live Event: CFY",00:00 WIB Tennessee Titans vs Houston Texans | American football | Live 2 | Gvision TV
-https://veltristream.s3.us-east-1.amazonaws.com/texans.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4431/image" group-title="Live Event: CFY",00:00 WIB Tennessee Titans vs Houston Texans | American football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream5.pro/hls/oipozuezeji33.m3u8?|Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4427/image" group-title="Live Event: CFY",00:00 WIB New York Jets vs Cleveland Browns | American football | Live 2 | Gvision TV
-https://veltristream.s3.us-east-1.amazonaws.com/browns.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4427/image" group-title="Live Event: CFY",00:00 WIB New York Jets vs Cleveland Browns | American football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream5.pro/hls/qsdnajbq32.m3u8?|Referer=https://streame.center&Origin=https://streame.center
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
