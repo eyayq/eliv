@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 11:03:02 WIB 11-10-2026
-# 🔄 Total Channels: 795
+# ⏰ Latest Updated: 11:09:49 WIB 11-10-2026
+# 🔄 Total Channels: 802
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [11:03:02 WIB 11-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [11:09:49 WIB 11-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4350
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4350
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -90,6 +90,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Arctic Open BWF WORLD TOUR | Court 1 | Huya | Gvision TV
 http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805928
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.96cf536e-b067-40f1-b7a4-b929b56728f6/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Southampton vs. Portsmouth  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a0b35a4-d783-495f-8f19-1f5b571981d5/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Australia vs. Bangladesh  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -128,21 +134,6 @@ https://papacito.cfd/m3u/441307/live.m3u8
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187747/image" group-title="Live Event: CFY",14:30 WIB South Africa vs Australia | Cricket | WILLOW HD | Gvision TV
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/213117/image" group-title="Live Event: CFY",10:50 WIB Australia Women vs Bangladesh Women | Cricket | WILLOW - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d9a00a9fc737d5ef4e05c9649eae1b4:58fd9a8122f34cef93c6c4ac432bc1e5
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/213117/image" group-title="Live Event: CFY",10:50 WIB Australia Women vs Bangladesh Women | Cricket | WILLOW - ALT | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d9a00a9fc737d5ef4e05c9649eae1b4:58fd9a8122f34cef93c6c4ac432bc1e5
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/213117/image" group-title="Live Event: CFY",10:50 WIB Australia Women vs Bangladesh Women | Cricket | WILLOW HD | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187575/image" group-title="Live Event: CFY",13:00 WIB Afghanistan vs Bangladesh | Cricket | WILLOW - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -157,6 +148,22 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 http://103.151.60.162:2122/play/a030/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187575/image" group-title="Live Event: CFY",13:00 WIB Afghanistan vs Bangladesh | Cricket | A SPORTS HD | Gvision TV
 https://playztv-apps.pages.dev/a-sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2704/image" group-title="Live Event: CFY",17:30 WIB Como vs AS Roma | Football | beIN ENGLISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2704/image" group-title="Live Event: CFY",17:30 WIB Como vs AS Roma | Football | SPORT1 CZ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",Arctic Open BWF WORLD TOUR | Court 1 | Huya | Gvision TV
+http://gvisiontv.channell.my.id/ch/tch/huya.php/.flv?id=30805928
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",CLASH OF CLANS Arctic Open - Finals | Court 1 | XOILACZ | Gvision TV
+https://live1.quickscoreboardz.com/live/channel86.m3u8?wsSecret=1dfa43ec8873f00867bf1f1d75e3b156&wsABSTime=1791750357
+#EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="Live Esports",MPL INDONESIA SEASON 18 Week 8 Day 3 | Streaming mobile legends: bang bang. | Gvision TV
+http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -208,12 +215,20 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #EXTVLCOPT:http-referrer=http://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 http://gvisiontv.channell.my.id/ch/id/vd.php/stream.mpd?id=782
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (DIGI1)
+https://ogietv.biz.id:443/Dimas01/bara01/1310.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (DIGI2)
+https://ogietv.biz.id:443/Dimas01/bara01/1312.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (DTK)
 http://gvisiontv.channell.my.id/ch/id/trans.php/.m3u8?ch=transtv
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7 (DIGI1)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://ogietv.biz.id:443/Dimas01/bara01/1313.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7 (DIGI2)
+https://ogietv.biz.id:443/Dimas01/bara01/1315.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7 (DTK)
 http://gvisiontv.channell.my.id/ch/id/trans.php/.m3u8?ch=trans7
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="Nasional",MOJI (V)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2281,9 +2296,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDaGAsMAuluwRTDQ27jmwWVULNK2dEo74k9YVN6wkqkg&s=10" group-title="ALL SPORTS🔥",Fubo Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+#KODIPROP:inputstream.adaptive.license_key=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/7ul3txfqek/out/v1/0ee8b60f8f9f4da2a4ef153a1c5df21b/19431619-b89b-4524-bcbf-b426394fb599-cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDaGAsMAuluwRTDQ27jmwWVULNK2dEo74k9YVN6wkqkg&s=10" group-title="ALL SPORTS🔥",FUBO SPORTS IND
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
@@ -2769,7 +2784,7 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAR3rI-lajymNSDdEVaq3qkzl4VxNKzljFs0QIHUJ6UA&s=10" group-title="MEWATCH",M LIVE 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAR3rI-lajymNSDdEVaq3qkzl4VxNKzljFs0QIHUJ6UA&s=10" group-title="MEWATCH",M 5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2992,9 +3007,9 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_streamId=99951530&ads.channelId=99951530&ads.channelName=C15OneChampionship_us&ads.caid=C15OneChampionship&ads.csid=xumo_web_C15OneChampionship_ssai&ads.genre=Sport,Sports,SC&ads._fw_content_genre=Sport,Sports,SC&ads._fw_coppa=0&ads.xumo_contentId=4403&ads.xumo_contentName=C15OneChampionship&ads.xumo_providerId=4403&ads.xumo_providerName=C15OneChampionship&ads._fw_ifa_type=&ads._fw_did=57c1fdd8-6295-4541-8f01-a9e1baee7486&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDaGAsMAuluwRTDQ27jmwWVULNK2dEo74k9YVN6wkqkg&s=10" group-title="Premier League ⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿 ",Fubo Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+#KODIPROP:inputstream.adaptive.license_key=#KODIPROP:inputstream.adaptive.license_key=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/7ul3txfqek/out/v1/0ee8b60f8f9f4da2a4ef153a1c5df21b/19431619-b89b-4524-bcbf-b426394fb599-cenc.mpd
 #EXTINF:-1 tvg-logo="ESPN" group-title="Premier League ⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿 ",ESPN2 ARGENTINA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3109,9 +3124,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDaGAsMAuluwRTDQ27jmwWVULNK2dEo74k9YVN6wkqkg&s=10" group-title="Serie A⚽🇮🇹 ",Fubo Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+#KODIPROP:inputstream.adaptive.license_key=#KODIPROP:inputstream.adaptive.license_key=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/7ul3txfqek/out/v1/0ee8b60f8f9f4da2a4ef153a1c5df21b/19431619-b89b-4524-bcbf-b426394fb599-cenc.mpd
 #EXTINF:-1 tvg-logo="ESPN" group-title="Serie A⚽🇮🇹 ",ESPN ARGENTINA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
