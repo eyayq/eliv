@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 14:36:26 WIB 13-10-2026
-# 🔄 Total Channels: 822
+# ⏰ Latest Updated: 17:43:18 WIB 13-10-2026
+# 🔄 Total Channels: 888
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:36:26 WIB 13-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [17:43:18 WIB 13-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,24 +58,242 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",LINK DOWNLOAD ADA DI CHANNEL TELE
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" group-title="LIVE EVENT",17:00 WIB NXLED CHAMELEONS vs PLDT HIGH SPEED HITTERS - Philippine League | Gvision TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(DjddAuOo4FUUnCti8F1eGc1FeGC4vMBD0H5UqXjDuegQeWtQsU0K_XwkXzmN5r2eeos7McKGZkcc1SN98SOhQREPkTrYr2Uh5CwTSOlk-w4ZbjhWUekdP_ibmja1fqmu4MCJMm-BCmEeT-IK4eNSLDLvdbaauFJRGPVBKvxJ8LQj5aeBxOJrgjXDOIl59c9o)/dm/4/xbm6dbu/live-h264-1080.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/fNScJ6J.md.png" group-title="LIVE EVENT",22:30 WIB Radom W vs Wroclaw W
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel83.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB Sabah vs Slavia Praha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB Lens vs Sporting CP
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",VICTOR Denmark Open 2026 | Court 1 | Huya | Gvision TV
+http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",VICTOR Denmark Open 2026 | Court 2 | Huya | Gvision TV
+http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805929
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",Denmark Open | Court 1 | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=4d9a4cf43bc162f7cebc248705cf1ae7&wsABSTime=1791903388
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",Denmark Open | Court 2 | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=4d9a4cf43bc162f7cebc248705cf1ae7&wsABSTime=1791903388
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",Denmark Open | Court 3 | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=4d9a4cf43bc162f7cebc248705cf1ae7&wsABSTime=1791903388
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="LIVE EVENT",Garvi Gujjus vs Rajasthan Spikers | India Volleyball Championship League 2026 | ENG | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791927821~acl=/*~id=80833861588108440878435364309951~hmac=99669421026220ee55cbf288cd22cfe47e31cbd790befc0f95351c976036632f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=732e718c27064b91aad02969aa383e46-1791894601129
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="LIVE EVENT",Garvi Gujjus vs Rajasthan Spikers | India Volleyball Championship League 2026 | HIN | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791927821~acl=/*~id=80833861588108440878435364309951~hmac=99669421026220ee55cbf288cd22cfe47e31cbd790befc0f95351c976036632f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=732e718c27064b91aad02969aa383e46-1791894601129
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.072ebbaf-920a-40ee-9d04-e459c0f506c6/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="LIVE EVENT",Germany vs. Japan  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB RC Lens vs Sporting CP | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e769be6519e4b0e4fd5099357ecc147c:fea0e2b7fd2b1f07588132d56fe078eb
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/sbi880xife/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB RC Lens vs Sporting CP | Football | STAN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/863a4f6350b6058ec7191aef2b169519/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB RC Lens vs Sporting CP | Football | PARAMOUNT+ HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/aede269f3d3925aaec921b45714b9bf8/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB RC Lens vs Sporting CP | Football | DAZN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/90c51b2fa29b392ba99fdc8a04e02301/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB RC Lens vs Sporting CP | Football | ARENA SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/8e9ebd44fd87cb737846bbceddbbbe0c/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB RC Lens vs Sporting CP | Football | ZIGGO SPORT HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/72daf7bd23d3c31e963702f8ed09e135/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB RC Lens vs Sporting CP | Football | CANAL+ SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/aa94c2688d5e9d80b7e820dc5fc4f0ac/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB RC Lens vs Sporting CP | Football | SonyLiv | Gvision TV
+https://sonymtmnew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB RC Lens vs Sporting CP | Football | Live 2 | Gvision TV
+https://www.rtmpcdn.com/live/6683df5e-b1a0-4833-970d-756f530bea18.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB Sabah FK vs SK Slavia Praha | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf3ca9dfdd220846534578d88622d97d:7ce518f3de991da7be500f8458b7d6bb
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/mfm0oerz72/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB Sabah FK vs SK Slavia Praha | Football | STAN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/4057f8a17a2ed443be386f9313363890/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB Sabah FK vs SK Slavia Praha | Football | PARAMOUNT+ HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/e2a225fb776182522f012d64978e7761/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB Sabah FK vs SK Slavia Praha | Football | DAZN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/2a7c1758eac7765117c59ed96a89ada3/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB Sabah FK vs SK Slavia Praha | Football | ARENA SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/d3509e68fddfbb64da3d78fa73f1cb6e/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB Sabah FK vs SK Slavia Praha | Football | ZIGGO SPORT HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/70f56dc6f848eb8a2d1989690d9603c4/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB Sabah FK vs SK Slavia Praha | Football | Live 2 | Gvision TV
+https://www.rtmpcdn.com/live/77821c7a-a46b-46ed-b327-57c62acbbddf.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0b448bdb-ec89-40dd-b2d8-f0c089e7248f/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Cricket Highlights-WCL 2026: India vs West Indies - 19th Match  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc23bbae-312c-498d-a861-9e646bdd67cb/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",World Championship of Legends 2026 - 15th Match - India Champions vs West Indies Champions  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07d2bdb28f769642674f06186e07dc80:b6f46ea24ca3841dde63374caa5ecef6
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uo8lwqdfwk/out/v1/b95d78252fc94504963d13fbe22d6f1d/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cffd1013-2f10-47e4-b5d1-1f382496ba20/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Atlanta Open T20 2026 - 3rd Mtach - Atlanta Lightning vs Bay Blazers  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e52f136a486820c3bedeea6869903ab:f272649ec1b7f44198a62f01da0e38a3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1aff7eec-1af3-4f98-b32d-1ae28480d28b/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Atlanta Open T20 2026 - 2nd Match - Prime Gladiators vs Atlanta Force  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcf31af4fb00661a299fdd2769191c3e:27227e5d96926d6b3e6440c3b99d6ab4
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fnawicszul/out/v1/efbf92d134d94e49abb48edc39785952/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b719baa2-6bec-4a46-8c30-ed697705c000/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d8c7a199d1d3201edcd77ad23a56636:4ef990a3da8025ede81e8b2dbe158eee
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.072ebbaf-920a-40ee-9d04-e459c0f506c6/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Germany vs. Japan  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810253859132_KHC_promo_landscape_thumb_simulcast.jpg" group-title="Live Event: Sony Liv 1",Kon Honaar Crorepati | Kon Honaar Crorepati | MAR | Sony Liv | Gvision TV
+https://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E2_11310/MAR/std_lrh-800300010.m3u8?hdnea=exp=1791927821~acl=/*~id=80833861588108440878435364309951~hmac=99669421026220ee55cbf288cd22cfe47e31cbd790befc0f95351c976036632f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dd15a52d6359cf8369f0f4f4b81f8c80-1791905401750
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023823/1789112795931380_KBC_S18_simulcast_11sep_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Kaun Banega Crorepati | Kaun Banega Crorepati | HIN | Sony Liv | Gvision TV
+https://sonymtmnew.akamaized.net/hls/live/2022321/kbc181310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791927821~acl=/*~id=80833861588108440878435364309951~hmac=99669421026220ee55cbf288cd22cfe47e31cbd790befc0f95351c976036632f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dd15a52d6359cf8369f0f4f4b81f8c80-1791905401750
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665683051503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Namma Bengaluru Smashers vs Delhi Dynamites | Volleyball Championship League 2026 | ENG | Sony Liv | Gvision TV
+https://sonymtmnew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791927821~acl=/*~id=80833861588108440878435364309951~hmac=99669421026220ee55cbf288cd22cfe47e31cbd790befc0f95351c976036632f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dd15a52d6359cf8369f0f4f4b81f8c80-1791905401750
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665683051503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Namma Bengaluru Smashers vs Delhi Dynamites | Volleyball Championship League 2026 | HIN | Sony Liv | Gvision TV
+https://sonymtmnew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791927821~acl=/*~id=80833861588108440878435364309951~hmac=99669421026220ee55cbf288cd22cfe47e31cbd790befc0f95351c976036632f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dd15a52d6359cf8369f0f4f4b81f8c80-1791905401750
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026134/1791662536266703_APL26_Chola_Chiefs_vs_Kakatiya_Knights_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Chola Chiefs vs Kakatiya Knights | Archery Premier League 2026 | ENG | Sony Liv | Gvision TV
+https://sonymtmnew.akamaized.net/hls/live/2120303/Archery_1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791927821~acl=/*~id=80833861588108440878435364309951~hmac=99669421026220ee55cbf288cd22cfe47e31cbd790befc0f95351c976036632f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dd15a52d6359cf8369f0f4f4b81f8c80-1791905401750
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025826/179109030000422_UYL26_Villarreal_vs_Napoli_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Villarreal vs Napoli | UEFA Youth League 2026-27 | ENG | Sony Liv | Gvision TV
+https://sonymtmnew.akamaized.net/hls/live/2022316/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791927821~acl=/*~id=80833861588108440878435364309951~hmac=99669421026220ee55cbf288cd22cfe47e31cbd790befc0f95351c976036632f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dd15a52d6359cf8369f0f4f4b81f8c80-1791905401750
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&amp;s=10" group-title="Live Event: CFY",22:30 WIB WCL World Championship of Legends | Cricket | WILLOW - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07d2bdb28f769642674f06186e07dc80:b6f46ea24ca3841dde63374caa5ecef6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uo8lwqdfwk/out/v1/b95d78252fc94504963d13fbe22d6f1d/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&amp;s=10" group-title="Live Event: CFY",22:30 WIB WCL World Championship of Legends | Cricket | FANCODE - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&amp;s=10" group-title="Live Event: CFY",22:30 WIB WCL World Championship of Legends | Cricket | STARZPLAY - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
+https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&amp;s=10" group-title="Live Event: CFY",22:30 WIB WCL World Championship of Legends | Cricket | WILLOW - ALT | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07d2bdb28f769642674f06186e07dc80:b6f46ea24ca3841dde63374caa5ecef6
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uo8lwqdfwk/out/v1/b95d78252fc94504963d13fbe22d6f1d/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&amp;s=10" group-title="Live Event: CFY",22:30 WIB WCL World Championship of Legends | Cricket | WILLOW HD | Gvision TV
+https://df3xownvf1f4t.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/willow_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",23:45 WIB RC Lens vs Sporting CP | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e769be6519e4b0e4fd5099357ecc147c:fea0e2b7fd2b1f07588132d56fe078eb
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/sbi880xife/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",23:45 WIB RC Lens vs Sporting CP | Football | STAN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/863a4f6350b6058ec7191aef2b169519/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",23:45 WIB RC Lens vs Sporting CP | Football | PARAMOUNT+ HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/aede269f3d3925aaec921b45714b9bf8/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",23:45 WIB RC Lens vs Sporting CP | Football | DAZN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/90c51b2fa29b392ba99fdc8a04e02301/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",23:45 WIB RC Lens vs Sporting CP | Football | ARENA SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/8e9ebd44fd87cb737846bbceddbbbe0c/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",23:45 WIB RC Lens vs Sporting CP | Football | ZIGGO SPORT HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/72daf7bd23d3c31e963702f8ed09e135/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",23:45 WIB RC Lens vs Sporting CP | Football | CANAL+ SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/aa94c2688d5e9d80b7e820dc5fc4f0ac/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",23:45 WIB RC Lens vs Sporting CP | Football | SonyLiv | Gvision TV
+https://sonymtmnew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",23:45 WIB RC Lens vs Sporting CP | Football | Live 2 | Gvision TV
+https://www.rtmpcdn.com/live/6683df5e-b1a0-4833-970d-756f530bea18.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/267828/image" group-title="Live Event: CFY",23:45 WIB Sabah FK vs SK Slavia Praha | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf3ca9dfdd220846534578d88622d97d:7ce518f3de991da7be500f8458b7d6bb
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/mfm0oerz72/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/267828/image" group-title="Live Event: CFY",23:45 WIB Sabah FK vs SK Slavia Praha | Football | STAN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/4057f8a17a2ed443be386f9313363890/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/267828/image" group-title="Live Event: CFY",23:45 WIB Sabah FK vs SK Slavia Praha | Football | PARAMOUNT+ HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/e2a225fb776182522f012d64978e7761/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/267828/image" group-title="Live Event: CFY",23:45 WIB Sabah FK vs SK Slavia Praha | Football | DAZN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/2a7c1758eac7765117c59ed96a89ada3/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/267828/image" group-title="Live Event: CFY",23:45 WIB Sabah FK vs SK Slavia Praha | Football | ARENA SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/d3509e68fddfbb64da3d78fa73f1cb6e/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/267828/image" group-title="Live Event: CFY",23:45 WIB Sabah FK vs SK Slavia Praha | Football | ZIGGO SPORT HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/70f56dc6f848eb8a2d1989690d9603c4/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/267828/image" group-title="Live Event: CFY",23:45 WIB Sabah FK vs SK Slavia Praha | Football | Live 2 | Gvision TV
+https://www.rtmpcdn.com/live/77821c7a-a46b-46ed-b327-57c62acbbddf.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/71044/image" group-title="Live Event: CFY",23:00 WIB Al Seeb SC vs Al-Hussein Irbid | Football | HD SERVER | Gvision TV
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/39733/image" group-title="Live Event: CFY",23:00 WIB Al-Sadd vs Al-Hilal | Football | HD SERVER | Gvision TV
+https://pull.streamviewk7x.click/livesp/sd-6Mxj4TCUxYcWhb11iS_autosp.m3u8?txSecret=fb6f6875308d4961ce1cc2ad141e96db&txTime=6ACFA700
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/39733/image" group-title="Live Event: CFY",23:00 WIB Al-Sadd vs Al-Hilal | Football | BACKUP HD | Gvision TV
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/8/BOXART-16X9/en-US._UR1920-1080_.jpeg" group-title="Live Event: Willow",Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh  | Willow | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637/9/BOXART-16X9/en-US._UR1920-1080_.jpeg" group-title="Live Event: Willow",Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia  | Willow | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7578716f99caa689b9a4d2bdce753651:24d34e5d771ed71f519c8f8e971c3bd8
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bqgyjksfjy/out/v1/7c68c890bd454021b45b3e0eb90cdf03/cenc.mpd
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cdc9cd37-d91c-4bfd-98de-3dca55bce2e8/3/BOXART-16X9/en-US._UR1920-1080_.jpeg" group-title="Live Event: Willow",World Championship of Legends 2026 - 14th Match -  South Africa Champions vs England Champions  | Willow | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f68ee17bb04e91269fe9b7aa25638467:ea4b416e8694fa1dcf92e3b4b318c7d8
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",VICTOR Denmark Open 2026 | Court 1 | Huya | Gvision TV
+http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",VICTOR Denmark Open 2026 | Court 2 | Huya | Gvision TV
+http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805929
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",Denmark Open | Court 1 | XOILACZ | Gvision TV
+https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=4d9a4cf43bc162f7cebc248705cf1ae7&wsABSTime=1791903388
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",Denmark Open | Court 2 | XOILACZ | Gvision TV
+https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=4d9a4cf43bc162f7cebc248705cf1ae7&wsABSTime=1791903388
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",Denmark Open | Court 3 | XOILACZ | Gvision TV
+https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=4d9a4cf43bc162f7cebc248705cf1ae7&wsABSTime=1791903388
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="live event: fawa",[Africa Cup of Nations Qualification] Central Africa vs Burkina Faso 1 Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -259,7 +477,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png" group-title="Nasional",SCTV (V)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png" group-title="Nasional",SCTV (V1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -268,11 +486,14 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=204
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png" group-title="Nasional",SCTV (V2)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=204
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png" group-title="Nasional",SCTV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=sctv
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=sctv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="Nasional",RCTI
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -282,7 +503,7 @@ http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=sctv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
-#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" group-title="Nasional",ANTV
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" group-title="Nasional",ANTV (V1)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -294,13 +515,16 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=http://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=782
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" group-title="Nasional",ANTV (V1)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=782
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (DIGI1)
 https://ogietv.biz.id:443/Dimas01/bara01/1310.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (DIGI2)
 https://ogietv.biz.id:443/Dimas01/bara01/1312.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (DTK)
-http://gvisiontv.channell.my.id/ch/id/trans.php/.m3u8?ch=transtv
+http://gvisiontv2.channell.my.id/ch/id/trans.php/.m3u8?ch=transtv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7 (DIGI1)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -309,7 +533,7 @@ https://ogietv.biz.id:443/Dimas01/bara01/1313.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7 (DIGI2)
 https://ogietv.biz.id:443/Dimas01/bara01/1315.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7 (DTK)
-http://gvisiontv.channell.my.id/ch/id/trans.php/.m3u8?ch=trans7
+http://gvisiontv2.channell.my.id/ch/id/trans.php/.m3u8?ch=trans7
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="Nasional",MOJI (V)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -319,39 +543,39 @@ http://gvisiontv.channell.my.id/ch/id/trans.php/.m3u8?ch=trans7
 #EXTVLCOPT:http-referrer=http://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=206
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=206
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="Nasional",MOJI (OXY)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=moji
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=moji
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="Nasional",MOJI (DN)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite&chname=Moji
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (LIVE)
-http://gvisiontv.channell.my.id/ch/id/mdtvnow1.php/.m3u8
+http://gvisiontv2.channell.my.id/ch/id/mdtvnow1.php/.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (OXY)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=nettv-hd
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=nettv-hd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (DN)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=875
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=875
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rtv.png" group-title="Nasional",RTV (DN)
 #EXTVLCOPT:http-referer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;jmnuserid=lite&amp;chname=RTV
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rtv.png" group-title="Nasional",RTV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=rtv
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=rtv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rtv.png" group-title="Nasional",RTV (LIVE)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -362,25 +586,28 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1148
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rtv.png" group-title="Nasional",RTV (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=1561
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_indosiar.png" group-title="Nasional",INDOSIAR (V)
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=1561
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_indosiar.png" group-title="Nasional",INDOSIAR (V1)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=205
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_indosiar.png" group-title="Nasional",INDOSIAR (V2)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=205
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_indosiar.png" group-title="Nasional",INDOSIAR (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=indosiar
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=indosiar
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnnindonesia.png" group-title="Nasional",CNN Indonesia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
-http://gvisiontv.channell.my.id/ch/id/trans.php/.m3u8?ch=cnn
+http://gvisiontv2.channell.my.id/ch/id/trans.php/.m3u8?ch=cnn
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oXUlkWZEek-aVRktTmJ0ztMGmV2y4VF0FCIhsNC5EQ&s=10" group-title="Nasional",CNBC Indonesia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-http://gvisiontv.channell.my.id/ch/id/trans.php/.m3u8?ch=cnbc
+http://gvisiontv2.channell.my.id/ch/id/trans.php/.m3u8?ch=cnbc
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png" group-title="Nasional",TVONE (DN)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -394,10 +621,10 @@ http://gvisiontv.channell.my.id/ch/id/trans.php/.m3u8?ch=cnbc
 http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png" group-title="Nasional",TVONE (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=tvone
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=tvone
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png" group-title="Nasional",TVONE (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=783
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=783
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_metrotv.png" group-title="Nasional",METRO TV (DN)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -408,13 +635,13 @@ http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=783
 http://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_metrotv.png" group-title="Nasional",METRO TV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=metrotv
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=metrotv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_metrotv.png" group-title="Nasional",METRO TV (WWT)
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.7 (Linux;Android 8.1.0) ExoPlayerLib/2.13.2
 http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1048
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_metrotv.png" group-title="Nasional",METRO TV (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=777
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=777
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zZkqJj5qCgswMA-ZjFUudUQJEL_nSbKnix5YojYTGw&s=10" group-title="Nasional",BN CHANNEL (WWT)
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.7 (Linux;Android 8.1.0) ExoPlayerLib/2.13.2
 http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1122
@@ -426,14 +653,14 @@ http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1122
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png" group-title="Nasional",iNEWS (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=inews
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=inews
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_kompastv.png" group-title="Nasional",KOMPAS TV (DN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_kompastv.png" group-title="Nasional",KOMPAS TV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=kompastv
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=kompastv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_nusantaratv.png" group-title="Nasional",NUSANTARA TV (DN)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -451,7 +678,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_nusantaratv.png" group-title="Nasional",NUSANTARA TV (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=7432
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=7432
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_iLhHpZUSH5ILUspGXMyv6DLT4dBVXOE2DwtDXVEHMg&s=10" group-title="Nasional",GARUDA TV (LIVE)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -464,18 +691,18 @@ https://d1zhs9dfs6uqpg.cloudfront.net/hls/7NNI48TC/7NNI48TC.m3u8
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1j9Vhek9O3Aw2KYJBUK5sqw7WTH195yagxBFypBWRQ&s=10" group-title="Nasional",Oxygen TV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=oxygentv
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=oxygentv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (LIVE)
-http://gvisiontv.channell.my.id/ch/id/daai.m3u8
+http://gvisiontv2.channell.my.id/ch/id/daai.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (DN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h16/index.m3u8?app_type=web&userid=lite&chname=DAAI_TV
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=daaitv
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=daaitv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=6482
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=6482
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_btv.png" group-title="Nasional",BTV (DN)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
@@ -491,7 +718,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=l
 http://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_btv.png" group-title="Nasional",BTV (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=6165
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=6165
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg" group-title="Nasional",Berita Satu (DN)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -512,30 +739,30 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=tvri
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=tvri
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" group-title="Nasional",TVRI (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=6441
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=6441
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" group-title="Nasional",TVRI (LIVE)
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="Nasional",TVRI SPORT
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=tvrisport
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=tvrisport
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg" group-title="Nasional",TVRI WORLD (LIVE)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg" group-title="Nasional",TVRI WORLD (OXY)
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=tvriworld
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=tvriworld
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg" group-title="Nasional",SIN PO TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=sinpotv
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=sinpotv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxedX4yS-4XhyUfJlsi5FmHfos7iVuZvuBMeLwoHG5hg&s=10" group-title="Nasional",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" group-title="Nasional",Mentari TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=8237
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=8237
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Uih7rCesQQ6wlvUOWGFne2czdRFLQATmU1okbJ9aGQ&s=10" group-title="Nasional",MAGNA Channel (DN)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
@@ -586,7 +813,7 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_jtv.png" group-title="DAERAH",JTV (V) | Surabaya
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=9713
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=9713
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Xpy6aJPk6VQh3TtblFrFcED6XfEmcycb7pAvBrlVOQ&s=10" group-title="DAERAH",JTV | Kediri
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXLUWiBllarKsFrPVAYVA5g7PYPjBmW2XEVZ-D3WLnuFZ-ivhfR02PDVRaDNPT9KONvEatw4g8FEGEvHYEr_aQnqbXlLejgEnFljJdg&s=10" group-title="DAERAH",BMS TV | Banyumas
@@ -600,7 +827,7 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=9714
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=9714
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_jawapos.png" group-title="DAERAH",Jawa Pos TV (LIVE) | Surabaya
 https://63b2dc7196c38.streamlock.net:1937/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy-NJa1G-Fm4TRqHNR7MNq_wUEE93EhEhakdh5cLq8kQ&s=10" group-title="DAERAH",TV Tabalong | Tabalong
@@ -663,7 +890,7 @@ http://op-flashcon-digdayasd-1.dens.tv/h/h209/stream.m3u8?app_type=web&userid=li
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=5415
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=5415
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKkQuzgBQ8AXj3WOiyxjyKPr2M2jp6xLIW5LrFijznQ&s=10" group-title="DAERAH",KTV | Jakarta
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
@@ -674,14 +901,14 @@ http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=5415
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=ktv
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=ktv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyctx470LFHo6ArxAA1JRqrs7MIZHwA9TGR9sKV6K5sT5R2l44qKY3xTc&s=10" group-title="DAERAH",ELSHINTA TV (DN) | Jakarta
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-flashcon-digdayasd-1.dens.tv/h/h216/stream.m3u8?app_type=web&userid=lite&chname=Elshinta_TV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyctx470LFHo6ArxAA1JRqrs7MIZHwA9TGR9sKV6K5sT5R2l44qKY3xTc&s=10" group-title="DAERAH",ELSHINTA TV (V) | Jakarta
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=10975
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=10975
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C510BAQGxAiCCQ0R_Yg/company-logo_200_200/company-logo_200_200/0/1630607250063?e=2147483647&v=beta&t=9pA_cApHVxMn8MSw_S2xhpT_AG4FfC1WK2ZCbnn8OGw" group-title="DAERAH",Efarina TV | Sumatera Utara
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3fkSvTC7p2iRg2HZrYVvTkyv4qwNMcyYqPeJCFzrFA&s=10" group-title="DAERAH",UGTV | Depok
@@ -718,7 +945,7 @@ https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzPSqZw860lx6paf4OQAfscUyrlMs3akcznqb7k6vg2Q&s" group-title="DAERAH",Batam TV | Batam | Ga 24 Jam
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM0gFmKsKjdjWvC60aWqWcJ7lTEjzYKv3PlM7zMgoaYg&s" group-title="DAERAH",Padang TV | Twitch | Padang | Ga 24 Jam
-http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=padang_tv
+http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=padang_tv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM0gFmKsKjdjWvC60aWqWcJ7lTEjzYKv3PlM7zMgoaYg&s" group-title="DAERAH",Padang TV | Live | Padang | Ga 24 Jam
 http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJmhiJQ8V94S7dK_wENAfxjGqkAwh2a29NuiuFzx7CNA&s=10" group-title="DAERAH",Kilisuci TV | Kediri | Ga 24 Jam
@@ -878,7 +1105,7 @@ http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1008
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://gvisiontv.channell.my.id/ch/ph/kix.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/kix.php/.mpd
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://images.indihometv.com/images/channels/image_ch_kbsworld.png" group-title="MOVIES & ENTERTAINMENT",KBS WORLD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
@@ -977,7 +1204,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C6AB65CE-37A0-4040-ABA7-021C669DBEE1/0-1x1.jpg?width=320" group-title="MOVIES & ENTERTAINMENT",Lotus Macau
-http://gvisiontv.channell.my.id/ch/ph/lotus.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/lotus.php/.mpd
 #EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/12/MrBeast-youtube-logo.jpg" group-title="MOVIES & ENTERTAINMENT",Mr Beast
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
@@ -996,7 +1223,7 @@ https://live-manifest.production-public.tubi.io/live/e8f55e68-0e26-44f2-afac-c13
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=6784
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=6784
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_arirang.png" group-title="MOVIES & ENTERTAINMENT",Arirang (LIVE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
@@ -1004,10 +1231,10 @@ http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=6784
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_arirang.png" group-title="MOVIES & ENTERTAINMENT",Arirang (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=arirangworld
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=arirangworld
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_arirang.png" group-title="MOVIES & ENTERTAINMENT",Arirang (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=6784
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=6784
 #EXTINF:-1 tvg-logo="" group-title="MOVIES & ENTERTAINMENT",HBO Comedy Mexico
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1354,7 +1581,7 @@ https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=cgtndocumentary
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=cgtndocumentary
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_cgtndocumentary.png" group-title="KNOWLEDGE & LIFESTYLE",CGTN Documentary (LIVE)
 http://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRVjaEIHCBqi6mEgkr3eF76YA6BpUMDZcirI34P8dDMEQNqpCup6-fAHs&s=10" group-title="KNOWLEDGE & LIFESTYLE",CGTN GLOBAL BIZ
@@ -1577,7 +1804,7 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV4.png" group-title="KNOWLEDGE & LIFESTYLE",CCTV4 (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=cctv4asia
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=cctv4asia
 #EXTINF:-1 tvg-logo="https://tv.odido.nl/CPS/images/universal/film/logo/202207/20220705/13/20220705064035648ggp.png" group-title="KNOWLEDGE & LIFESTYLE",TLC
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1614,7 +1841,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=lit
 http://op-flashcon-digdayahd-1.dens.tv/h/h312/index.m3u8?app_type=web&userid=lite&chname=TV5MONDE_ASIE
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tv5monde.png" group-title="KNOWLEDGE & LIFESTYLE",TV5Monde (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=tv5monde
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=tv5monde
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCwY6zBSiMC5qVKl49fgTsGPaa26_D6h3movHHcSo3Q&s=10" group-title="KNOWLEDGE & LIFESTYLE",tv5monde STYLE
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -1631,7 +1858,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h43/index.m3u8?app_type=web&userid=lite
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_aljazeera.png" group-title="News",Al Jazeera English (V)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=6410
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=6410
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_aljazeera.png" group-title="News",Al Jazeera Arabic (DN)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -1646,34 +1873,34 @@ https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_chinesenewsasia.png" group-title="News",Channel News Asia
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=channelnewsasia
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=channelnewsasia
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_dwtv.png" group-title="News",DW (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=dwenglish
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=dwenglish
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_dwtv.png" group-title="News",DW (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=7150
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=7150
 #EXTINF:-1 tvg-logo="" group-title="News",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_france24.png" group-title="News",France24
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=france24
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=france24
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DCG-bJNyuLTksVHrqarPTAtwvco=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12784/b75a42.png" group-title="News",Africanews
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=12784
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=12784
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_euronews.png" group-title="News",Euronews (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=euronewsasia
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=euronewsasia
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_euronews.png" group-title="News",Euronews (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=6412
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=6412
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdzMq4Vh/20260304-060630.jpg" group-title="News",CNBC asia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e7c10b448444c53904de46d1a30f427:d638c2cb75ff93d38b5ec8b6f5098dea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=http://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=cnbc
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=cnbc
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnninter.png" group-title="News",CNN INTERNATIONAL
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="News",RT NEWS (LIVE)
@@ -1696,7 +1923,7 @@ https://stream.skynewsarabia.com/ott/ott.m3u8
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_abcaustrlia.png" group-title="News",ABC AUSTRALIA (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=7150
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=7150
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr74w-J71h9R8i7wfs4Q7rLY12v6F-7Y2QGvYTWxkKng&s=10" group-title="News",VOA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1710,7 +1937,7 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=bloomberg
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=bloomberg
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_nhkworldjapan.png" group-title="News",NHK World Japan (DN)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c2c7834abd740669637bc4b029c9aee:2f7808671f1a6f63ebd86850d8d7cc5f
@@ -1767,7 +1994,7 @@ https://wurljansonmedia.global.transmit.live/hls/69029561e0b3f0f215eef867/playli
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_cartoonito.png" group-title="KIDS",CARTOONITO (TH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=302
+http://gvisiontv2.channell.my.id/ch/th/th1.php/.mpd?=302
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_cartoonito.png" group-title="KIDS",CARTOONITO (WWT)
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.7 (Linux;Android 8.1.0) ExoPlayerLib/2.13.2
 http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1012
@@ -1841,7 +2068,7 @@ https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea2
 https://tglmp03.akamaized.net/out/v1/a3992c3d704443c991a8586e01a4cc1c/manifest.mpd
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" group-title="KIDS",Mentari TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=8237
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=8237
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjTHS6lPYPUFMfc6_50jyD_Z8D9cG17pxzKFh13uE5OQ&s=10" group-title="KIDS",Discovery Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
@@ -1980,7 +2207,7 @@ https://stream.carubantv.id/hls/stream.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=7619
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=7619
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbCPljyCt4ixQ3vtf2MJGb_VtJpbfCN4IQQkyWLOG0ng&s=10" group-title="MUSIC",MIC TV
 https://mic.siar.us/mic/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eR3W6Vt.png?v=1.0.0.1" group-title="MUSIC",Trace Urban
@@ -2074,23 +2301,23 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=lofigirl
+http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=lofigirl
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEn3EJIZY8EjaWd73IkMpx4Q0cAebH5dUZnsP5Hph3Q&s=10" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEn3EJIZY8EjaWd73IkMpx4Q0cAebH5dUZnsP5Hph3Q&s=10" group-title="MUSIC",Leek Beats
-http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=leekbeats
+http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=leekbeats
 #EXTINF:-1 tvg-logo="https://cdn-images.dzcdn.net/images/playlist/18b3a9c489fcee1af23740fdc6c7c6f8/1900x1900-000000-80-0-0.jpg" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://cdn-images.dzcdn.net/images/playlist/18b3a9c489fcee1af23740fdc6c7c6f8/1900x1900-000000-80-0-0.jpg" group-title="MUSIC",Chill Hop Radio
-http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=chillhopradio
+http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=chillhopradio
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQh3ELLR0OpH01pWKhe498wzjnTBVqPkrQ_gZPdgqyZo6cpoI-U" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQh3ELLR0OpH01pWKhe498wzjnTBVqPkrQ_gZPdgqyZo6cpoI-U" group-title="MUSIC",Relax Beats
-http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=relaxbeats
+http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=relaxbeats
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAAB2Yz_huDtzi4oNuCc8US6BKa-idd17pn3XVYADQ0w&s" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAAB2Yz_huDtzi4oNuCc8US6BKa-idd17pn3XVYADQ0w&s" group-title="MUSIC",Chilledcat Music
-http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=chilledcat_music
+http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=chilledcat_music
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2c87a96a-c480-440b-ab12-0923e332cf57-profile_image-300x300.png" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2c87a96a-c480-440b-ab12-0923e332cf57-profile_image-300x300.png" group-title="MUSIC",Starlight Slumber
-http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=starlightslumber
+http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=starlightslumber
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000478590135-h0nljf-t500x500.jpg" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://i1.sndcdn.com/artworks-000478590135-h0nljf-t500x500.jpg" group-title="MUSIC",Haru Haru Asmr
-http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=haruharuasmr
+http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=haruharuasmr
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8baa958f-154e-442b-8806-8f9343283f9a-profile_image-300x300.png" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8baa958f-154e-442b-8806-8f9343283f9a-profile_image-300x300.png" group-title="MUSIC",Japan Asmr
-http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=japan_asmr
+http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=japan_asmr
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273309029cb2b165f13f55b2919" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://i.scdn.co/image/ab67616d0000b273309029cb2b165f13f55b2919" group-title="MUSIC",Kipas Angin ASMR
-http://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=relaxingfan
+http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=relaxingfan
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8GzR3hT/Krone-Hit-TV.jpg" group-title="MUSIC",tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/K8GzR3hT/Krone-Hit-TV.jpg" tvg-name="KroneHit TV | (1080p) (AT) (TizTV)"  group-title="MUSIC",KroneHit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xqZPGux6KeyTnCJf28ssXJdwfPX08BccxFih30MbAIq6nUBhvY7R544MYoT_O-00gGUa--GC9Q=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC",Persiana Music
@@ -2148,7 +2375,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://flv.intechmedia.net/live/ch14.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu7P3S47vsKEn29qFb3oARbDas-d9JICj3qwWbzJRbw&s=10" group-title="Religion: ISLAM",Quran TV (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=6852
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=6852
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3HvdUarMcpFVGr_mVoWCiHiXOGqET1IXHVs1uTv6hjNFp4z3Y" group-title="Religion: ISLAM",Sunna TV (YTV)
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch13.m3u8
@@ -2171,12 +2398,12 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8?app_type=web&userid=lite&chname=RodjaTV
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rodjatv.png" group-title="Religion: ISLAM",Rodja TV (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=rodjatv
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=rodjatv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_DMITV-180x180_2025_11_06_11_00_00.jpg" group-title="Religion: ISLAM",DMI TV (LIVE)
 https://tvstreamcast.com/tawaftv.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_DMITV-180x180_2025_11_06_11_00_00.jpg" group-title="Religion: ISLAM",DMI TV (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=12607
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=12607
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJt8FaS-ndPk54itlcQM0ok9g4Hl7iFCUtCG9MGD8T4g&s=10" group-title="Religion: ISLAM",TV10 | Ga 24 Jam
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tv9.png" group-title="Religion: ISLAM",TV9 NU (LIVE)
@@ -2196,10 +2423,10 @@ https://e.siar.us/live/tvmu.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=http://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=7464
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=7464
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQ0DHlejXf0c--WXmbUldYWmQwXWf5-RnXT5-IukuPg&s=10" group-title="Religion: ISLAM",SALAM TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=salamtv
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=salamtv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsVzy3db24Yz74efVtgIWAKuxuCdR_KZRaQioAM60xw&s=10" group-title="Religion: ISLAM",INSAN TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch1.m3u8
@@ -2248,7 +2475,7 @@ https://nl.livekadeh.com/hls2/velayattv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aCFpuzW.png" group-title="Religion: ISLAM",TV Muslim Thailand
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/2C55AD7F-3589-48DA-BEC4-005200215975/0-1x1.jpg?width=320" group-title="Religion: KRISTEN",TV Maria
-http://gvisiontv.channell.my.id/ch/ph/maria.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/maria.php/.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbycBCYgIgI3h-ZICTPy8ooaxVl-ETL2XjZUcZ9LSIA&s=10" group-title="Religion: KRISTEN",Angel TV Indonesia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=08e5cf90e8c04a7fa90f5c126768b239:b9406a99b9ea4b07149ecc582faf2613
@@ -2256,18 +2483,18 @@ http://gvisiontv.channell.my.id/ch/ph/maria.php/.mpd
 http://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_uchannel.png" group-title="Religion: KRISTEN",UChannel (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=uchannel
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=uchannel
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_uchannel.png" group-title="Religion: KRISTEN",UChannel (WWT)
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.7 (Linux;Android 8.1.0) ExoPlayerLib/2.13.2
 http://wwhomeindo.wewatch.asia/nn_live.m3u8?id=1165
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_uchannel.png" group-title="Religion: KRISTEN",UChannel (V)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://liveloveyou.my.id/gvision/v.php/stream.mpd?id=6898
+http://gvisiontv2.channell.my.id/ch/id/v.php/stream.mpd?id=6898
 #EXTINF:-1 tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/a884e62071548b2c23a8.png" group-title="Religion: KRISTEN",HOPE CHANNEL
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://gvisiontv.channell.my.id/ch/id/oxy2.php/.m3u8?id=hope
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=hope
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyjQ06lJjc-ekyMKv4ByNQK2Fwug8dQyUerAiyHny5FQ&s" group-title="Religion: KRISTEN",TBN ASIA
-http://gvisiontv.channell.my.id/ch/ph/tbnasia.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/tbnasia.php/.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yLxH1fK/tbnuk.png" group-title="Religion: KRISTEN",TBN UK
 https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzEiufvi5PsLBGCQQabEA0ziKs_OLUyCGx1-utKvSTew&s=10" group-title="Religion: KRISTEN",TBN Nejat Iran
@@ -2356,7 +2583,7 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-logo="https://e0.365dm.com/18/05/768x432/skysports-mutv-ass_4298872.jpg" group-title="CLUB BOLA",MUTV | Server 1
 https://get.perfecttv.net/mutv.mpd
 #EXTINF:-1 tvg-logo="https://e0.365dm.com/18/05/768x432/skysports-mutv-ass_4298872.jpg" group-title="CLUB BOLA",MUTV | Server 2
-http://gvisiontv.channell.my.id/ch/th/sbs.php/.m3u8?ch=mutv
+http://gvisiontv2.channell.my.id/ch/th/sbs.php/.m3u8?ch=mutv
 #EXTINF:-1 tvg-logo="https://cdn-2.motorsport.com/images/amp/YMd9ENV2/s6/motogp-logo-2.jpg" group-title="ALL SPORTS🔥",MotoGP TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
@@ -2576,87 +2803,87 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw3WfagodGb5rH6YNgxse0nRq7JMvb3Ac0NCPReJ3Clw&s" group-title="SPORTS FILIPINA   ",ONE Sports
-http://gvisiontv.channell.my.id/ch/ph/ones.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/ones.php/.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsG6PgcdcU6Ked5eoWUSjFB9rhTbElQtALBXp6uNTcw&s" group-title="SPORTS FILIPINA   ",TAP Sports | CG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsG6PgcdcU6Ked5eoWUSjFB9rhTbElQtALBXp6uNTcw&s" group-title="SPORTS FILIPINA   ",TAP Sports | CV
-http://gvisiontv.channell.my.id/ch/ph/taps.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/taps.php/.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWmzl4C9qJv1mfODCOQzGjNLXxKBX_UCevUY62ljt2KQ&s" group-title="SPORTS FILIPINA   ",Premier Sports
-http://gvisiontv.channell.my.id/ch/ph/premiers.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/premiers.php/.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ61Ifz3RNezWniTpAcP1JjqQbYVqHL8MSs87UNsPbT4g&s=10" group-title="SPORTS FILIPINA   ",Edge Sport
-http://gvisiontv.channell.my.id/ch/ph/edges.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/edges.php/.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="SPORTS FILIPINA   ",Solar Sports
-http://gvisiontv.channell.my.id/ch/ph/solars.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/solars.php/.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWG1ZIxgAdeiY7OLldbWcSzA08cVdDJxTQpuogYyEVg&s=10" group-title="SPORTS FILIPINA   ",RPTV | Event Only
-http://gvisiontv.channell.my.id/ch/ph/rptv.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/rptv.php/.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="SPORTS FILIPINA   ",GTV | Event Only
-http://gvisiontv.channell.my.id/ch/ph/gtv.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/gtv.php/.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="SPORTS FILIPINA   ",PTV4 | Event Only
-http://gvisiontv.channell.my.id/ch/ph/ptv4.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/ptv4.php/.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="SPORTS FILIPINA   ",A2Z | Event Only
-http://gvisiontv.channell.my.id/ch/ph/a2z.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/a2z.php/.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="SPORTS FILIPINA   ",Kapamilya Channel | Event Only
-http://gvisiontv.channell.my.id/ch/ph/kapamilya.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/kapamilya.php/.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="SPORTS FILIPINA   ",NET 25 | Event Only
-http://gvisiontv.channell.my.id/ch/ph/net25.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/net25.php/.mpd
 #EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="SPORTS FILIPINA   ",ALL TV | Event Only
-http://gvisiontv.channell.my.id/ch/ph/alltv.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/alltv.php/.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_spotv.png" group-title="SPORTS THAILAND  ",SPOTV TH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
-http://gvisiontv.channell.my.id/ch/th/sbs.php/.m3u8?ch=spotv1
+http://gvisiontv2.channell.my.id/ch/th/sbs.php/.m3u8?ch=spotv1
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_spotv2.png" group-title="SPORTS THAILAND  ",SPOTV 2 TH
-http://gvisiontv.channell.my.id/ch/th/sbs.php/.m3u8?ch=spotv2
+http://gvisiontv2.channell.my.id/ch/th/sbs.php/.m3u8?ch=spotv2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="SPORTS THAILAND  ",True Sports 1
-http://gvisiontv.channell.my.id/ch/th/sbs.php/.m3u8?ch=truesporthd1
+http://gvisiontv2.channell.my.id/ch/th/sbs.php/.m3u8?ch=truesporthd1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="SPORTS THAILAND  ",True Sports 2
-http://gvisiontv.channell.my.id/ch/th/sbs.php/.m3u8?ch=truesporthd2
+http://gvisiontv2.channell.my.id/ch/th/sbs.php/.m3u8?ch=truesporthd2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="SPORTS THAILAND  ",True Sports 5
-http://gvisiontv.channell.my.id/ch/th/sbs.php/.m3u8?ch=truesportsd5
+http://gvisiontv2.channell.my.id/ch/th/sbs.php/.m3u8?ch=truesportsd5
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="SPORTS THAILAND  ",True Sports 7
-http://gvisiontv.channell.my.id/ch/th/sbs.php/.m3u8?ch=truesportsd7
+http://gvisiontv2.channell.my.id/ch/th/sbs.php/.m3u8?ch=truesportsd7
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="SPORTS THAILAND  ",T Sports 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=7
+http://gvisiontv2.channell.my.id/ch/th/th1.php/.mpd?=7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png" group-title="SPORTS THAILAND  ",GMM25
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=25
+http://gvisiontv2.channell.my.id/ch/th/th1.php/.mpd?=25
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="SPORTS THAILAND  ",Mono 29
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=29
+http://gvisiontv2.channell.my.id/ch/th/th1.php/.mpd?=29
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="SPORTS THAILAND  ",ONE31 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=31
+http://gvisiontv2.channell.my.id/ch/th/th1.php/.mpd?=31
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png" group-title="SPORTS THAILAND  ",Ch8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=27
+http://gvisiontv2.channell.my.id/ch/th/th1.php/.mpd?=27
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png" group-title="SPORTS THAILAND  ",Workpoint TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=23
+http://gvisiontv2.channell.my.id/ch/th/th1.php/.mpd?=23
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png" group-title="SPORTS THAILAND  ",MCOT
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="SPORTS THAILAND  ",NBT2
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-thairath.png" group-title="SPORTS THAILAND  ",Thairath TV
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=32
+http://gvisiontv2.channell.my.id/ch/th/th1.php/.mpd?=32
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/amarin.png" group-title="SPORTS THAILAND  ",Amarin TV
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=34
+http://gvisiontv2.channell.my.id/ch/th/th1.php/.mpd?=34
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-ch3.png" group-title="SPORTS THAILAND  ",CH3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=33
+http://gvisiontv2.channell.my.id/ch/th/th1.php/.mpd?=33
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkBEztLJPPz8ZjF4VzTiKLX-Di7N0nCf4OPLBflut8JA&s" group-title="BEIN SPORTS",beIN Sports 1 AU
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
@@ -2751,7 +2978,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=http://www.visionplus.id/
-http://gvisiontv.channell.my.id/ch/th/sbs.php/.m3u8?ch=spotv1
+http://gvisiontv2.channell.my.id/ch/th/sbs.php/.m3u8?ch=spotv1
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_spotv2.png" group-title="SPOTV",SPOTV 2 PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
@@ -2763,7 +2990,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-referrer=http://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://gvisiontv.channell.my.id/ch/th/sbs.php/.m3u8?ch=spotv2
+http://gvisiontv2.channell.my.id/ch/th/sbs.php/.m3u8?ch=spotv2
 #EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/novasport1.jpg" group-title="NOVA & SPORT",Nova Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2947,7 +3174,7 @@ https://jmp2.uk/plu-649b6898f2ec0000081a9460.m3u8
 #KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
 #EXTVLCOPT:http-referrer=http://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 #EXTINF:-1 tvg-logo="" group-title="Fighting",-1 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtwtOq5GjO3nHxp2QSQvJfwSLnVoGxswQCZEq45TgfUw&s=10",Fight TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8c48bcf59acd57779977b83a41fac919/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697035676086_Swerve_Combat_Logo_260x147_Center_Align_White.png" group-title="Fighting",Swerve Combat
@@ -2992,7 +3219,7 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=29
+http://gvisiontv2.channell.my.id/ch/th/th1.php/.mpd?=29
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAML6E5PA-rYERAjz6gw9rrEPHPI-zGPIDtOWfLCo2dA&s" group-title="UEFA Nations League",PRIMA SPORTS 4
 #EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -3075,9 +3302,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=660a37a91aa00b7e2e0bc7dca349b982:3593a4a2bfbd7d9585efff083b769cf5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://gvisiontv.channell.my.id/ch/th/sbs.php/.m3u8?ch=truesportsd5
+http://gvisiontv2.channell.my.id/ch/th/sbs.php/.m3u8?ch=truesportsd5
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="🔵UFC👊🏻🥊",True Sports 7
-http://gvisiontv.channell.my.id/ch/th/sbs.php/.m3u8?ch=truesportsd7
+http://gvisiontv2.channell.my.id/ch/th/sbs.php/.m3u8?ch=truesportsd7
 #EXTINF:-1 tvg-logo="" group-title="🔵UFC👊🏻🥊",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/One%20Friday%20Fights%20Vs%20One%20Friday%20Fights.jpg" group-title="One Fight",One Fight
@@ -3110,7 +3337,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=29
+http://gvisiontv2.channell.my.id/ch/th/th1.php/.mpd?=29
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10" group-title="Premier League ⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿 ",TNT SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3305,7 +3532,7 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-xhttp://gvisiontv.channell.my.id/ch/untukos6vs/https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+xhttp://gvisiontv2.channell.my.id/ch/untukos6vs/https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10" group-title="Saudi Pro League ⚽🇸🇦 ",SPOTV PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
@@ -3313,7 +3540,7 @@ xhttp://gvisiontv.channell.my.id/ch/untukos6vs/https://d6m3sfa7e58z5.cloudfront.
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_spotv.png" group-title="Saudi Pro League ⚽🇸🇦 ",SPOTV TH
-http://gvisiontv.channell.my.id/ch/th/sbs.php/.m3u8?ch=spotv1
+http://gvisiontv2.channell.my.id/ch/th/sbs.php/.m3u8?ch=spotv1
 #EXTINF:-1 tvg-logo="https://sportsbusiness.at/wp-content/uploads/2020/09/Sportdigital_Fu%C3%9Fball.jpg" group-title="Saudi Pro League ⚽🇸🇦 ",FSBL SPORTS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3363,7 +3590,7 @@ https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pu1se1.xn--ukq5h.shop/puk4/usergendx3j2x4tqrnd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyf5oWms2XFnokEZqJoZ9hCTOsaOrADQILbe2-fcpNmg&s=10" group-title="BASKET🏀 ",ONE SPORTS
-http://gvisiontv.channell.my.id/ch/ph/ones.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/ones.php/.mpd
 #EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/novasport2.jpg" group-title="BASKET🏀",Nova Sport 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
