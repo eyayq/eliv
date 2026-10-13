@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 19:43:37 WIB 13-10-2026
-# 🔄 Total Channels: 917
+# ⏰ Latest Updated: 19:50:39 WIB 13-10-2026
+# 🔄 Total Channels: 919
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:43:37 WIB 13-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:50:39 WIB 13-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,22 +58,12 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",LINK DOWNLOAD ADA DI CHANNEL TELE
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB Sabah vs Slavia Praha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",23:45 WIB Lens vs Sporting CP
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 #EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Arsenal vs Lille
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -157,6 +147,20 @@ https://netanjahu.hls.st/t/487c46af672ea99d877297b29d6bf761/index.m3u8?|Referer=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791960676~acl=/*~id=53827237911526434611752595132678~hmac=4b7eb750a158276151c120b63ca1381c3b0369166baf1c01b2e6c3dbb2736572|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Inter vs Club Brugge KV | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9da4d78e1da6b886e01865fe743fe115:ffc010bc742aac27abdea3410a7a3cc3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lvt2e0ylbr/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Inter vs Club Brugge KV | Football | STAN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/b022059d2d1d832c4ecd90ebfb25143f/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Inter vs Club Brugge KV | Football | PARAMOUNT+ HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/3687b104d1b572475f6e378ad8232950/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Inter vs Club Brugge KV | Football | DAZN SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/e12e8215edf430272b2e8e69d0e5ade4/index.m3u8?|Referer=https://iplayer.is/
 #EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Villarreal vs SSC Napoli | Football | STAN SPORTS HD | Gvision TV
 #EXTVLCOPT:http-referrer=https://iplayer.is/
 https://netanjahu.hls.st/t/a6dea5bb606e1b714d771bf2c99d65be/index.m3u8?|Referer=https://iplayer.is/
