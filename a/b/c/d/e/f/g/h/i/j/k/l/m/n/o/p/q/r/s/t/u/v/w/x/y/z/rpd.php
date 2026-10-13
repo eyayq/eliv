@@ -1,90 +1,90 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [06.19 WIB 14/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [06.26 WIB 14/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/ed16dd3c5970174b77eb04b0ea5b0960.png" group-title="[LIVE 05:30 WIB 14/10/26] Athletic MG vs Londrina | Server 1",[LIVE 05:30 WIB 14/10/26] Athletic MG vs Londrina | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MvVNfQy8sFRHDwy1v.m3u8?txSecret=0155a438adabf585f60489f4ba455927&txTime=6ACF6438
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-women-de99dc.jpg" group-title="[LIVE 05:30 WIB 14/10/26] USA Women vs Spain Women | Server 1",[LIVE 05:30 WIB 14/10/26] USA Women vs Spain Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6acd97b12550b2f56642c1cd.m3u8?auth_key=1791954902-0-0-0d4186c2f6a84cc238ca77af213460f4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletic-club-2d5939.webp" group-title="[LIVE 05:30 WIB 14/10/26] Athletic Club vs Londrina PR | Server 1",[LIVE 05:30 WIB 14/10/26] Athletic Club vs Londrina PR | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aaeaa9c018287f1ce6fecd2.m3u8?auth_key=1791954902-0-0-dd708fb78755e80aca83211e4315d88e
+https://pull.fmp.live/sla/1-6aaeaa9c018287f1ce6fecd2.m3u8?auth_key=1791955262-0-0-009dea0e4d55fb71568b276063d731a5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletic-club-2d5939.webp" group-title="[LIVE 05:30 WIB 14/10/26] Athletic Club vs Londrina PR | Server 2",[LIVE 05:30 WIB 14/10/26] Athletic Club vs Londrina PR | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1791936905-0-0-df3fa5e0f7a4c8571168997bb54f2ab2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1791937265-0-0-f455641bb96200ccfe9bffb914384a5f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletic-club-2d5939.webp" group-title="[LIVE 05:30 WIB 14/10/26] Athletic Club vs Londrina PR | Server 3",[LIVE 05:30 WIB 14/10/26] Athletic Club vs Londrina PR | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1791936905-0-0-5544572e56f47a9c2529601c987ca6b9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1791937265-0-0-6cf873c51e142e9ce6a9052f1d3a115f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletic-club-2d5939.webp" group-title="[LIVE 05:30 WIB 14/10/26] Athletic Club vs Londrina PR | Server 4",[LIVE 05:30 WIB 14/10/26] Athletic Club vs Londrina PR | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-626841_lsd.m3u8?auth_key=1791936905-0-0-80040bdbab1e8d5e1768f8c7cb10c268
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1791937265-0-0-0f7fbd401276a8294787bedc0f88c441
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletic-club-2d5939.webp" group-title="[LIVE 05:30 WIB 14/10/26] Athletic Club vs Londrina PR | Server 5",[LIVE 05:30 WIB 14/10/26] Athletic Club vs Londrina PR | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1791936905-0-0-03d00b0063d794dbb19346a1690c19c9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1791937265-0-0-b5d97705bad7ac0cdc556d1a445a7a49
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletic-club-2d5939.webp" group-title="[LIVE 05:30 WIB 14/10/26] Athletic Club vs Londrina PR | Server 6",[LIVE 05:30 WIB 14/10/26] Athletic Club vs Londrina PR | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1791936905-0-0-b4f4f0edeee839aec0f73b8ef94be1b7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-626841_lsd.m3u8?auth_key=1791937265-0-0-73f22d89786cc98e6a66829b17c57858
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletic-club-2d5939.webp" group-title="[LIVE 05:30 WIB 14/10/26] Athletic Club vs Londrina PR | Server 7",[LIVE 05:30 WIB 14/10/26] Athletic Club vs Londrina PR | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1791936905-0-0-443f677d41f4ab9d9066af6fd016663f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1791937265-0-0-12040bb8508cfa3f8ac409c28a768956
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-women-de99dc.jpg" group-title="[LIVE 05:30 WIB 14/10/26] USA Women vs Spain Women | Server 1",[LIVE 05:30 WIB 14/10/26] USA Women vs Spain Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6acd97b12550b2f56642c1cd.m3u8?auth_key=1791955262-0-0-5bd21041ed063f9d4a4eff066a2f7fd5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-chivas-tapatio-6b56b7.png" group-title="[LIVE 06:00 WIB 14/10/26] Club Chivas Tapatio vs Tepatitlan de Morelos | Server 1",[LIVE 06:00 WIB 14/10/26] Club Chivas Tapatio vs Tepatitlan de Morelos | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweLB7Y7o37J4bdoi.m3u8?txSecret=362d5db6d25d7a9b057d6c60c42c5cb9&txTime=6ACF6438
+https://live.cds78y11d.org/live/sd-6MweLB7Y7o37J4bdoi.m3u8?txSecret=06674a96da3dc3fa57db29c004c22795&txTime=6ACF6654
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/d60ee6fffe2637b68d18c75a417ae132.png" group-title="[LIVE 06:00 WIB 14/10/26] ĐT nữ Mỹ vs Tây Ban Nha Nữ | Server 1",[LIVE 06:00 WIB 14/10/26] ĐT nữ Mỹ vs Tây Ban Nha Nữ | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxjJwwZzmymDsTJYk.m3u8?txSecret=2bc053b51e18fcf7bbf9c2d33628268d&txTime=6ACF6654
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orlando-magic-a36984.webp" group-title="[LIVE 06:00 WIB 14/10/26] Orlando Magic vs Cleveland Cavaliers | Server 1",[LIVE 06:00 WIB 14/10/26] Orlando Magic vs Cleveland Cavaliers | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1791936905-0-0-88920cdfcf92375888afae084bbf21da
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1791937265-0-0-16fa6d636cfe485225ff85e3ece106e7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orlando-magic-a36984.webp" group-title="[LIVE 06:00 WIB 14/10/26] Orlando Magic vs Cleveland Cavaliers | Server 2",[LIVE 06:00 WIB 14/10/26] Orlando Magic vs Cleveland Cavaliers | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1791936905-0-0-e1a718db590dd1c619cefbdb8a198569
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1791937265-0-0-f792bc54071e63cc969a62dd020290da
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orlando-magic-a36984.webp" group-title="[LIVE 06:00 WIB 14/10/26] Orlando Magic vs Cleveland Cavaliers | Server 3",[LIVE 06:00 WIB 14/10/26] Orlando Magic vs Cleveland Cavaliers | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1791936905-0-0-a0bb40d24e10f14b07d404ee2074205d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1791937265-0-0-b7da63ac7ba6a5916f92b8151bd03ac8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orlando-magic-a36984.webp" group-title="[LIVE 06:00 WIB 14/10/26] Orlando Magic vs Cleveland Cavaliers | Server 4",[LIVE 06:00 WIB 14/10/26] Orlando Magic vs Cleveland Cavaliers | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1791936905-0-0-92eb7ab2f3be564a416f2927f17df907
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1791937265-0-0-33d81ccf467f7b046ea6ce7e3f7cec27
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-raptors-c81af9.webp" group-title="[LIVE 06:00 WIB 14/10/26] Toronto Raptors vs New York Knicks | Server 1",[LIVE 06:00 WIB 14/10/26] Toronto Raptors vs New York Knicks | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=e390558e1a3da682f26064c7af661f29&txTime=6acf1141
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-raptors-c81af9.webp" group-title="[LIVE 06:00 WIB 14/10/26] Toronto Raptors vs New York Knicks | Server 2",[LIVE 06:00 WIB 14/10/26] Toronto Raptors vs New York Knicks | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=8bde5ce31c11c9fb31d8740c2509c86e&txTime=6acf1141
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-tapatío-1bc1f5.webp" group-title="[LIVE 06:00 WIB 14/10/26] Club Deportivo Tapatío vs Tepatitlan FC | Server 1",[LIVE 06:00 WIB 14/10/26] Club Deportivo Tapatío vs Tepatitlan FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6a999283018287f1cead523e.m3u8?auth_key=1791954902-0-0-a5a1e94a0894e68852d5a98996210ffd
+https://pull.fmp.live/sla/1-6a999283018287f1cead523e.m3u8?auth_key=1791955262-0-0-4c79fb8ad8ee2fbf871496618e4aba46
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-tapatío-1bc1f5.webp" group-title="[LIVE 06:00 WIB 14/10/26] Club Deportivo Tapatío vs Tepatitlan FC | Server 2",[LIVE 06:00 WIB 14/10/26] Club Deportivo Tapatío vs Tepatitlan FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=79586b5afd2b921d774b6ad22b4f7583&txTime=6acf0fd9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=e12dc4a18d1e8b3c4092c8bc296ea238&txTime=6acf1141
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-tapatío-1bc1f5.webp" group-title="[LIVE 06:00 WIB 14/10/26] Club Deportivo Tapatío vs Tepatitlan FC | Server 3",[LIVE 06:00 WIB 14/10/26] Club Deportivo Tapatío vs Tepatitlan FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=d0eda90a9481dc49d93ec356fd83e0ec&txTime=6acf0fd9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=a09454d780c4464a00edae49cef45f01&txTime=6acf1141
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-tapatío-1bc1f5.webp" group-title="[LIVE 06:00 WIB 14/10/26] Club Deportivo Tapatío vs Tepatitlan FC | Server 4",[LIVE 06:00 WIB 14/10/26] Club Deportivo Tapatío vs Tepatitlan FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912139_lsd.m3u8?auth_key=1791936905-0-0-4c434bbf8220045e4a40461b9617d17d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1791937265-0-0-6ca932089061dc80df8863682490ede3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-tapatío-1bc1f5.webp" group-title="[LIVE 06:00 WIB 14/10/26] Club Deportivo Tapatío vs Tepatitlan FC | Server 5",[LIVE 06:00 WIB 14/10/26] Club Deportivo Tapatío vs Tepatitlan FC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912139_lhd.m3u8?auth_key=1791936905-0-0-95dea1a011cac9a87576717361c4e381
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1791937265-0-0-fd09f6d477e8e996851f01ffd4fb5bc1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-tapatío-1bc1f5.webp" group-title="[LIVE 06:00 WIB 14/10/26] Club Deportivo Tapatío vs Tepatitlan FC | Server 6",[LIVE 06:00 WIB 14/10/26] Club Deportivo Tapatío vs Tepatitlan FC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1791936905-0-0-b14c08029ead64d9140df780b6005da5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912139_lsd.m3u8?auth_key=1791937265-0-0-df4e3ae1c1f37a33993580fe9682e245
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-tapatío-1bc1f5.webp" group-title="[LIVE 06:00 WIB 14/10/26] Club Deportivo Tapatío vs Tepatitlan FC | Server 7",[LIVE 06:00 WIB 14/10/26] Club Deportivo Tapatío vs Tepatitlan FC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1791936905-0-0-f278cc06a6ea3decbbb1451bb669b0f9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-raptors-c81af9.webp" group-title="[LIVE 06:00 WIB 14/10/26] Toronto Raptors vs New York Knicks | Server 1",[LIVE 06:00 WIB 14/10/26] Toronto Raptors vs New York Knicks | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=d486a5826ed88cf16ede87d42e23ca0e&txTime=6acf0fd9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-raptors-c81af9.webp" group-title="[LIVE 06:00 WIB 14/10/26] Toronto Raptors vs New York Knicks | Server 2",[LIVE 06:00 WIB 14/10/26] Toronto Raptors vs New York Knicks | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=d1c32da16a2096d9a14255df11c470af&txTime=6acf0fd9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912139_lhd.m3u8?auth_key=1791937265-0-0-80b8a5797867ae8b7b5f1e6ec3d4d792
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-bucaramanga-7e9fa1.webp" group-title="[LIVE 06:30 WIB 14/10/26] Atletico Bucaramanga vs Aguilas Doradas | Server 1",[LIVE 06:30 WIB 14/10/26] Atletico Bucaramanga vs Aguilas Doradas | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-623653_lsd.m3u8?auth_key=1791936905-0-0-0b9d1ceecff24c74951cff8502922e0e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=779ed9648e63646c4bb1a081f3b6747b&txTime=6acf1141
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-bucaramanga-7e9fa1.webp" group-title="[LIVE 06:30 WIB 14/10/26] Atletico Bucaramanga vs Aguilas Doradas | Server 2",[LIVE 06:30 WIB 14/10/26] Atletico Bucaramanga vs Aguilas Doradas | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1791936905-0-0-bf204eec1f7d896b8aff0b97da329128
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=9d6adfdb41b37232b78a0ab1d1c0b0e7&txTime=6acf1141
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-bucaramanga-7e9fa1.webp" group-title="[LIVE 06:30 WIB 14/10/26] Atletico Bucaramanga vs Aguilas Doradas | Server 3",[LIVE 06:30 WIB 14/10/26] Atletico Bucaramanga vs Aguilas Doradas | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=1d1eb7118047aa14049b86b1c7f2b84c&txTime=6acf0fd9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1791937265-0-0-04e74440f77f8da526b34c69a6404b00
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-bucaramanga-7e9fa1.webp" group-title="[LIVE 06:30 WIB 14/10/26] Atletico Bucaramanga vs Aguilas Doradas | Server 4",[LIVE 06:30 WIB 14/10/26] Atletico Bucaramanga vs Aguilas Doradas | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=af90da002b3c8ff6d406a5f7b231a731&txTime=6acf0fd9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1791937265-0-0-51e9d93d5e225755e03f694a763d246d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-bucaramanga-7e9fa1.webp" group-title="[LIVE 06:30 WIB 14/10/26] Atletico Bucaramanga vs Aguilas Doradas | Server 5",[LIVE 06:30 WIB 14/10/26] Atletico Bucaramanga vs Aguilas Doradas | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1791936905-0-0-09ec08b3736e281029be057c82413bcb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-623653_lsd.m3u8?auth_key=1791937265-0-0-445938f98b0e1c424e613c4a23abd223
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-bucaramanga-7e9fa1.webp" group-title="[LIVE 06:30 WIB 14/10/26] Atletico Bucaramanga vs Aguilas Doradas | Server 6",[LIVE 06:30 WIB 14/10/26] Atletico Bucaramanga vs Aguilas Doradas | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1791936905-0-0-7f3ac2488aeb6832c12267b5a18d4c41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1791937265-0-0-8f822a92f03c3bea9afe511a4d2bb1fc
