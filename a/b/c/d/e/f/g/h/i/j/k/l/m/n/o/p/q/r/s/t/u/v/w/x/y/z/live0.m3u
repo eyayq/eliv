@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 12:50:20 WIB 15-10-2026
-# 🔄 Total Channels: 872
+# ⏰ Latest Updated: 12:57:04 WIB 15-10-2026
+# 🔄 Total Channels: 871
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:50:20 WIB 15-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:57:04 WIB 15-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,18 +58,12 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",LINK DOWNLOAD ADA DI CHANNEL TELE
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Denmark Open BWF WORLD TOUR | Court 1 | Huya | Gvision TV
-http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Denmark Open BWF WORLD TOUR | Court 2 | Huya | Gvision TV
-http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805929
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Denmark Open BWF WORLD TOUR | Court 3 | Huya | Gvision TV
-http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805930
 #EXTINF:-1 tvg-logo="https://shorter.me/uSWbs" group-title="LIVE EVENT",19:15 WIB Tampines Rovers vs Machida Zelvia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
@@ -82,6 +76,12 @@ https://live2.jorvakstreamcache.com/live/channel16.m3u8
 https://live2.jorvakstreamcache.com/live/channel18.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3043/image" group-title="LIVE EVENT",19:15 WIB Tampines Rovers vs Machida Zelvia | Football | HD SERVER | Gvision TV
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",VICTOR Denmark Open 2026 | Court 1 | Huya | Gvision TV
+http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",VICTOR Denmark Open 2026 | Court 2 | Huya | Gvision TV
+http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805929
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",VICTOR Denmark Open 2026 | Court 3 | Huya | Gvision TV
+http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805930
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",Denmark Open | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",Denmark Open | XOILACZ | Gvision TV
@@ -89,9 +89,9 @@ https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=ffd70a9845e85f29
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",Denmark Open | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg" group-title="LIVE EVENT",Rajasthan Spikers vs Punjab Aerostrikers | India Volleyball Championship League 2026 | ENG | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086626~acl=/*~id=4a954a126bcec0d395af7569675b55db-1792043405078~hmac=7e547c1c710e5ad71512da2edc572a2fd8efa48b1d7b0129a9d9a5df3fc5ad44|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=156c0d89a0507a94e9aa08f824057ff3-1792067403820
+https://sonymtmnew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086626~acl=/*~id=4a954a126bcec0d395af7569675b55db-1792043405078~hmac=7e547c1c710e5ad71512da2edc572a2fd8efa48b1d7b0129a9d9a5df3fc5ad44|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6b679587a3449be617aafcf2ecef7258-1792068604030
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg" group-title="LIVE EVENT",Rajasthan Spikers vs Punjab Aerostrikers | India Volleyball Championship League 2026 | HIN | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792086626~acl=/*~id=4a954a126bcec0d395af7569675b55db-1792043405078~hmac=7e547c1c710e5ad71512da2edc572a2fd8efa48b1d7b0129a9d9a5df3fc5ad44|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=156c0d89a0507a94e9aa08f824057ff3-1792067403820
+https://sonymtmnew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792086626~acl=/*~id=4a954a126bcec0d395af7569675b55db-1792043405078~hmac=7e547c1c710e5ad71512da2edc572a2fd8efa48b1d7b0129a9d9a5df3fc5ad44|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6b679587a3449be617aafcf2ecef7258-1792068604030
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8bfc2c57-b64b-4fa5-88d8-5b6ccc1d69d4/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",The Morning Drive  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -111,11 +111,9 @@ https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkye
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Rajasthan Spikers vs Punjab Aerostrikers | Volleyball Championship League 2026 | ENG | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086626~acl=/*~id=4a954a126bcec0d395af7569675b55db-1792043405078~hmac=7e547c1c710e5ad71512da2edc572a2fd8efa48b1d7b0129a9d9a5df3fc5ad44|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=156c0d89a0507a94e9aa08f824057ff3-1792067403820
+https://sonymtmnew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086626~acl=/*~id=4a954a126bcec0d395af7569675b55db-1792043405078~hmac=7e547c1c710e5ad71512da2edc572a2fd8efa48b1d7b0129a9d9a5df3fc5ad44|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6b679587a3449be617aafcf2ecef7258-1792068604030
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Rajasthan Spikers vs Punjab Aerostrikers | Volleyball Championship League 2026 | HIN | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792086626~acl=/*~id=4a954a126bcec0d395af7569675b55db-1792043405078~hmac=7e547c1c710e5ad71512da2edc572a2fd8efa48b1d7b0129a9d9a5df3fc5ad44|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=156c0d89a0507a94e9aa08f824057ff3-1792067403820
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",DP World India Championship - Day 1 | DP World Tour | ENG | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086626~acl=/*~id=4a954a126bcec0d395af7569675b55db-1792043405078~hmac=7e547c1c710e5ad71512da2edc572a2fd8efa48b1d7b0129a9d9a5df3fc5ad44|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=156c0d89a0507a94e9aa08f824057ff3-1792067403820
+https://sonymtmnew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792086626~acl=/*~id=4a954a126bcec0d395af7569675b55db-1792043405078~hmac=7e547c1c710e5ad71512da2edc572a2fd8efa48b1d7b0129a9d9a5df3fc5ad44|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6b679587a3449be617aafcf2ecef7258-1792068604030
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/35607/image" group-title="Live Event: CFY",19:15 WIB BG Pathum United vs Adelaide United | Football | HD SERVER | Gvision TV
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/338334/image" group-title="Live Event: CFY",19:15 WIB Kuching City vs Kitchee SC | Football | HD SERVER | Gvision TV
@@ -130,11 +128,11 @@ http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba01
 http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba02
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",VICTOR Denmark Open 2026 | Court 3 | Twitch | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba03
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",Denmark Open BWF WORLD TOUR | Court 1 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",VICTOR Denmark Open 2026 | Court 1 | Huya | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",Denmark Open BWF WORLD TOUR | Court 2 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",VICTOR Denmark Open 2026 | Court 2 | Huya | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805929
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",Denmark Open BWF WORLD TOUR | Court 3 | Huya | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",VICTOR Denmark Open 2026 | Court 3 | Huya | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805930
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",Denmark Open | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
