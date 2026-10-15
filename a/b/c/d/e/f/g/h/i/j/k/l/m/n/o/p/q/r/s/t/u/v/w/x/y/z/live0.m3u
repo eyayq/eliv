@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 19:19:59 WIB 15-10-2026
-# 🔄 Total Channels: 950
+# ⏰ Latest Updated: 19:26:48 WIB 15-10-2026
+# 🔄 Total Channels: 960
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:19:59 WIB 15-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:26:48 WIB 15-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -171,8 +171,18 @@ https://www.rtmpcdn.com/live/89f0ff79-66eb-4c48-b7ef-cd49d60527f0.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lqrtbor4qx/out/v1/beb2768ac7d0435bab70ce5cd6231ad7/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/7691/image" group-title="LIVE EVENT",02:00 WIB Jagiellonia Biaystok vs FC Ararat-Armenia | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/53ffee88-8278-4033-96e2-b8c67f6e2374.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1641/image" group-title="LIVE EVENT",02:00 WIB Olympique de Marseille vs Olympiacos FC | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8a9ae28d02e0f77b6aa6ebf5c188a14:6c569f2bb738098d8affc3694aaf2465
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/usqhyzk0hf/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1641/image" group-title="LIVE EVENT",02:00 WIB Olympique de Marseille vs Olympiacos FC | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/dde626d7-b157-4c16-a3d1-59fb311a7b9e.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2962/image" group-title="LIVE EVENT",02:00 WIB NEC Nijmegen vs Levski Sofia | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14fab45a21379286ce780a18aafe7be:0eab122716a5f23e91fa90d63c4b0fdb
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xugqyjcakm/out/v1/5c4455c571ae467ca76c6b6ca0ad80f1/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2962/image" group-title="LIVE EVENT",02:00 WIB NEC Nijmegen vs Levski Sofia | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/d6f61259-c808-488a-940b-a34fb510b4b7.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1658/image" group-title="LIVE EVENT",02:00 WIB Stade Rennais vs OFI Crete | Football | HD SERVER | Gvision TV
@@ -184,8 +194,18 @@ https://www.rtmpcdn.com/live/a2cd08e1-e229-4028-96a2-4c4a5bc54b40.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9tc8ad1n1c/out/v1/b5ef208fdea84ed8a2f0aefe7fdb86cf/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2686/image" group-title="LIVE EVENT",02:00 WIB Atalanta vs Pafos FC | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/c0f7760a-a528-4dad-9878-b06a4d9726f6.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1159/image" group-title="LIVE EVENT",02:00 WIB SK Brann vs Lincoln Red Imps | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5529ce921bc5d8554b925065f86af002:6ad8a302a2876d1df1e327572fcf96d3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tzlhllv3eu/out/v1/90efc41f5f384e97be25bab0bfc53de9/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1159/image" group-title="LIVE EVENT",02:00 WIB SK Brann vs Lincoln Red Imps | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/23283798-5002-4cca-b344-fb6b923aac05.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/30/image" group-title="LIVE EVENT",02:00 WIB Brighton Hove Albion vs FK Kauno Zalgiris | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40e401e1cbaf4a4cdeb68489dfe23dea:06e5ac3b4a716f062db7f8b14b51ef20
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nbvkcuwbh1/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/30/image" group-title="LIVE EVENT",02:00 WIB Brighton Hove Albion vs FK Kauno Zalgiris | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/d2a68645-3cb2-4e1d-b524-a161da531bb7.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1284/image" group-title="LIVE EVENT",02:00 WIB FC Kbenhavn vs Sporting Braga | Football | HD SERVER | Gvision TV
@@ -197,6 +217,11 @@ https://www.rtmpcdn.com/live/d1eca2ba-6c8e-4907-842b-a53d122af4f6.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/18vzs9qlwv/out/v1/4df741b740c1401a93dd7f933bdde012/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2955/image" group-title="LIVE EVENT",02:00 WIB FC Twente vs FC Thun | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/d0004171-cd1f-426d-9077-c458d14ad2ea.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2538/image" group-title="LIVE EVENT",02:00 WIB SC Freiburg vs FK Jablonec | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e790c4ad2a1694171f9e54f431d3d24c:a608c33e56605acb2d1cf1689f7812df
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/qqfytpteck/out/v1/c22699bcc6df411098d4969c11e9c388/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2538/image" group-title="LIVE EVENT",02:00 WIB SC Freiburg vs FK Jablonec | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/d6f0e024-8d57-407f-8ba0-d79cb22f97ef.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2353/image" group-title="LIVE EVENT",02:00 WIB Heart of Midlothian vs FC Nordsjlland | Football | VIX SPANISH - AQ | Gvision TV
@@ -323,8 +348,18 @@ https://www.rtmpcdn.com/live/89f0ff79-66eb-4c48-b7ef-cd49d60527f0.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lqrtbor4qx/out/v1/beb2768ac7d0435bab70ce5cd6231ad7/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/7691/image" group-title="Live Event: CFY",02:00 WIB Jagiellonia Biaystok vs FC Ararat-Armenia | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/53ffee88-8278-4033-96e2-b8c67f6e2374.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1641/image" group-title="Live Event: CFY",02:00 WIB Olympique de Marseille vs Olympiacos FC | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8a9ae28d02e0f77b6aa6ebf5c188a14:6c569f2bb738098d8affc3694aaf2465
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/usqhyzk0hf/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1641/image" group-title="Live Event: CFY",02:00 WIB Olympique de Marseille vs Olympiacos FC | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/dde626d7-b157-4c16-a3d1-59fb311a7b9e.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2962/image" group-title="Live Event: CFY",02:00 WIB NEC Nijmegen vs Levski Sofia | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14fab45a21379286ce780a18aafe7be:0eab122716a5f23e91fa90d63c4b0fdb
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xugqyjcakm/out/v1/5c4455c571ae467ca76c6b6ca0ad80f1/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2962/image" group-title="Live Event: CFY",02:00 WIB NEC Nijmegen vs Levski Sofia | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/d6f61259-c808-488a-940b-a34fb510b4b7.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1658/image" group-title="Live Event: CFY",02:00 WIB Stade Rennais vs OFI Crete | Football | HD SERVER | Gvision TV
@@ -336,8 +371,18 @@ https://www.rtmpcdn.com/live/a2cd08e1-e229-4028-96a2-4c4a5bc54b40.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9tc8ad1n1c/out/v1/b5ef208fdea84ed8a2f0aefe7fdb86cf/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2686/image" group-title="Live Event: CFY",02:00 WIB Atalanta vs Pafos FC | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/c0f7760a-a528-4dad-9878-b06a4d9726f6.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1159/image" group-title="Live Event: CFY",02:00 WIB SK Brann vs Lincoln Red Imps | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5529ce921bc5d8554b925065f86af002:6ad8a302a2876d1df1e327572fcf96d3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tzlhllv3eu/out/v1/90efc41f5f384e97be25bab0bfc53de9/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1159/image" group-title="Live Event: CFY",02:00 WIB SK Brann vs Lincoln Red Imps | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/23283798-5002-4cca-b344-fb6b923aac05.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/30/image" group-title="Live Event: CFY",02:00 WIB Brighton Hove Albion vs FK Kauno Zalgiris | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40e401e1cbaf4a4cdeb68489dfe23dea:06e5ac3b4a716f062db7f8b14b51ef20
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nbvkcuwbh1/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/30/image" group-title="Live Event: CFY",02:00 WIB Brighton Hove Albion vs FK Kauno Zalgiris | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/d2a68645-3cb2-4e1d-b524-a161da531bb7.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1284/image" group-title="Live Event: CFY",02:00 WIB FC Kbenhavn vs Sporting Braga | Football | HD SERVER | Gvision TV
@@ -349,6 +394,11 @@ https://www.rtmpcdn.com/live/d1eca2ba-6c8e-4907-842b-a53d122af4f6.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/18vzs9qlwv/out/v1/4df741b740c1401a93dd7f933bdde012/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2955/image" group-title="Live Event: CFY",02:00 WIB FC Twente vs FC Thun | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/d0004171-cd1f-426d-9077-c458d14ad2ea.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2538/image" group-title="Live Event: CFY",02:00 WIB SC Freiburg vs FK Jablonec | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e790c4ad2a1694171f9e54f431d3d24c:a608c33e56605acb2d1cf1689f7812df
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/qqfytpteck/out/v1/c22699bcc6df411098d4969c11e9c388/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2538/image" group-title="Live Event: CFY",02:00 WIB SC Freiburg vs FK Jablonec | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/d6f0e024-8d57-407f-8ba0-d79cb22f97ef.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2353/image" group-title="Live Event: CFY",02:00 WIB Heart of Midlothian vs FC Nordsjlland | Football | VIX SPANISH - AQ | Gvision TV
