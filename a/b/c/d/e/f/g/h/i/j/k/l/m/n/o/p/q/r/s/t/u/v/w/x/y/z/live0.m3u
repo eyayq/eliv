@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 09:31:55 WIB 15-10-2026
+# ⏰ Latest Updated: 09:38:46 WIB 15-10-2026
 # 🔄 Total Channels: 867
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [09:31:55 WIB 15-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [09:38:46 WIB 15-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4225
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -66,12 +66,14 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bon
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Denmark Open BWF WORLD TOUR | Court 1 | Huya | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
-#EXTINF:-1 tvg-logo="https://iili.io/Kc6R4Dv.png" group-title="LIVE EVENT",13:30 WIB AI Peppers W vs Incheon Heungkuk W
-http://mnet.x10.mx/koreaiptv/gorealra.php/.m3u8?channelPath=sbsespnpc&streamName=sbsespn2
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Denmark Open BWF WORLD TOUR | Court 2 | Huya | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805929
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Denmark Open BWF WORLD TOUR | Court 3 | Huya | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805930
+#EXTINF:-1 tvg-logo="https://shorter.me/uSWbs" group-title="LIVE EVENT",[Belum Mulai] 17:00 WIB Wofoo Tai Po vs Lion City Sailors
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 #EXTINF:-1 tvg-logo="https://shorter.me/-zy9I" group-title="LIVE EVENT",14:00 WIB VICTOR Denmark Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344746942841061_AiSD.m3u8?txSecret=fc75eafd9b9f2e3a644ff8a7c4394e18&txTime=6AD1A140
 #EXTINF:-1 tvg-logo="https://shorter.me/-zy9I" group-title="LIVE EVENT",14:00 WIB VICTOR Denmark Open 2026
@@ -84,12 +86,8 @@ https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=ffd70a9845e85f29
 https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",Denmark Open | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=ffd70a9845e85f2933856cd18510a2f3&wsABSTime=1792090441
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e13dc3f0-67db-4d21-b302-c70007747e6d/7/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Wuhan-WTA - Second Round  | Prime Sports | Gvision TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/Kc6R4Dv.png" group-title="LIVE EVENT",[Belum Mulai] 17:00 WIB IBK W vs Daejeon JKJ W
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",DP World India Championship - Day 1 | DP World Tour | ENG | Sony Liv | Gvision TV
 https://sonymtmnew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792057133~acl=/*~id=35485174765682570897037341417802~hmac=a475869aca6d8c566c116a98d3ddd07a7cb165a80452855f7fe5fb7bbb708daa|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=3355b42e7068584947bf89aabfcc75b0-1792041004648
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026388/1792037774484149_Asian_TOur_SJM_Macao_Open_Day1_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",SJM Macao Open - Day 1 | Asian Tour 2026 | ENG | Sony Liv | Gvision TV
