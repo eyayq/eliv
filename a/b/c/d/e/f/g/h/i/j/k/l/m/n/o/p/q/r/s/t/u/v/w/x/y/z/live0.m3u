@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 18:54:24 WIB 17-10-2026
-# 🔄 Total Channels: 886
+# ⏰ Latest Updated: 19:01:23 WIB 17-10-2026
+# 🔄 Total Channels: 878
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [18:54:24 WIB 17-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:01:23 WIB 17-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,19 +58,14 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4262
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",LINK DOWNLOAD ADA DI CHANNEL TELE
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",23:00 WIB Bologna vs Internazionale
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Denmark Open BWF WORLD TOUR | Court 1 | Huya | Gvision TV
+http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",23:30 WIB Newcastle United vs Aston Villa
 https://admin2.formaturamaxi.com.br/hub.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",23:30 WIB Newcastle United vs Aston Villa
@@ -112,32 +107,15 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",[Belum Mulai] 02:00 WIB Valencia vs Athletic Club
+#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",02:00 WIB Valencia vs Athletic Club
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/39/image" group-title="LIVE EVENT",23:30 WIB Newcastle United vs Aston Villa | Football | FUBO SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b2a8afa67f06650b9d028fdc736d5a3:c5b0e391f58745da53e4536e4ef9c68a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ma8zhr9mwn/out/v1/959c0e797f864fd5a2acfbf924cca5c2/a95aabc5-59b9-413d-8c6a-728b0b009335-cenc.mpd?aws_sessionId=8c21d67b-4c33-498e-916a-cb3f6470fff6
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/39/image" group-title="LIVE EVENT",23:30 WIB Newcastle United vs Aston Villa | Football | PEACOCK - AQ | Gvision TV
-https://echocartel.s3.us-east-1.amazonaws.com/newcastle.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/39/image" group-title="LIVE EVENT",23:30 WIB Newcastle United vs Aston Villa | Football | beIN ARABIC HD | Gvision TV
-#EXTVLCOPT:http-referrer=https://www.arena8x.live/
-https://cdn-v2.gamhed.online/hls/arena8x-2a.m3u8?|Referer=https://www.arena8x.live/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2816/image" group-title="LIVE EVENT",23:30 WIB Real Betis vs FC Barcelona | Football | CazeTV - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2816/image" group-title="LIVE EVENT",23:30 WIB Real Betis vs FC Barcelona | Football | beIN ARABIC HD | Gvision TV
-#EXTVLCOPT:http-referrer=https://www.arena8x.live/
-https://cdn-v2.gamhed.online/hls/arena8x-1a.m3u8?|Referer=https://www.arena8x.live/
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=556B2F" group-title="LIVE EVENT",Denmark Open | XOILACZ | Gvision TV
+https://tg070grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel68.m3u8?wsSession=835034b70972b4331a811b87-179222098008498&wsIPSercert=a22ad0d1e4268bb5ede954ccb7f1d33e&wsBindIP=2&wsserid=1168235948327528126
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a80d2dde-3b77-4b77-b00a-23cb3e2d17c8/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",ODI Tri-Nation Series in UAE 2026 - 1st Match - Bangladesh vs Zimbabwe  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -210,25 +188,12 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iiqppqpksi/out/v1
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187744/image" group-title="Live Event: CFY",18:30 WIB Bangladesh vs Zimbabwe | Cricket | A SPORTS HD | Gvision TV
 https://playztv-apps.pages.dev/a-sports/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/39/image" group-title="Live Event: CFY",23:30 WIB Newcastle United vs Aston Villa | Football | FUBO SPORTS - AQ | Gvision TV
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2702/image" group-title="Live Event: CFY",01:45 WIB AS Roma vs Genoa | Football | beIN ENGLISH - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b2a8afa67f06650b9d028fdc736d5a3:c5b0e391f58745da53e4536e4ef9c68a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ma8zhr9mwn/out/v1/959c0e797f864fd5a2acfbf924cca5c2/a95aabc5-59b9-413d-8c6a-728b0b009335-cenc.mpd?aws_sessionId=8c21d67b-4c33-498e-916a-cb3f6470fff6
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/39/image" group-title="Live Event: CFY",23:30 WIB Newcastle United vs Aston Villa | Football | PEACOCK - AQ | Gvision TV
-https://echocartel.s3.us-east-1.amazonaws.com/newcastle.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/39/image" group-title="Live Event: CFY",23:30 WIB Newcastle United vs Aston Villa | Football | beIN ARABIC HD | Gvision TV
-#EXTVLCOPT:http-referrer=https://www.arena8x.live/
-https://cdn-v2.gamhed.online/hls/arena8x-2a.m3u8?|Referer=https://www.arena8x.live/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2816/image" group-title="Live Event: CFY",23:30 WIB Real Betis vs FC Barcelona | Football | CazeTV - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2816/image" group-title="Live Event: CFY",23:30 WIB Real Betis vs FC Barcelona | Football | beIN ARABIC HD | Gvision TV
-#EXTVLCOPT:http-referrer=https://www.arena8x.live/
-https://cdn-v2.gamhed.online/hls/arena8x-1a.m3u8?|Referer=https://www.arena8x.live/
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",VICTOR Denmark Open 2026 | Court 1 | Twitch | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba01
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",VICTOR Denmark Open 2026 | Court 2 | Twitch | Gvision TV
