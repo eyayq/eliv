@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 14:50:53 WIB 18-10-2026
-# 🔄 Total Channels: 904
+# ⏰ Latest Updated: 14:57:15 WIB 18-10-2026
+# 🔄 Total Channels: 916
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:50:53 WIB 18-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:57:15 WIB 18-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4237
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -107,14 +107,58 @@ https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/60/image" group-title="LIVE EVENT",20:00 WIB Bournemouth vs Sunderland | Football | FUBO SPORTS - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc6f302fd61c2e2f07649312886340b2:3998a71b90d98d6f33812dfb81c6bef6
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hqnp6c0bi3/out/v1/ee234bf8b2854366834b938725860805/1c08e2cf-efea-4f89-98ed-2c8d9d47a71f-cenc.mpd?aws_sessionId=4dcc9a76-1a4f-4e6b-b331-5e24f4ce67b5
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/30/image" group-title="LIVE EVENT",20:00 WIB Brighton Hove Albion vs Crystal Palace | Football | FUBO SPORTS - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lsjasrlv30/out/v1/38d1a6a0ee4e4ff2aa8b760d07cabb9e/2397bdca-9c1e-40a0-9fef-8c298d97d7e7-cenc.mpd?aws_sessionId=6343b818-4d5f-435e-92f4-7bf926aeed6c
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/30/image" group-title="LIVE EVENT",20:00 WIB Brighton Hove Albion vs Crystal Palace | Football | SKY SPORTS - AQ | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=oQHxVF62YP2JSnxUwT4p-g&e=2092290550&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/34/image" group-title="LIVE EVENT",20:00 WIB Leeds United vs Manchester United | Football | FUBO SPORTS - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71e936b6a41fec84206be5fd5732df0f:3973a4ae073d96957c525f06c8f78220
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/yswd4hguk2/out/v1/07d94e5695564616bc21118f294f6cc7/ae3c4fa7-7ede-4a71-bbd5-502b5656295b-cenc.mpd?aws_sessionId=2f57420c-90a2-45be-b8f4-d4cab84c9c0c
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/34/image" group-title="LIVE EVENT",20:00 WIB Leeds United vs Manchester United | Football | CazeTV - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/34/image" group-title="LIVE EVENT",20:00 WIB Leeds United vs Manchester United | Football | USA TV HD | Gvision TV
+https://storage.googleapis.com/flintvoyager/main/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/34/image" group-title="LIVE EVENT",20:00 WIB Leeds United vs Manchester United | Football | Live 2 | Gvision TV
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=98e06d3ff108c6667058ddf1c89f49c4&txTime=6ad51f69
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2693/image" group-title="LIVE EVENT",20:00 WIB Fiorentina vs Como | Football | beIN ENGLISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1684/image" group-title="LIVE EVENT",20:00 WIB Angers vs Olympique de Marseille | Football | beIN USA HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestream5.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",20:00 WIB Leeds United vs Manchester United
 https://www.rtmpcdn.com/live/093b047f-baeb-4780-8762-3bd19e6f953c.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",20:00 WIB Brighton & Hove Albion vs Crystal Palace
 https://www.rtmpcdn.com/live/97ea7073-c40b-47c1-a82f-3a10d5aabc4f.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",20:00 WIB AFC Bournemouth vs Sunderland
 https://www.rtmpcdn.com/live/3f86fb39-5cd8-444e-86b8-92b0a6f8ccd1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",Denmark Open BWF WORLD TOUR | Court 1 | Huya | Gvision TV
-http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4386/image" group-title="LIVE EVENT",20:30 WIB Jacksonville Jaguars vs Houston Texans | American football | FOX SPORTS HD | Gvision TV
+#EXTVLCOPT:http-referrer=https://play.arabsports.info/
+https://hls.dptv.info/live/espn-401872996/index.m3u8?|Referer=https://play.arabsports.info/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4386/image" group-title="LIVE EVENT",20:30 WIB Jacksonville Jaguars vs Houston Texans | American football | NFL NETWORK HD | Gvision TV
+https://storage.googleapis.com/flintvoyager/nbcsn/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4386/image" group-title="LIVE EVENT",20:30 WIB Jacksonville Jaguars vs Houston Texans | American football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130666267133_VCL26_Emperia-Marathas-v-Tamil-Titans_live_landscape_thumb.jpg" group-title="LIVE EVENT",Emperia Marathas vs Tamil Titans - Super 6 | India Volleyball Championship League 2026  | Sony Liv | Gvision TV
+https://sonymtmnew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792353476~acl=/*~id=47939079414368529441654719488892~hmac=34d49ce64e9cf0c39367f9f32489ee9068066e591a5ff8f25130d85379622e40|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7d3caea560fcd5f72c283385350b518b-1792331404643
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3245801a-a884-4d3a-af18-3536ad352a1b/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Final" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3245801a-a884-4d3a-af18-3536ad352a1b/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Powerball Cup. Final  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
