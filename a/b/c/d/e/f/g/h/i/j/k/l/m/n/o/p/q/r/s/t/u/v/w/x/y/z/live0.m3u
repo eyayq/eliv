@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 11:53:43 WIB 18-10-2026
-# 🔄 Total Channels: 878
+# ⏰ Latest Updated: 11:56:15 WIB 18-10-2026
+# 🔄 Total Channels: 879
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [11:53:43 WIB 18-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [11:56:15 WIB 18-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4312
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -71,6 +71,12 @@ https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/indosiar.m3u8
 https://ogietv.biz.id:443/Dimas01/bara01/1325.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/-zy9I" group-title="LIVE EVENT",17:00 WIB VICTOR Denmark Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344748385643061_AiSD.m3u8?txSecret=0a8478be4dcc0db269712dbc973e5c6a&txTime=6AD595C0
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2695/image" group-title="LIVE EVENT",17:30 WIB Udinese vs Lecce | Football | beIN ENGLISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",17:30 WIB Udinese vs Lecce
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -80,6 +86,8 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="LIVE EVENT",MPL INDONESIA SEASON 18 Week 9 Day 3 | Streaming mobile legends: bang bang. | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",Denmark Open - Finals | XOILACZ | Gvision TV
+https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=ba982cc88f8df96670c1d4791f402973&wsABSTime=1792360711
 #EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",[Belum Mulai] 19:00 WIB Persib vs Persik Kediri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -92,13 +100,13 @@ https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=da9cd91efa1b3478e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Churchill Brothers SC vs East Bengal FC | MG Indian Super League 2026-27 | ENG | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc4bb9f6ad306c741e8a9a9926911f69-1792323003315
+https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5cf79dbd7d7a95fc90d1d218e7e608a8-1792324203522
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Churchill Brothers SC vs East Bengal FC | MG Indian Super League 2026-27 | HIN | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc4bb9f6ad306c741e8a9a9926911f69-1792323003315
+https://sonymtmnew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5cf79dbd7d7a95fc90d1d218e7e608a8-1792324203522
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Churchill Brothers SC vs East Bengal FC | MG Indian Super League 2026-27 | BEN | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc4bb9f6ad306c741e8a9a9926911f69-1792323003315
+https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5cf79dbd7d7a95fc90d1d218e7e608a8-1792324203522
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026488/1792152626109905_DP-World-Locker-Room-D4_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",DP World Locker Room - Day 4 | DP World Tour | ENG | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2120301/Golf_DPW1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc4bb9f6ad306c741e8a9a9926911f69-1792323003315
+https://sonymtmnew.akamaized.net/hls/live/2120301/Golf_DPW1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5cf79dbd7d7a95fc90d1d218e7e608a8-1792324203522
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187747/image" group-title="Live Event: CFY",15:00 WIB South Africa vs Australia | Cricket | WILLOW - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -146,8 +154,6 @@ http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba01
 http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba02
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXD7m275/20260730-120141.jpg" group-title="Live Event: Badminton",VICTOR Denmark Open 2026 | Court 3 | Twitch | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=ctba03
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",Denmark Open BWF WORLD TOUR | Court 1 | Huya | Gvision TV
-http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",Denmark Open - Finals | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=ba982cc88f8df96670c1d4791f402973&wsABSTime=1792360711
 #EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="Live Esports",MPL INDONESIA SEASON 18 Week 9 Day 3 | Streaming mobile legends: bang bang. | Gvision TV
