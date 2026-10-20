@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 15:10:11 WIB 20-10-2026
-# 🔄 Total Channels: 840
+# ⏰ Latest Updated: 15:17:54 WIB 20-10-2026
+# 🔄 Total Channels: 846
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:10:11 WIB 20-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:17:54 WIB 20-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,14 +58,22 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",LINK DOWNLOAD ADA DI CHANNEL TELE
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/853574/image" group-title="LIVE EVENT",22:00 WIB Diriyah vs Al-Riyadh | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/56021/image" group-title="LIVE EVENT",22:10 WIB Al-Taawoun vs Al-Qadsiah | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel15.m3u8?|Referer=https://xlz.domainkqt.cc/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",French Open BWF WORLD TOUR | Court 1 | Huya | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",French Open BWF WORLD TOUR | Court 2 | Huya | Gvision TV
+http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805929
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",French Open BWF WORLD TOUR | Court 4 | Huya | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805931
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",French Open | XOILACZ | Gvision TV
@@ -158,6 +166,12 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/afwmxgd4dp/out/v1/40ec86a6a3cd409a93bab83897ab5aa8/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187754/image" group-title="Live Event: CFY",15:00 WIB Pakistan vs England | Cricket | PTV SPORTS HD | Gvision TV
 https://baila-lentoo.pages.dev/all-sp/809398.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/853574/image" group-title="Live Event: CFY",22:00 WIB Diriyah vs Al-Riyadh | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/56021/image" group-title="Live Event: CFY",22:10 WIB Al-Taawoun vs Al-Qadsiah | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel15.m3u8?|Referer=https://xlz.domainkqt.cc/
 #EXTINF:-1 tvg-logo="https://media.latinanoticias.pe/2026/03/MINIATURA-PARTIDOS-VOLEY-768x432.jpg" group-title="Live Event: Voli",02:45 WIB ATENEA vs OLVA LATINO - Peruvian League | Gvision TV
 https://live-evg20.tv360.bitel.com.pe/zySw4kNhD56XRmWH7shA-Q/1792349655/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://f.rpp-noticias.io/2026/10/16/120712_1919220.jpg" group-title="Live Event: Voli",[Belum Mulai] 05:00 WIB UNIVERSITARIO vs SOAN - Peruvian League | Gvision TV
@@ -166,6 +180,8 @@ hhttps://live-evg20.tv360.bitel.com.pe/zySw4kNhD56XRmWH7shA-Q/1792349655/bitel/L
 hhttps://live-evg20.tv360.bitel.com.pe/zySw4kNhD56XRmWH7shA-Q/1792349655/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",French Open BWF WORLD TOUR | Court 1 | Huya | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",French Open BWF WORLD TOUR | Court 2 | Huya | Gvision TV
+http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805929
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",French Open BWF WORLD TOUR | Court 4 | Huya | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805931
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",French Open | XOILACZ | Gvision TV
