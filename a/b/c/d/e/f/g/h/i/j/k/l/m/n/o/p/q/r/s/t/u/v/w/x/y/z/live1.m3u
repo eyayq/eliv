@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 01:59:19 WIB 21-10-2026
-# 🔄 Total Channels: 2688
+# ⏰ Latest Updated: 02:02:22 WIB 21-10-2026
+# 🔄 Total Channels: 2698
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="http://oyey.int.yt//0.php" group-title="DONASI: [01:59:19 WIB 21-10-2026] TOTAL: [2688]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="http://oyey.int.yt//0.php" group-title="DONASI: [02:02:22 WIB 21-10-2026] TOTAL: [2698]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="http://oyey.int.yt//0.php" group-title="📢TRANSVISION NEW🍜",DANA OVO GOPAY 085795119808 
@@ -887,6 +887,10 @@ https://khala.futlivehd.com/global/espnpremium/index.m3u8?token=ca61d35b2d90c365
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/disney8/index.m3u8?token=37b2e2caa494abb949b61a23c38379975dc40a48-e5-1792562406-1792508406
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="📢LIVE EVENTS🍜",📢[LIVE EVENT] BOSTON CELTICS AT DETROIT PISTONS (SPRTSPASS)🍜
+#EXTVLCOPT:http-referrer=https://streampass.shop/nba/celtics.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://storage.googleapis.com/flintandfable/celtics/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="📢LIVE EVENTS🍜",📢[MLB] RAYS VS BREWERS (WEBCAST)🍜
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1171,10 +1175,6 @@ https://g.futbolx.ryzn.pro/ns/index.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.55/hls/O555AAAX.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="📢LIVE EVENTS🍜",📢[SAUDI PREMIER LEAGUE] AL DIRIYAH VS AL RIYADH 2 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/243115e2-0d3f-4c64-aab5-5820b2104b24.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="📢LIVE EVENTS🍜",📢[SAUDI PREMIER LEAGUE] AL ETTIFAQ VS AL ITTIHAD (FAWA)🍜
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1199,10 +1199,6 @@ https://pull06.scstream.net/live/stream-527384_lsd.m3u8?auth_key=1792522386-0-0-
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.55/hls/O555AAAQX.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="📢LIVE EVENTS🍜",📢[SAUDI PREMIER LEAGUE] AL TAAWON VS AL QADSIAH 2 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/9f9fdd47-bbe5-415e-9dfc-4e5a0a294e3f.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="📢LIVE EVENTS🍜",📢[SAUDI PRO LEAGUE] AL NASSR VS NEOM | FOX DEPORTES USA (STRMXHD)🍜
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox_deportes_usa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1231,10 +1227,6 @@ https://khala.futlivehd.com/global/fox_deportes_usa/index.m3u8?token=dfb70410945
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=foxone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/foxone/index.m3u8?token=d236911e315501271659b70b6ec9a5b9e5afb0cf-23-1792562408-1792508408
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="📢LIVE EVENTS🍜",📢[SAUDI PRO LEAGUE] AL TAAWOUN VS AL QADSIAH (FLYEMBD)🍜
-#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/33xtbrhm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://judiaslevels.embeds.gay/main/secure/d418e91df83240743bfcf278bea73b0872c06a55452e93dac71f94dc55f98226/1792524611/foxsoccer.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/turkey/logos/fenerbahce.png?q=65&w=100&logo2=https://cdn.livesoccertv.com/tt/images/teams/czech-republic/logos/slavia-praha.png?q=65&w=100&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png?q=75&w=50&color1=002B49&color2=ED1B24&q=65&w=100" group-title="📢LIVE EVENTS🍜",📢[SOCCER] FENERBAHCE VS SLAVIA PRAHA (XYZ)🍜
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/soccer-3.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1303,10 +1295,38 @@ https://g.futbolx.ryzn.pro/fen/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.futbol-x.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://g.futbolx.ryzn.pro/gol/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UCL] LIVERPOOL VS VILLARREAL | MAIN FEED (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bt.futbolx.ryzn.pro/liv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UCL] MANCHESTER CITY VS AEK ATHENS | MAIN FEED (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bt.futbolx.ryzn.pro/mci/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UCL] NAPOLI VS BODO/GLIMT | MAIN FEED (FUTBOLX)🍜
 #EXTVLCOPT:http-referrer=https://www.futbol-x.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://g.futbolx.ryzn.pro/nap/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UCL] PSG VS BARCELONA | ALT FEED 1 EN (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bt.futbolx.ryzn.pro/en2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UCL] PSG VS BARCELONA | ALT FEED 2 AR (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bt.futbolx.ryzn.pro/ar/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UCL] PSG VS BARCELONA | ALT FEED 3 FR (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bt.futbolx.ryzn.pro/fr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UCL] PSG VS BARCELONA | ALT FEED 4 ESP (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bt.futbolx.ryzn.pro/esp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UCL] PSG VS BARCELONA | MAIN FEED EN (FUTBOLX)🍜
+#EXTVLCOPT:http-referrer=https://www.futbol-x.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bt.futbolx.ryzn.pro/en/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UCL] SABAH FK VS BORUSSIA DORTMUND | MAIN FEED (FUTBOLX)🍜
 #EXTVLCOPT:http-referrer=https://www.futbol-x.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1354,15 +1374,7 @@ https://judiaslevels.embeds.gay/main/secure/3d01d819a03f0bef5624f9df8a3cda84d54d
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UEFA CHAMPIONS LEAGUE] FENERBAHCE VS SLAVIA PRAGUE (FLYEMBD)🍜
 #EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/bjarzxf9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://judiaslevels.embeds.gay/main/secure/0e2808afcc2074ef8be0a87960a5bc753c18c7f9230fd27e2e3fc5a93bf81eae/1792524608/tntsports3-uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UEFA CHAMPIONS LEAGUE] FENERBAHCE VS SLAVIA PRAGUE 1 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/XAXAXA.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UEFA CHAMPIONS LEAGUE] FENERBAHCE VS SLAVIA PRAGUE 2 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/80dd1765-1354-4b54-8d0b-b9357bb91ab9.m3u8
+https://judiaslevels.embeds.gay/main/secure/e3385b6f095dd64eb808df41f27cce559453e7421f8ffd61ac5ae6a09aba369e/1792531810/tntsports3-uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UEFA CHAMPIONS LEAGUE] FENERBAHCE VS SLAVIA PRAGA | ESPANOL 1 (PLIBRE)🍜
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1731,14 +1743,6 @@ https://y2fzdgxl.fubo18.com:443/disney5/mono.m3u8?token=b5566262b88dc7a338eb58f3
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=vix3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/vix3/index.m3u8?token=f88f117253fad0e141898f0fd41ade7d998bd354-a3-1792562411-1792508411
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UEFA CHAMPIONS LEAGUE] SABAH BAKU VS BORUSSIA DORTMUND 1 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/XAXAXAA.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UEFA CHAMPIONS LEAGUE] SABAH BAKU VS BORUSSIA DORTMUND 2 (FAWA)🍜
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/c30f3a10-da23-4343-85d0-74148fd68066.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UEFA CHAMPIONS LEAGUE] SABAH FA VS BORUSSIA DORTMUND | ESPANOL 1 (PLIBRE)🍜
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -1766,7 +1770,7 @@ https://eWVz.fubo18.com:443/unimas/mono.m3u8?token=5efe465876b2bc1343155981ad83c
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UEFA CHAMPIONS LEAGUE] SABAH FK VS BORUSSIA DORTMUND (FLYEMBD)🍜
 #EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/it7aytqh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://judiaslevels.embeds.gay/main/secure/e8dece2bcf00f19621db9ba0146ad3ad81d7ad4ba6360c46a95907d12f71b5a6/1792524610/tntsports2-uk.m3u8
+https://judiaslevels.embeds.gay/main/secure/04572bd581bce0836c583500caa793f71364eb1f06c019bfd10323c277bc9e89/1792531813/tntsports2-uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="📢LIVE EVENTS🍜",📢[UEFA CHAMPIONS LEAGUE] SABAH FK VS BORUSSIA DORTMUND (ISTRMEAST)🍜
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58322?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -3926,7 +3930,7 @@ https://st.okcdn.ru/static/MegaPlayer/10-10-15/vp.swf&quot;,&quot;url11&quot;:&q
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
 https://live.dyrur1.com/live/vrqwni01ddnh4qn_b565757fe5d27dbfc7ee6592ff7dac7d_autoChange.m3u8?auth_key=1792463382-0-0-a10b72abef8ebd275f42494b0fed3aba
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="📢⚽DONASI HTTPS://TRAKTEER.ID/MYBHIANESSE0 2026-10-21 01:58:52 WIB⚽🍜",📢DUKUNG SERVER KAMI 2026-10-21 01:58:52 WIB🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="📢⚽DONASI HTTPS://TRAKTEER.ID/MYBHIANESSE0 2026-10-21 02:02:01 WIB⚽🍜",📢DUKUNG SERVER KAMI 2026-10-21 02:02:01 WIB🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://viiip.kitashinsaku.com/gam.php?url=https://i.ibb.co.com/RkmBWqRr/free.png" group-title="📢LIVE🍜",📢DONASI HTTPS://TRAKTEER.ID/MYBHIANESSE0🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
@@ -7402,380 +7406,386 @@ https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0106/cuphvv3oq1cd7eglug
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📢SUPPORT ME 2[00:50 WIB]🍜",📢DUKUNG SERVER IPTV🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="📢UPDATE V1: [01.53 WIB 21/10/26]🍜",📢DONASI SERVER PLAYLIST IPTV V1 HTTPS://TRAKTEER.ID/MYBHIANESSE0 DANA OVO GOPAY 085795119808🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="📢UPDATE V1: [02.01 WIB 21/10/26]🍜",📢DONASI SERVER PLAYLIST IPTV V1 HTTPS://TRAKTEER.ID/MYBHIANESSE0 DANA OVO GOPAY 085795119808🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="📢UPDATE V2: [01.54 WIB 21/10/26]🍜",📢DONASI SERVER PLAYLIST IPTV V2 HTTPS://TRAKTEER.ID/MYBHIANESSE0 DANA OVO GOPAY 085795119808🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="📢UPDATE V2: [02.01 WIB 21/10/26]🍜",📢DONASI SERVER PLAYLIST IPTV V2 HTTPS://TRAKTEER.ID/MYBHIANESSE0 DANA OVO GOPAY 085795119808🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="📢UPDATE V3: [01.52 WIB 21/10/26]🍜",📢DONASI SERVER PLAYLIST IPTV V3 HTTPS://TRAKTEER.ID/MYBHIANESSE0 DANA OVO GOPAY 085795119808🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="📢UPDATE V3: [02.00 WIB 21/10/26]🍜",📢DONASI SERVER PLAYLIST IPTV V3 HTTPS://TRAKTEER.ID/MYBHIANESSE0 DANA OVO GOPAY 085795119808🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="📢UPDATE V4: [01.52 WIB 21/10/26]🍜",📢DONASI SERVER PLAYLIST IPTV V4 HTTPS://TRAKTEER.ID/MYBHIANESSE0 DANA OVO GOPAY 085795119808🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="📢UPDATE V4: [01.59 WIB 21/10/26]🍜",📢DONASI SERVER PLAYLIST IPTV V4 HTTPS://TRAKTEER.ID/MYBHIANESSE0 DANA OVO GOPAY 085795119808🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/wadi-degla-sc-1c6b6a.png" group-title="📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 1🍜",📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=24e784e62b5024b6c9e77c8d246b5a22&txTime=6ad80b12
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/wadi-degla-sc-1c6b6a.png" group-title="📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 2🍜",📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 2 (SVR-BHNS 2)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=2199eb3d14819aa4a47bafe3272c816d&txTime=6ad80b12
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/wadi-degla-sc-1c6b6a.png" group-title="📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 3🍜",📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 3 (SVR-BHNS 3)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912136_lsd.m3u8?txSecret=b9c9113a3f7064366b4cd2d6fbf10305&txTime=6ad80b12
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/wadi-degla-sc-1c6b6a.png" group-title="📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 4🍜",📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 4 (SVR-BHNS 4)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=de8abe60c04e7c531d99f93ee81352d8&txTime=6ad80b12
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/buducnost-bc93d4.webp" group-title="📢[LIVE 00:00 WIB 21/10/26] BUDUCNOST VS NEPTUNAS | SERVER 1🍜",📢[LIVE 00:00 WIB 21/10/26] BUDUCNOST VS NEPTUNAS | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1792525506-0-0-25488b72a4b26dfff45ee076f56616b2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1792526046-0-0-ad7c4c53a5ecafcce7ce275991e0a574
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/buducnost-bc93d4.webp" group-title="📢[LIVE 00:00 WIB 21/10/26] BUDUCNOST VS NEPTUNAS | SERVER 2🍜",📢[LIVE 00:00 WIB 21/10/26] BUDUCNOST VS NEPTUNAS | SERVER 2 (SVR-BHNS 2)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1792525506-0-0-59e312b3b41d1ad2ce5be153f48ac27f
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL-NASSR VS NEOM SC | SERVER 1🍜",📢[LIVE 01:00 WIB 21/10/26] AL-NASSR VS NEOM SC | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MwarmCjevo2QQpzuJ.m3u8?txSecret=32316235e14d6bba6d8b4ad987dda24a&txTime=6AD86025
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wex1sora.com/thesports/football/team/d63036cfba56a5c3cb75ab14b33fe677.png" group-title="📢[LIVE 01:00 WIB 21/10/26] BÓNG ĐÁ NỮ MAROC U17 VS ĐỨC U17 NỮ | SERVER 1🍜",📢[LIVE 01:00 WIB 21/10/26] BONG DA NU MAROC U17 VS DUC U17 NU | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mwe5ZuQ2SSPaa3ngU.m3u8?txSecret=e0fccde6b15bd620c3214144acd888be&txTime=6AD86025
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/goncalense-c27038.png" group-title="📢[LIVE 01:00 WIB 21/10/26] GONCALENSE VS SERRANO FC | SERVER 1🍜",📢[LIVE 01:00 WIB 21/10/26] GONCALENSE VS SERRANO FC | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjKLmFsNKzyRa5kG.m3u8?txSecret=0d5d16d9b4cafdff06dc0354343b37ca&txTime=6AD86025
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-ettifaq-c6f243.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL ETTIFAQ VS AL-ITTIHAD FC | SERVER 1🍜",📢[LIVE 01:00 WIB 21/10/26] AL ETTIFAQ VS AL-ITTIHAD FC | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MwarmCjen16vVXLHi.m3u8?txSecret=c19e13e1d05437499f6c3de272c1eafc&txTime=6AD86025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1792526046-0-0-ee8dcf76553aa8fa556399b508ec33af
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/wadi-degla-sc-1c6b6a.png" group-title="📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 1🍜",📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=46b3e6418340852f7f3010d0faea6aaa&txTime=6ad80d2e
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/wadi-degla-sc-1c6b6a.png" group-title="📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 2🍜",📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 2 (SVR-BHNS 2)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=a2831b78cc3071e1ca034ab1eb4177d1&txTime=6ad80d2e
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/wadi-degla-sc-1c6b6a.png" group-title="📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 3🍜",📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 3 (SVR-BHNS 3)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912136_lsd.m3u8?txSecret=0ed6414f4e7fcbaa97d41767fd8f443c&txTime=6ad80d2e
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/wadi-degla-sc-1c6b6a.png" group-title="📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 4🍜",📢[LIVE 00:00 WIB 21/10/26] WADI DEGLA SC VS BANK EL AHLY | SERVER 4 (SVR-BHNS 4)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=209db4986b1799aea050f02ca22fd62a&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 1🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://hwyypull.ncctrials.com/live/stream-512383_lhd.flv?auth_key=1792364015-0-0-a76fbfd14c856632a1bfdf41a1b7d00b
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 2🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 2 (SVR-BHNS 2)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://hwyypull.ncctrials.com/live/stream-512383_lsd.flv?auth_key=1792364015-0-0-a76fbfd14c856632a1bfdf41a1b7d00b
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 3🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 3 (SVR-BHNS 3)🍜
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/nassr-neom-ksapro/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 4🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 4 (SVR-BHNS 4)🍜
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 2🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 2 (SVR-BHNS 2)🍜
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/nassr-neom-ksapro.flv
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 3🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 3 (SVR-BHNS 3)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://hwyypull.ncctrials.com/live/stream-512383_lhd.flv?auth_key=1792364015-0-0-a76fbfd14c856632a1bfdf41a1b7d00b
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 4🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 4 (SVR-BHNS 4)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+https://hwyypull.ncctrials.com/live/stream-512383_lsd.flv?auth_key=1792364015-0-0-a76fbfd14c856632a1bfdf41a1b7d00b
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 5🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 5 (SVR-BHNS 5)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 6🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 6 (SVR-BHNS 6)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1792525506-0-0-e0f45edfa4252cc99c5927ad01d9c78f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1792526046-0-0-09dcb4506b1a96680209f51c33827903
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 7🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 7 (SVR-BHNS 7)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1792525506-0-0-b5509bb923b158d25ea377fc94a2ea8a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1792526046-0-0-4b79b5d5f622fd29eec1ed287fc1bb97
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 8🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 8 (SVR-BHNS 8)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1792525506-0-0-6b07dc6cb58abef36540042e4cf0d2ef
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1792526046-0-0-89a49c3313491d74c0d215f2821b0fea
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 9🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 9 (SVR-BHNS 9)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1792525506-0-0-32366a5a4e8daf3ec0776602687f9af4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1792526046-0-0-e4c7d808a16c4eb075db411ec38bd423
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 10🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 10 (SVR-BHNS 10)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1792525506-0-0-eef5d35b00dff49258b093636e7b36a9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1792526046-0-0-43a451213fbd244ec74bb090a0fb6dfe
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 11🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 11 (SVR-BHNS 11)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1792525506-0-0-1b08b05102715b572249153b4d018828
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1792526046-0-0-75e4d6c0751b226e6a3d9fa0032e2655
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 12🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 12 (SVR-BHNS 12)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=382bcab9b9c7e53802cfc4e410586cd8&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=cb24c9510cbc72511b6f16d473457577&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 13🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 13 (SVR-BHNS 13)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=487042b2b9a183881302136d2cea6646&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=58af134764d4b8a6daca6215e007bc4d&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 14🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 14 (SVR-BHNS 14)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1792525506-0-0-8500cfe49eba2c40458810d7de8343f3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1792526046-0-0-1c51470be80c7d9adec5e885f6a53f8c
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 15🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 15 (SVR-BHNS 15)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1792525506-0-0-83bfea040dff5d317c8f8835722409e1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1792526046-0-0-c17a2d7b3768a95631c447b308e020a3
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 16🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 16 (SVR-BHNS 16)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1792525506-0-0-a8a767238fe0a55f94ccbbaf1aeb8531
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1792526046-0-0-5703e466fa5ae328aad44e31230b70d4
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/al-nassr-cfbfce.webp" group-title="📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 17🍜",📢[LIVE 01:00 WIB 21/10/26] AL NASSR VS NEOM SC | SERVER 17 (SVR-BHNS 17)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1792525506-0-0-98572194a7519f2ddcf4edf62f0231c9
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/blackpool-976610.png" group-title="📢[LIVE 01:45 WIB 21/10/26] BLACKPOOL VS MK DONS | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] BLACKPOOL VS MK DONS | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweZzgF7kVg1fvBR6.m3u8?txSecret=e5d5132333f3e2f7d4b8db7251673d9b&txTime=6AD86025
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/barnet-aead80.png" group-title="📢[LIVE 01:45 WIB 21/10/26] BARNET VS SWINDON TOWN | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] BARNET VS SWINDON TOWN | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweZwMYnKQvLCLu3z.m3u8?txSecret=1832ed7f3ba6ce55a389682a0c0ea678&txTime=6AD86025
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/doncaster-rovers-6a5b35.png" group-title="📢[LIVE 01:45 WIB 21/10/26] DONCASTER ROVERS VS STOCKPORT COUNTY | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] DONCASTER ROVERS VS STOCKPORT COUNTY | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweZzgExRoTuegjgY.m3u8?txSecret=190b5e2b1692681f9ae00c3bfc0d612c&txTime=6AD86025
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/luton-town-6d7334.webp" group-title="📢[LIVE 01:45 WIB 21/10/26] LUTON TOWN VS BARNSLEY | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] LUTON TOWN VS BARNSLEY | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweZzgExWCRecLZzL.m3u8?txSecret=05a51009714c86a26bf4bd300d419263&txTime=6AD86025
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/bromley-0af31c.png" group-title="📢[LIVE 01:45 WIB 21/10/26] BROMLEY VS LEICESTER CITY | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] BROMLEY VS LEICESTER CITY | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweZzgExPbz3ArpXe.m3u8?txSecret=8379aad678fbdae17c66f0e056ad104b&txTime=6AD86025
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/rochdale-20163a.png" group-title="📢[LIVE 01:45 WIB 21/10/26] ROCHDALE VS GRIMSBY TOWN | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] ROCHDALE VS GRIMSBY TOWN | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweZwMXwjetZ9E2Qc.m3u8?txSecret=0f0143740b702a4ea5c7d49ff1f1bd98&txTime=6AD86025
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/bristol-rovers-edbaf9.png" group-title="📢[LIVE 01:45 WIB 21/10/26] BRISTOL ROVERS VS SALFORD CITY | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] BRISTOL ROVERS VS SALFORD CITY | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweZwMYnHDSTiWyu6.m3u8?txSecret=b21cd15c99d52e314a0bf241165ead12&txTime=6AD86025
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/cheltenham-town-f44d81.webp" group-title="📢[LIVE 01:45 WIB 21/10/26] CHELTENHAM TOWN VS FLEETWOOD TOWN | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] CHELTENHAM TOWN VS FLEETWOOD TOWN | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweZwMYmneC9Un4uS.m3u8?txSecret=4ad4d9bd3ca6c39d220ae38c54ea8e7b&txTime=6AD86025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1792526046-0-0-e6553a2899ae8a969eec1608833fcf90
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/wolverhampton-wanderers-1bffd1.webp" group-title="📢[LIVE 01:45 WIB 21/10/26] WOLVERHAMPTON WANDERERS VS PORTSMOUTH | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] WOLVERHAMPTON WANDERERS VS PORTSMOUTH | SERVER 1 (SVR-BHNS 1)🍜
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweZwRF347YKwo5U8.m3u8?txSecret=0b8adc4659960e95425cc939c9155a9e&txTime=6AD86025
+https://live.cds78y11d.org/live/hd-en-6MweZwRF347YKwo5U8.m3u8?txSecret=6583e6ce73475813384458ab33362cd9&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/wolverhampton-wanderers-1bffd1.webp" group-title="📢[LIVE 01:45 WIB 21/10/26] WOLVERHAMPTON WANDERERS VS PORTSMOUTH | SERVER 2🍜",📢[LIVE 01:45 WIB 21/10/26] WOLVERHAMPTON WANDERERS VS PORTSMOUTH | SERVER 2 (SVR-BHNS 2)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MweZwRF347YKwo5U8.m3u8?txSecret=d5b25030bf7eabb3f7bc01770e07ff29&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/luton-town-6d7334.webp" group-title="📢[LIVE 01:45 WIB 21/10/26] LUTON TOWN VS BARNSLEY | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] LUTON TOWN VS BARNSLEY | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MweZzgExWCRecLZzL.m3u8?txSecret=02595719acc6bab80c90dd67b7f2c8a7&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/bromley-0af31c.png" group-title="📢[LIVE 01:45 WIB 21/10/26] BROMLEY VS LEICESTER CITY | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] BROMLEY VS LEICESTER CITY | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MweZzgExPbz3ArpXe.m3u8?txSecret=dcbd55f06b7b99012b50d389c8c2f08a&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/doncaster-rovers-6a5b35.png" group-title="📢[LIVE 01:45 WIB 21/10/26] DONCASTER ROVERS VS STOCKPORT COUNTY | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] DONCASTER ROVERS VS STOCKPORT COUNTY | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MweZzgExRoTuegjgY.m3u8?txSecret=67938e518b18459c5107c39286d6510f&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/cheltenham-town-f44d81.webp" group-title="📢[LIVE 01:45 WIB 21/10/26] CHELTENHAM TOWN VS FLEETWOOD TOWN | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] CHELTENHAM TOWN VS FLEETWOOD TOWN | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MweZwMYmneC9Un4uS.m3u8?txSecret=3aee286828122dd3d7850334dde55231&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/bristol-rovers-edbaf9.png" group-title="📢[LIVE 01:45 WIB 21/10/26] BRISTOL ROVERS VS SALFORD CITY | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] BRISTOL ROVERS VS SALFORD CITY | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MweZwMYnHDSTiWyu6.m3u8?txSecret=cc88ceb2702173e5eecbf6cd8e922656&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/blackpool-976610.png" group-title="📢[LIVE 01:45 WIB 21/10/26] BLACKPOOL VS MK DONS | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] BLACKPOOL VS MK DONS | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MweZzgF7kVg1fvBR6.m3u8?txSecret=cbcf4c5131d70f1fd893a2442557ea03&txTime=6AD8618D
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wex1sora.com/thesports/football/team/2bd3fff44d7c0536af4892e716c12b35.png" group-title="📢[LIVE 01:45 WIB 21/10/26] DUNFERMLINE VS PARTICK THISTLE | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] DUNFERMLINE VS PARTICK THISTLE | SERVER 1 (SVR-BHNS 1)🍜
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mwdq1v3E5fT5ecFaC.m3u8?txSecret=ec0ec02c3e6dd04273c529f69c16710c&txTime=6AD86025
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://live05.qioetj.app/live/87379114_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 2🍜",📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 2 (SVR-BHNS 2)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
-https://hwyypull.ncctrials.com/live/stream-374391_lhd.flv?auth_key=1792443639-0-0-ec811bcd394475234e9840f7e3b8e949
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 3🍜",📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 3 (SVR-BHNS 3)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
-https://hwyypull.ncctrials.com/live/stream-374391_lsd.flv?auth_key=1792443639-0-0-ec811bcd394475234e9840f7e3b8e949
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 4🍜",📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 4 (SVR-BHNS 4)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6a90f2daf2fa6c299ee12a0e.m3u8?auth_key=1792543442-0-0-2f32cba1e77b76742375a0eface77b76
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 5🍜",📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 5 (SVR-BHNS 5)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=24e784e62b5024b6c9e77c8d246b5a22&txTime=6ad80b12
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 6🍜",📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 6 (SVR-BHNS 6)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=2199eb3d14819aa4a47bafe3272c816d&txTime=6ad80b12
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6a90f2daf2fa6c299ee129e1.m3u8?auth_key=1792543442-0-0-0d39a26df8d53c4900635fe076750304
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 2🍜",📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 2 (SVR-BHNS 2)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=13367096d2cee98f8cbf59caf4cbe163&txTime=6ad80b12
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 3🍜",📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 3 (SVR-BHNS 3)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=a13ec6ee0bc47711979e9a8845f22b4c&txTime=6ad80b12
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 4🍜",📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 4 (SVR-BHNS 4)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1792525506-0-0-75c3d3140f755ff672e86affe3ff4355
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 5🍜",📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 5 (SVR-BHNS 5)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1792525506-0-0-7ad7f23f9a72a3928971e6a5e25d4d2f
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 1 (SVR-BHNS 1)🍜
+https://live.cds78y11d.org/live/sd-6Mwdq1v3E5fT5ecFaC.m3u8?txSecret=85afa8bae21c1a1c0e71774386821b78&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/rochdale-20163a.png" group-title="📢[LIVE 01:45 WIB 21/10/26] ROCHDALE VS GRIMSBY TOWN | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] ROCHDALE VS GRIMSBY TOWN | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MweZwMXwjetZ9E2Qc.m3u8?txSecret=1b090325c6bdca7056a55143368599e3&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/barnet-aead80.png" group-title="📢[LIVE 01:45 WIB 21/10/26] BARNET VS SWINDON TOWN | SERVER 1🍜",📢[LIVE 01:45 WIB 21/10/26] BARNET VS SWINDON TOWN | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MweZwMYnKQvLCLu3z.m3u8?txSecret=59e37e45bbe2bd97f0a3fe500a64ecba&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/hd-en-6Mxj4xXRWCqPwhAFcx.m3u8?txSecret=2ac0ed8cca1839081c0fc2ff152119db&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 2🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 2 (SVR-BHNS 2)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxj4xXRWCqPwhAFcx.m3u8?txSecret=efbe0614ed1459677a3705f01bc5947f&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 3🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 3 (SVR-BHNS 3)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/liv-villa-c1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 4🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 4 (SVR-BHNS 4)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/liv-villa-c1.flv
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 5🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 5 (SVR-BHNS 5)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://live05.qioetj.app/live/02456966_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 6🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 6 (SVR-BHNS 6)🍜
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://live3.dyrur1.com/live/14387803_1a1303be1523ef583a1f07f7fc047e8f_autoChange.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 7🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 7 (SVR-BHNS 7)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://pull.qjkngv.com/live/stream-615204_lhd.flv?auth_key=1792446967-0-0-4d761649de15b48b8e07b156063406d7
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 8🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 8 (SVR-BHNS 8)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://pull.qjkngv.com/live/stream-615204_lsd.flv?auth_key=1792446967-0-0-4d761649de15b48b8e07b156063406d7
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 9🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 9 (SVR-BHNS 9)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/live/live_58738_lud.m3u8?auth_key=1792534547-0-0-155a98149d54292eff0fa076a5163272
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 10🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 10 (SVR-BHNS 10)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/live/live_58738_lud.flv?auth_key=1792534547-0-0-2ee042fea287dd7dd7909f7e2b61380d
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 11🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 11 (SVR-BHNS 11)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6a90f2daf2fa6c299ee129ed.m3u8?auth_key=1792543982-0-0-719ac15db84648eb1873488fb2fe35e5
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 12🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 12 (SVR-BHNS 12)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912133_lsd.m3u8?auth_key=1792526046-0-0-eb05c5a99143a5ef2bc8375f99b3a6b0
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 13🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 13 (SVR-BHNS 13)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1792526046-0-0-c66e63ae8f84e20bc9110b96c4ba0311
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 14🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 14 (SVR-BHNS 14)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912138_lsd.m3u8?auth_key=1792526046-0-0-2db70d383818e4d3601e884760121443
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 15🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 15 (SVR-BHNS 15)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1792526046-0-0-841a0a21057f23fbb30fa11aa1fe1a46
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 16🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 16 (SVR-BHNS 16)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1792526046-0-0-0078bf9f57fee6b543dd8ee083dd8910
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 17🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 17 (SVR-BHNS 17)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1792526046-0-0-010fd23d7d4e44855d0d89a5d29e731b
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 18🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 18 (SVR-BHNS 18)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1792526046-0-0-c201a8f1d02551d9b8073e7002c0c32f
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 19🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 19 (SVR-BHNS 19)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1792526046-0-0-b99ba11ae44ba5ce2756a7014f3d6f83
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 20🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 20 (SVR-BHNS 20)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=2de41aaf412bf8741b5db285737c34ac&txTime=6ad80d2e
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 21🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 21 (SVR-BHNS 21)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=69439db2cedb800af73741a25a06254b&txTime=6ad80d2e
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 22🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 22 (SVR-BHNS 22)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1792526046-0-0-b63c7b4acc1829550a791be47e5e56ef
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 23🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 23 (SVR-BHNS 23)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1792526046-0-0-1768a8bc7bc93f24f25b495ef838f23f
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLÉTICO MADRID | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/hd-en-6Mxj4xYAz5MFNqVMLg.m3u8?txSecret=a2a8d2a0a0953138d6a6490def620800&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLÉTICO MADRID | SERVER 2🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 2 (SVR-BHNS 2)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxj4xYAz5MFNqVMLg.m3u8?txSecret=688c87179b682b705c5d47c4d38a8b36&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/hd-en-6Mxj4xXSfvZ6F2Uvj6.m3u8?txSecret=8e2105092886d8b48abe7afe27fe29a7&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 2🍜",📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 2 (SVR-BHNS 2)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxj4xXSfvZ6F2Uvj6.m3u8?txSecret=d99a91a4591314d5bf641c4b0e69c299&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 3🍜",📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 3 (SVR-BHNS 3)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://live05.qioetj.app/live/87379114_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 4🍜",📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 4 (SVR-BHNS 4)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://hwyypull.ncctrials.com/live/stream-374391_lhd.flv?auth_key=1792443639-0-0-ec811bcd394475234e9840f7e3b8e949
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 5🍜",📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 5 (SVR-BHNS 5)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://hwyypull.ncctrials.com/live/stream-374391_lsd.flv?auth_key=1792443639-0-0-ec811bcd394475234e9840f7e3b8e949
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 6🍜",📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 6 (SVR-BHNS 6)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6a90f2daf2fa6c299ee12a0e.m3u8?auth_key=1792543982-0-0-4c9e9f08ee64ce01feb3d0c5ba704cd5
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 7🍜",📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 7 (SVR-BHNS 7)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=46b3e6418340852f7f3010d0faea6aaa&txTime=6ad80d2e
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 8🍜",📢[LIVE 02:00 WIB 21/10/26] FC PORTO VS PSV EINDHOVEN | SERVER 8 (SVR-BHNS 8)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=a2831b78cc3071e1ca034ab1eb4177d1&txTime=6ad80d2e
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/thành-phố-manchester-f3ae39.png" group-title="📢[LIVE 02:00 WIB 21/10/26] THÀNH PHỐ MANCHESTER VS AEK ATHENS FC | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] THANH PHO MANCHESTER VS AEK ATHENS FC | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/hd-en-6Mxj4xXRViG9dTRLdJ.m3u8?txSecret=01b947c283f359ac7b713080af65d20e&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/thành-phố-manchester-f3ae39.png" group-title="📢[LIVE 02:00 WIB 21/10/26] THÀNH PHỐ MANCHESTER VS AEK ATHENS FC | SERVER 2🍜",📢[LIVE 02:00 WIB 21/10/26] THANH PHO MANCHESTER VS AEK ATHENS FC | SERVER 2 (SVR-BHNS 2)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxj4xXRViG9dTRLdJ.m3u8?txSecret=a0d2490ca3787c6c38a2243a54ee1f12&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/hd-en-6Mxj4xXRzrUfvPj5ak.m3u8?txSecret=57a67d76e6ab33929d7f6d14de9e164c&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 2🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 2 (SVR-BHNS 2)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxj4xXRzrUfvPj5ak.m3u8?txSecret=8fa9e342a837cd080cb6b758394a8485&txTime=6AD8618D
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 3🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 3 (SVR-BHNS 3)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/psg-barce-c1-cat/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 4🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 4 (SVR-BHNS 4)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/psg-barce-c1-cat.flv
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 5🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 5 (SVR-BHNS 5)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/psg-barce-c1-ram/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 6🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 6 (SVR-BHNS 6)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/psg-barce-c1-ram.flv
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 7🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 7 (SVR-BHNS 7)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+https://live05.qioetj.app/live/14707124_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 8🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 8 (SVR-BHNS 8)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://live05.qioetj.app/live/33982309_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 9🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 9 (SVR-BHNS 9)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://hwyypull.ncctrials.com/live/stream-9995127_lhd.flv?auth_key=1792463945-0-0-d6ceec867c34c02d62cebf72f950286d
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 10🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 10 (SVR-BHNS 10)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://hwyypull.ncctrials.com/live/stream-9995127_lsd.flv?auth_key=1792463945-0-0-d6ceec867c34c02d62cebf72f950286d
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 11🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 11 (SVR-BHNS 11)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/live/live_58739_lud.m3u8?auth_key=1792534228-0-0-87697436a1228a008f8dc734b890e3d8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 12🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 12 (SVR-BHNS 12)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/live/live_58739_lud.flv?auth_key=1792534228-0-0-fec1c017c91e1bdda0a75e506575b355
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 13🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 13 (SVR-BHNS 13)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6a90f2daf2fa6c299ee129de.m3u8?auth_key=1792543982-0-0-59b80cbd6d23df77d5d23c751a93665a
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 14🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 14 (SVR-BHNS 14)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 15🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 15 (SVR-BHNS 15)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=9183a71fd6151e78e8b9c9e6ad3f9896&txTime=6ad80d2e
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 16🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 16 (SVR-BHNS 16)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=f0b250306c5cdd6cdca82fa1130c0eab&txTime=6ad80d2e
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 17🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 17 (SVR-BHNS 17)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912141_lsd.m3u8?auth_key=1792526046-0-0-a0da7294dc94190707704baac2ae2788
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 18🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 18 (SVR-BHNS 18)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1792526046-0-0-161575688a9f585d9f4b3ae82b82898c
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 19🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 19 (SVR-BHNS 19)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=7a1e76940969aa6dddae56b073431b02&txTime=6ad80d2e
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 20🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 20 (SVR-BHNS 20)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=b97c3efa9ff62033d270347256b2afa6&txTime=6ad80d2e
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 21🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 21 (SVR-BHNS 21)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1792526046-0-0-382f4c7db29c80b4f532fe1f2db3d441
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 22🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 22 (SVR-BHNS 22)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1792526046-0-0-cacc68b0f1e7ab4091bb41b9d513335c
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 23🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 23 (SVR-BHNS 23)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1792526046-0-0-183ceebc598e4fc3bde2d5c7b7ad031d
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 24🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 24 (SVR-BHNS 24)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1792526046-0-0-8d31711f48aac27282ff4118c6195b4c
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 25🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 25 (SVR-BHNS 25)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1792526046-0-0-7d232f62e46cc3c6c689ba2fa06c03b8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 26🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 26 (SVR-BHNS 26)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1792526046-0-0-811c759e722255cf5d2cee8c2b844472
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://live05.qioetj.app/live/19919577_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 2🍜",📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 2 (SVR-BHNS 2)🍜
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pull.qjkngv.com/live/stream-598570_lhd.flv?auth_key=1792464005-0-0-b6444ec8805bcf8bfc785dcd3c495b22
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 3🍜",📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 3 (SVR-BHNS 3)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pull.qjkngv.com/live/stream-598570_lsd.flv?auth_key=1792464005-0-0-b6444ec8805bcf8bfc785dcd3c495b22
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 4🍜",📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 4 (SVR-BHNS 4)🍜
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6a90f2da14cfe5ec671d76ff.m3u8?auth_key=1792543442-0-0-2e5bfbc8ca81780cabc7eafa9012b46e
+https://pull.fmp.live/sla/1-6a90f2da14cfe5ec671d76ff.m3u8?auth_key=1792543982-0-0-61677d6de374c0a87f582bb955f2dc1e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 5🍜",📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 5 (SVR-BHNS 5)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1792525506-0-0-4c4ca066fb4c4d88e9f8e29babfecfec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1792526046-0-0-b1a75e21fa25ef5e830b50e9cd53a028
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 6🍜",📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 6 (SVR-BHNS 6)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1792525506-0-0-826df153f5ee96dd2d91a09e414b9f3f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1792526046-0-0-b3404f579285a3b9ac354ee543e134cf
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 7🍜",📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 7 (SVR-BHNS 7)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=8461c97ba17f766bda0111d57123512b&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=547e00b476d219465f0dff4856842509&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 8🍜",📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 8 (SVR-BHNS 8)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=e30f4546cc91a9660fad8740c5426d7a&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=4cb5800427c3a50686557534ce731e68&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 9🍜",📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 9 (SVR-BHNS 9)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1792525506-0-0-9b34d09b646f991734f1f45bc4dc1e69
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1792526046-0-0-3114634b13c380cc2ad6eeafe420fcbb
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 10🍜",📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 10 (SVR-BHNS 10)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1792525506-0-0-ae6667633476cb23114b99f35fd79db6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1792526046-0-0-c19368f8c9eb2e802b17919594ba7470
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 11🍜",📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 11 (SVR-BHNS 11)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1792525506-0-0-b95b82694dd0744eab2b414e641317f3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1792526046-0-0-ef70c0f4a254701e4d8b51fe6fe2a088
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 12🍜",📢[LIVE 02:00 WIB 21/10/26] AS ROMA VS SLOVAN BRATISLAVA | SERVER 12 (SVR-BHNS 12)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1792525506-0-0-80737df67dfdf867dbb1bff1bee617c5
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/detroit-pistons-baffdd.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] DETROIT PISTONS VS BOSTON CELTICS | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] DETROIT PISTONS VS BOSTON CELTICS | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1792525506-0-0-25488b72a4b26dfff45ee076f56616b2
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/detroit-pistons-baffdd.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] DETROIT PISTONS VS BOSTON CELTICS | SERVER 2🍜",📢[LIVE 02:00 WIB 21/10/26] DETROIT PISTONS VS BOSTON CELTICS | SERVER 2 (SVR-BHNS 2)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1792525506-0-0-59e312b3b41d1ad2ce5be153f48ac27f
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/liv-villa-c1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 2🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 2 (SVR-BHNS 2)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/liv-villa-c1.flv
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 3🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 3 (SVR-BHNS 3)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
-https://live05.qioetj.app/live/02456966_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 4🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 4 (SVR-BHNS 4)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
-https://live3.dyrur1.com/live/14387803_1a1303be1523ef583a1f07f7fc047e8f_autoChange.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 5🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 5 (SVR-BHNS 5)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
-https://pull.qjkngv.com/live/stream-615204_lhd.flv?auth_key=1792446967-0-0-4d761649de15b48b8e07b156063406d7
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 6🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 6 (SVR-BHNS 6)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://pull.qjkngv.com/live/stream-615204_lsd.flv?auth_key=1792446967-0-0-4d761649de15b48b8e07b156063406d7
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 7🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 7 (SVR-BHNS 7)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6a90f2daf2fa6c299ee129ed.m3u8?auth_key=1792543442-0-0-6b8d9c308c61d5b559aac7ade211aa43
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 8🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 8 (SVR-BHNS 8)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1792525506-0-0-2f8073e304d0ca17f2d0af2e478a2767
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 9🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 9 (SVR-BHNS 9)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1792525506-0-0-b32f881c582d5c3a56bb3c8d955bd9db
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 10🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 10 (SVR-BHNS 10)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912133_lsd.m3u8?auth_key=1792525506-0-0-673e7aeaf0b230ce13ef5ad9e2665e2f
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 11🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 11 (SVR-BHNS 11)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1792525506-0-0-6cdb2a1db410cda35f59cc14f81ebeae
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 12🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 12 (SVR-BHNS 12)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912138_lsd.m3u8?auth_key=1792525506-0-0-cd5d241be5379135d2e63cb9f6e5b652
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 13🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 13 (SVR-BHNS 13)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1792525506-0-0-8f6a89f373fe1a2eca0d14b7b334e622
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 14🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 14 (SVR-BHNS 14)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1792525506-0-0-6adccda1ba4af371d30e1dfe5be38539
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 15🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 15 (SVR-BHNS 15)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1792525506-0-0-1b674b141ff23a95dcf8fce2a946833d
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 16🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 16 (SVR-BHNS 16)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=a95efeba8fd186b37c41dc9827c42f57&txTime=6ad80b12
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 17🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 17 (SVR-BHNS 17)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=d228b55713a2a6cf0a29d7e1deba1436&txTime=6ad80b12
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 18🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 18 (SVR-BHNS 18)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1792525506-0-0-d0119994848f007783e02a37ecf9c283
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/liverpool-d177b4.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 19🍜",📢[LIVE 02:00 WIB 21/10/26] LIVERPOOL VS VILLARREAL CF | SERVER 19 (SVR-BHNS 19)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1792525506-0-0-409704c98a850400a46c8b55b27e7432
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1792526046-0-0-726120b38452eff034c93e2a403d9c57
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://live05.qioetj.app/live/14830711_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 2🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 2 (SVR-BHNS 2)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://live05.qioetj.app/live/07428422_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 3🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 3 (SVR-BHNS 3)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://hwyypull.ncctrials.com/live/stream-551893_lhd.flv?auth_key=1792447189-0-0-86de603f2c2d58562f52e6bb2fc26f9a
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 4🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 4 (SVR-BHNS 4)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://hwyypull.ncctrials.com/live/stream-551893_lsd.flv?auth_key=1792447189-0-0-86de603f2c2d58562f52e6bb2fc26f9a
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 5🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 5 (SVR-BHNS 5)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 6🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 6 (SVR-BHNS 6)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912140_lsd.m3u8?txSecret=d21244f8612d6f29d7a67a96505618e3&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1792526046-0-0-feceac9f34d7f240fde92232a2c52459
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 7🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 7 (SVR-BHNS 7)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=19aadf147aeab0c4fd67daea068ae208&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1792526046-0-0-b4eb437810afbb8d2915e612422f8f0a
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 8🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 8 (SVR-BHNS 8)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912127_lsd.m3u8?txSecret=c51d49f499e0d8bb658edc32bf794efb&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=aa9fd2e8885fbc9695d24b0699a08b75&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 9🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 9 (SVR-BHNS 9)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=c618893f8303fab1449a062fde12bfe1&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=f7d0183dcc44d38c1d52fe25572bf0c5&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 10🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 10 (SVR-BHNS 10)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=18caae763e28cb7d8e3e4f775a5562cf&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912140_lsd.m3u8?txSecret=c465ba80aad4f41d21550fa783ece546&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 11🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 11 (SVR-BHNS 11)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=958bcdb3ce0cf1c2140d8007ef3107cb&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=bb66b4b73033036734022abdc89c74c1&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 12🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 12 (SVR-BHNS 12)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1792525506-0-0-66f6b7110de955088b42170d3a9fa8a3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912127_lsd.m3u8?txSecret=e263f78baacd2ea5726bea1e069a360a&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 13🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 13 (SVR-BHNS 13)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1792525506-0-0-1c4bedb646850dc5303ca32b94469ce3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=6cbf30ef5a7b147017cc60bf2547e180&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 14🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 14 (SVR-BHNS 14)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912142_lsd.m3u8?auth_key=1792525506-0-0-63881e81b4a01be69ea1c852b1e3f4d0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912142_lsd.m3u8?auth_key=1792526046-0-0-a08a6f0ca2819d2d4d914920e30e338e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 15🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 15 (SVR-BHNS 15)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1792525506-0-0-8500e98c7ac530291f7a910ad6d4811e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1792526046-0-0-8e59b7d2795451571369d4295b72b762
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 16🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 16 (SVR-BHNS 16)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912129_lsd.m3u8?txSecret=0c0c41552bd5160cd3fb8f4232b06179&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912129_lsd.m3u8?txSecret=d3da43226dff7eaebc8b8188e99a31ff&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 17🍜",📢[LIVE 02:00 WIB 21/10/26] MANCHESTER CITY VS AEK ATHENS | SERVER 17 (SVR-BHNS 17)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=640627072c8b2d70103a7e2c0278aa9a&txTime=6ad80b12
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 1 (SVR-BHNS 1)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/psg-barce-c1-cat/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 2🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 2 (SVR-BHNS 2)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/psg-barce-c1-cat.flv
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 3🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 3 (SVR-BHNS 3)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/psg-barce-c1-ram/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 4🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 4 (SVR-BHNS 4)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/psg-barce-c1-ram.flv
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 5🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 5 (SVR-BHNS 5)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
-https://live05.qioetj.app/live/14707124_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 6🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 6 (SVR-BHNS 6)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://live05.qioetj.app/live/33982309_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 7🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 7 (SVR-BHNS 7)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://hwyypull.ncctrials.com/live/stream-9995127_lhd.flv?auth_key=1792463945-0-0-d6ceec867c34c02d62cebf72f950286d
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 8🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 8 (SVR-BHNS 8)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
-https://hwyypull.ncctrials.com/live/stream-9995127_lsd.flv?auth_key=1792463945-0-0-d6ceec867c34c02d62cebf72f950286d
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 9🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 9 (SVR-BHNS 9)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6a90f2daf2fa6c299ee129de.m3u8?auth_key=1792543442-0-0-7d8ac1045b999579d38554f02996d3ff
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 10🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 10 (SVR-BHNS 10)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/live/live_58739_lud.m3u8?auth_key=1792534228-0-0-87697436a1228a008f8dc734b890e3d8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 11🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 11 (SVR-BHNS 11)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/live/live_58739_lud.flv?auth_key=1792534228-0-0-fec1c017c91e1bdda0a75e506575b355
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 12🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 12 (SVR-BHNS 12)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 13🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 13 (SVR-BHNS 13)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=74589c18614e58dec285c9b901c9c7ae&txTime=6ad80b12
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 14🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 14 (SVR-BHNS 14)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=376c3412d79e5c3c3118a8c8839c5a3a&txTime=6ad80b12
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 15🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 15 (SVR-BHNS 15)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=f3835916dddb89290f059c58be992975&txTime=6ad80b12
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 16🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 16 (SVR-BHNS 16)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f0e96a590fc8025cbaa083fefd8ff9db&txTime=6ad80b12
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 17🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 17 (SVR-BHNS 17)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1792525506-0-0-496bd1e30be850f1acad6bf7c201b3ce
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 18🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 18 (SVR-BHNS 18)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1792525506-0-0-6d5bf93d73a4a67e65a2deec0f5211b7
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 19🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 19 (SVR-BHNS 19)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912141_lsd.m3u8?auth_key=1792525511-0-0-1dbc969f72194ee6c588799a5090cdbb
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 20🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 20 (SVR-BHNS 20)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1792525511-0-0-c396c411feb464e63c53f251cf9f0bb8
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 21🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 21 (SVR-BHNS 21)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1792525506-0-0-059323b6413df5c387d8dfc68404adba
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 22🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 22 (SVR-BHNS 22)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1792525506-0-0-a39b388322f987f5cc0d50b4d65615ec
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 23🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 23 (SVR-BHNS 23)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1792525506-0-0-0846b578ba50071c7c95c8d5516b11d0
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/paris-saint-germain-ed7683.png" group-title="📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 24🍜",📢[LIVE 02:00 WIB 21/10/26] PARIS SAINT GERMAIN VS FC BARCELONA | SERVER 24 (SVR-BHNS 24)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1792525506-0-0-f3605e52c3c0f4ca74d8d922eadbbc5a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=f683093be9158b8bd29a42661e2beccf&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 1 (SVR-BHNS 1)🍜
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/stut-atm-c1/index.m3u8
@@ -7783,41 +7793,62 @@ https://hls.lauthaitv.cc/live/stut-atm-c1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/stut-atm-c1.flv
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 3🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 3 (SVR-BHNS 3)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://live05.qioetj.app/live/75915087_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 4🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 4 (SVR-BHNS 4)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://hwyypull.ncctrials.com/live/stream-896956_lhd.flv?auth_key=1792361007-0-0-5ba6da9a2c1d9fc5de9eae1d19bd1ff7
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 5🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 5 (SVR-BHNS 5)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://hwyypull.ncctrials.com/live/stream-896956_lsd.flv?auth_key=1792361007-0-0-5ba6da9a2c1d9fc5de9eae1d19bd1ff7
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 6🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 6 (SVR-BHNS 6)🍜
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6a90f2daf2fa6c299ee129b9.m3u8?auth_key=1792543442-0-0-28bcae6453329737bbef453427e070af
+https://pull.fmp.live/sla/1-6a90f2daf2fa6c299ee129b9.m3u8?auth_key=1792543982-0-0-673dab4b684fc9c86abd67fe96acb435
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 7🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 7 (SVR-BHNS 7)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-620504_lsd.m3u8?auth_key=1792525506-0-0-1feb6e26475c1b5f946cd14e474931c8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912136_lsd.m3u8?txSecret=0ed6414f4e7fcbaa97d41767fd8f443c&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 8🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 8 (SVR-BHNS 8)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1792525506-0-0-288aaab5a7691717138696c74ff2df85
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=209db4986b1799aea050f02ca22fd62a&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 9🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 9 (SVR-BHNS 9)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912136_lsd.m3u8?txSecret=b9c9113a3f7064366b4cd2d6fbf10305&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912132_lsd.m3u8?txSecret=72daf1348a1546f7a139e24ec5ea6cfb&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 10🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 10 (SVR-BHNS 10)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=de8abe60c04e7c531d99f93ee81352d8&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=c7c050a8f18038526a27b6ee6445d6cd&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 11🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 11 (SVR-BHNS 11)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-602019_lsd.m3u8?txSecret=c899c1bef1b348f2fa09556906b4f6b9&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-620504_lsd.m3u8?auth_key=1792526046-0-0-9ea9e20fc9368ce04017731a3e35c601
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 12🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 12 (SVR-BHNS 12)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=d4f286104467a7bba976dbd330c400ec&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1792526046-0-0-995596d9ccdc5f3209298cdca308c680
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 13🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 13 (SVR-BHNS 13)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912132_lsd.m3u8?txSecret=369e6fb5e6b529a4282aaaba6f2dfbff&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-602019_lsd.m3u8?txSecret=ca446b865cc2fee1f6c5bd8df8735cc2&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 14🍜",📢[LIVE 02:00 WIB 21/10/26] VFB STUTTGART VS ATLETICO MADRID | SERVER 14 (SVR-BHNS 14)🍜
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=29477a2559a8b5a0fab9977c3cf445c7&txTime=6ad80b12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=8e1e6b3b616b4b062463813bcae7d07c&txTime=6ad80d2e
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/detroit-pistons-baffdd.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] DETROIT PISTONS VS BOSTON CELTICS | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] DETROIT PISTONS VS BOSTON CELTICS | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1792526046-0-0-ad7c4c53a5ecafcce7ce275991e0a574
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/detroit-pistons-baffdd.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] DETROIT PISTONS VS BOSTON CELTICS | SERVER 2🍜",📢[LIVE 02:00 WIB 21/10/26] DETROIT PISTONS VS BOSTON CELTICS | SERVER 2 (SVR-BHNS 2)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1792526046-0-0-ee8dcf76553aa8fa556399b508ec33af
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 1🍜",📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 1 (SVR-BHNS 1)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6a90f2daf2fa6c299ee129e1.m3u8?auth_key=1792543982-0-0-4ff750a0b57875363e29f0a5300ebe21
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 2🍜",📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 2 (SVR-BHNS 2)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1792526046-0-0-b163a02b06edaa327eb621b32fdc5d95
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 3🍜",📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 3 (SVR-BHNS 3)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1792526046-0-0-6f44eaa53920d8e5b21b14abff53f501
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 4🍜",📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 4 (SVR-BHNS 4)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=cb3990c3f264457fb6245db5f4375d7d&txTime=6ad80d2e
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.1xapi.com/images/teams/napoli-81bd8f.webp" group-title="📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 5🍜",📢[LIVE 02:00 WIB 21/10/26] NAPOLI VS FK BODO/GLIMT | SERVER 5 (SVR-BHNS 5)🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=822a456dac97d010df0b4026efb51868&txTime=6ad80d2e
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="📢DONASI [18:57:16 WIB 20-10-2026]🍜",📢DANA OVO GOPAY 085795119808 HTTPS://MY.BIANET.ES/ALL🍜
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.pixabay.com/photo/2019/03/10/12/03/vpn-4046047_1280.jpg" group-title="📢INFO DEVICE🍜",📢2A06:98C0:3600::103🍜
