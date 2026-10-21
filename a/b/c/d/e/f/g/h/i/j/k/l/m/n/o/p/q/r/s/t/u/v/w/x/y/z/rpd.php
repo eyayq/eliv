@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [04.16 WIB 22/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [04.23 WIB 22/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/colo-colo-women-99129e.png" group-title="[LIVE 03:30 WIB 22/10/26] Colo Colo Women vs Caracas Women | Server 1",[LIVE 03:30 WIB 22/10/26] Colo Colo Women vs Caracas Women | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ab93686eee29798ba65d7a4.m3u8?auth_key=1792638902-0-0-a44dc41e636bdc5d5e5caa312264e7b8
+https://pull.fmp.live/sla/1-6ab93686eee29798ba65d7a4.m3u8?auth_key=1792639081-0-0-3ef9d84e65e25f6e6d1fdd8fc023c0d1
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/b1e4482ea9e93d26e643d61a17e488b1.png" group-title="[LIVE 04:00 WIB 22/10/26] Phụ nữ Colo Colo vs phụ nữ Caracas | Server 1",[LIVE 04:00 WIB 22/10/26] Phụ nữ Colo Colo vs phụ nữ Caracas | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjZfbxyiA7La1EVi.m3u8?txSecret=49ad47d533ee34fc639a6945b76075a6&txTime=6AD9D419
+https://live.cds78y11d.org/live/sd-6MxjZfbxyiA7La1EVi.m3u8?txSecret=1181d4b8acd043bf12aa60db2b0b3103&txTime=6AD9D4CC
