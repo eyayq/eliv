@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 19:49:22 WIB 21-10-2026
-# 🔄 Total Channels: 871
+# ⏰ Latest Updated: 19:56:41 WIB 21-10-2026
+# 🔄 Total Channels: 857
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:49:22 WIB 21-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:56:41 WIB 21-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4337
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,18 +58,12 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4337
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",LINK DOWNLOAD ADA DI CHANNEL TELE
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2849/image" group-title="LIVE EVENT",01:00 WIB Levante UD vs Athletic Club | Football | CazeTV - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",02:00 WIB Aston Villa vs Viking
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -127,25 +121,6 @@ https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive2110/ENG/std_lrh-80030
 https://sonymtmnew.akamaized.net/hls/live/2094589/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792640391~acl=/*~id=30617965740680838456460764547651~hmac=b801313efa7a3d693af8d662d81053f90d247da5819bf9fd87c13d3bcb6bb21a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8e79d2267e6faf3e153d9eed80e0e876-1792608602074
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125330596919_UCL2627_MD3_SportingCP_vs_LASK_landscape_thumb.jpg" group-title="LIVE EVENT",Sporting CP vs LASK | UEFA Champions League 2026-27  | Sony Liv | Gvision TV
 https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792640391~acl=/*~id=30617965740680838456460764547651~hmac=b801313efa7a3d693af8d662d81053f90d247da5819bf9fd87c13d3bcb6bb21a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8e79d2267e6faf3e153d9eed80e0e876-1792608602074
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2704/image" group-title="LIVE EVENT",23:45 WIB Como vs Manchester United | Football | VIX SPANISH - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7af2088d5ae68e1f9448513435b3b6e5:ce9f96e9b00b0c83cf3d06718c2bc962
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/phuhevukj1/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2704/image" group-title="LIVE EVENT",23:45 WIB Como vs Manchester United | Football | TWO LIVE HD | Gvision TV
-https://admin2.formaturamaxi.com.br/virgin.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2704/image" group-title="LIVE EVENT",23:45 WIB Como vs Manchester United | Football | Live 2 | Gvision TV
-#EXTVLCOPT:http-referrer=https://player.online878.com/
-https://live.vivo155.com/live/hd-en-1-4628413.m3u8?txSecret=62a887ad0737eaff2303abd9b84a387f&txTime=6AD90148|Referer=https://player.online878.com/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1643/image" group-title="LIVE EVENT",23:45 WIB Lille vs Galatasaray | Football | VIX SPANISH - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c17144b76f49fb410d27061d70fe50a:f520fa4cc6c9331698f860956d086ea1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oz4vqoljzg/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1643/image" group-title="LIVE EVENT",23:45 WIB Lille vs Galatasaray | Football | CBS SPORTS HD | Gvision TV
-https://storage.googleapis.com/flintandfable/liverpool/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1643/image" group-title="LIVE EVENT",23:45 WIB Lille vs Galatasaray | Football | HD SERVER | Gvision TV
-https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8aa4dcd1-eaf8-4da6-9c87-396090dae95c/7/CAROUSEL-BACKGROUND-8X3/en-US/3840x1440._UR3840-1440_SX2160_FMpng_.png" group-title="Live Event: Prime Sports",Unknown Match  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -192,31 +167,6 @@ https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive2110/ENG/std_lrh-80030
 https://sonymtmnew.akamaized.net/hls/live/2094589/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792640391~acl=/*~id=30617965740680838456460764547651~hmac=b801313efa7a3d693af8d662d81053f90d247da5819bf9fd87c13d3bcb6bb21a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8e79d2267e6faf3e153d9eed80e0e876-1792608602074
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125330596919_UCL2627_MD3_SportingCP_vs_LASK_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Sporting CP vs LASK | UEFA Champions League 2026-27 | ENG | Sony Liv | Gvision TV
 https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792640391~acl=/*~id=30617965740680838456460764547651~hmac=b801313efa7a3d693af8d662d81053f90d247da5819bf9fd87c13d3bcb6bb21a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8e79d2267e6faf3e153d9eed80e0e876-1792608602074
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2704/image" group-title="Live Event: CFY",23:45 WIB Como vs Manchester United | Football | VIX SPANISH - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7af2088d5ae68e1f9448513435b3b6e5:ce9f96e9b00b0c83cf3d06718c2bc962
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/phuhevukj1/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2704/image" group-title="Live Event: CFY",23:45 WIB Como vs Manchester United | Football | TWO LIVE HD | Gvision TV
-https://admin2.formaturamaxi.com.br/virgin.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2704/image" group-title="Live Event: CFY",23:45 WIB Como vs Manchester United | Football | Live 2 | Gvision TV
-#EXTVLCOPT:http-referrer=https://player.online878.com/
-https://live.vivo155.com/live/hd-en-1-4628413.m3u8?txSecret=62a887ad0737eaff2303abd9b84a387f&txTime=6AD90148|Referer=https://player.online878.com/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1643/image" group-title="Live Event: CFY",23:45 WIB Lille vs Galatasaray | Football | VIX SPANISH - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c17144b76f49fb410d27061d70fe50a:f520fa4cc6c9331698f860956d086ea1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oz4vqoljzg/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1643/image" group-title="Live Event: CFY",23:45 WIB Lille vs Galatasaray | Football | CBS SPORTS HD | Gvision TV
-https://storage.googleapis.com/flintandfable/liverpool/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1643/image" group-title="Live Event: CFY",23:45 WIB Lille vs Galatasaray | Football | HD SERVER | Gvision TV
-https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2849/image" group-title="Live Event: CFY",01:00 WIB Levante UD vs Athletic Club | Football | CazeTV - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media.latinanoticias.pe/2026/03/MINIATURA-PARTIDOS-VOLEY-768x432.jpg" group-title="Live Event: Voli",02:45 WIB ATENEA vs OLVA LATINO - Peruvian League | Gvision TV
 https://live-evg20.tv360.bitel.com.pe/zySw4kNhD56XRmWH7shA-Q/1792349655/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://f.rpp-noticias.io/2026/10/16/120712_1919220.jpg" group-title="Live Event: Voli",[Belum Mulai] 05:00 WIB UNIVERSITARIO vs SOAN - Peruvian League | Gvision TV
