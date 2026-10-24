@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 21:50:39 WIB 24-10-2026
-# 🔄 Total Channels: 770
+# ⏰ Latest Updated: 21:56:53 WIB 24-10-2026
+# 🔄 Total Channels: 768
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [21:50:39 WIB 24-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [21:56:53 WIB 24-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4212
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4287
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -78,12 +78,6 @@ https://temp.formaturamaxi.com.br/f1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3010/image" group-title="LIVE EVENT",02:30 WIB Gil Vicente vs FC Porto | Football | SportDigital Fussball | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1963/image" group-title="LIVE EVENT",04:30 WIB Palmeiras vs Red Bull Bragantino | Football | PREMIERE BR - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -151,12 +145,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3010/image" group-title="Live Event: CFY",02:30 WIB Gil Vicente vs FC Porto | Football | SportDigital Fussball | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",French Open | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel68.m3u8?wsSecret=ae02936240970ccc0f9684527a2795c7&wsABSTime=1792867510
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=F4A460" group-title="Live Event: Badminton",French Open | Court 1 | Gvision TV
