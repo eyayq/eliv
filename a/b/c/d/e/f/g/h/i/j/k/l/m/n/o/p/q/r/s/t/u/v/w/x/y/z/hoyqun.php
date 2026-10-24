@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE LAYLA SAPEK
-https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1561465567175508060_or4/index.m3u8?expire=1794045130&sign=333e1ccb4eb7f6cf203837df1a2256c9
+https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1561465567175508060_or4/index.m3u8?expire=1794045527&sign=f7940d0e725c09776b1a5b705aa8f1ce
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Saten 🎭
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-2137927370024943662_or4/index.m3u8?expire=1794045530&sign=bb1928d4a8b70b8da043a750d5fabe31
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 滾れﾎﾞﾝ🫨🤎10月24日生誕🎂👑
+https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-7700134976041257735_or4/index.m3u8?expire=1794045532&sign=1d741c09b9880027e1cdcfcfc8da26d6
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 早坂うい💜🤍
+https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-1561467000178868293_or4/index.m3u8?expire=1794045535&sign=7a5cb2fca1a28b269469c606ace4c500
 #EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Yadiraaaa
-https://pull-hls-f16-tt02.tiktokcdn.com/stage/stream-3867309569526203330_or4/index.m3u8?expire=1794045133&sign=10192d77584a0d975bc1503a3142981b
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE levo_128
-https://pull-hls-f16-tt04.tiktokcdn.com/game/stream-1273236218186827085/index.m3u8?expire=1794045135&sign=a0f7a937ff38cd53777d9900be23da0a
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE I wish...to be happy🥑
-https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-7700093632405097234_or4/index.m3u8?expire=1794045137&sign=e82ef44d7356a71eeabee73a08bfe639
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 👑🔥ᶦᶰᵈ💫Gᴀᴍᴇʀ🦅🦅🦅
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-7700070471089359634_or4/index.m3u8?expire=1794045139&sign=6889541b9d2457fb55a2fe84dc1fa0ee
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🐐Juan Gutiérrez⚜️
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1849696555230036014_or4/index.m3u8?expire=1794045141&sign=db66ed593df17743dba0d1e815185388
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Hanan
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-7700162634872277767_or4/index.m3u8?expire=1794045142&sign=370d9372baeef0ecb4c48c15c2717731
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE official_madman🎴♦️
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561466666153672750_or4/index.m3u8?expire=1794045144&sign=4f4b58359d42b7892fa48865fa81bbae
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Alextylo
-https://pull-hls-q5-sg01.tiktokcdn.com/game/stream-2137927259950678120_or4/index.m3u8?expire=1794045146&sign=7cd02ef69db669054058faa36de0abd1
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Ketua
-https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-7700167744226069256_or4/index.m3u8?expire=1794045148&sign=30b362e30377c6ea700aa0fa5041a938
+https://pull-hls-f16-tt02.tiktokcdn.com/stage/stream-3867309569526203330_or4/index.m3u8?expire=1794045537&sign=2f07f7cf487c6e56586712509bc77ec9
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Mausami Pakhrin
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273236554273260865_or4/index.m3u8?expire=1794045539&sign=30583726fcf751c7bca4060d965d29d0
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Darell
+https://pull-hls-f16-tt01.tiktokcdn.com/stage/stream-3579077968710337456_or4/index.m3u8?expire=1794045540&sign=be49509a713dd4cfea96ad3355cc0593
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE ♕ A. Alfa ♕ 🦭
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273233045821326657_or4/index.m3u8?expire=1794045542&sign=2130ed1af4cfa4fc23128b72678e438a
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Madeleiny
+https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-7700112588541037330_or4/index.m3u8?expire=1794045543&sign=35e2ac5a70c264a6796a799411e0571d
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE ぴな様🏳️🏴
+https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-1561466739798835269/index.m3u8?expire=1794045545&sign=b1ba79cd7b0c1ce6af9e50923f311ea1
