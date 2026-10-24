@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 14:37:02 WIB 24-10-2026
-# 🔄 Total Channels: 797
+# ⏰ Latest Updated: 14:43:34 WIB 24-10-2026
+# 🔄 Total Channels: 798
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:37:02 WIB 24-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:43:34 WIB 24-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4325
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4275
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -101,15 +101,20 @@ https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/467404/image" group-title="LIVE EVENT",21:00 WIB UFC LIVE | Boxing | PARAMOUNT+ - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294eb6d02ad018f4aaddd9e35b5dda37:3c557570e9b1e9e6e39dad3b78bcb012
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ssir8jews6/out/v1/61c2bac238b7422782a5e038863c1966/a121bf0f-3b8d-40e2-a72f-b1b4df13891c-cenc.mpd?aws_sessionId=74d64c22-5ad3-4cff-b1c0-95f042ee92b3
+#KODIPROP:inputstream.adaptive.license_key=aa2700fe56b101d95ef4288da8b19d20:29458d3d82629babb08de5f713d99f75
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/kvqcmbokg5/out/v1/5865ca941ea54f8fb0b7788ece2d900e/779e27f5-e6ef-4be3-93de-36b27e09150a-cenc.mpd?aws_sessionId=1032a615-ba58-47ed-ba01-6386b5f745ed
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/467404/image" group-title="LIVE EVENT",21:00 WIB UFC LIVE | Boxing | PARAMOUNT+ ES | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9ea85885bc96d53961b9b07f1d86efb:d38968ef18f914602bffb6c74d7bbd3d
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tmfbljkrvo/out/v1/97ea6cd5f85242caadd34261558d639f/5a670ddd-cd2e-4e08-88a3-f07773ed6a5a-cenc.mpd?aws_sessionId=14bf9f84-2ab0-4f93-9c42-a0a28cdde7fc
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/467404/image" group-title="LIVE EVENT",21:00 WIB UFC LIVE | Boxing | PARAMOUNT+ POR | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294eb6d02ad018f4aaddd9e35b5dda37:3c557570e9b1e9e6e39dad3b78bcb012
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ssir8jews6/out/v1/61c2bac238b7422782a5e038863c1966/a121bf0f-3b8d-40e2-a72f-b1b4df13891c-cenc.mpd?aws_sessionId=74d64c22-5ad3-4cff-b1c0-95f042ee92b3
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/467404/image" group-title="LIVE EVENT",21:00 WIB UFC LIVE | Boxing | UFC LIVE - AQ | Gvision TV
-https://cobaltdream.s3.us-east-1.amazonaws.com/ufc.m3u8
+https://peregrinecloud.s3-accelerate.amazonaws.com/warriors.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/467404/image" group-title="LIVE EVENT",21:00 WIB UFC LIVE | Boxing | HD SERVER | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
@@ -151,7 +156,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",French Open Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=f3f5d70b7005d704618b1ea68533b8ec&wsTime=6ade136d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=2f33ff94a0269ac8a23c9e02ef8ca6d9&wsTime=6ade153c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",French Open | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel68.m3u8?wsSecret=ae02936240970ccc0f9684527a2795c7&wsABSTime=1792867510
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/9/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Predator European Championships: Spain  | Prime Sports | Gvision TV
@@ -159,37 +164,31 @@ https://live1.quickscoreboardz.com/live/channel68.m3u8?wsSecret=ae02936240970ccc
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/9/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Predator European Championships: Spain  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5f95b5f0-e299-43ad-bbc7-d413d7af2e82/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Charlton Athletic vs. Norwich City  | Prime Sports | Gvision TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.868d1254-41d6-42af-9a26-ac4416f864cc/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",West Ham United vs. Southampton  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.37d6f5fc-aa33-42e7-b9c1-9a5afbed4528/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Atlantic Attack vs. Montreal Mission  | Prime Sports | Gvision TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a03d6335-6e3e-409e-90c8-af43d4d02a75/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Tennis Today Live-Brussels-ATP & Lyon-ATP Semifinals  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.37d6f5fc-aa33-42e7-b9c1-9a5afbed4528/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Atlantic Attack vs. Montreal Mission  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Odisha FC vs NorthEast United FC | MG Indian Super League 2026-27 | ENG | Sony Liv | Gvision TV
 https://sonymtmnew.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792880759~acl=/*~id=74036163286046824802416808864644~hmac=d04dc2d7eb911ab06a26f0003d0ec1f7224394ceab663165fef85e45d41b7aa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=39fdd27ccd1ee52568140a4b3c264b01-1792847401200
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",Odisha FC vs NorthEast United FC | MG Indian Super League 2026-27 | HIN | Sony Liv | Gvision TV
@@ -199,15 +198,20 @@ https://sonymtmnew.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-80030
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/467404/image" group-title="Live Event: CFY",21:00 WIB UFC LIVE | Boxing | PARAMOUNT+ - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294eb6d02ad018f4aaddd9e35b5dda37:3c557570e9b1e9e6e39dad3b78bcb012
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ssir8jews6/out/v1/61c2bac238b7422782a5e038863c1966/a121bf0f-3b8d-40e2-a72f-b1b4df13891c-cenc.mpd?aws_sessionId=74d64c22-5ad3-4cff-b1c0-95f042ee92b3
+#KODIPROP:inputstream.adaptive.license_key=aa2700fe56b101d95ef4288da8b19d20:29458d3d82629babb08de5f713d99f75
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/kvqcmbokg5/out/v1/5865ca941ea54f8fb0b7788ece2d900e/779e27f5-e6ef-4be3-93de-36b27e09150a-cenc.mpd?aws_sessionId=1032a615-ba58-47ed-ba01-6386b5f745ed
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/467404/image" group-title="Live Event: CFY",21:00 WIB UFC LIVE | Boxing | PARAMOUNT+ ES | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9ea85885bc96d53961b9b07f1d86efb:d38968ef18f914602bffb6c74d7bbd3d
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tmfbljkrvo/out/v1/97ea6cd5f85242caadd34261558d639f/5a670ddd-cd2e-4e08-88a3-f07773ed6a5a-cenc.mpd?aws_sessionId=14bf9f84-2ab0-4f93-9c42-a0a28cdde7fc
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/467404/image" group-title="Live Event: CFY",21:00 WIB UFC LIVE | Boxing | PARAMOUNT+ POR | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294eb6d02ad018f4aaddd9e35b5dda37:3c557570e9b1e9e6e39dad3b78bcb012
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ssir8jews6/out/v1/61c2bac238b7422782a5e038863c1966/a121bf0f-3b8d-40e2-a72f-b1b4df13891c-cenc.mpd?aws_sessionId=74d64c22-5ad3-4cff-b1c0-95f042ee92b3
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/467404/image" group-title="Live Event: CFY",21:00 WIB UFC LIVE | Boxing | UFC LIVE - AQ | Gvision TV
-https://cobaltdream.s3.us-east-1.amazonaws.com/ufc.m3u8
+https://peregrinecloud.s3-accelerate.amazonaws.com/warriors.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/467404/image" group-title="Live Event: CFY",21:00 WIB UFC LIVE | Boxing | HD SERVER | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
@@ -243,7 +247,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2704/image" group-title="Live Event: CFY",20:00 WIB Como vs Sassuolo | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/242320fe-b970-4f82-9e14-2ca63cc11f54.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",French Open Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=2c14e58c0983f05c0a673cb825ceb3a3&wsTime=6ade13a6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=2f33ff94a0269ac8a23c9e02ef8ca6d9&wsTime=6ade153c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",French Open | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel68.m3u8?wsSecret=ae02936240970ccc0f9684527a2795c7&wsABSTime=1792867510
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=F4A460" group-title="Live Event: Badminton",French Open | Court 1 | Gvision TV
