@@ -1,19 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🎤🎨Lori Chen😻
-https://pull-hls-q5-sg01.tiktokcdn.com/game/stream-7700677514800188178_or4/index.m3u8?expire=1794177738&sign=c567c218aa3e6a14c687a3481ed0f3b3
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE あみゅ💃🌛
-https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-1561474012396126277_or4/index.m3u8?expire=1794177740&sign=da7fe3df0c60478f53ab8fc439e827f7
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Т🐅
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1561475487826182187_or4/index.m3u8?expire=1794177744&sign=1177c78cfb7e855339b3e49a8078707e
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🇱🇺koki Z🇲🇦قلب اللوز🇫🇷
-https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273245405655860545_or4/index.m3u8?expire=1794177745&sign=af6941233ee1fdd9ca84e187a4c725a3
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Dr,Suzein،.Azhari
-https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443778924794610557_or4/index.m3u8?expire=1794177748&sign=14ccfcdfb121ed87ebb5b170b787a000
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 1🐊CROCODILE
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-7700716099024751378_or4/index.m3u8?expire=1794177749&sign=7df924e88f320a5604d391459cfdcb99
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE جَنَّةُ ال جَنَّةُ🖤
-https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-7700718211154643719_or4/index.m3u8?expire=1794177752&sign=c95d8299fc83b6d5fd05ffa735eba558
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 💲ARXABIYA💱
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1561475425355956267/index.m3u8?expire=1794177754&sign=3a69c17cb385a97177b698c4aade1ba4
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Dr Nataly 🩺
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1849706213733302318_or4/index.m3u8?expire=1794177755&sign=623a129f0afb406fe3ba5727751d31ca
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE SONYA 🩷
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-2137936419475161134_or4/index.m3u8?expire=1794178103&sign=8feb8b3bc2bb7060c19cd7499e6ad424
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE lavinia stoica
+https://pull-hls-f16-tt04.tiktokcdn.com/game/stream-1273245022809752909_or4/index.m3u8?expire=1794178106&sign=8872c46b360c7525b5924d4af35bc8eb
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE استاد ویس📚
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-4443778815932498813_or4/index.m3u8?expire=1794178108&sign=39dd51c7a81c57e73eefe462a5d94629
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Klarisë🧝🏻‍♀️
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273245328830104897_or4/index.m3u8?expire=1794178110&sign=cf37792572c41deb29a5e278c7857794
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE ledi_blonda_
+https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1561475665660477483_or4/index.m3u8?expire=1794178111&sign=f375c80772c1cf38d42e1159fea78198
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Albasita 🎀🌸
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273245325064930625_or4/index.m3u8?expire=1794178112&sign=aad09e7995c65d1dc76a413fc8ee8dc8
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 𓂃 ࣪˖ آنـا ࣪˖𓂃
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561475552064045102_or4/index.m3u8?expire=1794178114&sign=c65eed8d203a863b3d917acb167a06e0
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE DJ Karollo
+https://pull-hls-f16-tt04.tiktokcdn.com/game/stream-1273244666655933773/index.m3u8?expire=1794178116&sign=505c6b75c3429d9c34e466ebb6f4c3bd
