@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🔥 𝙈𝙀𝘿𝘼 🔥
-https://pull-hls-q5-sg01.tiktokcdn.com/game/stream-1561472612902109288/index.m3u8?expire=1794133806&sign=a2baa683ddbbf88694aa6c62dbc136a7
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 𝐀𝐋𝐞𝐲ᴮᵃᵉ🪷
-https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1561472135948402780_or4/index.m3u8?expire=1794133812&sign=bc4b06981e254f2cb8738d5851337ff9
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Saro 🇯🇴🦁
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-2137933655613112366_or4/index.m3u8?expire=1794133817&sign=e3a7c0e263e49dbe35abe74786ecdb0e
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Inaa 🐈‍⬛
-https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273242285831882049_or4/index.m3u8?expire=1794133825&sign=a7e5d666e54434b46c90eddeb6a56a02
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE ケインおむすび🍙❤️‍🔥
-https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-2137933392766828613_or4/index.m3u8?expire=1794133827&sign=a890de82b92d60a717a9f0d669e5c12f
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 💙🦢ゆう🦢💙
+https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-1849701085207593029_or4/index.m3u8?expire=1794134188&sign=afcfe1fbd3e88d2063ff1845c9a37324
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE CINO_TEAMATLAS🛡️
+https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443776447929647997_or4/index.m3u8?expire=1794134192&sign=59e704199508b71469db279cfca9fc35
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE YolieM🐲💜
+https://pull-hls-f16-tt02.tiktokcdn.com/stage/stream-3867315655024313282_or4/index.m3u8?expire=1794134194&sign=f1f79a41e8fbe1041c2dd4bc123fa75f
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE guccizek
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561472425118138414_or4/index.m3u8?expire=1794134195&sign=64772fc97a249d2d84c1473068a19405
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🦅UnderCover1903🦅🇹🇷🍌
+https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443773178050511741_or4/index.m3u8?expire=1794134197&sign=ed6aba9e65d0df94d150ae9bb521572f
