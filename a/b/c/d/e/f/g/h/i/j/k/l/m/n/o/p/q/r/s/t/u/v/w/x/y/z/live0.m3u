@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 16:06:18 WIB 25-10-2026
-# 🔄 Total Channels: 810
+# ⏰ Latest Updated: 16:12:28 WIB 25-10-2026
+# 🔄 Total Channels: 802
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [16:06:18 WIB 25-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [16:12:28 WIB 25-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -46,7 +46,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -58,7 +58,7 @@ http://127.0.0.1/dummy.ts
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/09/18/10/48/keyboard-3685823_1280.jpg" group-title="INFO DEVICE",Cloudflare, Inc.
 http://127.0.0.1/dummy.ts
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4300
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256_1280.png" group-title="INFO DEVICE", Online Users: 4250
 http://127.0.0.1/dummy.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="DOWNLOAD BONE TV V.2.0",DOWNLOAD BONE TV V.2.0
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/Monyetlu/Bonetvnew.m3u8
@@ -80,16 +80,6 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=li
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/7/image" group-title="LIVE EVENT",21:00 WIB Crystal Palace vs Newcastle United | Football | FUBO SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0379cfd0b4160fbeb5abf192642d783d:b9bc6ebc8fddc9b6383e208b74b92ec8
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/pbji843evf/out/v1/00d2828855a944ffbbdc15232c4157a9/abd0cb36-9f5e-4e5c-8f35-c8877e45a38c-cenc.mpd?aws_sessionId=e23071ec-4af2-426f-ab48-a01d996b7cde
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/96/image" group-title="LIVE EVENT",21:00 WIB Hull City vs Brentford | Football | FUBO SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fea848feb7e7599c451c4a8e89f24be:3dd458a354b8b6f4235693cfdad62c59
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/4kgwt3wxbm/out/v1/a8645e4080344c53b38dc66983651d99/011dd183-c4ee-4ad3-aa2f-b9ad1dd26ecf-cenc.mpd?aws_sessionId=e0b734c2-a1f6-40c5-be3b-d2cb3ee3c373
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/44/image" group-title="LIVE EVENT",21:00 WIB Liverpool FC vs Brighton Hove Albion | Football | FUBO SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -100,11 +90,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 https://live-cdn.ryazanslah3.space/hls/bein2.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/44/image" group-title="LIVE EVENT",21:00 WIB Liverpool FC vs Brighton Hove Albion | Football | FUBO SPORTS HD | Gvision TV
 https://admin2.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/35/image" group-title="LIVE EVENT",21:00 WIB Manchester United vs Bournemouth | Football | FUBO SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93e9a71a6748693bcfff859a71588984:57765ea6439c3f2f2a788a166125c41a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gaudsuwdzu/out/v1/ee234bf8b2854366834b938725860805/8d0448fa-0c72-45b3-b82c-7d30ba04446e-cenc.mpd?aws_sessionId=9088cecf-2021-4b4d-8cb7-6335bc8a2934
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/35/image" group-title="LIVE EVENT",21:00 WIB Manchester United vs Bournemouth | Football | CazeTV - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -121,11 +106,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2713/image" group-title="LIVE EVENT",21:00 WIB Genoa vs Venezia | Football | FUBO SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f0c868f01bd48b3a492859fa44bd68:5486005bc7cd83085e9b98436714888b
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/w1hi8fdwt6/out/v1/9a01afb3983444c9b0ebd5d4df2e47e2/daf62d05-3d8a-4f12-844e-4bafb7cacb6a-cenc.mpd?aws_sessionId=9dfb7f37-d0a6-4480-b5e4-b08d83cedabb
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",21:00 WIB Hull City vs Brentford
 https://www.rtmpcdn.com/live/be99b1b4-b18e-4df3-ba0a-e4b4d34f63aa.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",21:00 WIB Crystal Palace vs Newcastle United
@@ -167,7 +147,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",French Open Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=c3ef5d63cfca988d1424b885574d3527&wsTime=6adf797c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=436742a450c9eb40a428da60fa516597&wsTime=6adf7a51&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",French Open - Finals | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel69.m3u8?wsSecret=1da94fcc0e9e8d89d60b23b6c6d6d404&wsABSTime=1792951598
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=F4A460" group-title="LIVE EVENT",French Open - Finals | Court 1 | Gvision TV
@@ -263,16 +243,6 @@ https://live.msnetworks.net/ptv-sports/master.m3u8
 https://baila-lentoo.pages.dev/all-sp/809389.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187754/image" group-title="Live Event: CFY",15:00 WIB Pakistan vs England | Cricket | WILLOW HD | Gvision TV
 https://baila-lentoo.pages.dev/all-sp/809386.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/7/image" group-title="Live Event: CFY",21:00 WIB Crystal Palace vs Newcastle United | Football | FUBO SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0379cfd0b4160fbeb5abf192642d783d:b9bc6ebc8fddc9b6383e208b74b92ec8
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/pbji843evf/out/v1/00d2828855a944ffbbdc15232c4157a9/abd0cb36-9f5e-4e5c-8f35-c8877e45a38c-cenc.mpd?aws_sessionId=e23071ec-4af2-426f-ab48-a01d996b7cde
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/96/image" group-title="Live Event: CFY",21:00 WIB Hull City vs Brentford | Football | FUBO SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fea848feb7e7599c451c4a8e89f24be:3dd458a354b8b6f4235693cfdad62c59
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/4kgwt3wxbm/out/v1/a8645e4080344c53b38dc66983651d99/011dd183-c4ee-4ad3-aa2f-b9ad1dd26ecf-cenc.mpd?aws_sessionId=e0b734c2-a1f6-40c5-be3b-d2cb3ee3c373
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/44/image" group-title="Live Event: CFY",21:00 WIB Liverpool FC vs Brighton Hove Albion | Football | FUBO SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -283,11 +253,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 https://live-cdn.ryazanslah3.space/hls/bein2.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/44/image" group-title="Live Event: CFY",21:00 WIB Liverpool FC vs Brighton Hove Albion | Football | FUBO SPORTS HD | Gvision TV
 https://admin2.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/35/image" group-title="Live Event: CFY",21:00 WIB Manchester United vs Bournemouth | Football | FUBO SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93e9a71a6748693bcfff859a71588984:57765ea6439c3f2f2a788a166125c41a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gaudsuwdzu/out/v1/ee234bf8b2854366834b938725860805/8d0448fa-0c72-45b3-b82c-7d30ba04446e-cenc.mpd?aws_sessionId=9088cecf-2021-4b4d-8cb7-6335bc8a2934
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/35/image" group-title="Live Event: CFY",21:00 WIB Manchester United vs Bournemouth | Football | CazeTV - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -304,11 +269,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2713/image" group-title="Live Event: CFY",21:00 WIB Genoa vs Venezia | Football | FUBO SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f0c868f01bd48b3a492859fa44bd68:5486005bc7cd83085e9b98436714888b
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/w1hi8fdwt6/out/v1/9a01afb3983444c9b0ebd5d4df2e47e2/daf62d05-3d8a-4f12-844e-4bafb7cacb6a-cenc.mpd?aws_sessionId=9dfb7f37-d0a6-4480-b5e4-b08d83cedabb
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2960/image" group-title="Live Event: CFY",22:45 WIB Sparta Rotterdam vs AFC Ajax | Football | SportDigital Fussball | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -316,7 +276,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",French Open Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=436742a450c9eb40a428da60fa516597&wsTime=6adf7a51&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=1e630988c0327f36b2ad3e6312afe1e6&wsTime=6adf7baa&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",French Open - Finals | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel69.m3u8?wsSecret=1da94fcc0e9e8d89d60b23b6c6d6d404&wsABSTime=1792951598
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=F4A460" group-title="Live Event: Badminton",French Open - Finals | Court 1 | Gvision TV
