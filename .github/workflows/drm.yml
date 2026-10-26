@@ -31,7 +31,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install requests aiohttp async
+          pip install requests aiohttp async curl_cffi
 
       - name: Restore Python Script from Secret
         run: |
