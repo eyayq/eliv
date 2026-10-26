@@ -1,42 +1,42 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [12.00 WIB 26/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [12.05 WIB 26/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-tijuana-e7ca24.webp" group-title="[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 1",[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6abe7c8d8f7c293f9f16e8c8.m3u8?auth_key=1793012221-0-0-f812d14cc976f892a01b6e1694c8bf55
+https://pull.fmp.live/sla/1-6abe7c8d8f7c293f9f16e8c8.m3u8?auth_key=1793012581-0-0-79913cd1683b96b5aa69c5a050f032a7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-tijuana-e7ca24.webp" group-title="[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 2",[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1792994406-0-0-f040abbe0a9d38cf8807c7cbe498cea3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=3c8d2fa6e1f2210f67d41540a97d8f35&txTime=6adf336a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-tijuana-e7ca24.webp" group-title="[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 3",[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1792994406-0-0-e0240ec85be6b7af1a23c0327c6022ed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=02a8949cbf02df4541c7da10366b8bfb&txTime=6adf336a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-tijuana-e7ca24.webp" group-title="[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 4",[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=dd54a2ee7f50e517a12570b47eb5cdda&txTime=6adf32b6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1792994586-0-0-cba590e2b8905b29f13aae52381c26a9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-tijuana-e7ca24.webp" group-title="[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 5",[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=28424cf8a3c5edf1048717fa2135610b&txTime=6adf32b6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1792994586-0-0-488c5e346bd680f312a1e215447a821e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-tijuana-e7ca24.webp" group-title="[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 6",[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1792994406-0-0-cc02919b27778cd60b0b1ddb447bcb92
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1792994586-0-0-6cab0e8e5e6218fd9f78cccffb4c1c33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-tijuana-e7ca24.webp" group-title="[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 7",[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1792994406-0-0-92f084d93e979ded590ac4ab06432bbf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1792994586-0-0-e295eb6992d66a96401ec55421f2a160
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-tijuana-e7ca24.webp" group-title="[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 8",[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=2da7c8bd20cdb02e0d8ff11acea8c557&txTime=6adf32b6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=7a12b153ac0357fd4aa6d90bd1d08de0&txTime=6adf336a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-tijuana-e7ca24.webp" group-title="[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 9",[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=8d4996ed0585fb55ba10d0cdaedf90b0&txTime=6adf32b6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=cc30adcda6e24457fe9cc67154e88ca6&txTime=6adf336a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-tijuana-e7ca24.webp" group-title="[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 10",[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=0cfd5c208d73e87cc4cb06ce08af3759&txTime=6adf32b6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1792994586-0-0-a1d28c9f995ede980b925efe6f74451a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-tijuana-e7ca24.webp" group-title="[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 11",[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=2d5f04d039e7fc5fe9ab6dd9ee643350&txTime=6adf32b6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1792994586-0-0-a1d073d059db688f4301f80deb141442
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-tijuana-e7ca24.webp" group-title="[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 12",[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1792994406-0-0-1572e15b374d0c0f79d74abea741d0fb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=5370a3a8312964c09467b5c23fec81ea&txTime=6adf336a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-tijuana-e7ca24.webp" group-title="[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 13",[LIVE 10:10 WIB 26/10/26] Club Tijuana vs Santos Laguna | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1792994406-0-0-87f6beb8988282b77480fd59f4220f17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f94e1f3c0b2b0c7ca7110431a53a03dd&txTime=6adf336a
