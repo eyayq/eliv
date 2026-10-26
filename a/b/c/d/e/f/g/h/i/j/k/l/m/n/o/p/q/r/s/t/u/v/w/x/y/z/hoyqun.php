@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 𝓣𝔂𝓵𝓮𝓻
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1561480269720191019_or4/index.m3u8?expire=1794250955&sign=fc0f53a22d99622e316cac7a4e99b3d5
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Srijana koirala
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561480686886977582_or4/index.m3u8?expire=1794250967&sign=9e4a1ed53047b6f85c7822a27ff18040
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Samri✨👸🏽
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-2137941544122974251_or4/index.m3u8?expire=1794250973&sign=b173f692d10cc0148fc0b150cbe0ac73
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE PsychopatBejr1
-https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273250255281063233_or4/index.m3u8?expire=1794250980&sign=4b08612287639c2c260581c450503e05
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 👑STEFI~DJOKOV👑
-https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273250219721229633_or4/index.m3u8?expire=1794250987&sign=6ac446d631341c9a96119724663d7e8e
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Thapu is back 🐊
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-4443783914542072701_or4/index.m3u8?expire=1794251342&sign=018316c8032b962988c3f17777e85ebd
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE rutyy503🇸🇻🐯
+https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-7701017377709886215_or4/index.m3u8?expire=1794251345&sign=2b714e5fbfe13ae5c258a0d70298ea9e
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 👑 ПАШКА 👑 🪳ТАРАКАШКА🪳
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273249667340043585_or4/index.m3u8?expire=1794251350&sign=40eea80a613829c69dd04b362394e9cb
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE LERIK TJ
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1849710635400298542_or4/index.m3u8?expire=1794251358&sign=eb8fe7cade11595d0ee13fc2cb4d2942
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🌌小瑜姐姐🐋💫
+https://pull-hls-f16-sg01.tiktokcdn.com/game/stream-2137940530141855828/index.m3u8?expire=1794251361&sign=49c98876248ba23058eac05a1ebaf57b
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Suresh lama
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-7701025980324498184_or4/index.m3u8?expire=1794251364&sign=9f845a23e7cc4a58af954b6c0901367d
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 宋翊霖☔️🎵
+https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1561479831005954140/index.m3u8?expire=1794251367&sign=e0193b3b71db5075728140e01d392268
