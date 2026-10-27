@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE LAYLA SAPEK
-https://pull-hls-q5-sg01.tiktokcdn.com/game/stream-1561483502774124648_or4/index.m3u8?expire=1794309432&sign=3ba6d8a1ea748c6bb88b7cb862efd88d
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Yiyi_gk🍷🤍
-https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-2137944649239625820/index.m3u8?expire=1794309435&sign=bb77c8425209268ffda4893f135b761a
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE りこりす꩜
-https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-1561484459390009413_or4/index.m3u8?expire=1794309438&sign=9458816f60ffedb01e5865275a271c17
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 👑𝓚𝓸𝓻𝓮𝔂𝓞𝓯𝓯𝓲𝓬𝓲𝓪𝓵👑
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1561484427796676651_or4/index.m3u8?expire=1794309441&sign=d8085d98d786997a15fda1d9b58f675a
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Janni_Kip 🇬🇷
-https://pull-hls-f16-tt04.tiktokcdn.com/game/stream-1273253931569907021/index.m3u8?expire=1794309445&sign=80494a876e33841b2b01d8501e441a84
+https://pull-hls-q5-sg01.tiktokcdn.com/game/stream-1561483502774124648_or4/index.m3u8?expire=1794309808&sign=6756a45905bf4aab4317368e2d1211a4
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Axel.d.leon🦁
+https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1849714876891529308_or4/index.m3u8?expire=1794309811&sign=f27582a0ce7c1fdf4707122ead9247cc
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 𝐊𝐈𝐍𝐆 𝐎𝐌𝐙 👑
+https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-1849714687307415621_or4/index.m3u8?expire=1794309813&sign=7e1e6bbea575e469ae2f11f173979c0a
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🦅ABU TERMINATOR🦅
+https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1561484582898892843_or4/index.m3u8?expire=1794309815&sign=20dc674279d70f700eefcf74d604ff9d
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE DillionDi
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273254190675920193_or4/index.m3u8?expire=1794309816&sign=7b80415f9f83530ad9fafa747a621ff5
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE LILMAMA🔮
+https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-1849714854749274181_or4/index.m3u8?expire=1794309818&sign=bc82f4efd0dbc864fea28ea80f93b241
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🦅ABU TERMINATOR🦅
+https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1561484582898892843_or4/index.m3u8?expire=1794309820&sign=0145a701d9d174cc8a32709bafce4fdc
 #EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Big.IQ🤍🥇
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-7701258732839226130_or4/index.m3u8?expire=1794309447&sign=7f066791b4b091e1bba7ffa04b07d792
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🇰🇬 UZ.БЕГАЙИМ.KG 🇰🇬
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1849714500081287211_or4/index.m3u8?expire=1794309450&sign=b0c4cb7070e53c7e93ba2940f514d280
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE SoFire🔥🔥🔥
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561483748575543342_or4/index.m3u8?expire=1794309452&sign=65f7fd61039cfaa8f0b85c3ee45366f1
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Phurpa Thinley
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561484390492012590_or4/index.m3u8?expire=1794309454&sign=0e6523bdbf9a9d99c355915595f10ec5
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Niknando
-https://pull-hls-f16-tt04.tiktokcdn.com/game/stream-1273253988948247885_or4/index.m3u8?expire=1794309456&sign=55327bfda5cd48638a21830ea0913140
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-7701258732839226130_or4/index.m3u8?expire=1794309821&sign=d3aff47ca4b412918f830e9aecb4de47
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🦈 Bekk Shark 🦈🦎👻
+https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-1561484485512134725_or4/index.m3u8?expire=1794309823&sign=9517ace325c65f2ec68838faacb73459
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Big.IQ🤍🥇
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-7701258732839226130_or4/index.m3u8?expire=1794309826&sign=0a65e09a8a19e79d9ff154f66893a2fb
