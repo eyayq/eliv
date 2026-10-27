@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Tue Oct 27 05:31:19 2026
+# Generated Tue Oct 27 05:31:47 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 27-10-2026 12:31:12 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 27-10-2026 12:31:36 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Indian Bangalore Super Division 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e6b58b5bfee1910ebdf86bb542ab3776.png",📁😈FC Agniputhra😈 [🆚] 😈Technico FF [LIVE]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4660348
