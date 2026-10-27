@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE LAYLA SAPEK
-https://pull-hls-q5-sg01.tiktokcdn.com/game/stream-1561483502774124648_or4/index.m3u8?expire=1794301733&sign=65a51bff027850a16e23a3bb6df82ec7
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE ❤️‍🔥🎀𝐋𝐢𝐥𝐲 𝐀.S🍒🌻🦅
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-2137944009253584942_or4/index.m3u8?expire=1794301737&sign=990b021b7c1b0205a6397eb17ace2fa8
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Mari🐒
-https://pull-hls-f16-tt02.tiktokcdn.com/stage/stream-3867327237077074882_or4/index.m3u8?expire=1794301738&sign=b08110ed917988679e3e37da219aa477
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE YAN”THEBEAST”
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-7701262068338461448_or4/index.m3u8?expire=1794301740&sign=877c3d0a02a7062d5d349ff6b3d278ec
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE ROMAN💙
-https://pull-hls-f16-sg01.tiktokcdn.com/game/stream-1561484114266947668/index.m3u8?expire=1794301742&sign=4891993dc023cd48666a90437eeba0c0
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Laura Hermes 🥷🏻🥊
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-7701249331224398598_or4/index.m3u8?expire=1794301744&sign=226dc02eb0fdcb9a9d1dc858dea4b653
+https://pull-hls-q5-sg01.tiktokcdn.com/game/stream-1561483502774124648_or4/index.m3u8?expire=1794302116&sign=5a636e6aba932c7514cb8fae253bbcab
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🕊️🇨🇭الزعيمة تاج راسي🇨🇭🕊️
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273253646088537409_or4/index.m3u8?expire=1794302120&sign=0f91158cfab4212cedaf4cd7965cdc33
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Timi❤️‍🔥
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273253636224320833_or4/index.m3u8?expire=1794302121&sign=77ff068008b97ecf90890545d544d742
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Adelina_koch🔥
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561483409084907566_or4/index.m3u8?expire=1794302123&sign=2f502b4bab8c6cf0dd6532a136a0bbb6
 #EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🧨Valeria🧨 🇨🇴-🇬🇹
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561483613640589358_or4/index.m3u8?expire=1794301746&sign=c31192ead632ac3efdcfc6bdfefccfca
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Pantera 🌚
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-2137944155341979691_or4/index.m3u8?expire=1794301748&sign=85907ad1625c03b609d4f93e6e25faf9
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 𝐼𝒸𝒶𝓃𝓃.⋆✧༄
-https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-1561483988990165061_or4/index.m3u8?expire=1794301760&sign=f7587a76145426379ac3be357bb74719
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Pantera 🌚
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-2137944155341979691_or4/index.m3u8?expire=1794301762&sign=39bd6a3233497813102f41a7fb72dd71
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561483613640589358_or4/index.m3u8?expire=1794302124&sign=f066912e060d1092cf57b98a530b5706
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Françoise 🧜‍♀️ 🐚🤍
+https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443787858382685053_or4/index.m3u8?expire=1794302126&sign=b2fff81744c3aab00421626025f2d861
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE へちょです。🦊⚡️
+https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-7701266572777720594_or4/index.m3u8?expire=1794302129&sign=ad8b44da207b70c93f869ba0410e0399
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🦍🅼🆄🆂🆂🅰🅳TEAM 🦍
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273252870778520897_or4/index.m3u8?expire=1794302131&sign=2cbfa753375f93688d64c4b004e2ce60
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 贝贝Babe🌙
+https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1561482625591017564/index.m3u8?expire=1794302133&sign=944f6685c78bf3b28c3b446910fd05f6
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🦈𝕿𝖆𝖒𝖒𝖞𓂀
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561482845157589038_or4/index.m3u8?expire=1794302135&sign=832d883d2143f014fc6963beb7b7c31a
