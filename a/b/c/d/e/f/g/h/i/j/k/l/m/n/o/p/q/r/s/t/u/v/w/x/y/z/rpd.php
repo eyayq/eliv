@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [13.03 WIB 27/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [13.10 WIB 27/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-agniputhra-dd99ce.png" group-title="[LIVE 12:00 WIB 27/10/26] FC Agniputhra vs Technico FF | Server 1",[LIVE 12:00 WIB 27/10/26] FC Agniputhra vs Technico FF | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ad7cf5553d3d883504f932b.m3u8?auth_key=1793101862-0-0-951e843f9b806aea23e6b0649d4577e7
+https://pull.fmp.live/sla/1-6ad7cf5553d3d883504f932b.m3u8?auth_key=1793102761-0-0-07d6c1f88c2166dd4ca4cff57827d05c
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/e29b3acb01197b457489523c7fef32a5.png" group-title="[LIVE 12:30 WIB 27/10/26] FC Agniputra vs Technico FF | Server 1",[LIVE 12:30 WIB 27/10/26] FC Agniputra vs Technico FF | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk43CFEMoRH6comE.m3u8?txSecret=cf653ee7731c95940254dd27b8d73d48&txTime=6AE0E5F1
+https://live.cds78y11d.org/live/sd-6Mxk43CFEMoRH6comE.m3u8?txSecret=c6f7fb70f01fd49af84932931c98b02a&txTime=6AE0E80F
