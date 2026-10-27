@@ -1,238 +1,241 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V1: [12.26 WIB 27/10/26]",Donasi server playlist iptv v1 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V1: [12.33 WIB 27/10/26]",Donasi server playlist iptv v1 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="n54qllhnv3k0qvy" tvg-name="Lam Dong vs PVF-CAND FC" tvg-logo="https://img.cltvap.cc/football/team/775fb8eca2172951b0f3d904cabfd337.png" group-title="upcoming",[UPCOMING 3h 3m 15:30 WIB 27/10/26] Lam Dong vs PVF-CAND FC
+#EXTINF:-1 tvg-id="n54qllhnv3k0qvy" tvg-name="Lam Dong vs PVF-CAND FC" tvg-logo="https://img.cltvap.cc/football/team/775fb8eca2172951b0f3d904cabfd337.png" group-title="upcoming",[UPCOMING 2h 56m 15:30 WIB 27/10/26] Lam Dong vs PVF-CAND FC
 https://live2.zktsva.app/live/300523.m3u8
 
-#EXTINF:-1 tvg-id="965mkyhk6d48r1g" tvg-name="PSS Sleman vs Borneo FC Samarinda" tvg-logo="https://img.cltvap.cc/football/team/20bf90d9a55ef5dc4a503754db3f8b49.png" group-title="upcoming",[UPCOMING 3h 3m 15:30 WIB 27/10/26] PSS Sleman vs Borneo FC Samarinda
+#EXTINF:-1 tvg-id="965mkyhk6d48r1g" tvg-name="PSS Sleman vs Borneo FC Samarinda" tvg-logo="https://img.cltvap.cc/football/team/20bf90d9a55ef5dc4a503754db3f8b49.png" group-title="upcoming",[UPCOMING 2h 56m 15:30 WIB 27/10/26] PSS Sleman vs Borneo FC Samarinda
 https://live2.zktsva.app/live/741294.m3u8
 
-#EXTINF:-1 tvg-id="zp5rzghgn2wyq82" tvg-name="Shanghai Port vs Cong An Ha Noi FC" tvg-logo="https://img.cltvap.cc/football/team/c4e143e537412003565cdb7c2d212538.png" group-title="upcoming",[UPCOMING 4h 33m 17:00 WIB 27/10/26] Shanghai Port vs Cong An Ha Noi FC
+#EXTINF:-1 tvg-id="zp5rzghgn2wyq82" tvg-name="Shanghai Port vs Cong An Ha Noi FC" tvg-logo="https://img.cltvap.cc/football/team/c4e143e537412003565cdb7c2d212538.png" group-title="upcoming",[UPCOMING 4h 26m 17:00 WIB 27/10/26] Shanghai Port vs Cong An Ha Noi FC
 https://live2.zktsva.app/live/294335.m3u8
 
-#EXTINF:-1 tvg-id="4wyrn4h6j7o2q86" tvg-name="Daejeon Hana Citizen vs Vissel Kobe" tvg-logo="https://img.cltvap.cc/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png" group-title="upcoming",[UPCOMING 4h 33m 17:00 WIB 27/10/26] Daejeon Hana Citizen vs Vissel Kobe
+#EXTINF:-1 tvg-id="4wyrn4h6j7o2q86" tvg-name="Daejeon Hana Citizen vs Vissel Kobe" tvg-logo="https://img.cltvap.cc/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png" group-title="upcoming",[UPCOMING 4h 26m 17:00 WIB 27/10/26] Daejeon Hana Citizen vs Vissel Kobe
 https://live2.zktsva.app/live/289650.m3u8
 
-#EXTINF:-1 tvg-id="x7lm7phjl536m2w" tvg-name="Kyoto Sanga vs Newcastle Jets" tvg-logo="https://img.cltvap.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png" group-title="upcoming",[UPCOMING 4h 33m 17:00 WIB 27/10/26] Kyoto Sanga vs Newcastle Jets
+#EXTINF:-1 tvg-id="x7lm7phjl536m2w" tvg-name="Kyoto Sanga vs Newcastle Jets" tvg-logo="https://img.cltvap.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png" group-title="upcoming",[UPCOMING 4h 26m 17:00 WIB 27/10/26] Kyoto Sanga vs Newcastle Jets
 https://live2.zktsva.app/live/304565.m3u8
 
-#EXTINF:-1 tvg-id="y0or5jh8v0z2qwz" tvg-name="Johor Darul Ta'zim FC vs Port FC" tvg-logo="https://img.cltvap.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png" group-title="upcoming",[UPCOMING 4h 33m 17:00 WIB 27/10/26] Johor Darul Ta'zim FC vs Port FC
+#EXTINF:-1 tvg-id="y0or5jh8v0z2qwz" tvg-name="Johor Darul Ta'zim FC vs Port FC" tvg-logo="https://img.cltvap.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png" group-title="upcoming",[UPCOMING 4h 26m 17:00 WIB 27/10/26] Johor Darul Ta'zim FC vs Port FC
 https://live2.zktsva.app/live/306290.m3u8
 
-#EXTINF:-1 tvg-id="23xmvkh672gnqg8" tvg-name="Van Hien University vs Xuan Thien Phu Tho" tvg-logo="https://img.cltvap.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png" group-title="upcoming",[UPCOMING 4h 33m 17:00 WIB 27/10/26] Van Hien University vs Xuan Thien Phu Tho
+#EXTINF:-1 tvg-id="23xmvkh672gnqg8" tvg-name="Van Hien University vs Xuan Thien Phu Tho" tvg-logo="https://img.cltvap.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png" group-title="upcoming",[UPCOMING 4h 26m 17:00 WIB 27/10/26] Van Hien University vs Xuan Thien Phu Tho
 https://live2.zktsva.app/live/796315.m3u8
 
-#EXTINF:-1 tvg-id="1l4rjnh9vg3vm7v" tvg-name="Becamex Ho Chi Minh City vs Thep Can Tho" tvg-logo="https://img.cltvap.cc/football/team/8781d3f729c7f3a9baacbee4385f7c84.png" group-title="upcoming",[UPCOMING 5h 33m 18:00 WIB 27/10/26] Becamex Ho Chi Minh City vs Thep Can Tho
+#EXTINF:-1 tvg-id="1l4rjnh9vg3vm7v" tvg-name="Becamex Ho Chi Minh City vs Thep Can Tho" tvg-logo="https://img.cltvap.cc/football/team/8781d3f729c7f3a9baacbee4385f7c84.png" group-title="upcoming",[UPCOMING 5h 26m 18:00 WIB 27/10/26] Becamex Ho Chi Minh City vs Thep Can Tho
 https://live2.zktsva.app/live/307240.m3u8
 
-#EXTINF:-1 tvg-id="1l4rjnh983l6m7v" tvg-name="Beijing Guoan vs Jeonbuk Hyundai Motors" tvg-logo="https://img.cltvap.cc/football/team/e7af298237651113dfeafc32ff734a24.png" group-title="upcoming",[UPCOMING 6h 48m 19:15 WIB 27/10/26] Beijing Guoan vs Jeonbuk Hyundai Motors
+#EXTINF:-1 tvg-id="1l4rjnh983l6m7v" tvg-name="Beijing Guoan vs Jeonbuk Hyundai Motors" tvg-logo="https://img.cltvap.cc/football/team/e7af298237651113dfeafc32ff734a24.png" group-title="upcoming",[UPCOMING 6h 41m 19:15 WIB 27/10/26] Beijing Guoan vs Jeonbuk Hyundai Motors
 https://live2.zktsva.app/live/301238.m3u8
 
-#EXTINF:-1 tvg-id="4wyrn4h6j7x2q86" tvg-name="Ratchaburi FC vs Kashiwa Reysol" tvg-logo="https://img.cltvap.cc/football/team/ca2b8d70931647840c78209be51763a3.png" group-title="upcoming",[UPCOMING 6h 48m 19:15 WIB 27/10/26] Ratchaburi FC vs Kashiwa Reysol
+#EXTINF:-1 tvg-id="4wyrn4h6j7x2q86" tvg-name="Ratchaburi FC vs Kashiwa Reysol" tvg-logo="https://img.cltvap.cc/football/team/ca2b8d70931647840c78209be51763a3.png" group-title="upcoming",[UPCOMING 6h 41m 19:15 WIB 27/10/26] Ratchaburi FC vs Kashiwa Reysol
 https://live2.zktsva.app/live/432017.m3u8
 
-#EXTINF:-1 tvg-id="dn1m1ghljd0nmoe" tvg-name="Abha vs Al Faisaly" tvg-logo="https://img.cltvap.cc/football/team/a98a96581615b55fc4ea927d73036ae4.png" group-title="upcoming",[UPCOMING 7h 13m 19:40 WIB 27/10/26] Abha vs Al Faisaly
+#EXTINF:-1 tvg-id="dn1m1ghljd0nmoe" tvg-name="Abha vs Al Faisaly" tvg-logo="https://img.cltvap.cc/football/team/a98a96581615b55fc4ea927d73036ae4.png" group-title="upcoming",[UPCOMING 7h 6m 19:40 WIB 27/10/26] Abha vs Al Faisaly
 https://live2.zktsva.app/live/300523.m3u8
 
-#EXTINF:-1 tvg-id="zp5rzghglw8oq82" tvg-name="Moreirense U23 vs Gil Vicente U23" tvg-logo="https://img.cltvap.cc/football/team/d467c3d2a3caf4983596d48e7aa30903.png" group-title="upcoming",[UPCOMING 7h 33m 20:00 WIB 27/10/26] Moreirense U23 vs Gil Vicente U23
+#EXTINF:-1 tvg-id="zp5rzghglw8oq82" tvg-name="Moreirense U23 vs Gil Vicente U23" tvg-logo="https://img.cltvap.cc/football/team/d467c3d2a3caf4983596d48e7aa30903.png" group-title="upcoming",[UPCOMING 7h 26m 20:00 WIB 27/10/26] Moreirense U23 vs Gil Vicente U23
 https://live2.zktsva.app/live/741294.m3u8
 
-#EXTINF:-1 tvg-id="l7oqdehgv776r51" tvg-name="Panserraikos F.C. vs Niki Volou" tvg-logo="https://img.cltvap.cc/football/team/ebef8281be3a4531a0deb9f76cb5001c.png" group-title="upcoming",[UPCOMING 8h 33m 21:00 WIB 27/10/26] Panserraikos F.C. vs Niki Volou
+#EXTINF:-1 tvg-id="l7oqdehgv776r51" tvg-name="Panserraikos F.C. vs Niki Volou" tvg-logo="https://img.cltvap.cc/football/team/ebef8281be3a4531a0deb9f76cb5001c.png" group-title="upcoming",[UPCOMING 8h 26m 21:00 WIB 27/10/26] Panserraikos F.C. vs Niki Volou
 https://live2.zktsva.app/live/301263.m3u8
 
-#EXTINF:-1 tvg-id="k82rekh2z7nprep" tvg-name="Kazma vs Ajman" tvg-logo="https://img.cltvap.cc/football/team/49c8ec5cda0bdb751d50095676d88e8d.png" group-title="upcoming",[UPCOMING 8h 33m 21:00 WIB 27/10/26] Kazma vs Ajman
+#EXTINF:-1 tvg-id="k82rekh2z7nprep" tvg-name="Kazma vs Ajman" tvg-logo="https://img.cltvap.cc/football/team/49c8ec5cda0bdb751d50095676d88e8d.png" group-title="upcoming",[UPCOMING 8h 26m 21:00 WIB 27/10/26] Kazma vs Ajman
 https://live2.zktsva.app/live/796315.m3u8
 
-#EXTINF:-1 tvg-id="k82rekh2z78prep" tvg-name="Al-Shabab SC (Seeb) vs Neom SC" tvg-logo="https://img.cltvap.cc/football/team/7238b4b0d6c0b9514b00455e7a021221.png" group-title="upcoming",[UPCOMING 9h 18m 21:45 WIB 27/10/26] Al-Shabab SC (Seeb) vs Neom SC
+#EXTINF:-1 tvg-id="k82rekh2z78prep" tvg-name="Al-Shabab SC (Seeb) vs Neom SC" tvg-logo="https://img.cltvap.cc/football/team/7238b4b0d6c0b9514b00455e7a021221.png" group-title="upcoming",[UPCOMING 9h 11m 21:45 WIB 27/10/26] Al-Shabab SC (Seeb) vs Neom SC
 https://live2.zktsva.app/live/307240.m3u8
 
-#EXTINF:-1 tvg-id="k82rekhgdx08rep" tvg-name="Cherno More Varna vs FK Septemvri Sofia" tvg-logo="https://img.cltvap.cc/football/team/6356dcedfefdbc98de34cce75214de28.png" group-title="upcoming",[UPCOMING 9h 33m 22:00 WIB 27/10/26] Cherno More Varna vs FK Septemvri Sofia
+#EXTINF:-1 tvg-id="k82rekhgdx08rep" tvg-name="Cherno More Varna vs FK Septemvri Sofia" tvg-logo="https://img.cltvap.cc/football/team/6356dcedfefdbc98de34cce75214de28.png" group-title="upcoming",[UPCOMING 9h 26m 22:00 WIB 27/10/26] Cherno More Varna vs FK Septemvri Sofia
 https://live2.zktsva.app/live/289650.m3u8
 
-#EXTINF:-1 tvg-id="4jwq2ghnj018m0v" tvg-name="Fakel Voronezh vs Akhmat Grozny" tvg-logo="https://img.cltvap.cc/football/team/d4aace06743a4a5df8221771f870f077.png" group-title="upcoming",[UPCOMING 9h 33m 22:00 WIB 27/10/26] Fakel Voronezh vs Akhmat Grozny
+#EXTINF:-1 tvg-id="4jwq2ghnj018m0v" tvg-name="Fakel Voronezh vs Akhmat Grozny" tvg-logo="https://img.cltvap.cc/football/team/d4aace06743a4a5df8221771f870f077.png" group-title="upcoming",[UPCOMING 9h 26m 22:00 WIB 27/10/26] Fakel Voronezh vs Akhmat Grozny
 https://live2.zktsva.app/live/306290.m3u8
 
-#EXTINF:-1 tvg-id="4wyrn4h6jgjgq86" tvg-name="Asteras Aktor vs AE Kifisias" tvg-logo="https://img.cltvap.cc/football/team/dbd8fbe82c9a39a85054bd7a2ac99b24.png" group-title="upcoming",[UPCOMING 10h 3m 22:30 WIB 27/10/26] Asteras Aktor vs AE Kifisias
+#EXTINF:-1 tvg-id="4wyrn4h6jgjgq86" tvg-name="Asteras Aktor vs AE Kifisias" tvg-logo="https://img.cltvap.cc/football/team/dbd8fbe82c9a39a85054bd7a2ac99b24.png" group-title="upcoming",[UPCOMING 9h 56m 22:30 WIB 27/10/26] Asteras Aktor vs AE Kifisias
 https://live2.zktsva.app/live/300523.m3u8
 
-#EXTINF:-1 tvg-id="jw2r09hkepjlrz8" tvg-name="Al Seeb SC vs East Bengal FC" tvg-logo="https://img.cltvap.cc/football/team/99436fc30d359790afbd11fe602a5a45.png" group-title="upcoming",[UPCOMING 10h 33m 23:00 WIB 27/10/26] Al Seeb SC vs East Bengal FC
-https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-id="jw2r09hkepjlrz8" tvg-name="Al Seeb SC vs East Bengal FC" tvg-logo="https://img.cltvap.cc/football/team/99436fc30d359790afbd11fe602a5a45.png" group-title="upcoming",[UPCOMING 10h 26m 23:00 WIB 27/10/26] Al Seeb SC vs East Bengal FC
+https://live2.zktsva.app/live/304565.m3u8
 
-#EXTINF:-1 tvg-id="6ypq3nhv2447md7" tvg-name="Shabab Al Ahli vs Esteghlal Tehran" tvg-logo="https://img.cltvap.cc/football/team/05e87b1dbb904915a4a97fc095b73d20.png" group-title="upcoming",[UPCOMING 10h 33m 23:00 WIB 27/10/26] Shabab Al Ahli vs Esteghlal Tehran
+#EXTINF:-1 tvg-id="6ypq3nhv2447md7" tvg-name="Shabab Al Ahli vs Esteghlal Tehran" tvg-logo="https://img.cltvap.cc/football/team/05e87b1dbb904915a4a97fc095b73d20.png" group-title="upcoming",[UPCOMING 10h 26m 23:00 WIB 27/10/26] Shabab Al Ahli vs Esteghlal Tehran
 https://live2.zktsva.app/live/741294.m3u8
 
-#EXTINF:-1 tvg-id="dn1m1ghl6zpvmoe" tvg-name="VfL Bochum 1848 vs 1. FSV Mainz 05" tvg-logo="https://img.cltvap.cc/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png" group-title="upcoming",[UPCOMING 11h 33m 00:00 WIB 28/10/26] VfL Bochum 1848 vs 1. FSV Mainz 05
+#EXTINF:-1 tvg-id="dn1m1ghl6zpvmoe" tvg-name="VfL Bochum 1848 vs 1. FSV Mainz 05" tvg-logo="https://img.cltvap.cc/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png" group-title="upcoming",[UPCOMING 11h 26m 00:00 WIB 28/10/26] VfL Bochum 1848 vs 1. FSV Mainz 05
 https://live2.zktsva.app/live/301263.m3u8
 
-#EXTINF:-1 tvg-id="4wyrn4h6gno8q86" tvg-name="Hamburger SV vs Eintracht Frankfurt" tvg-logo="https://img.cltvap.cc/football/team/90f52b30fbdf2ac568ca1d48c07f2bc3.png" group-title="upcoming",[UPCOMING 11h 33m 00:00 WIB 28/10/26] Hamburger SV vs Eintracht Frankfurt
+#EXTINF:-1 tvg-id="4wyrn4h6gno8q86" tvg-name="Hamburger SV vs Eintracht Frankfurt" tvg-logo="https://img.cltvap.cc/football/team/90f52b30fbdf2ac568ca1d48c07f2bc3.png" group-title="upcoming",[UPCOMING 11h 26m 00:00 WIB 28/10/26] Hamburger SV vs Eintracht Frankfurt
 https://live2.zktsva.app/live/432017.m3u8
 
-#EXTINF:-1 tvg-id="965mkyhk97vlr1g" tvg-name="Sassuolo vs Lazio" tvg-logo="https://img.cltvap.cc/football/team/616bf242a532f72e970648f2ead423cf.png" group-title="upcoming",[UPCOMING 12h 3m 00:30 WIB 28/10/26] Sassuolo vs Lazio
+#EXTINF:-1 tvg-id="965mkyhk97vlr1g" tvg-name="Sassuolo vs Lazio" tvg-logo="https://img.cltvap.cc/football/team/616bf242a532f72e970648f2ead423cf.png" group-title="upcoming",[UPCOMING 11h 56m 00:30 WIB 28/10/26] Sassuolo vs Lazio
 https://live2.zktsva.app/live/289650.m3u8
 
-#EXTINF:-1 tvg-id="k82rekhg58ykrep" tvg-name="Al Shorta vs Al-Hussein SC (Irbid)" tvg-logo="https://img.cltvap.cc/football/team/24cb68778b46e3795fa58ad593e98b5d.png" group-title="upcoming",[UPCOMING 12h 48m 01:15 WIB 28/10/26] Al Shorta vs Al-Hussein SC (Irbid)
+#EXTINF:-1 tvg-id="k82rekhg58ykrep" tvg-name="Al Shorta vs Al-Hussein SC (Irbid)" tvg-logo="https://img.cltvap.cc/football/team/24cb68778b46e3795fa58ad593e98b5d.png" group-title="upcoming",[UPCOMING 12h 41m 01:15 WIB 28/10/26] Al Shorta vs Al-Hussein SC (Irbid)
 https://live2.zktsva.app/live/300523.m3u8
 
-#EXTINF:-1 tvg-id="4jwq2ghn80pkm0v" tvg-name="Al-Shamal Sports Club vs Al Hilal" tvg-logo="https://img.cltvap.cc/football/team/af47207f36a49c89502312138e54f6a7.png" group-title="upcoming",[UPCOMING 12h 48m 01:15 WIB 28/10/26] Al-Shamal Sports Club vs Al Hilal
-https://live2.zktsva.app/live/304565.m3u8
-
-#EXTINF:-1 tvg-id="965mkyhk970dr1g" tvg-name="AS Roma vs Cagliari" tvg-logo="https://img.cltvap.cc/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png" group-title="upcoming",[UPCOMING 14h 18m 02:45 WIB 28/10/26] AS Roma vs Cagliari
-https://live2.zktsva.app/live/301263.m3u8
-
-#EXTINF:-1 tvg-id="y39mp1h683nlmoj" tvg-name="Torino vs Como" tvg-logo="https://img.cltvap.cc/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png" group-title="upcoming",[UPCOMING 14h 18m 02:45 WIB 28/10/26] Torino vs Como
-https://live2.zktsva.app/live/741294.m3u8
-
-#EXTINF:-1 tvg-id="l5ergphk0vljr8k" tvg-name="Bradford City vs Peterborough United" tvg-logo="https://img.cltvap.cc/football/team/146d903844b14981ba52c5b557bbca0b.png" group-title="upcoming",[UPCOMING 14h 18m 02:45 WIB 28/10/26] Bradford City vs Peterborough United
-https://live2.zktsva.app/live/432017.m3u8
-
-#EXTINF:-1 tvg-id="l7oqdehjy48wr51" tvg-name="Fleetwood Town vs Arsenal" tvg-logo="https://img.cltvap.cc/football/team/e9e4ef61f8774c7df9bcfc7a4cc32a08.png" group-title="upcoming",[UPCOMING 14h 33m 03:00 WIB 28/10/26] Fleetwood Town vs Arsenal
-https://live2.zktsva.app/live/301238.m3u8
-
-#EXTINF:-1 tvg-id="y0or5jh8knw7qwz" tvg-name="Cucuta Deportivo vs Aguilas Doradas" tvg-logo="https://img.cltvap.cc/football/team/972c2e951d1ba7680faee53a342bd0a2.png" group-title="upcoming",[UPCOMING 17h 33m 06:00 WIB 28/10/26] Cucuta Deportivo vs Aguilas Doradas
-https://live2.zktsva.app/live/796315.m3u8
-
-#EXTINF:-1 tvg-id="x7lm7phjez2lm2w" tvg-name="Boyaca Chico vs Atletico Junior Barranquilla" tvg-logo="https://img.cltvap.cc/football/team/1cd42bcb186830f2cffdeef6df5fd2b0.png" group-title="upcoming",[UPCOMING 19h 38m 08:05 WIB 28/10/26] Boyaca Chico vs Atletico Junior Barranquilla
-https://live2.zktsva.app/live/307240.m3u8
-
-#EXTINF:-1 tvg-id="318q66h8ooojqo9" tvg-name="Alianza San Salvador vs Marathon" tvg-logo="https://img.cltvap.cc/football/team/5204181e7c7001736341ab9b8dd54754.png" group-title="upcoming",[UPCOMING 20h 33m 09:00 WIB 28/10/26] Alianza San Salvador vs Marathon
-https://live2.zktsva.app/live/306290.m3u8
-
-#EXTINF:-1 tvg-id="l7oqdehgve3or51" tvg-name="Gamba Osaka vs Buriram United" tvg-logo="https://img.cltvap.cc/football/team/91008a96b5de8c75376d17057f89890e.png" group-title="upcoming",[UPCOMING 28h 33m 17:00 WIB 28/10/26] Gamba Osaka vs Buriram United
-https://live2.zktsva.app/live/306290.m3u8
-
-#EXTINF:-1 tvg-id="zp5rzghgn26yq82" tvg-name="Kashima Antlers vs Pohang Steelers" tvg-logo="https://img.cltvap.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png" group-title="upcoming",[UPCOMING 28h 33m 17:00 WIB 28/10/26] Kashima Antlers vs Pohang Steelers
-https://live2.zktsva.app/live/432017.m3u8
-
-#EXTINF:-1 tvg-id="y0or5jh9lxn3qwz" tvg-name="Mito Hollyhock vs Cerezo Osaka" tvg-logo="https://img.cltvap.cc/football/team/9ead844240532c4e12d3eb45d2087924.png" group-title="upcoming",[UPCOMING 28h 33m 17:00 WIB 28/10/26] Mito Hollyhock vs Cerezo Osaka
-https://live2.zktsva.app/live/304565.m3u8
-
-#EXTINF:-1 tvg-id="n54qllh4257jqvy" tvg-name="Yokohama F. Marinos vs Sanfrecce Hiroshima" tvg-logo="https://img.cltvap.cc/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png" group-title="upcoming",[UPCOMING 28h 33m 17:00 WIB 28/10/26] Yokohama F. Marinos vs Sanfrecce Hiroshima
-https://live2.zktsva.app/live/741294.m3u8
-
-#EXTINF:-1 tvg-id="23xmvkhy3v8xqg8" tvg-name="Nagoya Grampus vs Urawa Red Diamonds" tvg-logo="https://img.cltvap.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png" group-title="upcoming",[UPCOMING 28h 33m 17:00 WIB 28/10/26] Nagoya Grampus vs Urawa Red Diamonds
-https://live2.zktsva.app/live/303098.m3u8
-
-#EXTINF:-1 tvg-id="zp5rzgh3jy52q82" tvg-name="Sagan Tosu vs Kawasaki Frontale" tvg-logo="https://img.cltvap.cc/football/team/0d7b400b61ad77a72d5d6d7db03077e7.png" group-title="upcoming",[UPCOMING 28h 33m 17:00 WIB 28/10/26] Sagan Tosu vs Kawasaki Frontale
-https://live2.zktsva.app/live/300523.m3u8
-
-#EXTINF:-1 tvg-id="x7lm7phjl5wvm2w" tvg-name="Persib Bandung vs Melbourne Victory" tvg-logo="https://img.cltvap.cc/football/team/b2004093bf25a5a8d1768970d6e49d71.png" group-title="upcoming",[UPCOMING 30h 48m 19:15 WIB 28/10/26] Persib Bandung vs Melbourne Victory
-https://live2.zktsva.app/live/796315.m3u8
-
-#EXTINF:-1 tvg-id="y0or5jh8v03zqwz" tvg-name="The Cong-Viettel vs FC Seoul" tvg-logo="https://img.cltvap.cc/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png" group-title="upcoming",[UPCOMING 30h 48m 19:15 WIB 28/10/26] The Cong-Viettel vs FC Seoul
+#EXTINF:-1 tvg-id="4jwq2ghn80pkm0v" tvg-name="Al-Shamal Sports Club vs Al Hilal" tvg-logo="https://img.cltvap.cc/football/team/af47207f36a49c89502312138e54f6a7.png" group-title="upcoming",[UPCOMING 12h 41m 01:15 WIB 28/10/26] Al-Shamal Sports Club vs Al Hilal
 https://live2.zktsva.app/live/294335.m3u8
 
-#EXTINF:-1 tvg-id="ednm9wh58652ryo" tvg-name="Brabrand vs AC Horsens" tvg-logo="https://img.cltvap.cc/football/team/2a0ee4bb9a8ac3e6268fbe6bc2710314.png" group-title="upcoming",[UPCOMING 31h 3m 19:30 WIB 28/10/26] Brabrand vs AC Horsens
+#EXTINF:-1 tvg-id="965mkyhk970dr1g" tvg-name="AS Roma vs Cagliari" tvg-logo="https://img.cltvap.cc/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png" group-title="upcoming",[UPCOMING 14h 11m 02:45 WIB 28/10/26] AS Roma vs Cagliari
 https://live2.zktsva.app/live/301263.m3u8
 
-#EXTINF:-1 tvg-id="y0or5jh8k01nqwz" tvg-name="FC Orenburg vs Rodina Moscow" tvg-logo="https://img.cltvap.cc/football/team/6d81ef01fa7aaedf7144c933bdcc62d8.png" group-title="upcoming",[UPCOMING 31h 33m 20:00 WIB 28/10/26] FC Orenburg vs Rodina Moscow
-https://live2.zktsva.app/live/289650.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhy6212ryk" tvg-name="Nasaf Qarshi vs Al Kuwait SC" tvg-logo="https://img.cltvap.cc/football/team/bef3a45bcf56447c8acfb7b077820022.png" group-title="upcoming",[UPCOMING 32h 18m 20:45 WIB 28/10/26] Nasaf Qarshi vs Al Kuwait SC
-https://live2.zktsva.app/live/301238.m3u8
-
-#EXTINF:-1 tvg-id="dn1m1ghl5oe5moe" tvg-name="Gol Gohar FC vs Arkadag FK" tvg-logo="https://img.cltvap.cc/football/team/69625f17e031ad1fcb33823338b74d95.png" group-title="upcoming",[UPCOMING 32h 18m 20:45 WIB 28/10/26] Gol Gohar FC vs Arkadag FK
-https://live2.zktsva.app/live/303098.m3u8
-
-#EXTINF:-1 tvg-id="y39mp1h62ge9moj" tvg-name="Bank El Ahly vs Al Masry" tvg-logo="https://img.cltvap.cc/football/team/31f3149a6e207008059cd6bb40a4a423.png" group-title="upcoming",[UPCOMING 32h 33m 21:00 WIB 28/10/26] Bank El Ahly vs Al Masry
-https://live2.zktsva.app/live/307240.m3u8
-
-#EXTINF:-1 tvg-id="zp5rzghg922kq82" tvg-name="FK Rostov vs Akron Togliatti" tvg-logo="https://img.cltvap.cc/football/team/25efd2a1bf0d0cd2ef0002bdc44fbde7.png" group-title="upcoming",[UPCOMING 33h 48m 22:15 WIB 28/10/26] FK Rostov vs Akron Togliatti
+#EXTINF:-1 tvg-id="y39mp1h683nlmoj" tvg-name="Torino vs Como" tvg-logo="https://img.cltvap.cc/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png" group-title="upcoming",[UPCOMING 14h 11m 02:45 WIB 28/10/26] Torino vs Como
 https://live2.zktsva.app/live/741294.m3u8
 
-#EXTINF:-1 tvg-id="4jwq2ghn80k5m0v" tvg-name="Al-Jazira(UAE) vs Al-Muharraq" tvg-logo="https://img.cltvap.cc/football/team/9352b8e0b9515b84abf716a32c42777e.png" group-title="upcoming",[UPCOMING 34h 33m 23:00 WIB 28/10/26] Al-Jazira(UAE) vs Al-Muharraq
+#EXTINF:-1 tvg-id="318q66hxlpglqo9" tvg-name="Borussia Dortmund vs SV Werder Bremen" tvg-logo="https://img.cltvap.cc/football/team/bbfacbdbe67705172c6414d7e9c21b58.png" group-title="upcoming",[UPCOMING 14h 11m 02:45 WIB 28/10/26] Borussia Dortmund vs SV Werder Bremen
 https://live2.zktsva.app/live/304565.m3u8
 
-#EXTINF:-1 tvg-id="1l4rjnh983zgm7v" tvg-name="Al Nahda SC vs Al-Rayyan Sports Club" tvg-logo="https://img.cltvap.cc/football/team/39af905c31d621f47d12b2fad242cdbd.png" group-title="upcoming",[UPCOMING 34h 33m 23:00 WIB 28/10/26] Al Nahda SC vs Al-Rayyan Sports Club
-https://live2.zktsva.app/live/300523.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hnd9y3qdy" tvg-name="AC Oulu vs Vaasa VPS" tvg-logo="https://img.cltvap.cc/football/team/348fa7d49029584354427690fe88f874.png" group-title="upcoming",[UPCOMING 34h 33m 23:00 WIB 28/10/26] AC Oulu vs Vaasa VPS
-https://live2.zktsva.app/live/796315.m3u8
-
-#EXTINF:-1 tvg-id="965mkyh8l18yr1g" tvg-name="Esbjerg vs Nordsjaelland" tvg-logo="https://img.cltvap.cc/football/team/5e88b6bd34b9b435446ca077e78cb112.png" group-title="upcoming",[UPCOMING 34h 33m 23:00 WIB 28/10/26] Esbjerg vs Nordsjaelland
-https://live2.zktsva.app/live/289650.m3u8
-
-#EXTINF:-1 tvg-id="8yomo4h1nog5q0j" tvg-name="SC Freiburg vs VfL Wolfsburg" tvg-logo="https://img.cltvap.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png" group-title="upcoming",[UPCOMING 35h 33m 00:00 WIB 29/10/26] SC Freiburg vs VfL Wolfsburg
-https://live2.zktsva.app/live/303098.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhydoxeryk" tvg-name="SC Paderborn 07 vs VfB Stuttgart" tvg-logo="https://img.cltvap.cc/football/team/7c8c3c50966c793eba910e18659759a1.png" group-title="upcoming",[UPCOMING 35h 33m 00:00 WIB 29/10/26] SC Paderborn 07 vs VfB Stuttgart
-https://live2.zktsva.app/live/301238.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hnewg6qdy" tvg-name="Venezia vs Inter Milan" tvg-logo="https://img.cltvap.cc/football/team/3e724dc0e6fffd01a630b65af348fab6.png" group-title="upcoming",[UPCOMING 36h 3m 00:30 WIB 29/10/26] Venezia vs Inter Milan
+#EXTINF:-1 tvg-id="l5ergphk0vljr8k" tvg-name="Bradford City vs Peterborough United" tvg-logo="https://img.cltvap.cc/football/team/146d903844b14981ba52c5b557bbca0b.png" group-title="upcoming",[UPCOMING 14h 11m 02:45 WIB 28/10/26] Bradford City vs Peterborough United
 https://live2.zktsva.app/live/432017.m3u8
 
-#EXTINF:-1 tvg-id="pxwrxlhywgw7ryk" tvg-name="AC Milan vs Bologna" tvg-logo="https://img.cltvap.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png" group-title="upcoming",[UPCOMING 36h 3m 00:30 WIB 29/10/26] AC Milan vs Bologna
-https://live2.zktsva.app/live/741294.m3u8
-
-#EXTINF:-1 tvg-id="k82rekh2zo82rep" tvg-name="Manchester City vs Brighton Hove Albion" tvg-logo="https://img.cltvap.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png" group-title="upcoming",[UPCOMING 38h 3m 02:30 WIB 29/10/26] Manchester City vs Brighton Hove Albion
+#EXTINF:-1 tvg-id="l7oqdehjy48wr51" tvg-name="Fleetwood Town vs Arsenal" tvg-logo="https://img.cltvap.cc/football/team/e9e4ef61f8774c7df9bcfc7a4cc32a08.png" group-title="upcoming",[UPCOMING 14h 26m 03:00 WIB 28/10/26] Fleetwood Town vs Arsenal
 https://live2.zktsva.app/live/301238.m3u8
 
-#EXTINF:-1 tvg-id="3glrw7hnew56qdy" tvg-name="Monza vs Napoli" tvg-logo="https://img.cltvap.cc/football/team/18ccab720cfda6be0c39fef579c13c5a.png" group-title="upcoming",[UPCOMING 38h 18m 02:45 WIB 29/10/26] Monza vs Napoli
-https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-id="y0or5jh8knw7qwz" tvg-name="Cucuta Deportivo vs Aguilas Doradas" tvg-logo="https://img.cltvap.cc/football/team/972c2e951d1ba7680faee53a342bd0a2.png" group-title="upcoming",[UPCOMING 17h 26m 06:00 WIB 28/10/26] Cucuta Deportivo vs Aguilas Doradas
+https://live2.zktsva.app/live/796315.m3u8
 
-#EXTINF:-1 tvg-id="4wyrn4h618pzq86" tvg-name="Genoa vs Juventus" tvg-logo="https://img.cltvap.cc/football/team/51474fb68c7da46b9c20ebddccec7766.png" group-title="upcoming",[UPCOMING 38h 18m 02:45 WIB 29/10/26] Genoa vs Juventus
-https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-id="x7lm7phjez2lm2w" tvg-name="Boyaca Chico vs Atletico Junior Barranquilla" tvg-logo="https://img.cltvap.cc/football/team/1cd42bcb186830f2cffdeef6df5fd2b0.png" group-title="upcoming",[UPCOMING 19h 31m 08:05 WIB 28/10/26] Boyaca Chico vs Atletico Junior Barranquilla
+https://live2.zktsva.app/live/307240.m3u8
 
-#EXTINF:-1 tvg-id="6ypq3nhvxo7gmd7" tvg-name="FC Bayern Munich vs 1. FC Magdeburg" tvg-logo="https://img.cltvap.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png" group-title="upcoming",[UPCOMING 38h 18m 02:45 WIB 29/10/26] FC Bayern Munich vs 1. FC Magdeburg
-https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-id="318q66h8ooojqo9" tvg-name="Alianza San Salvador vs Marathon" tvg-logo="https://img.cltvap.cc/football/team/5204181e7c7001736341ab9b8dd54754.png" group-title="upcoming",[UPCOMING 20h 26m 09:00 WIB 28/10/26] Alianza San Salvador vs Marathon
+https://live2.zktsva.app/live/306290.m3u8
 
-#EXTINF:-1 tvg-id="4wyrn4hyzdo5q86" tvg-name="Bournemouth AFC vs Aston Villa" tvg-logo="https://img.cltvap.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png" group-title="upcoming",[UPCOMING 38h 18m 02:45 WIB 29/10/26] Bournemouth AFC vs Aston Villa
-https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-id="l7oqdehgve3or51" tvg-name="Gamba Osaka vs Buriram United" tvg-logo="https://img.cltvap.cc/football/team/91008a96b5de8c75376d17057f89890e.png" group-title="upcoming",[UPCOMING 28h 26m 17:00 WIB 28/10/26] Gamba Osaka vs Buriram United
+https://live2.zktsva.app/live/306290.m3u8
 
-#EXTINF:-1 tvg-id="dj2ryoh7vjeoq1z" tvg-name="Fulham vs Crystal Palace" tvg-logo="https://img.cltvap.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png" group-title="upcoming",[UPCOMING 38h 18m 02:45 WIB 29/10/26] Fulham vs Crystal Palace
-https://live2.zktsva.app/live/289650.m3u8
-
-#EXTINF:-1 tvg-id="8yomo4hye2gwq0j" tvg-name="Sunderland vs Brentford" tvg-logo="https://img.cltvap.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png" group-title="upcoming",[UPCOMING 38h 18m 02:45 WIB 29/10/26] Sunderland vs Brentford
+#EXTINF:-1 tvg-id="zp5rzghgn26yq82" tvg-name="Kashima Antlers vs Pohang Steelers" tvg-logo="https://img.cltvap.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png" group-title="upcoming",[UPCOMING 28h 26m 17:00 WIB 28/10/26] Kashima Antlers vs Pohang Steelers
 https://live2.zktsva.app/live/432017.m3u8
 
-#EXTINF:-1 tvg-id="2y8m4zhv0gwkql0" tvg-name="Liverpool vs Chelsea" tvg-logo="https://img.cltvap.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png" group-title="upcoming",[UPCOMING 38h 33m 03:00 WIB 29/10/26] Liverpool vs Chelsea
+#EXTINF:-1 tvg-id="y0or5jh9lxn3qwz" tvg-name="Mito Hollyhock vs Cerezo Osaka" tvg-logo="https://img.cltvap.cc/football/team/9ead844240532c4e12d3eb45d2087924.png" group-title="upcoming",[UPCOMING 28h 26m 17:00 WIB 28/10/26] Mito Hollyhock vs Cerezo Osaka
 https://live2.zktsva.app/live/304565.m3u8
 
-#EXTINF:-1 tvg-id="zp5rzghgwoo5q82" tvg-name="Inter Miami CF vs FC Cincinnati" tvg-logo="https://img.cltvap.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" group-title="upcoming",[UPCOMING 42h 3m 06:30 WIB 29/10/26] Inter Miami CF vs FC Cincinnati
-https://live2.zktsva.app/live/796315.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8ghew072r6o" tvg-name="San Jose Earthquakes vs Colorado Rapids" tvg-logo="https://img.cltvap.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png" group-title="upcoming",[UPCOMING 45h 3m 09:30 WIB 29/10/26] San Jose Earthquakes vs Colorado Rapids
-https://live2.zktsva.app/live/307240.m3u8
-
-#EXTINF:-1 tvg-id="y0or5jh8o5w6qwz" tvg-name="Seattle Sounders vs Houston Dynamo" tvg-logo="https://img.cltvap.cc/football/team/cef1725baaf3f3be0cb7215c5f39d162.png" group-title="upcoming",[UPCOMING 45h 3m 09:30 WIB 29/10/26] Seattle Sounders vs Houston Dynamo
-https://live2.zktsva.app/live/306290.m3u8
-
-#EXTINF:-1 tvg-id="23xmvkh6egkjqg8" tvg-name="Adelaide United vs Lion City Sailors" tvg-logo="https://img.cltvap.cc/football/team/a27d297d3cfaa7a71ce91a3fa0d40dbf.png" group-title="upcoming",[UPCOMING 50h 18m 14:45 WIB 29/10/26] Adelaide United vs Lion City Sailors
-https://live2.zktsva.app/live/307240.m3u8
-
-#EXTINF:-1 tvg-id="y0or5jh8v0gwqwz" tvg-name="Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC" tvg-logo="https://img.cltvap.cc/football/team/23dc72567ad2999491dfe56b50f7df62.png" group-title="upcoming",[UPCOMING 52h 33m 17:00 WIB 29/10/26] Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC
-https://live2.zktsva.app/live/301263.m3u8
-
-#EXTINF:-1 tvg-id="n54qllhnlkjyqvy" tvg-name="Gangwon FC vs Kuching City FC" tvg-logo="https://img.cltvap.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" group-title="upcoming",[UPCOMING 52h 33m 17:00 WIB 29/10/26] Gangwon FC vs Kuching City FC
-https://live2.zktsva.app/live/306290.m3u8
-
-#EXTINF:-1 tvg-id="dn1m1ghl5o8nmoe" tvg-name="Tai Po vs BG Pathum United" tvg-logo="https://img.cltvap.cc/football/team/df5e92ce4493d63214e8036ad15c1915.png" group-title="upcoming",[UPCOMING 54h 48m 19:15 WIB 29/10/26] Tai Po vs BG Pathum United
-https://live2.zktsva.app/live/796315.m3u8
-
-#EXTINF:-1 tvg-id="dj2ryohlwdn5q1z" tvg-name="Shanghai Shenhua vs Machida Zelvia" tvg-logo="https://img.cltvap.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png" group-title="upcoming",[UPCOMING 54h 48m 19:15 WIB 29/10/26] Shanghai Shenhua vs Machida Zelvia
-https://live2.zktsva.app/live/289650.m3u8
-
-#EXTINF:-1 tvg-id="4wyrn4h6j794q86" tvg-name="Phnom Penh Crown FC vs Kitchee" tvg-logo="https://img.cltvap.cc/football/team/03dd1707147dbd5897a8dcae40991e2c.png" group-title="upcoming",[UPCOMING 54h 48m 19:15 WIB 29/10/26] Phnom Penh Crown FC vs Kitchee
-https://live2.zktsva.app/live/300523.m3u8
-
-#EXTINF:-1 tvg-id="1l4rjnhny2n5m7v" tvg-name="Aarhus Fremad vs FC Copenhagen" tvg-logo="https://img.cltvap.cc/football/team/8a71e9629c5a035b3661c51e089a7c44.png" group-title="upcoming",[UPCOMING 55h 3m 19:30 WIB 29/10/26] Aarhus Fremad vs FC Copenhagen
-https://live2.zktsva.app/live/307240.m3u8
-
-#EXTINF:-1 tvg-id="l5ergph4655pr8k" tvg-name="Krylya Sovetov vs Dynamo Makhachkala" tvg-logo="https://img.cltvap.cc/football/team/340d41d735133c7d7ed375b9a4a18d3f.png" group-title="upcoming",[UPCOMING 56h 33m 21:00 WIB 29/10/26] Krylya Sovetov vs Dynamo Makhachkala
+#EXTINF:-1 tvg-id="n54qllh4257jqvy" tvg-name="Yokohama F. Marinos vs Sanfrecce Hiroshima" tvg-logo="https://img.cltvap.cc/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png" group-title="upcoming",[UPCOMING 28h 26m 17:00 WIB 28/10/26] Yokohama F. Marinos vs Sanfrecce Hiroshima
 https://live2.zktsva.app/live/741294.m3u8
 
-#EXTINF:-1 tvg-id="318q66hx5y3nqo9" tvg-name="Modern Sport FC vs Al Ahly FC" tvg-logo="https://img.cltvap.cc/football/team/53f4bc55c48cd39be78fa4fa69645f31.png" group-title="upcoming",[UPCOMING 56h 33m 21:00 WIB 29/10/26] Modern Sport FC vs Al Ahly FC
-https://live2.zktsva.app/live/306290.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8ghe1o5dr6o" tvg-name="Al Khaleej vs Al Hazem" tvg-logo="https://img.cltvap.cc/football/team/6d48cbd483dee74ed9aef387bb082d64.png" group-title="upcoming",[UPCOMING 57h 8m 21:35 WIB 29/10/26] Al Khaleej vs Al Hazem
-https://live2.zktsva.app/live/304565.m3u8
-
-#EXTINF:-1 tvg-id="2y8m4zh52ll8ql0" tvg-name="Volos NPS vs Atromitos Athens" tvg-logo="https://img.cltvap.cc/football/team/5427773b290ec40281efd5e751191a67.png" group-title="upcoming",[UPCOMING 58h 33m 23:00 WIB 29/10/26] Volos NPS vs Atromitos Athens
+#EXTINF:-1 tvg-id="23xmvkhy3v8xqg8" tvg-name="Nagoya Grampus vs Urawa Red Diamonds" tvg-logo="https://img.cltvap.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png" group-title="upcoming",[UPCOMING 28h 26m 17:00 WIB 28/10/26] Nagoya Grampus vs Urawa Red Diamonds
 https://live2.zktsva.app/live/303098.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghey08lr6o" tvg-name="Inter Turku vs HJK Helsinki" tvg-logo="https://img.cltvap.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png" group-title="upcoming",[UPCOMING 58h 33m 23:00 WIB 29/10/26] Inter Turku vs HJK Helsinki
+#EXTINF:-1 tvg-id="zp5rzgh3jy52q82" tvg-name="Sagan Tosu vs Kawasaki Frontale" tvg-logo="https://img.cltvap.cc/football/team/0d7b400b61ad77a72d5d6d7db03077e7.png" group-title="upcoming",[UPCOMING 28h 26m 17:00 WIB 28/10/26] Sagan Tosu vs Kawasaki Frontale
+https://live2.zktsva.app/live/300523.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phjl5wvm2w" tvg-name="Persib Bandung vs Melbourne Victory" tvg-logo="https://img.cltvap.cc/football/team/b2004093bf25a5a8d1768970d6e49d71.png" group-title="upcoming",[UPCOMING 30h 41m 19:15 WIB 28/10/26] Persib Bandung vs Melbourne Victory
+https://live2.zktsva.app/live/796315.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8v03zqwz" tvg-name="The Cong-Viettel vs FC Seoul" tvg-logo="https://img.cltvap.cc/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png" group-title="upcoming",[UPCOMING 30h 41m 19:15 WIB 28/10/26] The Cong-Viettel vs FC Seoul
+https://live2.zktsva.app/live/294335.m3u8
+
+#EXTINF:-1 tvg-id="ednm9wh58652ryo" tvg-name="Brabrand vs AC Horsens" tvg-logo="https://img.cltvap.cc/football/team/2a0ee4bb9a8ac3e6268fbe6bc2710314.png" group-title="upcoming",[UPCOMING 30h 56m 19:30 WIB 28/10/26] Brabrand vs AC Horsens
+https://live2.zktsva.app/live/301263.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8k01nqwz" tvg-name="FC Orenburg vs Rodina Moscow" tvg-logo="https://img.cltvap.cc/football/team/6d81ef01fa7aaedf7144c933bdcc62d8.png" group-title="upcoming",[UPCOMING 31h 26m 20:00 WIB 28/10/26] FC Orenburg vs Rodina Moscow
 https://live2.zktsva.app/live/289650.m3u8
 
-#EXTINF:-1 tvg-id="1l4rjnh9033wm7v" tvg-name="CSKA Moscow vs Lokomotiv Moscow" tvg-logo="https://img.cltvap.cc/football/team/3d44285b3ea2ff20d72778ad3245cf70.png" group-title="upcoming",[UPCOMING 59h 3m 23:30 WIB 29/10/26] CSKA Moscow vs Lokomotiv Moscow
+#EXTINF:-1 tvg-id="pxwrxlhy6212ryk" tvg-name="Nasaf Qarshi vs Al Kuwait SC" tvg-logo="https://img.cltvap.cc/football/team/bef3a45bcf56447c8acfb7b077820022.png" group-title="upcoming",[UPCOMING 32h 11m 20:45 WIB 28/10/26] Nasaf Qarshi vs Al Kuwait SC
+https://live2.zktsva.app/live/301238.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1ghl5oe5moe" tvg-name="Gol Gohar FC vs Arkadag FK" tvg-logo="https://img.cltvap.cc/football/team/69625f17e031ad1fcb33823338b74d95.png" group-title="upcoming",[UPCOMING 32h 11m 20:45 WIB 28/10/26] Gol Gohar FC vs Arkadag FK
+https://live2.zktsva.app/live/303098.m3u8
+
+#EXTINF:-1 tvg-id="y39mp1h62ge9moj" tvg-name="Bank El Ahly vs Al Masry" tvg-logo="https://img.cltvap.cc/football/team/31f3149a6e207008059cd6bb40a4a423.png" group-title="upcoming",[UPCOMING 32h 26m 21:00 WIB 28/10/26] Bank El Ahly vs Al Masry
+https://live2.zktsva.app/live/307240.m3u8
+
+#EXTINF:-1 tvg-id="zp5rzghg922kq82" tvg-name="FK Rostov vs Akron Togliatti" tvg-logo="https://img.cltvap.cc/football/team/25efd2a1bf0d0cd2ef0002bdc44fbde7.png" group-title="upcoming",[UPCOMING 33h 41m 22:15 WIB 28/10/26] FK Rostov vs Akron Togliatti
+https://live2.zktsva.app/live/741294.m3u8
+
+#EXTINF:-1 tvg-id="4jwq2ghn80k5m0v" tvg-name="Al-Jazira(UAE) vs Al-Muharraq" tvg-logo="https://img.cltvap.cc/football/team/9352b8e0b9515b84abf716a32c42777e.png" group-title="upcoming",[UPCOMING 34h 26m 23:00 WIB 28/10/26] Al-Jazira(UAE) vs Al-Muharraq
+https://live2.zktsva.app/live/304565.m3u8
+
+#EXTINF:-1 tvg-id="1l4rjnh983zgm7v" tvg-name="Al Nahda SC vs Al-Rayyan Sports Club" tvg-logo="https://img.cltvap.cc/football/team/39af905c31d621f47d12b2fad242cdbd.png" group-title="upcoming",[UPCOMING 34h 26m 23:00 WIB 28/10/26] Al Nahda SC vs Al-Rayyan Sports Club
+https://live2.zktsva.app/live/300523.m3u8
+
+#EXTINF:-1 tvg-id="3glrw7hnd9y3qdy" tvg-name="AC Oulu vs Vaasa VPS" tvg-logo="https://img.cltvap.cc/football/team/348fa7d49029584354427690fe88f874.png" group-title="upcoming",[UPCOMING 34h 26m 23:00 WIB 28/10/26] AC Oulu vs Vaasa VPS
+https://live2.zktsva.app/live/796315.m3u8
+
+#EXTINF:-1 tvg-id="965mkyh8l18yr1g" tvg-name="Esbjerg vs Nordsjaelland" tvg-logo="https://img.cltvap.cc/football/team/5e88b6bd34b9b435446ca077e78cb112.png" group-title="upcoming",[UPCOMING 34h 26m 23:00 WIB 28/10/26] Esbjerg vs Nordsjaelland
+https://live2.zktsva.app/live/289650.m3u8
+
+#EXTINF:-1 tvg-id="8yomo4h1nog5q0j" tvg-name="SC Freiburg vs VfL Wolfsburg" tvg-logo="https://img.cltvap.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png" group-title="upcoming",[UPCOMING 35h 26m 00:00 WIB 29/10/26] SC Freiburg vs VfL Wolfsburg
+https://live2.zktsva.app/live/303098.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhydoxeryk" tvg-name="SC Paderborn 07 vs VfB Stuttgart" tvg-logo="https://img.cltvap.cc/football/team/7c8c3c50966c793eba910e18659759a1.png" group-title="upcoming",[UPCOMING 35h 26m 00:00 WIB 29/10/26] SC Paderborn 07 vs VfB Stuttgart
+https://live2.zktsva.app/live/301238.m3u8
+
+#EXTINF:-1 tvg-id="3glrw7hnewg6qdy" tvg-name="Venezia vs Inter Milan" tvg-logo="https://img.cltvap.cc/football/team/3e724dc0e6fffd01a630b65af348fab6.png" group-title="upcoming",[UPCOMING 35h 56m 00:30 WIB 29/10/26] Venezia vs Inter Milan
+https://live2.zktsva.app/live/432017.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhywgw7ryk" tvg-name="AC Milan vs Bologna" tvg-logo="https://img.cltvap.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png" group-title="upcoming",[UPCOMING 35h 56m 00:30 WIB 29/10/26] AC Milan vs Bologna
+https://live2.zktsva.app/live/741294.m3u8
+
+#EXTINF:-1 tvg-id="k82rekh2zo82rep" tvg-name="Manchester City vs Brighton Hove Albion" tvg-logo="https://img.cltvap.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png" group-title="upcoming",[UPCOMING 37h 56m 02:30 WIB 29/10/26] Manchester City vs Brighton Hove Albion
+https://live2.zktsva.app/live/301238.m3u8
+
+#EXTINF:-1 tvg-id="3glrw7hnew56qdy" tvg-name="Monza vs Napoli" tvg-logo="https://img.cltvap.cc/football/team/18ccab720cfda6be0c39fef579c13c5a.png" group-title="upcoming",[UPCOMING 38h 11m 02:45 WIB 29/10/26] Monza vs Napoli
+https://live2.zktsva.app/live/741294.m3u8
+
+#EXTINF:-1 tvg-id="4wyrn4h618pzq86" tvg-name="Genoa vs Juventus" tvg-logo="https://img.cltvap.cc/football/team/51474fb68c7da46b9c20ebddccec7766.png" group-title="upcoming",[UPCOMING 38h 11m 02:45 WIB 29/10/26] Genoa vs Juventus
+https://live2.zktsva.app/live/301263.m3u8
+
+#EXTINF:-1 tvg-id="6ypq3nhvxo7gmd7" tvg-name="FC Bayern Munich vs 1. FC Magdeburg" tvg-logo="https://img.cltvap.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png" group-title="upcoming",[UPCOMING 38h 11m 02:45 WIB 29/10/26] FC Bayern Munich vs 1. FC Magdeburg
+https://live2.zktsva.app/live/300523.m3u8
+
+#EXTINF:-1 tvg-id="4wyrn4hyzdo5q86" tvg-name="Bournemouth AFC vs Aston Villa" tvg-logo="https://img.cltvap.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png" group-title="upcoming",[UPCOMING 38h 11m 02:45 WIB 29/10/26] Bournemouth AFC vs Aston Villa
+https://live2.zktsva.app/live/303098.m3u8
+
+#EXTINF:-1 tvg-id="dj2ryoh7vjeoq1z" tvg-name="Fulham vs Crystal Palace" tvg-logo="https://img.cltvap.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png" group-title="upcoming",[UPCOMING 38h 11m 02:45 WIB 29/10/26] Fulham vs Crystal Palace
+https://live2.zktsva.app/live/289650.m3u8
+
+#EXTINF:-1 tvg-id="8yomo4hye2gwq0j" tvg-name="Sunderland vs Brentford" tvg-logo="https://img.cltvap.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png" group-title="upcoming",[UPCOMING 38h 11m 02:45 WIB 29/10/26] Sunderland vs Brentford
+https://live2.zktsva.app/live/432017.m3u8
+
+#EXTINF:-1 tvg-id="2y8m4zhv0gwkql0" tvg-name="Liverpool vs Chelsea" tvg-logo="https://img.cltvap.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png" group-title="upcoming",[UPCOMING 38h 26m 03:00 WIB 29/10/26] Liverpool vs Chelsea
+https://live2.zktsva.app/live/304565.m3u8
+
+#EXTINF:-1 tvg-id="zp5rzghgwoo5q82" tvg-name="Inter Miami CF vs FC Cincinnati" tvg-logo="https://img.cltvap.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" group-title="upcoming",[UPCOMING 41h 56m 06:30 WIB 29/10/26] Inter Miami CF vs FC Cincinnati
+https://live2.zktsva.app/live/796315.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8ghew072r6o" tvg-name="San Jose Earthquakes vs Colorado Rapids" tvg-logo="https://img.cltvap.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png" group-title="upcoming",[UPCOMING 44h 56m 09:30 WIB 29/10/26] San Jose Earthquakes vs Colorado Rapids
+https://live2.zktsva.app/live/307240.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8o5w6qwz" tvg-name="Seattle Sounders vs Houston Dynamo" tvg-logo="https://img.cltvap.cc/football/team/cef1725baaf3f3be0cb7215c5f39d162.png" group-title="upcoming",[UPCOMING 44h 56m 09:30 WIB 29/10/26] Seattle Sounders vs Houston Dynamo
+https://live2.zktsva.app/live/306290.m3u8
+
+#EXTINF:-1 tvg-id="23xmvkh6egkjqg8" tvg-name="Adelaide United vs Lion City Sailors" tvg-logo="https://img.cltvap.cc/football/team/a27d297d3cfaa7a71ce91a3fa0d40dbf.png" group-title="upcoming",[UPCOMING 50h 11m 14:45 WIB 29/10/26] Adelaide United vs Lion City Sailors
+https://live2.zktsva.app/live/307240.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8v0gwqwz" tvg-name="Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC" tvg-logo="https://img.cltvap.cc/football/team/23dc72567ad2999491dfe56b50f7df62.png" group-title="upcoming",[UPCOMING 52h 26m 17:00 WIB 29/10/26] Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC
+https://live2.zktsva.app/live/301263.m3u8
+
+#EXTINF:-1 tvg-id="n54qllhnlkjyqvy" tvg-name="Gangwon FC vs Kuching City FC" tvg-logo="https://img.cltvap.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" group-title="upcoming",[UPCOMING 52h 26m 17:00 WIB 29/10/26] Gangwon FC vs Kuching City FC
+https://live2.zktsva.app/live/306290.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1ghl5o8nmoe" tvg-name="Tai Po vs BG Pathum United" tvg-logo="https://img.cltvap.cc/football/team/df5e92ce4493d63214e8036ad15c1915.png" group-title="upcoming",[UPCOMING 54h 41m 19:15 WIB 29/10/26] Tai Po vs BG Pathum United
+https://live2.zktsva.app/live/796315.m3u8
+
+#EXTINF:-1 tvg-id="dj2ryohlwdn5q1z" tvg-name="Shanghai Shenhua vs Machida Zelvia" tvg-logo="https://img.cltvap.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png" group-title="upcoming",[UPCOMING 54h 41m 19:15 WIB 29/10/26] Shanghai Shenhua vs Machida Zelvia
+https://live2.zktsva.app/live/289650.m3u8
+
+#EXTINF:-1 tvg-id="4wyrn4h6j794q86" tvg-name="Phnom Penh Crown FC vs Kitchee" tvg-logo="https://img.cltvap.cc/football/team/03dd1707147dbd5897a8dcae40991e2c.png" group-title="upcoming",[UPCOMING 54h 41m 19:15 WIB 29/10/26] Phnom Penh Crown FC vs Kitchee
+https://live2.zktsva.app/live/300523.m3u8
+
+#EXTINF:-1 tvg-id="1l4rjnhny2n5m7v" tvg-name="Aarhus Fremad vs FC Copenhagen" tvg-logo="https://img.cltvap.cc/football/team/8a71e9629c5a035b3661c51e089a7c44.png" group-title="upcoming",[UPCOMING 54h 56m 19:30 WIB 29/10/26] Aarhus Fremad vs FC Copenhagen
+https://live2.zktsva.app/live/307240.m3u8
+
+#EXTINF:-1 tvg-id="l5ergph4655pr8k" tvg-name="Krylya Sovetov vs Dynamo Makhachkala" tvg-logo="https://img.cltvap.cc/football/team/340d41d735133c7d7ed375b9a4a18d3f.png" group-title="upcoming",[UPCOMING 56h 26m 21:00 WIB 29/10/26] Krylya Sovetov vs Dynamo Makhachkala
+https://live2.zktsva.app/live/741294.m3u8
+
+#EXTINF:-1 tvg-id="318q66hx5y3nqo9" tvg-name="Modern Sport FC vs Al Ahly FC" tvg-logo="https://img.cltvap.cc/football/team/53f4bc55c48cd39be78fa4fa69645f31.png" group-title="upcoming",[UPCOMING 56h 26m 21:00 WIB 29/10/26] Modern Sport FC vs Al Ahly FC
+https://live2.zktsva.app/live/306290.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8ghe1o5dr6o" tvg-name="Al Khaleej vs Al Hazem" tvg-logo="https://img.cltvap.cc/football/team/6d48cbd483dee74ed9aef387bb082d64.png" group-title="upcoming",[UPCOMING 57h 1m 21:35 WIB 29/10/26] Al Khaleej vs Al Hazem
+https://live2.zktsva.app/live/304565.m3u8
+
+#EXTINF:-1 tvg-id="2y8m4zh52ll8ql0" tvg-name="Volos NPS vs Atromitos Athens" tvg-logo="https://img.cltvap.cc/football/team/5427773b290ec40281efd5e751191a67.png" group-title="upcoming",[UPCOMING 58h 26m 23:00 WIB 29/10/26] Volos NPS vs Atromitos Athens
+https://live2.zktsva.app/live/303098.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8ghey08lr6o" tvg-name="Inter Turku vs HJK Helsinki" tvg-logo="https://img.cltvap.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png" group-title="upcoming",[UPCOMING 58h 26m 23:00 WIB 29/10/26] Inter Turku vs HJK Helsinki
+https://live2.zktsva.app/live/289650.m3u8
+
+#EXTINF:-1 tvg-id="1l4rjnh9033wm7v" tvg-name="CSKA Moscow vs Lokomotiv Moscow" tvg-logo="https://img.cltvap.cc/football/team/3d44285b3ea2ff20d72778ad3245cf70.png" group-title="upcoming",[UPCOMING 58h 56m 23:30 WIB 29/10/26] CSKA Moscow vs Lokomotiv Moscow
 https://live2.zktsva.app/live/294335.m3u8
