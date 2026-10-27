@@ -1,26 +1,28 @@
 #EXTM3U
-# ⏰ Latest Updated: 16:55:10 WIB 27-10-2026
-# 🔄 Total Channels: 769
+# ⏰ Latest Updated: 17:01:28 WIB 27-10-2026
+# 🔄 Total Channels: 770
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [16:55:10 WIB 27-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [17:01:28 WIB 27-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/71044/image" group-title="LIVE EVENT",23:00 WIB Al Seeb SC vs East Bengal FC | Football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel15.m3u8?|Referer=https://xoilac.domainkqt.cc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/264111/image" group-title="LIVE EVENT",23:00 WIB Shabab Al-Ahli Dubai vs Esteghlal FC | Football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel5.m3u8?|Referer=https://xoilac.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://shorter.me/sFEQL" group-title="LIVE EVENT",00:00 WIB Sonnenhof Grossaspach vs Augsburg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",French Open Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=00d87a5bbb8f858e21d0fa0a0f23c695&wsTime=6ae228b5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=f45bc2b7929fce4ced62f6f65f2ce3bb&wsTime=6ae22a2e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",French Open Badminton 2026 | Court 2 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=9e2eeef73074705f6340f0b64f57c833&wsTime=6ae228ba&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=8b743823e1787c5a41c566bd48d87be8&wsTime=6ae22a2f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",French Open Badminton 2026 | Court 3 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=ad14a4ac5cc6e1cb530d17bce8c198ed&wsTime=6ae228bc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=020f58fac7584b944f0b444021e8d904&wsTime=6ae22a16&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=556B2F" group-title="LIVE EVENT",HYLO Open | XOILACZ | Gvision TV
 https://tg0h0grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8?wsSession=8bad9bf3c3bdb2afb92f6dac-179308818795661&wsIPSercert=7d528e29612bccf2de1c167dba323c6c&wsBindIP=2&wsserid=1168235948333819694
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=556B2F" group-title="LIVE EVENT",HYLO Open | XOILACZ | Gvision TV
@@ -33,14 +35,16 @@ https://tg0h0grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.co
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/sFEQL" group-title="LIVE EVENT",[Belum Mulai] 00:00 WIB Sonnenhof Grossaspach vs Augsburg
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",[Belum Mulai] 00:30 WIB Sassuolo vs Lazio
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/71044/image" group-title="LIVE EVENT",23:00 WIB Al Seeb SC vs East Bengal FC | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel15.m3u8?|Referer=https://xoilac.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/264111/image" group-title="LIVE EVENT",23:00 WIB Shabab Al-Ahli Dubai vs Esteghlal FC | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel5.m3u8?|Referer=https://xoilac.domainkqt.cc/
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/10/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Predator European Championships: Spain  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -96,11 +100,11 @@ https://live2.jorvakstreamcache.com/live/channel15.m3u8?|Referer=https://xoilac.
 #EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel5.m3u8?|Referer=https://xoilac.domainkqt.cc/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",French Open Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=00d87a5bbb8f858e21d0fa0a0f23c695&wsTime=6ae228b5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=f45bc2b7929fce4ced62f6f65f2ce3bb&wsTime=6ae22a2e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",French Open Badminton 2026 | Court 2 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=9e2eeef73074705f6340f0b64f57c833&wsTime=6ae228ba&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=8b743823e1787c5a41c566bd48d87be8&wsTime=6ae22a2f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfFmfXTF/20260730-162547.jpg" group-title="Live Event: Badminton",French Open Badminton 2026 | Court 3 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=ad14a4ac5cc6e1cb530d17bce8c198ed&wsTime=6ae228bc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=020f58fac7584b944f0b444021e8d904&wsTime=6ae22a16&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=556B2F" group-title="Live Event: Badminton",HYLO Open | XOILACZ | Gvision TV
 https://tg0h0grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8?wsSession=8bad9bf3c3bdb2afb92f6dac-179308818795661&wsIPSercert=7d528e29612bccf2de1c167dba323c6c&wsBindIP=2&wsserid=1168235948333819694
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=556B2F" group-title="Live Event: Badminton",HYLO Open | XOILACZ | Gvision TV
