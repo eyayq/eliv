@@ -1,267 +1,267 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/39af905c31d621f47d12b2fad242cdbd.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Al Nahda😈VS😈Al Rayyan📁|LIVE|Wednesday 28 October 2026 23:00:00 WIB(Main)
-https://live.hztx2020.com/live/14346247_014ca6d94141082463a9afe433811ba8_autoChange.m3u8?auth_key=1793223414-0-0-69c4322d4a454626642d37b4830d8c0a
+https://live.hztx2020.com/live/14346247_014ca6d94141082463a9afe433811ba8_autoChange.m3u8?auth_key=1793224088-0-0-cf5d629e5b262d0f485a1f503b22d782
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/39af905c31d621f47d12b2fad242cdbd.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Al Nahda😈VS😈Al Rayyan📁|LIVE|Wednesday 28 October 2026 23:00:00 WIB(BLV MONSTER)
 https://live05.miekgo.app/live/75915087.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9352b8e0b9515b84abf716a32c42777e.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Al Jazira😈VS😈Al-Muharraq📁|LIVE|Wednesday 28 October 2026 23:00:00 WIB(BLV PEPSI)
 https://live05.miekgo.app/live/59444581.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5e88b6bd34b9b435446ca077e78cb112.png!w80" group-title="📁Cúp Bóng đá Đan Mạch📁",📁Esbjerg😈VS😈Nordsjaelland📁|LIVE|Wednesday 28 October 2026 23:00:00 WIB(Main)
-https://live4.hztx2020.com/live/14473620_ef06ecd5f4ce268374028ca27503a975_autoChange.m3u8?auth_key=1793223414-0-0-19ea5a8a003b94d367600334a5ea5c9a
+https://live4.hztx2020.com/live/14473620_ef06ecd5f4ce268374028ca27503a975_autoChange.m3u8?auth_key=1793224088-0-0-13368f2a802d00f6f339e6347f9b1c8c
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5e88b6bd34b9b435446ca077e78cb112.png!w80" group-title="📁Cúp Bóng đá Đan Mạch📁",📁Esbjerg😈VS😈Nordsjaelland📁|LIVE|Wednesday 28 October 2026 23:00:00 WIB(BLV SODA)
 https://live05.miekgo.app/live/02456966.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/348fa7d49029584354427690fe88f874.png!w80" group-title="📁Giải Bóng đá Vô địch Quốc gia Phần Lan📁",📁CLB AC Oulu😈VS😈CLB Vaasa VPS📁|LIVE|Wednesday 28 October 2026 23:00:00 WIB(Main)
-https://live.hztx2020.com/live/14407817_80ebb1ea623b7bcbe03909933934ac2b_autoChange.m3u8?auth_key=1793223413-0-0-6aca25a1be709230f52d91e3f33ac6e3
+https://live.hztx2020.com/live/14407817_80ebb1ea623b7bcbe03909933934ac2b_autoChange.m3u8?auth_key=1793224088-0-0-6a515cf19d0044059d25299bd91cafe6
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/348fa7d49029584354427690fe88f874.png!w80" group-title="📁Giải Bóng đá Vô địch Quốc gia Phần Lan📁",📁CLB AC Oulu😈VS😈CLB Vaasa VPS📁|LIVE|Wednesday 28 October 2026 23:00:00 WIB(BLV TEPPY)
 https://live05.miekgo.app/live/33860426.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7c8c3c50966c793eba910e18659759a1.png!w80" group-title="📁Cúp Liên đoàn bóng đá Đức📁",📁Paderborn😈VS😈VfB Stuttgart📁|LIVE|Thursday 29 October 2026 00:00:00 WIB(Main)
-https://live3.hztx2020.com/live/14423219_5b535e4cd2fdecfd583afcf027ec6921_autoChange.m3u8?auth_key=1793223414-0-0-abb7928a3eb5c76acf4bbc07c94ad2a4
+https://live3.hztx2020.com/live/14423219_5b535e4cd2fdecfd583afcf027ec6921_autoChange.m3u8?auth_key=1793224089-0-0-cb3ca0f151d7919e8eafa792f0d05d49
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7c8c3c50966c793eba910e18659759a1.png!w80" group-title="📁Cúp Liên đoàn bóng đá Đức📁",📁Paderborn😈VS😈VfB Stuttgart📁|LIVE|Thursday 29 October 2026 00:00:00 WIB(BLV MOUNTAIN DEW)
 https://live05.miekgo.app/live/87547578.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png!w80" group-title="📁Cúp Liên đoàn bóng đá Đức📁",📁SC Freiburg😈VS😈VfL Wolfsburg📁|LIVE|Thursday 29 October 2026 00:00:00 WIB(Main)
-https://live5.hztx2020.com/live/14423213_666cb7536e50054b8f9672cd8ed132f5_autoChange.m3u8?auth_key=1793223414-0-0-b7d38d7f780f22bbf0944a751d2c9616
+https://live5.hztx2020.com/live/14423213_666cb7536e50054b8f9672cd8ed132f5_autoChange.m3u8?auth_key=1793224089-0-0-477046ec695dcab80371836951144c7b
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png!w80" group-title="📁Cúp Liên đoàn bóng đá Đức📁",📁SC Freiburg😈VS😈VfL Wolfsburg📁|LIVE|Thursday 29 October 2026 00:00:00 WIB(BLV SAMURAI)
 https://live05.miekgo.app/live/07808742.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/3e724dc0e6fffd01a630b65af348fab6.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁CLB Venezia😈VS😈Inter Milan📁|LIVE|Thursday 29 October 2026 00:30:00 WIB(Main)
-https://live.hztx2020.com/live/13978124_45d917b7e24504ce74d297caf9938bce_autoChange.m3u8?auth_key=1793223413-0-0-2b2547d569fcbe7fd14788af44ba89a8
+https://live.hztx2020.com/live/13978124_45d917b7e24504ce74d297caf9938bce_autoChange.m3u8?auth_key=1793224087-0-0-109d8beef0ffe1412f1877fba5378321
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/3e724dc0e6fffd01a630b65af348fab6.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁CLB Venezia😈VS😈Inter Milan📁|LIVE|Thursday 29 October 2026 00:30:00 WIB(BLV C2)
 https://live05.miekgo.app/live/08552895.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁AC Milan😈VS😈Bologna F.C. 1909📁|LIVE|Thursday 29 October 2026 00:30:00 WIB(Main)
-https://live1.hztx2020.com/live/13978115_dbcdbefa64bbfbd5c31ff56f0e19c135_autoChange.m3u8?auth_key=1793223413-0-0-59a8e6512753ad167a3955df3ad47ccd
+https://live1.hztx2020.com/live/13978115_dbcdbefa64bbfbd5c31ff56f0e19c135_autoChange.m3u8?auth_key=1793224087-0-0-29531a19bbf94bd9574bba1f903d24a7
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁AC Milan😈VS😈Bologna F.C. 1909📁|LIVE|Thursday 29 October 2026 00:30:00 WIB(BLV HỔ VẰN)
 https://live05.miekgo.app/live/07428422.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9fadd87d190982c8082dddf1567e0b9b.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁CLB Parma😈VS😈Udinese Calcio📁|LIVE|Thursday 29 October 2026 00:30:00 WIB(Main)
-https://live2.hztx2020.com/live/13978121_c8bb06b75c7f5791e67a6d7794740a4b_autoChange.m3u8?auth_key=1793223413-0-0-2aa7f6c46d10223e93c076cb36628190
+https://live2.hztx2020.com/live/13978121_c8bb06b75c7f5791e67a6d7794740a4b_autoChange.m3u8?auth_key=1793224087-0-0-a756864952638cefda403f0a70fe95e5
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9fadd87d190982c8082dddf1567e0b9b.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁CLB Parma😈VS😈Udinese Calcio📁|LIVE|Thursday 29 October 2026 00:30:00 WIB(BLV 7UP)
 https://live05.miekgo.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/61603b48126b6e023af5811bf43354b2.png!w80" group-title="📁Giải Vô địch Quốc gia Thụy Điển📁",📁CLB Brommapojkarna😈VS😈Hacken📁|0d 0h 22m 47s|Thursday 29 October 2026 01:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/61603b48126b6e023af5811bf43354b2.png!w80" group-title="📁Giải Vô địch Quốc gia Thụy Điển📁",📁CLB Brommapojkarna😈VS😈Hacken📁|0d 0h 11m 31s|Thursday 29 October 2026 01:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/61603b48126b6e023af5811bf43354b2.png!w80" group-title="📁Giải Vô địch Quốc gia Thụy Điển📁",📁CLB Brommapojkarna😈VS😈Hacken📁|0d 0h 22m 47s|Thursday 29 October 2026 01:00:00 WIB(BLV FANTA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/61603b48126b6e023af5811bf43354b2.png!w80" group-title="📁Giải Vô địch Quốc gia Thụy Điển📁",📁CLB Brommapojkarna😈VS😈Hacken📁|0d 0h 11m 31s|Thursday 29 October 2026 01:00:00 WIB(BLV FANTA)
 https://live05.miekgo.app/live/16226575.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d73fc6a782904bb6819be4e0e86e8a55.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Al-Faisaly Amman😈VS😈Al-Taawoun📁|0d 0h 37m 47s|Thursday 29 October 2026 01:15:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d73fc6a782904bb6819be4e0e86e8a55.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Al-Faisaly Amman😈VS😈Al-Taawoun📁|0d 0h 26m 31s|Thursday 29 October 2026 01:15:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d73fc6a782904bb6819be4e0e86e8a55.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Al-Faisaly Amman😈VS😈Al-Taawoun📁|0d 0h 37m 47s|Thursday 29 October 2026 01:15:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d73fc6a782904bb6819be4e0e86e8a55.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Al-Faisaly Amman😈VS😈Al-Taawoun📁|0d 0h 26m 31s|Thursday 29 October 2026 01:15:00 WIB(BLV PEPSI)
 https://live05.miekgo.app/live/59444581.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="📁Cúp Carabao Anh📁",📁Manchester City😈VS😈Brighton & Hove Albion FC📁|0d 1h 52m 47s|Thursday 29 October 2026 02:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="📁Cúp Carabao Anh📁",📁Manchester City😈VS😈Brighton & Hove Albion FC📁|0d 1h 41m 31s|Thursday 29 October 2026 02:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="📁Cúp Carabao Anh📁",📁Manchester City😈VS😈Brighton & Hove Albion FC📁|0d 1h 52m 47s|Thursday 29 October 2026 02:30:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="📁Cúp Carabao Anh📁",📁Manchester City😈VS😈Brighton & Hove Albion FC📁|0d 1h 41m 31s|Thursday 29 October 2026 02:30:00 WIB(BLV C2)
 https://live05.miekgo.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80" group-title="📁Cúp Liên đoàn bóng đá Đức📁",📁Bayer 04 Leverkusen😈VS😈Nurnberg📁|0d 2h 7m 47s|Thursday 29 October 2026 02:45:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80" group-title="📁Cúp Liên đoàn bóng đá Đức📁",📁Bayer 04 Leverkusen😈VS😈Nurnberg📁|0d 1h 56m 31s|Thursday 29 October 2026 02:45:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80" group-title="📁Cúp Liên đoàn bóng đá Đức📁",📁Bayer 04 Leverkusen😈VS😈Nurnberg📁|0d 2h 7m 47s|Thursday 29 October 2026 02:45:00 WIB(BLV SAMURAI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80" group-title="📁Cúp Liên đoàn bóng đá Đức📁",📁Bayer 04 Leverkusen😈VS😈Nurnberg📁|0d 1h 56m 31s|Thursday 29 October 2026 02:45:00 WIB(BLV SAMURAI)
 https://live05.miekgo.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/18ccab720cfda6be0c39fef579c13c5a.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁A.C. Monza😈VS😈S.S.C. Napoli📁|0d 2h 7m 47s|Thursday 29 October 2026 02:45:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/18ccab720cfda6be0c39fef579c13c5a.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁A.C. Monza😈VS😈S.S.C. Napoli📁|0d 1h 56m 31s|Thursday 29 October 2026 02:45:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/18ccab720cfda6be0c39fef579c13c5a.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁A.C. Monza😈VS😈S.S.C. Napoli📁|0d 2h 7m 47s|Thursday 29 October 2026 02:45:00 WIB(BLV FANTA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/18ccab720cfda6be0c39fef579c13c5a.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁A.C. Monza😈VS😈S.S.C. Napoli📁|0d 1h 56m 31s|Thursday 29 October 2026 02:45:00 WIB(BLV FANTA)
 https://live05.miekgo.app/live/16226575.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png!w80" group-title="📁Cúp Carabao Anh📁",📁Bournemouth😈VS😈Aston Villa📁|0d 2h 7m 47s|Thursday 29 October 2026 02:45:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png!w80" group-title="📁Cúp Carabao Anh📁",📁Bournemouth😈VS😈Aston Villa📁|0d 1h 56m 31s|Thursday 29 October 2026 02:45:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png!w80" group-title="📁Cúp Carabao Anh📁",📁Bournemouth😈VS😈Aston Villa📁|0d 2h 7m 47s|Thursday 29 October 2026 02:45:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png!w80" group-title="📁Cúp Carabao Anh📁",📁Bournemouth😈VS😈Aston Villa📁|0d 1h 56m 31s|Thursday 29 October 2026 02:45:00 WIB(BLV 7UP)
 https://live05.miekgo.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png!w80" group-title="📁Cúp Carabao Anh📁",📁Sunderland😈VS😈Brentford📁|0d 2h 7m 47s|Thursday 29 October 2026 02:45:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png!w80" group-title="📁Cúp Carabao Anh📁",📁Sunderland😈VS😈Brentford📁|0d 1h 56m 31s|Thursday 29 October 2026 02:45:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png!w80" group-title="📁Cúp Carabao Anh📁",📁Sunderland😈VS😈Brentford📁|0d 2h 7m 47s|Thursday 29 October 2026 02:45:00 WIB(BLV HỔ VẰN)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png!w80" group-title="📁Cúp Carabao Anh📁",📁Sunderland😈VS😈Brentford📁|0d 1h 56m 31s|Thursday 29 October 2026 02:45:00 WIB(BLV HỔ VẰN)
 https://live05.miekgo.app/live/07428422.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/51474fb68c7da46b9c20ebddccec7766.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁CLB Genoa😈VS😈Juventus F.C.📁|0d 2h 7m 47s|Thursday 29 October 2026 02:45:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/51474fb68c7da46b9c20ebddccec7766.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁CLB Genoa😈VS😈Juventus F.C.📁|0d 1h 56m 31s|Thursday 29 October 2026 02:45:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/51474fb68c7da46b9c20ebddccec7766.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁CLB Genoa😈VS😈Juventus F.C.📁|0d 2h 7m 47s|Thursday 29 October 2026 02:45:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/51474fb68c7da46b9c20ebddccec7766.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁CLB Genoa😈VS😈Juventus F.C.📁|0d 1h 56m 31s|Thursday 29 October 2026 02:45:00 WIB(BLV MOUNTAIN DEW)
 https://live05.miekgo.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png!w80" group-title="📁Cúp Carabao Anh📁",📁Fulham😈VS😈Crystal Palace📁|0d 2h 7m 47s|Thursday 29 October 2026 02:45:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png!w80" group-title="📁Cúp Carabao Anh📁",📁Fulham😈VS😈Crystal Palace📁|0d 1h 56m 31s|Thursday 29 October 2026 02:45:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png!w80" group-title="📁Cúp Carabao Anh📁",📁Fulham😈VS😈Crystal Palace📁|0d 2h 7m 47s|Thursday 29 October 2026 02:45:00 WIB(BLV TEPPY)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png!w80" group-title="📁Cúp Carabao Anh📁",📁Fulham😈VS😈Crystal Palace📁|0d 1h 56m 31s|Thursday 29 October 2026 02:45:00 WIB(BLV TEPPY)
 https://live05.miekgo.app/live/33860426.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80" group-title="📁Cúp Liên đoàn bóng đá Đức📁",📁FC Bayern München😈VS😈CLB Magdeburg📁|0d 2h 7m 47s|Thursday 29 October 2026 02:45:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80" group-title="📁Cúp Liên đoàn bóng đá Đức📁",📁FC Bayern München😈VS😈CLB Magdeburg📁|0d 1h 56m 31s|Thursday 29 October 2026 02:45:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80" group-title="📁Cúp Liên đoàn bóng đá Đức📁",📁FC Bayern München😈VS😈CLB Magdeburg📁|0d 2h 7m 47s|Thursday 29 October 2026 02:45:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80" group-title="📁Cúp Liên đoàn bóng đá Đức📁",📁FC Bayern München😈VS😈CLB Magdeburg📁|0d 1h 56m 31s|Thursday 29 October 2026 02:45:00 WIB(BLV SODA)
 https://live05.miekgo.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80" group-title="📁Cúp Carabao Anh📁",📁Liverpool😈VS😈Chelsea📁|0d 2h 22m 47s|Thursday 29 October 2026 03:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80" group-title="📁Cúp Carabao Anh📁",📁Liverpool😈VS😈Chelsea📁|0d 2h 11m 31s|Thursday 29 October 2026 03:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80" group-title="📁Cúp Carabao Anh📁",📁Liverpool😈VS😈Chelsea📁|0d 2h 22m 47s|Thursday 29 October 2026 03:00:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80" group-title="📁Cúp Carabao Anh📁",📁Liverpool😈VS😈Chelsea📁|0d 2h 11m 31s|Thursday 29 October 2026 03:00:00 WIB(BLV REVIVE)
 https://live05.miekgo.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80" group-title="📁Cúp Carabao Anh📁",📁Liverpool😈VS😈Chelsea📁|0d 2h 22m 47s|Thursday 29 October 2026 03:00:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80" group-title="📁Cúp Carabao Anh📁",📁Liverpool😈VS😈Chelsea📁|0d 2h 11m 31s|Thursday 29 October 2026 03:00:00 WIB(BLV MONSTER)
 https://live05.miekgo.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png!w80" group-title="📁Cúp Liên đoàn Bồ Đào Nha📁",📁Porto😈VS😈CLB Viseu📁|0d 2h 52m 47s|Thursday 29 October 2026 03:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png!w80" group-title="📁Cúp Liên đoàn Bồ Đào Nha📁",📁Porto😈VS😈CLB Viseu📁|0d 2h 41m 31s|Thursday 29 October 2026 03:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png!w80" group-title="📁Cúp Liên đoàn Bồ Đào Nha📁",📁Porto😈VS😈CLB Viseu📁|0d 2h 52m 47s|Thursday 29 October 2026 03:30:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png!w80" group-title="📁Cúp Liên đoàn Bồ Đào Nha📁",📁Porto😈VS😈CLB Viseu📁|0d 2h 41m 31s|Thursday 29 October 2026 03:30:00 WIB(BLV REDBULL)
 https://live05.miekgo.app/live/49572724.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80" group-title="📁Giải bóng đá Hạng nhất Brasil📁",📁Fluminense RJ😈VS😈CLB Sport Club Internacional📁|0d 4h 52m 47s|Thursday 29 October 2026 05:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80" group-title="📁Giải bóng đá Hạng nhất Brasil📁",📁Fluminense RJ😈VS😈CLB Sport Club Internacional📁|0d 4h 41m 31s|Thursday 29 October 2026 05:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80" group-title="📁Giải bóng đá Hạng nhất Brasil📁",📁Fluminense RJ😈VS😈CLB Sport Club Internacional📁|0d 4h 52m 47s|Thursday 29 October 2026 05:30:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80" group-title="📁Giải bóng đá Hạng nhất Brasil📁",📁Fluminense RJ😈VS😈CLB Sport Club Internacional📁|0d 4h 41m 31s|Thursday 29 October 2026 05:30:00 WIB(BLV REVIVE)
 https://live05.miekgo.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80" group-title="📁Giải bóng đá Hạng nhất Brasil📁",📁CLB Santos😈VS😈Palmeiras📁|0d 4h 52m 47s|Thursday 29 October 2026 05:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80" group-title="📁Giải bóng đá Hạng nhất Brasil📁",📁CLB Santos😈VS😈Palmeiras📁|0d 4h 41m 31s|Thursday 29 October 2026 05:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80" group-title="📁Giải bóng đá Hạng nhất Brasil📁",📁CLB Santos😈VS😈Palmeiras📁|0d 4h 52m 47s|Thursday 29 October 2026 05:30:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80" group-title="📁Giải bóng đá Hạng nhất Brasil📁",📁CLB Santos😈VS😈Palmeiras📁|0d 4h 41m 31s|Thursday 29 October 2026 05:30:00 WIB(BLV SODA)
 https://live05.miekgo.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Atlanta Hawks😈VS😈Miami Heat📁|0d 5h 22m 47s|Thursday 29 October 2026 06:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Atlanta Hawks😈VS😈Miami Heat📁|0d 5h 11m 31s|Thursday 29 October 2026 06:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Atlanta Hawks😈VS😈Miami Heat📁|0d 5h 22m 47s|Thursday 29 October 2026 06:00:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Atlanta Hawks😈VS😈Miami Heat📁|0d 5h 11m 31s|Thursday 29 October 2026 06:00:00 WIB(BLV ROCKSTAR)
 https://live05.miekgo.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Indiana Pacers😈VS😈Philadelphia 76ers📁|0d 5h 22m 47s|Thursday 29 October 2026 06:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Indiana Pacers😈VS😈Philadelphia 76ers📁|0d 5h 11m 31s|Thursday 29 October 2026 06:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Indiana Pacers😈VS😈Philadelphia 76ers📁|0d 5h 22m 47s|Thursday 29 October 2026 06:00:00 WIB(BLV TARZAAN)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Indiana Pacers😈VS😈Philadelphia 76ers📁|0d 5h 11m 31s|Thursday 29 October 2026 06:00:00 WIB(BLV TARZAAN)
 https://live05.miekgo.app/live/56998120.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Toronto Raptors😈VS😈Orlando Magic📁|0d 5h 52m 47s|Thursday 29 October 2026 06:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Toronto Raptors😈VS😈Orlando Magic📁|0d 5h 41m 31s|Thursday 29 October 2026 06:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Toronto Raptors😈VS😈Orlando Magic📁|0d 5h 52m 47s|Thursday 29 October 2026 06:30:00 WIB(BLV LIPTON)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Toronto Raptors😈VS😈Orlando Magic📁|0d 5h 41m 31s|Thursday 29 October 2026 06:30:00 WIB(BLV LIPTON)
 https://live05.miekgo.app/live/89756030.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80" group-title="📁Major League Soccer📁",📁Inter Miami😈VS😈CLB Cincinnati📁|0d 5h 52m 47s|Thursday 29 October 2026 06:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80" group-title="📁Major League Soccer📁",📁Inter Miami😈VS😈CLB Cincinnati📁|0d 5h 41m 31s|Thursday 29 October 2026 06:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80" group-title="📁Major League Soccer📁",📁Inter Miami😈VS😈CLB Cincinnati📁|0d 5h 52m 47s|Thursday 29 October 2026 06:30:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80" group-title="📁Major League Soccer📁",📁Inter Miami😈VS😈CLB Cincinnati📁|0d 5h 41m 31s|Thursday 29 October 2026 06:30:00 WIB(BLV SPRITE)
 https://live05.miekgo.app/live/75748097.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Milwaukee Bucks😈VS😈Houston Rockets📁|0d 6h 22m 47s|Thursday 29 October 2026 07:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Milwaukee Bucks😈VS😈Houston Rockets📁|0d 6h 11m 31s|Thursday 29 October 2026 07:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Milwaukee Bucks😈VS😈Houston Rockets📁|0d 6h 22m 47s|Thursday 29 October 2026 07:00:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Milwaukee Bucks😈VS😈Houston Rockets📁|0d 6h 11m 31s|Thursday 29 October 2026 07:00:00 WIB(BLV POCARI)
 https://live05.miekgo.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Minnesota Timberwolves😈VS😈Golden State Warriors📁|0d 6h 22m 47s|Thursday 29 October 2026 07:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Minnesota Timberwolves😈VS😈Golden State Warriors📁|0d 6h 11m 31s|Thursday 29 October 2026 07:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Minnesota Timberwolves😈VS😈Golden State Warriors📁|0d 6h 22m 47s|Thursday 29 October 2026 07:00:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Minnesota Timberwolves😈VS😈Golden State Warriors📁|0d 6h 11m 31s|Thursday 29 October 2026 07:00:00 WIB(BLV 247)
 https://live05.miekgo.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁New Orleans Pelicans😈VS😈Denver Nuggets📁|0d 6h 22m 47s|Thursday 29 October 2026 07:00:00 WIB(BLV PORSCHE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁New Orleans Pelicans😈VS😈Denver Nuggets📁|0d 6h 11m 31s|Thursday 29 October 2026 07:00:00 WIB(BLV PORSCHE)
 https://live05.miekgo.app/live/56998120.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80" group-title="📁Major League Soccer📁",📁CLB Chicago Fire😈VS😈Orlando City📁|0d 6h 52m 47s|Thursday 29 October 2026 07:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80" group-title="📁Major League Soccer📁",📁CLB Chicago Fire😈VS😈Orlando City📁|0d 6h 41m 31s|Thursday 29 October 2026 07:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80" group-title="📁Major League Soccer📁",📁CLB Chicago Fire😈VS😈Orlando City📁|0d 6h 52m 47s|Thursday 29 October 2026 07:30:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80" group-title="📁Major League Soccer📁",📁CLB Chicago Fire😈VS😈Orlando City📁|0d 6h 41m 31s|Thursday 29 October 2026 07:30:00 WIB(BLV BÍ ĐAO)
 https://live05.miekgo.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80" group-title="📁Giải bóng đá Hạng nhất Brasil📁",📁Bahia😈VS😈CLB Sao Paulo📁|0d 6h 52m 47s|Thursday 29 October 2026 07:30:00 WIB(BLV TEPPY)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80" group-title="📁Giải bóng đá Hạng nhất Brasil📁",📁Bahia😈VS😈CLB Sao Paulo📁|0d 6h 41m 31s|Thursday 29 October 2026 07:30:00 WIB(BLV TEPPY)
 https://live05.miekgo.app/live/33860426.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Dallas Mavericks😈VS😈Oklahoma City Thunder📁|0d 7h 52m 47s|Thursday 29 October 2026 08:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Dallas Mavericks😈VS😈Oklahoma City Thunder📁|0d 7h 41m 31s|Thursday 29 October 2026 08:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Dallas Mavericks😈VS😈Oklahoma City Thunder📁|0d 7h 52m 47s|Thursday 29 October 2026 08:30:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Dallas Mavericks😈VS😈Oklahoma City Thunder📁|0d 7h 41m 31s|Thursday 29 October 2026 08:30:00 WIB(BLV ROCKSTAR)
 https://live05.miekgo.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80" group-title="📁Major League Soccer📁",📁San Jose Earthquakes😈VS😈Colorado Rapids📁|0d 8h 52m 47s|Thursday 29 October 2026 09:30:00 WIB(BLV LIPTON)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80" group-title="📁Major League Soccer📁",📁San Jose Earthquakes😈VS😈Colorado Rapids📁|0d 8h 41m 31s|Thursday 29 October 2026 09:30:00 WIB(BLV LIPTON)
 https://live05.miekgo.app/live/89756030.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Los Angeles Clippers😈VS😈Los Angeles Lakers📁|0d 8h 52m 47s|Thursday 29 October 2026 09:30:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Los Angeles Clippers😈VS😈Los Angeles Lakers📁|0d 8h 41m 31s|Thursday 29 October 2026 09:30:00 WIB(BLV POCARI)
 https://live05.miekgo.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/cef1725baaf3f3be0cb7215c5f39d162.png!w80" group-title="📁Major League Soccer📁",📁Seattle Sounders😈VS😈Houston Dynamo📁|0d 8h 52m 47s|Thursday 29 October 2026 09:30:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/cef1725baaf3f3be0cb7215c5f39d162.png!w80" group-title="📁Major League Soccer📁",📁Seattle Sounders😈VS😈Houston Dynamo📁|0d 8h 41m 31s|Thursday 29 October 2026 09:30:00 WIB(BLV BÍ ĐAO)
 https://live05.miekgo.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80" group-title="📁Giải Vô địch Bóng đá Quốc gia Mexico📁",📁Club America😈VS😈Club Tijuana📁|0d 9h 22m 47s|Thursday 29 October 2026 10:00:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80" group-title="📁Giải Vô địch Bóng đá Quốc gia Mexico📁",📁Club America😈VS😈Club Tijuana📁|0d 9h 11m 31s|Thursday 29 October 2026 10:00:00 WIB(BLV 7UP)
 https://live05.miekgo.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e5f515e5720cd281a1a53ce2950992b1.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁CLB Adelaide United😈VS😈Lion City📁|0d 14h 7m 47s|Thursday 29 October 2026 14:45:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e5f515e5720cd281a1a53ce2950992b1.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁CLB Adelaide United😈VS😈Lion City📁|0d 13h 56m 31s|Thursday 29 October 2026 14:45:00 WIB(BLV GIÀ LÀNG)
 https://live05.miekgo.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0e8a5b04bcb76a376d0f0ddf9f54fbaa.png!w80" group-title="📁Aus Champ📁",📁Canberra Croatia😈VS😈South Melbourne📁|0d 14h 52m 47s|Thursday 29 October 2026 15:30:00 WIB(BLV HỔ VẰN)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0e8a5b04bcb76a376d0f0ddf9f54fbaa.png!w80" group-title="📁Aus Champ📁",📁Canberra Croatia😈VS😈South Melbourne📁|0d 14h 41m 31s|Thursday 29 October 2026 15:30:00 WIB(BLV HỔ VẰN)
 https://live05.miekgo.app/live/07428422.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80" group-title="📁Liên đoàn Bóng rổ Quốc gia Úc📁",📁Brisbane Bullets😈VS😈Cairns Taipans📁|0d 15h 22m 47s|Thursday 29 October 2026 16:00:00 WIB(BLV LIPTON)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80" group-title="📁Liên đoàn Bóng rổ Quốc gia Úc📁",📁Brisbane Bullets😈VS😈Cairns Taipans📁|0d 15h 11m 31s|Thursday 29 October 2026 16:00:00 WIB(BLV LIPTON)
 https://live05.miekgo.app/live/89756030.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/23dc72567ad2999491dfe56b50f7df62.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁CLB Tampines😈VS😈Vikingur Reykjavik Nữ📁|0d 16h 22m 47s|Thursday 29 October 2026 17:00:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/23dc72567ad2999491dfe56b50f7df62.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁CLB Tampines😈VS😈Vikingur Reykjavik Nữ📁|0d 16h 11m 31s|Thursday 29 October 2026 17:00:00 WIB(BLV PEPSI)
 https://live05.miekgo.app/live/59444581.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Gangwon😈VS😈Kuching City FC📁|0d 16h 22m 47s|Thursday 29 October 2026 17:00:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Gangwon😈VS😈Kuching City FC📁|0d 16h 11m 31s|Thursday 29 October 2026 17:00:00 WIB(BLV MONSTER)
 https://live05.miekgo.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" group-title="📁Giải bóng rổ nam Hàn Quốc📁",📁Mobis Phoebus😈VS😈KCC Egis📁|0d 16h 22m 47s|Thursday 29 October 2026 17:00:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" group-title="📁Giải bóng rổ nam Hàn Quốc📁",📁Mobis Phoebus😈VS😈KCC Egis📁|0d 16h 11m 31s|Thursday 29 October 2026 17:00:00 WIB(BLV 247)
 https://live05.miekgo.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/8265cde14b18d7e3716bb1e0b0aed623.png!w80" group-title="📁Giải bóng rổ nam Trung Quốc📁",📁Qingdao Guoxin Aquatic Products😈VS😈Beijing Shougang📁|0d 17h 57m 47s|Thursday 29 October 2026 18:35:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/8265cde14b18d7e3716bb1e0b0aed623.png!w80" group-title="📁Giải bóng rổ nam Trung Quốc📁",📁Qingdao Guoxin Aquatic Products😈VS😈Beijing Shougang📁|0d 17h 46m 31s|Thursday 29 October 2026 18:35:00 WIB(BLV Cozy)
 https://live05.miekgo.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/b54ffedd1c9a80374581bb3d7096dba6.png!w80" group-title="📁Giải bóng rổ nam Trung Quốc📁",📁Xinjiang Yilite😈VS😈Nanjing Toupaisujiu📁|0d 18h 22m 47s|Thursday 29 October 2026 19:00:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/b54ffedd1c9a80374581bb3d7096dba6.png!w80" group-title="📁Giải bóng rổ nam Trung Quốc📁",📁Xinjiang Yilite😈VS😈Nanjing Toupaisujiu📁|0d 18h 11m 31s|Thursday 29 October 2026 19:00:00 WIB(BLV ROCKSTAR)
 https://live05.miekgo.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/df5e92ce4493d63214e8036ad15c1915.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Wofoo Tai Po😈VS😈Pathum United📁|0d 18h 37m 47s|Thursday 29 October 2026 19:15:00 WIB(BLV SAMURAI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/df5e92ce4493d63214e8036ad15c1915.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Wofoo Tai Po😈VS😈Pathum United📁|0d 18h 26m 31s|Thursday 29 October 2026 19:15:00 WIB(BLV SAMURAI)
 https://live05.miekgo.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Shanghai Shenhua😈VS😈Machida📁|0d 18h 37m 47s|Thursday 29 October 2026 19:15:00 WIB(BLV TEPPY)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Shanghai Shenhua😈VS😈Machida📁|0d 18h 26m 31s|Thursday 29 October 2026 19:15:00 WIB(BLV TEPPY)
 https://live05.miekgo.app/live/33860426.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/03dd1707147dbd5897a8dcae40991e2c.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Phnom Penh Crown😈VS😈CLB Kitchee📁|0d 18h 37m 47s|Thursday 29 October 2026 19:15:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/03dd1707147dbd5897a8dcae40991e2c.png!w80" group-title="📁AFC Giải vô địch Champions 2📁",📁Phnom Penh Crown😈VS😈CLB Kitchee📁|0d 18h 26m 31s|Thursday 29 October 2026 19:15:00 WIB(BLV SPRITE)
 https://live05.miekgo.app/live/75748097.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8a71e9629c5a035b3661c51e089a7c44.png!w80" group-title="📁Cúp Bóng đá Đan Mạch📁",📁Aarhus Fremad😈VS😈FC Copenhagen📁|0d 18h 52m 47s|Thursday 29 October 2026 19:30:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8a71e9629c5a035b3661c51e089a7c44.png!w80" group-title="📁Cúp Bóng đá Đan Mạch📁",📁Aarhus Fremad😈VS😈FC Copenhagen📁|0d 18h 41m 31s|Thursday 29 October 2026 19:30:00 WIB(BLV REDBULL)
 https://live05.miekgo.app/live/49572724.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/b7782a595f2f82ed8daca72fd1f102de.png!w80" group-title="📁cúp Nga📁",📁CLB Krylya Sovetov😈VS😈FK Makhachkala📁|0d 20h 22m 47s|Thursday 29 October 2026 21:00:00 WIB(BLV AQUA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/b7782a595f2f82ed8daca72fd1f102de.png!w80" group-title="📁cúp Nga📁",📁CLB Krylya Sovetov😈VS😈FK Makhachkala📁|0d 20h 11m 31s|Thursday 29 October 2026 21:00:00 WIB(BLV AQUA)
 https://live05.miekgo.app/live/18812304.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6d48cbd483dee74ed9aef387bb082d64.png!w80" group-title="📁Giải Vô địch quốc gia Ả-rập Xê-út📁",📁Al Khaleej😈VS😈CLB Al Hazm📁|0d 20h 57m 47s|Thursday 29 October 2026 21:35:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6d48cbd483dee74ed9aef387bb082d64.png!w80" group-title="📁Giải Vô địch quốc gia Ả-rập Xê-út📁",📁Al Khaleej😈VS😈CLB Al Hazm📁|0d 20h 46m 31s|Thursday 29 October 2026 21:35:00 WIB(BLV GIÀ LÀNG)
 https://live05.miekgo.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7d158aa590b16ee3d8e23afa6f12d417.png!w80" group-title="📁World Cup Nữ U17📁",📁Nữ Trung QuốcU17😈VS😈Pháp U17 Nữ📁|0d 21h 22m 47s|Thursday 29 October 2026 22:00:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7d158aa590b16ee3d8e23afa6f12d417.png!w80" group-title="📁World Cup Nữ U17📁",📁Nữ Trung QuốcU17😈VS😈Pháp U17 Nữ📁|0d 21h 11m 31s|Thursday 29 October 2026 22:00:00 WIB(BLV MOUNTAIN DEW)
 https://live05.miekgo.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5427773b290ec40281efd5e751191a67.png!w80" group-title="📁Cúp Hy Lạp📁",📁Volos NFC😈VS😈Atromitos📁|0d 22h 22m 47s|Thursday 29 October 2026 23:00:00 WIB(BLV SAMURAI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5427773b290ec40281efd5e751191a67.png!w80" group-title="📁Cúp Hy Lạp📁",📁Volos NFC😈VS😈Atromitos📁|0d 22h 11m 31s|Thursday 29 October 2026 23:00:00 WIB(BLV SAMURAI)
 https://live05.miekgo.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80" group-title="📁Giải Bóng đá Vô địch Quốc gia Phần Lan📁",📁Inter Turku😈VS😈HJK📁|0d 22h 22m 47s|Thursday 29 October 2026 23:00:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80" group-title="📁Giải Bóng đá Vô địch Quốc gia Phần Lan📁",📁Inter Turku😈VS😈HJK📁|0d 22h 11m 31s|Thursday 29 October 2026 23:00:00 WIB(BLV MONSTER)
 https://live05.miekgo.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1eae81e51945df5660e24dc6f0ea353c.png!w80" group-title="📁cúp Nga📁",📁CSKA Moscow😈VS😈Lokomotiv📁|0d 22h 52m 47s|Thursday 29 October 2026 23:30:00 WIB(BLV AQUA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1eae81e51945df5660e24dc6f0ea353c.png!w80" group-title="📁cúp Nga📁",📁CSKA Moscow😈VS😈Lokomotiv📁|0d 22h 41m 31s|Thursday 29 October 2026 23:30:00 WIB(BLV AQUA)
 https://live05.miekgo.app/live/18812304.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80" group-title="📁Giải Bóng đá Vô địch Quốc gia Phần Lan📁",📁CLB KuPs😈VS😈CLB Gnistan Helsinki📁|0d 23h 22m 47s|Friday 30 October 2026 00:00:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80" group-title="📁Giải Bóng đá Vô địch Quốc gia Phần Lan📁",📁CLB KuPs😈VS😈CLB Gnistan Helsinki📁|0d 23h 11m 31s|Friday 30 October 2026 00:00:00 WIB(BLV 7UP)
 https://live05.miekgo.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0c750c05518db78eeabc97fb11574fed.png!w80" group-title="📁Giải Ngoại hạng Ai Cập📁",📁Pyramids😈VS😈CLB Wadi Degla📁|0d 23h 22m 47s|Friday 30 October 2026 00:00:00 WIB(BLV HỔ VẰN)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0c750c05518db78eeabc97fb11574fed.png!w80" group-title="📁Giải Ngoại hạng Ai Cập📁",📁Pyramids😈VS😈CLB Wadi Degla📁|0d 23h 11m 31s|Friday 30 October 2026 00:00:00 WIB(BLV HỔ VẰN)
 https://live05.miekgo.app/live/07428422.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/93c278d5d8d1d5e2d390ff686359963d.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁Frosinone😈VS😈U.S. Lecce📁|0d 23h 52m 47s|Friday 30 October 2026 00:30:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/93c278d5d8d1d5e2d390ff686359963d.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁Frosinone😈VS😈U.S. Lecce📁|0d 23h 41m 31s|Friday 30 October 2026 00:30:00 WIB(BLV MOUNTAIN DEW)
 https://live05.miekgo.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png!w80" group-title="📁Giải Vô địch quốc gia Ả-rập Xê-út📁",📁Al-Nassr😈VS😈Al Kholood📁|1d 0h 22m 47s|Friday 30 October 2026 01:00:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png!w80" group-title="📁Giải Vô địch quốc gia Ả-rập Xê-út📁",📁Al-Nassr😈VS😈Al Kholood📁|1d 0h 11m 31s|Friday 30 October 2026 01:00:00 WIB(BLV C2)
 https://live05.miekgo.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png!w80" group-title="📁Giải Vô địch quốc gia Ả-rập Xê-út📁",📁Al-Nassr😈VS😈Al Kholood📁|1d 0h 22m 47s|Friday 30 October 2026 01:00:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png!w80" group-title="📁Giải Vô địch quốc gia Ả-rập Xê-út📁",📁Al-Nassr😈VS😈Al Kholood📁|1d 0h 11m 31s|Friday 30 October 2026 01:00:00 WIB(BLV GIÀ LÀNG)
 https://live05.miekgo.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/aa2d8e24a68822387257f31d692c4297.png!w80" group-title="📁Giải Vô địch quốc gia Ả-rập Xê-út📁",📁Al-Riyadh😈VS😈Al Qadisiya📁|1d 0h 22m 47s|Friday 30 October 2026 01:00:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/aa2d8e24a68822387257f31d692c4297.png!w80" group-title="📁Giải Vô địch quốc gia Ả-rập Xê-út📁",📁Al-Riyadh😈VS😈Al Qadisiya📁|1d 0h 11m 31s|Friday 30 October 2026 01:00:00 WIB(BLV REVIVE)
 https://live05.miekgo.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9e90fc4ebbb554f597910a96cf792495.png!w80" group-title="📁Cúp Nhà vua Tây Ban Nha📁",📁Atletico Calatayud😈VS😈Osasuna📁|1d 0h 22m 47s|Friday 30 October 2026 01:00:00 WIB(BLV FANTA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9e90fc4ebbb554f597910a96cf792495.png!w80" group-title="📁Cúp Nhà vua Tây Ban Nha📁",📁Atletico Calatayud😈VS😈Osasuna📁|1d 0h 11m 31s|Friday 30 October 2026 01:00:00 WIB(BLV FANTA)
 https://live05.miekgo.app/live/16226575.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/3368c6d0adf66a2501032a2a77013cd1.png!w80" group-title="📁Cúp Nhà vua Tây Ban Nha📁",📁Lebrijana😈VS😈Getafe CF📁|1d 0h 22m 47s|Friday 30 October 2026 01:00:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/3368c6d0adf66a2501032a2a77013cd1.png!w80" group-title="📁Cúp Nhà vua Tây Ban Nha📁",📁Lebrijana😈VS😈Getafe CF📁|1d 0h 11m 31s|Friday 30 October 2026 01:00:00 WIB(BLV REDBULL)
 https://live05.miekgo.app/live/49572724.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="📁Cúp Liên đoàn Bồ Đào Nha📁",📁Braga😈VS😈Famalicao📁|1d 1h 7m 47s|Friday 30 October 2026 01:45:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="📁Cúp Liên đoàn Bồ Đào Nha📁",📁Braga😈VS😈Famalicao📁|1d 0h 56m 31s|Friday 30 October 2026 01:45:00 WIB(BLV MONSTER)
 https://live05.miekgo.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁ACF Fiorentina😈VS😈Atalanta B.C.📁|1d 2h 7m 47s|Friday 30 October 2026 02:45:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁ACF Fiorentina😈VS😈Atalanta B.C.📁|1d 1h 56m 31s|Friday 30 October 2026 02:45:00 WIB(BLV 7UP)
 https://live05.miekgo.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80" group-title="📁Cúp Carabao Anh📁",📁Everton😈VS😈Câu lạc bộ bóng đá Newcastle United📁|1d 2h 7m 47s|Friday 30 October 2026 02:45:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80" group-title="📁Cúp Carabao Anh📁",📁Everton😈VS😈Câu lạc bộ bóng đá Newcastle United📁|1d 1h 56m 31s|Friday 30 October 2026 02:45:00 WIB(BLV SODA)
 https://live05.miekgo.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c862eaf286d184ff7b44b07e09bbe8ec.png!w80" group-title="📁Cúp Nhà vua Tây Ban Nha📁",📁Sporting Hortaleza😈VS😈Sevilla FC📁|1d 2h 22m 47s|Friday 30 October 2026 03:00:00 WIB(BLV HỔ VẰN)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c862eaf286d184ff7b44b07e09bbe8ec.png!w80" group-title="📁Cúp Nhà vua Tây Ban Nha📁",📁Sporting Hortaleza😈VS😈Sevilla FC📁|1d 2h 11m 31s|Friday 30 October 2026 03:00:00 WIB(BLV HỔ VẰN)
 https://live05.miekgo.app/live/07428422.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/57eb1ed137a3bb206e6475a3a033f03d.png!w80" group-title="📁Cúp Nhà vua Tây Ban Nha📁",📁Prat😈VS😈Athletic Bilbao📁|1d 2h 22m 47s|Friday 30 October 2026 03:00:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/57eb1ed137a3bb206e6475a3a033f03d.png!w80" group-title="📁Cúp Nhà vua Tây Ban Nha📁",📁Prat😈VS😈Athletic Bilbao📁|1d 2h 11m 31s|Friday 30 October 2026 03:00:00 WIB(BLV C2)
 https://live05.miekgo.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/78360445c12fa3fdc8b489486fff4eb6.png!w80" group-title="📁Cúp Liên đoàn Bồ Đào Nha📁",📁Benfica😈VS😈Gil Vicente📁|1d 3h 7m 47s|Friday 30 October 2026 03:45:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/78360445c12fa3fdc8b489486fff4eb6.png!w80" group-title="📁Cúp Liên đoàn Bồ Đào Nha📁",📁Benfica😈VS😈Gil Vicente📁|1d 2h 56m 31s|Friday 30 October 2026 03:45:00 WIB(BLV MOUNTAIN DEW)
 https://live05.miekgo.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80" group-title="📁Giải vô địch quốc gia Colombia📁",📁CLB America de Cali😈VS😈Fortaleza CEIF📁|1d 5h 37m 47s|Friday 30 October 2026 06:15:00 WIB(BLV LIPTON)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80" group-title="📁Giải vô địch quốc gia Colombia📁",📁CLB America de Cali😈VS😈Fortaleza CEIF📁|1d 5h 26m 31s|Friday 30 October 2026 06:15:00 WIB(BLV LIPTON)
 https://live05.miekgo.app/live/89756030.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Atlanta Hawks😈VS😈Cleveland Cavaliers📁|1d 6h 22m 47s|Friday 30 October 2026 07:00:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Atlanta Hawks😈VS😈Cleveland Cavaliers📁|1d 6h 11m 31s|Friday 30 October 2026 07:00:00 WIB(BLV 247)
 https://live05.miekgo.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Atlanta Hawks😈VS😈Cleveland Cavaliers📁|1d 6h 22m 47s|Friday 30 October 2026 07:00:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Atlanta Hawks😈VS😈Cleveland Cavaliers📁|1d 6h 11m 31s|Friday 30 October 2026 07:00:00 WIB(BLV Cozy)
 https://live05.miekgo.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁New Orleans Pelicans😈VS😈Sacramento Kings📁|1d 6h 22m 47s|Friday 30 October 2026 07:00:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁New Orleans Pelicans😈VS😈Sacramento Kings📁|1d 6h 11m 31s|Friday 30 October 2026 07:00:00 WIB(BLV POCARI)
 https://live05.miekgo.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e1f593199d4ee1d98b2db8a9522b605f.png!w80" group-title="📁Giải bóng đá Hạng nhất Brasil📁",📁CLB Gremio😈VS😈Athletico-PR📁|1d 6h 52m 47s|Friday 30 October 2026 07:30:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e1f593199d4ee1d98b2db8a9522b605f.png!w80" group-title="📁Giải bóng đá Hạng nhất Brasil📁",📁CLB Gremio😈VS😈Athletico-PR📁|1d 6h 41m 31s|Friday 30 October 2026 07:30:00 WIB(BLV SPRITE)
 https://live05.miekgo.app/live/75748097.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/4ee24366d09a9239bb2c4207a5008111.png!w80" group-title="📁Giải vô địch quốc gia Colombia📁",📁Atletico Nacional😈VS😈CLB Santa Fe📁|1d 7h 52m 47s|Friday 30 October 2026 08:30:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/4ee24366d09a9239bb2c4207a5008111.png!w80" group-title="📁Giải vô địch quốc gia Colombia📁",📁Atletico Nacional😈VS😈CLB Santa Fe📁|1d 7h 41m 31s|Friday 30 October 2026 08:30:00 WIB(BLV ROCKSTAR)
 https://live05.miekgo.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4512175b1415f69816e816160093bcc0.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Portland Trail Blazers😈VS😈Memphis Grizzlies📁|1d 8h 22m 47s|Friday 30 October 2026 09:00:00 WIB(BLV LIPTON)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4512175b1415f69816e816160093bcc0.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Portland Trail Blazers😈VS😈Memphis Grizzlies📁|1d 8h 11m 31s|Friday 30 October 2026 09:00:00 WIB(BLV LIPTON)
 https://live05.miekgo.app/live/89756030.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="📁Giải vô địch Bắc Mỹ, Trung Mỹ và vùng Caraibes📁",📁Alajuelense😈VS😈Motagua📁|1d 8h 22m 47s|Friday 30 October 2026 09:00:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="📁Giải vô địch Bắc Mỹ, Trung Mỹ và vùng Caraibes📁",📁Alajuelense😈VS😈Motagua📁|1d 8h 11m 31s|Friday 30 October 2026 09:00:00 WIB(BLV GIÀ LÀNG)
 https://live05.miekgo.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/n4e20cb4a61519f6a810b6b307ff8b574.png!w80" group-title="📁Liên đoàn Bóng rổ Quốc gia Úc📁",📁New Zealand Breakers😈VS😈Adelaide 36ers📁|1d 12h 52m 47s|Friday 30 October 2026 13:30:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/n4e20cb4a61519f6a810b6b307ff8b574.png!w80" group-title="📁Liên đoàn Bóng rổ Quốc gia Úc📁",📁New Zealand Breakers😈VS😈Adelaide 36ers📁|1d 12h 41m 31s|Friday 30 October 2026 13:30:00 WIB(BLV ROCKSTAR)
 https://live05.miekgo.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/25dae24c4bfc4a6fdd53d090a39821dd.png!w80" group-title="📁Giải vô địch Malaysia📁",📁DPMM😈VS😈Negeri Sembilan📁|1d 14h 22m 47s|Friday 30 October 2026 15:00:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/25dae24c4bfc4a6fdd53d090a39821dd.png!w80" group-title="📁Giải vô địch Malaysia📁",📁DPMM😈VS😈Negeri Sembilan📁|1d 14h 11m 31s|Friday 30 October 2026 15:00:00 WIB(BLV PEPSI)
 https://live05.miekgo.app/live/59444581.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/5bb229debebf925ddf93351301f54b40.png!w80" group-title="📁Liên đoàn Bóng rổ Quốc gia Úc📁",📁Tasmania JackNgười Nhảy😈VS😈Sydney📁|1d 14h 52m 47s|Friday 30 October 2026 15:30:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/5bb229debebf925ddf93351301f54b40.png!w80" group-title="📁Liên đoàn Bóng rổ Quốc gia Úc📁",📁Tasmania JackNgười Nhảy😈VS😈Sydney📁|1d 14h 41m 31s|Friday 30 October 2026 15:30:00 WIB(BLV Cozy)
 https://live05.miekgo.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2a0ed6cd242323e53d426715a55aedc0.png!w80" group-title="📁Giải bóng đá Liga 1 Indonesia📁",📁Malut United😈VS😈Bhayangkara Solo📁|1d 14h 52m 47s|Friday 30 October 2026 15:30:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2a0ed6cd242323e53d426715a55aedc0.png!w80" group-title="📁Giải bóng đá Liga 1 Indonesia📁",📁Malut United😈VS😈Bhayangkara Solo📁|1d 14h 41m 31s|Friday 30 October 2026 15:30:00 WIB(BLV BÍ ĐAO)
 https://live05.miekgo.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a6bdb997f37f85a411b14348fb35c2ee.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁CLB Brisbane Roar😈VS😈Auckland FC📁|1d 15h 22m 47s|Friday 30 October 2026 16:00:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a6bdb997f37f85a411b14348fb35c2ee.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁CLB Brisbane Roar😈VS😈Auckland FC📁|1d 15h 11m 31s|Friday 30 October 2026 16:00:00 WIB(BLV GIÀ LÀNG)
 https://live05.miekgo.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" group-title="📁Giải bóng rổ nam Hàn Quốc📁",📁Goyang Carrot Jumpers😈VS😈Seoul Samsung Thunders📁|1d 16h 22m 47s|Friday 30 October 2026 17:00:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" group-title="📁Giải bóng rổ nam Hàn Quốc📁",📁Goyang Carrot Jumpers😈VS😈Seoul Samsung Thunders📁|1d 16h 11m 31s|Friday 30 October 2026 17:00:00 WIB(BLV ROCKSTAR)
 https://live05.miekgo.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c6c3cf855ef4fd3a0385d34606a858ab.png!w80" group-title="📁Giải vô địch quốc gia Việt Nam📁",📁Đông Á Thanh Hóa😈VS😈Hồng Lĩnh Hà Tĩnh📁|1d 16h 22m 47s|Friday 30 October 2026 17:00:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c6c3cf855ef4fd3a0385d34606a858ab.png!w80" group-title="📁Giải vô địch quốc gia Việt Nam📁",📁Đông Á Thanh Hóa😈VS😈Hồng Lĩnh Hà Tĩnh📁|1d 16h 11m 31s|Friday 30 October 2026 17:00:00 WIB(BLV POCARI)
 https://live05.miekgo.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/40b7d679de613aedfb80bcaba85fa7e0.png!w80" group-title="📁Giải vô địch quốc gia Việt Nam📁",📁Bac Ninh😈VS😈Hoàng Anh Gia Lai📁|1d 17h 22m 47s|Friday 30 October 2026 18:00:00 WIB(BLV SAMURAI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/40b7d679de613aedfb80bcaba85fa7e0.png!w80" group-title="📁Giải vô địch quốc gia Việt Nam📁",📁Bac Ninh😈VS😈Hoàng Anh Gia Lai📁|1d 17h 11m 31s|Friday 30 October 2026 18:00:00 WIB(BLV SAMURAI)
 https://live05.miekgo.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/03491477df0be4052e5d93e4b0295a0a.png!w80" group-title="📁Giải Bóng đá Ngoại hạng Armenia📁",📁Sadarakpat😈VS😈Van📁|1d 17h 52m 47s|Friday 30 October 2026 18:30:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/03491477df0be4052e5d93e4b0295a0a.png!w80" group-title="📁Giải Bóng đá Ngoại hạng Armenia📁",📁Sadarakpat😈VS😈Van📁|1d 17h 41m 31s|Friday 30 October 2026 18:30:00 WIB(BLV MONSTER)
 https://live05.miekgo.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6383c94b1ad9982eeaabbb99e0431ea3.png!w80" group-title="📁Giải vô địch quốc gia Singapore📁",📁Tanjong Pagar😈VS😈Albirex Niigata📁|1d 17h 52m 47s|Friday 30 October 2026 18:30:00 WIB(BLV TEPPY)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6383c94b1ad9982eeaabbb99e0431ea3.png!w80" group-title="📁Giải vô địch quốc gia Singapore📁",📁Tanjong Pagar😈VS😈Albirex Niigata📁|1d 17h 41m 31s|Friday 30 October 2026 18:30:00 WIB(BLV TEPPY)
 https://live05.miekgo.app/live/33860426.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/d1d77f07287fe840a7e77459e5bd1bfc.png!w80" group-title="📁Giải bóng rổ nam Trung Quốc📁",📁Zhejiang Chouzhou😈VS😈Shanghai📁|1d 17h 57m 47s|Friday 30 October 2026 18:35:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/d1d77f07287fe840a7e77459e5bd1bfc.png!w80" group-title="📁Giải bóng rổ nam Trung Quốc📁",📁Zhejiang Chouzhou😈VS😈Shanghai📁|1d 17h 46m 31s|Friday 30 October 2026 18:35:00 WIB(BLV 247)
 https://live05.miekgo.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/858cde8d2c075296f24e7ee61929fbeb.png!w80" group-title="📁Giải bóng rổ nam Trung Quốc📁",📁Guangzhou Loong Lions😈VS😈Shanxi Fenjiu📁|1d 17h 57m 47s|Friday 30 October 2026 18:35:00 WIB(BLV LIPTON)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/858cde8d2c075296f24e7ee61929fbeb.png!w80" group-title="📁Giải bóng rổ nam Trung Quốc📁",📁Guangzhou Loong Lions😈VS😈Shanxi Fenjiu📁|1d 17h 46m 31s|Friday 30 October 2026 18:35:00 WIB(BLV LIPTON)
 https://live05.miekgo.app/live/89756030.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/49fd8e61435ffb68f10b8e9353f948fc.png!w80" group-title="📁Thái League 1📁",📁Sisaket United😈VS😈Ratchaburi📁|1d 18h 22m 47s|Friday 30 October 2026 19:00:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/49fd8e61435ffb68f10b8e9353f948fc.png!w80" group-title="📁Thái League 1📁",📁Sisaket United😈VS😈Ratchaburi📁|1d 18h 11m 31s|Friday 30 October 2026 19:00:00 WIB(BLV SODA)
 https://live05.miekgo.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/72e738f86c289330982cfdf225169768.png!w80" group-title="📁Thái League 1📁",📁Chiangrai Utd😈VS😈Port FC📁|1d 18h 22m 47s|Friday 30 October 2026 19:00:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/72e738f86c289330982cfdf225169768.png!w80" group-title="📁Thái League 1📁",📁Chiangrai Utd😈VS😈Port FC📁|1d 18h 11m 31s|Friday 30 October 2026 19:00:00 WIB(BLV POCARI)
 https://live05.miekgo.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/66307444901ddb38c881129b7ea0105e.png!w80" group-title="📁Giải bóng đá Liga 1 Indonesia📁",📁Persebaya😈VS😈Persijap Jepara📁|1d 18h 22m 47s|Friday 30 October 2026 19:00:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/66307444901ddb38c881129b7ea0105e.png!w80" group-title="📁Giải bóng đá Liga 1 Indonesia📁",📁Persebaya😈VS😈Persijap Jepara📁|1d 18h 11m 31s|Friday 30 October 2026 19:00:00 WIB(BLV PEPSI)
 https://live05.miekgo.app/live/59444581.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80" group-title="📁Thái League 1📁",📁Buriram😈VS😈Prachuap📁|1d 18h 22m 47s|Friday 30 October 2026 19:00:00 WIB(BLV AQUA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80" group-title="📁Thái League 1📁",📁Buriram😈VS😈Prachuap📁|1d 18h 11m 31s|Friday 30 October 2026 19:00:00 WIB(BLV AQUA)
 https://live05.miekgo.app/live/18812304.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png!w80" group-title="📁Giải vô địch quốc gia Việt Nam📁",📁Hà Nội😈VS😈Phu Dong Ninh Binh📁|1d 18h 37m 47s|Friday 30 October 2026 19:15:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png!w80" group-title="📁Giải vô địch quốc gia Việt Nam📁",📁Hà Nội😈VS😈Phu Dong Ninh Binh📁|1d 18h 26m 31s|Friday 30 October 2026 19:15:00 WIB(BLV SPRITE)
 https://live05.miekgo.app/live/75748097.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png!w80" group-title="📁Giải Vô địch quốc gia Ả-rập Xê-út📁",📁Abha😈VS😈Al-Ittihad FC📁|1d 18h 52m 47s|Friday 30 October 2026 19:30:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png!w80" group-title="📁Giải Vô địch quốc gia Ả-rập Xê-út📁",📁Abha😈VS😈Al-Ittihad FC📁|1d 18h 41m 31s|Friday 30 October 2026 19:30:00 WIB(BLV REVIVE)
 https://live05.miekgo.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png!w80" group-title="📁Vô địch bóng đá Ấn Độ📁",📁North East Utd😈VS😈Bengaluru📁|1d 20h 22m 47s|Friday 30 October 2026 21:00:00 WIB(BLV SAMURAI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png!w80" group-title="📁Vô địch bóng đá Ấn Độ📁",📁North East Utd😈VS😈Bengaluru📁|1d 20h 11m 31s|Friday 30 October 2026 21:00:00 WIB(BLV SAMURAI)
 https://live05.miekgo.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7e9f03a408f176192cac0fbe6185f2d6.png!w80" group-title="📁Giải vô địch quốc gia Qatar📁",📁Al-Shahaniya😈VS😈Al Ahli Doha📁|1d 20h 37m 47s|Friday 30 October 2026 21:15:00 WIB(BLV FANTA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7e9f03a408f176192cac0fbe6185f2d6.png!w80" group-title="📁Giải vô địch quốc gia Qatar📁",📁Al-Shahaniya😈VS😈Al Ahli Doha📁|1d 20h 26m 31s|Friday 30 October 2026 21:15:00 WIB(BLV FANTA)
 https://live05.miekgo.app/live/16226575.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/14215ad91a839ba1b4f216001eb02d91.png!w80" group-title="📁Giải Bóng đá Ngoại hạng Azerbaijan📁",📁CLB Turan Tovuz😈VS😈Sabah FC📁|1d 20h 52m 47s|Friday 30 October 2026 21:30:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/14215ad91a839ba1b4f216001eb02d91.png!w80" group-title="📁Giải Bóng đá Ngoại hạng Azerbaijan📁",📁CLB Turan Tovuz😈VS😈Sabah FC📁|1d 20h 41m 31s|Friday 30 October 2026 21:30:00 WIB(BLV REDBULL)
 https://live05.miekgo.app/live/49572724.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ecb7f0a3b58c3e6c3e6f42b8be226e20.png!w80" group-title="📁Giải Vô địch quốc gia Ả-rập Xê-út📁",📁Al Draih😈VS😈NEOM Sports Club📁|1d 21h 12m 47s|Friday 30 October 2026 21:50:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ecb7f0a3b58c3e6c3e6f42b8be226e20.png!w80" group-title="📁Giải Vô địch quốc gia Ả-rập Xê-út📁",📁Al Draih😈VS😈NEOM Sports Club📁|1d 21h 1m 31s|Friday 30 October 2026 21:50:00 WIB(BLV SODA)
 https://live05.miekgo.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8ae657d992b70843447d0e50108cbf37.png!w80" group-title="📁Giải Ngoại hạng Ai Cập📁",📁Asyut Petroleum😈VS😈El Gouna📁|1d 21h 22m 47s|Friday 30 October 2026 22:00:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8ae657d992b70843447d0e50108cbf37.png!w80" group-title="📁Giải Ngoại hạng Ai Cập📁",📁Asyut Petroleum😈VS😈El Gouna📁|1d 21h 11m 31s|Friday 30 October 2026 22:00:00 WIB(BLV MOUNTAIN DEW)
 https://live05.miekgo.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/182f01e096ad1f495cc88d2369c45224.png!w80" group-title="📁Giải vô địch quốc gia Bulgaria📁",📁CSKA 1948 Sofia😈VS😈Spartak Varna📁|1d 21h 22m 47s|Friday 30 October 2026 22:00:00 WIB(BLV TEPPY)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/182f01e096ad1f495cc88d2369c45224.png!w80" group-title="📁Giải vô địch quốc gia Bulgaria📁",📁CSKA 1948 Sofia😈VS😈Spartak Varna📁|1d 21h 11m 31s|Friday 30 October 2026 22:00:00 WIB(BLV TEPPY)
 https://live05.miekgo.app/live/33860426.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/141bcf6ab6d0bc7b8c67dc5eeb9f347d.png!w80" group-title="📁Giải Ngoại hạng Ukraina📁",📁Câu lạc bộ bóng đá Shakhtar Donetsk😈VS😈Obolon Kyiv📁|1d 22h 22m 47s|Friday 30 October 2026 23:00:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/141bcf6ab6d0bc7b8c67dc5eeb9f347d.png!w80" group-title="📁Giải Ngoại hạng Ukraina📁",📁Câu lạc bộ bóng đá Shakhtar Donetsk😈VS😈Obolon Kyiv📁|1d 22h 11m 31s|Friday 30 October 2026 23:00:00 WIB(BLV REVIVE)
 https://live05.miekgo.app/live/33982309.m3u8
