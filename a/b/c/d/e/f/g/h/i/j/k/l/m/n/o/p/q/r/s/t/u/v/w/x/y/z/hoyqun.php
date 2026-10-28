@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE ASU SHEYXA
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1561487573397274667_or4/index.m3u8?expire=1794365409&sign=2af6024314185e411523cd909fa61984
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Osama Ouajif
-https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443792155698529149_or4/index.m3u8?expire=1794365411&sign=a90b4f1d64c8629fa9e22dcc7f7cba26
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE originalbrownsugar🤎👸🏽
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-7701511175214140168/index.m3u8?expire=1794365414&sign=6c53e4b0465e192c2a65b46ac9a9026e
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE rojina prasai123
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1849718296561582126_or4/index.m3u8?expire=1794365417&sign=618f0645fdba77cea685b22a77f39cf0
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Josue Cardona
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-2137949157526077486_or4/index.m3u8?expire=1794365419&sign=5d6c9a7cd9c0e1e3f461de7617292f54
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 𝐉𝐎𝐒𝐇𝐃𝐀𝐘 ♔ 𝐉𝐃
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1849718451972866117_or4/index.m3u8?expire=1794365423&sign=4e2aee1f3c898c0b77a384eddbe17d78
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Gerardo 🥩♠️ ElReyDeLaPicanha
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561488355812180014_or4/index.m3u8?expire=1794365431&sign=9af3ac62127512774760d2887258a619
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE CRISITO0️⃣5️⃣3️⃣3️⃣6️⃣6️⃣🐐
+https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-7701519529607826183_or4/index.m3u8?expire=1794365779&sign=4ef88889180e06ae29e4cf6e422b5272
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Solo Retos Locos🥷🏼🧃🦂
+https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1561488257144848427_or4/index.m3u8?expire=1794365781&sign=1079064f3a876c758ffacf32c55873bb
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE D.I.V.A🐧
+https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443790569463612285_or4/index.m3u8?expire=1794365786&sign=6b8ee15ae5ec5df10773ba4366df9cd8
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Solo Retos Locos🥷🏼🧃🦂
+https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1561488257144848427_or4/index.m3u8?expire=1794365787&sign=affadad019ebbf6519eb5ccdf485e044
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 4X4
+https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-7701533792181553938_or4/index.m3u8?expire=1794365788&sign=a1441b38cbae6d28e9bf45ef41ac99ca
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🎀 Elieth Waleska 4 🎀
+https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-2137949149135896619_or4/index.m3u8?expire=1794365790&sign=e8ed115e8298b75643ccb17ba8321b40
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE L🧊
+https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443791977596060541_or4/index.m3u8?expire=1794365792&sign=baea82d52826d6760afbb11e1e223ca3
