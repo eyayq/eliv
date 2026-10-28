@@ -1,17 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🇨🇭fabi gjk 007🇽🇰
-https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273262422052832577_or4/index.m3u8?expire=1794435097&sign=2a31debfe6b5cee1c73b4d42e631523b
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE CarloxyyWithoutYou.
-https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1849722245906694236_or4/index.m3u8?expire=1794435098&sign=1da3a0e407e65a5583e3d151bde9844c
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE sajal_643
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1849722439338819630_or4/index.m3u8?expire=1794435100&sign=86bdc3ec3eb0abfe8702784a50aa4d26
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🎀Tsvetka🎀
-https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273262566067406145_or4/index.m3u8?expire=1794435103&sign=a05855117319dc4fd887382e252fabde
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🇺🇸lowa🍅pie🚜
-https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-2137953705761701957_or4/index.m3u8?expire=1794435105&sign=1609270aba620adf4171c49ebbcec926
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Stealth 🦁
-https://pull-hls-f16-tt04.tiktokcdn.com/game/stream-1273262799948612941_or4/index.m3u8?expire=1794435108&sign=bf541aa1d47bdd35b0f9b5bea0c9cd21
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 💠𝓜𝓪𝓾𝓭𝓲𝓽𝓮💠
-https://pull-hls-f16-tt04.tiktokcdn.com/game/stream-1273262630290851149_or4/index.m3u8?expire=1794435109&sign=ea7a3ec9422b72247542dbf9ddd9bb36
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Jeydita Vasquez🇭🇳_🇪🇸
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-2137953880222203947_or4/index.m3u8?expire=1794435113&sign=63f00e79eb090fe872917259f0de38a3
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🅵🅰🅼🅸🅻🆈.🅱🅰🆁🅱🅴🆁™️ 🐺
+https://pull-hls-f16-tt04.tiktokcdn-eu.com/stage/stream-1273262150066111809_or4/index.m3u8?expire=1794435756&sign=60ca98e1d715dbcc8279e369bc5c3342
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Mr Roberto518
+https://pull-hls-f16-tt03.fcdn.eu.tiktokcdn.com/stage/stream-4443796911035777917_or4/index.m3u8?expire=1794435761&sign=3689738647937f3c1f79456b7c2648e9
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE ⚜️𝑇𝐾⚜️霸道班🩵 11/5 五週年生日慶🚀
+https://pull-hls-f16-tt03.fcdn.eu.tiktokcdn.com/game/stream-1561493218532786260_or4/index.m3u8?expire=1794435769&sign=e779d9c1e4b2f294483f444689878bad
