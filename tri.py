@@ -20,7 +20,7 @@ BATCH_SIZE = 6
 # 👉
 WORKFLOW_LIST = [
     "lve.yml", "lve0.yml",
-    "lve2.yml", "auto.yml",
+    "lve2.yml", "scat.yml",
     "hh.yml", "kk.yml",
     "jj.yml", "ii.yml",
     "pl.yml", "z.yml",
