@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE LAYLA SAPEK
-https://pull-hls-q5-sg01.tiktokcdn.com/game/stream-1561496486220922984_or4/index.m3u8?expire=1794499787&sign=f98acdcc8d9ba96ed1b8139c99bbb811
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Vịt HC❤️
-https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1561497336012341340_or4/index.m3u8?expire=1794499791&sign=d474754edf76a3c5f979bfb08704ca87
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 𝓖𝓮𝓷𝓮𝓼𝓲𝓼 𝓢𝓸𝓳𝓸🍒🇻🇪
-https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-2137958201676005468_or4/index.m3u8?expire=1794499792&sign=1bb1de9ea430c94da45be99738babdda
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Ely🦓
-https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-1849727765685207109_or4/index.m3u8?expire=1794499796&sign=d3c2dd4bfee0bb896615cc67c4883e3e
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Anastasia Toader
-https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273266953177007425_or4/index.m3u8?expire=1794499798&sign=a76a8184065430dd49279ae92305538a
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Marigona
-https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273266870232810817_or4/index.m3u8?expire=1794499800&sign=56419aebe0d78292362ff3ca9d1d3162
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Mme Tout  👑
-https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443801216876020605_or4/index.m3u8?expire=1794499802&sign=b36099edf66090169634ddf24951f1eb
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE MR M • CATCHPHRASE
-https://pull-hls-f16-tt04.tiktokcdn.com/game/stream-1273266844863038797_or4/index.m3u8?expire=1794499806&sign=648a85975b9eab3864b311e3239b7e80
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Jammy 哲宇🪐
-https://pull-hls-f16-sg01.tiktokcdn.com/game/stream-7702090311216614162_or4/index.m3u8?expire=1794499813&sign=8f0aa9f8323dbbba8f0ef14f1397f44e
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE ✨🍀Rosi ✨🍀
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561496087578542126_or4/index.m3u8?expire=1794499818&sign=e746005f7cb54878e642a095704166c7
+https://pull-hls-q5-sg01.tiktokcdn.com/game/stream-1561496486220922984_or4/index.m3u8?expire=1794500481&sign=c154c5f5f478bb8958adc231b46be650
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 马铃薯🍟
+https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-2137957305734135900_or4/index.m3u8?expire=1794500484&sign=f3001d3ca77aa7a219cf0b04abcc8d63
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE THE O.G DOCTORJONES🦇🌗
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273266916533470529_or4/index.m3u8?expire=1794500488&sign=a0e5dcb319fab4dbc965671ca8afa6b5
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Aslan.Oslo
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273266881976337729_or4/index.m3u8?expire=1794500490&sign=4835c9b8f7d35edc5249a10cc8aae6ea
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 10/30🎂重い女Ma-Sa🌺🐆🖤t
+https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-7702095242333915912_or4/index.m3u8?expire=1794500494&sign=ce983fa7e76757e76f468dd06857e19f
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Aslan.Oslo
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273266881976337729_or4/index.m3u8?expire=1794500497&sign=628f3de27dc6998532fbe1cbf4f21e13
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 💋妮可⁰⁹¹⁷🍷9樓精品🍷
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-2137957974748954670_or4/index.m3u8?expire=1794500498&sign=53084eb31e6c9aca9d00d3b59c34ec05
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 💷 IDB✨巨Hiao妮 🐹🛒🍌✏️🍳
+https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-2137957758307401820_or4/index.m3u8?expire=1794500499&sign=c45354d1848fc8086017b0913fd0fa1b
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Laprofe504📚✏️
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561497497518211118_or4/index.m3u8?expire=1794500501&sign=7fc4483475daaae19f5298d3b7d33198
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE L-G[A]NG 👹🔥🥷
+https://pull-hls-f16-sg01.tiktokcdn.com/game/stream-2137958175668961364_or4/index.m3u8?expire=1794500504&sign=d4d7fe17ea9773652fccb20858e4b2d3
