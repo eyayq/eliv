@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [23.09 WIB 29/10/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [23.13 WIB 29/10/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="1603075" tvg-logo="https://media.chuoichientv.net/media/20251115_115638_6cd396bb.png" group-title="[LIVE 21:35 WIB 29/10/26] Al Khaleej Saihat vs Al-Hazm",[LIVE 21:35 WIB 29/10/26] Al Khaleej Saihat vs Al-Hazm (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -21,62 +21,62 @@ https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="1563668" tvg-logo="https://media.chuoichientv.net/media/20251115_115850_94628a02.png" group-title="[UPCOMING 0j 20m 23:30 WIB 29/10/26] CSKA Moscow vs Lokomotiv",[UPCOMING 0j 20m 23:30 WIB 29/10/26] CSKA Moscow vs Lokomotiv (HD1)
+#EXTINF:-1 tvg-id="1563668" tvg-logo="https://media.chuoichientv.net/media/20251115_115850_94628a02.png" group-title="[UPCOMING 0j 16m 23:30 WIB 29/10/26] CSKA Moscow vs Lokomotiv",[UPCOMING 0j 16m 23:30 WIB 29/10/26] CSKA Moscow vs Lokomotiv (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="1563668" tvg-logo="https://media.chuoichientv.net/media/20251115_115850_94628a02.png" group-title="[UPCOMING 0j 20m 23:30 WIB 29/10/26] CSKA Moscow vs Lokomotiv",[UPCOMING 0j 20m 23:30 WIB 29/10/26] CSKA Moscow vs Lokomotiv (HD2)
+#EXTINF:-1 tvg-id="1563668" tvg-logo="https://media.chuoichientv.net/media/20251115_115850_94628a02.png" group-title="[UPCOMING 0j 16m 23:30 WIB 29/10/26] CSKA Moscow vs Lokomotiv",[UPCOMING 0j 16m 23:30 WIB 29/10/26] CSKA Moscow vs Lokomotiv (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8
-#EXTINF:-1 tvg-id="1550170" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 1j 20m 00:30 WIB 30/10/26] Frosinone vs Lecce",[UPCOMING 1j 20m 00:30 WIB 30/10/26] Frosinone vs Lecce (HD1)
+#EXTINF:-1 tvg-id="1550170" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 1j 16m 00:30 WIB 30/10/26] Frosinone vs Lecce",[UPCOMING 1j 16m 00:30 WIB 30/10/26] Frosinone vs Lecce (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="1550170" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 1j 20m 00:30 WIB 30/10/26] Frosinone vs Lecce",[UPCOMING 1j 20m 00:30 WIB 30/10/26] Frosinone vs Lecce (HD2)
+#EXTINF:-1 tvg-id="1550170" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 1j 16m 00:30 WIB 30/10/26] Frosinone vs Lecce",[UPCOMING 1j 16m 00:30 WIB 30/10/26] Frosinone vs Lecce (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="1603076" tvg-logo="https://media.chuoichientv.net/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 1j 50m 01:00 WIB 30/10/26] Al-Nassr vs Al Kholood",[UPCOMING 1j 50m 01:00 WIB 30/10/26] Al-Nassr vs Al Kholood (HD1)
+#EXTINF:-1 tvg-id="1603076" tvg-logo="https://media.chuoichientv.net/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 1j 46m 01:00 WIB 30/10/26] Al-Nassr vs Al Kholood",[UPCOMING 1j 46m 01:00 WIB 30/10/26] Al-Nassr vs Al Kholood (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="1603076" tvg-logo="https://media.chuoichientv.net/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 1j 50m 01:00 WIB 30/10/26] Al-Nassr vs Al Kholood",[UPCOMING 1j 50m 01:00 WIB 30/10/26] Al-Nassr vs Al Kholood (HD2)
+#EXTINF:-1 tvg-id="1603076" tvg-logo="https://media.chuoichientv.net/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 1j 46m 01:00 WIB 30/10/26] Al-Nassr vs Al Kholood",[UPCOMING 1j 46m 01:00 WIB 30/10/26] Al-Nassr vs Al Kholood (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="1550169" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 3j 35m 02:45 WIB 30/10/26] Fiorentina vs Atalanta",[UPCOMING 3j 35m 02:45 WIB 30/10/26] Fiorentina vs Atalanta (HD1)
+#EXTINF:-1 tvg-id="1550169" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 3j 31m 02:45 WIB 30/10/26] Fiorentina vs Atalanta",[UPCOMING 3j 31m 02:45 WIB 30/10/26] Fiorentina vs Atalanta (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="1550169" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 3j 35m 02:45 WIB 30/10/26] Fiorentina vs Atalanta",[UPCOMING 3j 35m 02:45 WIB 30/10/26] Fiorentina vs Atalanta (HD2)
+#EXTINF:-1 tvg-id="1550169" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 3j 31m 02:45 WIB 30/10/26] Fiorentina vs Atalanta",[UPCOMING 3j 31m 02:45 WIB 30/10/26] Fiorentina vs Atalanta (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1640385" tvg-logo="https://media.chuoichientv.net/media/20251115_115507_b8bf4969.png" group-title="[UPCOMING 3j 35m 02:45 WIB 30/10/26] Everton vs Newcastle",[UPCOMING 3j 35m 02:45 WIB 30/10/26] Everton vs Newcastle (HD1)
+#EXTINF:-1 tvg-id="1640385" tvg-logo="https://media.chuoichientv.net/media/20251115_115507_b8bf4969.png" group-title="[UPCOMING 3j 31m 02:45 WIB 30/10/26] Everton vs Newcastle",[UPCOMING 3j 31m 02:45 WIB 30/10/26] Everton vs Newcastle (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="1640385" tvg-logo="https://media.chuoichientv.net/media/20251115_115507_b8bf4969.png" group-title="[UPCOMING 3j 35m 02:45 WIB 30/10/26] Everton vs Newcastle",[UPCOMING 3j 35m 02:45 WIB 30/10/26] Everton vs Newcastle (HD2)
+#EXTINF:-1 tvg-id="1640385" tvg-logo="https://media.chuoichientv.net/media/20251115_115507_b8bf4969.png" group-title="[UPCOMING 3j 31m 02:45 WIB 30/10/26] Everton vs Newcastle",[UPCOMING 3j 31m 02:45 WIB 30/10/26] Everton vs Newcastle (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1603072" tvg-logo="https://media.chuoichientv.net/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 22j 40m 21:50 WIB 30/10/26] Al Diriyah vs Al Neom",[UPCOMING 22j 40m 21:50 WIB 30/10/26] Al Diriyah vs Al Neom (HD1)
+#EXTINF:-1 tvg-id="1603072" tvg-logo="https://media.chuoichientv.net/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 22j 36m 21:50 WIB 30/10/26] Al Diriyah vs Al Neom",[UPCOMING 22j 36m 21:50 WIB 30/10/26] Al Diriyah vs Al Neom (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="1603072" tvg-logo="https://media.chuoichientv.net/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 22j 40m 21:50 WIB 30/10/26] Al Diriyah vs Al Neom",[UPCOMING 22j 40m 21:50 WIB 30/10/26] Al Diriyah vs Al Neom (HD2)
+#EXTINF:-1 tvg-id="1603072" tvg-logo="https://media.chuoichientv.net/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 22j 36m 21:50 WIB 30/10/26] Al Diriyah vs Al Neom",[UPCOMING 22j 36m 21:50 WIB 30/10/26] Al Diriyah vs Al Neom (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
