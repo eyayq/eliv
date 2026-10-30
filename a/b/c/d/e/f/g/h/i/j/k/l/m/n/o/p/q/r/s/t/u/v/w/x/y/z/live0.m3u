@@ -1,26 +1,14 @@
 #EXTM3U
-# ⏰ Latest Updated: 20:01:26 WIB 30-10-2026
-# 🔄 Total Channels: 777
+# ⏰ Latest Updated: 20:22:04 WIB 30-10-2026
+# 🔄 Total Channels: 772
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:01:26 WIB 30-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:22:04 WIB 30-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/34313/image" group-title="LIVE EVENT",01:00 WIB Al-Shabab vs Al-Ahli | Football | HD SERVER | Gvision TV
-https://www.rtmpcdn.com/live/e3f90627-3e35-4d26-9e2a-d3ad01a9159c.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1662/image" group-title="LIVE EVENT",01:00 WIB Le Havre vs Paris Saint-Germain | Football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1662/image" group-title="LIVE EVENT",01:00 WIB Le Havre vs Paris Saint-Germain | Football | Live 2 | Gvision TV
-https://www.rtmpcdn.com/live/e3f90627-3e35-4d26-9e2a-d3ad01a9159c.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1661/image" group-title="LIVE EVENT",01:00 WIB Nice vs Stade Rennais | Football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1661/image" group-title="LIVE EVENT",01:00 WIB Nice vs Stade Rennais | Football | Live 2 | Gvision TV
-https://www.rtmpcdn.com/live/d4ebd275-fb37-4a7a-a131-007c38760496.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",01:00 WIB Le Havre vs PSG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -45,6 +33,12 @@ https://live2.jorvakstreamcache.com/live/channel15.m3u8?|Referer=https://xlz.dom
 #EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2819/image" group-title="LIVE EVENT",03:00 WIB Villarreal vs Espanyol | Football | beIN ENGLISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",03:00 WIB Villarreal vs Espanyol
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -59,6 +53,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1643/image" group-title="LIVE EVENT",03:05 WIB Lille vs RC Lens | Football | CazeTV - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",HYLO Open | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=b6ae38b46b7009c8d4aa3118e4a8c8b0&wsABSTime=1793300081
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",HYLO Open | XOILACZ | Gvision TV
@@ -76,63 +76,69 @@ http://seep.eu.org/https://mobilelive-test.ysp.cctv.cn/ysp/2050786201_hd.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0bca3f4c-fbf1-439c-9e31-27a05283fa41/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Sheffield United vs. Wrexham  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cb4ea32d-7db7-4677-9504-2b0b516e40b5/4/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Stuttgart" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cb4ea32d-7db7-4677-9504-2b0b516e40b5/4/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Team World Championship. Stuttgart  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aada2f56-85a1-4b33-a482-5c197ae091f1/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",MLP Nations Cup  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cb9123f7-9ab6-417f-b6c7-04d699fb0374/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",AHA Hockey: Delaware vs Syracuse - Women's  | Prime Sports | Gvision TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a3f3797a-0ace-4e84-a4db-0c713481c6dc/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Tennis Today Live-Basel-ATP & Vienna-ATP Quarterfinals  | Prime Sports | Gvision TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.394ec66b-fa35-41c3-a272-c513aa2d44d0/7/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds  | Prime Sports | Gvision TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fb4dc292-8763-4736-a327-5fc36f523c57/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Tennis Today Live-Basel-ATP & Vienna-ATP Quarterfinals  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a3f3797a-0ace-4e84-a4db-0c713481c6dc/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Tennis Today Live-Basel-ATP & Vienna-ATP Quarterfinals  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cb9123f7-9ab6-417f-b6c7-04d699fb0374/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",AHA Hockey: Delaware vs Syracuse - Women's  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.394ec66b-fa35-41c3-a272-c513aa2d44d0/7/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10" group-title="Live Event: CFY",01:30 WIB Formula 1 | Motorsports | SKY F1 - ITALY | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/34313/image" group-title="Live Event: CFY",01:00 WIB Al-Shabab vs Al-Ahli | Football | HD SERVER | Gvision TV
-https://www.rtmpcdn.com/live/e3f90627-3e35-4d26-9e2a-d3ad01a9159c.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2598/image" group-title="Live Event: CFY",02:30 WIB SV 07 Elversberg vs 1. FSV Mainz 05 | Football | HD SERVER | Gvision TV
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel15.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1662/image" group-title="Live Event: CFY",01:00 WIB Le Havre vs Paris Saint-Germain | Football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1662/image" group-title="Live Event: CFY",01:00 WIB Le Havre vs Paris Saint-Germain | Football | Live 2 | Gvision TV
-https://www.rtmpcdn.com/live/e3f90627-3e35-4d26-9e2a-d3ad01a9159c.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1661/image" group-title="Live Event: CFY",01:00 WIB Nice vs Stade Rennais | Football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1661/image" group-title="Live Event: CFY",01:00 WIB Nice vs Stade Rennais | Football | Live 2 | Gvision TV
-https://www.rtmpcdn.com/live/d4ebd275-fb37-4a7a-a131-007c38760496.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2819/image" group-title="Live Event: CFY",03:00 WIB Villarreal vs Espanyol | Football | beIN ENGLISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1643/image" group-title="Live Event: CFY",03:05 WIB Lille vs RC Lens | Football | CazeTV - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",HYLO Open | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=b6ae38b46b7009c8d4aa3118e4a8c8b0&wsABSTime=1793300081
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",HYLO Open | XOILACZ | Gvision TV
