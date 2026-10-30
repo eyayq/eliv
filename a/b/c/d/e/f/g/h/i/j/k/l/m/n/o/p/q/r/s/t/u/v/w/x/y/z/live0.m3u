@@ -1,14 +1,32 @@
 #EXTM3U
-# ⏰ Latest Updated: 19:17:43 WIB 30-10-2026
-# 🔄 Total Channels: 769
+# ⏰ Latest Updated: 19:28:24 WIB 30-10-2026
+# 🔄 Total Channels: 775
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:17:43 WIB 30-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:28:24 WIB 30-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2540/image" group-title="LIVE EVENT",00:30 WIB Arminia Bielefeld vs Eintracht Braunschweig | Football | beIN ENGLISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/34313/image" group-title="LIVE EVENT",01:00 WIB Al-Shabab vs Al-Ahli | Football | HD SERVER | Gvision TV
+https://www.rtmpcdn.com/live/e3f90627-3e35-4d26-9e2a-d3ad01a9159c.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1662/image" group-title="LIVE EVENT",01:00 WIB Le Havre vs Paris Saint-Germain | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1662/image" group-title="LIVE EVENT",01:00 WIB Le Havre vs Paris Saint-Germain | Football | Live 2 | Gvision TV
+https://www.rtmpcdn.com/live/e3f90627-3e35-4d26-9e2a-d3ad01a9159c.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1661/image" group-title="LIVE EVENT",01:00 WIB Nice vs Stade Rennais | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1661/image" group-title="LIVE EVENT",01:00 WIB Nice vs Stade Rennais | Football | Live 2 | Gvision TV
+https://www.rtmpcdn.com/live/d4ebd275-fb37-4a7a-a131-007c38760496.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/FDOiPI4.jpg" group-title="LIVE EVENT",01:00 WIB Le Havre vs PSG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -21,6 +39,11 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10" group-title="LIVE EVENT",01:30 WIB Formula 1 | Motorsports | SKY F1 - ITALY | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",HYLO Open | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=b6ae38b46b7009c8d4aa3118e4a8c8b0&wsABSTime=1793300081
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",HYLO Open | XOILACZ | Gvision TV
@@ -84,9 +107,6 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3085/image" group-title="Live Event: CFY",00:00 WIB Konyaspor vs Galatasaray | Football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel2.m3u8?|Referer=https://xlz.domainkqt.cc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2540/image" group-title="Live Event: CFY",00:30 WIB Arminia Bielefeld vs Eintracht Braunschweig | Football | beIN ENGLISH - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
