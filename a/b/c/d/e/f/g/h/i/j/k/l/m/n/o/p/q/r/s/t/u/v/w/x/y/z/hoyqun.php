@@ -1,21 +1,19 @@
 #EXTM3U
 #EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE LAYLA SAPEK
-https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1561501476119904348_or4/index.m3u8?expire=1794573401&sign=fc1636e62ea7a073463fe915bc77c580
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 𝓦𝓲𝓵𝓭 𝓢𝓸𝓾𝓵 ༄.° 🦅
-https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-1849731739862433861_or4/index.m3u8?expire=1794573408&sign=565a81ed7214e2545065ef82223bbb02
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE ZOUMALARM_Blockup 💯🙏
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1561502441441853483_or4/index.m3u8?expire=1794573411&sign=1b8279eab5ec7cfde93c1ccea74b954d
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE ST_RoyalStar
-https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-7702380139341957906_or4/index.m3u8?expire=1794573414&sign=1dcd23d009824e73b87647751209c5be
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🔱SZWAGIERKA93🔱
-https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443805903755936637_or4/index.m3u8?expire=1794573416&sign=51f0e27d2e5d249a13b996d36b10bf9b
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE kinkha
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-2137962450649350190_or4/index.m3u8?expire=1794573418&sign=cd2b53c32051bc0759df1e38bbe1d304
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE ST_RisingStar
-https://pull-hls-f16-sg01.tiktokcdn.com/game/stream-1561501554712248404_or4/index.m3u8?expire=1794573420&sign=0d4b21c6c29addc2c9efcc8e7acc3c45
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE BOBO
-https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273271623688127809_or4/index.m3u8?expire=1794573426&sign=37ac96c1e20c753b62c43dc77b92d218
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🌟🫦CiociaMC🫦🌟
-https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443805875636274045_or4/index.m3u8?expire=1794573429&sign=1c724c485477ff9e1fee34ca8d53d676
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🦅Kazza🦅
-https://pull-hls-f16-sg01.tiktokcdn.com/game/stream-7702415552232377096_or4/index.m3u8?expire=1794573431&sign=728df2226e3160a4c28ea85fe6620d7b
+https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1561501476119904348_or4/index.m3u8?expire=1794574109&sign=8c683b2c37832d46f43df04a76d69f4e
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Dorah é Explorer🛩️
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-7702428926724705044_or4/index.m3u8?expire=1794574114&sign=faffb606103126d8936a02d56e3e6a3d
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE team explosive
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1849732670404952110_or4/index.m3u8?expire=1794574116&sign=4c34c9037505f871b0092c7ecda27ddc
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🌬️🌊🌬️🌊
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273272102240650561_or4/index.m3u8?expire=1794574118&sign=1222919c4bedcc24980beb189316bf47
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE shadukhTamanaAfg🇦🇫🇳🇱
+https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443805288903476093_or4/index.m3u8?expire=1794574119&sign=478d7ab814c195e494b4ad29bee66448
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Onur Yildiz
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273271236932666689_or4/index.m3u8?expire=1794574121&sign=f32a447240167d1a09c5c843eeb878ed
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Boruto 🦊
+https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1849732670622531676_or4/index.m3u8?expire=1794574123&sign=e30250272b631046f77524b270c2c11d
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 10/30🎂重い女Ma-Sa🌺🐆🖤t
+https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-2137961977969639493_or4/index.m3u8?expire=1794574125&sign=4926cf4200bffb3f8af1bbd00da870e3
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 🦙🥷🏻𝐆𝐚𝐦𝐛𝐨𝐚
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561502200844779566_or4/index.m3u8?expire=1794574128&sign=0b0abe2a213c12d7e9158c45faf344a6
