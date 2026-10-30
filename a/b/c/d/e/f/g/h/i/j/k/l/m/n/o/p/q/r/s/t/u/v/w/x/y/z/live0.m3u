@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 09:48:21 WIB 30-10-2026
-# 🔄 Total Channels: 758
+# ⏰ Latest Updated: 09:58:53 WIB 30-10-2026
+# 🔄 Total Channels: 776
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [09:48:21 WIB 30-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [09:58:53 WIB 30-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",15:30 WIB Malut United vs Bhayangkara
@@ -64,6 +64,75 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ryvveqheby/out/v1/5bf9ff9c026048d897328bedb8c9b4b3/cenc.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",4th T20I | India Tour of New Zealand 2026 | Sony Liv | Gvision TV
 https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch9187/cricodi_3010-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1793365819~acl=/*~id=8b58531425174d551a7cac30500962d9-1793322601839~hmac=2e310e7cd00a023eaf272da54de1bfb9c44f7cbf55a49b74414d980b2f396fd0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1b8f520411d341f86ba6a55b6d13cf14-1793340604792
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187747/image" group-title="Live Event: CFY",15:30 WIB South Africa vs Australia | Cricket | WILLOW - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0ea22119ca851e441c56df67e33f6fd:179bbc5d1bec825eaa1b712872f12eda
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bzm4u6axk0/out/v1/d59d1f211470430daf1bd0acb013e9b6/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187747/image" group-title="Live Event: CFY",15:30 WIB South Africa vs Australia | Cricket | WILLOW - ALT | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0ea22119ca851e441c56df67e33f6fd:179bbc5d1bec825eaa1b712872f12eda
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bzm4u6axk0/out/v1/d59d1f211470430daf1bd0acb013e9b6/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187747/image" group-title="Live Event: CFY",15:30 WIB South Africa vs Australia | Cricket | FOX CRICKET HD | Gvision TV
+https://baila-lentoo.pages.dev/all-sp/809389.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187747/image" group-title="Live Event: CFY",15:30 WIB South Africa vs Australia | Cricket | A SPORTS HD | Gvision TV
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187747/image" group-title="Live Event: CFY",15:30 WIB South Africa vs Australia | Cricket | FANCODE - LQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187755/image" group-title="Live Event: CFY",14:00 WIB New Zealand vs India | Cricket | WILLOW - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a3f90a5769802036c18de821735b594:1412cd88540af73b27e45c9982bc9c78
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ndvxtmdlol/out/v1/610adecd5fff431bb89ffc7584e21855/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187755/image" group-title="Live Event: CFY",14:00 WIB New Zealand vs India | Cricket | PRIME ENG - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9b05390d0d8a3766d720cc0dfa9c1c3:5b371247b3ec6ae9976204359d781e85
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187755/image" group-title="Live Event: CFY",14:00 WIB New Zealand vs India | Cricket | PRIME HINDI - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=638eaec11a32364c29f73241769dc3b0:51ad6ac914e442976749f485354b50fe
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/p8ydakczjv/out/v1/c7d57d245b76476aa5ab68a5ef89da52/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187755/image" group-title="Live Event: CFY",14:00 WIB New Zealand vs India | Cricket | WILLOW - ALT | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a3f90a5769802036c18de821735b594:1412cd88540af73b27e45c9982bc9c78
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ndvxtmdlol/out/v1/610adecd5fff431bb89ffc7584e21855/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187755/image" group-title="Live Event: CFY",14:00 WIB New Zealand vs India | Cricket | SonyLiv - English | Gvision TV
+https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187755/image" group-title="Live Event: CFY",14:00 WIB New Zealand vs India | Cricket | SonyLiv - Hindi | Gvision TV
+https://liveakdai.slivcdn.com/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187755/image" group-title="Live Event: CFY",14:00 WIB New Zealand vs India | Cricket | SonyLiv - TEL | Gvision TV
+https://liveakdai.slivcdn.com/hls/live/2119941/cricodi_3010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187755/image" group-title="Live Event: CFY",14:00 WIB New Zealand vs India | Cricket | SonyLiv - TAM | Gvision TV
+https://liveakdai.slivcdn.com/hls/live/2119951/cricodi_3010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187755/image" group-title="Live Event: CFY",14:00 WIB New Zealand vs India | Cricket | SonyLiv - KAN | Gvision TV
+https://liveakdai.slivcdn.com/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187744/image" group-title="Live Event: CFY",10:30 WIB Bangladesh vs West Indies | Cricket | FANCODE HD | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/274884/image" group-title="Live Event: CFY",15:10 WIB Brisbane Heat Women vs Sydney Sixers Women | Cricket | WILLOW - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/274884/image" group-title="Live Event: CFY",15:10 WIB Brisbane Heat Women vs Sydney Sixers Women | Cricket | WILLOW - ALT | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/274884/image" group-title="Live Event: CFY",15:10 WIB Brisbane Heat Women vs Sydney Sixers Women | Cricket | EUROSPORTS - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
+https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",HYLO Open | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=b6ae38b46b7009c8d4aa3118e4a8c8b0&wsABSTime=1793300081
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="Live Event: Badminton",HYLO Open | XOILACZ | Gvision TV
