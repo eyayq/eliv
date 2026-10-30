@@ -1,183 +1,186 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [08.57 WIB 30/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.09 WIB 30/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-orleans-pelicans-b3f8e5.webp" group-title="[LIVE 07:00 WIB 30/10/26] New Orleans Pelicans vs Sacramento Kings | Server 1",[LIVE 07:00 WIB 30/10/26] New Orleans Pelicans vs Sacramento Kings | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1793328846-0-0-7990381b8056d419678ebd8564cb8eaa
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-orleans-pelicans-b3f8e5.webp" group-title="[LIVE 07:00 WIB 30/10/26] New Orleans Pelicans vs Sacramento Kings | Server 2",[LIVE 07:00 WIB 30/10/26] New Orleans Pelicans vs Sacramento Kings | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1793328846-0-0-97a02537899f6ad9d0b4517f413bb56c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-orleans-pelicans-b3f8e5.webp" group-title="[LIVE 07:00 WIB 30/10/26] New Orleans Pelicans vs Sacramento Kings | Server 3",[LIVE 07:00 WIB 30/10/26] New Orleans Pelicans vs Sacramento Kings | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1793328846-0-0-ea9cb7cb7f466c3f9c7fe809773149f8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-orleans-pelicans-b3f8e5.webp" group-title="[LIVE 07:00 WIB 30/10/26] New Orleans Pelicans vs Sacramento Kings | Server 4",[LIVE 07:00 WIB 30/10/26] New Orleans Pelicans vs Sacramento Kings | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1793328846-0-0-37d99ed181adc4a66f8f0b20d810b14f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atlanta-hawks-01c726.webp" group-title="[LIVE 07:00 WIB 30/10/26] Atlanta Hawks vs Cleveland Cavaliers | Server 1",[LIVE 07:00 WIB 30/10/26] Atlanta Hawks vs Cleveland Cavaliers | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1793328786-0-0-8e4b1e9ec4809951a19141aff8fc98fd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atlanta-hawks-01c726.webp" group-title="[LIVE 07:00 WIB 30/10/26] Atlanta Hawks vs Cleveland Cavaliers | Server 2",[LIVE 07:00 WIB 30/10/26] Atlanta Hawks vs Cleveland Cavaliers | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1793328786-0-0-020b66032e3ba5284f0f98a74d6b7a1f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atlanta-hawks-01c726.webp" group-title="[LIVE 07:00 WIB 30/10/26] Atlanta Hawks vs Cleveland Cavaliers | Server 3",[LIVE 07:00 WIB 30/10/26] Atlanta Hawks vs Cleveland Cavaliers | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1793328786-0-0-a2b762377d921ec416053e673ad2b97e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atlanta-hawks-01c726.webp" group-title="[LIVE 07:00 WIB 30/10/26] Atlanta Hawks vs Cleveland Cavaliers | Server 4",[LIVE 07:00 WIB 30/10/26] Atlanta Hawks vs Cleveland Cavaliers | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1793328786-0-0-7cfc85096576c58612c31821ed8e795f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fbc-melgar-573fb2.png" group-title="[LIVE 07:00 WIB 30/10/26] FBC Melgar vs Comerciantes Unidos | Server 1",[LIVE 07:00 WIB 30/10/26] FBC Melgar vs Comerciantes Unidos | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ac3c285eee29798bae6be21.m3u8?auth_key=1793346841-0-0-42151ae31a0f73f75a798dd20be57266
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grêmio-rs-d0bf7a.png" group-title="[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 1",[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ac3c285eee29798bae6be20.m3u8?auth_key=1793346841-0-0-1b26a47cbeb921c1cb009c6c42f61099
+https://pull.fmp.live/sla/1-6ac3c285eee29798bae6be20.m3u8?auth_key=1793347381-0-0-065cf1fb0ab2ddaa284f6ee46a72df69
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grêmio-rs-d0bf7a.png" group-title="[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 2",[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912139_lsd.m3u8?txSecret=a7f4266a98ea1e23ccbf9557f67b0da0&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1793329386-0-0-92a25ca38d32b8218b824186b7b7c22c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grêmio-rs-d0bf7a.png" group-title="[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 3",[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=a77e89d4438e2ce19592597a35e8b54f&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1793329386-0-0-00d7599bcac2a4dde847e9283ab96d88
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grêmio-rs-d0bf7a.png" group-title="[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 4",[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=2ab64275cdf7f007ab7c08e0a7d512bf&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=774ec065d8d2958f7c2eba4164eaf5ca&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grêmio-rs-d0bf7a.png" group-title="[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 5",[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=1328cd72c79d800a21878b50ab3ee5c1&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=fbff5760263b3130ce817c0693dbf83f&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grêmio-rs-d0bf7a.png" group-title="[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 6",[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=27624f1624812357f38fe43583d09b03&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912139_lsd.m3u8?txSecret=c77858628177977b208edb3da77c3dc9&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grêmio-rs-d0bf7a.png" group-title="[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 7",[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=f7fab88d41bad2eb0ae18af61415a1df&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=8b72b206ca230d5c921ee04b9f3618d5&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grêmio-rs-d0bf7a.png" group-title="[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 8",[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1793328846-0-0-c88c7c2d14d737c37628768c7b8d5268
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=e6e683f458700a3134265a2c7e99be51&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grêmio-rs-d0bf7a.png" group-title="[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 9",[LIVE 07:30 WIB 30/10/26] Grêmio - RS vs Athletico Paranaense - PR | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1793328846-0-0-6815064e125406a4a4b60bbc6c22e3cf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=4d8acda462a7f498b35460bbf56045be&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/alebrijes-de-oaxaca-58578f.webp" group-title="[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 1",[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1793328846-0-0-2b3a3925552f39e14d4fae04e8b1a892
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912141_lsd.m3u8?auth_key=1793329386-0-0-3ccb7a7536a245afa8e8f4894e8965fa
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/alebrijes-de-oaxaca-58578f.webp" group-title="[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 2",[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1793328846-0-0-712486ca16e98eab3cada538d615f747
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1793329386-0-0-13520d6749838e05489b2476935a4891
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/alebrijes-de-oaxaca-58578f.webp" group-title="[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 3",[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1793328846-0-0-c7ef554cc35e54d8165b2812f2049d56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1793329386-0-0-3e11d37d3024bf6dde592c48dd0224d6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/alebrijes-de-oaxaca-58578f.webp" group-title="[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 4",[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1793328846-0-0-0b7f169f52895eb01825014849d3b2b4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1793329386-0-0-2046b152424298658a87128cfd43d1dd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/alebrijes-de-oaxaca-58578f.webp" group-title="[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 5",[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1793328846-0-0-82cb94f7ff3baf386b9cab462f9788c7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1793329386-0-0-a4d9a9b4ae1d56ab13209b46c7ecb2dd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/alebrijes-de-oaxaca-58578f.webp" group-title="[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 6",[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1793328846-0-0-cdc5ebf9ca8061cb8d5e62fcb0597e21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1793329386-0-0-db4fded16fc2624e65abeb1b1f6f956e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/alebrijes-de-oaxaca-58578f.webp" group-title="[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 7",[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912141_lsd.m3u8?auth_key=1793328846-0-0-8d0a07060f8c73589e534c8f82711d17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1793329386-0-0-800ccaad38dc7c5ae21515e707a32192
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/alebrijes-de-oaxaca-58578f.webp" group-title="[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 8",[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1793328846-0-0-eb14c7cf32184ae887d24b901d7b45a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1793329386-0-0-08f25e719574a9919cde35729ad726f1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/alebrijes-de-oaxaca-58578f.webp" group-title="[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 9",[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1793328846-0-0-ff0716b0562b5803501c40258dd2e561
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1793329386-0-0-26a76b34f8cdae4cdaf66b2fd04ef594
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/alebrijes-de-oaxaca-58578f.webp" group-title="[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 10",[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1793328846-0-0-c4b9693fe20201a9eb9aaaaa9153f246
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1793329386-0-0-b0be5268d99f489a63f2f6872100bf7f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/alebrijes-de-oaxaca-58578f.webp" group-title="[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 11",[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1793328846-0-0-80040fefacdbb92f3ac0683e9e2ee28c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1793329386-0-0-b2b180012f657e295c6f03f1258bed04
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/alebrijes-de-oaxaca-58578f.webp" group-title="[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 12",[LIVE 08:00 WIB 30/10/26] Alebrijes de Oaxaca vs Mineros de Zacatecas | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793328846-0-0-394e570fd43c16905f0a9657ee86bc39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793329386-0-0-bbf964ab1c1dcdb4af79c422301c153b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-nacional-medellin-0ad5d7.png" group-title="[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 1",[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweaVxzZ6s9ZcDXEC.m3u8?txSecret=a11991057cc8b86da6b20a0f36db1464&txTime=6AE4A17D
+https://live.cds78y11d.org/live/sd-6MweaVxzZ6s9ZcDXEC.m3u8?txSecret=a19f90ce8e854961b0a48bdbe48980d3&txTime=6AE4A399
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-nacional-medellin-0ad5d7.png" group-title="[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 2",[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6a62339c945e9dbcc72ea017.m3u8?auth_key=1793346841-0-0-fe5afa73a38e35652015c0193956bd24
+https://pull.fmp.live/sla/1-6a62339c945e9dbcc72ea017.m3u8?auth_key=1793347381-0-0-40d53d5b8cd81fab670f3bc90018bda0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-nacional-medellin-0ad5d7.png" group-title="[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 3",[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1793328846-0-0-c95d92eebefbf71dc2731168b506ed95
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1793329386-0-0-ac6780d7f64919eff71aa78fc3c5d5af
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-nacional-medellin-0ad5d7.png" group-title="[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 4",[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793328846-0-0-d12b39d4a1ad711e2aaaf6a7f7f88858
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1793329386-0-0-eaf37130331d6c397a0a3ace67752f1e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-nacional-medellin-0ad5d7.png" group-title="[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 5",[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=209ed962d4c846cde078e802c8150c24&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=a3ebbea0f7aa2fad41c479e9b07d5389&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-nacional-medellin-0ad5d7.png" group-title="[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 6",[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=6c5fd4ee8d8cae24b03178b8fa7c8cc3&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=c264a1b40bf44dd8fdea75baa7de5816&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-nacional-medellin-0ad5d7.png" group-title="[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 7",[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=993a86d2707c69c141f18ebc5779cae0&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1793329386-0-0-72fca621bfb7b1bc727173fba23fa456
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-nacional-medellin-0ad5d7.png" group-title="[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 8",[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=ec59e6473564767b43b4ac49d2fa3c75&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793329386-0-0-1e3c21838a42925a6fe4c6b74a66e37d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-nacional-medellin-0ad5d7.png" group-title="[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 9",[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1793328846-0-0-7a7ab316431511c5edd6d825b112f430
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=c6ec1084ebe7dc355fd1e310cbb11622&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-nacional-medellin-0ad5d7.png" group-title="[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 10",[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1793328846-0-0-f8b632f9dfc49242ee2657881018db4c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=2ffb139a5038b8dee15eb3fece37ccbb&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-nacional-medellin-0ad5d7.png" group-title="[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 11",[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=86fa76cb5767be5172b1cc40853f3334&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=f196b9abd6db8b9216996ab3765b5b04&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-nacional-medellin-0ad5d7.png" group-title="[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 12",[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=a8466ae143413dd254ef7d501ed468f8&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=5c064a8605491ebcdbd981114384c6df&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-nacional-medellin-0ad5d7.png" group-title="[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 13",[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=75c770dbef118242be5ff589141a01eb&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=2b3337327105661f679d62d9fc208621&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-nacional-medellin-0ad5d7.png" group-title="[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 14",[LIVE 08:30 WIB 30/10/26] Atletico Nacional Medellin vs Independiente Santa Fe | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=fd68fdbfda12dc062999eddefdf5b3f4&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=451bf296aecfa4561feccebcac26d00c&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ld-alajuelense-fa59b8.webp" group-title="[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 1",[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=dde5dd20e6fa0d4429a669520e9aa792&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxjKHRpYJCPGE9SwN.m3u8?txSecret=860fe36e5814fc876746495d96e34762&txTime=6AE4A399
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ld-alajuelense-fa59b8.webp" group-title="[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 2",[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=8195134510925318477ab9d452a6b39d&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ad1a87aa903b20f18bd06f7.m3u8?auth_key=1793347381-0-0-d607e55f9bb51d0191f6849b03811895
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ld-alajuelense-fa59b8.webp" group-title="[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 3",[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1793328846-0-0-5e4e808faf8954ad55cad86ca13b490b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-623653_lsd.m3u8?auth_key=1793329386-0-0-3900a4e1e65dcb62264d31337e0f0f1a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ld-alajuelense-fa59b8.webp" group-title="[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 4",[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1793328846-0-0-6b82965ef265d1bce56439395f44c55e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1793329386-0-0-ee1c4cad7c1c7974744ee572be920db5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ld-alajuelense-fa59b8.webp" group-title="[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 5",[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-623653_lsd.m3u8?auth_key=1793328846-0-0-1c23d59c10dd91306b0fe9404cba19a2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=459c2a03d9da75df3b6bd8e149826a81&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ld-alajuelense-fa59b8.webp" group-title="[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 6",[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1793328846-0-0-c95b3caacadc3a9492c135eb763df9e0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=08f2eba9cf75c0bf3774203fe96e386b&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ld-alajuelense-fa59b8.webp" group-title="[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 7",[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1793328846-0-0-6158f164873e4646c1663f60efb5b221
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1793329386-0-0-94ad3c4ad34c6e2c631fb95043790c47
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ld-alajuelense-fa59b8.webp" group-title="[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 8",[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1793328846-0-0-4ffa96913df80a78a1a4c2cc61e76341
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1793329386-0-0-1444474a7ccbecb53931c0a321f786b9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ld-alajuelense-fa59b8.webp" group-title="[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 9",[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1793328846-0-0-ba73ce3bd7bff3656af7e0917007699b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1793329386-0-0-f492a73bf84d912144cb99034bd10f17
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ld-alajuelense-fa59b8.webp" group-title="[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 10",[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1793328846-0-0-db2c7cf016b6b1c0255dbad78a3f281d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1793329386-0-0-104ff3954cc9d89c0e8856192b6fbbd6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ld-alajuelense-fa59b8.webp" group-title="[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 11",[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=87f6f1bc48adf1c9f07cf2cd830832e0&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1793329386-0-0-aa2822840ed8e8ff66c4ec72effdee3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ld-alajuelense-fa59b8.webp" group-title="[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 12",[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=196c392d2ee1c5906cd3506fb9fd74db&txTime=6ae44d1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1793329386-0-0-06d19d9bc018682bb5e2cf44b84a1f4a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ld-alajuelense-fa59b8.webp" group-title="[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 13",[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=eb4217f27c473e375fe753d5d41636aa&txTime=6ae44f3a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ld-alajuelense-fa59b8.webp" group-title="[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 14",[LIVE 09:00 WIB 30/10/26] LD Alajuelense vs CD Motagua | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=01729e04974d7efec0ce801f565f2c4a&txTime=6ae44f3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-trail-blazers-b049c6.webp" group-title="[LIVE 09:00 WIB 30/10/26] Portland Trail Blazers vs Memphis Grizzlies | Server 1",[LIVE 09:00 WIB 30/10/26] Portland Trail Blazers vs Memphis Grizzlies | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1793328846-0-0-1f004ba4b6c97da42923c66955e1644f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1793329386-0-0-d69f48f54b53301eb6b36edeee79eae7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-trail-blazers-b049c6.webp" group-title="[LIVE 09:00 WIB 30/10/26] Portland Trail Blazers vs Memphis Grizzlies | Server 2",[LIVE 09:00 WIB 30/10/26] Portland Trail Blazers vs Memphis Grizzlies | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1793328846-0-0-f928755de5ecf4810bb7b39dc1313873
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1793329386-0-0-6129dfe4078adcf0ad6843b1c3417442
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-trail-blazers-b049c6.webp" group-title="[LIVE 09:00 WIB 30/10/26] Portland Trail Blazers vs Memphis Grizzlies | Server 3",[LIVE 09:00 WIB 30/10/26] Portland Trail Blazers vs Memphis Grizzlies | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1793328846-0-0-1f33dad8ee10bd6655c49b9b60c9928f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1793329386-0-0-aeb145bd7896ba8dec18152fac2e8b29
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-trail-blazers-b049c6.webp" group-title="[LIVE 09:00 WIB 30/10/26] Portland Trail Blazers vs Memphis Grizzlies | Server 4",[LIVE 09:00 WIB 30/10/26] Portland Trail Blazers vs Memphis Grizzlies | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1793328846-0-0-58b5311640e44fba2e30b380b3045985
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1793329386-0-0-ae376ccf21a51214c0f8f8e5b9bb9ccb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/marquense-731826.gif" group-title="[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 1",[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-626841_lsd.m3u8?auth_key=1793329386-0-0-f1d2aba8c3b1b152c407c8b05416eb86
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/marquense-731826.gif" group-title="[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 2",[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1793329386-0-0-73bc7493a7470da820ffc375a39ee5e4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/marquense-731826.gif" group-title="[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 3",[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1793329386-0-0-72f0f5734ad7f43661d48b12da687b60
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/marquense-731826.gif" group-title="[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 4",[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1793329386-0-0-5d4a0bdd2bd9aa50a764ac22d1acfe72
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/marquense-731826.gif" group-title="[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 5",[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1793329386-0-0-527ee88edd9616bdb9594125315e4644
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/marquense-731826.gif" group-title="[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 6",[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1793329386-0-0-2381929ffc0f53a072630a47bd59e419
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/marquense-731826.gif" group-title="[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 7",[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1793329386-0-0-53fca9ba14821acfb07f521b5af751d7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/marquense-731826.gif" group-title="[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 8",[LIVE 09:10 WIB 30/10/26] Marquense vs Guastatoya | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9776.1564 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1793329386-0-0-2670c4591be31222d25b9123d62b4ed2
