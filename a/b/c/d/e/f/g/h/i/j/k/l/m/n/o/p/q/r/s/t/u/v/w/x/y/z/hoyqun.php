@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE LAYLA SAPEK
-https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1561501476119904348_or4/index.m3u8?expire=1794582540&sign=bc1c59b90f7e12e0327b471617d88538
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 𝕮
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1849733056223510574_or4/index.m3u8?expire=1794582553&sign=505ae5b8ea39db8c6dea13406e742e85
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 𝑩𝒊𝒈 𝑲𝒊𝒏𝒈 👑
-https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443806543304983421_or4/index.m3u8?expire=1794582556&sign=6b96e745868e1b7e8fc2c3ccccf1c9b3
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Mjeed
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1561502537649487915_or4/index.m3u8?expire=1794582558&sign=7d6deb774cd6373fda52a23923229660
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE kevinsitho 🐺🤍
-https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-1849733120042991685_or4/index.m3u8?expire=1794582561&sign=5b01c06063bdff71466570360791d9da
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE mosheadgaming
-https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1849733408809025628/index.m3u8?expire=1794582563&sign=ecd51165fd86c5693ffda35e45505d64
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE jiji 🌸
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561502784638681134_or4/index.m3u8?expire=1794582566&sign=e1ef2a24e07087bf918312cb4a9cfcfa
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Jannat Nure
-https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-7702456586657401618_or4/index.m3u8?expire=1794582569&sign=73500b03e9f501d0a19d54a8417d2220
+https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1561501476119904348_or4/index.m3u8?expire=1794583284&sign=e38de6eab6059d413a023704acafe7d8
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Maestro
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-7702460235546118918_or4/index.m3u8?expire=1794583291&sign=6f24dd31204c8e8327dc4d5cfc616f4b
 #EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE • 𝐃𝐎𝐂𝐓𝐎𝐑𝐀 🐭
-https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-2137963668979843164_or4/index.m3u8?expire=1794582571&sign=78d2301347852a43adc8fb18987cf044
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE ST_RisingStar
-https://pull-hls-f16-sg01.tiktokcdn.com/game/stream-1561501554712248404_or4/index.m3u8?expire=1794582573&sign=4d4212817b7f904a32ea4149930b6539
+https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-2137963668979843164_or4/index.m3u8?expire=1794583304&sign=ac0a645c2988cd439e43b65d17924e36
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Marouane🇲🇦™️
+https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443806564440605565_or4/index.m3u8?expire=1794583306&sign=3760d0dda44e4d4d24e984496fd9bf84
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 𝑩𝒊𝒈 𝑲𝒊𝒏𝒈 👑
+https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443806543304983421_or4/index.m3u8?expire=1794583307&sign=1c00284fbafc012c8c80e0c67792a168
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Mymy la japonaise
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561502607615721518_or4/index.m3u8?expire=1794583309&sign=6c46534e2dfd16c26990be08ff92f414
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE sh0wtime_dilsh0d
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561503024256647214_or4/index.m3u8?expire=1794583311&sign=1d1c7b8188b3cd94ddcd057038e493af
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE bella Abdylinna
+https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1561502068977696811_or4/index.m3u8?expire=1794583313&sign=bbc311c2113a1ca4fe9d9b676bfcc67d
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE 💜🦝Mapache🦝
+https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1849733495327555676/index.m3u8?expire=1794583316&sign=80eede38138990549d6052e5dfe908db
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜", TIKTOK LIVE Pablo🇨🇴Riffi 🇨🇴Nadori🇲🇦
+https://pull-hls-f16-tt03.tiktokcdn.com/stage/stream-4443806300978807677_or4/index.m3u8?expire=1794583319&sign=2d368b695baa8ec0c9c95a4e9fed570d
