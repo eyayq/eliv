@@ -1,216 +1,225 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [15.58 WIB 30/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [16.05 WIB 30/10/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bengaluru-roots-fc-608593.png" group-title="[LIVE 14:30 WIB 30/10/26] Bengaluru Roots FC vs FC Agniputhra | Server 1",[LIVE 14:30 WIB 30/10/26] Bengaluru Roots FC vs FC Agniputhra | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6add07536bf7688dc3be02c0.m3u8?auth_key=1793372042-0-0-242774d99d5ebbe5a168f19907cd6b05
+https://pull.fmp.live/sla/1-6add07536bf7688dc3be02c0.m3u8?auth_key=1793372581-0-0-c2d5908d016381c8e0d0799e619bc778
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dpmm-fc-3e7055.webp" group-title="[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 1",[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ac3c285eee29798bae6be29.m3u8?auth_key=1793372042-0-0-0b86f076627c6515deb49139b73997f2
+https://pull.fmp.live/sla/1-6ac3c285eee29798bae6be29.m3u8?auth_key=1793372581-0-0-6481dcbe8430f7f2ad7845a7d5639d94
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dpmm-fc-3e7055.webp" group-title="[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 2",[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=f1e073fd2461d035faf81842d32333c0&txTime=6ae4af52
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1793354527-0-0-244044fb370bad77fedba702078eaf7e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dpmm-fc-3e7055.webp" group-title="[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 3",[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ecbf79df39879d878d4852c2ede9a5cd&txTime=6ae4af52
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1793354527-0-0-247cebf12c6722ecc222032e030ecb9d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dpmm-fc-3e7055.webp" group-title="[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 4",[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1793353986-0-0-9cb9ee898608338e7a106a047a0cc006
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1793354527-0-0-3a5f3d786afdadc29fc05d465c1dae0c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dpmm-fc-3e7055.webp" group-title="[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 5",[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1793353986-0-0-2f07708ffd07e833758a17f9cc60b33d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1793354527-0-0-b86282b759ec16771710d07d94fcc317
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dpmm-fc-3e7055.webp" group-title="[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 6",[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1793353986-0-0-981c855118952e3d44f38b1f61f97d24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1793354527-0-0-4c05565670af43f9eb1e62695a0db554
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dpmm-fc-3e7055.webp" group-title="[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 7",[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1793353986-0-0-9b1427ab2f8101d72a05434a24fadeab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1793354527-0-0-8e2ca1016eade37693c8dab787be5084
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dpmm-fc-3e7055.webp" group-title="[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 8",[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1793353986-0-0-b17419d6edc6acc66971106de9e3ab8b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=9f7fcfcc085ad62d2323fceda451996b&txTime=6ae4b16f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dpmm-fc-3e7055.webp" group-title="[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 9",[LIVE 15:00 WIB 30/10/26] DPMM FC vs Negeri Sembilan | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1793353986-0-0-30841e35e77510798f16ec43fbc87cb8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bengaluru-roots-fc-608593.png" group-title="[LIVE 15:00 WIB 30/10/26] Bengaluru Roots FC vs FC Agniputra | Server 1",[LIVE 15:00 WIB 30/10/26] Bengaluru Roots FC vs FC Agniputra | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk3yzDbcj9y8ChVe.m3u8?txSecret=7a862f60cc25f2918b1971bed5ce9225&txTime=6AE503EC
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 1",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ac3c285eee29798bae6be25.m3u8?auth_key=1793372042-0-0-aeabefbd1a0c37a6890069cb206c1e57
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 2",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1793354047-0-0-9fd39cca5c0e6843985393a378799ee0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 3",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1793354047-0-0-6fa43e1effe59a30a70a1ce7df404c8d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 4",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1793354046-0-0-34d2182a9c15d5dd0ba59cd088e84fb5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 5",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1793354046-0-0-27c770266fcbe01f099dafee069b2b64
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 6",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=a31069122eb7dc98b9e6150345223a1c&txTime=6ae4af8e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 7",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=3564166db85678eb926ee9398f876892&txTime=6ae4af8e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 8",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=86e0525127fdb60f867be0a1395b0473&txTime=6ae4af8e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 9",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=76c2a3734f2598810cd08f3c87aae703&txTime=6ae4af8e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 10",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912142_lsd.m3u8?auth_key=1793354046-0-0-976d89e5f2ca434281f2e57c35262a21
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 11",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1793354046-0-0-507183efb590a2386c22b53e5b204e8e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 12",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1793354046-0-0-ea0cab5b0faedc79583c57095b3d9afb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 13",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1793354046-0-0-3a789356a9cee462ca06a6a75eda89ca
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tasmania-jackjumpers-7202e3.webp" group-title="[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 1",[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1793354046-0-0-20ff223af76971bde3deaaf1d4d828bb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tasmania-jackjumpers-7202e3.webp" group-title="[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 2",[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1793354046-0-0-05e61a721ee2425ecedfa52c732179d7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tasmania-jackjumpers-7202e3.webp" group-title="[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 3",[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1793354046-0-0-1c650dd9fa8c83afd0fe01f844d777d2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tasmania-jackjumpers-7202e3.webp" group-title="[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 4",[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1793354046-0-0-ccceac6587045d895537dc70a542ffbb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 1",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjJwvoWCradaReEG.m3u8?txSecret=a40185c6419c1c1cbed1d0398f9a62c1&txTime=6AE503EC
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 2",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1793354046-0-0-c0d4686f240916a2f4a4c484ae21f254
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 3",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1793354046-0-0-e8b30e68fba41941a07b4e3779487e57
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 4",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1793354046-0-0-7a96dede8e3d5755881e91b94a8fec36
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 5",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1793354046-0-0-3cf7ea8a356d8d2e758fb1e8719bed49
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 6",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-623743_lsd.m3u8?auth_key=1793354047-0-0-f6d274df40e6667879f6577ed9a01efb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 7",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1793354047-0-0-83b151cfd397da383ac82b81f5994690
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 8",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=4329a100c2bfd1999038a5ef7ee39b0e&txTime=6ae4af8e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 9",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=e0bd8e4de416c041086145714235e49a&txTime=6ae4af8e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 1",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjJwvoLWBZpkw2xk.m3u8?txSecret=584f3521314a83f3bf2701542bd7ee62&txTime=6AE503EC
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 2",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1793354047-0-0-30591a2991677bef8eec63af1a350b85
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 3",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1793354047-0-0-3b0da693fdd613ef95c95257da5d7b81
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 4",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1793354046-0-0-b71fcbdd95253af2ed7922180cf9bbb8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 5",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1793354046-0-0-212bc2cfbf027e8e76e76975a954bf87
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 6",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1793354046-0-0-0f422655798d6c2852b608d29bde758b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 7",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1793354046-0-0-862bcf98f29293fdc46924114ea824fe
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 8",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1793354046-0-0-1238bb0023b6f3a25f52040961f535ad
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 9",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1793354046-0-0-c649fd9338148dbe4dcdef014a022431
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f7709b343bfc8e3d013123bc3564d18b&txTime=6ae4b16f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/malut-united-b17324.webp" group-title="[LIVE 15:30 WIB 30/10/26] Malut United vs Bhayangkara Solo | Server 1",[LIVE 15:30 WIB 30/10/26] Malut United vs Bhayangkara Solo | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxiKav3kdMjLCCvY4.m3u8?txSecret=ade083211c417ce5aad0591d4ea341cb&txTime=6AE503EC
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ispe-fc-36bf0b.webp" group-title="[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 1",[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912139_lsd.m3u8?txSecret=26562a62d6cd7bec574f5a768569971e&txTime=6ae4af8e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ispe-fc-36bf0b.webp" group-title="[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 2",[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=d32accb254f6cd9011da9294632c9694&txTime=6ae4af8e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ispe-fc-36bf0b.webp" group-title="[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 3",[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1793354046-0-0-d4c12c8cc1038dad29d22a4a80273660
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ispe-fc-36bf0b.webp" group-title="[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 4",[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1793354046-0-0-c1dc9f6100e81bbce0c77ffdbb7654d9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ispe-fc-36bf0b.webp" group-title="[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 5",[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-619672_lsd.m3u8?auth_key=1793354046-0-0-e37de2a5b0b42723e7a31adf56f14558
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ispe-fc-36bf0b.webp" group-title="[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 6",[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1793354046-0-0-a310fa469df439a589c95fd28b3335fb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myawady-e6877c.webp" group-title="[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 1",[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1793354046-0-0-5a4223c998aeda9aa6d5a019ae033a6b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myawady-e6877c.webp" group-title="[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 2",[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1793354046-0-0-b8e7313bf72604382422e363053f15b0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myawady-e6877c.webp" group-title="[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 3",[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1793354047-0-0-2775a67a4e23ae17a6416efe5cd2ac95
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myawady-e6877c.webp" group-title="[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 4",[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1793354047-0-0-25f8d6ac1622694bdfe1a5df64d7bfeb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myawady-e6877c.webp" group-title="[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 5",[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1793354046-0-0-5a984015301a692ea972e2e7e54222c5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myawady-e6877c.webp" group-title="[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 6",[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1793354046-0-0-f7a0670d52cc762e3c82f9cab949ce41
+https://live.cds78y11d.org/live/sd-6MxiKav3kdMjLCCvY4.m3u8?txSecret=0c8a687e9129f1659524b48d62d34b8b&txTime=6AE50608
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 1",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxjJwvoWCradaReEG.m3u8?txSecret=4ddd37c8e57bf13e4b1d6ad28ee9e13c&txTime=6AE50608
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 2",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-623743_lsd.m3u8?auth_key=1793354587-0-0-92f691ffe4919a3be902467e3ec6529c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 3",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1793354587-0-0-6daa73f901abec8a8401aa8fd5f82c87
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 4",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=f27f87c5f6f23f81c9bcbdfa959e4fba&txTime=6ae4b1aa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 5",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ba6a10f05437176832b7d92742f16230&txTime=6ae4b1aa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 6",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1793354586-0-0-dfb381b8ea8a775b978a050341c2d1d6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 7",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1793354586-0-0-16aa71ffa4286bc67ac962681161994f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 8",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1793354586-0-0-23b2c73362cdc58bfd4306f5410362de
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/broadmeadow-magic-c0591e.webp" group-title="[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 9",[LIVE 15:30 WIB 30/10/26] Broadmeadow Magic vs Adelaide City FC | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1793354586-0-0-8a57288c652fd90c1432409703e52841
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 1",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxjJwvoLWBZpkw2xk.m3u8?txSecret=ce1b829a7e1b41d99fde9926e9b67bac&txTime=6AE50608
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 2",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1793354586-0-0-9ff31e829d5a8a630403d611b47576da
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 3",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1793354586-0-0-172547b040b1186c4853fe69f3b31ee3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 4",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1793354586-0-0-df6ce931ef3d287f778ef6a89d5eb15b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 5",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1793354586-0-0-410ad5c69631b2d1c90d2777cd8fb637
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 6",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1793354586-0-0-4dc519be61637fc9ee56fc8a6d18f84c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 7",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1793354586-0-0-a6d70bbe147c34348259d1bd0ca50d35
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 8",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1793354586-0-0-462e4b71b3de5fa2171068162c214d20
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-olympic-5c67e9.png" group-title="[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 9",[LIVE 15:30 WIB 30/10/26] Sydney Olympic vs Marconi Stallions | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1793354586-0-0-fa35c63785de389adbe438dc4f070b75
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tasmania-jackjumpers-7202e3.webp" group-title="[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 1",[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1793354586-0-0-6dd437ce629b2f178e5edc50327e952c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tasmania-jackjumpers-7202e3.webp" group-title="[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 2",[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1793354586-0-0-9e3e172f33a1357880b6ac4d71a8666a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tasmania-jackjumpers-7202e3.webp" group-title="[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 3",[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1793354586-0-0-2358d99151a383c9b54f548868a3008d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tasmania-jackjumpers-7202e3.webp" group-title="[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 4",[LIVE 15:30 WIB 30/10/26] Tasmania JackJumpers vs Sydney | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1793354586-0-0-b6c71fc3edfb75b6b7334cc73df82682
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 1",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ac3c285eee29798bae6be25.m3u8?auth_key=1793372521-0-0-559954882d8ad05275f4773c5946c553
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 2",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=4db0005bcd3815b83009bb2bc66428ae&txTime=6ae4b1aa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 3",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=f302ba267c46d769a8f0be8eb98da52f&txTime=6ae4b1aa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 4",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=d86612d4128add7fecd3a27491975a50&txTime=6ae4b1aa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 5",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=6a49af83ab233e09fddc42b2e6515964&txTime=6ae4b1aa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 6",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1793354587-0-0-e0bba4169d062b78c5fc58797da2e1e0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 7",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1793354587-0-0-d092327026575e7ead3760f1bfbe5252
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 8",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1793354586-0-0-90a03ffed78c60b8e295340f0820883f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 9",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1793354586-0-0-07cde6bcaabe34d45e2a67aaea000f5a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 10",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912142_lsd.m3u8?auth_key=1793354586-0-0-c81902919d9eb93541fd88e5abb57120
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 11",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1793354586-0-0-ceee2b7b6034ab5017e4000375848c25
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 12",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1793354586-0-0-870381679abfb751522f63b4bb20222b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/java-united-fc-a3adf9.webp" group-title="[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 13",[LIVE 15:30 WIB 30/10/26] Java United F.C. vs Bhayangkara Presisi Indonesia FC | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1793354586-0-0-e114c83baa4ae64fd109d8f453ea649f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-roar-1b7614.webp" group-title="[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 1",[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1793354046-0-0-059e59c7b76b540d9a2291b66c32f11f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MwarNNGxFP8qVDbPa.m3u8?txSecret=73f48c395be2fda4cd0ee796f86dae75&txTime=6AE50608
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-roar-1b7614.webp" group-title="[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 2",[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793354046-0-0-36ae18b0050bba7a946cac0f0445e7b6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ac3c285eee29798bae6be28.m3u8?auth_key=1793372462-0-0-d2dcbb25fbf71b1fadcc393870c5e61b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-roar-1b7614.webp" group-title="[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 3",[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1793354046-0-0-ef865566529ade05fac5d02dd294ab34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1793354586-0-0-85ccd6b5be98b801928b5426d6262c56
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-roar-1b7614.webp" group-title="[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 4",[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1793354046-0-0-1df766bfc0efe0868b568abf2c4bdea1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1793354586-0-0-3cb1dd4c6657d0692c1fbd20d84acf42
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-roar-1b7614.webp" group-title="[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 5",[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912141_lsd.m3u8?auth_key=1793354046-0-0-10541f06098b65178339e4eecc1fd494
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912141_lsd.m3u8?auth_key=1793354586-0-0-0e390dfb56cd58d17e74bcee74dd6be9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-roar-1b7614.webp" group-title="[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 6",[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1793354046-0-0-19880530baed1c784b01868f7d08342d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1793354586-0-0-5ab9fb6c05d21c4042ae3c92fbd4db5b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-roar-1b7614.webp" group-title="[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 7",[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=834d353186b50b534718389b38bbebd5&txTime=6ae4af8e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=ec4853e1c5a19147adf841610742497f&txTime=6ae4b1aa
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-roar-1b7614.webp" group-title="[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 8",[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=2cf6cc942350a211bc000bc73e91a824&txTime=6ae4af8e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e698273e4f0b28fc71ae45b4a0af7ca8&txTime=6ae4b1aa
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-roar-1b7614.webp" group-title="[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 9",[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=7afb723ede7769733d16f2b8a17cc178&txTime=6ae4af8e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1793354586-0-0-60f16daa9543745462cf88d19d3985a3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-roar-1b7614.webp" group-title="[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 10",[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=ffd1892c4eaedd15a06e303a509f0a19&txTime=6ae4af8e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793354586-0-0-4253c28271e8d67a8a69bc8809393022
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-roar-1b7614.webp" group-title="[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 11",[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1793354047-0-0-e4628f763dfe8903ff47934373558d6f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1793354587-0-0-bc7a826c3da0f81c01a3ce25c92efc4e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-roar-1b7614.webp" group-title="[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 12",[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1793354047-0-0-2e8bbb6790354f1aaeb4d0db4df716e0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1793354587-0-0-4745fe458159600adbadf7c33a528564
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-roar-1b7614.webp" group-title="[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 13",[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=9e33a9aa563f964f3097e4386da68013&txTime=6ae4b1aa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-roar-1b7614.webp" group-title="[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 14",[LIVE 16:00 WIB 30/10/26] Brisbane Roar vs Auckland FC | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=7045976341ebaf580f176c4cdaa1059d&txTime=6ae4b1aa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myawady-e6877c.webp" group-title="[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 1",[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1793354586-0-0-05ed81c8396aad6ba6bd9a6762b038b8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myawady-e6877c.webp" group-title="[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 2",[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1793354586-0-0-b9566dd4495b1c6d0257c799e64a87c7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myawady-e6877c.webp" group-title="[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 3",[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1793354586-0-0-563be9c8052a9cb072b95eb0747a2cef
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myawady-e6877c.webp" group-title="[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 4",[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1793354586-0-0-3d07a90ea54233e88d68691067a3adcc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myawady-e6877c.webp" group-title="[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 5",[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1793354586-0-0-1722fadebd5390891272d13567fd1177
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myawady-e6877c.webp" group-title="[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 6",[LIVE 16:00 WIB 30/10/26] Myawady vs Yangon City | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1793354586-0-0-40dc0a567fba0c593357cccc4718531f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ispe-fc-36bf0b.webp" group-title="[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 1",[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-619672_lsd.m3u8?auth_key=1793354586-0-0-87480e7204bef8df3660aecb8438c373
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ispe-fc-36bf0b.webp" group-title="[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 2",[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1793354586-0-0-2e304a8c1f31cafd2bda94bb6f00d909
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ispe-fc-36bf0b.webp" group-title="[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 3",[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912139_lsd.m3u8?txSecret=a162bcc7eb42b773dda8d868a9052ff4&txTime=6ae4b1aa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ispe-fc-36bf0b.webp" group-title="[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 4",[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=bc7b6b4fdf0908a36564944266b7750a&txTime=6ae4b1aa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ispe-fc-36bf0b.webp" group-title="[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 5",[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1793354586-0-0-a33cbc85cf65f26fd2801321c317b7c4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ispe-fc-36bf0b.webp" group-title="[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 6",[LIVE 16:00 WIB 30/10/26] ISPE FC vs Yadanarbon FC | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1793354586-0-0-c02fd283b7b4952616f3f6febe9d53b4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-miguel-beermen-7d53ee.png" group-title="[LIVE 16:15 WIB 30/10/26] San Miguel Beermen vs Barangay Ginebra San Miguel | Server 1",[LIVE 16:15 WIB 30/10/26] San Miguel Beermen vs Barangay Ginebra San Miguel | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=c628bee0b35debfde458ab9090c9eca6&txTime=6ae4b1aa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-miguel-beermen-7d53ee.png" group-title="[LIVE 16:15 WIB 30/10/26] San Miguel Beermen vs Barangay Ginebra San Miguel | Server 2",[LIVE 16:15 WIB 30/10/26] San Miguel Beermen vs Barangay Ginebra San Miguel | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=562640c33cf212eb9be854a5f32ffc1d&txTime=6ae4b1aa
