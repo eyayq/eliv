@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [20.08 WIB 31/10/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [20.21 WIB 31/10/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
-#EXTINF:-1 tvg-id="1633923" tvg-logo="https://media.chuoichientv.net/media/20251115_115528_e3fc33af.png" group-title="[LIVE 18:00 WIB 31/10/26] Hai Phong vs Trường Tươi Đồng Nai",[LIVE 18:00 WIB 31/10/26] Hai Phong vs Trường Tươi Đồng Nai (HD1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="1633923" tvg-logo="https://media.chuoichientv.net/media/20251115_115528_e3fc33af.png" group-title="[LIVE 18:00 WIB 31/10/26] Hai Phong vs Trường Tươi Đồng Nai",[LIVE 18:00 WIB 31/10/26] Hai Phong vs Trường Tươi Đồng Nai (HD2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8
 #EXTINF:-1 tvg-id="1557450" tvg-logo="https://media.chuoichientv.net/media/20251115_112438_ee162444.png" group-title="[LIVE 19:30 WIB 31/10/26] Chelsea vs Manchester United",[LIVE 19:30 WIB 31/10/26] Chelsea vs Manchester United (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -41,42 +31,52 @@ https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="1575204" tvg-logo="https://media.chuoichientv.net/media/20251115_113433_41008525.png" group-title="[UPCOMING 1j 21m 21:30 WIB 31/10/26] Bayer Leverkusen vs VfB Stuttgart",[UPCOMING 1j 21m 21:30 WIB 31/10/26] Bayer Leverkusen vs VfB Stuttgart (HD1)
+#EXTINF:-1 tvg-id="1575204" tvg-logo="https://media.chuoichientv.net/media/20251115_113433_41008525.png" group-title="[UPCOMING 1j 8m 21:30 WIB 31/10/26] Bayer Leverkusen vs VfB Stuttgart",[UPCOMING 1j 8m 21:30 WIB 31/10/26] Bayer Leverkusen vs VfB Stuttgart (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="1575204" tvg-logo="https://media.chuoichientv.net/media/20251115_113433_41008525.png" group-title="[UPCOMING 1j 21m 21:30 WIB 31/10/26] Bayer Leverkusen vs VfB Stuttgart",[UPCOMING 1j 21m 21:30 WIB 31/10/26] Bayer Leverkusen vs VfB Stuttgart (HD2)
+#EXTINF:-1 tvg-id="1575204" tvg-logo="https://media.chuoichientv.net/media/20251115_113433_41008525.png" group-title="[UPCOMING 1j 8m 21:30 WIB 31/10/26] Bayer Leverkusen vs VfB Stuttgart",[UPCOMING 1j 8m 21:30 WIB 31/10/26] Bayer Leverkusen vs VfB Stuttgart (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1557449" tvg-logo="https://media.chuoichientv.net/media/20251115_112438_ee162444.png" group-title="[UPCOMING 1j 51m 22:00 WIB 31/10/26] Brentford vs Nottingham Forest",[UPCOMING 1j 51m 22:00 WIB 31/10/26] Brentford vs Nottingham Forest (HD1)
+#EXTINF:-1 tvg-id="1557449" tvg-logo="https://media.chuoichientv.net/media/20251115_112438_ee162444.png" group-title="[UPCOMING 1j 38m 22:00 WIB 31/10/26] Brentford vs Nottingham Forest",[UPCOMING 1j 38m 22:00 WIB 31/10/26] Brentford vs Nottingham Forest (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="1557449" tvg-logo="https://media.chuoichientv.net/media/20251115_112438_ee162444.png" group-title="[UPCOMING 1j 51m 22:00 WIB 31/10/26] Brentford vs Nottingham Forest",[UPCOMING 1j 51m 22:00 WIB 31/10/26] Brentford vs Nottingham Forest (HD2)
+#EXTINF:-1 tvg-id="1557449" tvg-logo="https://media.chuoichientv.net/media/20251115_112438_ee162444.png" group-title="[UPCOMING 1j 38m 22:00 WIB 31/10/26] Brentford vs Nottingham Forest",[UPCOMING 1j 38m 22:00 WIB 31/10/26] Brentford vs Nottingham Forest (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1557454" tvg-logo="https://media.chuoichientv.net/media/20251115_112438_ee162444.png" group-title="[UPCOMING 1j 51m 22:00 WIB 31/10/26] Manchester City vs Brighton",[UPCOMING 1j 51m 22:00 WIB 31/10/26] Manchester City vs Brighton (HD1)
+#EXTINF:-1 tvg-id="1557454" tvg-logo="https://media.chuoichientv.net/media/20251115_112438_ee162444.png" group-title="[UPCOMING 1j 38m 22:00 WIB 31/10/26] Manchester City vs Brighton",[UPCOMING 1j 38m 22:00 WIB 31/10/26] Manchester City vs Brighton (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="1557454" tvg-logo="https://media.chuoichientv.net/media/20251115_112438_ee162444.png" group-title="[UPCOMING 1j 51m 22:00 WIB 31/10/26] Manchester City vs Brighton",[UPCOMING 1j 51m 22:00 WIB 31/10/26] Manchester City vs Brighton (HD2)
+#EXTINF:-1 tvg-id="1557454" tvg-logo="https://media.chuoichientv.net/media/20251115_112438_ee162444.png" group-title="[UPCOMING 1j 38m 22:00 WIB 31/10/26] Manchester City vs Brighton",[UPCOMING 1j 38m 22:00 WIB 31/10/26] Manchester City vs Brighton (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="1490593" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 12j 21m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire",[UPCOMING 12j 21m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire (HD1)
+#EXTINF:-1 tvg-id="1575203" tvg-logo="https://media.chuoichientv.net/media/20251115_113433_41008525.png" group-title="[UPCOMING 4j 8m 00:30 WIB 01/11/26] Bayern München vs Borussia Dortmund",[UPCOMING 4j 8m 00:30 WIB 01/11/26] Bayern München vs Borussia Dortmund (HD1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:-1 tvg-id="1575203" tvg-logo="https://media.chuoichientv.net/media/20251115_113433_41008525.png" group-title="[UPCOMING 4j 8m 00:30 WIB 01/11/26] Bayern München vs Borussia Dortmund",[UPCOMING 4j 8m 00:30 WIB 01/11/26] Bayern München vs Borussia Dortmund (HD2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8
+#EXTINF:-1 tvg-id="1490593" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 12j 8m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire",[UPCOMING 12j 8m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="1490593" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 12j 21m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire",[UPCOMING 12j 21m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire (HD2)
+#EXTINF:-1 tvg-id="1490593" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 12j 8m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire",[UPCOMING 12j 8m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
