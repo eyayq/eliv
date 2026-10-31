@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 08:46:33 WIB 31-10-2026
-# 🔄 Total Channels: 773
+# ⏰ Latest Updated: 08:56:59 WIB 31-10-2026
+# 🔄 Total Channels: 777
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [08:46:33 WIB 31-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [08:56:59 WIB 31-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",15:00 WIB Idemitsu Moto4 Asia Cup | TNT SPORTS 2 | Gvision TV
@@ -82,6 +82,23 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pieksa9i
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187747/image" group-title="Live Event: CFY",15:30 WIB South Africa vs Australia | Cricket | WILLOW - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/muuiy51nil/out/v1/a441f3a044df462e89583d61af8fdd47/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187747/image" group-title="Live Event: CFY",15:30 WIB South Africa vs Australia | Cricket | WILLOW - ALT | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/muuiy51nil/out/v1/a441f3a044df462e89583d61af8fdd47/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187747/image" group-title="Live Event: CFY",15:30 WIB South Africa vs Australia | Cricket | FOX CRICKET HD | Gvision TV
+https://baila-lentoo.pages.dev/all-sp/809389.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187747/image" group-title="Live Event: CFY",15:30 WIB South Africa vs Australia | Cricket | FANCODE - LQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187754/image" group-title="Live Event: CFY",15:00 WIB Pakistan vs Sri Lanka | Cricket | WILLOW - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
