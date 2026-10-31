@@ -1,14 +1,25 @@
 #EXTM3U
-# ⏰ Latest Updated: 18:47:20 WIB 31-10-2026
-# 🔄 Total Channels: 764
+# ⏰ Latest Updated: 18:58:16 WIB 31-10-2026
+# 🔄 Total Channels: 775
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [18:47:20 WIB 31-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [18:58:16 WIB 31-10-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2695/image" group-title="LIVE EVENT",00:00 WIB Udinese vs AS Roma | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18d174570a81b42cff1f6fb6e19106c1:7a0d9afbc556089281a73408594729fe
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxso6scrtg/out/v1/b3544f9833f0429894701c32d0fc024b/cenc.mpd?aws_sessionId=495fdb18-c069-4263-b9ff-728319ab0389
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2695/image" group-title="LIVE EVENT",00:00 WIB Udinese vs AS Roma | Football | beIN ENGLISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="LIVE EVENT",00:00 WIB Udinese vs Roma
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -16,6 +27,41 @@ https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10" group-title="LIVE EVENT",00:30 WIB Formula 1 | Motorsports | FORMULA 1 - AQ | Gvision TV
+https://admin2.formaturamaxi.com.br/f1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10" group-title="LIVE EVENT",00:30 WIB Formula 1 | Motorsports | SKY SPORTS F1 | Gvision TV
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://auto-gpt.ahadroychy.workers.dev/&.m3u8?id=formula|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10" group-title="LIVE EVENT",00:30 WIB Formula 1 | Motorsports | SKY F1 - ITALY | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2672/image" group-title="LIVE EVENT",00:30 WIB FC Bayern Munchen vs Borussia Dortmund | Football | DAZN SPORTS - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=091ad6e7e054c57d9463c3c9aecd2734:bba8e56d5ec8aed6fb3a49e78eaf39b2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/sokjg0lmx4/out/v1/28cef8d0eb944131ae93100669b14392/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2672/image" group-title="LIVE EVENT",00:30 WIB FC Bayern Munchen vs Borussia Dortmund | Football | PEACOCK ES - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37438df8aaee89e4e707af3a0ea2c3c6:43d47f359bcc4e5ce06e244e08262d12
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mqsnyemmca/out/v1/d4389795f5d54f5eb834bc443f55281a/cenc.mpd?aws_sessionId=7d4938b8-fe14-419b-8f0a-4cf646463bc2
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2672/image" group-title="LIVE EVENT",00:30 WIB FC Bayern Munchen vs Borussia Dortmund | Football | CazeTV - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2672/image" group-title="LIVE EVENT",00:30 WIB FC Bayern Munchen vs Borussia Dortmund | Football | HD SERVER | Gvision TV
+https://www.rtmpcdn.com/live/40d8dda1-368b-4114-8d99-5b755b728be1.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/33/image" group-title="LIVE EVENT",00:30 WIB Tottenham Hotspur vs Crystal Palace | Football | PEACOCK ENG - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ef3ff31b60778c45e20731fbc30f657:b0f9541fc0840445539e0f1ac36fd750
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bk62tlwunz/out/v1/b52207d3fb3c4c2ebaa3f74bf9da0e3d/cenc.mpd?aws_sessionId=341980d3-da5e-4109-867c-4357df117930
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/33/image" group-title="LIVE EVENT",00:30 WIB Tottenham Hotspur vs Crystal Palace | Football | HD SERVER | Gvision TV
+https://www.rtmpcdn.com/live/6f94fa45-8327-47f2-91dd-fb49308e6591.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",00:30 WIB Real Betis vs Malaga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
