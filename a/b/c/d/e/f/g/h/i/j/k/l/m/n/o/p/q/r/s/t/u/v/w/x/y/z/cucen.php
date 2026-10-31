@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [04.42 WIB 01/11/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [04.52 WIB 01/11/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
-#EXTINF:-1 tvg-id="1550177" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[LIVE 02:45 WIB 01/11/26] AC Milan vs Inter",[LIVE 02:45 WIB 01/11/26] AC Milan vs Inter (HD1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="1550177" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[LIVE 02:45 WIB 01/11/26] AC Milan vs Inter",[LIVE 02:45 WIB 01/11/26] AC Milan vs Inter (HD2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
 #EXTINF:-1 tvg-id="1557447" tvg-logo="https://media.chuoichientv.net/media/20251115_112438_ee162444.png" group-title="[LIVE 03:00 WIB 01/11/26] Aston Villa vs Fulham",[LIVE 03:00 WIB 01/11/26] Aston Villa vs Fulham (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -31,53 +21,63 @@ https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="1549850" tvg-logo="https://media.chuoichientv.net/media/20251115_112742_6ed73c4f.png" group-title="[UPCOMING 1j 17m 06:00 WIB 01/11/26] Llaneros vs Junior",[UPCOMING 1j 17m 06:00 WIB 01/11/26] Llaneros vs Junior (HD1)
+#EXTINF:-1 tvg-id="1549850" tvg-logo="https://media.chuoichientv.net/media/20251115_112742_6ed73c4f.png" group-title="[UPCOMING 1j 7m 06:00 WIB 01/11/26] Llaneros vs Junior",[UPCOMING 1j 7m 06:00 WIB 01/11/26] Llaneros vs Junior (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="1549850" tvg-logo="https://media.chuoichientv.net/media/20251115_112742_6ed73c4f.png" group-title="[UPCOMING 1j 17m 06:00 WIB 01/11/26] Llaneros vs Junior",[UPCOMING 1j 17m 06:00 WIB 01/11/26] Llaneros vs Junior (HD2)
+#EXTINF:-1 tvg-id="1549850" tvg-logo="https://media.chuoichientv.net/media/20251115_112742_6ed73c4f.png" group-title="[UPCOMING 1j 7m 06:00 WIB 01/11/26] Llaneros vs Junior",[UPCOMING 1j 7m 06:00 WIB 01/11/26] Llaneros vs Junior (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1490593" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 3j 47m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire",[UPCOMING 3j 47m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire (HD1)
+#EXTINF:-1 tvg-id="1490593" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 3j 37m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire",[UPCOMING 3j 37m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="1490593" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 3j 47m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire",[UPCOMING 3j 47m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire (HD2)
+#EXTINF:-1 tvg-id="1490593" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 3j 37m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire",[UPCOMING 3j 37m 08:30 WIB 01/11/26] Colorado Rapids vs Chicago Fire (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1593697" tvg-logo="https://media.chuoichientv.net/media/20251115_115449_831c0031.png" group-title="[UPCOMING 10j 17m 15:00 WIB 01/11/26] Perth Glory vs Adelaide United",[UPCOMING 10j 17m 15:00 WIB 01/11/26] Perth Glory vs Adelaide United (HD1)
+#EXTINF:-1 tvg-id="1593697" tvg-logo="https://media.chuoichientv.net/media/20251115_115449_831c0031.png" group-title="[UPCOMING 10j 7m 15:00 WIB 01/11/26] Perth Glory vs Adelaide United",[UPCOMING 10j 7m 15:00 WIB 01/11/26] Perth Glory vs Adelaide United (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="1593697" tvg-logo="https://media.chuoichientv.net/media/20251115_115449_831c0031.png" group-title="[UPCOMING 10j 17m 15:00 WIB 01/11/26] Perth Glory vs Adelaide United",[UPCOMING 10j 17m 15:00 WIB 01/11/26] Perth Glory vs Adelaide United (HD2)
+#EXTINF:-1 tvg-id="1593697" tvg-logo="https://media.chuoichientv.net/media/20251115_115449_831c0031.png" group-title="[UPCOMING 10j 7m 15:00 WIB 01/11/26] Perth Glory vs Adelaide United",[UPCOMING 10j 7m 15:00 WIB 01/11/26] Perth Glory vs Adelaide United (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8
-#EXTINF:-1 tvg-id="1550180" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 13j 47m 18:30 WIB 01/11/26] Como vs Venezia",[UPCOMING 13j 47m 18:30 WIB 01/11/26] Como vs Venezia (HD1)
+#EXTINF:-1 tvg-id="1550180" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 13j 37m 18:30 WIB 01/11/26] Como vs Venezia",[UPCOMING 13j 37m 18:30 WIB 01/11/26] Como vs Venezia (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="1550180" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 13j 47m 18:30 WIB 01/11/26] Como vs Venezia",[UPCOMING 13j 47m 18:30 WIB 01/11/26] Como vs Venezia (HD2)
+#EXTINF:-1 tvg-id="1550180" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 13j 37m 18:30 WIB 01/11/26] Como vs Venezia",[UPCOMING 13j 37m 18:30 WIB 01/11/26] Como vs Venezia (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="1550183" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 16j 17m 21:00 WIB 01/11/26] Lazio vs Cagliari",[UPCOMING 16j 17m 21:00 WIB 01/11/26] Lazio vs Cagliari (HD1)
+#EXTINF:-1 tvg-id="1550183" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 16j 7m 21:00 WIB 01/11/26] Lazio vs Cagliari",[UPCOMING 16j 7m 21:00 WIB 01/11/26] Lazio vs Cagliari (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="1550183" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 16j 17m 21:00 WIB 01/11/26] Lazio vs Cagliari",[UPCOMING 16j 17m 21:00 WIB 01/11/26] Lazio vs Cagliari (HD2)
+#EXTINF:-1 tvg-id="1550183" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 16j 7m 21:00 WIB 01/11/26] Lazio vs Cagliari",[UPCOMING 16j 7m 21:00 WIB 01/11/26] Lazio vs Cagliari (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="1570437" tvg-logo="https://media.chuoichientv.net/media/20251115_113435_320106f9.png" group-title="[UPCOMING 19j 37m 00:30 WIB 02/11/26] Elche vs Valencia",[UPCOMING 19j 37m 00:30 WIB 02/11/26] Elche vs Valencia (HD1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="1570437" tvg-logo="https://media.chuoichientv.net/media/20251115_113435_320106f9.png" group-title="[UPCOMING 19j 37m 00:30 WIB 02/11/26] Elche vs Valencia",[UPCOMING 19j 37m 00:30 WIB 02/11/26] Elche vs Valencia (HD2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
