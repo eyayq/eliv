@@ -1,132 +1,132 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [11.08 WIB 01/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [11.19 WIB 01/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/west-coast-rangers-w-88a050.png" group-title="[LIVE 09:30 WIB 01/11/26] West Coast Rangers (W) vs Fencibles United W | Server 1",[LIVE 09:30 WIB 01/11/26] West Coast Rangers (W) vs Fencibles United W | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ade66e7bce67a6a43ba7cd1.m3u8?auth_key=1793528041-0-0-6eadc7bd1be3985994feb59b3b19e7c5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 1",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MwdpnuZitWCCRzDmN.m3u8?txSecret=3648913e5b3d7e5341ac0eb3baf14706&txTime=6AE762B9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 2",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/clubamerica-toluca-mexliga/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 3",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 3 (SVR-BHNS 3)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 2",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/clubamerica-toluca-mexliga.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 4",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 4 (SVR-BHNS 4)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 3",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ac6659c5c0020a99778a22e.m3u8?auth_key=1793527381-0-0-12167113e6f492ea1b65f2aa04d149b9
+https://pull.fmp.live/sla/1-6ac6659c5c0020a99778a22e.m3u8?auth_key=1793528102-0-0-f85b41e75606962fbf1c1988a466e48e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 4",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=38ffee1ae15703de3c54340538d0e29b&txTime=6ae7112b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 5",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1793509387-0-0-78a917d9fe35dffd4ed85f797be4b7f3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=e80e5f5fc21c134a8c60d6666bdb0edd&txTime=6ae7112b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 6",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1793509387-0-0-037def48270cee3b69856700d2207435
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1793510107-0-0-169477bc55405699cf69b3219770a00d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 7",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=256b12559476283120fb650f48da0ca8&txTime=6ae70e5b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1793510107-0-0-43ce98731f905eb102d06fef2453cc99
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 8",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=927666be702632ff8a52b79e55b09f8e&txTime=6ae70e5b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1793510107-0-0-8ac6d6f3f9727acf02900a88c1aca533
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 9",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1793509386-0-0-aec6a9f1948252095681ab8340c092b1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1793510107-0-0-8ceaf237c15cda8337e6d44a07d95234
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 10",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1793509386-0-0-4e2e3c765370f56f9ec1f2223040edba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1793510107-0-0-7d03e978ade5dfcb8bf013e0bfee4ef0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 11",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1793509387-0-0-dece29416996b6321756e677ae92a413
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1793510107-0-0-7e638ef49fd896d1d8355dd7b027e19a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 12",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1793509387-0-0-ecb71a43203055c1b7edae40f408d692
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1793510107-0-0-8152cc871c861794069742e36ef9d761
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 13",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c206370c096bb5bda9245c076f2f83d1&txTime=6ae70e5a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1793510107-0-0-c87a44acb6ae623c8869975553f6f987
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 14",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a6887b6c2b93d3f78cdbcb6a6924c2bc&txTime=6ae70e5a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=8a82bc3c4cf0b71dcf231f1faf4f2560&txTime=6ae7112b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 15",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1793509386-0-0-da976b51c25b503bb77ff23544faaf0c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-a1ab2b.webp" group-title="[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 16",[LIVE 10:00 WIB 01/11/26] Club America vs Toluca | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1793509386-0-0-39df525a0b834c61328fe1baf210569f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e971e7f48c71aa63ca3ef3657834c575&txTime=6ae7112b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-necaxa-women-75baf3.webp" group-title="[LIVE 10:10 WIB 01/11/26] Club Necaxa Women vs Santos Laguna Women | Server 1",[LIVE 10:10 WIB 01/11/26] Club Necaxa Women vs Santos Laguna Women | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ac6659c5c0020a99778a22f.m3u8?auth_key=1793527381-0-0-6aeb3c32156880623bc4c1c11d65b350
+https://pull.fmp.live/sla/1-6ac6659c5c0020a99778a22f.m3u8?auth_key=1793528102-0-0-a391cf443295f7fd4f79d6410367dacf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-necaxa-women-75baf3.webp" group-title="[LIVE 10:10 WIB 01/11/26] Club Necaxa Women vs Santos Laguna Women | Server 2",[LIVE 10:10 WIB 01/11/26] Club Necaxa Women vs Santos Laguna Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1793509387-0-0-e4f9e76e620efa09e7401cf57e7e3fb3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1793510107-0-0-3a32ce42b54964ed0047c81bff0ccf21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-necaxa-women-75baf3.webp" group-title="[LIVE 10:10 WIB 01/11/26] Club Necaxa Women vs Santos Laguna Women | Server 3",[LIVE 10:10 WIB 01/11/26] Club Necaxa Women vs Santos Laguna Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1793509387-0-0-9a3347f46d7b8e91312e00ceca228f98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1793510107-0-0-f513eb1dd6bb82596cb0f2a71318a810
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-necaxa-women-75baf3.webp" group-title="[LIVE 10:10 WIB 01/11/26] Club Necaxa Women vs Santos Laguna Women | Server 4",[LIVE 10:10 WIB 01/11/26] Club Necaxa Women vs Santos Laguna Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1793509387-0-0-afe8bdffb3367ae773f78ba49d5ba488
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1793510107-0-0-199b10ea623b135082e812effdade5ec
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-necaxa-women-75baf3.webp" group-title="[LIVE 10:10 WIB 01/11/26] Club Necaxa Women vs Santos Laguna Women | Server 5",[LIVE 10:10 WIB 01/11/26] Club Necaxa Women vs Santos Laguna Women | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1793509387-0-0-25cd63f20e2afa5a2c8f0ed5acf72cda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1793510107-0-0-166d9ea9563f5c7d2a0c40889e5d2d94
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cerezo-osaka-sakai-590d9f.png" group-title="[LIVE 10:30 WIB 01/11/26] Cerezo Osaka Sakai vs AS Elfen Saitama | Server 1",[LIVE 10:30 WIB 01/11/26] Cerezo Osaka Sakai vs AS Elfen Saitama | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ac6659c5c0020a99778a234.m3u8?auth_key=1793528102-0-0-86eccf99a2cbb804b29582bdeb6e609c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canberra-united-women-bb4a61.png" group-title="[LIVE 10:30 WIB 01/11/26] Canberra United Women vs WS Wanderers Women | Server 1",[LIVE 10:30 WIB 01/11/26] Canberra United Women vs WS Wanderers Women | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ac6659c5c0020a99778a232.m3u8?auth_key=1793527381-0-0-f23f7b74de31f140be6b15b142b422f4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/south-east-melbourne-22b90f.webp" group-title="[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 1",[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=984f3eea4bed59ee93773ed33aaa209e&txTime=6ae70e5b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/south-east-melbourne-22b90f.webp" group-title="[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 2",[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=3275f0b69a38a294b8b083a8c14dde8a&txTime=6ae70e5b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/south-east-melbourne-22b90f.webp" group-title="[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 3",[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1793509386-0-0-a04b7fc9c6b21f868e3f984d009d9027
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/south-east-melbourne-22b90f.webp" group-title="[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 4",[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1793509386-0-0-48150cdb13f804d0e9cf3a588ed74e7e
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/fd8ad42f4f7a3b8cbe094e6d166a0b2c.png" group-title="[LIVE 11:00 WIB 01/11/26] Canberra Nữ vs WS Wanderers Nữ | Server 1",[LIVE 11:00 WIB 01/11/26] Canberra Nữ vs WS Wanderers Nữ | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxj4gFuuV3Z7eQjy6.m3u8?txSecret=42d5efe8bf6a6ec675e02b0cc864b87d&txTime=6AE762B9
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/15603c323750e4655fd2b0aaec710564.png" group-title="[LIVE 11:00 WIB 01/11/26] Sáng tạo Shinjuku vs Grulla Morioka | Server 1",[LIVE 11:00 WIB 01/11/26] Sáng tạo Shinjuku vs Grulla Morioka | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxj4jZ97F8b1ghwEC.m3u8?txSecret=992cf35e9ae1c63f77a69bc833325c20&txTime=6AE762B9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 1",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mwdq8P6HHHt1pPzYU.m3u8?txSecret=6a07f70457f3512157702ea84ae57c6c&txTime=6AE762B9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 2",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ac6659c5c0020a99778a230.m3u8?auth_key=1793527381-0-0-cd3e7fc7a4210ef974e473dc2bb16af7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 3",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1793509386-0-0-bd139b76d141dd757f349828dea9a7f3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 4",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1793509386-0-0-a713caf7db88147292cc0e93c8329a6c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 5",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=5b55e8969dc0142ac34b0775e95dbe60&txTime=6ae70e5b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 6",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b359ad1a71e2027a81829b33d875aa4b&txTime=6ae70e5b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 7",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=f3735974fc3ce2ec86412ed2f0364273&txTime=6ae70e5a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 8",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=9591b2d04353883ab7d6e483abae7aa4&txTime=6ae70e5a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 9",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1793509387-0-0-fea54f8d4bd6c8a906180721663343b1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 10",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1793509387-0-0-5d65fc6ec7baa097bc0c88a6cb0f34ff
+https://pull.fmp.live/sla/1-6ac6659c5c0020a99778a232.m3u8?auth_key=1793528102-0-0-2b1b405e7ab7450feaf4ee50db66d4c2
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/ea53743f7d56c2bdff6b594fa6d0d833.png" group-title="[LIVE 11:00 WIB 01/11/26] YSCC vs J-Lease FC | Server 1",[LIVE 11:00 WIB 01/11/26] YSCC vs J-Lease FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxj4jZ8wtEu3BeaLk.m3u8?txSecret=6861ec969ed9aded58cb4dd68aa40c9b&txTime=6AE762B9
+https://live.cds78y11d.org/live/sd-6Mxj4jZ8wtEu3BeaLk.m3u8?txSecret=f89bfd6a60b967a97481109ad2c6d1d9&txTime=6AE76589
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/5e7f98b3e6dba2955758797b84e94868.png" group-title="[LIVE 11:00 WIB 01/11/26] APIA Tigers vs Avondale FC | Server 1",[LIVE 11:00 WIB 01/11/26] APIA Tigers vs Avondale FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjJwvoWAf6m6bj5N.m3u8?txSecret=93c36f6965432945d66bf7e7201d9fdd&txTime=6AE762B9
+https://live.cds78y11d.org/live/sd-6MxjJwvoWAf6m6bj5N.m3u8?txSecret=cbfc259595b341ec9e99744604a92106&txTime=6AE76589
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/5af9cefed1600799b9c3ee2d60e02cb1.png" group-title="[LIVE 11:00 WIB 01/11/26] Albirex Niigata Nữ (Jpn) vs Urawa Nữ (Jpn) | Server 1",[LIVE 11:00 WIB 01/11/26] Albirex Niigata Nữ (Jpn) vs Urawa Nữ (Jpn) | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxiZddQnsfCpFX9Zv.m3u8?txSecret=9c1af59af894e420b0fd30dc18d9761c&txTime=6AE76589
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/0c75b77139a9c50741fcc063b9618709.png" group-title="[LIVE 11:00 WIB 01/11/26] Truy cập Veertien vs Okinawa SV | Server 1",[LIVE 11:00 WIB 01/11/26] Truy cập Veertien vs Okinawa SV | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxj4jZ97HL4tAXrP6.m3u8?txSecret=c75d03097279f735e99b075dedd8285c&txTime=6AE76589
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 1",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mwdq8P6HHHt1pPzYU.m3u8?txSecret=87c12b80a408976b2272d4bdc85cd9f5&txTime=6AE76589
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 2",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ac6659c5c0020a99778a230.m3u8?auth_key=1793528102-0-0-380634400318045b22e3fd9b88f4c602
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 3",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1793510107-0-0-4e04dd7109f24a4a1efac428cbda3857
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 4",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1793510107-0-0-897fb3742949a7bf9595ddacf7303d25
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 5",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=f142fc25610463547be9caa3e4db38f1&txTime=6ae7112b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 6",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a12f572b10f01aa2b5d4f1b6dbb2f277&txTime=6ae7112b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 7",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1793510107-0-0-245303b42db3cac33a0bca8bcb2a4bbc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 8",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1793510107-0-0-7f2ee6ff105792753f6246df215987f2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 9",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=37f6f1ef2cbf7430dcecd0f50e2eff0d&txTime=6ae7112b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yokohama-f-marinos-2b18ed.webp" group-title="[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 10",[LIVE 11:00 WIB 01/11/26] Yokohama F. Marinos vs Kawasaki Frontale | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=946d67c5a4d6bb23aceb8ef84c6b50e8&txTime=6ae7112b
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/e3eeed340658b68dc6b1cc2997997954.png" group-title="[LIVE 11:00 WIB 01/11/26] C-Osaka Nữ vs Saitama Nữ (Jpn) | Server 1",[LIVE 11:00 WIB 01/11/26] C-Osaka Nữ vs Saitama Nữ (Jpn) | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxiZdceUCCSPB7gHS.m3u8?txSecret=d2c49b03a8c1136890dadc82dc448f48&txTime=6AE76589
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/15603c323750e4655fd2b0aaec710564.png" group-title="[LIVE 11:00 WIB 01/11/26] Sáng tạo Shinjuku vs Grulla Morioka | Server 1",[LIVE 11:00 WIB 01/11/26] Sáng tạo Shinjuku vs Grulla Morioka | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxj4jZ97F8b1ghwEC.m3u8?txSecret=7b3126b5850936dc691ea5dcbb801bb6&txTime=6AE76589
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/fd8ad42f4f7a3b8cbe094e6d166a0b2c.png" group-title="[LIVE 11:00 WIB 01/11/26] Canberra Nữ vs WS Wanderers Nữ | Server 1",[LIVE 11:00 WIB 01/11/26] Canberra Nữ vs WS Wanderers Nữ | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxj4gFuuV3Z7eQjy6.m3u8?txSecret=3fb95bbd715a214f65e657f2d38fc002&txTime=6AE76589
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 1",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/hd-en-6MwarNNH7urfmptHWC.m3u8?txSecret=516a309fb33ff9a3e0f6d5e7656eb612&txTime=6AE762B9
+https://live.cds78y11d.org/live/hd-en-6MwarNNH7urfmptHWC.m3u8?txSecret=3e3910d18450a02b9d59db917ecd9510&txTime=6AE76589
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 2",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MwarNNH7urfmptHWC.m3u8?txSecret=701747bc48e326c92903cea2e1e3d7c6&txTime=6AE762B9
+https://live.cds78y11d.org/live/sd-6MwarNNH7urfmptHWC.m3u8?txSecret=168af1708e1621de827881fd5ed46a32&txTime=6AE76589
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 3",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/melbvic-centralcoast-aleague/index.m3u8
@@ -135,43 +135,52 @@ https://hls.lauthaitv.cc/live/melbvic-centralcoast-aleague/index.m3u8
 https://flv.lauthaitv.cc/live/melbvic-centralcoast-aleague.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 5",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ac6659c5c0020a99778a231.m3u8?auth_key=1793527321-0-0-1d2804753dec99424d72a7d83a0a1fcc
+https://pull.fmp.live/sla/1-6ac6659c5c0020a99778a231.m3u8?auth_key=1793528102-0-0-c5e634d95f63edcf7a36d63600fe538d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 6",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1793509387-0-0-f39205c0ead1e19b5877659732b85a9a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1793510107-0-0-66ee4c85dcfcbfab2d9e7cdf4d72abcb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 7",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793509387-0-0-9ff07837504600a53945b2fab4b501f5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793510107-0-0-70d4a0b3f7e43a50befc3ada5d9745fe
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 8",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1793509387-0-0-8ef0bfed9a2848441cf6cdbd8b3d8cc5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1793510107-0-0-7a8184d540020e61bb3d3378a78c01e4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 9",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1793509387-0-0-3d6f29c8a6b67ef803aa18de0d59605f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1793510107-0-0-fc2ecd3f7336937254f9b99261dfa3da
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 10",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1793509387-0-0-36957ea40b67b7eb6915bd87e97fc1f6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1793510107-0-0-cd62861dc8959ecae7c761e33d479857
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 11",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1793509387-0-0-93a5587bb3eb565b0689066add13ade3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1793510107-0-0-f248a026e385a3b8803d3368f19f2a8f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 12",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1793509387-0-0-05a5c84f99ce30d48aa3c7cc7c0ff6da
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1793510107-0-0-c8bec4c8064c8a06c1042dd906d3e255
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 13",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1793509387-0-0-32378c8318edd453f7e6d80c0980ff53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1793510107-0-0-8893899a9eab282cf34dc4ed65629747
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 14",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912141_lsd.m3u8?auth_key=1793509387-0-0-b68b08d48262c3e5f0cf82163c2d5501
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=809f7d259a3150bc4bb25f0ca6d39efe&txTime=6ae7112b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 15",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1793509387-0-0-1f15aa3d4031affb6deeb7d211090441
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=2705b3c4047b360a3ace33458e866739&txTime=6ae7112b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 16",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=2ce8f6e55db2965989be946894d7c379&txTime=6ae70e5a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912141_lsd.m3u8?auth_key=1793510107-0-0-c5c92902e88fcf7c23bf2f8182d34c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-victory-852335.webp" group-title="[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 17",[LIVE 11:00 WIB 01/11/26] Melbourne Victory vs Central Coast Mariners | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=092f0854bebe594beddeba5973cc33b5&txTime=6ae70e5a
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/0c75b77139a9c50741fcc063b9618709.png" group-title="[LIVE 11:00 WIB 01/11/26] Truy cập Veertien vs Okinawa SV | Server 1",[LIVE 11:00 WIB 01/11/26] Truy cập Veertien vs Okinawa SV | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxj4jZ97HL4tAXrP6.m3u8?txSecret=e9b2d26ae9610713ddfa00d393b5ae22&txTime=6AE762B9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1793510107-0-0-8b413b9ca90e869cf73c2dabe5ad0d95
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/south-east-melbourne-22b90f.webp" group-title="[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 1",[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1793510107-0-0-f856376f3db76ea71c86bb8b40bfeb8a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/south-east-melbourne-22b90f.webp" group-title="[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 2",[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1793510107-0-0-5a6bb7d7ef2bbcc2683ba2bbfb1eb263
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/south-east-melbourne-22b90f.webp" group-title="[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 3",[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=3c64d4cdf6df9de04199ce9c5bdd50fa&txTime=6ae7112b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/south-east-melbourne-22b90f.webp" group-title="[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 4",[LIVE 11:00 WIB 01/11/26] South East Melbourne vs Tasmania JackJumpers | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=e59b876df1d177507e99fecaf5122149&txTime=6ae7112b
