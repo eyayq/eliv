@@ -1,14 +1,29 @@
 #EXTM3U
-# ⏰ Latest Updated: 03:23:04 WIB 01-11-2026
-# 🔄 Total Channels: 766
+# ⏰ Latest Updated: 03:34:03 WIB 01-11-2026
+# 🔄 Total Channels: 768
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [03:23:04 WIB 01-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [03:34:03 WIB 01-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/461712/image" group-title="LIVE EVENT",04:00 WIB UFC LIVE | Boxing | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de1b507bc71689e4b0d2e41332084daf:0d24dbce556b49baf5348090a59f8e5e
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cd5hufwg7w/out/v1/52491b8acfa14499b0a88ee8832a0787/cenc.mpd?aws_sessionId=979310de-3bf1-4499-aeea-8d2f9ad21db4
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/461712/image" group-title="LIVE EVENT",04:00 WIB UFC LIVE | Boxing | PARAMOUNT+ ES | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80f3ef6e7b3f81a120750f8eb45a5363:2874a2addc99f260ef6ccf1d37699e79
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iciyxuqbci/out/v1/03a3f0fde12a4fb99557eae7774c9989/cenc.mpd?aws_sessionId=cf2a8132-1fb1-486a-ae9d-24660bef6b88
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/461712/image" group-title="LIVE EVENT",04:00 WIB UFC LIVE | Boxing | PARAMOUNT+ POR | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=325424c12306beff75ef379b6d778974:78d8e8f415823e9ddf0d209567102c7f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zxnjfzuj7s/out/v1/823821d93c1a4250860fd079bf2f7998/cenc.mpd?aws_sessionId=0b932add-7c2b-4b29-ade7-7b81a674b5d6
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",HYLO Open | XOILACZ | Gvision TV
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=b6ae38b46b7009c8d4aa3118e4a8c8b0&wsABSTime=1793300081
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FF1493" group-title="LIVE EVENT",HYLO Open | XOILACZ | Gvision TV
@@ -74,9 +89,7 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1
 #KODIPROP:inputstream.adaptive.license_key=8a45aa9f5fac4b13e949ad10b6ec32cb:ed2a38ea996575580a003664f4c995ce
 https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/dj86ixylxw/out/v1/b84ba2faa787471591764c2b70b6c49a/cenc.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",2nd Unofficial Test - Day 2 | India A Tour of New Zealand | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793508870~acl=/*~id=91924095494674236314543101663217~hmac=4ee99a55e639ca0bf015e8c96c33f51c04a18d5eada7d9383077f7bd2150486f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c9ebadb5e83440c9c9ae62f941c3d0f3-1793489404864
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",UFC Fight Night - Moicano vs Nolan | Sony Liv | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2094589/UFC_UFCF3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793508870~acl=/*~id=91924095494674236314543101663217~hmac=4ee99a55e639ca0bf015e8c96c33f51c04a18d5eada7d9383077f7bd2150486f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c9ebadb5e83440c9c9ae62f941c3d0f3-1793489404864
+https://sonymtmnew.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793538620~acl=/*~id=feaa0214cae429d011172d6b2335ea61-1793495400720~hmac=9da78c907f5a30e521d0af99d3076cf2494178292aa67fe885c9b45c83f21d3c|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=747b77c496b105b5ce0d6f8587f03d11-1793502601685
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/461712/image" group-title="Live Event: CFY",04:00 WIB UFC LIVE | Boxing | PARAMOUNT+ - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
