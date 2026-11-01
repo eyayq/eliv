@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 04:27:52 WIB 01-11-2026
-# 🔄 Total Channels: 767
+# ⏰ Latest Updated: 04:38:28 WIB 01-11-2026
+# 🔄 Total Channels: 766
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [04:27:52 WIB 01-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [04:38:28 WIB 01-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/461712/image" group-title="LIVE EVENT",04:00 WIB UFC LIVE | Boxing | PARAMOUNT+ - AQ | Gvision TV
@@ -44,36 +44,30 @@ https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=b6ae38b46b7009c8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04d6e568-3205-4644-8329-e0e68868d317/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpg" group-title="Live Event: Prime Sports",Hong Kong Sixes 2026 - EXHIBITION GAME - Hong Kong SAR Women vs China Women  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b60700acb269f428bb828c21a125f149:c80c0baea9477553e545fec46cb50e9c
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zftvs8ttph/out/v1/d43af91e5e4545328277170da4067922/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cbf71ad9-1c62-40ed-9137-4e2cccbc6388/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",SFT Combat 65 - Pink October 9  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bbdba18ab0d7703db5f3daf7f63c0d4:126f816b9e3e2784086f5658b2fa2da7
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/prmajfawd0/out/v1/d5e14bbd144840bb917f7558d4bc0884/cenc.mpd
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.71d233c5-c6ea-4445-829e-2a5394e51b29/8/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Petronas Grand Prix of Malaysia  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://live-emt-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq-mtTBhpq5qTTA2ZmYXN0bHkCeChmaWQ6MDFhMTk0ZjMtZGJmZS03NjAxLTg1MDctM2NmZDZmYTZjYjg1GQE4oQWhAngzL3liZHY2cXBibmYvb3V0L3YxLzMwZjNhZDliYTJjMzQwNzM5ZWEyOTQzZjI5ZDQ0YjMyWCAHyaFzaOwlVGEOtVaxm5UmxXYLIRJ32Y3alM7Lag7HFA/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ybdv6qpbnf/out/v1/30f3ad9ba2c340739ea2943f29d44b32/1a6eb501-690c-4f83-9447-a0cb91017769-cenc.mpd?aws.sessionId=abc4246d-7ade-49a4-9558-e7c84e280f1d
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cbf71ad9-1c62-40ed-9137-4e2cccbc6388/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",SFT Combat 65 - Pink October 9  | Prime Sports | Gvision TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bbdba18ab0d7703db5f3daf7f63c0d4:126f816b9e3e2784086f5658b2fa2da7
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/prmajfawd0/out/v1/d5e14bbd144840bb917f7558d4bc0884/cenc.mpd
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b31bbf10-d78e-4244-a344-95a338e78552/4/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Hong Kong Sixes 2026 - Cup Play-off - United Arab Emirates vs Scotland  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=232530a82e67bbbfb57e91e47acad246:f79fa1efbdf64975a6e1263c5c00750b
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7yddiomgbx/out/v1/1b021c8ef5424cdf9474d931e90a32e8/cenc.mpd
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ecb96c5f-51e3-4ffc-91c4-707c3aa698e5/4/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",China" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ecb96c5f-51e3-4ffc-91c4-707c3aa698e5/4/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Hong Kong Sixes 2026 - Plate Play-off - Sri Lanka vs Hong Kong. China  | Prime Sports | Gvision TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b610b101e8a987cbf194e6d968585cc2:2ecaec94db1a7fbf40fb9d4ac74f3b47
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ltxdcoti1m/out/v1/4da40c8b0d194fb4a9de00e68a84c0d1/cenc.mpd
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.297d7d62-82c6-42a3-97ea-7839ecc0744f/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",ARCA West at Kevin Harvick's Kern Raceway  | Prime Sports | Gvision TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="Live Event: Sony Liv 1",2nd Unofficial Test - Day 2 | India A Tour of New Zealand | Sony Liv | Gvision TV
 https://sonymtmnew.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793538620~acl=/*~id=feaa0214cae429d011172d6b2335ea61-1793495400720~hmac=9da78c907f5a30e521d0af99d3076cf2494178292aa67fe885c9b45c83f21d3c|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=fb15769c3324b799c2abbbeb5176123c-1793506202188
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/461712/image" group-title="Live Event: CFY",04:00 WIB UFC LIVE | Boxing | PARAMOUNT+ - AQ | Gvision TV
