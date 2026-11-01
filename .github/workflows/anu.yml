@@ -32,7 +32,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          JESON_PY: ${{ secrets.JESON_PY }}
+          TRI_PY: ${{ secrets.TRI_PY }}
         run: |
           echo "$TRI_PY" | base64 -d > TRI.py
           python tri.py   
