@@ -15,23 +15,22 @@ jobs:
     timeout-minutes: 360
 
     steps:
-      - name: Checkout
+      - name: ♪
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
 
-      - name: Decode script
+      - name: ♪
         run: |
           echo "${{ secrets.TRI_PY }}" | base64 -d > tri.py
           chmod +x tri.py
 
-      - name: Set up Python
+      - name: ♪
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: 'pip'
 
-      - name: Install dependencies
+      - name: ♪
         run: pip install requests
 
       - name: Run Tri Script
@@ -39,3 +38,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python tri.py   
+
+        
