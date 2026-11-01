@@ -1,82 +1,82 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [06.01 WIB 02/11/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [06.11 WIB 02/11/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
-#EXTINF:-1 tvg-id="1549848" tvg-logo="https://media.chuoichientv.net/media/20251115_112742_6ed73c4f.png" group-title="[UPCOMING 0j 8m 06:10 WIB 02/11/26] Independiente Medellín vs Alianza Petrolera",[UPCOMING 0j 8m 06:10 WIB 02/11/26] Independiente Medellín vs Alianza Petrolera (HD1)
+#EXTINF:-1 tvg-id="1549848" tvg-logo="https://media.chuoichientv.net/media/20251115_112742_6ed73c4f.png" group-title="[LIVE 06:10 WIB 02/11/26] Independiente Medellín vs Alianza Petrolera",[LIVE 06:10 WIB 02/11/26] Independiente Medellín vs Alianza Petrolera (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="1549848" tvg-logo="https://media.chuoichientv.net/media/20251115_112742_6ed73c4f.png" group-title="[UPCOMING 0j 8m 06:10 WIB 02/11/26] Independiente Medellín vs Alianza Petrolera",[UPCOMING 0j 8m 06:10 WIB 02/11/26] Independiente Medellín vs Alianza Petrolera (HD2)
+#EXTINF:-1 tvg-id="1549848" tvg-logo="https://media.chuoichientv.net/media/20251115_112742_6ed73c4f.png" group-title="[LIVE 06:10 WIB 02/11/26] Independiente Medellín vs Alianza Petrolera",[LIVE 06:10 WIB 02/11/26] Independiente Medellín vs Alianza Petrolera (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="1490598" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 0j 58m 07:00 WIB 02/11/26] New England Revolution vs Inter Miami",[UPCOMING 0j 58m 07:00 WIB 02/11/26] New England Revolution vs Inter Miami (HD1)
+#EXTINF:-1 tvg-id="1490598" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 0j 48m 07:00 WIB 02/11/26] New England Revolution vs Inter Miami",[UPCOMING 0j 48m 07:00 WIB 02/11/26] New England Revolution vs Inter Miami (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="1490598" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 0j 58m 07:00 WIB 02/11/26] New England Revolution vs Inter Miami",[UPCOMING 0j 58m 07:00 WIB 02/11/26] New England Revolution vs Inter Miami (HD2)
+#EXTINF:-1 tvg-id="1490598" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 0j 48m 07:00 WIB 02/11/26] New England Revolution vs Inter Miami",[UPCOMING 0j 48m 07:00 WIB 02/11/26] New England Revolution vs Inter Miami (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="1490590" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 2j 28m 08:30 WIB 02/11/26] Los Angeles FC vs Minnesota United FC",[UPCOMING 2j 28m 08:30 WIB 02/11/26] Los Angeles FC vs Minnesota United FC (HD1)
+#EXTINF:-1 tvg-id="1490590" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 2j 18m 08:30 WIB 02/11/26] Los Angeles FC vs Minnesota United FC",[UPCOMING 2j 18m 08:30 WIB 02/11/26] Los Angeles FC vs Minnesota United FC (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="1490590" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 2j 28m 08:30 WIB 02/11/26] Los Angeles FC vs Minnesota United FC",[UPCOMING 2j 28m 08:30 WIB 02/11/26] Los Angeles FC vs Minnesota United FC (HD2)
+#EXTINF:-1 tvg-id="1490590" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 2j 18m 08:30 WIB 02/11/26] Los Angeles FC vs Minnesota United FC",[UPCOMING 2j 18m 08:30 WIB 02/11/26] Los Angeles FC vs Minnesota United FC (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1646990" tvg-logo="https://media.chuoichientv.net/media/20251115_115953_8128716e.png" group-title="[UPCOMING 8j 58m 15:00 WIB 02/11/26] Tuv Azarganuud vs Deren",[UPCOMING 8j 58m 15:00 WIB 02/11/26] Tuv Azarganuud vs Deren (HD1)
+#EXTINF:-1 tvg-id="1646990" tvg-logo="https://media.chuoichientv.net/media/20251115_115953_8128716e.png" group-title="[UPCOMING 8j 48m 15:00 WIB 02/11/26] Tuv Azarganuud vs Deren",[UPCOMING 8j 48m 15:00 WIB 02/11/26] Tuv Azarganuud vs Deren (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="1646990" tvg-logo="https://media.chuoichientv.net/media/20251115_115953_8128716e.png" group-title="[UPCOMING 8j 58m 15:00 WIB 02/11/26] Tuv Azarganuud vs Deren",[UPCOMING 8j 58m 15:00 WIB 02/11/26] Tuv Azarganuud vs Deren (HD2)
+#EXTINF:-1 tvg-id="1646990" tvg-logo="https://media.chuoichientv.net/media/20251115_115953_8128716e.png" group-title="[UPCOMING 8j 48m 15:00 WIB 02/11/26] Tuv Azarganuud vs Deren",[UPCOMING 8j 48m 15:00 WIB 02/11/26] Tuv Azarganuud vs Deren (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8
-#EXTINF:-1 tvg-id="1598063" tvg-logo="https://media.chuoichientv.net/media/20251115_115517_2f9af8b3.png" group-title="[UPCOMING 12j 58m 19:00 WIB 02/11/26] Chonburi FC vs Pathum United",[UPCOMING 12j 58m 19:00 WIB 02/11/26] Chonburi FC vs Pathum United (HD1)
+#EXTINF:-1 tvg-id="1598063" tvg-logo="https://media.chuoichientv.net/media/20251115_115517_2f9af8b3.png" group-title="[UPCOMING 12j 48m 19:00 WIB 02/11/26] Chonburi FC vs Pathum United",[UPCOMING 12j 48m 19:00 WIB 02/11/26] Chonburi FC vs Pathum United (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="1598063" tvg-logo="https://media.chuoichientv.net/media/20251115_115517_2f9af8b3.png" group-title="[UPCOMING 12j 58m 19:00 WIB 02/11/26] Chonburi FC vs Pathum United",[UPCOMING 12j 58m 19:00 WIB 02/11/26] Chonburi FC vs Pathum United (HD2)
+#EXTINF:-1 tvg-id="1598063" tvg-logo="https://media.chuoichientv.net/media/20251115_115517_2f9af8b3.png" group-title="[UPCOMING 12j 48m 19:00 WIB 02/11/26] Chonburi FC vs Pathum United",[UPCOMING 12j 48m 19:00 WIB 02/11/26] Chonburi FC vs Pathum United (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1629959" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 14j 43m 20:45 WIB 02/11/26] Pakhtakor vs Al-Nassr",[UPCOMING 14j 43m 20:45 WIB 02/11/26] Pakhtakor vs Al-Nassr (HD1)
+#EXTINF:-1 tvg-id="1629959" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 14j 33m 20:45 WIB 02/11/26] Pakhtakor vs Al-Nassr",[UPCOMING 14j 33m 20:45 WIB 02/11/26] Pakhtakor vs Al-Nassr (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="1629959" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 14j 43m 20:45 WIB 02/11/26] Pakhtakor vs Al-Nassr",[UPCOMING 14j 43m 20:45 WIB 02/11/26] Pakhtakor vs Al-Nassr (HD2)
+#EXTINF:-1 tvg-id="1629959" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 14j 33m 20:45 WIB 02/11/26] Pakhtakor vs Al-Nassr",[UPCOMING 14j 33m 20:45 WIB 02/11/26] Pakhtakor vs Al-Nassr (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="1561430" tvg-logo="https://media.chuoichientv.net/media/20251115_115618_75789a88.png" group-title="[UPCOMING 15j 58m 22:00 WIB 02/11/26] Krylia Sovetov vs Zenit",[UPCOMING 15j 58m 22:00 WIB 02/11/26] Krylia Sovetov vs Zenit (HD1)
+#EXTINF:-1 tvg-id="1561430" tvg-logo="https://media.chuoichientv.net/media/20251115_115618_75789a88.png" group-title="[UPCOMING 15j 48m 22:00 WIB 02/11/26] Krylia Sovetov vs Zenit",[UPCOMING 15j 48m 22:00 WIB 02/11/26] Krylia Sovetov vs Zenit (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="1561430" tvg-logo="https://media.chuoichientv.net/media/20251115_115618_75789a88.png" group-title="[UPCOMING 15j 58m 22:00 WIB 02/11/26] Krylia Sovetov vs Zenit",[UPCOMING 15j 58m 22:00 WIB 02/11/26] Krylia Sovetov vs Zenit (HD2)
+#EXTINF:-1 tvg-id="1561430" tvg-logo="https://media.chuoichientv.net/media/20251115_115618_75789a88.png" group-title="[UPCOMING 15j 48m 22:00 WIB 02/11/26] Krylia Sovetov vs Zenit",[UPCOMING 15j 48m 22:00 WIB 02/11/26] Krylia Sovetov vs Zenit (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1550185" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 28m 00:30 WIB 03/11/26] Sassuolo vs Fiorentina",[UPCOMING 18j 28m 00:30 WIB 03/11/26] Sassuolo vs Fiorentina (HD1)
+#EXTINF:-1 tvg-id="1550185" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 18m 00:30 WIB 03/11/26] Sassuolo vs Fiorentina",[UPCOMING 18j 18m 00:30 WIB 03/11/26] Sassuolo vs Fiorentina (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="1550185" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 28m 00:30 WIB 03/11/26] Sassuolo vs Fiorentina",[UPCOMING 18j 28m 00:30 WIB 03/11/26] Sassuolo vs Fiorentina (HD2)
+#EXTINF:-1 tvg-id="1550185" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 18m 00:30 WIB 03/11/26] Sassuolo vs Fiorentina",[UPCOMING 18j 18m 00:30 WIB 03/11/26] Sassuolo vs Fiorentina (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
