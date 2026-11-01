@@ -7,7 +7,7 @@ on:
 
 concurrency:
   group: runner-queue
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   runner:
@@ -15,28 +15,27 @@ jobs:
     timeout-minutes: 360
 
     steps:
-      - name: ✓
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: ✓
+
+      - name: Decode script
         run: |
           echo "${{ secrets.TRI_PY }}" | base64 -d > tri.py
           chmod +x tri.py
 
-      - name: ✓
-        run: |
-          python tri.py
-
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: 'pip'
 
-      - run: pip install requests
+      - name: Install dependencies
+        run: pip install requests
 
       - name: Run Tri Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python tri.py
+        run: python tri.py   
