@@ -7,7 +7,7 @@ on:
 
 concurrency:
   group: runner-queue
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   runner:
@@ -32,5 +32,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python tri.py
-        
+          JESON_PY: ${{ secrets.JESON_PY }}
+        run: |
+          echo "$TRI_PY" | base64 -d > TRI.py
+          python tri.py   
