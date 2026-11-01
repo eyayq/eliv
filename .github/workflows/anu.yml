@@ -1,13 +1,13 @@
-name: Auntri
+name: Runtri
 
 on:
-  workflow_dispatch:  
+  workflow_dispatch:
   schedule:
     - cron: '0,5,10,15,20,25,30,35,40,45,50,55 * * * *'
 
 concurrency:
   group: runner-queue
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   runner:
@@ -15,24 +15,28 @@ jobs:
     timeout-minutes: 360
 
     steps:
-      - name: Checkout Repository
+      - name: ✓
         uses: actions/checkout@v4
         with:
-          ref: main   
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: ✓
+        run: |
+          echo "${{ secrets.TRI_PY }}" | base64 -d > tri.py
+          chmod +x tri.py
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: ✓
+        run: |
+          python tri.py
+
+      - uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
 
-      - name: Install Dependencies
-        run: pip install requests
+      - run: pip install requests
 
       - name: Run Tri Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TRI_PY: ${{ secrets.TRI_PY }}
-        run: |
-          echo "$TRI_PY" | base64 -d > TRI.py
-          python tri.py   
+        run: python tri.py
