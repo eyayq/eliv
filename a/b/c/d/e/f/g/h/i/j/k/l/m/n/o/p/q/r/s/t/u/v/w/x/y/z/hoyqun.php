@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜",TIKTOK LIVE dbl176
-https://pull-hls-f16-tt04.tiktokcdn.com/game/stream-1273292764515140941_hd/index.m3u8?expire=1794905243&sign=b11cf531cb16a0ef28907c9e7074352c
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜",TIKTOK LIVE christianelsalsero
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561524693789835333_hd/index.m3u8?expire=1794905932&sign=d406041292d6767618fcaa63399486d0
