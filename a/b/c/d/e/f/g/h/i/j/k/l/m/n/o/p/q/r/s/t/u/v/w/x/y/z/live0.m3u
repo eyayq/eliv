@@ -1,28 +1,74 @@
 #EXTM3U
-# ⏰ Latest Updated: 17:43:34 WIB 03-11-2026
-# 🔄 Total Channels: 764
+# ⏰ Latest Updated: 17:55:57 WIB 03-11-2026
+# 🔄 Total Channels: 784
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [17:43:34 WIB 03-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [17:55:57 WIB 03-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",[Belum Mulai] 00:45 WIB Galatasaray vs Stuttgart
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",00:45 WIB Galatasaray vs Stuttgart
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",[Belum Mulai] 00:45 WIB Shakhtar Donetsk vs Sporting CP
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",00:45 WIB Shakhtar Donetsk vs Sporting CP
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3061/image" group-title="LIVE EVENT",00:45 WIB Galatasaray vs VfB Stuttgart | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92d6baa3bffdea423754f5e0ab55631a:50b69d834ee34886fa9830363b88e800
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nneitrfr1l/out/v1/c96eca69bbb04f77add2020a85495524/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3061/image" group-title="LIVE EVENT",00:45 WIB Galatasaray vs VfB Stuttgart | Football | SonyLiv PRIME - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=042cea058767bc670450467c2ed410cb:045a98c84a49742be3a5a454198ec14c
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pmxpfwjpew/out/v1/57a2345d56b3485088df37bb379b1884/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3061/image" group-title="LIVE EVENT",00:45 WIB Galatasaray vs VfB Stuttgart | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d5218f13397a8cbed7a4544d0d6d198:919a50686f1bd2dbd1f1b6a9357a9577
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gwpfwrdluy/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3061/image" group-title="LIVE EVENT",00:45 WIB Galatasaray vs VfB Stuttgart | Football | DAZN DE - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9dac59142fae1c70a50d526b491a86e:62752c3314581b6a305f3c655810e201
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u4nnymerwj/out/v1/3a24e30418334f10b02441649eaa8cc3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3061/image" group-title="LIVE EVENT",00:45 WIB Galatasaray vs VfB Stuttgart | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3313/image" group-title="LIVE EVENT",00:45 WIB Shakhtar Donetsk vs Sporting CP | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6b9abe413b8c5552ad7f4a57dbb2af2:e37d1a8371a874deda5f9b7260e65cde
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aeumjv0tof/out/v1/0d70b9334db84658bd3db38c484a071a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3313/image" group-title="LIVE EVENT",00:45 WIB Shakhtar Donetsk vs Sporting CP | Football | SonyLiv PRIME - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6a29d67b1f49548bc93da53455af671:877d754b52368cebafec625d56be4967
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5z5zrkjiuu/out/v1/7f409e917e5740f18b65323ab79309e5/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3313/image" group-title="LIVE EVENT",00:45 WIB Shakhtar Donetsk vs Sporting CP | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0db1a79217cb4d57ae5616c4bf7b2d8:c01f7bdddf9afec6c7c70841905aeed6
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w4lpjel0uk/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3313/image" group-title="LIVE EVENT",00:45 WIB Shakhtar Donetsk vs Sporting CP | Football | DAZN DE - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bddd33b45c3b369cf7febc4c35332e83:1bbd40180ff193eb23f3db5dbdc43c40
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jiybvnjqls/out/v1/9cbdccb678364dafbac6a54af5461882/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3313/image" group-title="LIVE EVENT",00:45 WIB Shakhtar Donetsk vs Sporting CP | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Wang Xie Ni Zhuan Jin Ji ,Liang Hu Yi Han Tao Tai  2026Han Guo Open Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=b93f75fbe4ec25f14ff83f3e69543603&wsTime=6aeb6c50&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=cd90e918517ecd162c3fa344dc35c381&wsTime=6aeb7100&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Xu Wen Jing Xian Sheng Han Guo Dui Jin Ji   2026Han Guo Open Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=8df429d269cf17530783b916f1d09b00&wsTime=6aeb6c52&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=1709e3ddcd3be3967c305985d462b419&wsTime=6aeb7103&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/117204/image" group-title="LIVE EVENT",23:00 WIB Al-Hussein Irbid vs Al-Shorta | Football | HD SERVER | Gvision TV
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/
@@ -34,8 +80,8 @@ https://live2.jorvakstreamcache.com/live/channel2.m3u8?|Referer=https://xlz.doma
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5ce77a33-d5d0-4634-ad1e-1ea4efce0396/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Round of 64" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5ce77a33-d5d0-4634-ad1e-1ea4efce0396/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",PPA Tour: World Championships-World Championships. Round of 64  | Prime Sports | Gvision TV
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5ce77a33-d5d0-4634-ad1e-1ea4efce0396/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Round of 64" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5ce77a33-d5d0-4634-ad1e-1ea4efce0396/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",PPA Tour: World Championships-World Championships. Round of 64  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -46,7 +92,53 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3061/image" group-title="Live Event: CFY",00:45 WIB Galatasaray vs VfB Stuttgart | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92d6baa3bffdea423754f5e0ab55631a:50b69d834ee34886fa9830363b88e800
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nneitrfr1l/out/v1/c96eca69bbb04f77add2020a85495524/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3061/image" group-title="Live Event: CFY",00:45 WIB Galatasaray vs VfB Stuttgart | Football | SonyLiv PRIME - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=042cea058767bc670450467c2ed410cb:045a98c84a49742be3a5a454198ec14c
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pmxpfwjpew/out/v1/57a2345d56b3485088df37bb379b1884/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3061/image" group-title="Live Event: CFY",00:45 WIB Galatasaray vs VfB Stuttgart | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d5218f13397a8cbed7a4544d0d6d198:919a50686f1bd2dbd1f1b6a9357a9577
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gwpfwrdluy/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3061/image" group-title="Live Event: CFY",00:45 WIB Galatasaray vs VfB Stuttgart | Football | DAZN DE - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9dac59142fae1c70a50d526b491a86e:62752c3314581b6a305f3c655810e201
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u4nnymerwj/out/v1/3a24e30418334f10b02441649eaa8cc3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3061/image" group-title="Live Event: CFY",00:45 WIB Galatasaray vs VfB Stuttgart | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3313/image" group-title="Live Event: CFY",00:45 WIB Shakhtar Donetsk vs Sporting CP | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6b9abe413b8c5552ad7f4a57dbb2af2:e37d1a8371a874deda5f9b7260e65cde
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aeumjv0tof/out/v1/0d70b9334db84658bd3db38c484a071a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3313/image" group-title="Live Event: CFY",00:45 WIB Shakhtar Donetsk vs Sporting CP | Football | SonyLiv PRIME - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6a29d67b1f49548bc93da53455af671:877d754b52368cebafec625d56be4967
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5z5zrkjiuu/out/v1/7f409e917e5740f18b65323ab79309e5/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3313/image" group-title="Live Event: CFY",00:45 WIB Shakhtar Donetsk vs Sporting CP | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0db1a79217cb4d57ae5616c4bf7b2d8:c01f7bdddf9afec6c7c70841905aeed6
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w4lpjel0uk/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3313/image" group-title="Live Event: CFY",00:45 WIB Shakhtar Donetsk vs Sporting CP | Football | DAZN DE - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bddd33b45c3b369cf7febc4c35332e83:1bbd40180ff193eb23f3db5dbdc43c40
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jiybvnjqls/out/v1/9cbdccb678364dafbac6a54af5461882/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3313/image" group-title="Live Event: CFY",00:45 WIB Shakhtar Donetsk vs Sporting CP | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/117204/image" group-title="Live Event: CFY",23:00 WIB Al-Hussein Irbid vs Al-Shorta | Football | HD SERVER | Gvision TV
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/
