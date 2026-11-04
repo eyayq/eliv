@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 19:55:19 WIB 04-11-2026
-# 🔄 Total Channels: 787
+# ⏰ Latest Updated: 20:06:05 WIB 04-11-2026
+# 🔄 Total Channels: 795
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:55:19 WIB 04-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:06:05 WIB 04-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3250/image" group-title="LIVE EVENT",00:45 WIB AEK Athens vs Real Madrid | Football | PARAMOUNT+ - AQ | Gvision TV
@@ -64,40 +64,56 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Cheng Chi Nian Ya Shi Jin Ji ,Qian Jun Ni Zhuan Jin Ji    2026Han Guo Open Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=3a7d59ad70b44d445e7672bd73524a57&wsTime=6aecdea0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Hu Zhe An Li Ke JapanJin Ji ,Dong Tian Yao Xi Bai Tao Tai   2026Han Guo Open Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=a25749ced21ca4241f981a7256acd20d&wsTime=6aecdea1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",[Belum Mulai] 03:00 WIB PSV vs Club Brugge
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/61/image" group-title="LIVE EVENT",02:45 WIB Cardiff City vs West Ham United | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c6a422a997d250d93eba4656ca35ee0:280cb26b9073a5175e88992f85291699
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n1lhb2ffmr/out/v1/fd2157164ff14b08aee352dd0f295309/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/61/image" group-title="LIVE EVENT",02:45 WIB Cardiff City vs West Ham United | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel21.m3u8?|Referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/64/image" group-title="LIVE EVENT",02:45 WIB Wrexham vs Middlesbrough | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c6a422a997d250d93eba4656ca35ee0:280cb26b9073a5175e88992f85291699
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n1lhb2ffmr/out/v1/fd2157164ff14b08aee352dd0f295309/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/64/image" group-title="LIVE EVENT",02:45 WIB Wrexham vs Middlesbrough | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel10.m3u8?|Referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",03:00 WIB PSV vs Club Brugge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",[Belum Mulai] 03:00 WIB Sunderland vs Dinamo Zagreb
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",03:00 WIB Sunderland vs Dinamo Zagreb
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",[Belum Mulai] 03:00 WIB RB Leipzig vs Manchester City
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",03:00 WIB RB Leipzig vs Manchester City
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",[Belum Mulai] 03:00 WIB Porto vs Napoli
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",03:00 WIB Porto vs Napoli
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",[Belum Mulai] 03:00 WIB Borussia Dortmund vs Real Betis
+#EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",03:00 WIB Borussia Dortmund vs Real Betis
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/UXCX0" group-title="LIVE EVENT",[Belum Mulai] 03:00 WIB Bristol City vs Wolverhampton Wanderers
+#EXTINF:-1 tvg-logo="https://shorter.me/UXCX0" group-title="LIVE EVENT",03:00 WIB Bristol City vs Wolverhampton Wanderers
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Cheng Chi Nian Ya Shi Jin Ji ,Qian Jun Ni Zhuan Jin Ji    2026Han Guo Open Badminton | HUYA CN | Gvision TV
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=5660b9ff6a2d85427a57b1608f42f949&wsTime=6aece0bd&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Hu Zhe An Li Ke JapanJin Ji ,Dong Tian Yao Xi Bai Tao Tai   2026Han Guo Open Badminton | HUYA CN | Gvision TV
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=7b1d311e66a9a7b18b4572eda3940d2d&wsTime=6aece0bf&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c763bc8f-ac37-43fc-8007-c2a5822b6b36/4/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",PPA Tour: World Championships-Round of 64  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -167,6 +183,22 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m4hzilar79/out/v1
 https://live-cdn.ryazanslah3.space/hls/bein2.m3u8?|Referer=https://www.arena-koora.online/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="Live Event: CFY",00:45 WIB Fenerbahce vs Liverpool FC | Football | Live 2 | Gvision TV
 https://live.uu1pp.com/sport/202_5738820_1.m3u8?txSecret=f91acbf43a64e2a1a4383d7e6da9421c&txTime=6AEBB7BD
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/61/image" group-title="Live Event: CFY",02:45 WIB Cardiff City vs West Ham United | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c6a422a997d250d93eba4656ca35ee0:280cb26b9073a5175e88992f85291699
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n1lhb2ffmr/out/v1/fd2157164ff14b08aee352dd0f295309/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/61/image" group-title="Live Event: CFY",02:45 WIB Cardiff City vs West Ham United | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel21.m3u8?|Referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/64/image" group-title="Live Event: CFY",02:45 WIB Wrexham vs Middlesbrough | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c6a422a997d250d93eba4656ca35ee0:280cb26b9073a5175e88992f85291699
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n1lhb2ffmr/out/v1/fd2157164ff14b08aee352dd0f295309/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/64/image" group-title="Live Event: CFY",02:45 WIB Wrexham vs Middlesbrough | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel10.m3u8?|Referer=https://xlz.domainkqt.cc/
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?w=1280&h=720&fit=contain&cbg=ffffff&url=https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
