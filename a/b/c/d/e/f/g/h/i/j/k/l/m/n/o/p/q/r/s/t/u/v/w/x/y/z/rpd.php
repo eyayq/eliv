@@ -1,66 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [10.16 WIB 04/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [10.27 WIB 04/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-cartagena-025999.webp" group-title="[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 1",[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae7691c3668715da1255b1b.m3u8?auth_key=1793783702-0-0-4271a7e6233968d4a5c4cec03ffe6dd2
+https://pull.fmp.live/sla/1-6ae7691c3668715da1255b1b.m3u8?auth_key=1793784061-0-0-6a997c2e9f0e086e753cac0afb7aae2d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-cartagena-025999.webp" group-title="[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 2",[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1793765647-0-0-5806476ccdb244267103febf9a18a1c2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1793766007-0-0-d3ab0ec484abf2ae244e11d56b229b84
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-cartagena-025999.webp" group-title="[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 3",[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1793765647-0-0-8c4d5fba085491d2208165a45a90c111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1793766007-0-0-1ad3d4f8163ac6fdf41daed38079310f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-cartagena-025999.webp" group-title="[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 4",[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c3bfd9d836291391f1bc74239e4fb508&txTime=6aeaf79b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1793766007-0-0-13e8053c308bc20adac1b0cfeb6a2337
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-cartagena-025999.webp" group-title="[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 5",[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=56e8fdce6a7d7b703e18e70b50d32f1c&txTime=6aeaf79b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1793766007-0-0-2e012d56da5368710b0969c97f50b835
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-cartagena-025999.webp" group-title="[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 6",[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1793765707-0-0-d8930cf3924374451ff3c3cb1d22fc25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=eb406c3a6bed2c7ac80cee80a608b956&txTime=6aeaf8c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-cartagena-025999.webp" group-title="[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 7",[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1793765707-0-0-671ff14e5ebb23e50898aaa5142baad2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=71b6e060333f5b31ce2e5454d9d4a147&txTime=6aeaf8c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-cartagena-025999.webp" group-title="[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 8",[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912132_lsd.m3u8?txSecret=b997ffb7d95869fb3538c2f1d4a01b24&txTime=6aeaf79b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912132_lsd.m3u8?txSecret=8ec545acbe01fa12026aa52548ad160b&txTime=6aeaf8c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-cartagena-025999.webp" group-title="[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 9",[LIVE 08:30 WIB 04/11/26] Real Cartagena vs Deportes Quindio | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=eac7da8a089a98b193d4749d83045b98&txTime=6aeaf79b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=53c5485c23c137e7fe564a15e8b0a864&txTime=6aeaf8c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/panteras-a0a4f9.png" group-title="[LIVE 09:30 WIB 04/11/26] Panteras vs Soles | Server 1",[LIVE 09:30 WIB 04/11/26] Panteras vs Soles | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1793765707-0-0-f456e287ff03a16ad1524180bb0edcc8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1793766067-0-0-71c9e1a6e05f0dbb9b364e7ed04e0a3d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/panteras-a0a4f9.png" group-title="[LIVE 09:30 WIB 04/11/26] Panteras vs Soles | Server 2",[LIVE 09:30 WIB 04/11/26] Panteras vs Soles | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1793765707-0-0-954539134de994d11586f18fd7ee0c78
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/california-irvine-bed57d.webp" group-title="[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 1",[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1793765707-0-0-538e9aba525d7e4a3d997c9b09c14487
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/california-irvine-bed57d.webp" group-title="[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 2",[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1793765707-0-0-459ab99fd6adf01e2337c8c74b6e72e2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/california-irvine-bed57d.webp" group-title="[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 3",[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1793765707-0-0-2dc19f1cc1e5ccc065d162e20cfd5c87
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/california-irvine-bed57d.webp" group-title="[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 4",[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1793765707-0-0-87c61e37ddb1d8279b61c9e06351ba94
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1793766067-0-0-93c310459ef55f12f6e786bbdfa062ce
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-diego-state-f6c624.webp" group-title="[LIVE 10:00 WIB 04/11/26] San Diego State vs Cal State Fullerton | Server 1",[LIVE 10:00 WIB 04/11/26] San Diego State vs Cal State Fullerton | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1793765707-0-0-e65af2a05e7821b02ad117d7eeeff1fe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1793766067-0-0-863fb366a86c135ab4f9c5c3cd553154
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-diego-state-f6c624.webp" group-title="[LIVE 10:00 WIB 04/11/26] San Diego State vs Cal State Fullerton | Server 2",[LIVE 10:00 WIB 04/11/26] San Diego State vs Cal State Fullerton | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1793765707-0-0-f0255c936bab5e162602b55ab1ef1a1d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1793766067-0-0-15d1e6c24aee48edcb54d461a8b62650
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/unlv-9f5de4.webp" group-title="[LIVE 10:00 WIB 04/11/26] UNLV vs Northern Arizona | Server 1",[LIVE 10:00 WIB 04/11/26] UNLV vs Northern Arizona | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1793765707-0-0-2e2749bffdd00a62d3e917d9b9d1d937
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=e131ac0853dd9457dd0845915d020ff8&txTime=6aeaf903
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/unlv-9f5de4.webp" group-title="[LIVE 10:00 WIB 04/11/26] UNLV vs Northern Arizona | Server 2",[LIVE 10:00 WIB 04/11/26] UNLV vs Northern Arizona | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1793765707-0-0-821405acccba6919ab7dac2efa6c3f7f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=91f8edeeec0a064807b2560ba2c2ca79&txTime=6aeaf903
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/unlv-9f5de4.webp" group-title="[LIVE 10:00 WIB 04/11/26] UNLV vs Northern Arizona | Server 3",[LIVE 10:00 WIB 04/11/26] UNLV vs Northern Arizona | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=2e1ea17bdd16c1ba343cf65bf83e1019&txTime=6aeaf79b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1793766067-0-0-dea4c1048087472fd212daed818bcd3d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/unlv-9f5de4.webp" group-title="[LIVE 10:00 WIB 04/11/26] UNLV vs Northern Arizona | Server 4",[LIVE 10:00 WIB 04/11/26] UNLV vs Northern Arizona | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=079b82c8288d1fd1683edc6eac827d23&txTime=6aeaf79b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1793766067-0-0-84fe536dc7c6ebdea84f9361165c9e8d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/california-irvine-bed57d.webp" group-title="[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 1",[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1793766067-0-0-469979c3563fb377a04a119b23893e8d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/california-irvine-bed57d.webp" group-title="[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 2",[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1793766067-0-0-a0e9dfab3dcdee73055064db908a533f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/california-irvine-bed57d.webp" group-title="[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 3",[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1793766067-0-0-f5a1ef176f5b0bacd051f15d66952b13
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/california-irvine-bed57d.webp" group-title="[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 4",[LIVE 10:00 WIB 04/11/26] California Irvine vs Chapman University | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1793766067-0-0-6378f91833afb2a81401e6efc69e1974
