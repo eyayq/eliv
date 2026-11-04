@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 18:14:28 WIB 04-11-2026
-# 🔄 Total Channels: 770
+# ⏰ Latest Updated: 18:25:49 WIB 04-11-2026
+# 🔄 Total Channels: 782
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [18:14:28 WIB 04-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [18:25:49 WIB 04-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://shorter.me/VJWW_" group-title="LIVE EVENT",22:30 WIB Rennes vs Olympiakos Piraeus
@@ -34,6 +34,31 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bvddkqdcbo/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=104827754710be1bfac19b2433cf6846:9f57ccbf41f5cb5fdcf0deb2b41509b0
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sgxlaurrkw/out/v1/c3f667057bc84a78b2df646b097fb1eb/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="LIVE EVENT",00:45 WIB Fenerbahce vs Liverpool FC | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=368bdc08268c3e679d53a4b94964a911:a88f47b574b27e32d186ce686b45f9a5
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/finodo98vw/out/v1/0bba03d3a8594cd6bfe409ec5ecf1114/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="LIVE EVENT",00:45 WIB Fenerbahce vs Liverpool FC | Football | SonyLiv PRIME - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=196d7adbb90349cc7b8fa41a4205a287:56e77fe45183734a76ab51d67efefa96
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hve6te3gra/out/v1/c852d0c20b0c4009a6320557da063330/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="LIVE EVENT",00:45 WIB Fenerbahce vs Liverpool FC | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2453950127dfcbf10a57b540a2691b1e:4eb4220aeb59cb8ca47c0bbd3cac9e6e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lho2ni3olb/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="LIVE EVENT",00:45 WIB Fenerbahce vs Liverpool FC | Football | DAZN DE - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8102ff81175e6be48e14f62803ba7d5:7933876f7d2d1bcb66f43030e1ad926c
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m4hzilar79/out/v1/89daf1d02da540d79fad24952ec7a8df/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="LIVE EVENT",00:45 WIB Fenerbahce vs Liverpool FC | Football | beIN SPORTS - AQ | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.arena-koora.online/
+https://live-cdn.ryazanslah3.space/hls/bein2.m3u8?|Referer=https://www.arena-koora.online/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="LIVE EVENT",00:45 WIB Fenerbahce vs Liverpool FC | Football | Live 2 | Gvision TV
+https://live.uu1pp.com/sport/202_5738820_1.m3u8?txSecret=f91acbf43a64e2a1a4383d7e6da9421c&txTime=6AEBB7BD
 #EXTINF:-1 tvg-logo="https://shorter.me/K2yDg" group-title="LIVE EVENT",00:45 WIB Fenerbahce vs Liverpool
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -45,9 +70,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Cheng Chi Nian Ya Shi Jin Ji ,Qian Jun Ni Zhuan Jin Ji    2026Han Guo Open Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=f136899b3b7dc126ff4560c98240df11&wsTime=6aecc6f8&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=c1f564fc2bef2b5c628f9abb080f9ecb&wsTime=6aecc951&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Hu Zhe An Li Ke JapanJin Ji ,Dong Tian Yao Xi Bai Tao Tai   2026Han Guo Open Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=b6dfafaaace3449bb2ce92a1a4e038d7&wsTime=6aecc6fa&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=570853b46fb503e761f02c43bacb4b8b&wsTime=6aecc952&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.80d5455b-886e-4f95-9aa1-50a8784ccdc3/12/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Tennis Today Live-Paris-ATP & Chennai-WTA Early Rounds  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -92,6 +117,31 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bvddkqdcbo/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=104827754710be1bfac19b2433cf6846:9f57ccbf41f5cb5fdcf0deb2b41509b0
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sgxlaurrkw/out/v1/c3f667057bc84a78b2df646b097fb1eb/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="Live Event: CFY",00:45 WIB Fenerbahce vs Liverpool FC | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=368bdc08268c3e679d53a4b94964a911:a88f47b574b27e32d186ce686b45f9a5
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/finodo98vw/out/v1/0bba03d3a8594cd6bfe409ec5ecf1114/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="Live Event: CFY",00:45 WIB Fenerbahce vs Liverpool FC | Football | SonyLiv PRIME - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=196d7adbb90349cc7b8fa41a4205a287:56e77fe45183734a76ab51d67efefa96
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hve6te3gra/out/v1/c852d0c20b0c4009a6320557da063330/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="Live Event: CFY",00:45 WIB Fenerbahce vs Liverpool FC | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2453950127dfcbf10a57b540a2691b1e:4eb4220aeb59cb8ca47c0bbd3cac9e6e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lho2ni3olb/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="Live Event: CFY",00:45 WIB Fenerbahce vs Liverpool FC | Football | DAZN DE - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8102ff81175e6be48e14f62803ba7d5:7933876f7d2d1bcb66f43030e1ad926c
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m4hzilar79/out/v1/89daf1d02da540d79fad24952ec7a8df/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="Live Event: CFY",00:45 WIB Fenerbahce vs Liverpool FC | Football | beIN SPORTS - AQ | Gvision TV
+#EXTVLCOPT:http-referrer=https://www.arena-koora.online/
+https://live-cdn.ryazanslah3.space/hls/bein2.m3u8?|Referer=https://www.arena-koora.online/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="Live Event: CFY",00:45 WIB Fenerbahce vs Liverpool FC | Football | Live 2 | Gvision TV
+https://live.uu1pp.com/sport/202_5738820_1.m3u8?txSecret=f91acbf43a64e2a1a4383d7e6da9421c&txTime=6AEBB7BD
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?w=1280&h=720&fit=contain&cbg=ffffff&url=https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
