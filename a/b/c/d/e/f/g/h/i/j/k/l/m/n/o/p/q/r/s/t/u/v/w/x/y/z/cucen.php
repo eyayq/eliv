@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [07.11 WIB 04/11/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [07.23 WIB 04/11/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="1492443" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png" group-title="[LIVE 05:30 WIB 04/11/26] Chapecoense-sc vs Mirassol",[LIVE 05:30 WIB 04/11/26] Chapecoense-sc vs Mirassol (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -21,62 +21,62 @@ https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1492446" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png" group-title="[UPCOMING 0j 18m 07:30 WIB 04/11/26] Internacional vs Coritiba",[UPCOMING 0j 18m 07:30 WIB 04/11/26] Internacional vs Coritiba (HD1)
+#EXTINF:-1 tvg-id="1492446" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png" group-title="[UPCOMING 0j 6m 07:30 WIB 04/11/26] Internacional vs Coritiba",[UPCOMING 0j 6m 07:30 WIB 04/11/26] Internacional vs Coritiba (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="1492446" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png" group-title="[UPCOMING 0j 18m 07:30 WIB 04/11/26] Internacional vs Coritiba",[UPCOMING 0j 18m 07:30 WIB 04/11/26] Internacional vs Coritiba (HD2)
+#EXTINF:-1 tvg-id="1492446" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png" group-title="[UPCOMING 0j 6m 07:30 WIB 04/11/26] Internacional vs Coritiba",[UPCOMING 0j 6m 07:30 WIB 04/11/26] Internacional vs Coritiba (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1555787" tvg-logo="https://media.chuoichientv.net/media/20251115_115531_41728c57.png" group-title="[UPCOMING 4j 48m 12:00 WIB 04/11/26] Osaka vs Roasso Kumamoto",[UPCOMING 4j 48m 12:00 WIB 04/11/26] Osaka vs Roasso Kumamoto (HD1)
+#EXTINF:-1 tvg-id="1555787" tvg-logo="https://media.chuoichientv.net/media/20251115_115531_41728c57.png" group-title="[UPCOMING 4j 36m 12:00 WIB 04/11/26] Osaka vs Roasso Kumamoto",[UPCOMING 4j 36m 12:00 WIB 04/11/26] Osaka vs Roasso Kumamoto (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="1555787" tvg-logo="https://media.chuoichientv.net/media/20251115_115531_41728c57.png" group-title="[UPCOMING 4j 48m 12:00 WIB 04/11/26] Osaka vs Roasso Kumamoto",[UPCOMING 4j 48m 12:00 WIB 04/11/26] Osaka vs Roasso Kumamoto (HD2)
+#EXTINF:-1 tvg-id="1555787" tvg-logo="https://media.chuoichientv.net/media/20251115_115531_41728c57.png" group-title="[UPCOMING 4j 36m 12:00 WIB 04/11/26] Osaka vs Roasso Kumamoto",[UPCOMING 4j 36m 12:00 WIB 04/11/26] Osaka vs Roasso Kumamoto (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="1637494" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png" group-title="[UPCOMING 7j 33m 14:45 WIB 04/11/26] Melbourne Victory vs Persib Bandung",[UPCOMING 7j 33m 14:45 WIB 04/11/26] Melbourne Victory vs Persib Bandung (HD1)
+#EXTINF:-1 tvg-id="1637494" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png" group-title="[UPCOMING 7j 21m 14:45 WIB 04/11/26] Melbourne Victory vs Persib Bandung",[UPCOMING 7j 21m 14:45 WIB 04/11/26] Melbourne Victory vs Persib Bandung (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="1637494" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png" group-title="[UPCOMING 7j 33m 14:45 WIB 04/11/26] Melbourne Victory vs Persib Bandung",[UPCOMING 7j 33m 14:45 WIB 04/11/26] Melbourne Victory vs Persib Bandung (HD2)
+#EXTINF:-1 tvg-id="1637494" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png" group-title="[UPCOMING 7j 21m 14:45 WIB 04/11/26] Melbourne Victory vs Persib Bandung",[UPCOMING 7j 21m 14:45 WIB 04/11/26] Melbourne Victory vs Persib Bandung (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="1638226" tvg-logo="https://media.chuoichientv.net/media/20251115_120348_c1c5f260.png" group-title="[UPCOMING 8j 18m 15:30 WIB 04/11/26] April W vs Hồ Chí Minh City W",[UPCOMING 8j 18m 15:30 WIB 04/11/26] April W vs Hồ Chí Minh City W (HD1)
+#EXTINF:-1 tvg-id="1638226" tvg-logo="https://media.chuoichientv.net/media/20251115_120348_c1c5f260.png" group-title="[UPCOMING 8j 6m 15:30 WIB 04/11/26] April W vs Hồ Chí Minh City W",[UPCOMING 8j 6m 15:30 WIB 04/11/26] April W vs Hồ Chí Minh City W (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="1638226" tvg-logo="https://media.chuoichientv.net/media/20251115_120348_c1c5f260.png" group-title="[UPCOMING 8j 18m 15:30 WIB 04/11/26] April W vs Hồ Chí Minh City W",[UPCOMING 8j 18m 15:30 WIB 04/11/26] April W vs Hồ Chí Minh City W (HD2)
+#EXTINF:-1 tvg-id="1638226" tvg-logo="https://media.chuoichientv.net/media/20251115_120348_c1c5f260.png" group-title="[UPCOMING 8j 6m 15:30 WIB 04/11/26] April W vs Hồ Chí Minh City W",[UPCOMING 8j 6m 15:30 WIB 04/11/26] April W vs Hồ Chí Minh City W (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1630392" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png" group-title="[UPCOMING 9j 48m 17:00 WIB 04/11/26] FC Seoul vs Viettel",[UPCOMING 9j 48m 17:00 WIB 04/11/26] FC Seoul vs Viettel (HD1)
+#EXTINF:-1 tvg-id="1630392" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png" group-title="[UPCOMING 9j 36m 17:00 WIB 04/11/26] FC Seoul vs Viettel",[UPCOMING 9j 36m 17:00 WIB 04/11/26] FC Seoul vs Viettel (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="1630392" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png" group-title="[UPCOMING 9j 48m 17:00 WIB 04/11/26] FC Seoul vs Viettel",[UPCOMING 9j 48m 17:00 WIB 04/11/26] FC Seoul vs Viettel (HD2)
+#EXTINF:-1 tvg-id="1630392" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png" group-title="[UPCOMING 9j 36m 17:00 WIB 04/11/26] FC Seoul vs Viettel",[UPCOMING 9j 36m 17:00 WIB 04/11/26] FC Seoul vs Viettel (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8
-#EXTINF:-1 tvg-id="1638237" tvg-logo="https://media.chuoichientv.net/media/20251115_120348_c1c5f260.png" group-title="[UPCOMING 14j 18m 21:30 WIB 04/11/26] Nasaf W vs Beijing Beikong W",[UPCOMING 14j 18m 21:30 WIB 04/11/26] Nasaf W vs Beijing Beikong W (HD1)
+#EXTINF:-1 tvg-id="1638237" tvg-logo="https://media.chuoichientv.net/media/20251115_120348_c1c5f260.png" group-title="[UPCOMING 14j 6m 21:30 WIB 04/11/26] Nasaf W vs Beijing Beikong W",[UPCOMING 14j 6m 21:30 WIB 04/11/26] Nasaf W vs Beijing Beikong W (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="1638237" tvg-logo="https://media.chuoichientv.net/media/20251115_120348_c1c5f260.png" group-title="[UPCOMING 14j 18m 21:30 WIB 04/11/26] Nasaf W vs Beijing Beikong W",[UPCOMING 14j 18m 21:30 WIB 04/11/26] Nasaf W vs Beijing Beikong W (HD2)
+#EXTINF:-1 tvg-id="1638237" tvg-logo="https://media.chuoichientv.net/media/20251115_120348_c1c5f260.png" group-title="[UPCOMING 14j 6m 21:30 WIB 04/11/26] Nasaf W vs Beijing Beikong W",[UPCOMING 14j 6m 21:30 WIB 04/11/26] Nasaf W vs Beijing Beikong W (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
