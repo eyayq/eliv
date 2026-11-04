@@ -1,45 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [17.54 WIB 04/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [18.09 WIB 04/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-bullets-21d5b7.webp" group-title="[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 1",[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1793793007-0-0-4d5337f19202372c90770bfaabd88516
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-bullets-21d5b7.webp" group-title="[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 2",[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1793793007-0-0-5b1ab51f0b2dbfb30cd8a1dbfed15c38
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-bullets-21d5b7.webp" group-title="[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 3",[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=9344065ee13c9195c242cca9b8fcc015&txTime=6aeb623f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-bullets-21d5b7.webp" group-title="[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 4",[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=b78ace689128b6ba8b1267696a4ce863&txTime=6aeb623f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-bullets-21d5b7.webp" group-title="[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 5",[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1793793007-0-0-3fa9cdc365fda51500e475596c1b67e9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-bullets-21d5b7.webp" group-title="[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 6",[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1793793007-0-0-74997dc48e83977094ff8121e752c577
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-bullets-21d5b7.webp" group-title="[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 7",[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1793793007-0-0-adec338c1a695f3d0cf93f08d8f8baef
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-bullets-21d5b7.webp" group-title="[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 8",[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1793793007-0-0-51dfbf77a7cf9c95701dc1439b250be2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-bullets-21d5b7.webp" group-title="[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 9",[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1793793007-0-0-21057dd39621d9b38500112061dced53
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-bullets-21d5b7.webp" group-title="[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 10",[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1793793007-0-0-686c7d55a2d0dc6fdc0cdb14011244e5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-bullets-21d5b7.webp" group-title="[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 11",[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1793793007-0-0-871b6ed13d2edc720e2881cdcb620e4b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brisbane-bullets-21d5b7.webp" group-title="[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 12",[LIVE 16:00 WIB 04/11/26] Brisbane Bullets vs Perth | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1793793007-0-0-17dd9ecd14f64ef7e31bb5d0b9eb8b4f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/valenzuela-pb-mendiola-d18ced.png" group-title="[LIVE 16:15 WIB 04/11/26] Valenzuela PB-Mendiola vs Dynamic Herb Cebu | Server 1",[LIVE 16:15 WIB 04/11/26] Valenzuela PB-Mendiola vs Dynamic Herb Cebu | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aca5a0dfd629e492f85e299.m3u8?auth_key=1793811062-0-0-f869683cf4022ebece0bdc89d0f80c8f
+https://pull.fmp.live/sla/1-6aca5a0dfd629e492f85e299.m3u8?auth_key=1793811962-0-0-4db04feebbf05a5381c62d726aa10747
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fethiyespor-06d64e.png" group-title="[LIVE 16:30 WIB 04/11/26] Fethiyespor vs Eyupspor | Server 1",[LIVE 16:30 WIB 04/11/26] Fethiyespor vs Eyupspor | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://pull.fmp.live/sla/1-6acc8cab5d79ffdae2c10179.m3u8?auth_key=1793217001-0-0-0bea3c7a2f1d23329fef0b4832e6ac45
@@ -51,43 +15,43 @@ https://hls.lauthaitv.cc/live/pohang-gamba-afcc1/index.m3u8
 https://flv.lauthaitv.cc/live/pohang-gamba-afcc1.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pohang-steelers-56f4de.png" group-title="[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 3",[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aca5a0dfd629e492f85e29a.m3u8?auth_key=1793811002-0-0-827823ef5d088157740faacf103bb354
+https://pull.fmp.live/sla/1-6aca5a0dfd629e492f85e29a.m3u8?auth_key=1793811902-0-0-d6ae76c5652264a84946bc714ee5d69f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pohang-steelers-56f4de.png" group-title="[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 4",[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=38ff8b031c139d8fff32e0a96b421a78&txTime=6aeb627b
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=0cb1b8f5ad49caa5c6b48fc1626dbe2e&txTime=6aeb65ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pohang-steelers-56f4de.png" group-title="[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 5",[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=3d0f28be36174d93fa57268b4b02c63d&txTime=6aeb627b
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=97555e7cc8106164b33994cd7cd913fe&txTime=6aeb65ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pohang-steelers-56f4de.png" group-title="[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 6",[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912141_lsd.m3u8?txSecret=4954a34fcfe41c62e7d70fe8aef42488&txTime=6aeb627b
+https://pull.niur.live/live/stream-9912141_lsd.m3u8?txSecret=cf471dc44f668e2a37514d09e7b8dac2&txTime=6aeb65ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pohang-steelers-56f4de.png" group-title="[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 7",[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912141_lhd.m3u8?txSecret=2919ae27b773860d839198ac91d93fae&txTime=6aeb627b
+https://pull.niur.live/live/stream-9912141_lhd.m3u8?txSecret=54f238d4bfdb1941671ab844f6a2b160&txTime=6aeb65ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pohang-steelers-56f4de.png" group-title="[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 8",[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1793793067-0-0-6465aaf1b182361fed81c5a2670305c5
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1793793967-0-0-4c20878675c394cb9f431047a952782b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pohang-steelers-56f4de.png" group-title="[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 9",[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1793793067-0-0-aa7fa0f2d366cc953eaeef5e40840f62
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1793793967-0-0-9081e70da14fe73d70190de757b3e750
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pohang-steelers-56f4de.png" group-title="[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 10",[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1793793067-0-0-355cbb63b90a1ea99dbdc2d25d86fff9
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1793793967-0-0-82cdc87db8d3cf4ebe522985d8366900
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pohang-steelers-56f4de.png" group-title="[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 11",[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1793793067-0-0-f1eb621dde8baab9be6c9a4221b422a0
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1793793967-0-0-8aefa99924bf253ea3e30f26d72d9822
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pohang-steelers-56f4de.png" group-title="[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 12",[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1793793067-0-0-54049e50e8841329c96ff6335a384cd8
+https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1793793967-0-0-67aefecfe2706c85b52489d1a9f4a3f4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pohang-steelers-56f4de.png" group-title="[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 13",[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1793793067-0-0-9f5d50d89985c79681f939bcdaae4884
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1793793967-0-0-daaec9d8299123a42be2e0e113cae277
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pohang-steelers-56f4de.png" group-title="[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 14",[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=8e82316b149fc2571d229a7418d5da60&txTime=6aeb627b
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=e55f5d0e3b0fd78ed3f9a78bdec18553&txTime=6aeb65ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pohang-steelers-56f4de.png" group-title="[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 15",[LIVE 17:00 WIB 04/11/26] Pohang Steelers vs Gamba Osaka | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=c23e88e7d9884c513ee691994237bfa5&txTime=6aeb627b
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=80b0dee800e79751420f8a5845580c7e&txTime=6aeb65ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong Viettel FC | Server 1",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong Viettel FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/seoul-thecong-afcc2/index.m3u8
@@ -96,127 +60,148 @@ https://hls.lauthaitv.cc/live/seoul-thecong-afcc2/index.m3u8
 https://flv.lauthaitv.cc/live/seoul-thecong-afcc2.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong Viettel FC | Server 3",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong Viettel FC | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/2cd29e8dc90c4109.m3u8?wsSecret=9A42FB8F591D837990C0CF23DFA8F64C&wsTime=1793789418
+https://play.lacrima2000.com/live/2cd29e8dc90c4109.m3u8?wsSecret=AAF62995E77198AAEEB616B5A4A61406&wsTime=1793790319
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/aek-athens-u19-166291.png" group-title="[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 1",[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aca5a0dfd629e492f85e29c.m3u8?auth_key=1793811002-0-0-765162653dd08d391a8aa0ac2b12bbfb
+https://pull.fmp.live/sla/1-6aca5a0dfd629e492f85e29c.m3u8?auth_key=1793811902-0-0-98044a371d185a1505fa5dde3dd893a6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/aek-athens-u19-166291.png" group-title="[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 2",[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1793793067-0-0-1e2e17611b5c1e5cca8c557c02e5a5ce
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1793793967-0-0-e40efe30e4a496e30e36bf706fa4c191
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/aek-athens-u19-166291.png" group-title="[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 3",[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1793793067-0-0-0787e9851e3190cd47af4e353b4b7068
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1793793967-0-0-02cc8eac7f9895fc7a2123eb6809d475
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/aek-athens-u19-166291.png" group-title="[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 4",[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1793793067-0-0-990c978e68f265a12ea7810848624cf4
+https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1793793967-0-0-6807c48e1b33f2932e3d51d8122b88b7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/aek-athens-u19-166291.png" group-title="[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 5",[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1793793067-0-0-9f4fb816262cab8a923e76aa8b17db18
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1793793967-0-0-116490b5fc5545e7ac9fbae88bae9fdb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/aek-athens-u19-166291.png" group-title="[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 6",[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1793793067-0-0-2888dd573cffbc32b71da92a8236289c
+https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1793793967-0-0-667767ee2d693cbf52a308646302c640
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/aek-athens-u19-166291.png" group-title="[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 7",[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1793793067-0-0-8a3ed38d53f1286fcfe3bbee6c0c5e7d
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1793793967-0-0-8bb85d3b6e4caf5d2a9bb45efa99170f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/aek-athens-u19-166291.png" group-title="[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 8",[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1793793067-0-0-168df8b8257ddc4c3b6ae8e50824c6ab
+https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1793793967-0-0-e912247a74fb06dfaf9384db7ca1f498
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/aek-athens-u19-166291.png" group-title="[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 9",[LIVE 17:00 WIB 04/11/26] AEK Athens U19 vs Real Madrid U19 | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1793793067-0-0-9435a3140de2126791c706616da14b90
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1793793967-0-0-ea4ed053415044b22f2a03bae82d9b39
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 1",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aca5a0dfd629e492f85e29b.m3u8?auth_key=1793811062-0-0-a3ad145537a213ebf5b46db1723c1a34
+https://pull.fmp.live/sla/1-6aca5a0dfd629e492f85e29b.m3u8?auth_key=1793811962-0-0-742672562deb72003866e145477d5790
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 2",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912127_lsd.m3u8?txSecret=fdd98c64c5f07de4d72da82611dbf92f&txTime=6aeb627b
+https://pull.niur.live/live/stream-9912127_lsd.m3u8?txSecret=edadd598bf3f21bfe9594e7cb7772f7d&txTime=6aeb65ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 3",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=e98026afb4bf2b2ed6dc4e37fa2a674b&txTime=6aeb627b
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=37af5d61ce86509280ca5914e45278c7&txTime=6aeb65ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 4",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1793793067-0-0-26d7996f7de07acd1c51f08d3f2abd15
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1793793967-0-0-d03ca10a03f127e875a312dea239e946
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 5",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793793067-0-0-a847fbe1206affc8c65033c440fe715e
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1793793967-0-0-4c4873c7bce6c475f5b4b356c5c8abbe
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 6",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1793793067-0-0-b518cfb4c1ca27ae9fdbfd973e6c0c40
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1793793967-0-0-c2593f9e4f8050b8e7da7d8792cd9280
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 7",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1793793067-0-0-269b38da50fa2da418cd64d9a73267d1
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793793967-0-0-25d65560b58baa421c3ec9c7226794ea
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 8",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1793793067-0-0-b132f16bb42d977f411a0310c6cdadc1
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1793793967-0-0-7ee9c401b93b04dcd43f760878e954fe
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 9",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1793793067-0-0-d93dde89f86ca1e396a2a15876aa959b
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1793793967-0-0-4d18562edae1eb4449ec647498c9d867
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 10",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=2af28a28d7d76fd51db0a94ed4c92b53&txTime=6aeb627b
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=721a546b162f2554e7576370817d7f50&txTime=6aeb65ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 11",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=cf496f29d86f418231332ff2fceb995d&txTime=6aeb627b
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=642572b003f78d50924a8cacddcb1948&txTime=6aeb65ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 12",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=41858581383d2e684a4d38b070f82ebf&txTime=6aeb627b
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=47eaf4f0a05201267a8d6ac02b59afe2&txTime=6aeb65ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-seoul-15b78a.png" group-title="[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 13",[LIVE 17:00 WIB 04/11/26] FC Seoul vs The Cong-Viettel | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1c743af1cdd0768740d9c5f5a5c5598d&txTime=6aeb627b
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=c1b3fd617ba81959ea65a739f4586acc&txTime=6aeb65ff
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/cc07df4709bfbf8c4b6c3bd8a6f90698.png" group-title="[LIVE 17:30 WIB 04/11/26] Kaya FC–Iloilo (w) vs Melbourne City Nữ | Server 1",[LIVE 17:30 WIB 04/11/26] Kaya FC–Iloilo (w) vs Melbourne City Nữ | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/hd-en-6MxipX9FGJvut5ZqNc.m3u8?txSecret=a19fa49a3f849f5b76d2244218dcb699&txTime=6AEBB6D8
+https://live.cds78y11d.org/live/hd-en-6MxipX9FGJvut5ZqNc.m3u8?txSecret=f46b9058c2f527eb3a6ae414d20fc5bb&txTime=6AEBBA5E
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/cc07df4709bfbf8c4b6c3bd8a6f90698.png" group-title="[LIVE 17:30 WIB 04/11/26] Kaya FC–Iloilo (w) vs Melbourne City Nữ | Server 2",[LIVE 17:30 WIB 04/11/26] Kaya FC–Iloilo (w) vs Melbourne City Nữ | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxipX9FGJvut5ZqNc.m3u8?txSecret=e0c061f3e3c80b29b0751b0b3b7df0f0&txTime=6AEBB6D8
+https://live.cds78y11d.org/live/sd-6MxipX9FGJvut5ZqNc.m3u8?txSecret=044c0e271281996608b562f8801d44fd&txTime=6AEBBA5E
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kaya-fciloilo-women-e9616b.png" group-title="[LIVE 17:30 WIB 04/11/26] Kaya FC–Iloilo Women vs Melbourne City Women | Server 1",[LIVE 17:30 WIB 04/11/26] Kaya FC–Iloilo Women vs Melbourne City Women | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aca5a0dfd629e492f85e29d.m3u8?auth_key=1793811002-0-0-25153c48504edd26130b2efbeced0e97
+https://pull.fmp.live/sla/1-6aca5a0dfd629e492f85e29d.m3u8?auth_key=1793811902-0-0-49a92fa20eb3e7c358a522a7bbbe90b9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kaya-fciloilo-women-e9616b.png" group-title="[LIVE 17:30 WIB 04/11/26] Kaya FC–Iloilo Women vs Melbourne City Women | Server 2",[LIVE 17:30 WIB 04/11/26] Kaya FC–Iloilo Women vs Melbourne City Women | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1793793067-0-0-74c4ab8e922a361dd20c53a326db1b00
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1793793967-0-0-ca1d95059e8ba8e3442d0b1cd7d615c1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kaya-fciloilo-women-e9616b.png" group-title="[LIVE 17:30 WIB 04/11/26] Kaya FC–Iloilo Women vs Melbourne City Women | Server 3",[LIVE 17:30 WIB 04/11/26] Kaya FC–Iloilo Women vs Melbourne City Women | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1793793067-0-0-81459330fa2c4bf36898e9665c8d7c47
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1793793967-0-0-592f06629a1940e56ad32bf295844865
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kaya-fciloilo-women-e9616b.png" group-title="[LIVE 17:30 WIB 04/11/26] Kaya FC–Iloilo Women vs Melbourne City Women | Server 4",[LIVE 17:30 WIB 04/11/26] Kaya FC–Iloilo Women vs Melbourne City Women | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-626841_lsd.m3u8?auth_key=1793793067-0-0-7e7c6a9bccf3ac78c7a10f7d065415b5
+https://pull.niues.live/live/stream-626841_lsd.m3u8?auth_key=1793793967-0-0-cf1d0fc0ce30da13cb5588dc154a2a9e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kaya-fciloilo-women-e9616b.png" group-title="[LIVE 17:30 WIB 04/11/26] Kaya FC–Iloilo Women vs Melbourne City Women | Server 5",[LIVE 17:30 WIB 04/11/26] Kaya FC–Iloilo Women vs Melbourne City Women | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1793793067-0-0-93272608930a7d22cadd0a2bd0fa213b
+https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1793793967-0-0-ebf841fe3474b607bf3657526a6f5031
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-leningradets-e2b0ab.png" group-title="[LIVE 18:00 WIB 04/11/26] FC Leningradets vs SKA Khabarovsk | Server 1",[LIVE 18:00 WIB 04/11/26] FC Leningradets vs SKA Khabarovsk | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-623743_lsd.m3u8?auth_key=1793793067-0-0-877106f1eee1796ee42206933155b9be
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxjKHSaCDAaLWQQJg.m3u8?txSecret=f3c620fae30167cca21bcd5001b3aec3&txTime=6AEBBA5E
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-leningradets-e2b0ab.png" group-title="[LIVE 18:00 WIB 04/11/26] FC Leningradets vs SKA Khabarovsk | Server 2",[LIVE 18:00 WIB 04/11/26] FC Leningradets vs SKA Khabarovsk | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1793793067-0-0-b176231b378f32b5268573572b62bae3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ad1eeb6cf074f0d50b5744c.m3u8?auth_key=1793811902-0-0-d5c63ec500bedee72a18333ffa547a47
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-leningradets-e2b0ab.png" group-title="[LIVE 18:00 WIB 04/11/26] FC Leningradets vs SKA Khabarovsk | Server 3",[LIVE 18:00 WIB 04/11/26] FC Leningradets vs SKA Khabarovsk | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=b37a99243c3b4ed2636aa002cfa659eb&txTime=6aeb627b
+https://pull.niues.live/live/stream-623743_lsd.m3u8?auth_key=1793793967-0-0-350a7dbbdcf704a4590a3ed2ac843309
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-leningradets-e2b0ab.png" group-title="[LIVE 18:00 WIB 04/11/26] FC Leningradets vs SKA Khabarovsk | Server 4",[LIVE 18:00 WIB 04/11/26] FC Leningradets vs SKA Khabarovsk | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=e059d34562a956c2c02878a2c3418623&txTime=6aeb627b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-u19-d1821c.png" group-title="[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 1",[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 1 (SVR-BHNS 1)
+https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1793793967-0-0-fd7c2e49f244456bb57c1843303e88df
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-leningradets-e2b0ab.png" group-title="[LIVE 18:00 WIB 04/11/26] FC Leningradets vs SKA Khabarovsk | Server 5",[LIVE 18:00 WIB 04/11/26] FC Leningradets vs SKA Khabarovsk | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1793793067-0-0-40a84f144bca7b59bb809c5dea5e85d9
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=86159fd41c3a70c460777ae3a8bd201d&txTime=6aeb65ff
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-leningradets-e2b0ab.png" group-title="[LIVE 18:00 WIB 04/11/26] FC Leningradets vs SKA Khabarovsk | Server 6",[LIVE 18:00 WIB 04/11/26] FC Leningradets vs SKA Khabarovsk | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=75504eb538fb40adf2b896ad6084b8af&txTime=6aeb65ff
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-u19-d1821c.png" group-title="[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 1",[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6aca5a0dfd629e492f85e29e.m3u8?auth_key=1793811902-0-0-b5fd66fc8580067b298ba7569b6f2a4c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-u19-d1821c.png" group-title="[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 2",[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1793793067-0-0-d5c3d178a7ce85e42fb0b3ef5e4feba2
+https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=c92d5159472033ea5732993418efbc26&txTime=6aeb65ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-u19-d1821c.png" group-title="[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 3",[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1793793067-0-0-d825d17651d9933521197f8a95c60928
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=c8462ca9951ae5ac9a892d41b379faf5&txTime=6aeb65ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-u19-d1821c.png" group-title="[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 4",[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1793793067-0-0-98dc9c6c271f904d647df014149b0a94
+https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1793793967-0-0-cd07f5c31efc3fd507211ba19ad52a9b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-u19-d1821c.png" group-title="[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 5",[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1793793067-0-0-a341cb96f31e0136048f510dbf1f804c
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1793793967-0-0-ab69de81edd96bce04aaad577afe3885
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-u19-d1821c.png" group-title="[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 6",[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1793793067-0-0-191588775e70e7b1d53e72930a18768d
+https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1793793967-0-0-01625b0c43146d12b79a3a8504e6bbc8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-u19-d1821c.png" group-title="[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 7",[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=44a634cc43b98896b244fdf1159ec44c&txTime=6aeb627b
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1793793967-0-0-6882423c8eb4ec6037a1adc663825b72
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-u19-d1821c.png" group-title="[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 8",[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=e88f3a12f8f5dfb405ca75ceebf2375c&txTime=6aeb627b
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1793793967-0-0-b4dba10b4c5b0e5a9b5489a95649d2f4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-u19-d1821c.png" group-title="[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 9",[LIVE 18:00 WIB 04/11/26] Fenerbahce U19 vs Liverpool U19 | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1793793967-0-0-0cbdb51fd6a60527ecfafc14817b7afa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tainan-tsg-ghosthawks-79bb24.webp" group-title="[LIVE 18:10 WIB 04/11/26] Tainan TSG GhostHawks vs Alvark | Server 1",[LIVE 18:10 WIB 04/11/26] Tainan TSG GhostHawks vs Alvark | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=07d8c3c49c20c864f851955297c4560d&txTime=6aeb65ff
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tainan-tsg-ghosthawks-79bb24.webp" group-title="[LIVE 18:10 WIB 04/11/26] Tainan TSG GhostHawks vs Alvark | Server 2",[LIVE 18:10 WIB 04/11/26] Tainan TSG GhostHawks vs Alvark | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=7f6188c3cc940bf3e80e470e6f140492&txTime=6aeb65ff
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tainan-tsg-ghosthawks-79bb24.webp" group-title="[LIVE 18:10 WIB 04/11/26] Tainan TSG GhostHawks vs Alvark | Server 3",[LIVE 18:10 WIB 04/11/26] Tainan TSG GhostHawks vs Alvark | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1793793967-0-0-cce8bf61c98f331836cd7faec924dc25
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tainan-tsg-ghosthawks-79bb24.webp" group-title="[LIVE 18:10 WIB 04/11/26] Tainan TSG GhostHawks vs Alvark | Server 4",[LIVE 18:10 WIB 04/11/26] Tainan TSG GhostHawks vs Alvark | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1793793967-0-0-4f996328690cad6a9eb05cd708095b88
