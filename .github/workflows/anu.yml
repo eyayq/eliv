@@ -7,12 +7,12 @@ on:
 
 concurrency:
   group: runner-queue
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   runner:
     runs-on: ubuntu-22.04
-    timeout-minutes: 360
+    timeout-minutes: 660
 
     steps:
       - name: ♪
