@@ -1,129 +1,156 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [15.36 WIB 06/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [15.48 WIB 06/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hunters-fc-9ffad7.webp" group-title="[LIVE 14:30 WIB 06/11/26] Hunters FC vs Deren FC | Server 1",[LIVE 14:30 WIB 06/11/26] Hunters FC vs Deren FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6adc265e7cb66c539aaf857a.m3u8?auth_key=1793975342-0-0-3114974e550e14afdfb73d48a886f105
+https://pull.fmp.live/sla/1-6adc265e7cb66c539aaf857a.m3u8?auth_key=1793976061-0-0-5fbdfc71a79ed45f2ab7508da369f25c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.png" group-title="[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 1",[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6accfd04dc0bfe20cd646537.m3u8?auth_key=1793975342-0-0-ecd9a63284ff7282df03187a0de70693
+https://pull.fmp.live/sla/1-6accfd04dc0bfe20cd646537.m3u8?auth_key=1793976061-0-0-ff80c630fa0cb924ce747552664209c8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.png" group-title="[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 2",[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1793957407-0-0-750f6f3f7b92b4a85850ea78c4f6930d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1793958127-0-0-d1527dd917505ed039251b04f0443122
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.png" group-title="[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 3",[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1793957407-0-0-abc61b1cc3aab897d0f90c0c52cd8267
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1793958127-0-0-d255b682186742028bb74da95fcd03b6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.png" group-title="[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 4",[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912129_lsd.m3u8?txSecret=eff3e705f4925711366a44cab159f7b9&txTime=6aede46f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912129_lsd.m3u8?txSecret=1382561c41b340949bcd62c539bb294b&txTime=6aede73f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.png" group-title="[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 5",[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=4d45fc8ad7e3165cf44a29bfe73b7a2c&txTime=6aede46f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=f0e16613e975aa2927b3f514f9d559d3&txTime=6aede73f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.png" group-title="[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 6",[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1793957407-0-0-57e78a27db41f77d366a3e0bec139ba6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1793958127-0-0-a1ec2fd28313fe6192034e63c8335042
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.png" group-title="[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 7",[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1793957407-0-0-a4623aa12b2e926c05e404410bb833d9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1793958127-0-0-600ea7fcf5634a43ff6b8c0455b1925b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.png" group-title="[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 8",[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1793957407-0-0-d6cef8a7af91d6189e43d37a515bc013
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1793958127-0-0-f99a5c0f4b9b0bf1967cc52734f7f446
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.png" group-title="[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 9",[LIVE 15:00 WIB 06/11/26] Adelaide United Women vs Wellington Phoenix Women | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1793957407-0-0-1d0f5476f3d0e6cee4e92ee3a3ef7279
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1793958127-0-0-5ac20156ff290093bf0d8560fc3dbbc3
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/0a79a11cfb91e468fed7174e9a6b58f3.png" group-title="[LIVE 15:00 WIB 06/11/26] Adelaide Nữ vs Phụ nữ Wellington Phoenix | Server 1",[LIVE 15:00 WIB 06/11/26] Adelaide Nữ vs Phụ nữ Wellington Phoenix | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxj4gFuug2xU3YKja.m3u8?txSecret=8d0f714154880db42f42185949a82ea3&txTime=6AEE38D2
+https://live.cds78y11d.org/live/sd-6Mxj4gFuug2xU3YKja.m3u8?txSecret=9dd4c63fb988b535021108b28ec9bb21&txTime=6AEE3B9D
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/e8082f36740ea4295a8bc67e28741933.png" group-title="[LIVE 15:00 WIB 06/11/26] Thợ săn FC vs Deren FC | Server 1",[LIVE 15:00 WIB 06/11/26] Thợ săn FC vs Deren FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk3yx1KDBFGpoK8g.m3u8?txSecret=fb6d1fba8ba08e3caab926fe2759df3e&txTime=6AEE38D2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 1",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1793957407-0-0-f8eaa2acd0116a592cd4ba388a4da328
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 2",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1793957407-0-0-c2f124e1fd4905420b5ce010ac8aa4c9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 3",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912141_lsd.m3u8?txSecret=ea98bb8e60b7a12b2be1ae04e2bfb513&txTime=6aede46f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 4",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912141_lhd.m3u8?txSecret=5088bcc2a25a7756785b1e3a0a82f3f2&txTime=6aede46f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 5",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1793957407-0-0-4fcb6aa59f6d690715c0e14ef8bc8cbd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 6",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1793957407-0-0-d385d0ef82348dc8bc4f6e7b579a174b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 7",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=ef1d4a24fc893524390a91eb3e071caf&txTime=6aede46f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 8",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=41c3e6c02b2320bab4aaa9b4ed1365d3&txTime=6aede46f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 9",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1793957407-0-0-b722dd2d6e364c3479da4f9a778dae02
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 10",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1793957407-0-0-673ccfea2ff0aa0625e3889aae8161df
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 11",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=3bddb5f949c41ae9987b252d7aa2c1d1&txTime=6aede46f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 12",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=b1faf15d8f5d6b793ba36a4a70a6b9ee&txTime=6aede46f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canberra-fc-ffe6fb.png" group-title="[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 1",[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1793957407-0-0-77ddfc45cb6ba65563fc747cbd80dc53
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canberra-fc-ffe6fb.png" group-title="[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 2",[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1793957407-0-0-6db921141e096eb6186acecbe0554551
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canberra-fc-ffe6fb.png" group-title="[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 3",[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=8be133dbbdec522c2e4d6bb0390b0960&txTime=6aede46f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canberra-fc-ffe6fb.png" group-title="[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 4",[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5b112ffaada8a831e81dcfe730c72d8f&txTime=6aede46f
+https://live.cds78y11d.org/live/sd-6Mxk3yx1KDBFGpoK8g.m3u8?txSecret=a2c03770a7cbb4f8d680ec67aef32e27&txTime=6AEE3B9D
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tasmania-jackjumpers-7202e3.webp" group-title="[LIVE 15:30 WIB 06/11/26] Tasmania JackJumpers vs New Zealand Breakers | Server 1",[LIVE 15:30 WIB 06/11/26] Tasmania JackJumpers vs New Zealand Breakers | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1793957407-0-0-f534032d5e4ca44b816e01d918e26d7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1793958127-0-0-53835d10286753d42b61b48cfc7fefd4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tasmania-jackjumpers-7202e3.webp" group-title="[LIVE 15:30 WIB 06/11/26] Tasmania JackJumpers vs New Zealand Breakers | Server 2",[LIVE 15:30 WIB 06/11/26] Tasmania JackJumpers vs New Zealand Breakers | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1793957407-0-0-160c5ad9644e08aa601360b5e4e808c4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1793958127-0-0-d8c734c4fdbedfbf422ba0195accf63c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tasmania-jackjumpers-7202e3.webp" group-title="[LIVE 15:30 WIB 06/11/26] Tasmania JackJumpers vs New Zealand Breakers | Server 3",[LIVE 15:30 WIB 06/11/26] Tasmania JackJumpers vs New Zealand Breakers | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1793957407-0-0-6b555b6d3d3422941774f065aa99361e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1793958127-0-0-946ce7312d25cb8c26f6ed649f2b012f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tasmania-jackjumpers-7202e3.webp" group-title="[LIVE 15:30 WIB 06/11/26] Tasmania JackJumpers vs New Zealand Breakers | Server 4",[LIVE 15:30 WIB 06/11/26] Tasmania JackJumpers vs New Zealand Breakers | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1793957407-0-0-08cff8020fbf56afe8aa960c5274b09f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1793958127-0-0-1d922bf017dd60b4fd9534d024129c1f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canberra-fc-ffe6fb.png" group-title="[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 1",[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=55e92adc508233aa79f0a65798396394&txTime=6aede73f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canberra-fc-ffe6fb.png" group-title="[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 2",[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d8258d9e1651ef669ef7f6354b8a678d&txTime=6aede73f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canberra-fc-ffe6fb.png" group-title="[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 3",[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1793958127-0-0-a4d0d8fe69b9f97d4ece6de2c319eed1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canberra-fc-ffe6fb.png" group-title="[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 4",[LIVE 15:30 WIB 06/11/26] Canberra FC vs Sydney United 58 FC | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1793958127-0-0-d23250b25f07dd16f5b810fb640cde12
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 1",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/psim-dewa-idnsup/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 2",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/psim-dewa-idnsup.flv
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 3",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxiKavp5Vou7fjyb2.m3u8?txSecret=8fca1f4fbd9d2c4a67ae45e5f2033cb2&txTime=6AEE3B9D
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 4",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=563c9b9292da6eae6df0c7bc5ad91027&txTime=6aede73f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 5",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=99b7f77fee720135b4f16860f9346a56&txTime=6aede73f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 6",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912141_lsd.m3u8?txSecret=451791024c7612da87e7b125277e7254&txTime=6aede73f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 7",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912141_lhd.m3u8?txSecret=c7c3a6818dc6b3667522b1a511dda106&txTime=6aede73f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 8",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1793958127-0-0-c043d326b1e3685458b9cdd6fa3e96b8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 9",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1793958127-0-0-43ab073b8c68af86b14fdce90edef470
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 10",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1793958127-0-0-667b6540000f140613708430ab732fe0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 11",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1793958127-0-0-8b80295bc3b8d307cbc84c4177609f29
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 12",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1793958127-0-0-e97b26f0f34c240b21d64eb1bf0f4858
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 13",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1793958127-0-0-80833b90d852139a1f42b3153e9a3415
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 14",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=e02896ec051a4f32749215a3b1715d0c&txTime=6aede73f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/psim-yogyakarta-ef93e4.webp" group-title="[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 15",[LIVE 15:30 WIB 06/11/26] PSIM Yogyakarta vs Dewa United FC | Server 15 (SVR-BHNS 15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=969959f0b20711e571c385e195195ada&txTime=6aede73f
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/0e8a5b04bcb76a376d0f0ddf9f54fbaa.png" group-title="[LIVE 15:30 WIB 06/11/26] Canberra Croatia vs Sydney Utd | Server 1",[LIVE 15:30 WIB 06/11/26] Canberra Croatia vs Sydney Utd | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxjJwvpLnccQdYWse.m3u8?txSecret=58e1e677ff401636ec8018663708b28d&txTime=6AEE3B9D
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/56de534cf589f6d0ca09630db803ba00.png" group-title="[LIVE 15:30 WIB 06/11/26] Iran Futsal Women vs China Futsal Women | Server 1",[LIVE 15:30 WIB 06/11/26] Iran Futsal Women vs China Futsal Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxk4CyydU3AiTtgFe.m3u8?txSecret=f0ab76e609027c0ddcd9aaeabbb93a9f&txTime=6AEE3B9D
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-fc-76e85f.webp" group-title="[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 1",[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1793957407-0-0-0261ab6787989df9a1492a8a40c2131c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/syd-cencoast-aleague/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-fc-76e85f.webp" group-title="[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 2",[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1793957407-0-0-3280e47ab3a43a4734807aff50a25568
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/syd-cencoast-aleague.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-fc-76e85f.webp" group-title="[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 3",[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1793957407-0-0-a051e22783888433e624504acc63d05b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MwarNNHTMQBFwhRC8.m3u8?txSecret=f5ea34713b43d8beed67bd477bc7f835&txTime=6AEE3B9D
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-fc-76e85f.webp" group-title="[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 4",[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1793957407-0-0-a9c8abf2b4d439f95ce4aeba0c3ffd1a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6accfd04dc0bfe20cd646539.m3u8?auth_key=1793976061-0-0-0cac2ea0e63841e39cd5bd4efb52486f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-fc-76e85f.webp" group-title="[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 5",[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1793957407-0-0-e7f1281ec3b7e91133585286836125fb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1793958127-0-0-b1f890a8ecb69f7c8a7e0f15712b24b3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-fc-76e85f.webp" group-title="[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 6",[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1793957407-0-0-7f560cd4cea73914cb7a87f2f2d25715
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1793958127-0-0-93896cde0973ee733ad3e370d33cb868
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-fc-76e85f.webp" group-title="[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 7",[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=6a9294bf64c846967138d19eb34887bc&txTime=6aede46f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1793958127-0-0-72280e1ce04c7923e190b479ef36ad35
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-fc-76e85f.webp" group-title="[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 8",[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=d26080d915e458c27d630a472be20ac6&txTime=6aede46f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1793958127-0-0-fbf72025923f1079050e836b8781a8d1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-fc-76e85f.webp" group-title="[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 9",[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1793957407-0-0-3f5786d8cbe9be05d71542c84d4fce5d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=db140e81eaff71f03dca90fe5dd36b64&txTime=6aede73f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-fc-76e85f.webp" group-title="[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 10",[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793957407-0-0-309127a05c01245d17bae1938fc1730f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=b202af4a5d7a79c8c1513b48337542f9&txTime=6aede73f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-fc-76e85f.webp" group-title="[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 11",[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1793958127-0-0-50e072c7f246eaf80bb380f7b48fcc10
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-fc-76e85f.webp" group-title="[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 12",[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1793958127-0-0-d2646ed44bfd412fa0f9e5bf04cc1f26
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-fc-76e85f.webp" group-title="[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 13",[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1793958127-0-0-de16b9787a8e04552ed85bf792387d63
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sydney-fc-76e85f.webp" group-title="[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 14",[LIVE 15:40 WIB 06/11/26] Sydney FC vs Central Coast Mariners | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793958127-0-0-75f9689e9e71632749bc2d3d9a4cb41c
