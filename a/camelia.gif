@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:0,tvg-name="CS Herediano vs Deportivo Saprissa - Costa Rica Primera Division [UPC] (0-1) 09:00 WIB 06-11-2026" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png" group-title="live camelia vip [tes]",CS Herediano vs Deportivo Saprissa - Costa Rica Primera Division [UPC] (0-1) 09:00 WIB 06-11-2026
+#EXTINF:0,tvg-name="CS Herediano vs Deportivo Saprissa - Costa Rica Primera Division [FT] (0-1) 09:00 WIB 06-11-2026" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png" group-title="live camelia vip [tes]",CS Herediano vs Deportivo Saprissa - Costa Rica Primera Division [FT] (0-1) 09:00 WIB 06-11-2026
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/sd-6MwdqBbt4fNa7jHPaF.m3u8?txSecret=1343b6572f48b1cb53b7a74d817a1320&txTime=6AED456B&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/sd-6MwdqBbt4fNa7jHPaF.m3u8?txSecret=7a63a533e48e8c24f579fe9f5e72c5aa&txTime=6AED47EC&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Alacranes de Durango vs Leones Negros de la U. de G. - Mexico Ascenso MX [LIVE] (0-0) 10:00 WIB 06-11-2026" tvg-logo="https://img.thesports.com/football/team/234bdda4aa03a4a81aedf0575baaba60.png" group-title="live camelia vip [tes]",Alacranes de Durango vs Leones Negros de la U. de G. - Mexico Ascenso MX [LIVE] (0-0) 10:00 WIB 06-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6Mxk4GHveYHgRDVZXM.m3u8?txSecret=cbaa7fb4675f8a752ce161a0e05efb52&txTime=6AED47EC&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Santos Laguna Women vs Tijuana Women - Mexico Liga MX Femenil [LIVE] (1-0) 10:10 WIB 06-11-2026" tvg-logo="https://img.thesports.com/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png" group-title="live camelia vip [tes]",Santos Laguna Women vs Tijuana Women - Mexico Liga MX Femenil [LIVE] (1-0) 10:10 WIB 06-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MwarmBzqQbTknZ1YB.m3u8?txSecret=8db86a3ed4f4baf8d83af556c401f6b2&txTime=6AED47EC&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
