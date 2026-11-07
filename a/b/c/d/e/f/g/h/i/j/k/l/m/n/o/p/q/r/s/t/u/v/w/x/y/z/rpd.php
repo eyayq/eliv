@@ -1,54 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.24 WIB 07/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.34 WIB 07/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ca-banfield-fc720a.png" group-title="[LIVE 07:30 WIB 07/11/26] CA Banfield vs Atletico Tucuman | Server 1",[LIVE 07:30 WIB 07/11/26] CA Banfield vs Atletico Tucuman | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ad0f195a107db0e2ef7ad5f.m3u8?auth_key=1794039422-0-0-9a5ee13a4c0a835471c1a9c53d7d28f8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-atletico-tigre-7b82a0.png" group-title="[LIVE 07:30 WIB 07/11/26] Club Atletico Tigre vs Sarmiento Junin | Server 1",[LIVE 07:30 WIB 07/11/26] Club Atletico Tigre vs Sarmiento Junin | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ad0f195a107db0e2ef7ad54.m3u8?auth_key=1794039482-0-0-45e6026ed5816bad0984a40eff4eb4e8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cleveland-cavaliers-26cce9.webp" group-title="[LIVE 07:30 WIB 07/11/26] Cleveland Cavaliers vs Philadelphia 76ers | Server 1",[LIVE 07:30 WIB 07/11/26] Cleveland Cavaliers vs Philadelphia 76ers | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1794021427-0-0-2eff3ae27657e26fb2508982ad59202c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cleveland-cavaliers-26cce9.webp" group-title="[LIVE 07:30 WIB 07/11/26] Cleveland Cavaliers vs Philadelphia 76ers | Server 2",[LIVE 07:30 WIB 07/11/26] Cleveland Cavaliers vs Philadelphia 76ers | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794021427-0-0-3a4d1a106dbec5c4481e52a66c244eb6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cleveland-cavaliers-26cce9.webp" group-title="[LIVE 07:30 WIB 07/11/26] Cleveland Cavaliers vs Philadelphia 76ers | Server 3",[LIVE 07:30 WIB 07/11/26] Cleveland Cavaliers vs Philadelphia 76ers | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794021427-0-0-6c16446d281e360be4f00c279c4f2023
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cleveland-cavaliers-26cce9.webp" group-title="[LIVE 07:30 WIB 07/11/26] Cleveland Cavaliers vs Philadelphia 76ers | Server 4",[LIVE 07:30 WIB 07/11/26] Cleveland Cavaliers vs Philadelphia 76ers | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794021427-0-0-f627259aa1ec719a48c117b45316cb89
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-womenw-4feeee.png" group-title="[LIVE 07:40 WIB 07/11/26] Cruz Azul Women(w) vs Leon Women | Server 1",[LIVE 07:40 WIB 07/11/26] Cruz Azul Women(w) vs Leon Women | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ace4e8d8f7c293f9faa7555.m3u8?auth_key=1794039422-0-0-a5a34d927f568f229d01535d45a6deec
+https://pull.fmp.live/sla/1-6ace4e8d8f7c293f9faa7555.m3u8?auth_key=1794040141-0-0-1080f4a3eefc197cc1b012b81d2ad0a5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortaleza-fc-2d669d.webp" group-title="[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 1",[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ace4e8d8f7c293f9faa7552.m3u8?auth_key=1794040201-0-0-dd947b8ec4db80dbe583f70948284e37
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortaleza-fc-2d669d.webp" group-title="[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 2",[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1794022207-0-0-21cb8ee2a79be1c5dd5f2858cdc71d0e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortaleza-fc-2d669d.webp" group-title="[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 3",[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1794022207-0-0-beb1474d789e029781a0265b1d16a0af
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortaleza-fc-2d669d.webp" group-title="[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 4",[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1794022207-0-0-e8e89dab101e2312ce06afb53ad96c59
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortaleza-fc-2d669d.webp" group-title="[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 5",[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1794022207-0-0-2d56945fac0c61676ba4070c05695796
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-women-7c124e.webp" group-title="[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 1",[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1794022207-0-0-03e50d7aa189d4601aca1ba4f0824aab
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-women-7c124e.webp" group-title="[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 2",[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1794022207-0-0-68ccee8df15cc7b213f919b8941dadec
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-women-7c124e.webp" group-title="[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 3",[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912139_lsd.m3u8?txSecret=8692eec0915bc56aab4d57ad4dbf39d9&txTime=6aeee18f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-women-7c124e.webp" group-title="[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 4",[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=15bdbbfcad26c4497726032e84decced&txTime=6aeee18f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-san-luis-c131ec.webp" group-title="[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 1",[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ace4e8d8f7c293f9faa7551.m3u8?auth_key=1794039482-0-0-f1b60f4caace7d0f0502a65757dce8b9
+https://pull.fmp.live/sla/1-6ace4e8d8f7c293f9faa7551.m3u8?auth_key=1794040201-0-0-203d56f79b4417ba3c071ecc28ccb2eb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-san-luis-c131ec.webp" group-title="[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 2",[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912141_lsd.m3u8?txSecret=f8c73ed2a040413b6ab876bec506c3b7&txTime=6aeedebf
+https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1794022207-0-0-b6f443468eb23810e13c9afcf061d11e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-san-luis-c131ec.webp" group-title="[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 3",[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912141_lhd.m3u8?txSecret=0ebd475ef41388dddf017e9c898c48cf&txTime=6aeedebf
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794022207-0-0-5439569929fff54b1e269464851e61dd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-san-luis-c131ec.webp" group-title="[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 4",[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1794021487-0-0-3b2bf95e0ad49e0c1111c6e11931be46
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=707bb9d0babbc147b960527f199d5350&txTime=6aeee18f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-san-luis-c131ec.webp" group-title="[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 5",[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794021487-0-0-ec0da3ced8aedad569aff0a5e3c72e7b
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=76f1100baaad006579ecc2144f3464aa&txTime=6aeee18f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-san-luis-c131ec.webp" group-title="[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 6",[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=8d48644cb05d7818087173fd9970984d&txTime=6aeedebf
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1794022207-0-0-a151200a317eda898443fb260d71364a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-san-luis-c131ec.webp" group-title="[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 7",[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=7985112b6f41cc49343f74a26c033bc1&txTime=6aeedebf
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794022207-0-0-9e2728d1763bf5309415d6da41daa130
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-san-luis-c131ec.webp" group-title="[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 8",[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1794021487-0-0-d9f74319324be13b6ff7602fc90f99f6
+https://pull.niur.live/live/stream-9912141_lsd.m3u8?txSecret=f80ffcb4339b74fa1fda8ee3b888e74e&txTime=6aeee18f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-san-luis-c131ec.webp" group-title="[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 9",[LIVE 08:00 WIB 07/11/26] Atletico San Luis vs FC Juarez | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794021487-0-0-b1d0757d6a84501a12e510f1e7f7b25e
+https://pull.niur.live/live/stream-9912141_lhd.m3u8?txSecret=2c0140db13da2863d40a666902ba556f&txTime=6aeee18f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-orleans-pelicans-b3f8e5.webp" group-title="[LIVE 08:00 WIB 07/11/26] New Orleans Pelicans vs Minnesota Timberwolves | Server 1",[LIVE 08:00 WIB 07/11/26] New Orleans Pelicans vs Minnesota Timberwolves | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1794022207-0-0-ea0f39122739e23da6a23aec9d836fa7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-orleans-pelicans-b3f8e5.webp" group-title="[LIVE 08:00 WIB 07/11/26] New Orleans Pelicans vs Minnesota Timberwolves | Server 2",[LIVE 08:00 WIB 07/11/26] New Orleans Pelicans vs Minnesota Timberwolves | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794022207-0-0-aee062ff152153bdb3c9924e526bea29
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/necaxa-af6e94.webp" group-title="[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 1",[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/necaxa-tijuana-mexliga/index.m3u8
@@ -57,73 +72,40 @@ https://hls.lauthaitv.cc/live/necaxa-tijuana-mexliga/index.m3u8
 https://flv.lauthaitv.cc/live/necaxa-tijuana-mexliga.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/necaxa-af6e94.webp" group-title="[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 3",[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ace4e8d8f7c293f9faa7550.m3u8?auth_key=1794039482-0-0-0e8b89fead0c93c23fef217525c62dff
+https://pull.fmp.live/sla/1-6ace4e8d8f7c293f9faa7550.m3u8?auth_key=1794040201-0-0-3d90b1d0d7ce495456a395c45884a2b7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/necaxa-af6e94.webp" group-title="[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 4",[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1794021487-0-0-4d8a6a8905146d6bef50720e88c30745
+https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1794022207-0-0-634f2cb365bc4c1c06736c450c0a9bcb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/necaxa-af6e94.webp" group-title="[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 5",[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794021487-0-0-4d180d7d5a7c0035629808341169ad2d
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794022207-0-0-4c2272a52c4f5a7742eef4e771d56c65
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/necaxa-af6e94.webp" group-title="[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 6",[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1794021487-0-0-53fc46a17aeabba14af5570033987eb7
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1794022207-0-0-a26db47ba0d887bf426e76ea27f621af
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/necaxa-af6e94.webp" group-title="[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 7",[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794021487-0-0-fca4d48cbdb039d6dbbb7875a7d0d9aa
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794022207-0-0-8bb2f551de546b7b4d502ea0b7605d0a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/necaxa-af6e94.webp" group-title="[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 8",[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1794021487-0-0-26fa77a2c287ce6e80e3ad422f6986c7
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1794022207-0-0-c5a51cb4f8f4a5541be7afccc937a1f8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/necaxa-af6e94.webp" group-title="[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 9",[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794021487-0-0-f368c3408d855c18e49ea2418afb385c
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1794022207-0-0-3c4d8239299fd6c8365762bf16097ac1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/necaxa-af6e94.webp" group-title="[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 10",[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1794021487-0-0-fa601fdf094a1ac23d61c956ff525809
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1794022207-0-0-a90f2f8bf3976432c3d804227c767e16
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/necaxa-af6e94.webp" group-title="[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 11",[LIVE 08:00 WIB 07/11/26] Necaxa vs Club Tijuana | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1794021487-0-0-dd0fa7b72df8a36ead0e826e9c8cf08f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-orleans-pelicans-b3f8e5.webp" group-title="[LIVE 08:00 WIB 07/11/26] New Orleans Pelicans vs Minnesota Timberwolves | Server 1",[LIVE 08:00 WIB 07/11/26] New Orleans Pelicans vs Minnesota Timberwolves | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1794021487-0-0-def46c343d909d3430c70175081cc307
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-orleans-pelicans-b3f8e5.webp" group-title="[LIVE 08:00 WIB 07/11/26] New Orleans Pelicans vs Minnesota Timberwolves | Server 2",[LIVE 08:00 WIB 07/11/26] New Orleans Pelicans vs Minnesota Timberwolves | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794021487-0-0-2c7e6dcc50f9174247441ec4c6767f71
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-women-7c124e.webp" group-title="[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 1",[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1794021487-0-0-61ec10b6f9dbe16f9f6aaea065c3b827
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-women-7c124e.webp" group-title="[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 2",[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1794021487-0-0-06794e5a35a3623024aceea20f9821f6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-women-7c124e.webp" group-title="[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 3",[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912139_lsd.m3u8?txSecret=1c2b305a38d39c973c74c82cf43be100&txTime=6aeedebf
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruz-azul-women-7c124e.webp" group-title="[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 4",[LIVE 08:00 WIB 07/11/26] Cruz Azul Women vs Leon Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=11b5904ecd019feb3b9015bd2e3b4ad4&txTime=6aeedebf
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortaleza-fc-2d669d.webp" group-title="[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 1",[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ace4e8d8f7c293f9faa7552.m3u8?auth_key=1794039482-0-0-16acd1501fccbfc44c8333215e9406c2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortaleza-fc-2d669d.webp" group-title="[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 2",[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1794021487-0-0-4fdf30fb2041d15c626ae938e6a02bad
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortaleza-fc-2d669d.webp" group-title="[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 3",[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1794021487-0-0-79df31842ded442936dbe10be4e11686
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortaleza-fc-2d669d.webp" group-title="[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 4",[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1794021487-0-0-879b1676eaecf860c4889807cb80eaf3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortaleza-fc-2d669d.webp" group-title="[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 5",[LIVE 08:00 WIB 07/11/26] Fortaleza F.C vs Dep.Independiente Medellin | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1794021487-0-0-aa7c1259f109b98374f6aa552918103b
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794022207-0-0-46359580b50fed8be0da2724491d8f54
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chivas-guadalajara-women-972b62.webp" group-title="[LIVE 08:06 WIB 07/11/26] Chivas Guadalajara Women vs Club America Women | Server 1",[LIVE 08:06 WIB 07/11/26] Chivas Guadalajara Women vs Club America Women | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=dda5f471b4265b6ab9927dd9e649858a&txTime=6aeedebf
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=0b5a121ce7de71e3a9eab53c98563b3f&txTime=6aeee18f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chivas-guadalajara-women-972b62.webp" group-title="[LIVE 08:06 WIB 07/11/26] Chivas Guadalajara Women vs Club America Women | Server 2",[LIVE 08:06 WIB 07/11/26] Chivas Guadalajara Women vs Club America Women | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=7f08546eb838df67f8e3eb7a4d19abce&txTime=6aeedebf
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=f2cf702b34a38eb2219d9eaf3f917e9f&txTime=6aeee18f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chivas-guadalajara-women-972b62.webp" group-title="[LIVE 08:06 WIB 07/11/26] Chivas Guadalajara Women vs Club America Women | Server 3",[LIVE 08:06 WIB 07/11/26] Chivas Guadalajara Women vs Club America Women | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1794021487-0-0-37553da055ac656487c8a5595a8b6e93
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1794022207-0-0-ab7b16d9cbdde706a85d9bd63c5ee673
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chivas-guadalajara-women-972b62.webp" group-title="[LIVE 08:06 WIB 07/11/26] Chivas Guadalajara Women vs Club America Women | Server 4",[LIVE 08:06 WIB 07/11/26] Chivas Guadalajara Women vs Club America Women | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794021487-0-0-ac6cace749b9ff75d34560e5ef26161e
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794022207-0-0-57e2d3c6942faf302b99e5258cef3b95
