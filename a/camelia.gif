@@ -1,12 +1,18 @@
 #EXTM3U
-#EXTINF:0,tvg-name="Valencia CF vs Real Madrid - La Liga [NS] (0-0) 03:00 WIB 08-11-2026" tvg-logo="https://img.thesports.com/football/team/3b54543c1a584e2e9948d655142996d3.png" group-title="live camelia vip [tes]",Valencia CF vs Real Madrid - La Liga [NS] (0-0) 03:00 WIB 08-11-2026
+#EXTINF:0,tvg-name="Valencia CF vs Real Madrid - La Liga [LIVE] (0-0) 03:00 WIB 08-11-2026" tvg-logo="https://img.thesports.com/football/team/3b54543c1a584e2e9948d655142996d3.png" group-title="live camelia vip [tes]",Valencia CF vs Real Madrid - La Liga [LIVE] (0-0) 03:00 WIB 08-11-2026
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/27551_12551406_vjxm8ghe6x93r6o_md.m3u8?txSecret=9ca3669b8332bece0e9a52f7d07e194c&txTime=6AEF8527&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/27551_12551406_vjxm8ghe6x93r6o_md.m3u8?txSecret=c51f239ac0f0da4e6f05ed6317b87ff1&txTime=6AEF87C0&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
 
-#EXTINF:0,tvg-name="St Mirren F.C. vs Rangers F.C. - Scottish Premiership [NS] (0-0) 03:00 WIB 08-11-2026" tvg-logo="https://img.thesports.com/football/team/8208d7bbc7ce13acece6c881645e4af6.png" group-title="live camelia vip [tes]",St Mirren F.C. vs Rangers F.C. - Scottish Premiership [NS] (0-0) 03:00 WIB 08-11-2026
+#EXTINF:0,tvg-name="St Mirren F.C. vs Rangers F.C. - Scottish Premiership [LIVE] (0-0) 03:00 WIB 08-11-2026" tvg-logo="https://img.thesports.com/football/team/8208d7bbc7ce13acece6c881645e4af6.png" group-title="live camelia vip [tes]",St Mirren F.C. vs Rangers F.C. - Scottish Premiership [LIVE] (0-0) 03:00 WIB 08-11-2026
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/27551_12551407_n54qllhnywndqvy.m3u8?txSecret=6cd01ef1718444610cda9b970647be20&txTime=6AEF8527&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/27551_12551407_n54qllhnywndqvy.m3u8?txSecret=20ffcf445a6db110956f933d95487ead&txTime=6AEF87C0&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Paris Saint Germain vs Troyes - Ligue 1 [LIVE] (0-0) 03:05 WIB 08-11-2026" tvg-logo="https://img.thesports.com/football/team/3b720f181ce9993f9422d276acf7b292.png" group-title="live camelia vip [tes]",Paris Saint Germain vs Troyes - Ligue 1 [LIVE] (0-0) 03:05 WIB 08-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/27551_12568348_8yomo4h1jvweq0j_md.m3u8?txSecret=c52b20379d783674c84fc5b973aed34e&txTime=6AEF87C0&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
