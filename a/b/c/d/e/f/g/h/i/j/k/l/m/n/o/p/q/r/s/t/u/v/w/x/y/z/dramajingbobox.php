@@ -1,3807 +1,2915 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php" group-title="👰🏻Support Me 2!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [18:50:52 WIB]👰🏻
+#EXTINF:-1 tvg-logo="https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php" group-title="👰🏻Support Me 2!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [23:39:54 WIB]👰🏻
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP1 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/1/reLNoSjN14s9jtnj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP2 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/2/MT8Ta513kbx-Izhi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP3 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/3/1zMnBPdlTcMNL_ZF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP4 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/4/18ut1d0SCMqAzUx4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP5 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/5/bktOvHaOrWWnhiXr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP6 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/6/AD0Ekqu_g8jI3SZF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP7 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/7/rqG-lD__oBOT8Gde.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP8 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/8/CTCmYdvB8XlCLtrB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP9 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/9/1WHAyoDoCP1DqA4m.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP10 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/10/v4pnfgKxEpAnvBCu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP11 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/11/bwcth9SABdj21mQQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP12 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/12/ieSNbqNhy9vXjKBx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP13 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/13/y2Qt516heBUAufX_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP14 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/14/mqR33eIPe71Oi5NH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP15 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/15/LfiRhP-8Rktx3WdK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP16 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/16/CpDqC3LZCXl5F4IP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP17 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/17/_xfqZA2F2iF2ewRt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP18 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/18/OIs_fZwx85JsfEGR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP19 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/19/4vqwSYh5yj5gNORz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP20 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/20/4HC8ujz3zgK6jFZB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP21 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/21/-tu1dJ79KjNorw4j.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP22 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/22/v1YjAjOG9YKrFRtO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP23 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/23/2Apthn2yqTCLodEP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP24 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/24/mh7FIw0SVhx9CrTx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP25 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/25/CgnpzaL1Nyh0WR-J.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP26 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/26/HKDzlxgXdh4V_DEe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP27 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/27/JXKHOEwHFCIL9fui.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP28 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/28/SkaAVQiyEv3f_zuR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP29 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/29/PGKr4mIt2K1q4GqY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP30 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/30/T7ZJH-bO7si7J2v2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP31 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/31/Y2G80Y20ZA4vw6yP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP32 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/32/gpYk9ZPYoNEKJBno.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP33 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/33/5P_HRK4gXVjDsCGv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP34 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/34/G-dVCQujtPGwkA8T.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP35 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/35/fx1psvnQ8P0KfZ_5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP36 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/36/cLe2u8nNHDQHV_JJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP37 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/37/7iiy03S6_Nb0PCTK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP38 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/38/g-RhEqI7QH1slY2W.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP39 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/39/UhI6ie0zmdsV-qTm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP40 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/40/GB8KTXULy5_YEwbp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP41 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/41/X-BV2zlTHEFJTS_i.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP42 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/42/Ou-QyPsJUxRSmm2D.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP43 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/43/0r_vDB5aaPGfCM4-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP44 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/44/IoiqvgHwLPBKIH1u.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP45 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/45/8VmoPuAWYrI419bM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP46 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/46/cC6DyvsD-nyBIMVG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP47 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/47/tZG1v_YnMoTOsZ7P.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP48 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/48/wlrqqu8IBnF1NFyG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP49 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/49/zVHZ6TAkc6ZJb_Fx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP50 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/50/aWZuGp03r_ZrZ6CP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP51 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/51/zDfcGQFzF9uV8Edm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP52 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/52/2wxt09qbi4jUn8oL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP53 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/53/f3JlMX0FGGtuPD4q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP54 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/54/5GCvX_Q2YUEa79fF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP55 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/55/eC9SGoPfi_IDl3nC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP56 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/56/_ocugF0ipbz7Edxu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP57 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/57/B3la7h8-lAEu1oeX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP58 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/58/VDtH0bMmMjEbacft.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP59 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/59/9v3sFEJZC6omtAwU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP60 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/60/ddD6XB3Vvu6rSWYm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP61 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/61/qp5QHeyVU4ANCD-G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP62 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/62/EqCvJg1mAHrkwGVp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP63 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/63/ZFfhJb9pBEFh8mdC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP64 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/64/ABrHOErclKqX2fQh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP65 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/65/mcJk0elUnmtNDphX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP66 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/66/B8rtxL4ZqTCfdPYd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP67 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/67/cHDNZPTgXeuUm2tV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP68 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/68/eboZ96nSZq1MignN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/197100cf42cb42c582cda3e76d35bed4-1777027328224.jpg" group-title="👰🏻The Secret in His Heart👰🏻",👰🏻The Secret in His Heart EP69 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1107/720/69/2bPregJDmGU0wugx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP1 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/1/nJ_oJtQFiq_i6OTi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP2 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/2/w6t1lcEFqP-x__iF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP3 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/3/l_oDuG_oHAa1P5rw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP4 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/4/uTloyakjDjeigKz0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP5 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/5/b_rp8DAOx0TYO2t7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP6 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/6/ToUHv7a6SR3yx1iq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP7 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/7/x_ZP3hcYoe-4cLcv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP8 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/8/K9TilkyRZsXZfxT2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP9 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/9/1nR4ARJIBtmUe4of.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP10 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/10/7Qxau1UZTc5gCo9z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP11 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/11/VycwgRhI_grAhyrU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP12 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/12/A9txVogThoePOoTN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP13 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/13/iZ6842nm7iwXxuNN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP14 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/14/HMMLXM6e9jwRUVH-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP15 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/15/nN20I8MwYzK8y2c9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP16 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/16/Wblc6Cg49Y-_qim_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP17 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/17/RH8MGffib6gpd5mb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP18 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/18/CEC_X4A7Cl-ZIG6L.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP19 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/19/hinLU4fPthO3ZLx-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP20 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/20/JwiZKdXWXjah5JuL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP21 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/21/FNj1nWFRjUp1oB02.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP22 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/22/q3stYmLfP9-l2ruo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP23 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/23/NZW0pSam0bnM8J-S.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP24 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/24/tWJqdiT9bb86p4Gm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP25 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/25/5Ufw7UzYwlf_nmPZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP26 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/26/EvkvdXVo7L7YF9Sc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP27 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/27/Mc2WF5gQsnVigkHQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP28 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/28/k6Z59EH0oNpJSd1f.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP29 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/29/5kLzOMFihr_m7V5B.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP30 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/30/QbOK8V6BO-gGWVuX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP31 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/31/LtTQ3XeChSj-uP9p.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP32 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/32/jRTEfhIewaDVn46y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP33 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/33/Q-qzjnZ1lsArZQ8b.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP34 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/34/l61PbUyK739ig6rQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP35 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/35/f4aESMoQb_JxdLPi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP36 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/36/2no17S6EeDQzhw7a.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP37 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/37/ckTPKPu5yyeDb1GX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP38 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/38/GZhKid8EUP6B8pe1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP39 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/39/CaTYz65uz4Uccjuo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/15790d2905344d7ebaad01b0797e9cf4-1777027319422.jpg" group-title="👰🏻Mr. Ho, It's Your Move👰🏻",👰🏻Mr. Ho, It's Your Move EP40 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1116/720/40/gRZBnkAmESQyehF5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP1 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/1/CGofqnrVxCyLZv6p.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP2 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/2/jOWP5W-s7ly-a1UQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP3 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/3/7uvWsP1qYLsqAA50.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP4 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/4/AL8d003ASpcE1CPJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP5 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/5/jgs8zVmAYBdLU-vS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP6 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/6/v7AvQ7BsBsljMJXN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP7 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/7/f6oLaHfCdS690Tm0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP8 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/8/1iCMMJp15uc83fmm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP9 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/9/PLFsTZu9Ro9MIt9G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP10 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/10/DEyauicdD13FRx9U.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP11 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/11/sNFO_U8jQ44vx0Jh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP12 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/12/49SfEQWsArEg2koz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP13 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/13/62iK1_gixqSVvzh6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP14 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/14/i9UY3xwQvHukxASM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP15 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/15/n7a0R9qQacVnaJd4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP16 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/16/DE9BmSD7sNDy7CjV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP17 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/17/KwI4TnQJK7zLMiFO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP18 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/18/Z7rcjVP0gIhTfeey.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP19 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/19/_xBVQAJlliBf7gck.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP20 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/20/jwh4lRtOg-N60agC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP21 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/21/NODRFC95T-2x0Ruk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP22 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/22/nL8-BW_IAUBMzIS8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP23 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/23/VloqAwA-8zugJLkV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP24 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/24/liCqRNUGk9_uI97A.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP25 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/25/_MkpWyodDhbCEH4A.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP26 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/26/xccv_zOERV4e6PPO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP27 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/27/u_O8xaCjnU9V-vK7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP28 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/28/B1US_kpaT__Fh2pP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP29 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/29/XEIe86pep7ga7iyk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP30 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/30/-lBD5R8789fMbFwu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP31 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/31/1wUK-ocnFLTCJ_5P.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP32 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/32/UsSCgzy92yj-XXLG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP33 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/33/Wk7UUrG5eE1ILQ6F.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP34 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/34/jstB5hqcSXBW_kgi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP35 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/35/hKMUX2himPdTaUE4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP36 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/36/8uvZd6NDqq1FcA6D.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP37 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/37/ceIrUgzq-vpcYwRW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP38 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/38/LjP-4lo3UTJmqBn-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP39 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/39/FPGstLzuPe4mU95V.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP40 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/40/EklAQgvMG8D0aoiV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP41 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/41/n7k5veIZKgGShC7l.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP42 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/42/H3aXOjEuu4TSN2D4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP43 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/43/IhHGdDSGnHPoSw4t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP44 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/44/JdE7z-nsRNPNWFan.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP45 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/45/Db8cVCdVXAKHmmk-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP46 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/46/qysiex0j0jPD15Bl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP47 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/47/RmF55N45p_CcKPn_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP48 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/48/OLapWiwhXsWoIJ7z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP49 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/49/bxkGxKBGdCIND7hF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP50 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/50/ezMGYJ7foTWdckl_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP51 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/51/V2FEiQmRnzt9NsOX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP52 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/52/XpluOFILmefMut4K.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP53 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/53/lHo5dl6ZyAqvz1i2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP54 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/54/CbAHr0fEF4rHmXQh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP55 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/55/PyD0-bbXJmPU3j3K.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP56 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/56/jdp6qg5PnVfnW6hN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP57 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/57/E6np_sUoXWtl_7mY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP58 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/58/5QzB88kY8L8K3eNW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP59 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/59/eagxzJna8G-wy4Zz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP60 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/60/C3w73CE9UmPM7MSD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP61 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/61/jb35QW_ohSqJCRzU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP62 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/62/KGlbq_RUPzY2xSVw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP63 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/63/eSVy0mWEwQFCEl-h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP64 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/64/nx4_jDLEdTYCg09_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP65 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/65/MPY-GhciHqh6u_nN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP66 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/66/wujyzXaPEyefv-hc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP67 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/67/runYKrgPpL66tm2O.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP68 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/68/vOFCjNJoG9pdHSaP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP69 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/69/glTttlTLpwoYq4WX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8ae048da1d844ec7a34f5d9db5706a4d-1777027314334.png" group-title="👰🏻The Little Miracle Doctor👰🏻",👰🏻The Little Miracle Doctor EP70 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1117/720/70/e-cDfSTIPdyWFGIO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP1 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/1/ysv9d7_jmw332gPh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP2 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/2/2yCO1RulcKx6ADiH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP3 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/3/k52id1wPn8dWFPyT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP4 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/4/BHgndLNKvZ57FI7g.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP5 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/5/ODDmKzSwcxYMqXeS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP6 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/6/mqEso4Ev-_W7opjc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP7 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/7/Px8uBWROCqeXq3Iw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP8 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/8/z2kQVxqjKTeZ0XTC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP9 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/9/0gvltGQ4bQo9wjCs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP10 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/10/fp_uJYkq14HW1c6N.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP11 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/11/2Xt56hg0-VXaGJ__.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP12 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/12/oZgurfwKPuQLuwiL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP13 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/13/j71JvU5x7nftEYxC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP14 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/14/TBU8lNTZaAybmFwz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP15 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/15/lGVlo21ecagatf_9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP16 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/16/QvSP11oDxAbOxG9k.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP17 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/17/aSNXBGvMUH2uVLkS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP18 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/18/WEmSq_uoy7f2jJ7h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP19 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/19/v3A-2bXQcLf68mp-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP20 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/20/84KeyL8QPhXsiznI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP21 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/21/MlAPSnQY5VM-BKMA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP22 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/22/87kBNVI5-xhtAILE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP23 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/23/DgZZ7uWR2aLTzcfD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP24 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/24/RFH6S05kl7R9N9tU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP25 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/25/ciUv87-rWLIkGJMV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP26 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/26/FURFZhE0sLr_OmZS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP27 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/27/uDBFDzcdSgWLAxeI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP28 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/28/CbOen8IKIBQVxeQb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP29 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/29/RzVLwQPsG_l5vqM_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP30 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/30/keVCeSSWgKFwRfX0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP31 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/31/5awvb0z_v50wvagz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP32 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/32/7fSc2Uk4avyUJWG2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP33 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/33/CwTTY6G_XwC8ZReI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP34 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/34/zlLngoTMHXGsacVE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP35 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/35/kMQHv7eM7qO4BTGk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP36 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/36/Q8tn9w9NWkv_EHlj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP37 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/37/I1Ii2YF_z3qox-cs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP38 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/38/hKwjs9XBox1yCdZF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP39 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/39/NpwbdmWCNmRVBI3Z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP40 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/40/VXuwXbHs02X7vh1e.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP41 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/41/QishHaFtTgcqr80S.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP42 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/42/B1huEd3PCDDawKd2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP43 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/43/Uw407-kpVzdUrdJO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP44 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/44/8ivJOHV1xz26hFSs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP45 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/45/RFXH21mVdw05n2M6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP46 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/46/ZK4kCUXJs7uwi8sc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP47 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/47/qXYjXf2aRUieta6P.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP48 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/48/orOFgaEBC7V8Hsv7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP49 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/49/sVhHJUNyksiraORa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP50 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/50/PYSpZ7zLvWRwg_fj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP51 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/51/eyxKgp0yBnM4o60t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP52 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/52/AwrieIBey5ZY8JCG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP53 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/53/N2UUR6N_KRFyFbQD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP54 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/54/vtit9_whZLcxmdPB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP55 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/55/GN_5UR9WLUVyjDwa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP56 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/56/ZA9y7GC-VelgbLwI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP57 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/57/XmJmoYoCACWZkrQw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP58 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/58/FZASWhw-gVYavIoD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP59 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/59/s-c-aC-xjKB6Bm6-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP60 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/60/1XmNXG1TL2f1uudK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP61 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/61/f8LVkE1x2w4NEE05.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP62 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/62/pf1_uD3zrj9E6cC8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP63 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/63/SQaT6u9PYrTBpmKs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP64 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/64/7HVBfNIfkVNkYzRv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP65 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/65/JYsKOK1LKwpscjlZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP66 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/66/pN8gKciM8Ehro2Br.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP67 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/67/gLX9anKWNJwpqJ63.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP68 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/68/PvOOLW0jUm-t41v5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP69 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/69/THS1V-oqeiqCY0X-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP70 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/70/784xwcR8xmUBcaig.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP71 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/71/4QXFWlDo409rd6dm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP72 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/72/c71Bw11RG1PQn5q7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP73 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/73/nrh6_EmUMYC7jQA8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP74 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/74/RHqpi699WP0jNMns.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP75 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/75/8fnAjKu0WTP7wDGJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP76 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/76/TIoR9UqD1TB9rwIc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP77 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/77/o7VfxZdkYGFrHd-E.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP78 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/78/JHnwlMwYU_1zkbzY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP79 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/79/s6e0dp_KmiIeYOhD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP80 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/80/Y46w_Bo1jLxYLF9f.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP81 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/81/gThKOyka4KJ0BScA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP82 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/82/0DA3xHvL9sWPIvUD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP83 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/83/7ltzZ5tEKSIl2SWz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP84 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/84/R-YZyXY2ulT0FWCo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fe3ccb27b66945ae83560a83a0eece3c-1777027303133.png" group-title="👰🏻Masked Hearts👰🏻",👰🏻Masked Hearts EP85 [18:50:45 WIB]👰🏻
-https://static.dramellatv.com/videos/1118/720/85/EZwp9i-TCtPTPTKV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP1 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/1/mQ3SN9yn1c6hGHxH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP2 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/2/5oJ3AReqKcijL6uj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP3 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/3/PCkrU_Ouda2a2teL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP4 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/4/rpeRNBDfXAvu_7VE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP5 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/5/Vobq32iZT5vAh82o.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP6 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/6/MZFlyDeLiTnuNxJ5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP7 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/7/76wK8NuRZJVscgCP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP8 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/8/HLxpiDM8sj7wgJ8q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP9 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/9/j-PZtETAiy3OoGTV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP10 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/10/IcbSkA82dDIfJyYR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP11 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/11/Ni5ajqzs9W9d0R-X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP12 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/12/3ZuIy-M9kwPkJ9ji.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP13 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/13/lo7n3_OrLQim_f5v.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP14 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/14/9eUHfGAdKXl46Ue2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP15 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/15/vzQW_Wt3870rrNRO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP16 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/16/kFPhnnyvwD064MYG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP17 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/17/fItl14sMvUT9-dIb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP18 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/18/zPdjr2ol2m_juLzI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP19 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/19/ARt05YtWhQj_YyO5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP20 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/20/CukdmamHi4mMqOma.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP21 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/21/T5kgRfbHT2Wm6NU8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP22 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/22/aQ-wNruyHaXMkbWD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP23 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/23/QbY0ACbZ4kYFwM3F.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP24 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/24/r1KqQ9MuvGBHxylX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP25 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/25/lMSoVS7J4aEoh08D.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP26 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/26/hqI9BWeU0qLcti6y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP27 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/27/1Q37YRT_QrQHMEvV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP28 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/28/JO76GQbRErN3yxci.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP29 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/29/73pKxMmrQp8Wx4lS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP30 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/30/oyFeyjBuNkjuWdbb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP31 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/31/c6zou_9NTjOF2fow.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP32 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/32/sbJVVQnTSCErMUH6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP33 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/33/5ZEXE2zs0l17UOKC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP34 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/34/TEMXbXGbgTpyAFSH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP35 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/35/VfLk1SIon4xsn7QC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP36 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/36/nuRFQ_r_SeVDGyAB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP37 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/37/roEL8rgOKKZ6Iygk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP38 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/38/6dRFA8TtoOdE8iab.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP39 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/39/LlbH9WyjH1C70OfK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP40 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/40/W5somgf12mK-sfs7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP41 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/41/p9b9I3sM6VncgwW7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP42 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/42/bZZWgawDKvP9Cve3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP43 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/43/7qkWVpQDYsJObRUk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP44 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/44/gpZry75vaYX9tyKi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP45 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/45/qjE8kZOnRG2LE92s.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP46 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/46/ZIInExi_KlfW46Cx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP47 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/47/vWiyW1VJUFDyPHnF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP48 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/48/gAf13gluY0YmvstO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP49 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/49/FQkvjMBx84M3Z6DO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP50 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/50/6H5663fIW07_5cy-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP51 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/51/Bh_IGywxn3w0ry9q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP52 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/52/bH3anDQg6-sVprp6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP53 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/53/gFu7GCYG1n0yy-YK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP54 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/54/ZagMRd150S7N7XJo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP55 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/55/8-Q5zvpMLMyDKPB9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP56 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/56/yDQO8u2iYJR1Gpd-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP57 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/57/tns_y2g_dFv0SeFb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP58 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/58/rYb8BTAQSzjjGcUk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP59 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/59/0Alhyj_vVqnScr-g.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/68adf08033fa43cc8008990ec32a6677-1777027289263.png" group-title="👰🏻Love After Marriage👰🏻",👰🏻Love After Marriage EP60 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1119/720/60/LUydXjkUv57RG71b.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP1 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/1/DmzVgUdAm85Q5gW2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP2 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/2/sSE5k6xaT8KnHjsE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP3 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/3/VU0kClY9lUgw3ljC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP4 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/4/WXRi0uGao-9tmvDX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP5 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/5/lrmuqzMeAcaeF0tA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP6 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/6/vqi1HkkW0oSWyJWE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP7 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/7/BrxeJCEfZMP6rGxY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP8 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/8/yV0xirLOhleMQpW_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP9 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/9/lzz66JqJThAyU-ae.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP10 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/10/sd0dIQomymtTSWcf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP11 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/11/KZHXgFh_tGNx2ygz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP12 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/12/VrdQC87q4WW013hX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP13 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/13/DBKanSKtZ8z9BPHi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP14 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/14/bWgQpSNEXxoXQkNj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP15 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/15/gXExQNZBVy2mCtdT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP16 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/16/xU5o-N97Uz3DX_Ne.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP17 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/17/xs-qzGn759LMPTgh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP18 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/18/FeFqUPNY-8yyMhWK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP19 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/19/AAUfa88-iXEWeqIs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP20 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/20/_bUV737p6VBzwm-n.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP21 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/21/MWHYSs_pD3Baynej.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP22 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/22/H1rBZojYB-wwSYHJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP23 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/23/IyqPtiiUW621zQen.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP24 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/24/cqgw6MkJZMU_xt4P.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP25 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/25/IdFut_AJVjXFONSy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP26 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/26/Z3I3bw8MaX2QC2gC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP27 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/27/U8Myu9XURjLegkk-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP28 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/28/JVnTKwr_wIJiQpNt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP29 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/29/WHYB8DXo8U-e0H1t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP30 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/30/erAImhmH06Hj7KV-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP31 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/31/LUY4vHMhNAD-_B4W.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP32 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/32/tMxAzxpzLKenWaF_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP33 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/33/DxMB1Zp4rM4aCVc7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP34 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/34/NsZd92YOuX8J9w5P.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP35 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/35/dhXmO6HreSRmmnoU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP36 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/36/zI-UVUZ6TcCYU1W0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP37 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/37/3FLcY-SKGtnIaCJU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP38 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/38/05O01dEGleZ-xhvQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP39 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/39/fnwHR-L4PXbNeg1h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP40 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/40/-r4daHBSbFsoaQ_N.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP41 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/41/ILMwoWdl0jL3i4J_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP42 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/42/Au6gw5Kg9WTyb1bb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP43 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/43/Cqf93jqUP9olHCqd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP44 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/44/hSodVRbLkZh4jhRq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP45 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/45/V4ws0MrD9bzUG4gm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP46 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/46/JTETPJa4oRk6Ls_v.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP47 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/47/artw8u0YUE7HjqzZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP48 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/48/YN7_xG4t-llMAfyZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP49 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/49/GcUHDGzoNPBx5Jf0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP50 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/50/xB7m5dIWdwBYUeTj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP51 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/51/Y3joEOIVdYO4rjbk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP52 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/52/_a-BV34THL5FNf6t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP53 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/53/t8e3dIpHieYYKJhi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP54 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/54/gJUmXFhrmHunB4cc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP55 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/55/iWkluZZjy7Mps8Mi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP56 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/56/RBEFp0nVcMjgV6a9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP57 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/57/O5NiUyQMzrLZ4zQD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP58 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/58/zVpSOc1mSqU7qOG7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP59 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/59/B3pjGpi1zBYq9L7e.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP60 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/60/BVVoSy2g6TQBPEUN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP61 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/61/yjEuCaLjpecdJps0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP62 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/62/qbvhmCMd_a1WdOc8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP63 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/63/eZOWN7rAznJsszJV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP64 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/64/uvkdWng_veCvdwH5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP65 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/65/2h3YPQ8GilFhti97.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP66 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/66/bgC6z-yZa6HtXEfx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP67 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/67/w-DRigXChhwjPVeb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP68 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/68/bFWnXtOTBSvP-CzG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP69 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/69/rKmDBN7NKiMiC8Z5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP70 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/70/US_yFbqM-QhkLflH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP71 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/71/7KuwAl1m0gFwKqYw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP72 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/72/SYgX-m4qmrrIO76H.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP73 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/73/-dMGXpmyXalj4P_I.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP74 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/74/jkQv26fiCHJk1A3L.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP75 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/75/owDOlr4_Til9PEuS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP76 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/76/uDGFEl_huYYHBqOT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP77 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/77/8PTdg-xcqYqKDHcX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP78 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/78/_MST9PxlnkP9ksxp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP79 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/79/keQqDydwdDzb9CQ0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP80 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/80/exMOz9zx8sylzSp4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP81 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/81/7ThcpnghTQvqtd7I.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP82 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/82/sZBpiJY_KdM_EDMM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP83 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/83/xinI0wIGomXPomRY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP84 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/84/1eo9tEmmvlhRb7A2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP85 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/85/0NjglEkOR0is6FDP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP86 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/86/mMYdwzmJTCstjz1m.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP87 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/87/GAXRZHvcoOa0KKYD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP88 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/88/ym5vTlvXRZpSOt08.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP89 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/89/YBmbI1ZUQKxIGzxo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b5b00cc95fbf4a4dbea74241b0c3e8d3-1777027277446.png" group-title="👰🏻Substitude Bride👰🏻",👰🏻Substitude Bride EP90 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1120/720/90/Jx_p_FRpvr7tabz1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP1 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/1/HHFkEtr36nyiWVBG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP2 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/2/ikBtfhpLCIyfHwwG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP3 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/3/OHsqSyKEJfjfJcey.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP4 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/4/oyowkUiMh9pN--Bx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP5 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/5/HVDRNtBCgA2doOB_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP6 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/6/PdWjAgNvJjcrIO0q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP7 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/7/SiDFUVUQbEJYAOcn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP8 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/8/ATbUstzMRdAJQeCH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP9 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/9/zVI77j95qnNKUtNC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP10 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/10/hobPqP0O3BqjMyYT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP11 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/11/3_rEMcoM6iQkTTpj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP12 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/12/twnoTYxA9UTMeTKX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP13 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/13/SCDv5jBiBZYm0W9k.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP14 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/14/2wb9ETf5UIF_QlWM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP15 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/15/ONsnqbYe-opc6F9Q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP16 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/16/tSKjBbkP2bFnnT8d.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP17 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/17/FIKJLlK-hy2JcXlW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP18 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/18/VNv5h5m2BpItUDbO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP19 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/19/BKLZWWkd4Ph1RKX-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP20 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/20/fe49lejqq5Dqh0W3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP21 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/21/XBNBKL7tW_UQa2Ip.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP22 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/22/AGkuOljOsIs_ubV0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP23 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/23/nholNATcfEZHImai.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP24 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/24/CJEcxRXkeryQRlJ_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP25 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/25/e1c8NL6WRogT1MqT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP26 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/26/ssN4eD5fEQisC_k1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP27 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/27/P9ONwZS4gaEvQKR4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP28 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/28/m8mrYJREVXo1L9Sy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP29 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/29/Hz897DJsHAwJfXFC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP30 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/30/UNCRtaYw0mbb6WJV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP31 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/31/uvdnbiAk7-3U_YK8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP32 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/32/JLoMxBkwWsFQ5Ho4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP33 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/33/Nn-NaW2dgH_3AWJM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP34 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/34/EN4g2wP78t5p1cPf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP35 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/35/vBBXA7t9sl4r492I.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP36 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/36/L6h-ediYcU2WCKWW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP37 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/37/qrm36Nw4BEGy4kkc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP38 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/38/VimpPV2tapakYWib.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP39 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/39/RqG8GY7FntJhwtMK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP40 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/40/3SYNqnMPzWUlk1vu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP41 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/41/de7i-mGZwVMWVEqL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP42 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/42/mhyH9Zz1xD4U1Hu8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP43 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/43/1HUdGYTwGXQFV02X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP44 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/44/pVCOgS1YWzY-1lml.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP45 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/45/CHqlsxzeOqCc3Kxu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP46 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/46/Cp-4UD1vMRl0XrYV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP47 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/47/U3OvNAj2sVCWhhQA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP48 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/48/T7Z1QSQ3BD3OyP_I.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP49 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/49/A7ptJmcGdoBcWg1s.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP50 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/50/UrRueqRm2Tck_MR0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP51 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/51/evKR6uHLd0BaxGBk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP52 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/52/A3IwcHTPRZKP1d6l.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP53 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/53/tZhpnSDLo_b5tDwd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP54 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/54/1gbGbtGQ__psGRP_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP55 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/55/1wO0v_I0ueaOx9UR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP56 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/56/VYK8vREg4gVvR2dR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP57 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/57/nmSBkMkIIzRV-Vol.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP58 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/58/Hjhiv0kYmrJmVpKz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP59 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/59/YsIKOhivsSREUwT9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP60 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/60/dnRF9Jgvlb7Yn_M5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP61 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/61/_8gzqVpfOjMEB9Am.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP62 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/62/0q673vMDYTaXngvJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP63 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/63/lLK9jk_mH6vn2_xx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP64 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/64/0tuKNsrXhUd8bJVp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP65 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/65/1U7VLB47ecWL2fng.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP66 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/66/TDqt8ng-MqitDEJm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP67 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/67/Pp9CPMUv1PliaxVH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/acd91ba5c3c441d8a132523bd7e42112-1777027263992.jpg" group-title="👰🏻What Am I to You?👰🏻",👰🏻What Am I to You? EP68 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1124/720/68/IYRTDD0PVxtWAlcB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP1 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/1/bkSQNHe4IBazxOhN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP2 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/2/-tAoNGToNKuzaafd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP3 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/3/YAZ3dpCRzXjIG-bB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP4 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/4/dZtHAL14MBU3ZHDX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP5 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/5/q5ywbl4Y6wyoCQl_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP6 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/6/WjGG_t-u31Wk9-23.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP7 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/7/cHNs6JCJxMEjNo6X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP8 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/8/iaew1WwR9DIHDVyX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP9 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/9/PhyWrHMGMZanLFcX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP10 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/10/2s1xssFeMI27D_c2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP11 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/11/pIu5OEsuEBliQzJV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP12 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/12/zFCJekBPSA5Y5I-s.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP13 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/13/rshHaXmAIpEysJWt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP14 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/14/cA2zhqXoneMjbecQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP15 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/15/Jo_wTv6KzZ3voUKS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP16 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/16/U3PD8lPbv7yxX8kU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP17 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/17/K5OXcy2nOHTr2kCO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP18 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/18/TkNbY6JavLRYwKo9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP19 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/19/Ggf4rJPwtRWKoOfu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP20 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/20/P6QwTP3ff5B2KfLN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP21 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/21/3RFyF_SxfuyOrvLA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP22 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/22/hb8EC6dnQ7wZet3I.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP23 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/23/Co5rHRCdQHyX10GG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP24 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/24/f4Y6kf_YLPyg7PG_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP25 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/25/Nm5oPE09hKfYD_KP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP26 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/26/cGaxyYUqKz2zzBOc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP27 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/27/Uqjk1yVWI-jisWOE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP28 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/28/EDhg25coPzp2hdlL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP29 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/29/eUsZocmjepfk4kor.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP30 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/30/_VZNkzhMlX_Tk-1X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP31 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/31/tIXkV2ZIUHpCkYf2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP32 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/32/W1o5iUNGW4KdbMRe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP33 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/33/vTiuELZJpROATvNK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP34 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/34/54Q4kZTGLqL96RkR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP35 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/35/hfw6bU8E7KbeZQGY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP36 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/36/WEokS2AYyNr1-Pi0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP37 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/37/g-_Ejsa-avkpihMa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP38 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/38/7tMH_O4_KqhQnMih.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP39 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/39/TlsNejj4nRRy1XCZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP40 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/40/s8RqXMZk1unY0gCS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP41 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/41/2pU5Gid16ohfYLHp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP42 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/42/0h6ycwsaF90GQ5j-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP43 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/43/V43hne1EqHAHT9A_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP44 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/44/1wZ7K2EQrV0SvTiG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP45 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/45/OO3flLqg-6wfe_yl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP46 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/46/WOjo_VjF4SGFfk63.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP47 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/47/cEtyvETSYYrb7a2m.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP48 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/48/7xYF_KtRU56TkD5h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP49 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/49/sGmbHnWUvrAaL53N.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP50 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/50/JEXZCstdMYroBq4k.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP51 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/51/ozdRih76RJXyKenD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP52 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/52/gFLzfBSvW-ZZsXlI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP53 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/53/kPWWeugiYZ1y4ado.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP54 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/54/gPoFfGGMRfbYemYx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP55 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/55/AbxGvDwkpFSOCCGy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP56 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/56/IMNQduv07Ca8MBAY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP57 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/57/nPT7yHi-9VlTS-ty.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP58 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/58/uTZ69C6hW9-CpEyV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP59 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/59/vbQXOcTVHj44PHBN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP60 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/60/n8nI9hQ8oX3PFhIZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP61 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/61/RctHxOZ2ZSN3YSQB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP62 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/62/fTO_FKyjio-twNBn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP63 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/63/-U2dhlUu3-poqDRv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP64 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/64/Bz0uEjoBFiM2HM4Q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP65 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/65/1mxbZs_HiWgbb45z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP66 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/66/zTsGH72ozIkxiufJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP67 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/67/-fYn5jbzutupmeOw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP68 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/68/uRIVuROaIHR0vQpa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP69 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/69/lARroxm1k_NW18sW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP70 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/70/0i8_YQMsZHVUfWWK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP71 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/71/BH7zmOiKU2DPhEKU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP72 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/72/vcqZ7YRpePXWfJLK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP73 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/73/RsxZc5VmKkXbOFzh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP74 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/74/WgbkHbWomQT76uZd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP75 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/75/Z3X3CXNhNHi_W6vU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP76 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/76/lI7LNIHZTfyFQhUh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP77 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/77/b3Jzg3w8vvmdRNU0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP78 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/78/e33VYE7aCu8pX48X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP79 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/79/Ay0IPsDUMRYzrHHw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP80 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/80/Y2i2z7-rf0mlBZ1k.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP81 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/81/zj8q4DYH3hU8LM93.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP82 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/82/1nw4yBEhBhP7hzSL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP83 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/83/har_2sN7OOCCgXfP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP84 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/84/aNKH7rDExcOrfwxG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP85 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/85/q9fdx8co11NAK4--.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP86 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/86/bIAK1cGiEH7r4MYq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP87 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/87/ibf_CQwre0rFyzgH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP88 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/88/fBWSlhrihoU6AtFH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/aaf3476e5f6044cb8199326e05a98790-1777027253575.png" group-title="👰🏻The One Who Got Away👰🏻",👰🏻The One Who Got Away EP89 [18:50:46 WIB]👰🏻
-https://static.dramellatv.com/videos/1127/720/89/tj_xNrApEx88i00B.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP1 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/1/sCdeuYjJR2qV1FuL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP2 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/2/JgJclNBE9yNEI1dg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP3 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/3/JEF4ujuxglMzmXj3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP4 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/4/6rkxH4E3NhFD8u99.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP5 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/5/tFiTyT4j6XOpdzxD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP6 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/6/DzEWwhjU0bygnduk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP7 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/7/Jw6fvyrxEJKY2qXy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP8 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/8/2K6hjJL1PKSAnE7T.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP9 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/9/a3z4dg8-AkwRregq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP10 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/10/_oKJFReGavdt-ENF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP11 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/11/uuHNDzxBCfFOCF6f.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP12 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/12/e2D6kan3Y52AHYa0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP13 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/13/UMaeE4EJdueZQA_o.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP14 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/14/uFbVAheDifL5Uy5T.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP15 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/15/j-2BMlScJ_0qZbwt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP16 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/16/SrKuGEPrLhgKpFRx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP17 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/17/eIfdAA0Gxx65hjT1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP18 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/18/yArXRZ6ye0oQe7B7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP19 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/19/InVNuPpmZ1I4d_T4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP20 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/20/7OMj8xf67uV31Q3O.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP21 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/21/OjBKuV2RyZZZAl2Q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP22 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/22/k4WjcghPQcNQPkz2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP23 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/23/mLNHZGfX5QXD0E-o.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP24 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/24/dH_kSHyRQ_LmyROh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP25 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/25/PSmq4APlqr9f49Vb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP26 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/26/FrfEcJYen9HWbaEK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP27 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/27/VoJMhXpzfcS7SsyZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP28 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/28/CDFoypbWp5dYH5N2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP29 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/29/uIwHOb8ALJrY-Ob5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP30 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/30/FDZvO0LmBNXBoigP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP31 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/31/ZyBkXP6S66tmLVso.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP32 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/32/3lfs-gcZf9s8p4wO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP33 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/33/FhPKBkViJ0GiDXMV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP34 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/34/eP5nkM1nOZBjyWFV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP35 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/35/fALVzGU-ANWVzIqI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP36 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/36/d8mOAF5DpIbBl9qF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP37 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/37/3UfEXpNUwPcWK4tL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP38 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/38/N8wORpF07D9leVnu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP39 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/39/yHfHIf97jI2MfnIJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP40 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/40/6u0LXmt9VScfLU9A.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP41 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/41/z1-8i0svu8us9Zit.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP42 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/42/KrnLdz8h-PoV_mo9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP43 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/43/oVppY_fvxswatvRx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP44 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/44/H-ilDm0fqHEzTXpx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP45 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/45/y7BqKw8WCWWVUaPu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP46 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/46/N5NZDkiA0oy5WOzG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP47 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/47/vw1oEthHJ4YJjWCs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP48 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/48/21JG-WCiu5FFui1A.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP49 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/49/J-EGNozAQclvkSdF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP50 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/50/DbMQoINmklfLvqoX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP51 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/51/xaJq4-TmhYkpsPrK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP52 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/52/Fy3e8Uk347N9szRE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP53 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/53/5kgk-ucBuCrT_auR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP54 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/54/yx3wgqoiyszaun-p.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP55 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/55/8TmNPr04wXPmFwQz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP56 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/56/Trz6_6lf6W0LPw4G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP57 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/57/pgkNnLgMEvTtL72Q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP58 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/58/8LsqJW9l9UnoG-r3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP59 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/59/xmThctBAL7NRVtPF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP60 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/60/ZxuJUDZFNWtrQMRw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP61 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/61/2gUaavRqSVCYAcBr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP62 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/62/vN6_2mx-1flEOUji.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP63 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/63/vhXCJ-gwYYDPBC2n.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP64 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/64/lFcalAVK_qbgFDYz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP65 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/65/jK88BWbEgmysCC4j.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP66 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/66/MSK-u2d83b4Fw013.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP67 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/67/_uMk4pk_zidtAa8O.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP68 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/68/9C5_ij6cZC1Wt6Ve.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP69 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/69/4WGUbRrS1WTDRSym.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9098ca871d22494ea2299a131c99633d-1777027242390.png" group-title="👰🏻Three Mini Cupids👰🏻",👰🏻Three Mini Cupids EP70 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1131/720/70/MbkQ5k14MzoWty9L.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP1 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/1/ZP8FNGWhMnVd5JEu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP2 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/2/5U0l8Im_nPrch1IL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP3 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/3/S1XPvwtP-KwNdCGG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP4 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/4/skL71RQML9_L9UUo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP5 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/5/_Tpn7bYPKEzqs7X4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP6 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/6/1lTVCuONpWrYjs2m.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP7 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/7/biDSX5p3JAomxiNS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP8 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/8/n3VHVbgWyF1ldwsQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP9 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/9/KjpkTjq3fxzfYyYY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP10 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/10/rMGb6tFm2ydjsKnN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP11 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/11/7mgYEdHRt2uzB7HZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP12 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/12/z-f-vvHAVloMhfg8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP13 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/13/PMVVzsa-8b3KYWWK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP14 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/14/-YFylD4H8zLVVdHY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP15 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/15/Fb7wG906Vsp64GwP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP16 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/16/9NqbYzrTxEcci093.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP17 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/17/8s5u2jHKaAs-J-zw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP18 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/18/Vu0DWJK9Y0NqhngK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP19 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/19/Hnb9KmzUgHwDjQvs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP20 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/20/v8DB3lnNwmByg5on.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP21 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/21/G3Sb6Y_g5SL64KBx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP22 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/22/D76H7P0Wr1zo5ImB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP23 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/23/sGC1y8MmHcK77qNb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP24 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/24/zSIo-MHccEEK-8N-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP25 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/25/XWkUreyLx-da_m6a.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP26 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/26/L4-aupd84OLO6r5w.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP27 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/27/HTXfTc5JVZ_kGIJg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP28 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/28/x2KeMJgspfpRLyLy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP29 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/29/QRbVyZeV6hejyw3p.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP30 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/30/i0k0OV7Fps51X-UQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP31 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/31/AQ--ctwKZ213WUVa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP32 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/32/esgSn3bJUHA1hYVN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP33 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/33/KvAk3VqyniVombhF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP34 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/34/yjZQD-dd-T2CsFM2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP35 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/35/4ItbOf4A_wd6YY-_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP36 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/36/Y1yh_WgmHrkKCbaK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP37 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/37/VixCXXLyipij-92-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP38 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/38/F4JY0Nix2tDpbLTh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP39 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/39/aWBkeQS8UZF2tk7S.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP40 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/40/aXMqVb2rGKjngkGX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP41 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/41/qkUzeiXSI64NBz6e.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP42 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/42/8j3xZkSJjc0UF3Hy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP43 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/43/RmY5pvJpAt2fb-XC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP44 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/44/nudwT1k1o7-CjdvK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP45 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/45/NXTkQecc02XFJctE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP46 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/46/YK-yIlJR7pSDD7PF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP47 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/47/5pDgcdPQLywg9rY8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP48 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/48/8Le1VadMxdUZEJws.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP49 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/49/U384gJg0GVL0czGZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP50 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/50/YPFCHwbkNyVxhkgU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP51 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/51/S0vmRGy6SxKanYhB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP52 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/52/RFlltr9o85IR7X0D.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP53 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/53/EQuegLr28F77-nr4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP54 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/54/xsBF-4x504WAWpl1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP55 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/55/9Hc-bU1bC_kL7517.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP56 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/56/AI9Dt_9zca8KGuiV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP57 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/57/kg-kKDKu0_gtfhKS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP58 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/58/e5gfT58qxluk5EAJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP59 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/59/fX0C_utx5bETADKl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d22c0bd55984edabb7a02b1f95e8e23-1777027231084.png" group-title="👰🏻Mukbang & Marriage👰🏻",👰🏻Mukbang & Marriage EP60 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1132/720/60/iowz3QWB0guCC5Ei.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP1 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/1/fFccEatyw3B4isTe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP2 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/2/SVXE1SWU_kvlvuoq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP3 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/3/XQ7pTM0n3_H2H2Fs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP4 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/4/kvWc1fl7lq-frq3n.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP5 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/5/WzdutsYsEpVkwUz8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP6 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/6/1gHx_W_Q4gOEB2lR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP7 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/7/C-1kf0RRWLwiiJEM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP8 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/8/9ujSTiKCmeQX0r2w.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP9 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/9/oD-FuXzwrQ6QwYGB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP10 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/10/sQbxFLZWcVYQrfcq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP11 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/11/a53_WsuHe7CxfKGF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP12 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/12/qLvT84brJvjkZHXa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP13 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/13/9-teWKuH3Phdozie.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP14 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/14/DdLcHoqHgOfJpIqv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP15 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/15/tOgOrRKGcZTA9B_e.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP16 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/16/ESp6O9m_II4_bU_e.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP17 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/17/E4eT8kaK2vyg3Tz4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP18 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/18/9g8V9BuRnd_Nv9Q1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP19 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/19/QscowIFHgimhaPhj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP20 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/20/TLIa1PTv49EG0_pB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP21 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/21/9IgeM6K53qH4mBEw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP22 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/22/YV0FRebYVGiRvg3m.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP23 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/23/t95oao7J1Kgg9ZO3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP24 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/24/hUByYP1D8wYBsgoq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP25 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/25/EJ95BHMG6Jg8PbGP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP26 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/26/t6xPdpe3tL09ng6R.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP27 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/27/MlXQF9ddhnq8WoWE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP28 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/28/bSlX0qXO_IHwZNUn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP29 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/29/zLceueAxRePOFZve.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP30 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/30/1eci8fQpjRsDSocf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP31 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/31/bHK88p_kpMkB243o.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP32 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/32/22DlgdREpmWQLrXv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP33 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/33/H8KVv5P8BEebq8e7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP34 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/34/L0ys71bHbikTJ6ea.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP35 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/35/_s5qXojI5E8W-Jvb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP36 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/36/3kgyA1rcqFhUE6Mh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP37 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/37/t-Q4LjDQVGu7mAZl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP38 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/38/WNH-6yRcsrcT7ExM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP39 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/39/0rh3hgteFZEdoRrI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP40 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/40/X0QT_JzM7_RDp_2c.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP41 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/41/nQnbjJQft-LctZvm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP42 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/42/kynP5kifbHwpsw98.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP43 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/43/Vk1mY9axZ9QXqP0O.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP44 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/44/BRSrwdakZSQ8Df5K.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP45 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/45/mz6Qi0D3Rd6gaL61.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP46 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/46/llp-pNSrXWGZgWAe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP47 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/47/Sy4EsTafzxE_NPPi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP48 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/48/lcFK9vuq6aEpFOf7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP49 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/49/lMWJ4JaLSnihrlr6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP50 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/50/yrJNDRVQqTu6dR0e.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP51 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/51/7zNJJkMNb5IvF2Wn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP52 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/52/XhdqbAtOGJdBDP-R.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP53 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/53/fhWefjjzZ97DTcig.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP54 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/54/Tz7D9bd3WIfDZXqI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP55 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/55/tqDTKqRIDGphonPC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP56 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/56/RFygIPvOqCDYFzZj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP57 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/57/piYI5u6B2XFvhDkA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP58 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/58/ogii73iOPlRqGHWC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP59 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/59/JhW6N-XhTXtTdo9h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP60 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/60/ZRNGqx_vmrkCRRhs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP61 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/61/UhHHU05fxBc7k7gB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP62 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/62/18kYVJ39jSXAf5jz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP63 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/63/9fC4XDS2ZT1lE9v5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP64 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/64/-gzis0xtCTQpipIe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP65 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/65/HwTZQsoWFiiH53i3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP66 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/66/xmZmHUaIXH4DWtqB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP67 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/67/A7h-S_feLLd5P6EY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP68 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/68/Lq4aUWvgBtodkECq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP69 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/69/FeKpAnCShLx6VveG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP70 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/70/He4cvvq9xvCoNXcl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP71 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/71/3LWAJ9Vn-YA01C7a.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP72 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/72/mwZU8otIUgvHyi2W.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP73 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/73/J1sCeAkMRIzBZMpA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP74 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/74/T8Vs1h3gvd3FB4yY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP75 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/75/P0hZ0mVGUjfymW-A.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP76 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/76/8TR-400U4LgSVIrt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP77 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/77/O74Smf0oMYcNhDbg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP78 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/78/qV9su5iqEEiq4mkc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP79 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/79/aSwljpGiEEEt3wpP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP80 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/80/OMiGWyqp8VCewxHD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP81 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/81/vYF7s-iDV2QGXx7Q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d99280ad591947bf8ead45bed2f97792-1777027222763.png" group-title="👰🏻Retribution and Redemption👰🏻",👰🏻Retribution and Redemption EP82 [18:50:47 WIB]👰🏻
-https://static.dramellatv.com/videos/1133/720/82/ht2lfJhTndgcb9jN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP1 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/1/Q9MYkXC884a0usi3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP2 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/2/sROTRIRH3qa03mOt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP3 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/3/S8TaJ-msBWlnsd2w.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP4 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/4/7FIC2cj7zOMLLTxD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP5 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/5/jJcW4SxJoTVZIuIC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP6 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/6/HQ20FbMu5pS3j_GA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP7 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/7/DXi0LDjtWs3MAv_F.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP8 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/8/7lvQoj3BUTsxKqzZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP9 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/9/O9yhUJ_WATlmMA6x.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP10 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/10/C3FWYmUMuGu_mNRX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP11 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/11/31FcBE5gPQ_Rp4dd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP12 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/12/Q8xioJvlq8bQ0IKl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP13 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/13/u62njjG_7kWzDWxa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP14 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/14/Yx55efSKfzSg0SUs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP15 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/15/p4nusFFst6yxXjq5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP16 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/16/8dJWH6vT0ablphy_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP17 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/17/5sHMfTBd2ratlyEQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP18 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/18/AUHhNz9yPhiqQWia.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP19 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/19/7S__Oq0wJF-zFw2F.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP20 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/20/sC_evcstTaYEVxnq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP21 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/21/zNtP4yHV4H7xkSJS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP22 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/22/hzWs5pwtbut-_gpD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP23 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/23/R6FNECAB0t2jy1sq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP24 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/24/yc8z7PRHmCuGhCJJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP25 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/25/AREKUHy0e57yBRHO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP26 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/26/qt0AN5tlrIuXAD0Z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP27 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/27/cfiYmhrrckwpVbEW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP28 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/28/TmsFOEizPOODrYMt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP29 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/29/twduYObkLbsXrLCB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP30 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/30/ykALxyjczZuVtBe5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP31 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/31/MNfGFfhY3dwhOlRB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP32 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/32/93py39VnuTENsdRZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP33 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/33/e3M_uvdGfN_Kvag_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP34 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/34/ELNzr8Q_kQ2WdIY0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP35 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/35/cqmr6YH0rNNMJ9r5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP36 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/36/IiLbvCgcjmecwIgx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP37 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/37/WuYKNwOlKjDK_Dmq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP38 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/38/8o8DUJ1N5iywLsyz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP39 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/39/4Rp5tjgzM68p5Xkp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP40 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/40/OvhiktjvdtOme7E4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP41 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/41/4-T7o-GBCjW0-lRL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP42 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/42/Rp2uuEX5j7AL9hRT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP43 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/43/ppeRMllu2k4alqqI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP44 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/44/rx2VpNkzHD0agMPC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP45 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/45/aYq2yF6AlkehAXHd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP46 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/46/mO21pWzRPAP9xEOf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP47 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/47/AWklYRN6NMcxKra5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP48 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/48/zw75zg5rYsLBkB2F.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP49 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/49/xp2CxIrLYwJKGJPl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP50 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/50/iKobswwk9JT62OrV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP51 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/51/3cCO9X9BhXzGqJqS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP52 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/52/A3JFNENsRurS1MiE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP53 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/53/cNOrHtZChCxEuUrp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP54 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/54/wApExKTRXQQKQfX7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP55 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/55/3ZiTO8BY9uy90YhR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP56 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/56/bnDADnb5fRMacDzj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP57 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/57/59fQCwNxZ_2RIT7m.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP58 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/58/CUEU_XF-Ojfqolew.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP59 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/59/DLITKP0xPXbatQfP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/78e276d8e3924f57aa75b1ad89d26a5a-1777027209925.png" group-title="👰🏻The Stolen Acceptance Letter👰🏻",👰🏻The Stolen Acceptance Letter EP60 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1140/720/60/rxDMGG3_3u7BxpHW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP1 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/1/UPzx9UfWEpytYKM2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP2 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/2/cHkUjCbtNFD_w86y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP3 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/3/KeSMEN71NTCGUNTO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP4 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/4/o-25eOw9mc-B6PGf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP5 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/5/8BLmv5lBQQ6_QRxN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP6 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/6/YXi3Mx2zBrcokA3e.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP7 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/7/p9ibpkKg-jHHHvC8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP8 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/8/PZVRtZN48zxxPnpO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP9 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/9/N7PoJO-PCZYcN-2l.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP10 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/10/F9d16XaWh1LnYp4m.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP11 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/11/S5SCKdmLwK3fZD2N.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP12 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/12/iAMcwRxLdY0l_37A.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP13 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/13/WTJwo4PlnvGIj9Kk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP14 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/14/-IQKbfPhNgMbC9Rd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP15 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/15/1gAc1SJaU3vBzs2D.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP16 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/16/LuKxpO7MKJTzC8Ek.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP17 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/17/LPqiaZmPzDGoCUxQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP18 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/18/eLFJRA8d2cvbaZLG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP19 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/19/FHQObtIGPD0OQ0S7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP20 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/20/VyrKI8e_ZCWMndx5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP21 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/21/Ka3m9B-fFo3Ywn_N.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP22 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/22/6_Xucgp31BguCOe7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP23 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/23/UbfgwTwPyx12pN7j.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP24 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/24/mHNlEaPuxnSMvcy3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP25 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/25/pG_h9n9v34_E7EFD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP26 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/26/dOAXn693zNRYSk3-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP27 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/27/s2_BX-VHTt4TKld0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP28 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/28/4v-ZpAzMiahndSBH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP29 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/29/-6i1FOBE9wMm7etI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP30 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/30/7CKaCx9Djejy-onP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP31 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/31/Fk21wjKH9-kubjF8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP32 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/32/23mXWsrpgBuPwqhD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP33 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/33/ubfhe9ypODVrFctk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP34 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/34/6yqv0BzKbUsub2Gx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP35 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/35/--JeiBDRSCC_Ylw-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP36 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/36/lKQz6lh-UiAWcn7v.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP37 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/37/jEoGdjLlZOizPNLw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP38 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/38/uspga_543FKpSdIb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP39 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/39/Gx3uJ812N9TVibkd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP40 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/40/idrwI7Uqp8QoVgL3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP41 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/41/guqfMnqoxmn6p7TQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP42 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/42/tplgbMBQzPLhICgL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP43 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/43/K6kC8lAUWX7PiLVk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP44 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/44/gqdyMqX-QaOgWyxd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP45 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/45/9cXK9uIsXEe5ih02.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP46 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/46/I2rWIlw2XLd9lX8F.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP47 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/47/mu6MnxQU3PhOoxFB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP48 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/48/cy3dHfN1dwFbsfHh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP49 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/49/RhzKDvfOY4IruHtK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP50 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/50/ExR9Fao3PVKuDHpH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP51 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/51/3A7ZzXls5LlUCsQY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP52 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/52/17SsUO_b0HorlJ-Y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP53 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/53/G-GO9vCUuYLwSGD9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP54 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/54/DyHNkAD5ZEea61R6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP55 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/55/iaKRzbExbLZo9eDs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP56 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/56/AGJf_NhhTqQHt0pR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP57 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/57/EFJ8PLawhuB-zXPW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP58 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/58/al0eJKIi5vZhHnVA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP59 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/59/bvGI3JamM7GVJZ4c.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP60 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/60/InLWLX_DF2bg8JAl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP61 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/61/gIKQVCXy02TBCgqE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP62 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/62/GCheVcTlnGa0flQE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d5ca6dc2e2fe4f58a40aa4b028572f7a-1777027198116.png" group-title="👰🏻Tying the Knot Again👰🏻",👰🏻Tying the Knot Again EP63 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1141/720/63/LWMRyOd3Bq7_5KbX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP1 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/1/rHEtd4zpQkDGDdLH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP2 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/2/fXIOEgBlXURocD2t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP3 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/3/iojX8DGhyj38NWtI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP4 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/4/Y5s0qAfm3R1TLLuD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP5 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/5/-FlLSBKfBkcU025T.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP6 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/6/sXJepd6e6T-Dd84J.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP7 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/7/9eNfQO2g6UJI6drV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP8 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/8/ao8S6UwM0bUCIKdk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP9 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/9/QJz2UVUzyPj_c9c2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP10 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/10/dhICnbeXAEu6gPmT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP11 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/11/y10p2zNaOePXFa_z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP12 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/12/BOeDfs_1DHjn-6Gb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP13 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/13/XsMIXDtKZbpiLO20.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP14 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/14/yL0UuX4roz162sev.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP15 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/15/XVtPfYo7aLfRiJGl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP16 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/16/XP6FMLNBKibe0XRj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP17 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/17/6d4luKY9fBhhFv_4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP18 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/18/41Wd54TqUeU4uyLh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP19 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/19/a2a1Jw6J-SqKOyoW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP20 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/20/lucLuJEIGACRL2No.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP21 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/21/38Nj-n6pBMMjrsoD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP22 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/22/WrrKhlD5gIXR5H7D.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP23 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/23/9jO7MioZNShiS2M7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP24 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/24/uLoR14aQIRVCi3EY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP25 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/25/gtQraKbEgIB6ZO7-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP26 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/26/VebGaQvpRZ879So5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP27 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/27/q_V83JNmbyvdNZun.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP28 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/28/CQBd-gLUdJMeSKtG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP29 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/29/Pp-pKonpaqB-v2Wa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP30 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/30/8sX25lIxhGUAzGqI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP31 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/31/F__Fi9RPitgErUIX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP32 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/32/FFEL_igoz6fhp9fh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP33 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/33/Ajuf1uiPl_qSatjd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP34 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/34/Phq6ub1vdxR4nBOD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP35 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/35/I53cHBJQNxMrGYWK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP36 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/36/ZscYtii86JSunhMe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP37 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/37/y2o-I6_1_itLh01Y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP38 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/38/kdOjh7O7nSlDgGti.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP39 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/39/hSFyHmIl538c0JjE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP40 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/40/r8OwMLjwOpARoWwb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP41 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/41/rHr08zR2Ba9wk1Dr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP42 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/42/OoQ4U2QyVC4-wVKi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP43 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/43/l0O1X4m1cQTuQju3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP44 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/44/hJ3oXiPAvPQyVCfu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP45 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/45/OhXO0WhEZfoFE-KI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP46 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/46/C68CePy_oYAxkpAa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP47 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/47/Bht629lrXx10vhWI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP48 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/48/vpPsHUFOebZfUVJr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP49 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/49/qX4Ma7WHPgwyfv0d.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP50 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/50/TQQ34w_5Cy8H_gd4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP51 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/51/NbQTrlbbYhUf4Igz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP52 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/52/4PF88swDXBoJarE6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP53 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/53/cWNO6lAMbL5-ox2T.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP54 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/54/oF6odaztx0G8xxIS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP55 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/55/KpEKj03Pzk1Hs5du.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP56 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/56/ewDv9-NzdOIpgvIA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP57 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/57/Onjc37AzRV0Z2jKw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP58 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/58/chCVfC6bRacH7y4S.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP59 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/59/01c3rMUOXgNWnmpg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP60 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/60/4nm-CiIkqM8yWPsR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP61 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/61/PLzaJEP9pBaH7_wJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP62 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/62/v4jTtx7sUe84aSwy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP63 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/63/Y5G3gSFMRDoFa7xb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP64 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/64/_slCbDUXKxo1q_Sv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP65 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/65/0pCxx68CkOUa1cnX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP66 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/66/WX0fl8WZ-QoAUARG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP67 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/67/yOABUrHeLULsP45N.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP68 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/68/7kCBb3WDQDqCwUtp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/58624b6e65b346f389ce6f1fd099d41e-1777027188655.jpg" group-title="👰🏻Sorry Wrong Person👰🏻",👰🏻Sorry Wrong Person EP69 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1145/720/69/LHGIz-GcCK-Xrw8G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP1 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/1/6JzeCXUdtaSiaGbh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP2 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/2/wa_HeVYRZM_qeFNX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP3 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/3/AYXFmxUu6DJkeYzy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP4 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/4/ySD1E-I21nMqhOW5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP5 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/5/S4aP5jnZxhQEfIew.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP6 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/6/CxucEctPXPPxkdlh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP7 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/7/z8dChnC3WqT2k-pH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP8 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/8/_el0TTUr85aurDC5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP9 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/9/BwNbb3A1QKRtWV5K.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP10 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/10/q88n4gmYGngGzSE9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP11 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/11/HmoxrUJbmZ2WEBNd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP12 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/12/dtfzHb4z2MulwXYN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP13 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/13/H72c8TtrtSmDaVqH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP14 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/14/7ArWj2F-5YD9qjFQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP15 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/15/yP5YP-g7UWAzeEix.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP16 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/16/wgi1x8oC1Sacm-iV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP17 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/17/rBwDHLAUVzd0UKYQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP18 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/18/4GMLNzTzxEIkV7u3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP19 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/19/8e6e68KKOVrLNzZQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP20 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/20/AubXC1r8_5_NEOEX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP21 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/21/ZVMZVZhfYzUQwo8B.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP22 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/22/JW21LhsNh_RIfagn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP23 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/23/H0fkfM7ZLH8PNC0l.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP24 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/24/ERrzabcFGBSKvyb1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP25 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/25/3wX6sEJJbfB1UQoh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP26 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/26/7aBAt5GGkDYHBmaj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP27 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/27/OVymTHem2FvRm2Tk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP28 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/28/EAik_0c6BZaBHOIv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP29 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/29/ERopXGlaErxPu_rD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP30 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/30/9AEgYSNHT6O_Lkz-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP31 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/31/LazUznSaPClq6ys2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP32 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/32/cnJBROi7KmZUG-aM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP33 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/33/X9r7Uo0FconFbMBD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP34 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/34/o-fKF5o0GY34ClIh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP35 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/35/WPh7KXdD-S1NKdw6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP36 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/36/cNNhbgEBuHJjD704.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP37 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/37/T6KVvdMeRvPYGJ3y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP38 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/38/ERlsDB52XXEcbkuZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP39 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/39/6QQX0ogvajpcUgeh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP40 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/40/7jRrfdQIbSE4nKpc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP41 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/41/3umEkHR1BRGxe3qa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP42 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/42/s9Hq-oqM_7Jsqax0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP43 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/43/Nqf6DL8H4mhrQJ2R.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP44 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/44/BUSJwvpoeglJ2reP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP45 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/45/1qWmIEAhqrnxHImn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP46 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/46/9qYoLe7rl5tt-WyM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP47 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/47/vYCozYaUD92kPtRH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP48 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/48/bXh1mmyg6mbKAKnK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP49 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/49/3tUMOrk7aHVlXhRj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9a16ff2d20834213a38da0b73a7eb2df-1777027176839.png" group-title="👰🏻Daddy's Little Heiress👰🏻",👰🏻Daddy's Little Heiress EP50 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1148/720/50/6QzTH9VbsvX7BWWt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP1 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/1/p_QyUs5nn2O0tCt2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP2 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/2/nTk-cW6VXeU3Z1NB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP3 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/3/6B3lb-KN4i9h-XzV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP4 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/4/lz48qOrGxjMIFsQE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP5 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/5/guefZp2eFvRIvSAD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP6 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/6/Tyyhi3rrqG8Fth4E.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP7 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/7/Fe-TrdFJdk9lMoEF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP8 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/8/rvUaQPw3KkhKabyx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP9 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/9/p9mLJnIFJ3FvKjy8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP10 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/10/YdLSVtzINBTfcZ26.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP11 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/11/tkDlAmbK7zZfdkDi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP12 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/12/PXdbT3xyox9AK74Q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP13 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/13/eyMjA6rEbl0XHDrD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP14 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/14/coGz6FuLMT4ebAdJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP15 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/15/C40g1gYTtk4Xv9f4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP16 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/16/xN_zmNSu7gZJOskr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP17 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/17/JnnVH2kFxY6ZU83W.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP18 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/18/HJQIY7tDL0BZQdJl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP19 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/19/p_ODRN7aPGmKpC6B.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP20 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/20/E-O290XlwZ8i_3an.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP21 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/21/RITt2CQkUs0aF8vV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP22 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/22/I2eHM5GzR5vo3tGG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP23 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/23/CLWdCna0QwX_Bruk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP24 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/24/QLJ1U-7sNPl-EhSp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP25 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/25/IQrviV2yOwrHw1_1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP26 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/26/t0mxr0VYJOTBozhH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP27 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/27/FGrGyZ8Sm68ldjps.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP28 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/28/bQ_xriliaAFKy0Z9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP29 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/29/V7FUUKV9v_2rP07J.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP30 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/30/YsRQ1znIUIka34LU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP31 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/31/_Qk2SThGmSTdj75c.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP32 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/32/1OBr5xEzfunIkErf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP33 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/33/Moa_O5dWP7gneH-r.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP34 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/34/AxIoNMv0OZFdBxOE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP35 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/35/H3aMLyLFrvloke-G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP36 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/36/q-DhlqIH3j4G5ctn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP37 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/37/sIPQ1yaOQ1oJhQBq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP38 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/38/btDvBscmrDA-QFnZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP39 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/39/VSYId_afwgtg7Fqk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP40 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/40/Q8gnQ6MxrfnN5C86.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP41 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/41/fTftPW43gU2woHve.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP42 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/42/HYnn1WXAm166pZX-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP43 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/43/breFaK7xgFeUih7h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP44 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/44/WPzqOFWiuGU9xFr0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP45 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/45/QGkTeUSzfHSwOnpD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP46 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/46/6IKrr7asOz-mP53U.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP47 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/47/ThWvbs1Kvow7KGYc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP48 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/48/LgJEXJ5hsFYSDmxz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP49 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/49/Fru-Sm-2qZ2v2LA8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP50 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/50/6vIH-ONYwsGriQgr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP51 [18:50:48 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/51/TslaXpJp8H9sClDO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP52 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/52/53_hvpaaUwCsa6oE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP53 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/53/8iFuk7CJyxWWCs3x.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP54 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/54/iY0EDmRkHVSeRRns.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP55 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/55/URMACH0KnYF5clBR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP56 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/56/rBwdx7qoUKbIi1C5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP57 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/57/mwoHwkWkrYDfOTVI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP58 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/58/H5wk31DGBTn-PU9W.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP59 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/59/DJgJJ5MJMG-kyxVp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP60 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/60/_JraHCzDpO_7J8zj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP61 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/61/F4yV5cKiVzZebRpV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP62 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/62/N_gkc4Fa4NyKuZ8t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP63 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/63/2GoQuizcy5V-5deV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP64 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/64/9cK1_rTWidbuMxYG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP65 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/65/h33sQeiWK8gFG8Hy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP66 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/66/cKYQs6STWSIVc5gV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP67 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/67/XUlAheEQj3E95E1L.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP68 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/68/jJjjSPDyVFSqBmlp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP69 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/69/jZZMuWTOE4wXFEkR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8de1e9d9eaa344f88be99b41b38f7d1a-1777027168303.jpg" group-title="👰🏻Waking to a Stranger👰🏻",👰🏻Waking to a Stranger EP70 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1125/720/70/dbMNYIjqa2KlDSxM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP1 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/1/aIdz5O0kCFQVnx6S.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP2 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/2/KazhoUdHwh8QSHUK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP3 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/3/k0e8mkQfziC7rxbJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP4 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/4/LaovqEiTtffgIqJu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP5 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/5/5OIGZWm8y5TKl4cu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP6 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/6/oEARIyAmsqyiWvip.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP7 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/7/9-KptDf1k7AeF9K7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP8 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/8/Zp7n2h4pu_P7KIN1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP9 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/9/6h019r27Rm2P0Xf1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP10 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/10/KWhV9lw7Sm-DD2Li.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP11 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/11/gysmNvKq-N_Ufz_3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP12 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/12/t2L07hkGPy3LivdS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP13 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/13/LjcCT2ROuMp3mUPX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP14 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/14/tjljJT7OBopHiUhY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP15 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/15/3MJAwsqCCyStITaT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP16 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/16/_66F-vA1xFopFX3S.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP17 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/17/H7l3xqi20FxXHDO9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP18 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/18/XkJBk7wANKcTYPXq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP19 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/19/STmq8vlZNs4f2ZHg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP20 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/20/h-pcmv9qJ2EHM25V.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP21 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/21/MwHImnu-JN6A5ERd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP22 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/22/p8-FHQpqkbCGLncc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP23 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/23/XDxqeLY_LngXJLS2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP24 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/24/VRrap5o0S0vrdK7t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP25 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/25/UozcUkuEv-iVrcQ0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP26 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/26/KnbPPXHpYgk6-Wyh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP27 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/27/OPeR5YYWYTsg5nqr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP28 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/28/X2HXBa1y7TE-Yr1E.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP29 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/29/9oluAwI8VNDkbznz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP30 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/30/58bsbKPmrRpjAPE9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP31 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/31/vRWbqN9gF0OUE6Tk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP32 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/32/_yxcTVfYRou99zDm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP33 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/33/cAbIXSTOvQsFan3H.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP34 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/34/OBMwC0lPaS3kwAUy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP35 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/35/5EDV8vsJJUX32x6p.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP36 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/36/RC5dzOd393_2aRXL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP37 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/37/VQpCvMkJirecm32n.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP38 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/38/3eZGuc8U0F2BT7le.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP39 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/39/zDPzVAiPADvHMIk-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP40 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/40/nI83f74s1Mf3aF7F.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP41 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/41/FWecfSlMjqV7_syz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP42 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/42/NXIzptav8gFLaxPp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP43 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/43/ODjJ61pZ9R2hYOsl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP44 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/44/D71amDfWY3CXdX6-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP45 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/45/X6HjNm3TLd5Iw8EU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP46 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/46/j6G-DVbZ5wC0_1_k.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP47 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/47/FuDHxSgU_-vaHZ6l.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP48 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/48/WixBv5-uzoivkkG2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP49 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/49/izjaT8O4d8lHEVxi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP50 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/50/PYZeqqH0c59szA_v.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP51 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/51/Z2PJQ0KzocC4iGMy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP52 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/52/6cuqc2RZC5DMF9US.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP53 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/53/-QMLe0x5_0rPzmYA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP54 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/54/f45OMHU7LJaG-LbX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP55 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/55/ifwovouEtGLaq7Rh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP56 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/56/QOU8-b6q88MT33VO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f852ef58e1242fa876a37643c60780c-1777027157686.png" group-title="👰🏻Sweet Reunion👰🏻",👰🏻Sweet Reunion EP57 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1149/720/57/O6RfvSEthjfA--QS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP1 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/1/pYoRVaaI3YQeuad_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP2 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/2/MsZAwca9_Jwny1DM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP3 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/3/j51TZVIAEPYtVfU5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP4 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/4/r3TY3r9Zh-G4iGeI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP5 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/5/4ahKSYVZ7zhEn37n.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP6 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/6/VQBnQju74tlNkH1Y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP7 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/7/1SnNuEg4eaJYKhB6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP8 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/8/1qg-8DZFvLiweRhe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP9 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/9/YGUq7cox8lMn_biq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP10 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/10/7fMSYb5c-4j6wmb8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP11 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/11/ADgd_tKyTsFr-T9Y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP12 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/12/lYnjS20ymbPgAxqe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP13 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/13/3Ebz0ls6LGNbNqho.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP14 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/14/BAewk-sMKBHTNFHo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP15 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/15/6vZ7U2qDawgpX62d.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP16 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/16/FYr69r05HwP8sXQg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP17 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/17/1O8fgygGG6q5nbB6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP18 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/18/OFdUy813zyRjpGdH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP19 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/19/HXUihvMXm7o0FKn2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP20 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/20/2aOumtwqzxFgwQ1L.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP21 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/21/hcpHyCzREPXunvY1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP22 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/22/y4HTieFdnDXxPEvi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP23 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/23/iWQSnz-DjGENZxB1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP24 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/24/vtygFGQPVHFtyaj8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP25 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/25/NxfDEC4UuCiyGd_l.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP26 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/26/B3ZUfnrhd2s4dfqI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP27 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/27/29H1xT_o9HZ423VY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP28 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/28/FmafkQYQKNu2_4gg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP29 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/29/PWDjvo-5LzDi9Q4-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP30 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/30/SI0rnsKaMVDb2jkj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP31 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/31/6GM3cJd3voqyJFE0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP32 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/32/ZnHSicsP3XXXUcgC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP33 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/33/_XMh92uUijQC17MJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP34 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/34/2Rmuh6nUTzn2wO1s.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP35 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/35/v9IoHDTeFratG-U3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP36 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/36/6_8U5yZa-6wGmhbO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP37 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/37/Kbs4I0NRm0e-0p_r.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP38 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/38/t8AYNtojf9v2ZaUJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP39 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/39/NtGZJwqAAJiS-nFV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP40 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/40/wTJfQK8q6mnrlDSZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP41 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/41/PMY1RgXv7DebRbLZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP42 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/42/r-T6uLcbGV_IyiPT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP43 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/43/Gkfnb5p-qW2eydcD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP44 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/44/bpvsXQGstwB6ez1U.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP45 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/45/7djmj_2ZIcj1trcS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP46 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/46/bwlgSWcTyPiATbrP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP47 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/47/3tEyuEHegAPsit-S.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP48 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/48/PegLHm6eh0ROaMUX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP49 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/49/kAQUeP7iyFijBMSV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP50 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/50/DCDfICdO_splnpPn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP51 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/51/uZJTibvKtbqhOxzg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP52 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/52/pPzTYnWWZovGtw3j.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP53 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/53/VKjMCBNdNTdEPIJy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP54 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/54/di9rT3qMEiFKmhCX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP55 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/55/CaL5P6_N0FQcqR1r.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP56 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/56/61_Syubhzu_naKne.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP57 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/57/CTgm_ZuXj3g_4U8g.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP58 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/58/lsLEcJhkg2DA43va.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/741bf89995284a1a96c3f1384ea27267-1777027139846.png" group-title="👰🏻Identity Games👰🏻",👰🏻Identity Games EP59 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1150/720/59/Fbyf2p7mR72ZsaCY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP1 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/1/urbDg0WhhUVbbWrH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP2 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/2/s22aA0LhWTzxrJP1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP3 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/3/E830cY2Br2AwqLVa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP4 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/4/-tCax9Pwk5x7KDkZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP5 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/5/X_K0pyiqzlqyCGza.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP6 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/6/G800H_NsD6YPm5_9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP7 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/7/0rzwnDgRFe5LWtZK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP8 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/8/KJ6ugKfjCkmlmLdl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP9 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/9/yaTbZsZcTssRkCCH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP10 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/10/t5u_8ghtnYiqL2_d.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP11 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/11/SuSaGcT7ubfX77lf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP12 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/12/_CbyFh3UPuobt04k.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP13 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/13/KPwxakht7sXNMQuf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP14 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/14/LkRQizLS3tvflr6g.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP15 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/15/i6V9TqC930OJwYv1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP16 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/16/Mly62QWQPt6PoS0_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP17 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/17/Ut-Tn6IanFUaLadt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP18 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/18/ppLh_FR0ARFXFyt7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP19 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/19/T8H028ni3tFvLfGX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP20 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/20/JJ5FDm91tmBMawKZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP21 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/21/Eseala8FLw3F0kgl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP22 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/22/fo7lSPNVrNUjUPZr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP23 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/23/7G6kzIdiLLFUmQRx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP24 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/24/XWJcipklhNEfr2mm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP25 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/25/hnlvKmKbN82Aj-zY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP26 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/26/kiIVx2LMxucBvMgV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP27 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/27/MSAMSlYN_dh1wCcP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP28 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/28/tKqNIBR0Q8algA1H.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP29 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/29/zhrwn5GAwqpLnYyq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP30 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/30/efOb6cxvmwPKyFvv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP31 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/31/TRj-gyeXS3CcIQmg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP32 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/32/RP-nk7DC2rHDLpAp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP33 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/33/Tr7HYUBmXaJ3Jic3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP34 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/34/PCRNEim_ucG3K4Y_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP35 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/35/wXRAJ91HkTMLtD2Z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP36 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/36/KCBlrcDTwS3v1TrH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP37 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/37/gAsglBXrEEj-Uk2X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP38 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/38/h9NgOKuMzp5SZfkC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP39 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/39/sY6_n4GiE0i0hK9X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP40 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/40/NhQ238dNoPXNhOJI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP41 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/41/YkFMJ4S7jB7b3wbH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP42 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/42/AYIk3ymwvwJwVzJA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP43 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/43/eRsBY9IZoDrn7Cvl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP44 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/44/1UYWz-_3OwRJM7MZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP45 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/45/_iXJDS8OJ1iEVlCt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP46 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/46/L3bnqt8p2X0jYcGP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP47 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/47/SU-yQRhSkcpe_52C.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP48 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/48/bb5aRALIU72xA7Jb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP49 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/49/BNpgsNV6aCnw5gbF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP50 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/50/ESxygNGINIjJtVDk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP51 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/51/t86ZNnoLEXOy34bS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP52 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/52/xlHIJtzVK3JG6UWW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP53 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/53/FjJrm4-XemZmAeGs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP54 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/54/qbiqZ88ukN7AaS48.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP55 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/55/ullhoh17AF44Gncy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP56 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/56/KMmb6yqblOAohsKP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP57 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/57/vQJSB1muycSzEZ9r.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP58 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/58/ECyy3PhIWBNnmr8B.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP59 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/59/A81AwIFFE0O2FhIk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP60 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/60/YaK0khWKI9-tLVn6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP61 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/61/zLLo9-gLpN_QdNg0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP62 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/62/wMAcaxkVR9CfWc67.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP63 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/63/w6Gz0486A_q7JJBQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP64 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/64/CJuh04XX0MDTnBWi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP65 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/65/wMczrlqZwpJBXuMI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP66 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/66/FOY1sQS6TOUqz2sR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP67 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/67/4I3yRBT0vOMDb72c.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP68 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/68/ElNheYD0hiRA-iVh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP69 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/69/_M9fzbiCSTt835t-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP70 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/70/tkqiczn8Hdg7C9bX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP71 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/71/Ja8xzrUaLIDIR6P8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP72 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/72/5U6tmfMfea7d-uYJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP73 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/73/FZl91GTbP1ywqThD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP74 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/74/BXgGaofVncUFhePy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP75 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/75/PXfQuUJlosv0UnHi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP76 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/76/2ne_qCw_SiatjCNS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP77 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/77/mENqgUgvkvfUmdHO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP78 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/78/Nh-ixMKRJIFsZJFH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP79 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/79/1AF3syDdpiWg2kxI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP80 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/80/7gRtKs1Kzyfuv1rf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP81 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/81/UAs1D8LgkJkILWDs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP82 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/82/C1vT0Morm-d722IF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP83 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/83/VPT4ysEnAbr1Ntfo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP84 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/84/ZFlohFv_RJ__XR9c.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP85 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/85/-4GUADYfaA_PNpR8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP86 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/86/CK0OXaNeDjpBxFNo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP87 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/87/Ou8d8pwDKLjKDyAq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP88 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/88/pKhvty--YrHrJaWM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP89 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/89/M21CYsgEfAhWCGh-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/6ec5e3bf4cb44ce79591ff8d4c4e5f99-1777027129060.png" group-title="👰🏻The Heiress' Bodyguard👰🏻",👰🏻The Heiress' Bodyguard EP90 [18:50:49 WIB]👰🏻
-https://static.dramellatv.com/videos/1154/720/90/N5XpzaFFZW_8qotC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP1 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/1/A1ynjXW2J0QUMa_u.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP2 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/2/9A-NwwritSRmr_NX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP3 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/3/b6Y68afSPsOJLsVM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP4 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/4/M41WjcUuEd6k386N.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP5 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/5/0px-aYEToXhhYn7a.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP6 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/6/uV8SQUoVxrz8yxgI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP7 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/7/9_4SAV9Av26y6M-f.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP8 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/8/rX6iFLsAa2yBWv0B.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP9 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/9/L8H0DHdu-bpbZRy6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP10 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/10/7rDxBJ8fGkm4bFA8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP11 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/11/4j6NaAAb9iFxToMO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP12 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/12/2S4dn-LUt2REXuuf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP13 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/13/cK8ntZSzN38w6D3h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP14 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/14/QMmgdg2Ub1moA4Mx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP15 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/15/W0nNEK6EBW-sdj-N.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP16 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/16/XWtW46V0I0yvSwNP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP17 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/17/Ew7Sax1gmMEXeUn2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP18 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/18/ZjcO-2kE3naWBAKl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP19 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/19/nZP_pCbW-5tyVMlc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP20 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/20/_GjmNefldltwlJt5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP21 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/21/pYwH6t_wY9GqrI6B.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP22 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/22/4WPtWvrGfiK7PLQC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP23 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/23/CmjM9L04_iRMpIlw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP24 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/24/An07mKN0eEE4WmsP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP25 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/25/UyiJ9rImAfbjWY55.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP26 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/26/yD9Ms4Tq20bflXnK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP27 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/27/62uXqG2lQaMfu-9X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP28 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/28/keCCDHe6cWeJeeU1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP29 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/29/ik_nLIWQcUxLUyXh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP30 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/30/FLxghSYuQxVe-VRp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP31 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/31/Kq7oLe295yaPrxEk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP32 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/32/oV18wX7L-AJWIWqE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP33 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/33/kr04uydoV8CpsUiX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP34 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/34/R0WNsPYEWmxhVVaR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP35 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/35/3CLSJxO9oZZA9Fi-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP36 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/36/8ZsibpkgxgC8S4Is.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP37 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/37/DFqC9Tmce-wzUKZZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP38 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/38/JDTwl03IOhD_Z1FU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP39 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/39/Vv6KtRUrRK_qlXwc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP40 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/40/WylEmQ1cRR_FHslF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP41 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/41/wn7Lgy9yWm2JKwIj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP42 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/42/vQbdTKAlGnEBHrJm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP43 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/43/IgNVXoaKd0c55_w5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP44 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/44/YlWHp4ysXUPAHWRq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP45 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/45/cbrOwgRdMdRDOff2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP46 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/46/cAqe-eGCeyz6qffV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP47 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/47/nUXUOwhDkCRKn3We.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP48 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/48/yqJCXgQzx7Zctx7r.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP49 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/49/ZWzMeWskkRkIhQcY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP50 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/50/2acYp7K6IMvdNvSx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP51 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/51/LfWBvpQ6whWMBhZF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP52 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/52/LrtKBtcfHY7ib5Jo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP53 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/53/Khrq7V0bVc4YuI5W.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP54 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/54/asTQsIIK8bEB2rUz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP55 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/55/TrZgS_OFahj4c6rq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP56 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/56/zeSgUlUHNDJPkE5z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP57 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/57/oNHSghiyzLutY6jD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP58 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/58/yNRXlK7j60u0vVrM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP59 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/59/Z32puz0zEaEH91Kt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP60 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/60/7jh6UTRnMBxW6p49.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP61 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/61/PCRMOzHmv8JgjPdX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP62 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/62/FmtXwGxIigc7GCAq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP63 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/63/S0Klg8M7CeKtpta4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP64 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/64/GHTlOuH_KhF1BUwx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/9ddaf292833243788c4793656fdb3d76-1777027115478.png" group-title="👰🏻Already a Love Story👰🏻",👰🏻Already a Love Story EP65 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1157/720/65/MMuA2fuf2INfsCDW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP1 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/1/MBrjsvldxf7iTxav.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP2 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/2/X5XIdedXIeClDrup.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP3 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/3/joTpySSEv7oxnDAH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP4 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/4/aLB-7noXU5xHQc35.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP5 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/5/txyNSrblHvKyGeA0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP6 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/6/zK3BSznFJlS8iMAi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP7 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/7/KSf885G5ujVgQ8pS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP8 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/8/KqkZtbFGGs5X_FIS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP9 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/9/Hm6qfixobcg8W1Th.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP10 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/10/GATYM2wYuzuKScNJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP11 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/11/pHniqKNfdApvfl7o.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP12 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/12/115gmfcRUGaMHSY-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP13 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/13/2KMWT7IXVqVDBv6V.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP14 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/14/s8cKB_nvxJWKaaTw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP15 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/15/wjC7xl3UB0rjeKqL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP16 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/16/1keYIYYLNbOJy0Y6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP17 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/17/lHrvCp359Ra5Lred.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP18 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/18/fc3WPaK-r4Vo5Eml.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP19 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/19/sR5yCWScbID2sZNm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP20 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/20/10MjxoUSDXvYeLT3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP21 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/21/QyzssPUtNODhLNdb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP22 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/22/Od18RJ_WVvkyeFsx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP23 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/23/3TQv7ggKX-4BmkeP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP24 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/24/PN04bD74Wf2xFa0a.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP25 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/25/NbaReAS33K6DJddZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP26 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/26/Yy_EWSHHRsCmzDbv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP27 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/27/JtnyMWBiPaueTp0h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP28 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/28/H7j1LoaD5DlmBXpV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP29 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/29/Hj2K3n3MXswDiUdE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP30 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/30/ZfchGCTJ8DeqwJdg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP31 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/31/fg-eT_GhqegLs7xO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP32 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/32/pvFRsttxGx1Bhu9J.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP33 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/33/9HGH5U8YGOf_Akfq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP34 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/34/JplwhIkQnkPuPdTb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP35 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/35/J1HQVp3x5o2ly29w.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP36 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/36/rRtl7HDKKDjIk9X5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP37 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/37/oM0HOaKw_lLuKiFI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP38 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/38/GlZjjsfvr_HMGRWj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP39 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/39/zP-SXsgKVcL049uA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP40 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/40/dOL4I6gd05r7clLa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP41 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/41/62aPDlGwhGES5s35.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP42 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/42/PUE5-0TSRxmTM8re.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP43 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/43/CCkFFWlOL8K0dFfu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP44 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/44/Qh7zKyC4-c_gYvhu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP45 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/45/exVgBTVMhp_56BBH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP46 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/46/Y00SWkg0vger1t15.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP47 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/47/dLniHI2c5RuOwvZg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP48 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/48/5-HMpitfGxY0bWBt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP49 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/49/tCG0jiV46ioBrRTV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP50 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/50/F_EmKJ4yWTJCu6Mh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP51 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/51/Xt7S6NR4zq2XOHRq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP52 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/52/ft-xk3jUX466FMx9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP53 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/53/KfuD66E5kWeETOVc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP54 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/54/ihTx6El6Yd2DkNvl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP55 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/55/HoniKNXy-cVEOw8o.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP56 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/56/deumevp-ipHclV49.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP57 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/57/3qxik4_S4zEh4yoW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP58 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/58/K_0SwP-H2fWD1Kjh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP59 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/59/4738Z0v_tu9FnJZU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP60 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/60/eCPZBgQwV1PR7ShE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP61 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/61/Iym6OopfkRhVh8XS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP62 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/62/DhVnYGS1Fp79zh7Q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP63 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/63/4DYI366LKAYVZbGy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP64 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/64/QelCoC7co8oxH7b2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP65 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/65/8_wvjrpAWGShkLdk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/17d121800f544d3eba841c7bee17c995-1777027102471.png" group-title="👰🏻Sweet & Bold After Marriage👰🏻",👰🏻Sweet & Bold After Marriage EP66 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1158/720/66/CLSGR2NFlKI_w1vW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP1 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/1/Q4NYtNMykZoVyWB9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP2 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/2/B4K09Knk6B3RDWza.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP3 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/3/tapwb39BBYl9Oi1N.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP4 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/4/v9fEspiuGij75B_H.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP5 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/5/oDuB4gplKIGkkr_U.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP6 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/6/vIYAhlBeFv5a_pw0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP7 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/7/iUR6HGxCxuAI81Db.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP8 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/8/jzKvWT3ag6oMj9FR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP9 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/9/vQrZYgsg0nlKGt95.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP10 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/10/kMquJhTpycc2CUZU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP11 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/11/DQUa0KByk-QQKFAh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP12 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/12/cIDdAIZef-lZdz43.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP13 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/13/LTZHI5jSFLgy8Sm_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP14 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/14/sHMyaDauLvWyPrTG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP15 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/15/IZMoMOn9e93jAGPN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP16 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/16/CAIFaNZMw5gSJK_u.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP17 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/17/UHs_1oHWSX8vb25X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP18 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/18/r57qoU4pQIn77Llp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP19 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/19/tJKGtk_BRD2xVs-n.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP20 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/20/dn4uhRl_wLaTile3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP21 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/21/wLoG_YUsnxdMu0yk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP22 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/22/vMJPAxOWmMIz6q5k.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP23 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/23/4mWKQKJ9NHsdIZey.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP24 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/24/EfGmL7X4yp-oJSF7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP25 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/25/GiOVML7o3Xb0N-l-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP26 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/26/mxIz76sElOW2r8Kw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP27 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/27/TOoevZIvR-3bYi_S.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP28 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/28/A_UPRskBvsuYyjZG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP29 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/29/TyCFYK3LfS-6x_2x.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP30 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/30/oGwOVqO-kLeunzhC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP31 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/31/P_ioVeA6eQiN_RGa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP32 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/32/C2O45_6MBnTTaN65.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP33 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/33/IK2FDjq7kEufZuis.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP34 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/34/5n9OhZtl1Xe9qjTj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP35 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/35/4-6ZsV2zLrRZGGkJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP36 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/36/S_02rg46G9a0IOwg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP37 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/37/yoASPqbNg-dwkZ7t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP38 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/38/eNhXQBjxuQZM74jF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP39 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/39/MumXiDhWcR--Pg6S.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP40 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/40/Qpqk5B0JX6aqfXXk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP41 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/41/3RSt39x9phAu8Jd3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP42 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/42/PUUiRl3Ng_7afW4X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP43 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/43/_6r6ol06q-79pT0G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP44 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/44/Az_Job0Z-mSzSoNh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP45 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/45/fK2z9lLd7B93swil.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP46 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/46/nb2IlKyabtNT8TFJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP47 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/47/p5A-bBHME4HBi44n.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP48 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/48/EfAL71ih__Nj1a0_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP49 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/49/mkDHwdyMhIxR_Y3i.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP50 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/50/tp8wjlHb1WdewDDs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP51 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/51/zAST_--4--BhOjJb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP52 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/52/AJ_88fFRaFA4zAcj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP53 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/53/lv8CdFrtOWfteGdd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP54 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/54/MbFsZ89dIx2oZKA9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP55 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/55/YCgb0La8uUuTGiJl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP56 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/56/vDx3CUQHgDsdDuUd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP57 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/57/ezEDfTCu-niJOUKS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP58 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/58/aL1uWPtSwPW7Mx8q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP59 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/59/xJBJRC5MJch-zTst.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP60 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/60/c_Vv5MDTm7MfiQ9l.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP61 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/61/z-8SaWkPnK2GKjhp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP62 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/62/zAN_IHWEfdZVRYqh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP63 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/63/SmhcJbCVOFQdWkQD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP64 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/64/6dmdofFZS1Qyum35.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP65 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/65/VMdXC-NHk3CC8jOW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP66 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/66/Wk7hJFh1oZ2A0L2O.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP67 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/67/mXfytyD9lkHhnuw0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP68 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/68/anzuEu7BLRha3eYJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP69 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/69/GTkU1N-COVoMXSBY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/13fb5b23ec8d4cebb253c015be3cbc9f-1777027090052.png" group-title="👰🏻Moonlight Reunion👰🏻",👰🏻Moonlight Reunion EP70 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1159/720/70/cFSOGRTJ4Kl86E-1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP1 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/1/lR-UvssQT_EGoybA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP2 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/2/rVPxZC9doVKANXxc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP3 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/3/ELdbh0UuyjzQTkOJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP4 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/4/SsH8EUSJTiSIb5Ey.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP5 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/5/LtfYJ47FTyYsQn5b.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP6 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/6/ofG1MZHOEBsbn1II.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP7 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/7/gaCSXGc7diP_j2sC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP8 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/8/PK1oVDzNwi0BCBEd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP9 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/9/qgpeOOraQb04ZWxA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP10 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/10/0TIc0TDrY0S8EnpP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP11 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/11/Ks42zZQXGaday1TG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP12 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/12/hHjgX-Bbn1WA5Cy9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP13 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/13/a4p_oIs6U5cJpxO4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP14 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/14/AuTmGQ7EOnsjA4xR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP15 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/15/IIZKcC3U-hti-xMO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP16 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/16/v2lIWP2X_RC8w1JO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP17 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/17/Wv0Aqr9E7x-Iyg52.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP18 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/18/BrysDp9nsyJio5hS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP19 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/19/QdNh1dceC58zrDEb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP20 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/20/7qFRaMLNRKlo4lFF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP21 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/21/cwTKEe4wYXLfNTBA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP22 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/22/ZkOz8PUVMjvN7gdg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP23 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/23/NjqRcE9y_DpH_JpB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP24 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/24/EXwvuxnV54yj0UFU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP25 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/25/i3739ZP5cec_4Fse.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP26 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/26/IBzgy3Z6QSwTWcnV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP27 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/27/RuWKnq7_iRBtnhmN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP28 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/28/rCpVvQh_oBV5GkjT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP29 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/29/9K7xskNhC9uKAIwZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP30 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/30/w-oGgyJNxK6AT-OH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP31 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/31/FUtGXBcg-ecBlmHg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP32 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/32/0heGsX8HS_0g0NUf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP33 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/33/kDEROXGCd4UsWaRW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP34 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/34/dtUK0TA0BbaElVR_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP35 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/35/z6e9jPWO9v6Gbw44.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/690406e9db6d48eda7b77ae851700fc7-1777027080628.png" group-title="👰🏻The Second Serve👰🏻",👰🏻The Second Serve EP36 [18:50:50 WIB]👰🏻
-https://static.dramellatv.com/videos/1161/720/36/qx4R_35cIrGLF6gG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP1 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/1/QF4g-bAJ4-rGGZwT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP2 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/2/goFb-blQPvvOGPo1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP3 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/3/IeD-RnEfhHPdiktc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP4 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/4/IKEpW-l43nAxBVzS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP5 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/5/tFtFe-QTO0fPkjao.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP6 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/6/p6pae-7Nt5RxJwyF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP7 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/7/Q74dQqWbeT5Y-t-9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP8 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/8/A-t6qcPQjbmRkjkZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP9 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/9/hsYhN4D9vUwQLMNF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP10 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/10/LbMpUiWzwEX1uinw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP11 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/11/63wLF0z8xheyw6ak.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP12 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/12/W8Mq_-NqkAd-k87D.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP13 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/13/lrlZ-t6l0PAfv9Js.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP14 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/14/uL_evSAQF5HEzwdc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP15 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/15/8IJreUh6rTN91kc1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP16 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/16/6f5EYA29UZzkqgPW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP17 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/17/rnp3SRBMIfvI369i.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP18 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/18/AaEK4XXZ2ZvjdmdP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP19 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/19/kCW58b1892dvQHAq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP20 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/20/4lLFelSHGLtj-_z4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP21 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/21/YBUxoFF16-tXwGI3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP22 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/22/JM6mxQwn2iCpRHVq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP23 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/23/iIBH1RuNENqQkrN8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP24 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/24/llcpq1ShfbyTNm-F.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP25 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/25/FMPAHRDNziPWuDIo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP26 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/26/c3YCgPhEt5Jm8U-B.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP27 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/27/eeKH6BkjnSmCI8H3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP28 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/28/uwBAKbBCLurRzg5t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP29 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/29/T3sS1CHxB1n8GzRs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP30 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/30/1uMtrxF0_8AILQDW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP31 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/31/a-HjgBkJRrm5NgDM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP32 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/32/k9nyDtYwtwxazAtq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP33 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/33/Cq2NppaUVqiaSliD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP34 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/34/Qv5aRNGZnomcpePk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP35 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/35/8S3Rb7EjPm56pTiw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP36 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/36/xzZsf0I4hTuilnxk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP37 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/37/fqmQj8UboeQteCkd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP38 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/38/37n87Xmy68bE_7z5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP39 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/39/qDI38mPHd0vLFw7O.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP40 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/40/fARAhnkFhqzw4oSw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP41 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/41/Fyc6lWVLuiizsXIE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP42 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/42/Kd2xUcfIBSe54xVY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP43 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/43/ZNqItQRPAc3sqd1B.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP44 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/44/DhMqYQA1fOr8BUag.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP45 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/45/ChjYdGjwKMSLG3Bz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP46 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/46/CP7fbpMcHsFUz7Bf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP47 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/47/wpLTMm0R-X_leJ6_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP48 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/48/-mz2IWxaR8XxuT6i.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP49 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/49/AIpDUTjMcugZBvfK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP50 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/50/m8jXUgpMsz89xQNh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP51 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/51/nw2PKwpcIlL5pBy8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP52 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/52/xiPDWvRJyyfJAd7m.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP53 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/53/v66d2HS0fz8PyN6x.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP54 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/54/NjxD-ChM1-HTT23M.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP55 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/55/sxrIRtTYr-yylQKG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP56 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/56/hqqfAMIy_rhgQzmI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP57 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/57/KnqWjHCii2zpnIqZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP58 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/58/vPhoyCAG0dAm92Tk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP59 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/59/BSY7LftquJITWS4d.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d104fc25a41d46ea8da2f16271d565c6-1777027074120.png" group-title="👰🏻Love’s Burning Secret👰🏻",👰🏻Love’s Burning Secret EP60 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1166/720/60/44VeRTfF0Jpc-fhE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP1 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/1/vIVLup6jvC3CNylX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP2 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/2/hmGHLUQFXIspKqI-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP3 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/3/LuFCT57cLPUXVmPt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP4 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/4/fuyS9x5TA71aLE9I.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP5 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/5/uVA9opQ3R-rCeUiY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP6 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/6/3IQI5sWTtTtDHUVy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP7 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/7/GSbTStgZWsjOuLLH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP8 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/8/0G7ZDpx-axKxm01C.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP9 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/9/ovCijEc2T6-9jrnd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP10 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/10/m58iRKOcvx983rMj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP11 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/11/gGWDKm28gcScHvvY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP12 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/12/0uwOSbcJC3oIHSA3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP13 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/13/a7NQLg5vips-Yzbs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP14 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/14/uoSV9htpe8L3ViRU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP15 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/15/M-Xe_jszWYNZdT_t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP16 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/16/L4gHv-zTy7RDIgdg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP17 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/17/fEIMqpuBiREw1C5b.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP18 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/18/9jRGsPprYtesnP46.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP19 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/19/Iok0o557BG8WdzcN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP20 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/20/oZjA0cyai0sDa97J.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP21 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/21/945I68-b05zqnCH0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP22 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/22/hlGRy5ayCFSM8Sdg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP23 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/23/O4opdOCTO_PEmB5-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP24 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/24/AwO8jz73fNqPe2k0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP25 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/25/xeGY4mHldHaMKMos.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP26 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/26/QUjCxV1CKWmmIUEp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP27 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/27/1-x1evSqW6sQJ5GO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP28 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/28/R87d2AUAS2AVDGvJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP29 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/29/lGDcqwDX3Et48whT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP30 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/30/7sXuMrlJF4J_WyjQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP31 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/31/pNmJAHRnY_rNOGor.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP32 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/32/ZOQpiSdao6J-ChII.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP33 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/33/JBLZSxjilGKgec76.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP34 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/34/hqmV1DGOExwB8PxK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP35 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/35/V3yLx-pu8Qjg_jzT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP36 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/36/R7sByO0fyMHAX-FF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP37 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/37/Z9Lrkvai2xULsftK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP38 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/38/CxSN3TZva78URTbe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP39 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/39/yFc2diwp9-szPvs2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP40 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/40/lhpleFIyrg5HWIdQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP41 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/41/UHg7G2groFTS4YnS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP42 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/42/09soTpGyWCVMHsjr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP43 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/43/-exsY77XRMOdxfgz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP44 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/44/l7Psxe-5EXzmLN-g.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP45 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/45/z4VEYX-g8c81zZyW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP46 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/46/YjyBjo8GpmiyFfDf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP47 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/47/FVE0ViACtOaAOzkh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP48 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/48/PifIFdreBCI1Kd6A.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP49 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/49/0sibWDfpAvpEFMqR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP50 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/50/4jgcJUqtGxPBCsTo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP51 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/51/VuJL0Y1y25_8wu3Z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP52 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/52/3nspdLcimPsBhY6X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP53 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/53/j0V84xLsN-ARSLdZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP54 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/54/xqg3z-v5lPokcP1G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP55 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/55/GYlhIyjhi3NkmW7y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP56 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/56/MrEdSBWWzwDMjUKu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP57 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/57/f-zkLsQ0u3scDdSI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP58 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/58/Htqmzd8D4zxTEiCD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP59 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/59/JKObVlLH9nagLI-O.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fa8396cf16cd44d4a39b48757dc2bdc1-1777027062598.png" group-title="👰🏻Bitter Life, Sweeter Love👰🏻",👰🏻Bitter Life, Sweeter Love EP60 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1167/720/60/535T3Ef1Dzvj8tGt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP1 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/1/5csc5e93PVWa0oBj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP2 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/2/8_pocvaHi27i7d22.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP3 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/3/FZ-Jqpxno82xmneO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP4 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/4/TC0jCzXXke1wShGg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP5 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/5/H-W6yB7oopcDjQef.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP6 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/6/XX-nELLo96euLWOz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP7 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/7/79N65KzPmHv-Pb9w.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP8 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/8/6a7_My8g730nP5Q0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP9 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/9/ZBb8CKnxbjMPVF9A.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP10 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/10/DW2nU3jm08qzJWA3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP11 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/11/sUDXYhWf3eJHXkR0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP12 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/12/y6-m-EcIAClfWa-4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP13 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/13/UDKSaF4GSluxBIRj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP14 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/14/uCqJa_riQDL5OUHB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP15 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/15/LvHs_3oz7D1f25TL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP16 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/16/ldyOgpu-sa9qQxTX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP17 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/17/_ERMtRrNWVzAcjyr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP18 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/18/GsLRzp2Yb4nI8Ssq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP19 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/19/WaCdFAFDAqoXK_9R.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP20 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/20/64UjseqRgleX1NS_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP21 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/21/IWPszMNEZisp55Hp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP22 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/22/AgWcNIP4KRw5DCLk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP23 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/23/GPef-F6aZMcdCiNl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP24 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/24/l5OO_6Xph0KB4479.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP25 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/25/JmIiUcjnvEhJaQW2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP26 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/26/ulMdwEbqnWAXqhdR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP27 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/27/Y_LG3UBHQic0qh3G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP28 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/28/_Sjr0p27DR2sa4Fj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP29 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/29/PwTxYv4B3OjeqY7w.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP30 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/30/JLjYNxkXuzhSPLbS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP31 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/31/IkMKtyk-aY2zXd_Q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP32 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/32/CKzlwvUtVSnVjKHk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP33 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/33/Pu2P5Ef5msRccWyn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP34 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/34/fm-QQhE11hBHn2Ni.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP35 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/35/4hgAhXGuYt1vyC32.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP36 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/36/zaaDuSF6A4Fu8ylr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP37 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/37/DfQ1DWGAZQcBIB8b.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP38 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/38/yZsabgV_UCXxKWle.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP39 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/39/Rtsg0wta6vDeUHJO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP40 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/40/-AD0gZM7eMmuhCra.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP41 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/41/MdmecKqtLlsPfTLj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP42 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/42/RGKNgwoMMT1TExml.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP43 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/43/i6IsTyVnyqNFeo04.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP44 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/44/OgeMIiru_kBDf11b.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP45 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/45/BKpFwdxNQCqa7efF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP46 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/46/q6X4BBApGqQesHDQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP47 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/47/x8WZ8Du_1oMESxtn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP48 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/48/yRMQ5q3PPhJTSOP7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP49 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/49/VQx-Vp_ddQaTWBdJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP50 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/50/ugaZMEIS5rruqjjn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP51 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/51/0qXXIo-Eb4rCCpgR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP52 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/52/g_kJaYuRQEW5goDl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP53 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/53/dE1xW2tg50v__sE0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP54 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/54/HFxWMRkgZL-r-Cs8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP55 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/55/z7VdYcezQ1FOMqlg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP56 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/56/8WKTUURHhQ4Gif82.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP57 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/57/0DtJI35QqrTH8E9h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP58 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/58/0FX_5phmRAAkzXEA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP59 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/59/JkSIdhu-Sd8xyEYF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP60 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/60/YgcLYzepl4WsHkMW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP61 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/61/Ih1ql1vBgUiOj-0G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP62 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/62/QvO-Lv-Yx1AUDQV-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP63 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/63/GpASUBQqTV6LUY_S.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP64 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/64/AnhB2ewM4m50vlY2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP65 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/65/IK82b7gXPumuaCX3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP66 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/66/9lHZNjVLd0Z4clV7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP67 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/67/bD22Apl4v6yImlrq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP68 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/68/P7-1adFC1fSQDaGp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP69 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/69/k7vobQguL7kCLgi6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP70 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/70/OrAUIaaUlkENcV4V.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP71 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/71/rtZv039hQ6wHvJ0B.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP72 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/72/lOUWuhYlVYTS5keD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP73 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/73/bdSUfZDqyHVP_3Hh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP74 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/74/7EhBdvxRmB3vAtV8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP75 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/75/MFo-8kqjJk0BBUTc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP76 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/76/gRenFWH7pSNbStvQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP77 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/77/Xp9IYPdMFiBPv2bs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP78 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/78/LQhe_MesTJJLJvmW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/fd5f68f6c52a495694d7cbf1aa08ab4a-1777027054202.jpg" group-title="👰🏻Invisible in the Rain👰🏻",👰🏻Invisible in the Rain EP79 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1172/720/79/57JzF-Vd2RNOn1xU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP1 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/1/3i_c-0mU-mAxrOw8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP2 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/2/vrY_7NafCZRuQ_O3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP3 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/3/Ags1R5ZZQnF1_3y0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP4 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/4/9O1IUdeB7zNFBYMi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP5 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/5/b1S7zppUqwWNoDAM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP6 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/6/iOV3wClYnfXvBBxs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP7 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/7/cYpon6TDZ7lMQRCq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP8 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/8/9oYQI4Fxoc-Z0dm6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP9 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/9/vtPK2tWxfyoVpwHg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP10 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/10/ZRbrZF5BBRbJRgqw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP11 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/11/gEKnXshSGpe-KdJ5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP12 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/12/nWWgxZgzthutzl0F.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP13 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/13/odJkm2U2_ZSrVY36.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP14 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/14/pum6FlkdVSTT9sD3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP15 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/15/YgkEVRIDGYPLL3Iw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP16 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/16/9DQYRUX07QVmtJUY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP17 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/17/vgZWxTYbxT9R9Rc8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP18 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/18/78Y89tnVuHHIJbUC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP19 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/19/XZ_XUP3FkWAwhBiv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP20 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/20/bzkJyDdb_Lq2HJKG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP21 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/21/-sAQidv2DnCxDOG4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP22 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/22/a_tCfCb9wpSy8sBr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP23 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/23/M_9QSJ6Vb5vaEzGR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP24 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/24/HYX-dADGW4DuJtOf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP25 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/25/_7XogR1SiuNxffzS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP26 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/26/Sj-cRC2byxE3LJdw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP27 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/27/W2n75VQFO9CE-WBb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP28 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/28/fnmoU8-P4LaKmRmZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP29 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/29/7hc1jLRY4WQPHjzx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP30 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/30/SDwSbrtjmjatvx5T.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP31 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/31/_iS3jdK8KXRRbMTQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP32 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/32/l4cFZJZvDHZoiT_c.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP33 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/33/ofhdoLvrVSjvBTZQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP34 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/34/zInYdjgiLfiuWnxm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP35 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/35/LnMFf8kSpR61aHh0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP36 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/36/fbIZXebrN4HX_ILj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP37 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/37/soN1kuZ5Frmf7hsm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP38 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/38/HCIyn2XybfmTJwt8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP39 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/39/ln_YZ39VVoOQKRSV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP40 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/40/0K495gt7iMVJT3KN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP41 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/41/6TmmZeEPZ6p2f-VX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP42 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/42/gN4NyE7LP3w3qFMx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP43 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/43/5Qu848zh0CZDB_qh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP44 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/44/P4LyliCKTAd4hcg2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP45 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/45/k7gBawiOQ3NXYl0w.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP46 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/46/JEHobpjueqj-gKJm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP47 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/47/rC0xiaVDniFZlu0s.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP48 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/48/QqsmJJfaXhqa-3rK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP49 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/49/grjPcvsaYRPpbkfM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP50 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/50/s4ROO20744pkUlIW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP51 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/51/cA-16w5A-cNd8f3e.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP52 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/52/fuwTWN05UDmbwwW9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP53 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/53/NDPiAl572wcFI8Ph.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP54 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/54/kTS2n5xKBXLFD9Y7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP55 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/55/9ql29YUb_MrWdEsI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP56 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/56/DKr66u8Oedb0LE0f.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP57 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/57/kGHoPrwJjoCPvpbD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP58 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/58/UfS9bs9th5noAY8D.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP59 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/59/AQkL_aLoB1JCtZM5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP60 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/60/mSuVkgMQYXRCzguo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP61 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/61/rEfyIgiMs3m58OCq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP62 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/62/GKYSuYIZUO8xX91j.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP63 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/63/xZre78PhWABdPVZr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP64 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/64/NyUYkQ6ci7o7ujbX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP65 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/65/mW7nluMxyak2YSB8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP66 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/66/SHBz8nWRSF3JNRmD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP67 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/67/PpiDSRowl-CJ97G0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP68 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/68/1jq8efC1HHetsqZd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP69 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/69/3JBNMOb8GQo3fhkH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP70 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/70/GfHrjyhmcIQqjYb_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP71 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/71/b8yHJQLnqG-_imjv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP72 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/72/HWR9_W2jt4SCUgtu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP73 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/73/5cOkUXy3_X3u09kR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/56f7fcd407754722a9d52e7fb919a42f-1777027043940.jpg" group-title="👰🏻My Sassy Wife👰🏻",👰🏻My Sassy Wife EP74 [18:50:51 WIB]👰🏻
-https://static.dramellatv.com/videos/1181/720/74/1l6qeQvm7vfyNjw6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP1 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/1/dPLffLF_crhoe8lD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP2 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/2/Ep0xksdxthtewdSB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP3 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/3/zHXTVkKp_ThOnaQW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP4 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/4/b5u6fCR4tzgNqFzb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP5 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/5/EH4poxxZwTl9cSBd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP6 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/6/fFTgLln3FXRi3C2i.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP7 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/7/yivwej_IQKEvHOhZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP8 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/8/eNKz6RMfRchsvtmN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP9 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/9/RQxyJkv901kPI-FV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP10 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/10/ndtBrWHuwLG4ZzpB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP11 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/11/XQdx5XkUclrozciQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP12 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/12/BASf7vhuA_29eCxv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP13 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/13/AUiISMf1PBQYdMDj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP14 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/14/LLm1vFBwwUK_xD_1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP15 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/15/nuMnxgd3s137v8r5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP16 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/16/0bwJrviRMH-UxlUd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP17 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/17/Fv_5hmTIjhPRlGkG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP18 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/18/Le_nk8va9PrDZYq2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP19 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/19/Y-H2VdZxcTA0Rozt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP20 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/20/4P-cXICD5Adf3px5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP21 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/21/kp_AiPotmaJ-uwtG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP22 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/22/WgOVp2HoL_HISNfp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP23 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/23/waWF02JXsCWHEvcj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP24 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/24/27HSn76Fvfed3con.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP25 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/25/ydnxQ463xGYwYn3r.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP26 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/26/1Ef3B5GT5BvyBcaQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP27 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/27/902abTVheOkHeb4O.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP28 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/28/hxDcoO6T-5vGg61Y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP29 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/29/RsTPV6C8xGfJtsOM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP30 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/30/543LgRv-sRbdOD7_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP31 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/31/MDBtqFUh0F9w2JIU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP32 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/32/0HAJ3fS8iLh14NRj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP33 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/33/u45Q2y824DhE9cc5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP34 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/34/7IKrKza-l8ERG1He.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP35 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/35/H092DJJ2unFmMcJe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP36 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/36/4GVaHjPW998V6mmo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP37 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/37/WprtkOY8NnOctsFH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP38 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/38/pSGSOG7aqmJK3Rea.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP39 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/39/fICAu322stuweVTh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP40 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/40/hcSFV4WoWpAY0a7N.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP41 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/41/zWz_XKMdd9iNRynA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP42 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/42/ORo1lOFE94CbqDFv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP43 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/43/Y-VwLniP_xmKM3TN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP44 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/44/4cWRcqL7rHUD3Gh-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP45 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/45/HlIDKeBCdUUOni50.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP46 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/46/lgPOwdOzqelQc1xh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP47 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/47/mAIh45e4hykkwjKV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP48 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/48/lnNjy9mldqm1Uum2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP49 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/49/ciOXIc_SkDulk2WN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP50 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/50/OSOBZXiDtVOR7ZXn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP51 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/51/gx0AS2yk5aqPQNMe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP52 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/52/YoKGNcMH-sMoI4E1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP53 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/53/zLoQUGfJvDFReaiJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP54 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/54/Q1olj9x4iB7Ua67V.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP55 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/55/wHRiLoVCZp5vVofg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP56 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/56/tBIU8XAeD7oO5j6z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP57 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/57/wy6Y9FNibBojYRJK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP58 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/58/pOzpcjb6Mse6NXOf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP59 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/59/bUCZjOyMGropWoJx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP60 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/60/moWCtX12rQu-SxdZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP61 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/61/177P7w-6TkpFI61d.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP62 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/62/0aYurGzYILQFsPMP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP63 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/63/zg9eLZmNecgnZ5XQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP64 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/64/x0qeHmba4b4vV_rH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP65 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/65/F3XdxlUIjYej825c.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP66 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/66/miRtd10zT1sKEvFd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP67 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/67/WeR928pw4LbgIWLk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP68 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/68/_HYTtDsVBascP2wR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP69 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/69/YHfz7RX2JMLwPHsc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP70 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/70/PE4DZhouPHbWI9Dm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP71 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/71/8yKoaeQtcbHtQNwZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP72 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/72/ak47pvYSKnacspyo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP73 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/73/sSnR8eCEe4u6sO1j.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP74 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/74/jrnXzQ7KPssS6Nql.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP75 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/75/P7NbhsITiqI63Tqh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP76 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/76/B6wSAZUsp9B7kToT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP77 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/77/7xAmLYe6p6oMmfyw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP78 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/78/7Np0OcqNfrpGGv3n.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP79 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/79/cUENZjQKxxf6J_Ho.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP80 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/80/LunhJXB_bCC01fBg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP81 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/81/GVl2w1D_g0_Ps96K.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP82 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/82/-S8HgJ5LqPIvaMJz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP83 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/83/4497YSzNBewRITpI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP84 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/84/TygkYQH35I6mURFO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP85 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/85/thPi-NsYk6V634O2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP86 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/86/GEHYfJ7sEWoGzaRE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP87 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/87/GMdno1mDV9qm7B3n.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP88 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/88/OBBvjSqfj42cgmPZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP89 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/89/x7ZitBKvnw9u0c-b.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0c8d87c5cf6b4be29e8bf968d917cdad-1777027031018.png" group-title="👰🏻The CEO's Hidden Vow👰🏻",👰🏻The CEO's Hidden Vow EP90 [18:50:52 WIB]👰🏻
-https://static.dramellatv.com/videos/1168/720/90/RZtAAGN_zx-BqQlB.m3u8
-#EXTINF:-1 tvg-logo="https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php" group-title="👰🏻Support Me 2!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [18:50:52 WIB]👰🏻
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP1 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28635/720/r3uPs4Rk65G8hbwXfQBApVgJDUavWZmK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP2 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28636/720/sqkTE3yMpnP9zg8xDS4B5aZvcVRAfF6H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP3 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28637/720/qjsBkbVcWH3ygnMQC5e429SDwNxRGaAU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP4 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28638/720/2eqK68CZWfrnypmcPhb4uUQV5FSBAJNE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP5 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28639/720/8uzZyYQ4knE3aMBgW9P5AcGTvSx2hUwF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP6 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28640/720/T5XZF9VwnRGv7gEWyK3s2mCAMfqBeDrU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP7 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28641/720/97PY8evdajRVfHwsN3cXDEKxbSZgkmp4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP8 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28642/720/jmFh7RKZS4cdqe3YbnVMPENXa6D92wuB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP9 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28643/720/eCNqAm8uH4bJaZdRzWPjTwD5pynrvB9t.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP10 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28644/720/CGDYnwbkhcFZV5aAfP4E7gqeXSNv8UBs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP11 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28645/720/EUYvejc8372DGzRB5msbFnKrSVtWZfTH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP12 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28646/720/cEQaG5AKhdYj9Tmq2NWP4ZbDCrn6JFs3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP13 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28647/720/vVmn9c7zjDeMEJByqXwQ8pFhS5gZ4P2f.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP14 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28648/720/FbxXq9B2m7RQWsy4tEwJ8AeCpfvnMzYH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP15 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28649/720/HchmdysNb2S4PZnV75ktj6RDzWXuJfGp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP16 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28650/720/HmCWy7Neg2rJVY5vR9jDwMcbGPEnp8t6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP17 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28651/720/jTz2EJexp84yghRND36cBHKQWYCq7vk9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP18 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28652/720/5ejpAa4vT7KFscWSMqCBrmUH8NhYDnQw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP19 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28653/720/q3kUrY9NCxdzAVSBPFchEpaXtQnbuM4K.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP20 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28654/720/WCHRvMhXn79bBTPSudwExYrAVG2aQg8f.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP21 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28655/720/AtwBMU23gjuvsd6nE9GVpFDNJ47q8PKx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP22 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28656/720/GpvwfdEbJaUQr64T5gFA9yCNHZMcYSzB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP23 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28657/720/BpUTbKCJ94GNy6QVuF3ae7gDPAEhz2vw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP24 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28658/720/XspUMuzRa4fZwt3kGrvSBdKbWgcyQTjN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP25 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28659/720/MXYQEsWpC5kFUTAq9gGND3wbduv7PfJm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP26 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28660/720/uDg4CkYbPERv7FBca3tyxHm8TMJdG2n9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP27 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28661/720/3VZGaAHcPkJKxEbCXzyS7nFp5RDrfmjY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP28 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28662/720/ynYhH82saEGFxW5tBV9kPSQCDMzJwcTf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP29 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28663/720/KtpUuaThrEG9ARMZH4qYk3Dn7NxFsVye.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP30 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28664/720/DENr4H9BUT2jyAPC76XFqZphakdfSYuW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP31 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28665/720/jzNkedBGDP74fKbx9wFMCpsrQtqE3RHY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP32 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28666/720/bPg9enTHmYtCSxrQJ8VcwX3jZW5aGk4M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP33 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28667/720/DBMcAZCRYxhdfy2wgQ8u4aGK5TEJ9Wzt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP34 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28668/720/T7p5aPKFM2QDxwz6AgEbncHtvh3jeJfr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP35 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28669/720/qN6hr4ajUD9MK3cbEkxVBFsCzGgJX8ST.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP36 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28670/720/AEgqFvxZRcwMJXa973UTbpkzdeV2N6sY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP37 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28671/720/cEsUH4CtdmwP5VFpRrakNuzTGqA6KSef.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e58e4c030c1b4ebba134c485f939fadc-1777028558253.jpg" group-title="👰🏻Marriage Plot👰🏻",👰🏻Marriage Plot EP38 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_647_28672/720/mCuyFB4Sz9w8GvjrgkMbTd7WQZ6KVRY3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP1 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_651_28854/720/wQYTAezaCxED5bgBhj7tRHdrJsGKVmv4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP2 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_651_28855/720/6KbmyhAD94rnvgTZ2NRQ8sGW3HxtcJfU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP3 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_651_28856/720/kmhQcSBjqf42ur7dHV9GKzxApMtWeJ8s.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP4 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_651_28857/720/vaXmbxgwVeWp9tq4TKBsGzujdEk6PryM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP5 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_651_28858/720/PfxqucdYE5X2TB6RaStvsebw7n9mrj8Q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP6 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_651_28859/720/vDG5sAzwW96Nh8uYSnM32eBVbPfgJmZq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP7 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_651_28860/720/S2mkREhz5sKpuq6MrdBnAjCb83tevw9N.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP8 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_651_28861/720/2nGuAbyE9VY67dZjfBghea5vQxztkq4W.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP9 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_651_28862/720/z7Jk9SDR5a6QgPcxAfd4mvHYFyBhqKXV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP10 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_18/ffmpeg_651_28863/720/VAQcJsvfKFr9xyUaG3ewCnSzMHEPuRD8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP11 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28864/720/gftAcpCZzvKu5kQY8BxjG4q26XsDHJ3S.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP12 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28865/720/ebjM9dQkKA2vBxCZrHRfu8Y3sUwayq7t.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP13 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28866/720/U8Vm7nkJchReMWdyszgECab5TjrxBfHv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP14 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28867/720/u2s5dB7nXAec8hK6SW3DtHayrNRwT9pG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP15 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28868/720/JhtKBYpzWsNrHEq9RZM2gCfm4DUv7Qw3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP16 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28869/720/xuUg7HeNGsQz2VK5yjS8nwWt6CqJa3Tr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP17 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28870/720/5mRaEwZQbhGy69pDFxjKcXs73CAMe8Hz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP18 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28871/720/m8jdvbqWhDKFH4E3ftAQ9weT7PY5cMX2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP19 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28872/720/nSk2JA7F6g9W8axmp3yvQCsjurbP5fDq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP20 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28873/720/yP7bGk9drwCcQDv68YUzEeTtaJWmMZjp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP21 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28874/720/Z9ptrc2xY8XaBSAvwHV4h5NTPy7gbmMJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP22 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28875/720/Qm5pVnYDrcgyqukvFKfWh7XPedxs62wN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP23 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28876/720/cUrCYFXgGzks4DntTJujyWaA2mZB3Hw6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP24 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28877/720/rYb4sCSw9dTVqZzc6RefJG8n3MayFkvu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP25 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28878/720/fZaB8CQHdxRUqb5Ww3EvKXPcMSekJ29h.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP26 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28879/720/bZMwzQSyuXs8qP2cnxjJDfA45aU6g3V9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP27 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28880/720/nEbtcsUW9Q4DM76hP2eugqGYaZdkyTwm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP28 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28881/720/2WtmYy5dgxUhZnMGuszkw97ENRrFjDJa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP29 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28882/720/MQP34dwctUHqYu2ANyhBpg5EnSC7vbW9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP30 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28883/720/6hpHDUEtym58cGXa2TAQBesZgNVYKPqw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP31 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28884/720/RgHx8tBPmTDWV3hupXak9sebwYjzFfrd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP32 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28885/720/PBtvDG6WkNJud8eabMTRVzyfhsrnwcgU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP33 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28886/720/ay6SpjE9xFCX7dkTWcfVnQmY5AqhzguR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP34 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28887/720/VmnQCc4wj3zpESPUXWGh9F8sJK6ygkbe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP35 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28888/720/87pHwVCZYk2FKJnRD6zv9S5gseBWrtcy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP36 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28889/720/maMAfxkZ6j4v3wuXy8nUF9ctgNWHsSQE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c59b7c46a6be4ef6bf86b05c30e1d71b-1777028552688.jpg" group-title="👰🏻I'm white moonlight's stand-in.👰🏻",👰🏻I'm white moonlight's stand-in. EP37 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_651_28890/720/Wv9Ftmyx7UGaTeHr5NKjEQs283MCSwDB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP1 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28927/720/cptv2mqNrCsfR5uU4xShVXwBeQPW7Kj3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP2 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28928/720/8BeDJygV2XfcU4CYGpxWd6ENP9Sj75Mk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP3 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28929/720/hDT74GJZbqCXfsmnveHEzgKFcV628SwM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP4 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28930/720/kRGS5M7dqer24HpcfXh6NYzBwtyJn8Cg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP5 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28931/720/8qbxKrtm6Y4vSXuPTQAJFRpdMg79znaH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP6 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28932/720/QUtudXmfq24NaepS3Yj8kJAcbZVKyrn7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP7 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28933/720/ZbR4pF2WSBkcGzrJPx5u3gQ6sKXATnhj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP8 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28934/720/Dmd4Q5E7BcRrbzk8UhqfgVuW9te2TypN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP9 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28935/720/VEjYfXUv57JtwBFq3Gn4kQ2dsHp8mzCa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP10 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28936/720/vC27BkNf95ZxJR3EabuzjKGhtyw4HgVS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP11 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28937/720/g7dZuXb84cFUpkeHyrtjEJxKaCs5qD9m.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP12 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28938/720/fVrYAHTe9jJuz5kpQWKNdmx6UabgZS2h.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP13 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28939/720/phTkR7U2HQbMfBYAJZqxS5DWng3PCjdm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP14 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28940/720/Q3XSRHJeyKjhxwWT8ptYFvuM6GdVnDUm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP15 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28941/720/XcYEhqAn52msDa63r8HT7j4bkF9ZfdWJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP16 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28942/720/p7NgjmFWd28fMEw4sCyGkcPxQTrqBX6h.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP17 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28943/720/BW7pzV4KejSCvmRYbD2yUuXgxNcEkP86.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP18 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28944/720/fZXgA5FMakUQcs3pY8HeWuBnt6b7vGRq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP19 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28945/720/twEGydsvNebPM8H2XRK6AYnakFzrCgSU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP20 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28946/720/rhYgekNj34MACqJdQDRUyT7FnW2vHx9w.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP21 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28947/720/7XmBx85GM6CdSW9syPwcjvHJhEQVuq2Z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP22 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28948/720/9z8wVvgtBerNZ6GaJYb57ycXfUMhpxFm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP23 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28949/720/x7sDT5mHf98PdnrzcS2jGUhbJF4AVBvQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP24 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28950/720/qA3CNVmMydges8fYE6SBtQKxjPvw4zcH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP25 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28951/720/FGn4RX2ep8KJSuTU7yxtZkH6WvMfYErP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP26 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28952/720/JEbwPsgxUFhnr7vYp34ae9jmMABHNKXy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP27 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28953/720/DvVzhSPY53Xjt6gdmf2rkKFpBqcaTu4Q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP28 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28954/720/VgeNuCxXjUTzb3YsK5W4Eadrvmyp9GcB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP29 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28955/720/4dAjZe2sfXRS5WCkTbBJK7EHqcPaYDnQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP30 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28956/720/CKMGnjms7w6kFYhTxHfVEazRUSyQcDdu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP31 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28957/720/mJnRrHN2fXsqV8zuDPdyBbUSk7Fa5Ce3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/54bb8e9568eb44aa802b6ff655e2d1a9-1777028546719.jpg" group-title="👰🏻The Bond Across Time and Space👰🏻",👰🏻The Bond Across Time and Space EP32 [23:39:46 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_653_28958/720/6Mm5dwBnbcDsg29Qk8rzRf4vthWJK3uq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP1 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28891/720/dm3GYV5DJwUCWrgBTxs6u8tycAPFkvRz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP2 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28892/720/Zb6sh3DdFxEzPMpkSV9ugvRc2UwBnYJ5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP3 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28893/720/4dkXRtjD2yQEfFvV9G5xWKZa3sNU6AMb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP4 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28894/720/p7Z4dKrJThzGUgsjNkSMAfnvqF6CEH2Q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP5 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28895/720/J36mtcFEfe8wGrK2BpTgDYMWAaXVN47b.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP6 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28896/720/K3p2xhdEnWAN5cw4PDebSBjGTvHX9VgJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP7 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28897/720/fqYuFnU4ThKR7yBPW3bSzXaQMGN5HCAj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP8 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28898/720/XTFAeptk5qDMK67Gw9vVhSZ4Y8cWxrbf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP9 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28899/720/rHFgaZT87mB5kvnqxVbsMJPpXt9uRCfG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP10 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28900/720/cGsRa4ktnhJ9FXNj63HrWmeYfQDBUP7b.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP11 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28901/720/SpzT9ZBeQ7YycHxWadnEDtVkqs4NURuf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP12 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28902/720/NYSEFhDCrmZnV3p2u5WcgbMGkHqdvjy4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP13 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28903/720/y7Zfa2DnbTuvStW5PHCYjkAhU3gwq8rJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP14 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28904/720/6xUrFY8gAmnZkjVdpHNv74WXzChJRq9e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP15 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28905/720/6239FjBHE8SVmMvyTfrPRgqzXQsatdc7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP16 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28906/720/RBZWbCrKf9NkjA2duyJYg3pSvGmxVwTe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP17 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28907/720/Y4G3gxVCyEDWBP9vkMXz7rQhmScNdpae.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP18 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28908/720/MxeTAHGNpU9PgfEBsFwmz6dqXVjQRknW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP19 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28909/720/vJ9pE4fqdgUDsWrPcZT8QGzuAVhRXnFb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP20 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28910/720/uQry8BjskZdzMw7hqatvXNSbnJDVRYET.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP21 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28911/720/c9dAe6VXnkHjbxMWmYFC7tqUvsK2waJ3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP22 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28912/720/bED8PNfvWw4hM5qy3R2mCTHAZgkBJVSK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP23 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28913/720/fTMD7k6AcGjPEUxYmVwH2nBNaKugrhyJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP24 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28914/720/XgVAwMW3eEBf9cJQrRHqTFuSGdZDPn6N.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP25 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28915/720/Aqp4JkSGbtTR5rdvKZUDhMP6uYC89wQz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP26 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28916/720/ScmTr6fXWedvRpuzCUPqg7sbQVZAJ9kG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP27 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28917/720/4U5seFwEPjS32Yx6qz8uZKGkgbAfQmtV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP28 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28918/720/3yGrFER9zmJjKSpfsVeXQqDPaH8wd27t.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP29 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28919/720/XS4WjV7dzRwEatNMkbBhrpxAYvu58J6K.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP30 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28920/720/7ndaUKeCGR8bgcJhN5Q2k69Tys4XEYrf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP31 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28921/720/a8QpFBRegSqhvwW3tfk5nbdADHxYJrsZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP32 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28922/720/n8QaKpex5sYHwbF6X4czMAyg7mduj9Tk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP33 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28923/720/mnETYF5v98pfZGwqPQg4NUDeu2a3SWj6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP34 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28924/720/3K27BQrFhtvH8EAT4ezVJWdS9yXqsbCP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP35 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28925/720/VGDd5pHwT8uJNRFE62xkfaPrYzKXvUm7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5d855613d30f4e5791a455d19b189a76-1777028541120.jpg" group-title="👰🏻Three Years of Infatuation👰🏻",👰🏻Three Years of Infatuation EP36 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_20/ffmpeg_652_28926/720/2c8HsYZAhjyFWEVmNgdTeaJw7Q3SG5fP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP1 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29028/720/Ant8Zp3ErRqJdXsvHSQ92uUkhT7mwgNz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP2 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29029/720/J3KePnqfRHDby5wEMFkpUtdSZmBC4ugh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP3 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29030/720/zd6ZCDJEGpFcKuTh5rWafV3xR2sPYqtw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP4 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29031/720/26NceAQX5nTuDSqKdxCRpYZ3UGr9aMHW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP5 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29032/720/DXR5WZTCysjkPSxwQUmYznHcv7VaGg9B.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP6 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29033/720/82jmkKY7v63s5tEnAUyafrQDVNgZSCwH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP7 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29034/720/Jh2BNT6kce8jwSdZrM3tAEzUyQR7saf4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP8 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29035/720/qZndSjzaTP28cVDM4WQ6t3R7hAUB5wuJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP9 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29036/720/jV9p87FsfekyKztdgWEcQ2u56hMPmBaZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP10 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29037/720/RwQnC7USmkjTevfHxEbr6sPBDc5KFg3X.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP11 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29038/720/cwKGt6F2AZnvWpjV4CdJM7auxbQEsmUY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP12 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29039/720/MX2Bt3EjRbvygpzeqZxhnkJ4aVwf76Uu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP13 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29040/720/ABVpnN4rbm6FyQH5PjJwGd9ChkXYgTvE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP14 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29041/720/zVKXkvxBbjdgWscn93NFpAmq5HuTJRrD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP15 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29042/720/9f7udTM8vwcBpnEGYsQWyzPeXRKVjSq5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP16 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29043/720/7nt6CZANeqbuTsxRc4f9DavUpQdmSPJM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP17 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29044/720/kqgNj9YFwCRJAGbpMW5PU2xyrQXcu4EH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP18 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29045/720/Acbq7zmkUywSTE4rN9jRYtufeDnMWvGJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP19 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29046/720/ebus67HUB8ZGz2Q5aqYvAWRS4gXNcFMn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP20 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29047/720/67mF42Aca5jxGXHgfKNDPBEyVRWYCwps.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP21 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29048/720/FbM925ahTPnNtGHKAgVEwRry7QvWuemS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP22 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29049/720/qfkWFGN3t6DZYHe4MyJnbSdm2BERsaCX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP23 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29050/720/mwB4W6gSNXnQ9j2xqRPCHEVvFbkzMTrG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP24 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29051/720/chGdqA8Rwkrp3DFCsVZXTNyWMj9xKP6B.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP25 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29052/720/ZCVNud76TzsjJvcBrY5Hy2RKhDftpSFE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP26 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29053/720/HVSBMeQTxgCcazWAvkn9b8m754pJEfsK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP27 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29054/720/tYznMx9QXfqmv3NrSRB8pDCWEwhsA6F5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP28 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29055/720/dtFmXb8G3RsCg5KaQeJrYNzEh24kqMfA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP29 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29056/720/SpFvGr8QH4CWVzwe3nTkfR9hAXPBd2KN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP30 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29057/720/8NCeu3PwtGJaRbEp7ZkrvBQVgYsS4KTz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP31 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29058/720/KZJ5cpnz7CwmMvqESjhDH42FXUyT6gQu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP32 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29059/720/CtEBwmXgq8se4R2WSDFaVvZxTKPMYcd7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP33 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29060/720/bE2FuZ8gm9czwAfGkRKsrHtYM3U6XpjD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP34 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29061/720/kcbhn3a4spFjvtmdyYXMNVHSTQ7J9gKw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP35 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29062/720/zWrKDbkXEYe3j5TcHJUPyFC9uvdVMA7g.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP36 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29063/720/eJtcYZRuP2mgGnSwykUfAspqv4BXDKjr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP37 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29064/720/bMea57vUBNRXWnytrsCzYFwVgGkE896j.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP38 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29065/720/H2pydCnfFmDr53JScavRUqYA74tGKbTQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP39 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29066/720/EAcFVDMrKqbhtQP7s35ynaCBURYw4mXT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP40 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29067/720/ASn3tjQMkrcuvHhfNzXe5mxPJ8UgRbGy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP41 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29068/720/qdJCRzrpgjQ6asVwFKkHXen9GZW32hEf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP42 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29069/720/kuaHyTXVn2ZQtCbGMz37wAScDvjKhNdq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP43 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29070/720/dUymZ9zbJsHQWA78hXMqxaFu6VftSG3j.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP44 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29071/720/wDp5vMhyWTSQ87sRYak6jPGVFAXubq4K.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP45 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29072/720/T4DMbG8QWeq5jEgfANzBcPFmyJk9KVUh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP46 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29073/720/2rYcsqkPgWaebX7MmR8uKjHDFTV6A5tB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP47 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29074/720/9q2EK4bBTu3VYkSy7QeGpvmrg6hnwcfW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP48 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29075/720/3v49THUQXqwfYhmWKd5u8GNzejSs2CDr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP49 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29076/720/Rvmgk9ZDhuePsJSbq4CEG2TQ6KxYnyBX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP50 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29077/720/e9S2cukq3xrzPhMmyZtKAUjp4GWa6sf8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP51 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29078/720/GBFYC6mcN8zJSRD2MT5vKxwEgdtbs37e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP52 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29079/720/XT6p7kShUvujPHYrm2c3qyMFNAb9QJZB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP53 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29080/720/FU7mCrzQ9yjJ4BeTRa6pZSND2GckAguW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP54 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29081/720/vq37ykpStDhGZKBdTAE9xaugUYcjMRNX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP55 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29082/720/XCSnAJKd6GhH7Pfzqu9xagjVt2TMQscv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP56 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29083/720/4UC3SDMGwsbqBjkJ9HcTF2ReZfXrmtEY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP57 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29084/720/MfXSCWU23uRwJb8jZAQtKqHg4F5cynDz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP58 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29085/720/SWd2kj5gGJvFcHaxCBqsbQYKUmVEA9ry.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP59 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29086/720/RPmDXQTkqaeKcgfb6NJ28rMF9dVxHsYU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP60 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29087/720/jGFT9cukygAfBdVbEMYrXDqn42KCveRh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP61 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29088/720/v8NxwJqmT6jQFpktEzf4A5ShVbBRX9Gc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP62 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29089/720/k5BgetzcW9PmnTaUM24SqbH73VfRxXCA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP63 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29090/720/Z7pSGXThRBPeqbnktfwv6gN4sxzUJY2m.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/90e1e543ed6840e08a8601f3c76ec3f6-1777028534979.jpg" group-title="👰🏻Awakening After Divorce👰🏻",👰🏻Awakening After Divorce EP64 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_655_29091/720/eF7gErVs5QtbyGAH2fTSCPB4RzJp3UKv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP1 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28959/720/MUZV2epHxQkSjn6EasNTKvrmcbzy9Jwg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP2 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28960/720/Q4ZrG7apuEen3U5PsBXcFTd28wSYKtHk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP3 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28961/720/S89FU7sPjzpCxtBrVHdGeWKmn5ZAgcEy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP4 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28962/720/4HxmcJz6XT9w2Dhj7ykNMF3ZBupgnKqf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP5 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28963/720/z2wZVK4JGSuRdpDTX3Qh79F8amrMePBq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP6 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28964/720/6D3pZb5frRS7akKtFWPwh9BvYxuVQGHg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP7 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28965/720/n7VCarqJyYGbwFgXcAjSt5hBE4NUe3Qd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP8 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28966/720/U3Fp7AcHwhRWu9v4DSNQyn8BKtz5VbYd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP9 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28967/720/qWJMhSN9t8BGeZK3HQjpVPAud2zbEC4X.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP10 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28968/720/62xerBPvFs4MdUZaHGq397uDmWVN5Ecb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP11 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28969/720/yPBucvCTxftR629XqQzJerjU5SE4Ydm7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP12 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28970/720/9AGM8a6NFWDyj7bYu5XkE4PwvQnsZ2cK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP13 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28971/720/QEmSsXv8BgRukPj9b2ptqGaUAyYDK73e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP14 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28972/720/dBjVKwECgkFmHhqNe9xsRz47nMUfSGZp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP15 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28973/720/NB6vfFZPEW3CKbVRDr45k7Upat9xAmGy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP16 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28974/720/Cjy7QWEkZK9fbPvmDJgn3a8YNF4q6xtu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP17 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28975/720/qWPU6yTYSV2DKhZBmARQsNnrXzf7jpuC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP18 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28976/720/cmxuRvCrqHkK8behYTGQA7zNfDFw4MWP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP19 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28977/720/askhM7HjgY36EBGyzTm8NAUJ5ZVv2RPf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP20 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28978/720/mHzDpYAU34BJc2y9MFh8tvdNZRqaw5eW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP21 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28979/720/A2hH3BC4JYtkdp5bxKMZEwT7WGnQUzVD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP22 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28980/720/KGwS5pbcgTWtMfVjqFE4ANJvQXDHR3Z6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP23 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28981/720/B27wpvHMzS6yXRkrKm4b3YceQGAxqFUZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP24 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28982/720/m8R2j9vb3SKxHwkXchpdzVTDPWEytgqB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP25 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28983/720/9W4xNy7DZs5CarKuGYjV8zUSp3begfEQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP26 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28984/720/tj5hVqn7QbWFHDXYwmy8PafEJ9MR4gzK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP27 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28985/720/UuDYE2shRZrb8Q9KPzWngHt5jNF3Twdv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP28 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28986/720/c7BR9bYzPk8qhHDVfFSuT34Z2varUJp6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP29 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28987/720/Y3Ng5U4vQAmpu7ebjdJWXsBcnyFTGqCE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP30 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28988/720/G5dRDpxWcnUKTNh9ZVEyufQFwaq48v7A.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP31 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28989/720/amG4hjVEupezvcW8JgbxsAF9BkfTUwQ3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP32 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28990/720/fKmjwP63xSHMkyN4nDhRvs2tYAXrEFeJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP33 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28991/720/KThsf2jDYztw57FHdaEnpXvb3qxyeAcJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP34 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28992/720/zGYUqRSCNFf28byeEWwxPg94nJcMZhBX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP35 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28993/720/gxQnrpjECzR3ktWHsyFaf24dq7bSNBVM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP36 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28994/720/ybxs7z4ZP2HmEJq6wtTdUf9h5vWXgApQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP37 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28995/720/4zmwxWSYkcXHMj8s935bAnqTgyRavKUp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP38 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28996/720/aF7YmfNnJKd6ZwDxsE9qAz8GRjgPye52.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP39 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28997/720/MeUWXN5YwPfvadsEgQZ6CrKtpnJqFjHR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df05e41934d54d4786c34cb864a0e6ca-1777028526701.jpg" group-title="👰🏻From a Coach to a Court Strategist👰🏻",👰🏻From a Coach to a Court Strategist EP40 [23:39:47 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_21/ffmpeg_654_28998/720/UsaPGjyfZ7grVTen2cRDqY5h3AC8FmE4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP1 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29098/720/hPGA8nDbtEeUMu6xdvKYwXrVWqy4f2jN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP2 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29099/720/Ntxd5qzVuDspHyvrhjncC8TPm9ZeWwJE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP3 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29100/720/XqjehW5zUuFNSM96gE3aDGy24kx8wJQn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP4 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29101/720/2QDXWKaN7GtmFy3A9gbThHSdeYcJ4kjq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP5 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29102/720/3BscFQVpvZ5J76XuzdUM2DwGNPrWe4qn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP6 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29103/720/YFpwnkSyXBdHV3T4KRc9af6AJv7qW8GN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP7 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29104/720/nZ5as7zd9fMWJFPKycXDt3AHSxYprg8e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP8 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29105/720/rzdbRth45uCnwKpcUDaZXGVJEP8BT2HA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP9 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29106/720/nVhw2vrQCuFkX7Ng3WRtJxYH4MBAjbca.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP10 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29107/720/jJmqaXV9nS6hvY3b5yxBcfAE2Rp7zWst.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP11 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29108/720/fFAygYMqremvzcBdNUw7R2u9JVQD8GaH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP12 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29109/720/xSBFQJAw3VmcanNhpXGfudtzUvHKD8Yg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP13 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29110/720/mdcZNgsejW8XkFnfy3RzBrDqtYHhQ7v6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP14 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29111/720/n3TSWZghDBXsvcydjCFxRNbHw9AEU2M7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP15 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29112/720/T8PCtjNdD3YAK49ZzGJ2yEkfbr7qwVeW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP16 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29113/720/n8EBAwQH72qFrksbzTmM63XJu9CWZDcG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP17 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29114/720/TPmkD7GwtusxZE35nRAyeKcXYCNzFbBU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP18 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29115/720/vHhDf3GNWBUK9XVJ257MzFswgkd6SeyQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP19 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29116/720/fwpXN9QsgrPtWu3VkCSBTJh8zAmbevjd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP20 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29117/720/MzShpZqRQ4TDe7srwgbGmY3xayn9BCJc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP21 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29118/720/7EAG5aQu49krZnS3hcqFeJxUWwmbB8gp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP22 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29159/720/uk45yeg8QqjcPYCbHSr6xWJZRKAhvdtf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP23 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29119/720/kfgVJd36HPCEwmyzA2tGvKrXUB4aR9Fp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP24 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29120/720/kXecrtnC7TQV86ybHZwmxWBUdvKhY4M9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP25 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29121/720/ZfwBXbWVn6UeNgvr3Qsk8Yx7MTJhuCGm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP26 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29122/720/BsGkwxh9Y4EzD8U2jpSgm5NR3nFcVPqW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP27 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29123/720/HCE9UMybpQJWPjgS4A6GvdT2x8K7fqek.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP28 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29124/720/dfkB3AMGywPTtWrv9qFZpxSzn6bRmuYa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP29 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29125/720/St6MBYe2V4PrdEjpZThRbG8A7uzDJanf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP30 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29126/720/SYx9y4MATEUtjZN7cDGrFum63RBqbHz5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP31 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29127/720/MYq7suJkA3W9ry5ZpXwDQGv6ejBTbVad.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/2f4075173ef8430788ff5fc95e74c9d9-1777028520396.jpg" group-title="👰🏻The Empress of Imperial Capital👰🏻",👰🏻The Empress of Imperial Capital EP32 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_22/ffmpeg_656_29128/720/h2AgenZzqGf3mV5X4xKvWrBCdDSMyNRT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP1 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29188/720/xNDdHgrXEMVJv8aSAQf7tZ2ksYW64KCP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP2 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29189/720/vJDaWTGFK5zrQfU6PkMg39VZnRmstxHy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP3 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29190/720/zeXHgxJpPuaSCNn45URr3k2Btchq9DsK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP4 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29191/720/zRar5D98um36G2KYnyACdeEtsXvB4pSZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP5 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29192/720/8RMhKEXZHjbCeN4DpwzuJSyfUPYx9asm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP6 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29193/720/uESMgrWx5kq8ewmjGcZ6Q7FJT9BXfaYA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP7 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29194/720/4nVp7QceZy2zqEasTKJgGC3mYDH9tPNA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP8 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29195/720/mfqzS8xc2u3Qg9ZDGtFMXNdrshVw5Aae.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP9 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29196/720/XqKMuCTGh6WkxSJ4NZzEQ5BfR89Hcbtw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP10 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29197/720/ytAJGfqQxjS8UgmcNET6a97nzY2RW4CD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP11 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29198/720/jpgXaQTwsGkFNMr6AyDnc7vhUCHueS28.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP12 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29199/720/rnwexQMD2Wzs6Smv8HBTVu4hXUdFpkgA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP13 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29200/720/BVtSmc3UbkWa59fg8FspxJ7CQhTn64PK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP14 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29201/720/fpb6NRHsSMVXu24xhZv9yg5WjmY837wn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP15 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29202/720/578jmhUHRrQdGxB4K6MDytv9VfZEAp3X.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP16 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29203/720/vhTSwbqPWdfrVjYsunxMNUFGkK4ZRaD7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP17 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29204/720/95gFBNzafHXnxJmDKqRvQGbedESswh2M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP18 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29205/720/RvG68Z3m9sfjdY5ADzUrNSHqa7u4MKPp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP19 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29206/720/yEjq5axksN4AvdXW6cP2getmhZwbnFBr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP20 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29207/720/VUqZrAzevskGn2KdcxJCwBb5SmNyY6pD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP21 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29208/720/9uDc5UXGQ6kqZamnP4pdfHrWsw72gYNK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP22 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29209/720/tryA4FDfdbhGBVNesHnmMSUXuJpja8qg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP23 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29210/720/uZGvbq7KeAYjFdkHy45BVMJTaEwfNpCX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP24 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29211/720/xp3jnEfWyT25mJDkRbHQS7gcsVvdFtAz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP25 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29212/720/d5JsSAjtcRfUbhEK3vG2BZzqkgDHw6Vm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP26 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29213/720/57WjDzJdqNTFmb3tMYQRZgvf9w4CGhrx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP27 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29214/720/ZhjY6xD38nQwCTKrPqGguFp9sAtRbJXN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP28 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29215/720/8hTxzsCmF3Ae5DYtRKJbvcdSMgr49qaf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP29 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29216/720/DAeWyTj7uBkSR9Ggpt6V2XwnmaQ83P4c.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP30 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_23/ffmpeg_658_29217/720/KQED4hZSx8c3JC9mXTatnUfBWHPdpy2N.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP31 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29218/720/4sDEHSwfCjnAdF3UMg2xWhmGbK5ytqzQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP32 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29219/720/XwS5TC7k9DpEZjrB2qMGUuF8tehxHb63.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP33 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29220/720/ahSpc7kUb9dBEC3RJ8XKDqyMu4t6Ff2n.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP34 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29221/720/MjEmtNqH5h4k8cfvZsuWdbrYpAV6QngT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP35 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29222/720/SZHwecBptPGn8TU3QAbyqfmdMFVkXvNa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP36 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29223/720/Z78hb4aAPXYqK2vGWyCpEnkNMz3x6HBu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP37 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29224/720/GkYM2XCTPbqazEf4jQV95UA3K8cJB6dg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP38 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29225/720/HE8RvJs7B4YjWepT6kVbhAuGgPwF5Mzr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP39 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29226/720/zZuB98y46cMEjtpTnVAWsrdmbDvkq5Jf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP40 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29227/720/yzujRkweKfgJMqmr5TEDnxPBpd8ZHNbA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP41 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29228/720/DqASCb8xGHhp35e2EmgfUT9WrYMKZnzF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP42 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29229/720/FuwHBDgKGhSU6RMV9qnykxJNPmsejdAW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP43 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29230/720/PWUcjvVNqmw87hk4XaRxn9AYugbD3Cye.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP44 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29231/720/GHJgrSX9qyQUhC3KtxBMmjf6Zd4wzFPk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP45 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29232/720/TpVgfZnz5yuqKS6mev2Q4G7McJhUPAjw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP46 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29233/720/3hMQ6bPHjztGafRSwyg7ZEkYeJ45CBu8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP47 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29234/720/ZU8sta2zNHSv3pVjBYfweJyXxDrFcKgh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP48 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29235/720/VFbNZCSJ48TGWH5R2wxPyQrdB3neAasq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP49 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29236/720/r7Q2d5WNmkfKsMEa3BwhAYTjHuc4zFb9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP50 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29237/720/SYpgP53MamNyJkAzuG4ETwXx8WHdvhFC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP51 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29238/720/2yYXfnTRr3EVauN95PcFZ6AGbBe78kwK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP52 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29239/720/tKA2TPD7BjcURhVdS6mbNHaJvk4QpqF5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP53 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29240/720/UaJqCfs8FWz3tVBnpgjSxemTQhMurR9v.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP54 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29241/720/KH3qFaxJBZdGkrYURemN5CAyt9XTQPpS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP55 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29242/720/GFSqguzstD6y89BhdMafv5ARPxKmbHCX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP56 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29243/720/GRBdbwv7s2UCrtFT4aE8QzM3p6mWkuqg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP57 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29244/720/wu7cMCf6zpANTxbdSyFv3RPrUWZqJ9Hg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP58 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29245/720/Zj7Bfh9rtWmp2gbuAzEeRvVQMT6FaxUN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP59 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29246/720/A7g864QkjwVWbpvueSTcahyRBE95D2Um.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP60 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29247/720/BZHVTvbqGJn6r29jkExaz7mwUgsKXy4Y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP61 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29248/720/N9tsRz3vDgXVdrjaWf7CmEKpH2kATn45.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP62 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29249/720/4BxzS5NXGQCUmu8jMKYJDAHFhZ3kn9Wr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP63 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29250/720/SDhvyXR2Mzq9Hguw6BZCjfa37JVdpemb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP64 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29251/720/z7FtWYydrTkCBHQZ6EhbsVAjuGNnmeM5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP65 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29252/720/TMS2GJwyPnvVrzENqkgRB7QH3xhmsu9Z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP66 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29253/720/MNvQ4fJdE2sg3zmbGqye8CrDcxTXkVUB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP67 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29254/720/vkcrtpjF5BdyE4NPCehZUKDg8RzYa2nH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP68 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29255/720/NB72Mn5zuDSmwvFtUEVyAd4CGPcK9h6Q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP69 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29256/720/e3fpRKgabkZnUJzDrQuxwG6tXANY4PCB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e9fb039f4a7c48e28af5d8a9724d9fe4-1777028512615.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP70 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_658_29257/720/vrVRud34y7UAFMDtjW5mXBxwJg2SHqhT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP1 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29258/720/SX3EbAd4RYg6UHqw87aTtDZCMGsxKV5F.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP2 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29259/720/CmxNd3wDBPrA7qnT6W2VuKQegHtpsF5E.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP3 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29260/720/jXHkx2etNwqJ79MhKAvrWsapD5zVudBc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP4 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29261/720/JtGrgZTME54Kdes6QxCfRn9wUSjvbuap.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP5 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29262/720/h4TJqM6vjHBDnp8fYZ9Wy5SasPKQmGNE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP6 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29263/720/YeJFq9nc76HNpds4WRPahuS8zTQjZwyX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP7 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29264/720/p62v3bgqXStKTmfcPBkzR8VhA9EeH4MQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP8 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29265/720/f7bqsdZ6Mcx3wJC5gmnRzujG92pDSPTh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP9 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29266/720/RX6j8ctQU9CqZBhneNxba5WPzdVKvJrE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP10 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29267/720/BFKSWpJQqcrbmhVgz8kTtsRZu4Yvx7yA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP11 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29268/720/ce35KZ28bDfzQCtA6UVMG7wBsaWxvp9n.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP12 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29269/720/ChyrTHsqmxJcYBvneAQEkMVb23GZdp4z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP13 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29270/720/s2P7Jy3VZvuFzMnUqR45YKC8pBS9exrT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP14 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29271/720/uYS3qnbKNjzp6gQ5hWdJaCeRys4fHrTU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP15 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29272/720/GQeXbFVSgRtATKC2JEndHm3P8rpYUh4y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP16 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29273/720/GcjaSwTNH2gf6M7PeVYyA3E4ZdrCnts5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP17 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29274/720/mKFAdwCPj2WUH87rBE9kq3fGZJVNh6gT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP18 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29275/720/cuTKyad3tMZFDwzV8kpnNb5ehGWEm6rq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP19 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29276/720/S7vRz6FA2uKGsVJ4bake3nHWCP8YtpXB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP20 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29277/720/SR9kUgptaZPAeVq7jwnrB6D2EfuNKY4v.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP21 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29278/720/v3crjJHTSwq6ANGBX7VKunegEp92kdfZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP22 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29279/720/6P7X9QYfcRTGdUwAWv3nrhkMex5JZsqD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP23 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29280/720/NrzsAhv4H67qX9TEn8aScWCeGJKkRFd3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP24 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29281/720/MvrXxTCyYadR76gbW593cSntUmAzwH4p.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP25 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29282/720/z9hD5ZNAamRW2QY7pPbqeBnSkVJtf36y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP26 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29283/720/NvU2Be7j4WrhHYwp5bF89aPDkZs3EcAu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP27 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29284/720/uhw9yJZBbPgHStdCsDzW6KkrmM5QU3pN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP28 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29285/720/dhXRwBrf8tFWvVHU2CTPZcYA7K9QyExM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP29 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29286/720/Wwasg2Nu6mUBFyRh4XJC3HS8fAVqDv9b.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP30 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29287/720/MarHy2NSEU48CBWpF6ZGmhxtjkTRdbDu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP31 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29288/720/9kSvTesjumQzJVN4dypDGP83Y6wBhUWF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP32 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29289/720/gyzBJhsvNxRcrEuQneHS3DWPa6Zp4XT7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP33 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29290/720/Q6DtTZhA95WgKVUpJ27fzxnePGdYs8Mv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP34 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29291/720/QpDxHg2MaYKkumtdA7fRnV4P36bGcJWe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP35 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29292/720/MfHvzkGp8gT2u5ZWdK7xXmFq4nPUJQVR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP36 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29293/720/UnWs4kgmMTVb3azCQ98rS2wDjZhP7Gtf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP37 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29294/720/XTbZH6yDt8PcSAp3jQBY9sKGMxCNrwhm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP38 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29295/720/cKuvzChAFaGVn2kpxteyQb8EYdWPrj6H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP39 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29296/720/WwGSUxPB9ZYEdMrfnHasevmFA2Jjq8yT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP40 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29297/720/gdT4MHQ6tsqfRZvxFD7aCA2B3ykjE9Pc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP41 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29298/720/AWnCq23xmHzQSdb6PfJuYNMZUVKys5vp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP42 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29299/720/nZv6ET5e2hN4MaXGjB7VK3cbsAkdFD8J.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP43 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29300/720/NfpPkCWyFgBK6bsMHdVUhwEG4un9aRSZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP44 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29301/720/4bXdakfz96K7JQqceWAtxsCuYhRF8TUv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP45 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29302/720/43ZaFKy5nRdsND9vzgVfmqXG8w7SMJHT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP46 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29303/720/RBKsxZyCcUbtNrkn4aG69gFT2Se5A3Hh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP47 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29304/720/j9fmxbJRXS8zsgPMnA2D6uF5pdWTCBHw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP48 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29305/720/RBDa7ECVjfg96HPQmS3qxesJwKzFXrut.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP49 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29306/720/Dv5d3cEt7UqsRQrAKapfS8mwCbyTNxVB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP50 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29307/720/XVWa7kSjvBUCm96PFJpeu8gcDTzZYwr2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP51 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29308/720/5rA7xmCzJNcjMvdEGhuHyPebkqgUWRFp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP52 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29309/720/aS6nfX35kVzYr9vwcbMdHeWKQ47DNqjg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP53 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29310/720/fg2yYkFEQAPzjcWrZJ5NhVt6RbqG4STw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP54 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29311/720/84nc3Hx6ST2WvQVmgBzJZa95qMAjNrKX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP55 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29312/720/d5Tb2nuKwjWFSfUJR6g7HmrGDc9tPkMC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP56 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29313/720/QFzBfWteV2yDnXTaRHMurjGCd79xJqpw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP57 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29314/720/2zDWbU5NSk8EqagCxGnmFpvHfBAPtjwQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP58 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29315/720/9Cru6ZxfDbvYnhVdRPFm7tzS8H4pawMQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP59 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29316/720/gwdCN9xHWfqsDpmXuhES6tevQkBZ4bjA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/919f05072fd846b6b7be6a452d3e55c3-1777028501649.jpg" group-title="👰🏻The Hidden Mighty Married-In Husband👰🏻",👰🏻The Hidden Mighty Married-In Husband EP60 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_01_24/ffmpeg_659_29317/720/cHZy6Adj2vfQW9DCRzYkPXawGmnegBTM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP1 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29318/720/ekdvJYKxSaZV4TURh3ngmD8fjtF6AMzX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP2 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29319/720/gpuwsKUNqRm786razbQ4hXFkTBx2ydfM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP3 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29320/720/rvmMGhBV69zfFq3bPWgEeAU7wSYsd2ZQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP4 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29321/720/9db3Jcw5EQACWMpxzUZ6SYqKrsD27GXe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP5 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29322/720/fYjdZ9V3aXFEM8gQGKUR7prncwueAHsS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP6 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29323/720/K6N9k2qVwzYjrbcfaFy7ZGQTS3dm8MCn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP7 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29324/720/PpDzcS2HqMRCsJejkTa5hBNY3rQF9uZf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP8 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29325/720/KvbXgRqAB9dEjTMpH6kCaVyxUrFGsS4n.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP9 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29326/720/AmZTVCpu4vDW9f5yenkrBs2qXdSgM3tz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP10 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29327/720/tbPFXf3dRTKsScae5jJUMgHwv2VNrnZE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP11 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29328/720/xgW4Gm7XSkPfNtVqMA8hFKbHzacQys2J.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP12 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29329/720/r9XFkP3gpScQAsGyTtHZu8zMfBdaNxb5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP13 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29330/720/M2ufKY4JAH5DtUZQSgWcj8BRhaC6Fyqe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP14 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29331/720/dAC7knvpRJDSUyBMWsZbHEzegt9qNxcY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP15 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29332/720/7QpVygEZSTkRnwfCNmG9DFbdPW35XJhe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP16 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29333/720/YcmQednrhwFMT94kxAJXZ7HBzUqfaN5E.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP17 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29334/720/KEwCXWF3jDJySPaUvb9eTMBYHmfNd4sr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP18 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29335/720/vt6WXxhwf8qSa5y4YPT3npVGbDuQJe9H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP19 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29336/720/Qn8sx43HXJCGf7zDNVbAMkyZYS6r59qR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP20 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29337/720/tVX3WpuCkeBZEGgrPmKjYhUw9nTDd845.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP21 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29338/720/3M6ayNfXhYpsSRVkce29uEzg4tH5rFJU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP22 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29339/720/EwpUf8ZHXRQz4A5eKgkVr6CGvFP7nsBT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP23 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29340/720/3TJhjNmfUZ84kbapySYQnxw5CAqtV2zg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP24 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29341/720/QZEvqPxkCzVwfHMyg96RpANJ2cGWDBUK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP25 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29342/720/Jc3Usnwbgx26FXaQDMNA9huZyHE4BGqm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP26 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29343/720/bqKSB4VNAuXefZzF6gQRWHmsycD3x5Cd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP27 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29344/720/2ZrcqaukSQb6dGFNxEf7XnUM8v5wsRH3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP28 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29345/720/2h7wnpSckZWqjs9tJzuHB5UXgQYDEyFV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP29 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29346/720/3DyP4mfjXptYbescWgUJv2ME8udGnN7C.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP30 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29347/720/8UYsnq57tcQGuTawBFMgPNhAeSvd2pkV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/5aec31587f034d0ab459d27abde8b5da-1777028493423.jpg" group-title="👰🏻Master Fishing👰🏻",👰🏻Master Fishing EP31 [23:39:48 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_660_29348/720/a4AQZwdThJGY8bxgN9WvBHPMF2DXpeuq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP1 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29409/720/Qy7BM82dxNnZumhjEbTcRHVPFgk6favq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP2 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29410/720/M8par6nJbCkDUWmjwfZyARvcK3gETFBY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP3 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29411/720/QqNsnJ5jXr3C8YKcMx9wg2bfWhupVeUt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP4 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29412/720/tyveEu8M3Z4A57UW9qDfaj6SXVpPhRKg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP5 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29413/720/UZYerC9jfyPwTDSzt68ANH2s3VEpcGvK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP6 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29414/720/xGf6wPV8yAtC4bsUnkeDRgB9JqWFMdYK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP7 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29415/720/N2RY3vpmTebkS6zEcnADytCrQHgWJ4fx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP8 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29416/720/SmN8FCM7UdXAQgyzsGBYbnvkrTtVaqEH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP9 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29417/720/hDgCpH3yFxvq47PsMJtdVEURbnrcawNk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP10 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29418/720/D9VCy5W68ngHpNaUGjet3kBPQYzhEsuc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP11 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29419/720/j9CKPN2QHusXkRdgGETwzf3v48UameYZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP12 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29420/720/8w9psKZRBMguame23E67AdvqbCDjxfnH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP13 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29421/720/7cNg4KR5X6WQDEJMPCzVmjTneF82rYhG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP14 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29422/720/E3MgXKfFpTmzN7S9HwxGnbVYDPaW5yBA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP15 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29423/720/SCYDqHAzyNdpPVRXQT9J4acg5fhBbju2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP16 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29424/720/tTp8guXkajrRbVHewB2CUxZd3fnWNSM4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP17 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29425/720/VC2wH3YecaPQ8XnEDv4bmtG9qNxpRTfg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP18 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29426/720/4XWsxrcEa7ZUChDTmM52zb3qHKguvyS8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP19 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29427/720/uAsvEpSd6YJfCyZwGgeXz5894UxmPW2Q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP20 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29428/720/Pkrp3SdCxYyFBhjEvA6WcbKzGwaqZX2N.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP21 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29429/720/M3dZzEQf7F4Hp5rDbngYWqcPBuk8RVjw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP22 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29430/720/KDvTfHbNpYM9mxwG4gZzJncsuE6tCA3h.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP23 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29431/720/mkqxs2V9XNyPbzjGTv5chReHWMEaut73.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP24 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29432/720/N6wbzearH8VA4JyFm72ZhUXgYjWvMCQG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP25 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29433/720/6Rn8tzFPm5ewKfNcDrvyJQ2Xk7paYg3C.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP26 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29434/720/GXvkMQEdyxNWqDrY8nBpbCstaAu93cgf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP27 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29435/720/4jx278pUmKYWcusFSbEMZwJfVHTaDPGz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP28 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29436/720/fQNEZr2sTw7UJtucKgb6z4nWAhpxXRjD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP29 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29437/720/nYMEUrRwHtAzFXvJ5DSC26uQPjWkBVNy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP30 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29438/720/VZPmDEgwSR7MjJu2t9Y83XcN5FAxTeKv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP31 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29439/720/3bDgtWmacuZfTPMEh67V2pQw89FNd5GH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP32 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29440/720/bDgTrVymzFNY8hMuHJ5EW4cR3xZC7aeP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP33 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29441/720/5MCU9x2jpqmd7tWFaHBkGEcZAeswuyRb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP34 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29442/720/A4v7GwHhMCNBDpZWzmVurYy3ebTj85ft.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP35 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29443/720/TznfSUmXy3WpvZKG9QeBjkCFxAq5Hcs8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP36 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29444/720/f7RQmyvwNhdqPYMVe8JEtAsj5kX9gZUx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP37 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29445/720/XHhbC4D957k3rgMzZAWtcB26GUPNJqys.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP38 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29446/720/JvD6FH8cqyUuWNTS2dn4EZ9sxKVXkePj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP39 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29447/720/CNHs5Y7g8pj9Mym3GJfRTPcQFznrw2xu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP40 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29448/720/w8PC3eNGSKU6Mur4bZAsyvd5nJhmfBFx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP41 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29449/720/KARs6XNqwPrxzmdQyY2nfvUMCEZteTha.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP42 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29450/720/hQeVHX63r7zWp4yRmJaxESdkbBGqvtfw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP43 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29451/720/q9HGbnY8EdUD6TrWhBsfgkxACFpyuM5R.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP44 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29452/720/2JerPydB3zXg6VvNY7cDsaZhAuwQjf8M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP45 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29453/720/4yuNPShpRtXrCmsM5bTkVKqUD3HWfxn7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP46 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29454/720/NC4ZsUVa9uF8brYpBkyQn2JWHAShjgRx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP47 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29455/720/e2gjQEPWm7Yxsc69bZKq4UdNwMVhR8yn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP48 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29456/720/AScuXWZtpagG27MYVPxTDrRnbEFyvNwf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP49 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29457/720/zc5EeXZfyYKbHMm8rSRdnjaB9AhDwkqG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP50 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29458/720/rjRyke5sAHxGWVYUdQzSF2MJg3KEcvbt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP51 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29459/720/k9UJxdesyvaf3qYcKgmz8bXVFB4hjw5r.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP52 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29460/720/ZGqEwRsTX5ab87pAVQ6rUjxYKhgcmHfk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP53 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29461/720/wYfaVm9CgKQkbpJvMGucDqU2S6HhZd7t.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP54 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29462/720/ePjt6cAWdTfpy8ZGqs9ShXxwmHnNYK3z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP55 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29463/720/vcUyNBQpChGWmj4FMergXYJkz9fPHuSs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP56 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29464/720/v6Dy3TuHjecnKqXg7fZAa9V8FMkUpmNE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP57 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29465/720/7g4EqVswpxHk3Bf2z8MAD9bcCtrXd6eY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP58 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29466/720/r2pMxmfkavnbtdCjwRz7H6gWhyA9qVU4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP59 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29467/720/zVuGUnHr85bBkRvcKZaWspFEy29mwSfd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ae5473f2c30e4788815fa8af2a16cbcb-1777028488106.jpg" group-title="👰🏻The Light Beyond Darkness👰🏻",👰🏻The Light Beyond Darkness EP60 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_662_29468/720/dRKhMJZfSF46VGqUYpszQkwtADCTrv9W.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP1 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29469/720/ZrAShybH2YC8fns3FKMjkzmQ4aWgJU9x.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP2 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29470/720/pFfeRkGUKsHnd7XQETYm4BvyNZhtz5qu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP3 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29471/720/SAgCqJ4rN8FG2nKjv937hfp5XdYVbDWu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP4 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29472/720/gU2kHFhDBKZdn8mYzr9S4NC6MTysqGRW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP5 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29473/720/pbXRFTSD9GEfwxkhsvBHAYgeWjaVtZCK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP6 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29474/720/NtdWrJQ5mws38TVXUubZAExS7KHFfGYR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP7 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29475/720/ag4x8vhA2GNzRbuq7tQc3ESe9pWsTdXf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP8 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29476/720/GmNYxuXk3KVM6EtTcRjAZhqbHsBDzUQ8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP9 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29477/720/6s5MAhFGQ7W9pHdfjtqZwJgzUK2anCXY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP10 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29478/720/XHRezQq8DAWsZUmVxhawvNgjB432f6SK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP11 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29479/720/68UpTAtXS3HMuw5b7yvKG9naxkPFJzQq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP12 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29480/720/StKTFqrZdpnzBRuwjX5ha7DyQCvMVWHA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP13 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29481/720/6HKkdquaWMDwSpQ2tbj4fGCcPgYNrE59.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP14 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29482/720/63WyCZUkvcFxrsPTdwpX7uAQe2jNSEH9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP15 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29483/720/vUHwPuSsdEzXWMR4DNGn2Kf5qbaVx39C.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP16 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29484/720/mSX4z5u7fEvA9aKYh8qwPspNJ6TCdWgZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP17 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29485/720/ukAwGNUEYHCf5yQsbaxBZ9VKtSqDMg67.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP18 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29486/720/UdMkVwjstxcHvGNm85y7AfhzRXg93ZaF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP19 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29487/720/QUNpweRZ7XE9sbnkrfSmv3y4GgVz6JT2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP20 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29488/720/gYwfnVU72eTAGxFCM4BJX9dD6SsyPEaZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP21 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29489/720/stvYyQERepnjcNwfkz7WdPG3uAK2qZTB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP22 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29490/720/Dcmxhg4Z6FwnkGN2AyXEdHSb3PrsM5Cp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP23 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29491/720/a8rXucy7SKjJv6gV3BkPA4xqz5nwNpDC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP24 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29492/720/7UpCHxeDV3fEckT85G9WFuNMAmwRBaYX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP25 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29493/720/H3UCRJK2TBsAWXby5t9qVrF4mevuPcMp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP26 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29494/720/CEyvkpGuTWgcfK5swhr9eSZb8JXP6jRB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP27 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29495/720/GAUBx5wtJ9u6eMT7Rp3fWcvzVYhFK8sE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP28 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29496/720/nyHZdKq3MGWjghctefNb6vJQ59SsuDPp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP29 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29497/720/QyTqjez7wCXrvWMNAEUZmh48u6SsGxb9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP30 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_05/ffmpeg_663_29498/720/3Cyfw7VPD6puA9BeYUqktaTxE48bmGzc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP31 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_663_29499/720/wXtEnjVF32bsk7RrBUgh6GvH5MqDTy9p.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP32 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_663_29500/720/83SEwP7XrVqyDh6cfzdB4AUsMGWHkZYF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP33 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_663_29501/720/D7AyRm6jgNauvZUCd8MKrbx9JfHQEq3F.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP34 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_663_29502/720/FZSeqdamVtx3bhrQnH6cs9WEUMGDvfPY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP35 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_663_29503/720/k29vhrdpmsyVPgzewYZaSJNn4RKf6t5b.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7e9c309f738848d6830ddb5c38a74653-1777028481641.jpg" group-title="👰🏻The Dual CEO’s Wife👰🏻",👰🏻The Dual CEO’s Wife EP36 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_663_29504/720/hm5yWqpz4K3XQ6rjE7NkCxTURfngMuew.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP1 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29505/720/u5FQCgXcJyqV3b4tSK8fDs9YGBmaEwjh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP2 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29506/720/g3RVGrpU9Txf4zmtN7AdDSaYEKPyeJW6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP3 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29507/720/USpKardcz9kDqv7ATxwbmE3BeZ6FjN8M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP4 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29508/720/zYskM8dwNVvQqxcSTnXJFf6KE4gjGm29.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP5 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29509/720/8bGv6cns3wHWStyPNdTUgx7k9ARMDaCq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP6 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29510/720/BwZuzKGmhpafd65H2UrJgW3yFnDte9VC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP7 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29511/720/Kx2wPUzTpmR3c9QusjaChJWvt7bq6SVG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP8 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29512/720/JfMaR6Zyjug4C2KEd3v85cPAqpHm9wtS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP9 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29513/720/YG5c96ZEuegSqDjXPp87hyHNtQkJaMzB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP10 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29514/720/xV6qcEXKa7YsUdWpMehkrg3jZNTCfDJ8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP11 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29515/720/XJxQDN5E3aZsveBh7HygdTqSm6bkKfCt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP12 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29516/720/cmSsAdGr4Y6ZbK83nP5DxqMwt7CvgEWQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP13 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29517/720/dqWwHPy5tpM2mSDbcCNsfTX36RkVKhYx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP14 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29518/720/eW7KrcDghSN3JRntw4BUxdAqTyQHu2EY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP15 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29519/720/eN5KWct7sVbHZgJxkTXfUpAuhwvzy8PM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP16 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29520/720/K7XT9MZJUcsn6b2j4qRvCGSAdapuHwWN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP17 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29521/720/SFBcdQxsR8YNVJn23A76EzqpkruZUDyW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP18 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29522/720/QH74UknEqKAmwBgFfxdez8J9XhVj3tWD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP19 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29523/720/yH7E3vZcXVWTDd9U5YBS4fPn6AjhQkpF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP20 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29524/720/xugC3WrTbF5KvEDfsU4cHYGkNBM2Atp7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP21 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29525/720/zBQJsMk6rweSXv2Ff7n9UYaPxHjRyEtD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP22 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29526/720/eH5FaqCTfPtA7zwhXd83YQKEnrcZpxkM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP23 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29527/720/yP739KxFp8a6RtkG2DezEbN4fHVwuc5Z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP24 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29528/720/KSj27xDf8ZEq3kdQRYwu9654gyvcVBAa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP25 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29529/720/uzMa3PpJekSUG7ExAqFTcXj5R4BdHsyV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP26 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29530/720/hYvs4SczeHGU6kJtF7wDQKXyfZabTAEB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP27 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29531/720/uPjhUYgtGyM46RxmNpHzcZ9KfJwFS3qn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP28 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29532/720/gkfURzyFQxqPNJCDvmt2csMpB9EX5e7j.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP29 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29533/720/vxKYfu5Aedj4c7ZwSpNEy3UJ8bQCXaBk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c74d1ad73b7e4cc8aaa5a9c559dbcfd5-1777028475366.jpg" group-title="👰🏻After the Life-and-Death Crisis👰🏻",👰🏻After the Life-and-Death Crisis EP30 [23:39:49 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_06/ffmpeg_664_29534/720/hSPMZz6c7RQvUyT2sapCeYjJ9WB5u3Xd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP1 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29566/720/vHKYeEa3UVdRkuBbF6Ttyg7hSA8P9WZf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP2 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29567/720/jV8mkJ93FGYHrXAqtv75BhcU2fwba4SP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP3 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29568/720/uxXaU7Bn8zSZfWmtV6w4AryFdsvGjqNh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP4 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29569/720/DMCJncvRd5W2V36gptTqNGFjZhbsf4rz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP5 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29570/720/URkYc8W9asyD5fNVGqPEKZ3Fv7Bup4SM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP6 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29571/720/zcHR84u6EWpVASksfYUFgm2q7XhxeNdJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP7 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29572/720/pZXMCKEU6we3fxu9RrbGHc5vhP4QNVmj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP8 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29573/720/EdxsK3vVc7SRjyNGQ9eZnaJbmqtru2MH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP9 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29574/720/GHsCyWSbmN6ZKDABxeud2fPqjXRcFJr3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP10 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29575/720/uDeVkNvACP7Wapg2qSKx8cdZUnQyhBFs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP11 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29576/720/HYBD453aPQSpMWjF8uwqJ6RGgkndrmvx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP12 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29577/720/x4J6ZFuNkMQqVAThXBDWmSrcYpd8EbPG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP13 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29578/720/u3TSXdcbQ5M4BRgCrG2n8tN9sUjKzDWZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP14 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29579/720/nBKSN2eyZ7PXmHkzbvqtCuaWjGM8hJrg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP15 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29580/720/3umefZCTbd4pB5jWERyFDkztUNSXqQrM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP16 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29581/720/HDugZA8mEGXkacYytF9Rx6BwszJKhef5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP17 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29582/720/8TK2C9mGJQBgaZ6ywYtFbz5VXH7q4Mec.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP18 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29583/720/QBUy6amstCSzxj2dwEcrK3b4kpYPqZu8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP19 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29584/720/X8EyC9n2pkvRhtVNr5sHZYMKmDdqjFWg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP20 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29585/720/QNYyXVRSHb9WUstGB4D3xAcuafkCmZ2z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP21 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29586/720/f2UMSTe4P6nk7FpCKjDQhxgzuAZ9WRJy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP22 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29587/720/RmwCJZrhbdtk9YxXp2N8uy7BKGHsUTzv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP23 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29588/720/q72FjECRGSXdY6KkaJVPb3hzm4Ag8cvB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP24 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29589/720/V5kavJrKg6nzXjRe2ph4wUGH8PmQfNFB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP25 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29590/720/FxgvheTkCmwANBp7QKRVcqnUM2WDrtSs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP26 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29591/720/3tU4mRBgva2kjYyNKESW9z58JsGQnx7h.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP27 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29592/720/xQFKGPBqvAWSHRb9urCJzTE2f4ZyVh8N.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP28 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29593/720/VrKHdwJbCqhZz26sp3QGBmRcUTe5YxnP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP29 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29594/720/2nWkcGQMxmSqvtYT63hpzPg459BDCHK7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP30 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29595/720/HkcQKt4pvsBMZ2JnGgYaw3xdAz7CXyPN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP31 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29596/720/Sshrabyu9RWYv4QpPCBqG5jgEwVmtKXz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP32 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29597/720/RADYm4nfFyT3VMwEC9jJ2czPsZtdG7pe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP33 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29598/720/TJvQ8GcXCH7ma5w4FxpBNPSWtMEyezA9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP34 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29599/720/nvgz5em7SQK2GdEq9caAYyf6hjWMRsuX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP35 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29600/720/Jmz2Qnh3a4XBgG5PvVKxZAd89C6jwrbT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP36 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29601/720/gQfG7AFtDXakYySC2RKe5wj8NnudbcBP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP37 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29602/720/NZMf4SpuUEGwzvPAc56kCDxym2gdXaFT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP38 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29603/720/KMcNqXSHZTCE6B2kAswuPevnh3aUz85Q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP39 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29604/720/ebWkF75ftPUN36zRGrDxAVMYXhjQZ2Sa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP40 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29605/720/9ksn5ap2SfhxGJNWbMFVTZyBr8PXA6Uu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP41 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29606/720/5DYFheJvwztA7mGa8rsKj3UPu2XdxgVf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP42 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29607/720/Ff6PpesCNVHB7KbYmwdaXtUAxZJDS9TG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP43 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29608/720/PtHB7acqdDjhQv5wFbNXxApEz6nMZWug.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP44 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29609/720/7NfYcx5qCF6QymtMGhU9j4SKgks32aZX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP45 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29610/720/9pmxYJfgjZ6BtqEk3cu5zHbvwysFDN4T.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP46 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29611/720/b2gBMmuzrNwavnT945dxpKEA78ZDYhfQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP47 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29612/720/7j2BMfebwvXuECg5DGdQ4cUVnZpyKm86.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP48 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29613/720/GCsyczFufE4AMdStZWg5VewpjXrhJxNK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP49 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29614/720/6wY5MQb4hK9jv3NX82naHgkDFZCGtVqu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP50 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29615/720/GX2W3EhRS4JNuQFtcU6AmkzyHCTD7sg8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP51 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29616/720/yBRSPUm9qdwFhDQfrjJGCbcp2ztY6WHZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP52 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29617/720/5Ja6GdK9UVmrcWZFxwYMy2PzuAg3hHE4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP53 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29618/720/XTQP4yj8bMU3VRHSmZNJgw5uxDKvEF7Y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP54 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29619/720/V6xTbqSasc2WDNXFp7khtY5edfynZUEv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP55 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29620/720/9Ywv7KNyXVrHJAmnMaURuezZGk24x3TW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP56 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29621/720/XRtJ75N8AT4zyuZQvwnmWb6MprPGgdqF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP57 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29622/720/ahErXnSbKmMAW6ewGZTzNJDpBC3qRc2g.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP58 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29623/720/XKFrna3TStd5Cjh8qmcQEZ79BsxVRJ2U.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP59 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29624/720/6TBXCSRaYgMemjZPxtwE8Qhs2yVcKndG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP60 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_07/ffmpeg_666_29625/720/kPKhZ6D5H8BuAjemcrSTEzv4QdaGwF9J.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP61 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_666_29626/720/jG3AwZ7UuRQJ49qFDgCmT5tcHhpeBPMv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP62 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_666_29627/720/9MEn6tYhFAXkCRSav2mdugNcrTy5QVpK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP63 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_666_29628/720/eDj5gMTkSwGP8vrh6C2RnKsWJ7uBXYbH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP64 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_666_29629/720/YxPWSvk4HqsnKy6Au8fbJ37pgdQXNh2j.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP65 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_666_29630/720/jXz9sh8EN6JKeSrmx2uCV3yWYPdvFkHT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP66 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_666_29631/720/GPuNrXftdmncDzjaYCQg2xh4e36sAFKB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP67 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_666_29632/720/yFXcxMGtjJBEZsm5zH6kVAd9uYTbPD8Q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP68 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_666_29633/720/hJg4Uc2vEdb7wrY6CFXBQ8ZuAqkeamMy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP69 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_666_29634/720/rskH5qpP68XgtcmBef4bVvFKSRWyn37C.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/adf0e72b4d254cb29eaacecf722c25ab-1777028470831.jpg" group-title="👰🏻Reversal of Destiny👰🏻",👰🏻Reversal of Destiny EP70 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_666_29635/720/Vh2DM45Fj6gCmWEkbHJNq7nstTa8PvuQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP1 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29636/720/3AJCdycQRb79eEpzjtTshGXKY2rfkPDw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP2 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29637/720/ez5yMP4wNVUXEbRr7jpuBJshQatdcmAC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP3 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29638/720/Ya9b6rvjwUAWEGnRSs2qFXH4x38QDc5B.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP4 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29639/720/MANWFsgq9edmEBX3vbucK6Rh75TVja4H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP5 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29640/720/6zBNXvVtgMhj9HUk5wE8emKWT2bRYSyQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP6 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29641/720/CTfg8YaPNuJs64kF7mDByd5hzEjcrASt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP7 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29642/720/SZDu4cjqUwAN3ydQh9eP8HxBmY2MJ5zC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP8 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29643/720/ERUdGxzQZht6YjeABamfbk4WHp39CDrK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP9 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29644/720/GgNUDpF7hx4RXSa9skP3TrwqmzQEjZJd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP10 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29645/720/7prCWTXAf2cby538s9mBFtvYR4eGkSgj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP11 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29646/720/HQ6xFmpy8DfJnde5sgPNzuAW4wKVRc3h.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP12 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29647/720/dZsAUGgShV2CMHeBwktjuxD5raTEKy4b.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP13 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29648/720/5j2WgUE3vPTp674kxQFVNJYAnybZzfHs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP14 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29649/720/RtkqSTYsV46dw7Ep5ZD9AuXFnMChvacP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP15 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29650/720/ryduCPhpJDYa9c5sHEmQA2XSenxNtZ3W.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP16 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29651/720/uDjGt2FvUbJ8z7MRAYPwyH4ckehm5fTd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP17 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29652/720/kFV43BuNxdzy6eMCG85mbTtJawDPghHp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP18 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29653/720/NYZk6zv3rse8uhFfX2PxacnBVEU7GARb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP19 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29654/720/zaxQ2USuFJb3eXhRdH59YtAs8NWwMgG4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP20 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29655/720/rzXaN6VB7AfxQ5pJ9YykU43KRtSjGCWT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP21 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29656/720/4xqNJKR5YMAaHGZd6zQcswrgkDXT9buh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP22 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29657/720/26fE8BT9JjcvCVNhRkwy3ZHburWePFAt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP23 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29658/720/srwQJFvTEWSnamfGx24HDVBCZcRzNkth.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP24 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29659/720/D8jy9nhrcH46kbFqdGKftuW5xVCmYP7Q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP25 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29660/720/fUmT9PntSKWRVeJHQa8dsbcF3kCvDyph.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP26 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29661/720/TnJBpY9dz6k7CaUmPc8A4Zj3eSgEDbK2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP27 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29662/720/7v8TCuBZ2nGacr9JwVdWphmU6gM3EySY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP28 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29663/720/26D3QnZJ5wbkAhzWMeVfNpUCSrqx8XRm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP29 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29664/720/FYG4QhZ6j9VbsKHBu2MDarkqdyU8c7P5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/7876c3f9a453493c96edad02709e7fd1-1777028459761.jpg" group-title="👰🏻The Marriage Scam👰🏻",👰🏻The Marriage Scam EP30 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_667_29665/720/AgyGtkNrW4cPdaufZqvBn5F2mM7s6HCD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP1 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29666/720/UEuFx7Hmk4ZMbQyJwVBN2de8SRz6PfXa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP2 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29667/720/fbJr5mnZtpawckDPW7QBgeKS2M96F48q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP3 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29668/720/fVuZzXd3B7KN2nFYACEkSQjTH6eGyqvD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP4 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29669/720/wh7Btzn4P5gEv2F86jkRNWHsfJymrVaA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP5 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29670/720/8SVpmCBTbtEW3aGAKgD7ur9kwUsj4x5Y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP6 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29671/720/DsvZxmfu8XzYKjJreR2WG3cCPkwytNS7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP7 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29672/720/rAtWSg9RUNpfXPZzYaxjG78y2n45eQcH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP8 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29673/720/rkM6npfHSvwPcEezGQtRqj5TCJa9b2uF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP9 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29674/720/KEuUpnrW7RwYJNhcmBPzCMkVH5b6GFf9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP10 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29675/720/pYawdkVWcmhJ2K9gj8MeTRZByUXGvbNC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP11 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29676/720/zXAYnKrZPg4CJEkG8HR3hFxp6SU7T9NQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP12 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29677/720/pgXhuAqKy6Ww7eEcJrxQmN5HBGVTkzDj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP13 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29678/720/4ABXgT2jGqJab8z7PUZDQmndvVWwrRux.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP14 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29679/720/d79sfKcmBRDtbzUwqPv8YhNA2WueSJZC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP15 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29680/720/NG8nb3YaM9VQ2DrAeXmdRjHwCfks5yP4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP16 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29681/720/WM3FeZmbQgVYau2xErtNczKsGfRDk9PU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP17 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29682/720/nED8q6s37tFdMPbxQN5jrGXWU9muAZBJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP18 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29683/720/NPYJ874XnfydUbvaKm92rhTMA3Fw5qBZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP19 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29684/720/HhwD2bp5uFez4kdNBQSjJcvtmRGyEsaZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP20 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29685/720/AKgGJuU2mEVavSDTj8pNfxRHFb96XQYq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP21 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29686/720/tyFV7qzWBGhYdZpxnU56rTfRk8J4McuN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP22 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29687/720/u6xKGDrEqN8sTbA7kjUXF5SP3WenRpcg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP23 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29688/720/CrcDUmXy8aRQBTJ3sVAYuK6p27PtZNjE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP24 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29689/720/gW27TBxqJ9cpbjP8Emu3GCe6DaQVAdFn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP25 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29690/720/6h4TZQvtAbuBJd9KqMz8xYr3VDcHSjws.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP26 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29691/720/nu8B2rQ7jVc64RtmdfJ3DNayXFGvzCwP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP27 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29692/720/XEGsr9TCNcHVgd3Q5pzR8kKS6v4MYjFP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP28 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29693/720/nKQaTFpC8W75cVXb69GRfsudegmBMzvq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP29 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29694/720/7tTkSMNZrXCHa24gWeysnUbuvcjAP6pF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP30 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29695/720/YUdQNp3TVMjxFHGBqyPazgbfwnvDu6s9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP31 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29696/720/53T4rZF6b8aS7hVdyujMKgtEwJCnWPQU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP32 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29697/720/3eTEkvCxPbhH42m7dgwrAVBQM9S68ZpK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP33 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29698/720/kqaW6GhtYK5mSJZb7zjTnUCRr4uMwPsg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP34 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29699/720/Nxk8ER3F4dYpX5BH9WJgC7v2ehnbPyaQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP35 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29700/720/sMFSeTx2Utb74rBjnmvHP3DwpWhuZG59.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP36 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29701/720/AWKsXDBURdTx8jStr2eQk7mFNVaGYz6c.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP37 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29702/720/farBsu4HMgY7jGvxXSDT2n98Fm5AwQhE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP38 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29703/720/eUVkvamtjqJrdDYxwSfB3ARhE6P5KCGc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP39 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29704/720/72kWqtn9epyaGTYh56FZs8HRDgEzwvc4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP40 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29705/720/RMHXWkFJE6wfeqY7Av5bdCj2c3mhyUsx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP41 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29706/720/dTZ9HQMXgsWCSaJG84cRDE625eBNnzx3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP42 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29707/720/AS8UcB76DjkmneYdNh3XtRqW5bMQsuJG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP43 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29708/720/KsTGFeJjX74u8yUz5HqtQPmNvchbfErB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP44 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29709/720/nUdpDuy3WQ5PbYekZqthAJwr7jSXfBMa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP45 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29710/720/B8TWzehrR5gwqVvXQ6JtfE3nmucyp4MU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP46 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29711/720/uYHNkV8F4AD6XS7wTEeUZfRQgBC9snbW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP47 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29712/720/FDQ9rnyvJV3xKX8HCbdBw2MsA6TWZRuz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP48 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29713/720/GXPCfjEBQ7pakz5gZYUuwtJVyvAnqdsc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP49 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29714/720/VhcWgNs5pKm9ZY6ACtXnTqMeJjuG4wfk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP50 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29715/720/PEZfUTqmQxKA8HtpF6vaSNgeB7Mn4VGC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP51 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29716/720/6MSTR8ACwbfBhuKqZdxGa3F5WU4gEcne.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP52 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29717/720/cCN24r7U8yX6KQVHkB9JWSeEDawhsmvT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP53 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29718/720/TqDbHP7vs8d9jha3QX56JWtNuKSmerfA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP54 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29719/720/2GQygUYpjFfH64A7bWVBh9n3uNJcwDdt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP55 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29720/720/SRXVQJ89YEC3vf6MGjnqZKArkWycPg5e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP56 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29721/720/Y2Z7fqTQvjpSAeyrmHdDgUFtuhKbVkMW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP57 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29722/720/HFaAbvmTySh6Yr7XDBuxRc5M93nqdtUN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP58 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29723/720/5RymKVsMaWrfGkupvtjTgAqJeXDzxYdP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP59 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29724/720/J4CjypeYUNDGEqT6ruv9WtsQMwFamh3c.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP60 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29725/720/YZ2xhXGTes7z8RauSAqNfKmykjP3gFEw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP61 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29726/720/e4BCYfP6Ha8d7WSV5ugvptnTcZ9zMwjN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP62 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29727/720/ExaZsYFWcRXAKH2myhnf3gdvbqSTNV8r.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP63 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29728/720/EPpaYycFzG4vgNkR2SM5Uusfr6QjXmwJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP64 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29729/720/Pc4sv8pb9mQRCwAKq76G2VMdfyJSnHWk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP65 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29730/720/pZXnmRMcyJqjTSuKEFdNUt9a3CeGAYsf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP66 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29731/720/GpwhnFA9a2sK6Veq8HYNu3jX7MxcW5vb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP67 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29732/720/ZqeDgFapYySzb7CfB8n9ukXj3rGHmUVh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP68 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29733/720/xYUtBZCqFVJcu36EPrNsWSAGQXpRnD2y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP69 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29734/720/bWA3wsM69FVBJgCHDx5f4GPNEQUqcznh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP70 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29735/720/pyCDUgWX78P6SwHaQTxZjBhsRAGmr4u2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/4b022c1309314e7aac3cb65d6340658d-1777028450284.jpg" group-title="👰🏻The Hidden Heiress👰🏻",👰🏻The Hidden Heiress EP71 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_08/ffmpeg_668_29736/720/y6DgpKsZkuEcHSYNA3ReGTd9MCVXFb75.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP1 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29737/720/96AbXNtSFypGUqRzZkweBE4unKxcCWYd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP2 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29738/720/rqgyNHFTvGBYE85kxjR3A9DebUPsaZ7K.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP3 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29739/720/RJkwxBT5rGpe8FzbyaNQHgP2v96djftK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP4 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29740/720/v4qCrQSKmH2E8WfPxwzcgnkNUesJBa9t.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP5 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29741/720/r3V5wz79PKEygWMa68uYtqfFQpmkCSDZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP6 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29742/720/qmuyKcbn5CftQE9UpVvG7gBYxHFez6Jr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP7 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29743/720/EPuyTesdFDJmq9jw2Y8NhrgAHRfbMQ7K.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP8 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29744/720/n8NQBTXWkH2FjvRwxbfm9eg3DtJGY7hP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP9 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29745/720/k4crHfmUMwSaWCvRtA2E6DZ3VzBne8up.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP10 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29746/720/t6gXvUB9sqVJPfRZmTpnM3rSHcj25DNF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP11 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29747/720/UcFCpSY5b7XvZPG2xB6hKVaufgrw3NJe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP12 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29748/720/23PetT9Unpaj5bYhfWD4k7ZRvFuJgc6S.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP13 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29749/720/WFX45298bhMQuDd7tgxrEqJesfnTYvRS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP14 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29750/720/4TgMEAcqv5xa3hk2euDXW689fSVpwdZz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP15 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29751/720/wa98Axs5VRe4dNjb3GnKc2Wh7qfuTkCQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP16 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29752/720/uDgwUXGfbBKQ3WhH4P5TAZ8jvcymeJMt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP17 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29753/720/tvxnW6PYF2qK8jHdBbEDMyh9eXRQgrmZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP18 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29754/720/BA4cnPW8Mqjy9J2tQupawGkfTvVFzExm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP19 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29755/720/cnDxhZNAEwzPFeR7UsHgWtGvQK42JkmB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP20 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29756/720/XWwCtkFfUsu6RzTZSHAJb9Ydp5Ve3r8c.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP21 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29757/720/qw9pkX3htxRHV7APeaT8uBQWy4YSzDFv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP22 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29758/720/BVmtr2zZhjbFyesaH57uWDx39GACk4wM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP23 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29759/720/2tZyR8czpTgaW35EwSm6Y7QjUDGJqA4x.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP24 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29760/720/3HteQGpPfM4mys7zaRu59SUBvj8qYJxn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP25 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29761/720/zSxquAp6y7T4wa8ZEPbvh2WdjckUBCY9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP26 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29762/720/nsBWdkD5ZTGAgjMrYK24y6JmxEQvNHF8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP27 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29763/720/RC8SZDGwjnBNfds9zb6cpqMk23JTxemE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP28 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29764/720/47eyCkwzDpXK9gABhU5ZJ2FxSNRnfHPj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP29 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29765/720/baqw897dJfSmQzPEB5MC46XtxZ2Hk3eG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP30 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29766/720/H9kgWAsPCTnfKcv2MJRhNUYj54DSaZEQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP31 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29767/720/wreu5vj6aYzNXBW2Rsq8hcJKVTF4xPkZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP32 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29768/720/cG4nV2zSv3QXHmTY7g6KdACDahwErqN8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP33 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29769/720/NHVGzrCfdM3csQqKPB6gESaRWX9m7D2F.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP34 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29770/720/dbYVK3utpehRsABrxPaQ2q5cWfmX78GS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP35 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29771/720/gw6mRzCNntpxUscfkeZXDuFTSK8PQ3h5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP36 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29772/720/rnSfBAXNgGMK8hxUPk2wp34mCYqtv9uD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP37 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29773/720/dvFHM9qp8aZm2ytnEgPDXxsTASVeRJYC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP38 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29774/720/E64VUp2zhBvQCRkntGdmAsZYjX7JS9HM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP39 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29775/720/RHCeBVN6k3xyKYMfaPFQ4gX7Esm9r2dh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP40 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29776/720/kNjw8y3TMpvfFKP6cDnheCZJ2dtgU9aG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP41 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29777/720/vTYcCG69te7y4uU5pdWXPZk8rghEnAMm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP42 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29778/720/4fznkHyEjDW7mMKvb2dwAcFCRaZshptJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP43 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29779/720/snw3RHTZ4VkBtxSK9e5qaWQ2mdcAM6U7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP44 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29780/720/wtYhxs3S9APWbnNJTM5KHp78fyXgvRaG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP45 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29781/720/5JME7gfQ98PNVUvbDB6k4AYscZSWaGFT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/22e8412110fe476e83347527808a885f-1777028439985.jpg" group-title="👰🏻The Return of the Dragon Lord👰🏻",👰🏻The Return of the Dragon Lord EP46 [23:39:50 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_10/ffmpeg_669_29782/720/DNce7yMPjdGgfnXuJUrW2zhBS9KRqHvT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP1 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29783/720/xkdtrT2qyvDXWZVpfje5GRMA6NbUP4gH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP2 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29784/720/nRuf7QMhmXCqx3Wag4DEysK8TdkzjZUG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP3 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29785/720/DX4yawPbgSC8rkeUpGjz762YnxutBZqv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP4 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29786/720/EcpdvsxCPkTVDJ9K5YqG7n3h4fgRt2FM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP5 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29787/720/NDHmv2eMnqPy5Wdb8tAKXxShFpRUG7fj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP6 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29788/720/xVcjtmWBvN5bwAHd3f6972E4KJCG8Rgp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP7 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29789/720/8A5p6PebRUFJzatKXsqETDgw3dk9uHNQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP8 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29790/720/Y2u8WRvQfDUpySb7gJwqM9reTt5CBXFj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP9 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29791/720/g8GK5FtdBvWNnP2yr6EUsfTHZbaCj7uw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP10 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29792/720/e4hkAjbXCRPtHrBKaqx5VD9GZmSfT2EU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP11 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29793/720/5bMcf8ntxzCBTPdhZrqSXv7DeWKGQpU4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP12 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29794/720/BqhsDNmjK4Tb9xRF6Mt25QWXrzfVwYCy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP13 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29795/720/6cYbFQwqGuZUartyghDR8sn2d5CxNHSV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP14 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29796/720/52jVdT7hGbruNeDxpHZFEmtnSg86YWAX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP15 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29797/720/ytp37XgBrfnz4Y8SdaWQ6jThZ2cxvNRJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP16 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29798/720/PcUZmWaN6ChYdb4DEkJn7AXzy3vjQeVr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP17 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29799/720/Z7QTDhENGKMCjdqXtkys9gPmUAS8cVwr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP18 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29800/720/haqub26Rfkg8ntyvjTNCcMxeGpXB35V7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP19 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29801/720/9febgvJu3nUca7pCAQt8N2rKyPkZFVdY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP20 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29802/720/mhrZEfMqU3NcHSYgsRdzJb26Pk5AX8aD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP21 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29803/720/QPMbdmwqpaF3tX59uWBDvNhf4rk8YEen.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP22 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29804/720/xak9rAR8UyGwbBvh76VMeXWpmcYgsuPq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP23 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29805/720/dwmUZ79kSa6ngeMTpV42DRyPqfBtr3cj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP24 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29806/720/uZEf7qdB584tx9RVkXUNbhKMnWsHPwaC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP25 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29807/720/FwcX9gDArRCzVPva72JGfN3pKZS4k8um.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP26 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29808/720/HAbynKErxP4Xgvuj6pmNaSwzqtT37f5C.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP27 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29809/720/4VpZgWEadmYSDJ5Q2ehPCs3GHufwMFyB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP28 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29810/720/ZmhdFz3QHxe4YqKsPnaJwWVpCRv8cjf9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP29 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29811/720/mtYFfuvndyjkHZx8z539XTg2WQDbr4hp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP30 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29812/720/Krnb9tHRDT54zdpAC7PSWNMv2gyfweJa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP31 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29813/720/j2SnGxaUpKdXtvyrTM4N5qsQzA968ZPu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP32 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29814/720/7kVnuEsp86XUWd9jtRhJGAem5qFvzb3K.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e96bebe05e6943a4868b65bc9dae80d9-1777028433639.jpg" group-title="👰🏻The Illusions of Prosperity👰🏻",👰🏻The Illusions of Prosperity EP33 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_11/ffmpeg_670_29815/720/Wym4urcq8FAQMGwkUC3jnVx5SstDvfZ6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP1 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29816/720/pZAn75qyavYrJbgPTXSN3c4VhUeBsx2C.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP2 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29817/720/6R9GNwHaU4z2pMhEZJdqvcQxmWDbkgYP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP3 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29818/720/8xmZuaF39KrTDyPb6fYjQBt2zA4CEUgp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP4 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29819/720/rjK3mWaPtD8wNGzTguCVdfbxqMRnQy9Z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP5 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29820/720/znSKDBAZx5du37wJjCXfWtNUPvakQ2r4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP6 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29821/720/xQt2awHFANcKhEZ3VCWekqdTmYzg9X85.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP7 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29822/720/8pqKFkj59mhM6DwZCQPWbzTxv2urfEn3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP8 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29823/720/dECr4N8BygMJTKQxAb95euFaWRX6Vnck.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP9 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29824/720/nuaqDJN38zY7K9CQXA6TMr5jcEwGHhtv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP10 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29825/720/pZmABkD7X9zbewajrsHW3FRT4N2Kcd8g.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP11 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29826/720/W5Ez7xjakeXd8muqNG2vQsZ4DPA3CVUY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP12 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29827/720/vaYUJ7SAEzk2qt6wubFVgQpc94xRnCZs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP13 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29828/720/5jfmkchHwYAeKdyJE4CPZqtRzUpbTsu7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP14 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29829/720/RgYCH5D7qM6Ec3mZFawJQGW2Asj9kzbh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP15 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29830/720/9AWtMd5jEPuUGFskhgD3pz4NCH7bwvXa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP16 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29831/720/3yuCBezWwhQFSM8EnjadXmHc29tYKvkT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP17 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29832/720/6SsgdpUNFEq8tbDY5KfBRc4amuVZnW9z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP18 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29833/720/EsT9MUxByj8YarZGJvdzpWmNRkwc4nf3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP19 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29834/720/HCh7beAXvy6SY9DGkPw3rxfTRVaWZgNt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP20 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29835/720/nQqAYfmDBJ3spGtZMV4WHaUXvzu9yPTj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP21 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29836/720/43vmYt7DrdAGTS62pcKHgzB5jMeUCFnw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP22 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29837/720/BHwQjg8AGrcRxsmbDqpfdSayF3Vu4XzZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP23 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29838/720/eJuCt3FdEHwWAM6U4GsR5kXgvQrjZ8Yh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP24 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29839/720/VJHAb7pKxrBasT2nWuvXRg49Mtd56jFe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP25 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29840/720/SBhjsxY5pD7uG2m6nvyzAc4bateFV8Qk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP26 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29841/720/y56MNp7FPrGSxXvf8Q4CsdDKTkRnaVbZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP27 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29842/720/7vK4cd8rJuUbQDmNWjanZqsM5B9kwgyF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP28 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29843/720/wh9skqCRx3PubnUEyTfrcYXFdvGmHSK5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP29 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29844/720/2Nu3ESjHqwXAgRasZVxhcvpyJGQF4rWB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP30 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29845/720/37HJVmw2qghzrEfFa8ZTNvKGSxkuYBtX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP31 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29846/720/vdP6hb3BQCGfF2n5KRDasXwNc4TJzmtM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP32 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29847/720/82tEkDyZ4P5cwGmShbdJf936AszHaVMU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP33 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29848/720/rkmnW62VjhZNPHyBCMcb8YE4eKQtpAUS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP34 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29849/720/FuDEyqpkzHgTYr4Pv982acNCZARnmeUG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP35 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29850/720/znQcBFKeu9gHPUmVG7pS6EY2vj3hsqtZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP36 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29851/720/dZ2Au4JBRDGCwMFmVYNj9PsHW856kTEQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP37 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29852/720/G2ApNc5uX3SzRkyfTCrMUHsxqaKQPgJh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP38 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29853/720/6QC5SqTRV9vbnkPgJamdB8expXFsuUjZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP39 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29854/720/hqJb9uSBRngtrmNpA8KdHTPwcM76YZys.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP40 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29855/720/dDK5MYXJE9rU7eufxPaVHFABqwZk48h3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP41 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29856/720/TC9rKZ48SRstWzJ62XGHeghjDmYkfPEw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP42 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29857/720/7qCPzmYsA8MSvcJwNWGX4RnDaKefkjtp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP43 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29858/720/dvrGBRtwCqFufcV5H8s2PDYmATSWgZJU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP44 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29859/720/Aaj6tvZdQc8hrkX5mRVPsNfxSB4qywu7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP45 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29860/720/JMKUH7hFZt6QkvwzBf4x5ecW8CAjS3ru.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP46 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29861/720/wdJzvfjc7D8qVArkQYuBpHU3CygNT6Mh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP47 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29862/720/vsCqN7WAeKHf4grUuJM35GhbE69PVnzj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP48 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29863/720/FvbA3axEyzVpkDPmZKctQNUn5f9djRHS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP49 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29864/720/j9aES7fvP4WRzgtpFMDYJNGwuTBXdrA5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP50 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29865/720/Q3gKpwdkaGc4e8yWYVsNxUmTC6thZXj7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP51 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29866/720/h7Z4dKUBkemC6qgNSFJVRbyYMj8TPpun.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP52 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29867/720/thK4pxSmsubJN8YG3WDdCXvcQj6kR5PV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP53 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29868/720/sZQGgq9bznNRxtAYjXdfh3emcvMF5KDa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP54 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29869/720/yAkd35rYHNDCJgtBFvEVGcU9XaMu7RQP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP55 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29870/720/fTxHSaEnD78XqUW4dZeK5PyQ3BhYmbjp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP56 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29871/720/Hj7q36VpSTKt2gXasPE5xcCmYRyJbdrF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP57 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29872/720/h25qDzpEv3QVaNkgrTCRyM9BAYb7mX4t.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP58 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29873/720/YBpsTMGNb4d8VK3uWZ2U9rChSvX5fQe7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP59 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29874/720/nc6ds47MfUkgNVmprCWx2AbTFuyPGqYZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP60 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29875/720/27aVnePjCvchXysrdGk5NJWEg4TxmwpK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP61 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29876/720/3XTYPkuBWV7eyHjp4MEtwmbhrCG6dNvF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP62 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29877/720/jkHfgx7FCGYypnRTZWaQDzvN3Usuht6S.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP63 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29878/720/g4CpAedMskSnKhY7TFjB96Rfm3tHQExu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP64 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29879/720/WFmjDqJb2Q6e5PVE34xSKaAMCcH97Zwt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP65 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29880/720/aWm4dtF3vfUrqKgQJyZ7NYTjRPuSBAnD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP66 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29881/720/PsEGBZ5Y69ekgRqcfxK7jQFDWm4dNayJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP67 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29882/720/NFzC5SZmfdtnGeE8x46hX3uc7YkbgQKD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP68 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29883/720/nxbp5KCe83TwE4V9fGQJZHYFtha7mWg6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP69 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29884/720/EXYngTPyUAfR35ZzFB84vSmjc2wa9tGu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP70 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29885/720/BJ9KSdAuUPt3DsTrpf4mW7Yzgy5EcMa6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP71 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29886/720/D5sBEGCTZkmRceq9wXfMjnyr64KJvdgx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP72 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29887/720/am56THSsGqyD3FvXMhA9U27kuwJcVjpQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/c2b28d6e817d4f63a0b266ea4ebd7c69-1777028428411.jpg" group-title="👰🏻Love Lost& Love Found👰🏻",👰🏻Love Lost& Love Found EP73 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_12/ffmpeg_671_29888/720/McW8mHQBp497yJ2VKNRDwUSn5zG6ftZ3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP1 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29889/720/7AJ6ZWPupxmQzcY4DgGw8BreTh2jt3KN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP2 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29890/720/hVqwkm3XUWQyvucTGNBEfeJDr6dSC2sR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP3 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29891/720/edPntV76xq9cKzyhXbSskCYjR5EmfFHT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP4 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29892/720/KAk9qT2WF4VcfZ6SPvQnDM3shdwGuXx7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP5 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29893/720/2WHgmUAFbRsMXBnvJta9j43h7pVNzxPr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP6 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29894/720/FHwe3SEXN5fckCxtpPATBK4rY6hJUGWu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP7 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29895/720/FZ8QJfjdbcPDSywq2N47GBsCvzU5MH9u.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP8 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29896/720/nZF5Kv2pMWQVdkGHcjSzUCqeTu8m7Ah6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP9 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29897/720/jD7FGWAeMEtsbPRyxNmCU23Twr8vZauH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP10 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29898/720/CkSJRngDFKjhbyx3Mw7PUXefsm59BzAN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP11 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29899/720/YcFkXK4z7rQN5sq6mdTbf3vx29aVnDtB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP12 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29900/720/ZjAqnJW63xzKfYQ2wUb5CmF7cBhNVsE4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP13 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29901/720/nTKpNhrV3szDYCfZydx49McB6FgbWHuq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP14 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29902/720/UzjtGxSCZRPgA5yhMqrTQFkBu2bmVd3s.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP15 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29903/720/axs2UMkyGE3857tA49qJRDSmgWXKChHr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP16 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29904/720/tDb7AmK9BPNs32JcRzf8uaCExTY4WUwQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP17 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29905/720/XE8pbxKVs5Nf2mtwQ46DzjJyequdU3FR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP18 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29906/720/GympTaJKWnq3CYBAMf8xs5SUFbN6uVtd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP19 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29907/720/wrV79eum53bhE2HNAjY8xQsGgPtvFckz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP20 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29908/720/6294cHfXbgSC3NrUZzaPxWEwmMTRFGkV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP21 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29909/720/uVNHpDEZy9Rk7w5nvXqgGFsmj2AcQbeh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP22 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29910/720/Hej3t6WuSCcmVQxRr7ahpsKbvfF4zPw2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP23 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29911/720/waqFEMPStUTbgVz4vpyDH8We3kKAChNs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP24 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29912/720/pgtWSJvdu4VNMCGkEnQHPs5fbeKjU2R3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP25 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29913/720/YHWrCXR2T8mkf5ZgpEJjnPBuw4K7NAcD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP26 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29914/720/aGhKMvQkp95b8gyX2JZcsBfFzm7uSHA4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP27 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29915/720/TAqr8n93GgKM4sEPcBHab7VkpFNRdWez.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP28 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29916/720/2KnvPNZzxyYMFgpD8cGdjHCUSX54aRqb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP29 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29917/720/r3vQcWC6P9ZDEd7X8JBAVgqhtpwTYfUz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP30 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29918/720/B734qE9fCTP8MyQKUcrSdaReGsVWzvn5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP31 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29919/720/Z8wFabtmDSq9546JNhPsxKnzApufygTW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP32 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29920/720/yMA7hCbFsZetE4kG6wj5pRrTQxnN8UuJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP33 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29921/720/As7b3wgSBYNmMnzRTPKjV8UxXDEd6ecF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP34 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29922/720/W7jFkNeap49Dg8ryq5QU3bthTVGBmudf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP35 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29923/720/gnhxm7ps2ztkEwSXyT8qfYZKQA4C3NH9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP36 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29924/720/7CmxnydaMzcvs8XkSR329fVt4DKh6uGj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP37 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29925/720/HsaJxRUePDk4KGbWjVF57zcfXnuAy9NZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP38 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29926/720/3dPRFCDh2TsjkbVzUnG4y6merWE8HMZa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP39 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29927/720/V2zYCMqpBNmQbFPWr8DZTgjxweKRnGAH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP40 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29928/720/EbVhUeDmZyr36YfWPKG4csSN5Qu8CtHB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP41 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29929/720/TnrguhRYyebjk6QKxNps8Cq5Bc7W9fZU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP42 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29930/720/RgNTrc4FXQ7GxUaBWtsEAb5qH86yvpPz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP43 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29931/720/RqVu6YKaAzT9Dc47GQesEwbF82SHm3Mk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP44 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29932/720/DRQKuPxa3TrckjtFnCE2MBmhzpgbJ6WS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP45 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29933/720/hPK4gdHxuRamjtCMDnAWsZEczTS3vYb6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP46 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29934/720/VRprqzaJXGf3vk2jFm65tDUy9KxdHsSN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP47 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29935/720/GNgQPEVWsZb6TXmSD7JqpAYKCe3Rk82j.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP48 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29936/720/RA87YPQMGJskbanD5BpNreZgyjcEdf9F.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP49 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29937/720/TAXfrWJaVdpHxUYzgtPv79Q8MhDBEy25.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP50 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29938/720/xzHaTNtUEsKS9rkhJ2b7CZv6cf8DWAnR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP51 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29939/720/beRfk8Uau5E9pPdVsjB3hFgXMcArGtmv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP52 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29940/720/cwpt8jzy5HMZT4Y7Rxub6KkdmC2XQSvW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP53 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29941/720/g82zkStuj9sD3pnBUR5VQyP7GwAehb4c.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP54 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29942/720/CDnjrdSgu63WNAk7H24MRPY9BwqeQFzc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP55 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29943/720/wqFAbEtVkxUT3M7Nzn9GrfJdyPjcsRKm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP56 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29944/720/23jgFyJpWPhTxBKwdQn8rNAqR6UYsmSz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP57 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29945/720/McBjxdFbg3q8NTzKZSs97t5GJ4VCXp2E.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP58 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29946/720/QZuk48fvMbstr9a3VNJ7PcdAqHheUywB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP59 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29947/720/s6wcECYkmb3pTZuqGQ78XKzMfxNrDW4e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP60 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29948/720/emfVd7BCHzw5subxc2DEjJ8nNvZQAgYt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP61 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29949/720/73YZTfSMU9zNFrnxPJwyWvRdBtmg5CK6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP62 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29950/720/uUvYQyGf2XSresKxjBJPh8C4pkEn6dbW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP63 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29951/720/CeH3wWy2BJa5qxrbQ8hpsgYNUKzX4RZf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP64 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29952/720/k6NMstZUwSYfJEH5Wxmr4byAcQnzFj7a.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP65 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29953/720/u6RmfVwDhxgYd5zQcXC4NBjaTUS37Kqb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP66 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29954/720/cDxQCwjbf3dKAZk9EWuN2RFYVg4PGS6a.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP67 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29955/720/JpR4GN8fbtTE6PM7BK2A9eg5ySwxavsk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP68 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29956/720/zyEd7w64CQRsZN2PeDAkVumFYvMcxhGf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP69 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29957/720/GgbjTu8B2yaFKwd5x9skJMEXApWDhPr6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/0b667e0e7d2048fc80d7eeb17f6e9ea2-1777028418567.jpg" group-title="👰🏻Let Me Love You👰🏻",👰🏻Let Me Love You EP70 [23:39:51 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_14/ffmpeg_672_29958/720/frAZCqNa6pd4wW9G5BY8RuczQbtx3MFk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP1 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_29989/720/6V2PcCDSyJHw9TrfRmnbsjGQpAFt8EW4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP2 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_29990/720/VcyTXq9K5a3b8m4A2jpNtvnwGxhWYCzJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP3 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_29991/720/jfZYcz6qTteXPrQNK2BdysbVJGU4guAD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP4 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_29992/720/8ragHhPzuqTcDvtkU6WSF4yewEKbCN7M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP5 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_29993/720/FfTNQ4nDeRASEGjHz3aKqXU8Z6xCbB7u.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP6 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_29994/720/dXn2sBE4YReJHwNrSyx93VGu6pMQkPZa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP7 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_29995/720/Pus7eWSDH9E2yahfURY8zdJkNCgw5rXG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP8 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_29996/720/FmxbKRf78MGsr4tcVN9DXZBuYAkTW2dS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP9 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_29997/720/EWyu3zKThsJC4FR9jrU2DtXvd7pcGxef.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP10 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_29998/720/Hs4Vg5jEWqDJ6C7BvcKAhmfPautMR89y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP11 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_29999/720/aQKHBzFwDe8YURt7PbkcAZSM6CGsWETv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP12 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30000/720/W9HxfRmUg6sZaXcSrTzD3Y4JQ5w7tN8E.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP13 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30001/720/GD5jzB4KgX8e6APNudy7hEFUvbJaxV2q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP14 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30002/720/jRBzw9nWsSHdcCFru425GZMyNE7tP68x.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP15 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30003/720/vX8JRBmVD7wzFduhyPtk3q5YQ9SCHnTp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP16 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30004/720/yN7TkqPtuAxv2bMRFY4Kh85SzZJcVna6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP17 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30005/720/E7cCGKftgk38QW24wVP9xpBJdDH6bMhe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP18 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30006/720/sw8HGTja9D7h4QPgEWbmJN2yUYS5kCdq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP19 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30007/720/zJXbAQNG3egyrR2MqBdwD8khu4PS7sK5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP20 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30008/720/ngZ8xzNHSsY7vhrw3UampfQ4uFKXAJcC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP21 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30009/720/aPTkU6xWDsN9nubShMAjgweBZXCrYGct.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP22 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30010/720/rhQ37VnYufFB8zsXkCgdUT2ebpKHjNER.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP23 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30011/720/pfKQhjXCBTkSyUvtAsWNmHPeGwnr6dE4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP24 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30012/720/MrgJhxzsc8wdCKPR2amHUenquWyQAXk9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP25 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30013/720/dsVw3MRjkgp5qKuFre9E6ZPN82nAzSHT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP26 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30014/720/ZMgkUTsbyV7DHdjwaF2fR34KtYGJuvN9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP27 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30015/720/4ha7NdtQm68pMACvSUnYg3xKZRGrscfX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP28 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30016/720/p3JtWEXcRAqekhrjxs4fQBKaVnUS7vFy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP29 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30017/720/HNEdXUvTxnqhKS5fjW2VprgazF4kmtuY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP30 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30018/720/QkcMPTE6NJ5Hs78mYBpZuabrgwdWDzXh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP31 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30019/720/vZUEmNeSXr8Bap53HbuJ4xhVyYjT2RwG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP32 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30020/720/3umYtGwdpevEU7XzCJKRWxZ4Hk98PB6Q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP33 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30021/720/SaMTbwZKmNngephyCPXd6ExQF8Wt95kG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP34 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30022/720/3P7hQSAXTfk8WKDgwbFRCUp25xMcv9Y4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP35 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30023/720/y5rQNtfFbxBEcW6PpHMDC2KXkU78Yuwq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP36 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30024/720/AjnhQfbwGuW8kdFJqD6aYmCc3V5zXTs7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP37 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30025/720/eSAptvTDGXMh9zQyY5VkP4WB37Hmg8cf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP38 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30026/720/aC9rKBJFf3Ay4qDY52xGWvgutcRTpeXS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP39 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30027/720/tTUCrkn5pJuXd4DjR37q6YBKQfGmbSyw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP40 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30028/720/y7tsG6JxFDM5SgUhmk3rCAqVnZBHpu4R.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP41 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30029/720/xu3rhAJK7atHVScy6CPX4RmWbnZYf5pv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP42 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30030/720/aYyEhUrCFSH9nmKgDjtb5G4x3RZ7MV8e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP43 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30031/720/82h9xfQvEZgepGrC4AKSP3YUnTM57dVa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP44 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30032/720/Gxyj962vYEPzb3NFXmZDQu7CnHKBVUfk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP45 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30033/720/vzMA5gkC9VacENUtXPdeQsWhxKfqnJGw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP46 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30034/720/m2SfsUzjgeAxTEDXwQrFpkMt7uJKRCWy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP47 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30035/720/WFeyhnZjbBVCwfSEHrczY9RxNuMJkpv5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP48 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30036/720/mzrYP2wVhMFReNBkWdc5AESQst3HZ7Tf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP49 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30037/720/CyA3p2BF7NbfWDgwzaxYV9MEJGUqcTt5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP50 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30038/720/NmW9235TBsGbeH7SJUAtrfxpC8q6kKwM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP51 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30039/720/zp64kZxswVj8vWnNRKUcg7BHJqS9FbrX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP52 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30040/720/vKRXUgQMJseYB2V3DdpmHaTA76fnF8w4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP53 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30041/720/D2SyJXECVkaRPnZchBQYwAsq5exfmGUt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP54 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30042/720/mh3jFHpVRQPaS54Gte7sUWXxZCDTzJqw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP55 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30043/720/UD2VGh9cT8f7qMZBwur3vFyQxKpkjmEz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP56 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30044/720/b6CVBJGmsf5Za2h8gnNvtrEuDkjQW47y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP57 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30045/720/VpFvxsMk4NqwzETgB5b9jeHYWf86dS7y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP58 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30046/720/n76B8YWcQDrSsfPqavwFhCMJ5b3eymkZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP59 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30047/720/9tsECZP5YwURKrFNpkBHDjGTbaxvW26J.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP60 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30048/720/AZGbu3RYTcQjSyknXt6h98pPJNxVvBUa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP61 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30049/720/2ShCRzUZ9A8uEncTx7ek5QPBsXaGKMvY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP62 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30050/720/hVWBMDcU9Z6JtdF2AuKEnk8feSYq3p4H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP63 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30051/720/s96NRrTyASPpcbM2KUk4qhZXutw57zfx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP64 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30052/720/c6TB4gPZFRtvhQEqD89d3zsYNXKaCu2H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP65 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30053/720/w8GAdmjcfa6zBD7yWqV5YThngC93ZHUe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP66 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30054/720/eDXgqnpac6F3MNwAZxYtmUuyzKr8dHJQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP67 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30055/720/ya2fkqdbvme9NFtuGhZ4zc7sg8QDJjTn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP68 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30056/720/yVCcN45vXEbFBntQZhYqeTSwkaf836rg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP69 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30057/720/TVFSJDn36kPsxbUXN8z245hc7MjvByYH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/8e4af5fc55404b00b80de345653f1af0-1777028408925.jpg" group-title="👰🏻The Deal with Destiny👰🏻",👰🏻The Deal with Destiny EP70 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_15/ffmpeg_674_30058/720/HD8JES9rQaWCnMwZbPguXGB6UdVqct3k.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP1 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30059/720/qh39pk5wGe6faYyZDj8sm7NzRvu2rTcA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP2 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30060/720/9xZg7PQNmHRa5cBE8XsTVYz4MbvAFp2U.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP3 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30061/720/AEwr4kcPs6N5WUauqh7QZ8xYfg3zXjBb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP4 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30062/720/TYsZ9U4ujD5cBxRnKEWe8A2FgJzhpf7G.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP5 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30063/720/PXwqDgKnSkzF5Zjb372BcEMxsVNupCUt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP6 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30064/720/zhyft2m8uEkKRawTANVJHp5g6ZDnxCBF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP7 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30065/720/XGHMVTUye7EW2NfskJ3zYSC8mqPahBZc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP8 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30066/720/PueAT5UyFmSV7ZR4b8KCntYcqr9x6MJw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP9 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30067/720/tmyzkHsMarpRShYXCg34GT7VqNBuwA9U.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP10 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30068/720/SrgWyRCu9DE3t2VNAX8kdPfxwM6FUQZ7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP11 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30069/720/CJrKv86UpcyaWDsHwMVz5qBujF3m4GPQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP12 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30070/720/NCSs9Mp2WkxjheZRzn3ugYcT5tbfKVmd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP13 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30071/720/xz2nXMS8EsPqh7kGdJ4TDumgbp6ryBCv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP14 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30072/720/yj4H8pD5sQZJk76GKVtdquf3XwPxzSbr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP15 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30073/720/Khjmu5dqae68WSCU27FYR3HPNTtXEx9c.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP16 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30074/720/xFBDR2C7cJXsf8nyQkMEjuUY96eGWPVr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP17 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30075/720/2FUYmhwby7XPCnak6R45qG8WvEBcTj9f.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP18 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30076/720/h927BgMaQZWHRGpzFKfvUX6AbtT5Vqsu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP19 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30077/720/JcM93FAEW7Z4gbznDVqsvTphxyUrfKQt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP20 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30078/720/AGP6MUg23CE5N7KfqmXR9vcuzrakWDZH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP21 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30079/720/J2zAxwYyXCVhB7WEqZj6gKrekfGusavS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP22 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30080/720/uE5U7YAvqefGQjs2CycTBVWr9d8x6JgM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP23 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30081/720/w5khYeqfEc8HFCgWVmjv9AnNS3ZyDKMp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP24 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30082/720/hKAkUZ95xbr3wjg4JeMSvmYDGfuzTQWd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP25 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30083/720/5CmDA3GkWfajy9tSnTEZp4BeVxsMXq2U.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP26 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30084/720/67ZBY4vf2HDhrPCjUtJaw9WXk3spz5gu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP27 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30085/720/FGjApbqsZ9HE2CUehQDTkmdKWfa6rNu4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP28 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30086/720/ek6rcBuAbS4dqVUNzM9g7Qm8xT5KGaPF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP29 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30087/720/sxe6QNfhb3zkGYKqWj27dTmSZVrvMup4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/e768f81065144983983c6ec7837012af-1777028398123.png" group-title="👰🏻The Taste of Revenge on Lantern Night👰🏻",👰🏻The Taste of Revenge on Lantern Night EP30 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_675_30088/720/pZbvcer4E3KmyzJ6wGWFtNkCusY8dTD5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP1 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30089/720/fbV5dtYjhrvscaPMRACqe4FT8B6U7SEN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP2 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30090/720/wZPtKMUYWeCrV3S76J4u9kDpyXjfcd2R.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP3 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30091/720/7akNEA5dwBcPXVZpRsgGT8Q6teKyUMDv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP4 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30092/720/w9xT4n2YRFyNjJsMWBDX3h6pK7EVmvUe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP5 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30093/720/Qs382ETwVRmWbtaUjFYgJBK6C74Dfnkz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP6 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30094/720/q5EBcg9FnvXmPU3jHTeVxkCu4WdfYrNa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP7 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30095/720/cEAThvy5fdSxUweWgYquXarpM9Kkbm3C.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP8 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30096/720/zgQnjThYFxpHwMsPe34NBRSbGCc6vqfW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP9 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30097/720/SxKwsGcADQFV3Za5nmbuMYyjqWtJdCfE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP10 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30098/720/DQXvku7fUxc8NZKM9pg46RbWzwqdaArB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP11 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30099/720/pKJEnfgv9GzFrNwdyMsmhZUDuCQb6VP5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP12 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30100/720/xS65k9TzG7PUQ2aFBfZEr8jeyCwRAmgh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP13 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30101/720/9vHfsRMg85UjwQBnCpAVyeKN3TPYbzkF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP14 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30102/720/sNy4TSjAnmY5HpqdwBC6etakZEbvUFzX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP15 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30103/720/yBg6tFjhemWf2XHU7MAaR8bkJ5sv3Y4u.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP16 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30104/720/vfJhX68NqrzptWHDke5EdVnU3cxBYaS2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP17 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30105/720/b8kw3aDScu7ZfFHJYmgqnTxypGAUQVPt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP18 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30106/720/yFuNzbXwQTZx7mR4qjpSJYVPkdDCW9hG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP19 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30107/720/PqRty9JeAgWFfCcXkhn27ZQvbGB8Vsur.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP20 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30108/720/4NAR3PvkZE8U2aGpBhujfDFweY6MVnQ7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP21 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30109/720/6sqNrCWdmpkSZ2bGfcYB7whjHn5R9uJy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP22 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30110/720/U9RZENQhJeuGkrncfzHdp647DWKmybqF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP23 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30111/720/tVBuTQJY7HWh4AbGMmfjSsaF2CnDex6X.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP24 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30112/720/xPGMqHUyCj6znNvfaKcmAEudgS9W3ZDb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP25 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30113/720/sfcBJEuXDxZzrjntPNF4V2Gk5TAQwvyW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP26 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30114/720/wnRkAsYzBFNx5gZD3HC89mWpyav6GrMJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP27 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30115/720/hWjKxaUVGngMes7wzfY8v3REPqHJBFut.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP28 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30116/720/duWNFy9SYZRHU5eKk7PBJnVMXbarE4Ct.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP29 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30117/720/3EWYzxfpV8yQvc4q9bTMrUHuwkGn6Xas.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP30 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30118/720/afdr6UwhgZqt5Nv7QpBGzRyT3DFC8WJA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP31 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30119/720/sFzBhnHpecbXjR32rZ4ACdyuaxQKmP9W.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP32 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30120/720/qxV4NWTsmtECp2KkvRJPZSM9bHQfjcD3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP33 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30121/720/4fwzV7R9ZHrjUE5BpM2GC8utdbvXJPDk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP34 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30122/720/Wvg3mQXcd9qV6fpRM5UNrJntS7CYPGaj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP35 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30123/720/6zmJCRTbGYNk32aAcK5hxgyfuWp9qDsM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP36 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30124/720/bKUDhVwjmtF7Wxu3GqR96cyNrvJfTnXY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP37 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30125/720/gKZjHwhvrDuRQXPJa3UmTNbS8kyACBEz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP38 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30126/720/PGTykapbfE5XVhJm9Kx46FBtvdHnwSQe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP39 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30127/720/jmMQX6N8zBCJ2Zxnp7VsU4SbkYaTtfdu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP40 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30128/720/hPX2gZaSUCVet6znF9RDTAbjrGJB3EWd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP41 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30129/720/sENwQFkMzr375UbJ4ch89gtXaeCBvGpV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP42 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30130/720/xPqfBCc7jRMkwXGybQ8NUn3u9esS4dhA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP43 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30131/720/7sNSXuhAn6WxgUVFkDJf8adYZcepbzEQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP44 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30132/720/cZkCNu6y5WS8ndtvpPerHQDs9YUzJxVB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP45 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30133/720/BaG8rWHjX3eM4vCREV5yS2wQtcJU7fgq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP46 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30134/720/7vpcEsZWwKzB6muMtRxNX43bynaFeGqk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP47 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30135/720/6PDvy9TqRdEhGfC3SNgWab5ecB2kQYrx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP48 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30136/720/GxrmaqyFvY6jBwQtfAeEd52cUKRH9JWS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP49 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30137/720/pRFSrUKmThJMebu54EstxjzPdfqBYXg3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP50 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30138/720/jTN6aFeJQEXtvUK4sPS83yk527bzCrDR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP51 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30139/720/eQfsHaSAVDj3Z6NUrPmtp8JxcEnKFGub.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP52 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30140/720/DzfZEw8JdFGrtbCg9qSv7ak3hH26yNpA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP53 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30141/720/Z7dTUJHg3C4acDrMhfGqepSRxtb6vV2n.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP54 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30142/720/mgQYBAyvDJjRhdpzq83eMc6Zr4CEWUFw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP55 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30143/720/N8jmGVCK6PnugBZ2YAyr5dFRwX4MWUvQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP56 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30144/720/C26xmBNdMADQTGXarjtf3wVRzecqYEUS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP57 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30145/720/brdyaES7N34GWZYUupkqFf2hjVn8RKQJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP58 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30146/720/u5BQAmK9eCSX7U2vkyqPdhZp86zfaMc4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP59 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30147/720/d7UztmrMXuRQ8TG2BfKyFhJEPNDwqVW9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP60 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30148/720/dwRsGupxXyZ5hNFcKUQrgDEznjBVCYvH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP61 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30149/720/tUwzKFWBaNEDVe6GyCdTZH594njs3vMP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP62 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30150/720/s3C7mz64cB2hgMVGXDF8Pp5rNeSkRY9x.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP63 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30151/720/2kVhzPQmJdBbqU9vEnTasC4MwRpuyAH3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP64 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30152/720/XqBjdDusCEV3gp6tbQJU9kfxFhWrGy2T.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP65 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30153/720/JQ7Hm9a5rEkSzWgt3bZBcPuRYeK6ATCq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP66 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30154/720/uXDGry4Nxp5h36JB89TECdK2acgMq7vk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP67 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30155/720/XspT6bnB7ADr4RwMZWuf9h2dYUKzJNGF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP68 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30156/720/V5eawzDrn6YbPtHJ4fEMQ8UAsdckZS93.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP69 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30157/720/ubGZCfN5mKXDUHJST6vwjRkQytEBapMY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/3f7e93ddf548470e9342b2649dd26388-1777028392601.jpg" group-title="👰🏻A Billionaire Grandson Comes Into My Life👰🏻",👰🏻A Billionaire Grandson Comes Into My Life EP70 [23:39:52 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_676_30158/720/Ctr9wcx7STkp6WRZgYznE8bqumFaVsj5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP1 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30234/720/fJPG4x6S3REQqwcsv7Ay9TeYVHgzj5Mn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP2 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30235/720/vy3mrD6xYPEndswUcu8RHekF7g4JhStj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP3 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30236/720/nBsaZb8Peg43Srj9C75EYfHwJzhtKdyF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP4 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30237/720/pq2njWteavHx4F35PkVUXbd7SDNyzhmT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP5 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30238/720/2z8Npb3EexX5QZRuVqWFwymT7ADJagYt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP6 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30239/720/3GrEjkvPJ2RwZY9ByFX4NmUDMKsWdgaV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP7 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30240/720/9qB4AXRhnKQdMtrgaSYVPZm3jUDyWCps.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP8 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30241/720/eSJBXyG2tYwdxWC5qMbPEkm3NHZ9nzQD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP9 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30242/720/run5cU2BQmY6EhxPZzqs4RfMCXGy3NWD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP10 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30243/720/9dZMrYx7ANF4EHwgueGXvDqCytpV2cSP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP11 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30244/720/Vqew5649SCBuPAnfjahEb7cNmtzYTMDK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP12 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30245/720/5hSVTsmRext4j9NZyw6D7BUJ2PbdAYFc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP13 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30246/720/mEdqPwtyJZcxfWpXeCbKuFNj3gnhSYRG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP14 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30247/720/QPKyxTdBYgZFNz4WURehs7rkc63Gn8mb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP15 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30248/720/pQJd9WeB5yKC23b7XmqntMxcEPwUDv4G.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP16 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30249/720/rQS28gjeh7BxFPRnMJ3Kmw64uUtCfqGb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP17 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30250/720/UrvWJbmeQ6q8V2G4B7guFzsftaHAxRTE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP18 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30251/720/35NYPVADSv9HymGe2gpjhkwFZd6sKBx4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP19 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30252/720/mdWjs37wFDVUuHbtEzXRhPYc4BfKTakS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP20 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30253/720/uwPWMpxngjKBCqRNyUDGh3TZfX8deEAm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP21 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30254/720/A86Rk2pXyDNdxJaj4UhMgutTBbcG5WKH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP22 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30255/720/8dQqGbcvrxSVTnWkC9P7HNpMUsthBeu2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP23 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30256/720/V38j9EMsC5paUuZRSB2vKXzqnrmWhNPQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP24 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30257/720/7uVAkaSD2Gc6tgZ9B8hxPmqTQf4UK5YX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP25 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30258/720/DQ5gwz86CAbhUVWNS3qpdKR9jrcFvJ2y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP26 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30259/720/uDqAjF93Qfwey8TKn2tRscJMCHWbZz7G.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP27 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30260/720/cjFU2VnNpg7W9YHJkds538RvXmMaBCGe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP28 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_17/ffmpeg_678_30261/720/qV9pZjaPrzh5DMFwxm6BHg7kfWXNvbCG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP29 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30262/720/cFksSb5rpKTG2zUNmZYXq3WVug8ManeQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP30 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30263/720/tWZ97HwvbzpRMAny5ThusBScPK2jfDQV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP31 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30264/720/waJTYA25bmCMFzVyrPhp7HNUxQBDnXtE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP32 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30265/720/QgDS6FdR7b2aenchKrJfPquZvVMC5EAH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP33 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30266/720/YfKgZzknUvCQPEMtJGTbS25jW7wNc9Rq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP34 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30267/720/5AdzNFt4ePkJR7vHSEpxTjKhuQyqfs3D.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP35 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30268/720/QqSw7JkWc92nXhtMR5HpV3YyTBDGdPAE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP36 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30269/720/8e3MrVxpWgRQ2BuhKAyEG6TdH59FkjCX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP37 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30270/720/g7ztWp3PBQ4C5GUfjNXeE2vYJTKxnwys.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP38 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30271/720/d3apRxAEPm58qtNujwGJMhbCDVZ2ec7k.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP39 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30272/720/WekcPunJb2tx8sgrw7AGaqvEFySV9pD3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP40 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30273/720/DxVh5dQsuEMtjqCr6fUX8NKm3WRJeAyY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP41 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30274/720/g4UGMaHceFnVSYrmCWbupqfDj3sNywdX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP42 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30275/720/H6R2BTcEWnzyqNC8DbZPgJska5xGeYXh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP43 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30276/720/4zcTjvGqWCMSFEaxYmrhHZdp73fsQeuJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/d27f24314605447ba6ac57744c877b38-1777028381132.jpg" group-title="👰🏻The End of Love is Letting Go👰🏻",👰🏻The End of Love is Letting Go EP44 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_18/ffmpeg_678_30277/720/rzbaQSgUuqpFTfZv3j8KsC5mhXBW2xt9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP1 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30438/720/BUvVwynbThSrx8dsEDJk2CQgc4MaHA3P.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP2 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30439/720/CQwTpkvEughe5F9SrRzNUYHaGdbVtq87.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP3 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30440/720/mYRWQhVBt56MG3fd8Kb4HpjxUkFA7aJg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP4 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30441/720/BwVtPXNpjeGkzr9cgfCTW4SuDvnmJ3Qd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP5 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30442/720/mWn3rERZ2YwXAHpJeUB8MQ5yVvFadPqz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP6 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30443/720/W5zHkaZd2mMpCGgPVsNRyD4vF9XEtJfU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP7 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30444/720/DjSzptFTv8xfbrB2Z6AwUscM9Ku7HG5q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP8 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30445/720/5USGap2FDWftNrRBQq3xbTgsJ9KuhP4E.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP9 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30446/720/3DTWKNV4k5HcsybGv6ZY7gJqFzE8nfpM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP10 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30447/720/mTBt5DA8E73Rwfgs9JPnvYXMHbyNcjxQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP11 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30448/720/C4nBKJDrT8F5EmghMxZGquyNHvYfcazt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP12 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30449/720/JWHYxEKBzQ9N4rFtkU6ZjMG2samV5nwe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP13 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30450/720/NBcjH987Jw3Dv5mSRuZMqkhFrWz2tbYP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP14 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30451/720/JPXzh7V8gSwcGEkTDAvaprf945mZxKun.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP15 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30452/720/sJH86gurdCbyVMvWnzQjwEpUaBxZF5qY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP16 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30453/720/NXdpRYnSwVKfMHBWh4kCP8uZQAD5jtqb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP17 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30454/720/7B6MtkrvcqTSPsCuWDpKwfjemGda3XzY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP18 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30455/720/rpUQ4q8YNjkSDedFtx2G53nzfuRbTK6H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP19 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30456/720/tpuJRsS5MdXNZE3AzmYTUb6jxfVy4P2W.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP20 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30457/720/QXqKx8WaycMBnNb9jfz36gDGSvm7uPwr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP21 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30458/720/X6KvB8yJThxpNGS3CbjkPZzsfuVERw7U.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP22 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30459/720/ZUxXVa2mGDwPtJSdQehKNHsfR3u7y45Y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP23 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30460/720/cYTE5pztgneUf64ZBv8QKGkuSr7RaJ3D.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP24 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30461/720/smFyk3fSdN7HUjAgKR6JWzGE2e8Qn9bD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP25 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30462/720/qDKCM5NjQs2RW3V6HYzFJvEurdZXhGxn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP26 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30463/720/4HQ6vzg5rqZb7K82aCPhmBfsNUdFkYMw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP27 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30464/720/Ma7RSk3bYenPQwhK5vVpycT4dXBzm8jE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP28 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30465/720/TrxQkCgZ8p5V3FaqSW7JAnvsch6jbwUe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP29 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30466/720/eGJuPMHn2rT6hSFDAj95NvUqWcpmB4sz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP30 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30467/720/QNgrf2k4aWytXm6bUe9n5hVBxzvGAdJP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP31 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30468/720/Yjgy8zax2qwKR4VfZWdbeAhXCHus79vQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP32 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30469/720/sj5Jn6QH9tMXBSFap7zhTbv2AEcgyk3D.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP33 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30470/720/aF3RZzMuXfrPTWV4Q7qc8sSg5CUDmNtp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP34 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30471/720/DvEkVYer46wHNaKtZx3dQyqj7RTFAshn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP35 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30472/720/8v7s6GBQfCWe9AUr3ZJm5y2aMqtFYxHR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP36 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30473/720/Vb6kPrxDYpT5s8gn4htGFmNXK3dyceaA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP37 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30474/720/UCkXa7yPpZ8rGJB9MDdQFYSjfbgA4ctw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP38 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30475/720/fjCF2kJEHYGg8QMn3rasPVdbDmWzNqtu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP39 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30476/720/hzgkEsHjBex5vXwm7GdM4WAcKSDrfyYC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP40 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30477/720/CAdwrbWPjfs6R4tg8np57kzUESVBcZTD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP41 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30478/720/4bHEnwaN3zMWBQmXFrZAkgTKyVv7eYCG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP42 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30479/720/DeuQs3fTwbzRGBYd2xaAhrWjJtXgNK86.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP43 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30480/720/TkEwaXFZCfVgBmznhy2UR8bKexWc3Qrq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP44 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30481/720/hvj2CwsqW4JR5M6SmnEHV7FgfceQkPda.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP45 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30482/720/MZyVXDFBKcerEU8R4amvNG5uQ2zgdxhw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP46 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30483/720/W9uB6aQUVCX3TF7E8YvNhAZcMsRDeJGj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP47 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30484/720/4JAVSCU6wYt2mkdhgFMZD7qycHXfKrEz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP48 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30485/720/mKtVafbUXYdS9k7grjvqQWhH8GN3DJT4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP49 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30486/720/xDmjkXfz94VT6uZvcCwPny7bGqY8E5gM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP50 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30487/720/nR7CesSMX9kwYHhTAG2uxcfrzmNV85Wv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP51 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30488/720/BA9zk7R4sewuWMxFd6TJybXQt8ngZrKh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP52 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30489/720/SU8u3FCGbQpPByd6qRjzrwAnWxVf7H5t.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP53 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30490/720/BvtCM2A7wnzjTaUQXcpqEy45hGm6Ve9S.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP54 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30491/720/FKNDkArPS8xsVz6t453dCyBfUpTWcben.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP55 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30492/720/zkYZMp5Hd4XuVaQDy86BcxUrnghsFPeC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP56 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30493/720/Ub2ZDQhfScTznWgMHEX4FjYxr8puNAPR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP57 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30494/720/PEuk7B6czWYUZXg8VmdeNrvQMSt4yDhG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP58 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30495/720/sqbRegx67afWYFwUjZ9mu25DGz3VkEQJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP59 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30496/720/VrQjnYdeK5S8FUp7RAx9cbtmsNMuk2hT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP60 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30497/720/cmejH2ygwk4saEDz538WFPxMNqXtrVQY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP61 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30498/720/8AX5GmbjK297caZgSsYTzJCevyHkQu36.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP62 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30499/720/kaR5QX8J7tGZBDE6vgCUjHbWSY2yFMsr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP63 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30500/720/8UeZx7apwhctkvHbGnTBEsjzFQYr4C5D.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP64 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30501/720/5BbSYC7rwyAV9WtHcu4qPvkX3KTU82Fg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP65 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30502/720/ZU3jHvyGqRVeQnurtDE7MTBcXsgx9fNp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP66 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30503/720/V84dDAnqSHfg3yrbXWmETCFkhGvuP6Zs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP67 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30504/720/dj2Qs4fzpXWKu8tTbyxVYM3v6EFBqCRg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP68 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30505/720/tYXk736n9vAdCgzmjqchaf85wDxu2KQs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP69 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30506/720/RSDarkGpc2AKqMnB7jPHU6Wb3fT4QJd9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/74594f0e59cc4001a19144ce9e7314db-1777028372251.jpg" group-title="👰🏻The Vow That Once Was👰🏻",👰🏻The Vow That Once Was EP70 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_20/ffmpeg_683_30507/720/zChFKButPcZ9Ss4MJRgHrmp7jNvkEyW5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP1 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30538/720/amECr96WP2N7DTsfKckhVJ4t3AvpqM5U.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP2 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30539/720/kuFRAfBZDUq2tpPKJ6jW7wseNGxM3Syz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP3 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30540/720/8sxgP3XduBE9bUcafNwZTez4qJGkmSHM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP4 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30608/720/pUMHFdJznG4h5NtaqbvBf39xeyS7ckA8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP5 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30542/720/5CmwGN6SMzTqvK9bFPEa4ZyhRBHVksr3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP6 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30543/720/rtuAHc3eXzxUSnf492Ys6bdEjVBqGRKC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP7 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30544/720/xTgGqUWRhaQs8ymbK7NwpC92X6FPzAJ5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP8 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30545/720/3FK5ECk7wVTQz9rMeRDGnphNXHmjcuvA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP9 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30546/720/yshHjE574KetTaXcFk6JVZGgPdQrBYNp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP10 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30547/720/ERpGVMwUquSJvYzmtkBZ2PKe8xDgdAcF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP11 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30548/720/zxgTW5H293VdQXatKp6sUNYRqGmFJfyD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP12 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30549/720/PA57ncWtNS3gZXpDsqj8Rmw9VEykdG4J.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP13 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30550/720/g3zWY92pU5u8MmTKEBFCnqrZNvHfe7Dt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP14 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30551/720/Xn276qpKJf3TAzDY4QdwrBGxbghRu5HP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP15 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30552/720/s9UYx3BPrheGCVwqTzN78mcRukSgMpj4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP16 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30553/720/Sb8AEj5pktBnFeM3rYgUJ4QXwf9VxRyz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP17 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30554/720/5DKjTaNS2dcs7xm6MUf89JYrEHAg4PyC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP18 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30555/720/vwSDAGyBj7uUh98THJ5NqgWrd6nXzpaK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP19 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30556/720/HfpNxWv6jKSM95ehBkY4DcqPJ2rCgz7T.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP20 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30557/720/6FUdH79CthTj5J3umXcKzZwYgDxvay8V.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP21 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30558/720/5MXzstrdGC7m62H9QKRYyuwafFkgqnve.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP22 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30559/720/yBpCxfXdrh4HKP5ZFUVmcbTqg2na8sYA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP23 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30560/720/EgekdsDWHBNTtMC85PUKb9qfSrVzuhwm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP24 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30561/720/TPdKmr8E5RpsCaQAZV3heujSnwzybqBJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP25 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30562/720/kYdVUD7mshy4QCuEPaXGeTxB9SJFWgqj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP26 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30563/720/FRD7gq4d8WUcH5Jh6yTjaZ2YM9rGVPSp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP27 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30564/720/BzNjXARFxSucdmEG3DKYbUCrJQHwM5yV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP28 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30565/720/wnBaj7MUD2ue6yq9XZYSsJRdFH8VpKP4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP29 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30566/720/vQ8VaCJ5YSreRWdUMNpu4tqExAsgkwBF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP30 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_21/ffmpeg_685_30567/720/x8ezYXgPCj5qFJvZmuhsQHEcGa9NABdM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP31 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30568/720/9BhUgYwvAbaPSuxT5dFG32smrJCZVtMX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP32 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30569/720/xcPwBeANktqHpZDC3gdjGJ6Y4Wrym9f7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP33 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30570/720/4FMApNDQturJySjVbvcEeWBh36KdUsw8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP34 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30571/720/9eBTmfgws75ERdXhjbSt2GPDNq8y4rJU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP35 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30572/720/DxuKUvSkJRXwbMVCp9EF3n25ZaetYjyA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP36 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30573/720/JkfBRFrqj5bayWdS2pV4chU9nZCe76s3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP37 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30574/720/B7txpwNEuv8Gk5YcMg9SqXH3nFUACQ2Z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP38 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30575/720/dnXDNZeQuyBYxE2UAJhPszw5tFg8RkV7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP39 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30576/720/zB9RKQw4rv7YkG8faWqtsPZVdH5hyAjE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP40 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30577/720/ZV4WmaSXzpjr3DTQkfRFtYBhKsMJ29vU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP41 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30578/720/78gnpVRU5Xj6NrHWxG4k23FyqC9wBJYM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP42 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30579/720/JbXshkAfmvQ4DyB8265TpWZgwCMNeF9K.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP43 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30580/720/gUbSG3wYq26f7EJXHdnkFprx4yA8WePa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP44 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30581/720/NVT5MxGr4XsFZA6WbYRp2qu9k3hHUgCE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP45 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30582/720/5yu27kHQKvZAsDgwBxSd6CWrtpThJmn9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP46 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30583/720/Tb8RzUvQkqsYK25SMV4du6W9aEJyAhfN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP47 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30584/720/3UMW5xp8fSZCuKbBQjkqJRwvcP4en96D.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP48 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30585/720/7vhX8xerfAFmg3RkWUqdyB92ScPGHbjD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP49 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30586/720/ADZR8EtyeQwpKh9NHSYCWFGav2qTj5m6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP50 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30587/720/JPkyFwxER37pdWuqj2msfYGrAXCVDQ6H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP51 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30588/720/PDbtgphWxG7nA8fwNK4dZRTVmeB9kasU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP52 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30589/720/VGC4DfK5Azcwq2WSRxUyeZ83YFNrXpub.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP53 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30590/720/Ah9yuZxDQwSY3CcfMKbJnU7sXpqetjg5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP54 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30591/720/aQPZRBXfHDVdk2nGKNSruAbze4j58E3Y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP55 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30592/720/CrqpzcXFTewk4GdxEmSfUjBRKDytPa67.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP56 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30593/720/NHKJxcuUqjg5dGn93mZhFesAvBMtY8zr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP57 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30594/720/2vd3fMK8RSHteq9UXBEn4mgyGsV6kp5N.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP58 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30595/720/jHC2JNPGd3rkRYQAafbBtxh5KDFg6TZn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP59 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30596/720/ETMm23BpntkjbARJSdrsUZzauQXf8w6C.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP60 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30597/720/auYPNEQHm7MUzvXGCK2jbD6qryBWgesn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP61 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30598/720/JNVbgsnvDqzuxRmyA8ZKUwCFX4H2W5de.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP62 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30599/720/AbwqmrVdKCtpTfEveGcFPnBgDz7Us93N.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP63 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30600/720/tnrBRCvZNmX8M93x5e647PVFGphz2gED.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP64 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30601/720/jYpWwqrNeBdnfP7byDgam4Gt3cQFJSvM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP65 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30602/720/nHs98JmZkFAtfr7W6RC3cv2UyhYTXpa5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP66 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30603/720/P8sFpb5DRw7xgMSqQycfdJHWAE4zYakB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP67 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30604/720/g8ZTsm9G3krcNzYvwe4ytMBRSaVEuxUC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP68 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30605/720/4ZTBmQ2qVs3kXxWcgJEz9DUSbYhKNvAH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP69 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30606/720/SBzXgcsjTJd9wQrnbD8Cy67EAmqHNYFZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/b9e3faa2ef564aa2ac0cbdde0bc5e313-1777028364328.jpg" group-title="👰🏻My Heart Flew Away👰🏻",👰🏻My Heart Flew Away EP70 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_685_30607/720/N29WPYRtyurgkcQM3jTXVGS8CqDzJe5m.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP1 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30669/720/5C43ngvjfcGPxtpqZmBhAuJkR2wyEzST.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP2 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30670/720/3NVCYhb2Ts7utrGp9AQnEHcgyKdFXZqz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP3 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30671/720/3492YpNAE8avVFQkZWznwtymB7hJCUxD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP4 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30672/720/Q3hZgGfdqtSbWuKUDzTB79NkAYM4FynX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP5 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30673/720/drRWMNAnKmkSYGXyQe5thsZDx3gqpz9C.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP6 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30674/720/DyrUE3fgbJpjS7GY5n42XaQw9dRhtveW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP7 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30675/720/2kJepVd9gC3BKt7YxjXNs6RSMWHZQm8P.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP8 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30676/720/dMyVSwDbmtj7FWqGgZ5CErucTPen32Ap.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP9 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30677/720/SNEYARdgkFstnDZQWbGV5c7jfe69rBz3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP10 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30678/720/degUwFCVP9WJh3p4XaRDGHuczTj5S7yN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP11 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30679/720/NyxnKRMcwCW6AbBJQdXtFvr7eUZEjVpf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP12 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30680/720/vbQe428PJcaD6REgVHmp9rUtdYGu5xBW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP13 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30681/720/n3Dru27WhMYcBqvfJPwKpsZENyGXeaVd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP14 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30682/720/3StXJGwfHC7Tm8PnBcxhavyzA9FUVkEr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP15 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30683/720/4F98xjkMnXthUbEGK7WArPVq3QZYfHud.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP16 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30684/720/fuGbcr5sqRCmpF7JkNVnBXMzWwDyAT3j.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP17 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30685/720/kFhYE6qm3QDUrTjGa54g8tpN9dfRvVXC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP18 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30686/720/PwYyqARxUZ5gBpN8KdHTm9XSk4jcaFft.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP19 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30687/720/CWkAsJrvSBy4w3RFGactVzP2KHqugYEX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP20 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30688/720/Sta3k8QYcUGF5rA7fjHBMnmETbsxJ4hq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP21 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30689/720/dgzpEAQn68yr5CaXhqecF3jSwHJB49Wk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP22 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30690/720/aj2qAXvgGFzKmsPQCWph3UNTHEkZunB7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP23 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30691/720/ncCBTspZ45xQkbyHjGzVgSh3tq8AvmE7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP24 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30692/720/Qf28wnWAmCjMGyXhpe5KRN3PVzbuTcEU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP25 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30693/720/EXJnpt7d3DvfWHhcuygYx8GFAsbjKCmV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP26 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30694/720/fH7x4MFyATRvPZrEDhd86pjBGSCtmzqg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP27 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30695/720/BnMxfqW5AgZFsvJb9zVPujt23GKdTCUh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP28 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30696/720/2Yg79afsjyhkWcTGCAwVXBD6pmzrEq4t.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP29 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30697/720/QCjs3F2XhBvVgePdkHD4JTzW9N7y8YZf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP30 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30698/720/YxzCcTBdNfuU9b2VMjmghQw7JWGne5sF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP31 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30699/720/kBzXfupw4WhEaMtZ9x8FemJRrdqg26Ac.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP32 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30700/720/PREjvqyY4bKJrWQTSZnmuUaF9XMAd3f7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP33 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30701/720/VJDZRFyY6WgQXvmKj4zbus3rNEGxASMH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP34 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30702/720/JnFvbVXaskSW3hNp9RTMcGCZu5zjwgYD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP35 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30703/720/ajKMfA8QZ2CSJDsTHEcWw6vpmnBhYbyk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP36 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30704/720/Jju4yT5QZakr3CHRXhAYUspSxKzDnfdW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP37 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30705/720/xbNDZu7SzKncyjHCETeQ84BvAsh59mFg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP38 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30706/720/kA6Cmhqug93dbZcEBjQ7HJGxNYUfW4F2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP39 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30707/720/mdue8GnRTBUa4vgwNQ6tEsZ3KFAkpzYM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP40 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30708/720/M8zpTjd5FN7ht2Ew6cZ3DKbyWCGxqveJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP41 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30709/720/Jpu5PUykDM2rEn4WxhsNzAKqdjX8m7TS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP42 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30710/720/eY85tBQSg4KuwjFJVxNnvEAX3fWCdR9M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP43 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30711/720/59PRWHaZDmfzMptGucF7bTyehwxSnBdJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP44 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30712/720/umdqZ4R8bTpcXawBKhSDsYJH3kM6j2AG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP45 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30713/720/S6bKaUHpQMBhek35rj2wWcY9XARNZsJ8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP46 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30714/720/5bFpv3tBsHcCkVaKhzrdSX4Ag2YxjRu6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP47 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30715/720/sj4GY8ZRx7dwVQnBSkptAbqJC3emzKFf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP48 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30716/720/yMTCDk7fBWxhzHuJXgVe3w5UPjK6rtmE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP49 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30717/720/cYbZwmjryfN3Bq9En8DgJkTdt2VRuKaz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP50 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30718/720/w5c4maGWAEdNyT7kqRzv6ZHnJ3QCUDsj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP51 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30719/720/7WNj2FpYSGQgmuZ9xd6XEnzsRCD8c5yk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP52 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30720/720/BjSvQpMkeU6ZDJXPmVsG5HCtfdybg2cx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP53 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30721/720/3Ju8ESDvYQZaCeXyF4VBhxqHfUg5W6RP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP54 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30722/720/PkbUCt9gscAGq7r5dWuhQf6n2Vj8JZ4R.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP55 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30723/720/8V52u3mrDQYqnKHMkRj4FwUXvPhfz7Zt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP56 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30724/720/ACMBRzpVgZXws5Yu74HfPdvKheaFxbE2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP57 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30725/720/FYjGVJb6hKzZcWvufwkRAHmETg3N4DUM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP58 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30726/720/VRUbmZr9h5DPyfW6zXqFBYQwu4HjnAgc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP59 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30727/720/BbRGCpMPnNusqa6cU5TdSteEm7r2xH4Q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP60 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_24/ffmpeg_688_30728/720/vA6gp5SmujYNT4HkyrQdahXbqFfVznCP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP61 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_688_30729/720/RYFxU9Qp8tHhVAdnszwD7umC5JENWbeg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP62 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_688_30730/720/75m94DfnvcMgUWX3JtK6YhECNbAaGxwT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP63 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_688_30731/720/Z9reUyR8PX3btaGdsJWQnME2jhHuKDCF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP64 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_688_30732/720/b6KqhkPEzeAmHrJRVcQCxZypt87WNw93.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP65 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_688_30733/720/tESpXHGNh4ygsC3DkqMRT9YbPevBZzd2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP66 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_688_30734/720/ruypv9zDdq5wEf7enFhMV2sbk3AJXZQx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP67 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_688_30735/720/sTugUNy6dhfjePMHGQp9FESK8Am3XJvC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP68 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_688_30736/720/M2rcv5Ru8fVx9PQ4wdTHXgC3jB6hJkNF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP69 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_688_30737/720/6prg7MDanZ4wmxRYyFQqeXK9CBJVkAth.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/df2f19a7ccb647be95ca9214523c61c9-1777028353134.jpg" group-title="👰🏻Crocodile tears👰🏻",👰🏻Crocodile tears EP70 [23:39:53 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_688_30738/720/G2smFwfDJ9yE8UreapNb6Xcx45YZSBKk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP1 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30739/720/uFdnVqPr5vbcy2sSUfe8ERp3YkXzKH4j.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP2 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30740/720/DZYHtxKePgzUhyRFJskrTMAGVbnq6a2w.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP3 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30741/720/bqwSXfGncB2ejvQVHCEm5khYTDpWyRtA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP4 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30742/720/jf6MPAqQcvyWaG9nmECJsVNukUtBRFh5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP5 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30743/720/XRf248kHtE7uQPhCsTcA963YjDKzqdbN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP6 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30744/720/4grfh2nFvUjHQKYGmNcx3V9b8wWAZkXd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP7 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30745/720/Et3hfmG5KSexncu2MTrDdQyVRg6kaH8X.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP8 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30746/720/dTDUNEJfKXHw4s3bWVSx8nt6kuBA57YM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP9 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30747/720/g3X5bj8fMqDhTCcvwArNUsJyHYB29SkK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP10 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30748/720/ZRQ4c8jCByP5WTh2avwFYXKmJSNnxGqk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP11 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30749/720/m4MgkNQHSZt5eC7vEjwW8TJpzxyh6ABV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP12 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30750/720/DxzkAqVvyRdf5NP27mHuQpaeXr8cJtsw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP13 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30751/720/FSePJACYtcz9532wnKvBM6GxjasUmbRV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP14 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30752/720/rgQkwREDqJPTH7mn4MzaSKZ3f52vp8dj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP15 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30753/720/ps7jCQJ9dAzyK8E5bcHNTwFneWYPv2mR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP16 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30754/720/ZKbspRjaeVu6hQfWvJS5xmUgwCGcMTN9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP17 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30755/720/P4SwJKhyBW3ZYkvc2fCXnGgtp6H5aqm9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP18 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30756/720/d58bMV6NveHmZT3JaRnyE7gG9xCrscjt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP19 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30757/720/mhNwuBP9rXt5nvf7qbKs4eQA8TEDjHFy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP20 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_02_25/ffmpeg_689_30758/720/yzWBuYSPb3eMs8fjcXqp2d5Jkvm4VZRE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP21 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43626/720/nch4sd2jE9KkprBvfD7MwGWU8FY5btRS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP22 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43627/720/A274sdKmWenEfc95QywvuUr8BYGHgjMT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP23 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43628/720/MVARZX9bq3ufcYWrmeFnyEGakBTKtU84.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP24 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43629/720/6RD3xseUXVcThPHy7gMWzkKFwqZSrnQ2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP25 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43630/720/G8wcSXuzKFtgkNyHYjdP5m3qaTvE4JWD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP26 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43631/720/4NChKkRVEzFGcqa2Pf6JgsADQXYmueUj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP27 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43632/720/mECPW9Uj2zMYbnskKc6fhaq54V8grGHw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP28 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43633/720/7Ddf9w8cgFU2MEtHp6VJhuXaQAzKrmGY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP29 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43634/720/kNEd6sCuYg8S59Unz2GAHR7bfKJXVwQ3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP30 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43635/720/rXmMDBy5vcgQexVsPTShujpACdkn2NZ9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP31 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43636/720/tjkxzN5QSTbAcM9eD24hYK3JPGvfW6Zg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP32 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43637/720/Qyv7HgKNeSfUbA9kBswFcuPxzq8pZjCr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP33 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43638/720/6fRaBVU9FxrQNAwqX34pujzhdmceTsDS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP34 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43639/720/SzC2wnF4Pq6GykHJhNURpve7jr93tAuB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP35 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43640/720/NjKtxqkYpZrvQePuTCnSF37Gs5BhRAMz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP36 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43641/720/aNxTrCcQ6K53SZtwmWvs49UFXbBHpqRz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP37 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43642/720/Ce4QRr2htK7VzgfBAnwUbEN8WPYZJDym.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP38 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43643/720/Qey4ZvKnYa7u5tGfN2dPsVC6JDxqHST3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP39 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43644/720/pbNePq5BJVf9DgnRU2duarwSAQHhktTF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP40 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43645/720/exGdcHP7QSWU8tfprhjT9JyBCDZXbE43.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP41 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43646/720/H7yjvpRVkr6zEsSN9D3Ya4dGZMW2UqwP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP42 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43647/720/G6vB8YfZ4phTWMmVaxcSCsQgNHnKPX5q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP43 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43648/720/nujAdQrghpF5aKqJM38zD4CmYZtb7kV2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP44 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43649/720/t2e6YSBg3Fd8qQV9PRWKATbZ7mhEuJav.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP45 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43650/720/2yaXUKntF9RVCBZrG5hHvcxbAWP4qMdS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP46 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43651/720/RMY3FQGK85A9NTnDrZBSqzsdEhbyvgCW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP47 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43652/720/4EJya8Ye7XCRurxVwq92fSjs6pM3Kz5Q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP48 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43653/720/3PQbys7ntFSCq2HX6MTD4gYkBWfVeU8Z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP49 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43654/720/wHSpDxtRj9vc4eyza7dYr8fQKNqT63mC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP50 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43655/720/KpW6XbNBDzAJ25GfurZgY3aRCxwkVmvH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP51 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43656/720/TNY9b6vtx2P85qnJf4cX7CHsmajewEuk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP52 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43657/720/yM3CceudfzqQKGp9JPEv6UtxnVR4gWw8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP53 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43658/720/pEuth3en2fSbFKJQWZYgk86N4qG7mRDH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP54 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43659/720/kq89SeDYUXQt4Z2zjc5brMfxdyPwJRaF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP55 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43660/720/Pu4bHGhUYvFDyaMkzQV5ZnXdNwscBfgA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP56 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43661/720/m483vnNKXGRjrThfe5EsUu2DpYWdkcZx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP57 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43662/720/NymVjsH5gaSvU3KrWexCwf9EGq8YPBbp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP58 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43663/720/bpu4BftyKzTEcMGhVUdgRW5rDmH2nvXN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP59 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43664/720/ft5UQAHDwKsT8NjazX6Yp3vhcWP4Bx7m.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP60 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43665/720/kpQF3qBnrXbyEUDK6HtZ8dSNGThsRC7j.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP61 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43666/720/Fhv5H6sJC7YT2ArEXWp3VRuDgNbnxMdU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP62 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43667/720/S84zNxpCX7kyrjhuaeFcAGUv3WtBbQfd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP63 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43668/720/U28HfScQDJmex7Fj5CaAKNXMdphv9ZY6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP64 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43669/720/CJUDTwZcqevjhrHFN7zGySnsk35dY8EP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP65 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43670/720/HpEAjnQrswPmTfcgvYqM5kJx9C6GNtuR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP66 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43671/720/579dAkgjSvFQ6rqPWT3BhbcVMeaysCRZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP67 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43672/720/vA2FbEc7VKZR8tyMHn5JzwpWfrseNmh9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP68 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43673/720/cj3w5zSVmN7uRpPUXTQfhZDbt24x6qHv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP69 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43674/720/5FB7S4HcnDA8rVsU3KNMCYQXJRkfyqgu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP70 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43675/720/GdCZNyha7rnjSM8H9bp65VDQRFgAcKsJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP71 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43676/720/hVJGnuf79KQwcvzbTZ52PU6WtqgxM8sE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/33/ee89c40a9df545209192dc03c41724f2-1777028340918.jpg" group-title="👰🏻The Clean Forgetting Year👰🏻",👰🏻The Clean Forgetting Year EP72 [23:39:54 WIB]👰🏻
+https://static.dramellatv.com/videos/2025_06_21/ffmpeg_689_43677/720/9s3z47GMcCqyhFnKHNBDPEjZTwpuv2xt.m3u8
+#EXTINF:-1 tvg-logo="https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php" group-title="👰🏻Support Me 2!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [23:39:54 WIB]👰🏻
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
