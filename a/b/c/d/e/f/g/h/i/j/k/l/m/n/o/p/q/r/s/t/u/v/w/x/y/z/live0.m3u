@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 19:09:42 WIB 08-11-2026
-# 🔄 Total Channels: 873
+# ⏰ Latest Updated: 19:20:17 WIB 08-11-2026
+# 🔄 Total Channels: 874
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:09:42 WIB 08-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:20:17 WIB 08-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://faqsoccer.com/wp-content/uploads/2022/11/campionato-olandese-eredivisie.jpeg" group-title="LIVE EVENT",01:15 WIB Eredivisie 2026/27 Fc Twente vs Afc Ajax | Kompas TV | Gvision TV
@@ -113,9 +113,16 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jgsjthpk9s/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Jin Yuan Hao u002FXu Cheng Zai 2-1Bao Mu Zhuo Lang u002FXiao Lin You Wu ,Duo De Guan Jun   2026Han Guo Open Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=7b9942560a9ede33e7ee12ded22e88c5&wsTime=6af2199d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=77f83e6ccbcadcaf4fc87cf995562d79&wsTime=6af21c6d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Jiang Wei 2-0Gao Wu Yi Lu Guo Guan Zhan Jiang ,Cheng Gong Duo Guan    2026Han Guo Open Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=ebc13729677bb945a0b6c90ecd03c1e8&wsTime=6af2199f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=ea9da31a22492b65b815a738465ae98d&wsTime=6af21c6f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://shorter.me/2E6e8" group-title="LIVE EVENT",[Belum Mulai] 02:45 WIB Fiorentina vs Juventus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10" group-title="LIVE EVENT",23:55 WIB Formula 1 | Motorsports | SKY Via APPLE TV | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
