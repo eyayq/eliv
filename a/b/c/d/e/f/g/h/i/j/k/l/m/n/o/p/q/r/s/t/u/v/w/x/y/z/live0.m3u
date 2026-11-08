@@ -1,40 +1,14 @@
 #EXTM3U
-# ⏰ Latest Updated: 22:09:02 WIB 08-11-2026
-# 🔄 Total Channels: 834
+# ⏰ Latest Updated: 22:20:06 WIB 08-11-2026
+# 🔄 Total Channels: 824
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [22:09:02 WIB 08-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [22:20:06 WIB 08-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2693/image" group-title="LIVE EVENT",02:45 WIB Fiorentina vs Juventus | Football | DAZN SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=623cf27873ec1d0e07641e517358b49f:386dfdaa9e9824908ff8c5938abfef75
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r88d2pdp9j/out/v1/d2747fb3865c40e5aa159dac4dabc099/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2693/image" group-title="LIVE EVENT",02:45 WIB Fiorentina vs Juventus | Football | PARAMOUNT+ - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d6e7dcdee376d426fbebc296618b49b:15674716de0a81eb5a09ae362eba9640
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzmf5zluhh/out/v1/094afe7ad5a84d4cac4199f30aa43215/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2693/image" group-title="LIVE EVENT",02:45 WIB Fiorentina vs Juventus | Football | PEACOCK - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d6e7dcdee376d426fbebc296618b49b:15674716de0a81eb5a09ae362eba9640
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wp0tjgwyax/out/v1/7c06e98232194753be1f636a9cd3ec36/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="LIVE EVENT",02:45 WIB RC Lens vs Olympique de Marseille | Football | DAZN SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6ebb55a865d1939e0e7778351299ba0:218e2ecbd170cd9521d3838749156f24
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3hhqflz9jw/out/v1/98648640c82541bd9dd175bc61c3c1b7/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="LIVE EVENT",02:45 WIB RC Lens vs Olympique de Marseille | Football | beIN SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://shorter.me/2E6e8" group-title="LIVE EVENT",02:45 WIB Fiorentina vs Juventus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -83,24 +57,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Jin Yuan Hao u002FXu Cheng Zai 2-1Bao Mu Zhuo Lang u002FXiao Lin You Wu ,Duo De Guan Jun   2026Han Guo Open Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=c77717ab9dad081c0951dd853aa235d8&wsTime=6af24228&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=08c02c9cde5b254f5f113ab85bb667f0&wsTime=6af24660&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Jiang Wei 2-0Gao Wu Yi Lu Guo Guan Zhan Jiang ,Cheng Gong Duo Guan    2026Han Guo Open Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=8aff6ba6f9b5791c824863b751aaea69&wsTime=6af24229&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2693/image" group-title="Live Event: CFY",02:45 WIB Fiorentina vs Juventus | Football | DAZN SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=623cf27873ec1d0e07641e517358b49f:386dfdaa9e9824908ff8c5938abfef75
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r88d2pdp9j/out/v1/d2747fb3865c40e5aa159dac4dabc099/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2693/image" group-title="Live Event: CFY",02:45 WIB Fiorentina vs Juventus | Football | PARAMOUNT+ - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d6e7dcdee376d426fbebc296618b49b:15674716de0a81eb5a09ae362eba9640
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzmf5zluhh/out/v1/094afe7ad5a84d4cac4199f30aa43215/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2693/image" group-title="Live Event: CFY",02:45 WIB Fiorentina vs Juventus | Football | PEACOCK - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d6e7dcdee376d426fbebc296618b49b:15674716de0a81eb5a09ae362eba9640
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wp0tjgwyax/out/v1/7c06e98232194753be1f636a9cd3ec36/cenc.mpd
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=7cd93668e838d9f594056c2f7f147f52&wsTime=6af24666&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2836/image" group-title="Live Event: CFY",03:00 WIB Atletico Madrid vs FC Barcelona | Football | PREMIER SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -122,17 +81,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",02:45 WIB RC Lens vs Olympique de Marseille | Football | DAZN SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6ebb55a865d1939e0e7778351299ba0:218e2ecbd170cd9521d3838749156f24
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3hhqflz9jw/out/v1/98648640c82541bd9dd175bc61c3c1b7/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1648/image" group-title="Live Event: CFY",02:45 WIB RC Lens vs Olympique de Marseille | Football | beIN SPORTS - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3035/image" group-title="Live Event: CFY",03:30 WIB CF Estrela Amadora vs Benfica | Football | SportDigital Fussball | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
