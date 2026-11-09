@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [16.01 WIB 09/11/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [16.11 WIB 09/11/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="1646996" tvg-logo="https://media.chuoichientv.net/media/20251115_115953_8128716e.png" group-title="[LIVE 15:00 WIB 09/11/26] Ulaangom City vs Southern District",[LIVE 15:00 WIB 09/11/26] Ulaangom City vs Southern District (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -21,62 +21,62 @@ https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="1648304" tvg-logo="https://media.chuoichientv.net/media/20251115_111839_80901ccf.png" group-title="[UPCOMING 3j 28m 19:30 WIB 09/11/26] Wadi Degla vs Kahraba Ismailia",[UPCOMING 3j 28m 19:30 WIB 09/11/26] Wadi Degla vs Kahraba Ismailia (HD1)
+#EXTINF:-1 tvg-id="1648304" tvg-logo="https://media.chuoichientv.net/media/20251115_111839_80901ccf.png" group-title="[UPCOMING 3j 18m 19:30 WIB 09/11/26] Wadi Degla vs Kahraba Ismailia",[UPCOMING 3j 18m 19:30 WIB 09/11/26] Wadi Degla vs Kahraba Ismailia (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="1648304" tvg-logo="https://media.chuoichientv.net/media/20251115_111839_80901ccf.png" group-title="[UPCOMING 3j 28m 19:30 WIB 09/11/26] Wadi Degla vs Kahraba Ismailia",[UPCOMING 3j 28m 19:30 WIB 09/11/26] Wadi Degla vs Kahraba Ismailia (HD2)
+#EXTINF:-1 tvg-id="1648304" tvg-logo="https://media.chuoichientv.net/media/20251115_111839_80901ccf.png" group-title="[UPCOMING 3j 18m 19:30 WIB 09/11/26] Wadi Degla vs Kahraba Ismailia",[UPCOMING 3j 18m 19:30 WIB 09/11/26] Wadi Degla vs Kahraba Ismailia (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="1602544" tvg-logo="https://media.chuoichientv.net/media/20251115_115633_9e32889a.png" group-title="[UPCOMING 5j 58m 22:00 WIB 09/11/26] CS Dinamo București vs CSM Ramnicu Valcea",[UPCOMING 5j 58m 22:00 WIB 09/11/26] CS Dinamo București vs CSM Ramnicu Valcea (HD1)
+#EXTINF:-1 tvg-id="1602544" tvg-logo="https://media.chuoichientv.net/media/20251115_115633_9e32889a.png" group-title="[UPCOMING 5j 48m 22:00 WIB 09/11/26] CS Dinamo București vs CSM Ramnicu Valcea",[UPCOMING 5j 48m 22:00 WIB 09/11/26] CS Dinamo București vs CSM Ramnicu Valcea (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="1602544" tvg-logo="https://media.chuoichientv.net/media/20251115_115633_9e32889a.png" group-title="[UPCOMING 5j 58m 22:00 WIB 09/11/26] CS Dinamo București vs CSM Ramnicu Valcea",[UPCOMING 5j 58m 22:00 WIB 09/11/26] CS Dinamo București vs CSM Ramnicu Valcea (HD2)
+#EXTINF:-1 tvg-id="1602544" tvg-logo="https://media.chuoichientv.net/media/20251115_115633_9e32889a.png" group-title="[UPCOMING 5j 48m 22:00 WIB 09/11/26] CS Dinamo București vs CSM Ramnicu Valcea",[UPCOMING 5j 48m 22:00 WIB 09/11/26] CS Dinamo București vs CSM Ramnicu Valcea (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1648305" tvg-logo="https://media.chuoichientv.net/media/20251115_111839_80901ccf.png" group-title="[UPCOMING 5j 58m 22:00 WIB 09/11/26] Masr vs Samanod",[UPCOMING 5j 58m 22:00 WIB 09/11/26] Masr vs Samanod (HD1)
+#EXTINF:-1 tvg-id="1648305" tvg-logo="https://media.chuoichientv.net/media/20251115_111839_80901ccf.png" group-title="[UPCOMING 5j 48m 22:00 WIB 09/11/26] Masr vs Samanod",[UPCOMING 5j 48m 22:00 WIB 09/11/26] Masr vs Samanod (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="1648305" tvg-logo="https://media.chuoichientv.net/media/20251115_111839_80901ccf.png" group-title="[UPCOMING 5j 58m 22:00 WIB 09/11/26] Masr vs Samanod",[UPCOMING 5j 58m 22:00 WIB 09/11/26] Masr vs Samanod (HD2)
+#EXTINF:-1 tvg-id="1648305" tvg-logo="https://media.chuoichientv.net/media/20251115_111839_80901ccf.png" group-title="[UPCOMING 5j 48m 22:00 WIB 09/11/26] Masr vs Samanod",[UPCOMING 5j 48m 22:00 WIB 09/11/26] Masr vs Samanod (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1509214" tvg-logo="https://media.chuoichientv.net/media/20251115_111432_96f2c582.png" group-title="[UPCOMING 6j 58m 23:00 WIB 09/11/26] Saburtalo vs Gagra",[UPCOMING 6j 58m 23:00 WIB 09/11/26] Saburtalo vs Gagra (HD1)
+#EXTINF:-1 tvg-id="1509214" tvg-logo="https://media.chuoichientv.net/media/20251115_111432_96f2c582.png" group-title="[UPCOMING 6j 48m 23:00 WIB 09/11/26] Saburtalo vs Gagra",[UPCOMING 6j 48m 23:00 WIB 09/11/26] Saburtalo vs Gagra (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="1509214" tvg-logo="https://media.chuoichientv.net/media/20251115_111432_96f2c582.png" group-title="[UPCOMING 6j 58m 23:00 WIB 09/11/26] Saburtalo vs Gagra",[UPCOMING 6j 58m 23:00 WIB 09/11/26] Saburtalo vs Gagra (HD2)
+#EXTINF:-1 tvg-id="1509214" tvg-logo="https://media.chuoichientv.net/media/20251115_111432_96f2c582.png" group-title="[UPCOMING 6j 48m 23:00 WIB 09/11/26] Saburtalo vs Gagra",[UPCOMING 6j 48m 23:00 WIB 09/11/26] Saburtalo vs Gagra (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1565299" tvg-logo="https://media.chuoichientv.net/media/20251115_115632_70f78cfe.png" group-title="[UPCOMING 8j 58m 01:00 WIB 10/11/26] FC Botosani vs Oţelul",[UPCOMING 8j 58m 01:00 WIB 10/11/26] FC Botosani vs Oţelul (HD1)
+#EXTINF:-1 tvg-id="1565299" tvg-logo="https://media.chuoichientv.net/media/20251115_115632_70f78cfe.png" group-title="[UPCOMING 8j 48m 01:00 WIB 10/11/26] FC Botosani vs Oţelul",[UPCOMING 8j 48m 01:00 WIB 10/11/26] FC Botosani vs Oţelul (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="1565299" tvg-logo="https://media.chuoichientv.net/media/20251115_115632_70f78cfe.png" group-title="[UPCOMING 8j 58m 01:00 WIB 10/11/26] FC Botosani vs Oţelul",[UPCOMING 8j 58m 01:00 WIB 10/11/26] FC Botosani vs Oţelul (HD2)
+#EXTINF:-1 tvg-id="1565299" tvg-logo="https://media.chuoichientv.net/media/20251115_115632_70f78cfe.png" group-title="[UPCOMING 8j 48m 01:00 WIB 10/11/26] FC Botosani vs Oţelul",[UPCOMING 8j 48m 01:00 WIB 10/11/26] FC Botosani vs Oţelul (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="1646814" tvg-logo="https://media.chuoichientv.net/media/20251115_115506_21fc2b24.png" group-title="[UPCOMING 10j 28m 02:30 WIB 10/11/26] Plymouth Parkway vs Berkhamsted",[UPCOMING 10j 28m 02:30 WIB 10/11/26] Plymouth Parkway vs Berkhamsted (HD1)
+#EXTINF:-1 tvg-id="1646814" tvg-logo="https://media.chuoichientv.net/media/20251115_115506_21fc2b24.png" group-title="[UPCOMING 10j 18m 02:30 WIB 10/11/26] Plymouth Parkway vs Berkhamsted",[UPCOMING 10j 18m 02:30 WIB 10/11/26] Plymouth Parkway vs Berkhamsted (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="1646814" tvg-logo="https://media.chuoichientv.net/media/20251115_115506_21fc2b24.png" group-title="[UPCOMING 10j 28m 02:30 WIB 10/11/26] Plymouth Parkway vs Berkhamsted",[UPCOMING 10j 28m 02:30 WIB 10/11/26] Plymouth Parkway vs Berkhamsted (HD2)
+#EXTINF:-1 tvg-id="1646814" tvg-logo="https://media.chuoichientv.net/media/20251115_115506_21fc2b24.png" group-title="[UPCOMING 10j 18m 02:30 WIB 10/11/26] Plymouth Parkway vs Berkhamsted",[UPCOMING 10j 18m 02:30 WIB 10/11/26] Plymouth Parkway vs Berkhamsted (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
