@@ -1,32 +1,8 @@
 #EXTM3U
-# Updated: 2026-11-10 03:35:53 WIB
+# Updated: 2026-11-10 03:38:26 WIB
 
-#EXTINF:-1 tvg-logo="https://trakteer.id/images/trakteer-og.png" group-title="⚽ DONASI https://trakteer.id 2026-11-10 03:35:53 WIB ⚽",⚽ DUKUNG SERVER KAMI 2026-11-10 03:35:53 WIB ⚽
+#EXTINF:-1 tvg-logo="https://trakteer.id/images/trakteer-og.png" group-title="⚽ DONASI https://trakteer.id 2026-11-10 03:38:26 WIB ⚽",⚽ DUKUNG SERVER KAMI 2026-11-10 03:38:26 WIB ⚽
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="⚽ 🔴 LIVE ⚽",⚽ Spanish Segunda Division ⚽ Sabadell 🆚 Real Sociedad B [02:30 WIB 10/11/2026] [SVR-BHNS 1] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/289650.flv
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="⚽ 🔴 LIVE ⚽",⚽ Spanish Segunda Division ⚽ Sabadell 🆚 Real Sociedad B [02:30 WIB 10/11/2026] [SVR-BHNS 2] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/289650.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="⚽ 🔴 LIVE ⚽",⚽ Spanish Segunda Division ⚽ Sabadell 🆚 Real Sociedad B [02:30 WIB 10/11/2026] [SVR-BHNS 3] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://video.gvvsb.com/hls/output_v1.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/ed94e6389456957de772c629b5338ac9.png" group-title="⚽ 🔴 LIVE ⚽",⚽ Italian Serie C ⚽ Asd Pineto Calcio 🆚 Vis Pesaro [02:30 WIB 10/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -52,23 +28,23 @@ https://live2.zktsva.app/live/741294.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="⚽ 🔴 LIVE ⚽",⚽ Liga Portugal 2 ⚽ SCU Torreense 🆚 Uniao Leiria [03:15 WIB 10/11/2026] [SVR-BHNS 1] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="⚽ 🔴 LIVE ⚽",⚽ Spanish Segunda Division ⚽ Sabadell 🆚 Real Sociedad B [02:30 WIB 10/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/432017.flv
+https://live2.zktsva.app/live/289650.flv
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="⚽ 🔴 LIVE ⚽",⚽ Liga Portugal 2 ⚽ SCU Torreense 🆚 Uniao Leiria [03:15 WIB 10/11/2026] [SVR-BHNS 2] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="⚽ 🔴 LIVE ⚽",⚽ Spanish Segunda Division ⚽ Sabadell 🆚 Real Sociedad B [02:30 WIB 10/11/2026] [SVR-BHNS 2] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/432017.m3u8
+https://live2.zktsva.app/live/289650.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="⚽ 🔴 LIVE ⚽",⚽ Liga Portugal 2 ⚽ SCU Torreense 🆚 Uniao Leiria [03:15 WIB 10/11/2026] [SVR-BHNS 3] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="⚽ 🔴 LIVE ⚽",⚽ Spanish Segunda Division ⚽ Sabadell 🆚 Real Sociedad B [02:30 WIB 10/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -100,23 +76,23 @@ https://live2.zktsva.app/live/796315.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Categoría Primera A ⚽ Atletico Junior Barranquilla 🆚 Cucuta Deportivo [07:00 WIB 10/11/2026] [SVR-BHNS 1] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="⚽ 🔴 LIVE ⚽",⚽ Liga Portugal 2 ⚽ SCU Torreense 🆚 Uniao Leiria [03:15 WIB 10/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/306290.flv
+https://live2.zktsva.app/live/432017.flv
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Categoría Primera A ⚽ Atletico Junior Barranquilla 🆚 Cucuta Deportivo [07:00 WIB 10/11/2026] [SVR-BHNS 2] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="⚽ 🔴 LIVE ⚽",⚽ Liga Portugal 2 ⚽ SCU Torreense 🆚 Uniao Leiria [03:15 WIB 10/11/2026] [SVR-BHNS 2] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/306290.m3u8
+https://live2.zktsva.app/live/432017.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Categoría Primera A ⚽ Atletico Junior Barranquilla 🆚 Cucuta Deportivo [07:00 WIB 10/11/2026] [SVR-BHNS 3] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="⚽ 🔴 LIVE ⚽",⚽ Liga Portugal 2 ⚽ SCU Torreense 🆚 Uniao Leiria [03:15 WIB 10/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -148,23 +124,23 @@ https://live2.zktsva.app/live/307240.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/455b85f583d273127160e78383f25211.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Mongolia Premier League ⚽ Deren FC 🆚 FC Ulaanbaatar [15:00 WIB 10/11/2026] [SVR-BHNS 1] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ International Friendly ⚽ Qatar U23 🆚 Singapore U23 [15:00 WIB 10/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/796315.flv
+https://live2.zktsva.app/live/300523.flv
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/455b85f583d273127160e78383f25211.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Mongolia Premier League ⚽ Deren FC 🆚 FC Ulaanbaatar [15:00 WIB 10/11/2026] [SVR-BHNS 2] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ International Friendly ⚽ Qatar U23 🆚 Singapore U23 [15:00 WIB 10/11/2026] [SVR-BHNS 2] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/796315.m3u8
+https://live2.zktsva.app/live/300523.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/455b85f583d273127160e78383f25211.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Mongolia Premier League ⚽ Deren FC 🆚 FC Ulaanbaatar [15:00 WIB 10/11/2026] [SVR-BHNS 3] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ International Friendly ⚽ Qatar U23 🆚 Singapore U23 [15:00 WIB 10/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -236,30 +212,6 @@ https://live2.zktsva.app/live/304565.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/9f95b886d475c260f6d06ead5db6327a.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Algerian Ligue Professionnelle 2 ⚽ WA Tlemcen 🆚 RC Arba [21:00 WIB 10/11/2026] [SVR-BHNS 1] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/300523.flv
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/9f95b886d475c260f6d06ead5db6327a.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Algerian Ligue Professionnelle 2 ⚽ WA Tlemcen 🆚 RC Arba [21:00 WIB 10/11/2026] [SVR-BHNS 2] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/300523.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/9f95b886d475c260f6d06ead5db6327a.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Algerian Ligue Professionnelle 2 ⚽ WA Tlemcen 🆚 RC Arba [21:00 WIB 10/11/2026] [SVR-BHNS 3] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://video.gvvsb.com/hls/output_v1.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/9f95b886d475c260f6d06ead5db6327a.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Algerian Ligue Professionnelle 2 ⚽ Djijel 🆚 CR Beni Thour [21:00 WIB 10/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
@@ -277,102 +229,6 @@ https://live2.zktsva.app/live/289650.flv
 https://live2.zktsva.app/live/289650.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/9f95b886d475c260f6d06ead5db6327a.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Algerian Ligue Professionnelle 2 ⚽ Djijel 🆚 CR Beni Thour [21:00 WIB 10/11/2026] [SVR-BHNS 3] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://video.gvvsb.com/hls/output_v1.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/7067abeb61660895f3ca0227675ef16f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Copa del Rey ⚽ UE Tavernes 🆚 Valencia CF [03:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/301238.flv
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/7067abeb61660895f3ca0227675ef16f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Copa del Rey ⚽ UE Tavernes 🆚 Valencia CF [03:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/301238.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/7067abeb61660895f3ca0227675ef16f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Copa del Rey ⚽ UE Tavernes 🆚 Valencia CF [03:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://video.gvvsb.com/hls/output_v1.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ International Friendly ⚽ Qatar U23 🆚 Singapore U23 [15:00 WIB 10/11/2026] [SVR-BHNS 1] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/300523.flv
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ International Friendly ⚽ Qatar U23 🆚 Singapore U23 [15:00 WIB 10/11/2026] [SVR-BHNS 2] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/300523.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ International Friendly ⚽ Qatar U23 🆚 Singapore U23 [15:00 WIB 10/11/2026] [SVR-BHNS 3] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://video.gvvsb.com/hls/output_v1.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Portuguese U23 League ⚽ Santa Clara U23 🆚 Torreense U23 [19:00 WIB 10/11/2026] [SVR-BHNS 1] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/307240.flv
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Portuguese U23 League ⚽ Santa Clara U23 🆚 Torreense U23 [19:00 WIB 10/11/2026] [SVR-BHNS 2] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/307240.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Portuguese U23 League ⚽ Santa Clara U23 🆚 Torreense U23 [19:00 WIB 10/11/2026] [SVR-BHNS 3] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://video.gvvsb.com/hls/output_v1.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/6052a7371f24baf0cc76c335251a065d.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Egyptian Scores Cup ⚽ El Mokawloon El Arab 🆚 Telecom Egypt [22:00 WIB 10/11/2026] [SVR-BHNS 1] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/741294.flv
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/6052a7371f24baf0cc76c335251a065d.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Egyptian Scores Cup ⚽ El Mokawloon El Arab 🆚 Telecom Egypt [22:00 WIB 10/11/2026] [SVR-BHNS 2] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/741294.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/6052a7371f24baf0cc76c335251a065d.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Egyptian Scores Cup ⚽ El Mokawloon El Arab 🆚 Telecom Egypt [22:00 WIB 10/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -404,7 +260,7 @@ https://live2.zktsva.app/live/306290.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Paris Saint Germain Women 🆚 Bayern Munchen Women [03:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/9f95b886d475c260f6d06ead5db6327a.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Algerian Ligue Professionnelle 2 ⚽ WA Tlemcen 🆚 RC Arba [21:00 WIB 10/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -412,7 +268,7 @@ https://video.gvvsb.com/hls/output_v1.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live2.zktsva.app/live/300523.flv
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Paris Saint Germain Women 🆚 Bayern Munchen Women [03:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/9f95b886d475c260f6d06ead5db6327a.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Algerian Ligue Professionnelle 2 ⚽ WA Tlemcen 🆚 RC Arba [21:00 WIB 10/11/2026] [SVR-BHNS 2] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -420,7 +276,7 @@ https://live2.zktsva.app/live/300523.flv
 #EXTVLCOPT:network-caching=1000
 https://live2.zktsva.app/live/300523.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Paris Saint Germain Women 🆚 Bayern Munchen Women [03:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/9f95b886d475c260f6d06ead5db6327a.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Algerian Ligue Professionnelle 2 ⚽ WA Tlemcen 🆚 RC Arba [21:00 WIB 10/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -428,143 +284,23 @@ https://live2.zktsva.app/live/300523.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ BK Hacken Women 🆚 Chelsea FC Women [00:45 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/6052a7371f24baf0cc76c335251a065d.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Egyptian Scores Cup ⚽ El Mokawloon El Arab 🆚 Telecom Egypt [22:00 WIB 10/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/289650.flv
+https://live2.zktsva.app/live/741294.flv
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ BK Hacken Women 🆚 Chelsea FC Women [00:45 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/6052a7371f24baf0cc76c335251a065d.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Egyptian Scores Cup ⚽ El Mokawloon El Arab 🆚 Telecom Egypt [22:00 WIB 10/11/2026] [SVR-BHNS 2] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/289650.m3u8
+https://live2.zktsva.app/live/741294.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ BK Hacken Women 🆚 Chelsea FC Women [00:45 WIB 11/11/2026] [SVR-BHNS 3] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://video.gvvsb.com/hls/output_v1.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/d280a6d7e9637bc02b3b64511474c3f0.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Colombian Copa BetPlay DIMAYOR ⚽ Deportiva Once Caldas 🆚 Atletico Nacional Medellin [08:30 WIB 11/11/2026] [SVR-BHNS 1] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/306290.flv
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/d280a6d7e9637bc02b3b64511474c3f0.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Colombian Copa BetPlay DIMAYOR ⚽ Deportiva Once Caldas 🆚 Atletico Nacional Medellin [08:30 WIB 11/11/2026] [SVR-BHNS 2] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/306290.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/d280a6d7e9637bc02b3b64511474c3f0.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Colombian Copa BetPlay DIMAYOR ⚽ Deportiva Once Caldas 🆚 Atletico Nacional Medellin [08:30 WIB 11/11/2026] [SVR-BHNS 3] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://video.gvvsb.com/hls/output_v1.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ SAFF Championship ⚽ India 🆚 Maldives [16:30 WIB 11/11/2026] [SVR-BHNS 1] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/289650.flv
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ SAFF Championship ⚽ India 🆚 Maldives [16:30 WIB 11/11/2026] [SVR-BHNS 2] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/289650.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ SAFF Championship ⚽ India 🆚 Maldives [16:30 WIB 11/11/2026] [SVR-BHNS 3] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://video.gvvsb.com/hls/output_v1.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Yokohama F. Marinos 🆚 Kashima Antlers [17:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/307240.flv
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Yokohama F. Marinos 🆚 Kashima Antlers [17:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/307240.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Yokohama F. Marinos 🆚 Kashima Antlers [17:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://video.gvvsb.com/hls/output_v1.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Kawasaki Frontale 🆚 Kashiwa Reysol [17:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/432017.flv
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Kawasaki Frontale 🆚 Kashiwa Reysol [17:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/432017.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Kawasaki Frontale 🆚 Kashiwa Reysol [17:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://video.gvvsb.com/hls/output_v1.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Real Madrid Women 🆚 Paris FC Women [00:45 WIB 11/11/2026] [SVR-BHNS 1] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/301238.flv
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Real Madrid Women 🆚 Paris FC Women [00:45 WIB 11/11/2026] [SVR-BHNS 2] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/301238.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Real Madrid Women 🆚 Paris FC Women [00:45 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/6052a7371f24baf0cc76c335251a065d.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Egyptian Scores Cup ⚽ El Mokawloon El Arab 🆚 Telecom Egypt [22:00 WIB 10/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -596,7 +332,31 @@ https://live2.zktsva.app/live/301263.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Germany U19 🆚 Sweden U19 [20:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/7067abeb61660895f3ca0227675ef16f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Copa del Rey ⚽ UE Tavernes 🆚 Valencia CF [03:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/301238.flv
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/7067abeb61660895f3ca0227675ef16f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Copa del Rey ⚽ UE Tavernes 🆚 Valencia CF [03:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/301238.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/7067abeb61660895f3ca0227675ef16f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Copa del Rey ⚽ UE Tavernes 🆚 Valencia CF [03:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://video.gvvsb.com/hls/output_v1.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Inter Milan Women 🆚 Manchester City Women [03:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -604,7 +364,7 @@ https://video.gvvsb.com/hls/output_v1.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live2.zktsva.app/live/741294.flv
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Germany U19 🆚 Sweden U19 [20:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Inter Milan Women 🆚 Manchester City Women [03:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -612,7 +372,7 @@ https://live2.zktsva.app/live/741294.flv
 #EXTVLCOPT:network-caching=1000
 https://live2.zktsva.app/live/741294.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Germany U19 🆚 Sweden U19 [20:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Inter Milan Women 🆚 Manchester City Women [03:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -620,23 +380,23 @@ https://live2.zktsva.app/live/741294.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Belgium U19 🆚 Kosovo U19 [18:15 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Categoría Primera A ⚽ Atletico Junior Barranquilla 🆚 Cucuta Deportivo [07:00 WIB 10/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/796315.flv
+https://live2.zktsva.app/live/306290.flv
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Belgium U19 🆚 Kosovo U19 [18:15 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Categoría Primera A ⚽ Atletico Junior Barranquilla 🆚 Cucuta Deportivo [07:00 WIB 10/11/2026] [SVR-BHNS 2] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/796315.m3u8
+https://live2.zktsva.app/live/306290.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Belgium U19 🆚 Kosovo U19 [18:15 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Categoría Primera A ⚽ Atletico Junior Barranquilla 🆚 Cucuta Deportivo [07:00 WIB 10/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -644,7 +404,31 @@ https://live2.zktsva.app/live/796315.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ AS Roma Women 🆚 Servette Women [03:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Portuguese U23 League ⚽ Santa Clara U23 🆚 Torreense U23 [19:00 WIB 10/11/2026] [SVR-BHNS 1] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/307240.flv
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Portuguese U23 League ⚽ Santa Clara U23 🆚 Torreense U23 [19:00 WIB 10/11/2026] [SVR-BHNS 2] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/307240.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Portuguese U23 League ⚽ Santa Clara U23 🆚 Torreense U23 [19:00 WIB 10/11/2026] [SVR-BHNS 3] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://video.gvvsb.com/hls/output_v1.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/455b85f583d273127160e78383f25211.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Mongolia Premier League ⚽ Deren FC 🆚 FC Ulaanbaatar [15:00 WIB 10/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -652,7 +436,7 @@ https://video.gvvsb.com/hls/output_v1.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live2.zktsva.app/live/796315.flv
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ AS Roma Women 🆚 Servette Women [03:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/455b85f583d273127160e78383f25211.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Mongolia Premier League ⚽ Deren FC 🆚 FC Ulaanbaatar [15:00 WIB 10/11/2026] [SVR-BHNS 2] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -660,7 +444,127 @@ https://live2.zktsva.app/live/796315.flv
 #EXTVLCOPT:network-caching=1000
 https://live2.zktsva.app/live/796315.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ AS Roma Women 🆚 Servette Women [03:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/455b85f583d273127160e78383f25211.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Mongolia Premier League ⚽ Deren FC 🆚 FC Ulaanbaatar [15:00 WIB 10/11/2026] [SVR-BHNS 3] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://video.gvvsb.com/hls/output_v1.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ SAFF Championship ⚽ India 🆚 Maldives [16:30 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/289650.flv
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ SAFF Championship ⚽ India 🆚 Maldives [16:30 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/289650.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ SAFF Championship ⚽ India 🆚 Maldives [16:30 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://video.gvvsb.com/hls/output_v1.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/d280a6d7e9637bc02b3b64511474c3f0.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Colombian Copa BetPlay DIMAYOR ⚽ Deportiva Once Caldas 🆚 Atletico Nacional Medellin [08:30 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/306290.flv
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/d280a6d7e9637bc02b3b64511474c3f0.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Colombian Copa BetPlay DIMAYOR ⚽ Deportiva Once Caldas 🆚 Atletico Nacional Medellin [08:30 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/306290.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/d280a6d7e9637bc02b3b64511474c3f0.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ Colombian Copa BetPlay DIMAYOR ⚽ Deportiva Once Caldas 🆚 Atletico Nacional Medellin [08:30 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://video.gvvsb.com/hls/output_v1.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Urawa Red Diamonds 🆚 Cerezo Osaka [17:30 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/741294.flv
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Urawa Red Diamonds 🆚 Cerezo Osaka [17:30 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/741294.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Urawa Red Diamonds 🆚 Cerezo Osaka [17:30 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://video.gvvsb.com/hls/output_v1.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ BK Hacken Women 🆚 Chelsea FC Women [00:45 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/289650.flv
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ BK Hacken Women 🆚 Chelsea FC Women [00:45 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/289650.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ BK Hacken Women 🆚 Chelsea FC Women [00:45 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://video.gvvsb.com/hls/output_v1.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Real Madrid Women 🆚 Paris FC Women [00:45 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/301238.flv
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Real Madrid Women 🆚 Paris FC Women [00:45 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/301238.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Real Madrid Women 🆚 Paris FC Women [00:45 WIB 11/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -708,6 +612,126 @@ https://live2.zktsva.app/live/304565.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Slovenia U19 🆚 England U19 [19:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/300523.flv
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Slovenia U19 🆚 England U19 [19:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/300523.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Slovenia U19 🆚 England U19 [19:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://video.gvvsb.com/hls/output_v1.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ AS Roma Women 🆚 Servette Women [03:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/796315.flv
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ AS Roma Women 🆚 Servette Women [03:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/796315.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ AS Roma Women 🆚 Servette Women [03:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://video.gvvsb.com/hls/output_v1.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Czechia Republic U19 🆚 Netherlands U19 [20:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/307240.flv
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Czechia Republic U19 🆚 Netherlands U19 [20:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/307240.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Czechia Republic U19 🆚 Netherlands U19 [20:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://video.gvvsb.com/hls/output_v1.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Paris Saint Germain Women 🆚 Bayern Munchen Women [03:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/300523.flv
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Paris Saint Germain Women 🆚 Bayern Munchen Women [03:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/300523.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Paris Saint Germain Women 🆚 Bayern Munchen Women [03:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://video.gvvsb.com/hls/output_v1.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Italy U19 🆚 Romania U19 [21:30 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/300523.flv
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Italy U19 🆚 Romania U19 [21:30 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://live2.zktsva.app/live/300523.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Italy U19 🆚 Romania U19 [21:30 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://video.gvvsb.com/hls/output_v1.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ International Friendly ⚽ Sint Maarten 🆚 Anguilla [07:30 WIB 11/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
@@ -732,23 +756,23 @@ https://live2.zktsva.app/live/307240.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ SAFF Championship ⚽ Bangladesh 🆚 Sri Lanka [21:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Spain U19 🆚 Iceland U19 [22:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/289650.flv
+https://live2.zktsva.app/live/301263.flv
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ SAFF Championship ⚽ Bangladesh 🆚 Sri Lanka [21:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Spain U19 🆚 Iceland U19 [22:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/289650.m3u8
+https://live2.zktsva.app/live/301263.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ SAFF Championship ⚽ Bangladesh 🆚 Sri Lanka [21:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Spain U19 🆚 Iceland U19 [22:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -756,23 +780,23 @@ https://live2.zktsva.app/live/289650.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Slovenia U19 🆚 England U19 [19:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Kawasaki Frontale 🆚 Kashiwa Reysol [17:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/300523.flv
+https://live2.zktsva.app/live/432017.flv
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Slovenia U19 🆚 England U19 [19:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Kawasaki Frontale 🆚 Kashiwa Reysol [17:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/300523.m3u8
+https://live2.zktsva.app/live/432017.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Slovenia U19 🆚 England U19 [19:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Kawasaki Frontale 🆚 Kashiwa Reysol [17:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -828,23 +852,23 @@ https://live2.zktsva.app/live/741294.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Urawa Red Diamonds 🆚 Cerezo Osaka [17:30 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Yokohama F. Marinos 🆚 Kashima Antlers [17:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/741294.flv
+https://live2.zktsva.app/live/307240.flv
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Urawa Red Diamonds 🆚 Cerezo Osaka [17:30 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Yokohama F. Marinos 🆚 Kashima Antlers [17:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/741294.m3u8
+https://live2.zktsva.app/live/307240.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Urawa Red Diamonds 🆚 Cerezo Osaka [17:30 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ J.League Yamazaki Biscuit Levain Cup ⚽ Yokohama F. Marinos 🆚 Kashima Antlers [17:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -852,23 +876,23 @@ https://live2.zktsva.app/live/741294.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Inter Milan Women 🆚 Manchester City Women [03:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Belgium U19 🆚 Kosovo U19 [18:15 WIB 11/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/741294.flv
+https://live2.zktsva.app/live/796315.flv
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Inter Milan Women 🆚 Manchester City Women [03:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Belgium U19 🆚 Kosovo U19 [18:15 WIB 11/11/2026] [SVR-BHNS 2] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/741294.m3u8
+https://live2.zktsva.app/live/796315.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA Women's Champions League ⚽ Inter Milan Women 🆚 Manchester City Women [03:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Belgium U19 🆚 Kosovo U19 [18:15 WIB 11/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -900,47 +924,23 @@ https://live2.zktsva.app/live/306290.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Czechia Republic U19 🆚 Netherlands U19 [20:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Germany U19 🆚 Sweden U19 [20:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/307240.flv
+https://live2.zktsva.app/live/741294.flv
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Czechia Republic U19 🆚 Netherlands U19 [20:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Germany U19 🆚 Sweden U19 [20:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/307240.m3u8
+https://live2.zktsva.app/live/741294.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Czechia Republic U19 🆚 Netherlands U19 [20:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://video.gvvsb.com/hls/output_v1.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Italy U19 🆚 Romania U19 [21:30 WIB 11/11/2026] [SVR-BHNS 1] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/300523.flv
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Italy U19 🆚 Romania U19 [21:30 WIB 11/11/2026] [SVR-BHNS 2] ⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/300523.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Italy U19 🆚 Romania U19 [21:30 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Germany U19 🆚 Sweden U19 [20:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
@@ -948,23 +948,23 @@ https://live2.zktsva.app/live/300523.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video.gvvsb.com/hls/output_v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Spain U19 🆚 Iceland U19 [22:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ SAFF Championship ⚽ Bangladesh 🆚 Sri Lanka [21:00 WIB 11/11/2026] [SVR-BHNS 1] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/301263.flv
+https://live2.zktsva.app/live/289650.flv
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Spain U19 🆚 Iceland U19 [22:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ SAFF Championship ⚽ Bangladesh 🆚 Sri Lanka [21:00 WIB 11/11/2026] [SVR-BHNS 2] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://live2.zktsva.app/live/301263.m3u8
+https://live2.zktsva.app/live/289650.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ UEFA European U19 Football Championship ⚽ Spain U19 🆚 Iceland U19 [22:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png" group-title="⚽ ⏳ SCHEDULED ⚽",⚽ SAFF Championship ⚽ Bangladesh 🆚 Sri Lanka [21:00 WIB 11/11/2026] [SVR-BHNS 3] ⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavangtv-api.adviceme.io
 #EXTVLCOPT:http-origin=https://gavangtv-api.adviceme.io
