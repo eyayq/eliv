@@ -1,12 +1,30 @@
 #EXTM3U
+#EXTINF:0,tvg-name="Paris Saint Germain Women vs Bayern Munchen Women - UEFA Women's Champions League [FT] (1-2) 03:00 WIB 11-11-2026" tvg-logo="https://img.thesports.com/football/team/9b531be11cb41d4f7999fc91a943c75f.png" group-title="live camelia vip [tes]",Paris Saint Germain Women vs Bayern Munchen Women - UEFA Women's Champions League [FT] (1-2) 03:00 WIB 11-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MxjZPMy2dpxqzqbvf_md.m3u8?txSecret=a483a07c7e4ebf2806bebf73563a5bf6&txTime=6AF39222&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="AS Roma Women vs Servette Women - UEFA Women's Champions League [FT] (2-1) 03:00 WIB 11-11-2026" tvg-logo="https://img.thesports.com/football/team/09c9433cfa1c306e6b774a272da7f5a9.png" group-title="live camelia vip [tes]",AS Roma Women vs Servette Women - UEFA Women's Champions League [FT] (2-1) 03:00 WIB 11-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MxjZPMy2ZS173Bmcs.m3u8?txSecret=a7803deb4ed6be732ca5e3c703e4b884&txTime=6AF39222&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Inter Milan Women vs Manchester City Women - UEFA Women's Champions League [FT] (1-4) 03:00 WIB 11-11-2026" tvg-logo="https://img.thesports.com/football/team/ece43223dd5ca95c06190d491a8238e1.png" group-title="live camelia vip [tes]",Inter Milan Women vs Manchester City Women - UEFA Women's Champions League [FT] (1-4) 03:00 WIB 11-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MxjZPMy2XEXEZMrTy.m3u8?txSecret=f63727c3460625c5d83a6fadebdcf09a&txTime=6AF39222&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
 #EXTINF:0,tvg-name="UE Tavernes vs Valencia CF - Copa del Rey [FT] (0-6) 03:00 WIB 11-11-2026" tvg-logo="https://img.thesports.com/football/team/bd9f3363073f1bd8222d3ff41fec6246.png" group-title="live camelia vip [tes]",UE Tavernes vs Valencia CF - Copa del Rey [FT] (0-6) 03:00 WIB 11-11-2026
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/sd-6MxjKLjnESXKHcWBMR.m3u8?txSecret=776e62710786c42401364c37d5bd6679&txTime=6AF38EBF&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/sd-6MxjKLjnESXKHcWBMR.m3u8?txSecret=e9a8373bd402d883d90ba46201ae4a9d&txTime=6AF39222&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
 
-#EXTINF:0,tvg-name="Envigado FC vs Boca Juniors De Cali - Colombian Torneo BetPlay Dimayor [UPC] (1-0) 03:30 WIB 11-11-2026" tvg-logo="https://img.thesports.com/football/team/d53d8c2e307894416c0b1989482fd022.png" group-title="live camelia vip [tes]",Envigado FC vs Boca Juniors De Cali - Colombian Torneo BetPlay Dimayor [UPC] (1-0) 03:30 WIB 11-11-2026
+#EXTINF:0,tvg-name="Envigado FC vs Boca Juniors De Cali - Colombian Torneo BetPlay Dimayor [FT] (1-0) 03:30 WIB 11-11-2026" tvg-logo="https://img.thesports.com/football/team/d53d8c2e307894416c0b1989482fd022.png" group-title="live camelia vip [tes]",Envigado FC vs Boca Juniors De Cali - Colombian Torneo BetPlay Dimayor [FT] (1-0) 03:30 WIB 11-11-2026
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/sd-6Mxk49kTXHo9gawdFd.m3u8?txSecret=678755cbab8a856013f2c37ac50a2e10&txTime=6AF38EBF&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/sd-6Mxk49kTXHo9gawdFd.m3u8?txSecret=bc79b42a41b0d0dae101b8aa79d58ce5&txTime=6AF39222&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
