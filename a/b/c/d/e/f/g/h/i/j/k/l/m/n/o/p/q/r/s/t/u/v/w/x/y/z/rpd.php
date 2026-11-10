@@ -1,120 +1,120 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [16.50 WIB 10/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [18.58 WIB 10/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deren-fc-571962.webp" group-title="[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 1",[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6adc5e986c031c11fa417f30.m3u8?auth_key=1794325501-0-0-890464f57010e434ec30be76ba8fa908
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deren-fc-571962.webp" group-title="[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 2",[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/1ddca0b9d0fa70b6.m3u8?wsSecret=EB5E0FA64744B0FE92D265D3B093F030&wsTime=1794304081
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deren-fc-571962.webp" group-title="[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 3",[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-620504_lsd.m3u8?auth_key=1794307507-0-0-06152ea2cfdc22c8b4c4e6fb669c5006
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deren-fc-571962.webp" group-title="[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 4",[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1794307507-0-0-f5d84e0472eff2e89b1738bb41b0688e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deren-fc-571962.webp" group-title="[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 5",[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1794307507-0-0-d3bcccece053cd45777ce58f4779dab7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deren-fc-571962.webp" group-title="[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 6",[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1794307507-0-0-80d3e9ba621a92667cefe65ca92dabbe
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deren-fc-571962.webp" group-title="[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 7",[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=70569e2ae515cc907d42151ca8e5ffa6&txTime=6af33c03
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deren-fc-571962.webp" group-title="[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 8",[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=55e91af66facd1fbe0eb4673cf7a338d&txTime=6af33c03
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deren-fc-571962.webp" group-title="[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 9",[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912127_lsd.m3u8?txSecret=e2aa0a48402ea00f9158ba8319a7b934&txTime=6af33c03
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deren-fc-571962.webp" group-title="[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 10",[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=bde09686d3b73aa6d1a8022fea808a42&txTime=6af33c03
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deren-fc-571962.webp" group-title="[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 11",[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=8f49cc1a08a38fa88659073abb09198e&txTime=6af33c03
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deren-fc-571962.webp" group-title="[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 12",[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=9335e0a503e12875c0c28023abbcac7a&txTime=6af33c03
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deren-fc-571962.webp" group-title="[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 13",[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1794307507-0-0-9d7c67a9dedf3fb15685450cba91d79e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deren-fc-571962.webp" group-title="[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 14",[LIVE 15:00 WIB 10/11/26] Deren FC vs FC Ulaanbaatar | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1794307507-0-0-937e5536503893ea5bfc7ed53c345f35
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 1",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/qat-sin-intfru23/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 2",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/qat-sin-intfru23.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 3",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae16c4bcfbac0cba8beb5e3.m3u8?auth_key=1794325501-0-0-45b1373b5d0b5b3c92e56665675695e3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 4",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/5db8316393eb35f5.m3u8?wsSecret=1D4386E5E4C85ED81F1B83FFBE457DC7&wsTime=1794304081
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 5",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1794307447-0-0-76737c6423f120d3bc664ed2e1ae4ace
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 6",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794307447-0-0-c8b5bc5302360e7a3e5c15597d2d82dc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 7",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1794307447-0-0-0b2a4957f4a54bb17a343d5f54218616
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 8",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794307447-0-0-f1351213bb5466ee33503b7f0fdb27ee
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 9",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1794307447-0-0-9bc847320fdc96986f0e1620a4c64d1c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 10",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794307447-0-0-e0a224186c34739aac9e3ad7c9d3491c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 11",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1794307447-0-0-ba9526a2d137852c1ee383992458aa59
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 12",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794307447-0-0-0cabe1453eb368941f0d7b57245e9cd0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 13",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=344bc0ab36f9593fdc5d08362ec0c7f2&txTime=6af33c03
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 14",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=602274a13a0ee29fbe55555462c1e900&txTime=6af33c03
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 15",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1794307507-0-0-d611226f29a4b799e4862fbde4428759
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u23-b4382f.webp" group-title="[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 16",[LIVE 15:00 WIB 10/11/26] Qatar U23 vs Singapore U23 | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794307507-0-0-76af38251b7ec771ce8f94ac3657fbcd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bangalore-dream-united-fc-71437c.png" group-title="[LIVE 15:05 WIB 10/11/26] Bangalore Dream United FC vs Parikrma FC | Server 1",[LIVE 15:05 WIB 10/11/26] Bangalore Dream United FC vs Parikrma FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/51f392b3b925c428.m3u8?wsSecret=95E168FF4F65A99B6A9ED93B3F7E5DF8&wsTime=1794304081
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-lynx-w-e287cb.webp" group-title="[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 1",[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1794307507-0-0-2a8a2a80005d18f5665e52adfc68bc8b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-lynx-w-e287cb.webp" group-title="[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 2",[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794307507-0-0-15f2f37cbff290739b7ed782cad073e5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-lynx-w-e287cb.webp" group-title="[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 3",[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794307507-0-0-e32a066a2142e3b986765e749fae6cc2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-lynx-w-e287cb.webp" group-title="[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 4",[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794307507-0-0-d4ca3f5f836370c8b051a54c56a0f07c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mobis-phoebus-81c28e.png" group-title="[LIVE 17:00 WIB 10/11/26] Mobis Phoebus vs Goyang Sono | Server 1",[LIVE 17:00 WIB 10/11/26] Mobis Phoebus vs Goyang Sono | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1794307507-0-0-ca0495a1480e55b795384adc3c14484a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1794315187-0-0-412d07ef4d8189b74cbce60c2a671630
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mobis-phoebus-81c28e.png" group-title="[LIVE 17:00 WIB 10/11/26] Mobis Phoebus vs Goyang Sono | Server 2",[LIVE 17:00 WIB 10/11/26] Mobis Phoebus vs Goyang Sono | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794307507-0-0-2946b06eaf1628819e336fb83054e7d8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794315187-0-0-cf721ae84ec685f1f3d8d8f958204fd5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mobis-phoebus-81c28e.png" group-title="[LIVE 17:00 WIB 10/11/26] Mobis Phoebus vs Goyang Sono | Server 3",[LIVE 17:00 WIB 10/11/26] Mobis Phoebus vs Goyang Sono | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1794307507-0-0-f98a13915118c785efa1de03f447b678
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1794315187-0-0-74e2c78a8defe20af000566aa8d26519
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mobis-phoebus-81c28e.png" group-title="[LIVE 17:00 WIB 10/11/26] Mobis Phoebus vs Goyang Sono | Server 4",[LIVE 17:00 WIB 10/11/26] Mobis Phoebus vs Goyang Sono | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794307507-0-0-30fe77c61fbc63e89603c89cfb880818
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794315187-0-0-9af453813ac259b3f150152dbc8bcf09
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-lynx-w-e287cb.webp" group-title="[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 1",[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794315187-0-0-16dfa055d1c310d5619a9e1ff97523b5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-lynx-w-e287cb.webp" group-title="[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 2",[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794315187-0-0-2464a7319623e384e303e7fba0d9178b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-lynx-w-e287cb.webp" group-title="[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 3",[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1794315114-0-0-ca7d0bb846b765329ea3684d55b6cce5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-lynx-w-e287cb.webp" group-title="[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 4",[LIVE 17:00 WIB 10/11/26] Perth Lynx W vs Bendigo W | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794315114-0-0-c6d4ba04a13fdb16e7e3e1ef5f43fb7a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-bengaluru-united-3e2ac5.png" group-title="[LIVE 17:37 WIB 10/11/26] FC Bengaluru United vs FC Real Bengaluru | Server 1",[LIVE 17:37 WIB 10/11/26] FC Bengaluru United vs FC Real Bengaluru | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6aeb87c2e4f896100f840de0.m3u8?auth_key=1794332401-0-0-7225e126efaa0b2d47d25be4af5aa2ac
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-bengaluru-united-3e2ac5.png" group-title="[LIVE 17:37 WIB 10/11/26] FC Bengaluru United vs FC Real Bengaluru | Server 2",[LIVE 17:37 WIB 10/11/26] FC Bengaluru United vs FC Real Bengaluru | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/f0f713f04f209f04.m3u8?wsSecret=2D175291F49CD62DF9231C6707325765&wsTime=1794311594
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shaoyang-team-bb4f06.png" group-title="[LIVE 18:38 WIB 10/11/26] Shaoyang Team vs Xiangtan Team | Server 1",[LIVE 18:38 WIB 10/11/26] Shaoyang Team vs Xiangtan Team | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxk4CyF9PP7YxS9TA.m3u8?txSecret=75f0253b0d991ddc819659f001e94117&txTime=6AF3AE9D
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vietnam-u23-b40b5d.webp" group-title="[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 1",[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/vie-tha-intfru23/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vietnam-u23-b40b5d.webp" group-title="[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 2",[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/vie-tha-intfru23.flv
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vietnam-u23-b40b5d.webp" group-title="[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 3",[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912141_lsd.m3u8?auth_key=1794315247-0-0-9f814ca8b4b4974756403c2be7084db8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vietnam-u23-b40b5d.webp" group-title="[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 4",[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1794315247-0-0-321de3e85cea3655a5950ce952afd5b9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vietnam-u23-b40b5d.webp" group-title="[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 5",[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1794315247-0-0-dc3ae50ed0dd1a56e0c35139909aa41f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vietnam-u23-b40b5d.webp" group-title="[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 6",[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794315247-0-0-361ec0a304344d9f6e3a034da09e43d8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vietnam-u23-b40b5d.webp" group-title="[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 7",[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1794315247-0-0-3ec1e2ac71e49f814d152b6e1b18cc79
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vietnam-u23-b40b5d.webp" group-title="[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 8",[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794315247-0-0-bbfa673e815b3767d9ed4a1ecae065a7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vietnam-u23-b40b5d.webp" group-title="[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 9",[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1794315247-0-0-67acce0e6b5f0f8f3d8e64aad5ca8f21
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vietnam-u23-b40b5d.webp" group-title="[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 10",[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794315247-0-0-fb05050073737fbd5c9780139f466914
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vietnam-u23-b40b5d.webp" group-title="[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 11",[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1794315247-0-0-89c2f477ff8a2c424d31407dea557425
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vietnam-u23-b40b5d.webp" group-title="[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 12",[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794315247-0-0-ec4035b95a361e4b2fb794ed411c62e2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vietnam-u23-b40b5d.webp" group-title="[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 13",[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1794315247-0-0-a2946626c9a8645cfabbf5badddea41d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vietnam-u23-b40b5d.webp" group-title="[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 14",[LIVE 19:00 WIB 10/11/26] Vietnam U23 vs Thailand U23 | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794315247-0-0-6220d5b8672dc500ab2657cecc0511cb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santa-clara-u23-032dc0.webp" group-title="[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 1",[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/santa-torre-poru23/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santa-clara-u23-032dc0.webp" group-title="[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 2",[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/santa-torre-poru23.flv
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santa-clara-u23-032dc0.webp" group-title="[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 3",[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1794315247-0-0-1ba9a1756359af5b0239f8671d8e2b23
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santa-clara-u23-032dc0.webp" group-title="[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 4",[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794315247-0-0-bf8683257820901235b8ce2cf9685165
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santa-clara-u23-032dc0.webp" group-title="[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 5",[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1794315247-0-0-95d699cf6394e8487e0e88651f22aa8b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santa-clara-u23-032dc0.webp" group-title="[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 6",[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794315247-0-0-d244069c16497756c626c177d46cf925
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santa-clara-u23-032dc0.webp" group-title="[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 7",[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1794315247-0-0-6c4c30b5ec2f972b19ca7111d1aebde6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santa-clara-u23-032dc0.webp" group-title="[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 8",[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794315247-0-0-0a63749c926e05f4b3ccedc05e1a835f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santa-clara-u23-032dc0.webp" group-title="[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 9",[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912140_lsd.m3u8?txSecret=03dc07d915b9babfa5264df01395f1ad&txTime=6af35a3f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santa-clara-u23-032dc0.webp" group-title="[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 10",[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=f8ca2d5485ba7e4ac2d4e969c8ab80c1&txTime=6af35a3f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santa-clara-u23-032dc0.webp" group-title="[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 11",[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1794315247-0-0-aca0e9392582cd0de263beb525ce40d5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santa-clara-u23-032dc0.webp" group-title="[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 12",[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794315247-0-0-0d08c922266298dd394922dc43430b80
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santa-clara-u23-032dc0.webp" group-title="[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 13",[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1794315247-0-0-a8166f0795045ac07f628648eea4b8af
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/santa-clara-u23-032dc0.webp" group-title="[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 14",[LIVE 19:00 WIB 10/11/26] Santa Clara U23 vs Torreense U23 | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1794315247-0-0-5a19add5232ce387b5174059a3892e32
