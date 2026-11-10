@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:0,tvg-name="Atletico Junior Barranquilla vs Cucuta Deportivo - Categoría Primera A [LIVE] (0-0) 07:00 WIB 10-11-2026" tvg-logo="https://img.thesports.com/football/team/fd3230c7fa4ad7bde28c640f2f32ca43.png" group-title="live camelia vip [tes]",Atletico Junior Barranquilla vs Cucuta Deportivo - Categoría Primera A [LIVE] (0-0) 07:00 WIB 10-11-2026
+#EXTINF:0,tvg-name="Atletico Junior Barranquilla vs Cucuta Deportivo - Categoría Primera A [LIVE] (1-0) 07:00 WIB 10-11-2026" tvg-logo="https://img.thesports.com/football/team/fd3230c7fa4ad7bde28c640f2f32ca43.png" group-title="live camelia vip [tes]",Atletico Junior Barranquilla vs Cucuta Deportivo - Categoría Primera A [LIVE] (1-0) 07:00 WIB 10-11-2026
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/sd-6MweaVyihfajW3CmAF.m3u8?txSecret=12d604effd6c41658dc4b6d6f8c179e5&txTime=6AF26689&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/sd-6MweaVyihfajW3CmAF.m3u8?txSecret=7ac1a855170e1c999b6ae346e953becd&txTime=6AF2696E&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Aurora vs Universitario De Vinto - Bolivian Primera Division [LIVE] (0-0) 07:30 WIB 10-11-2026" tvg-logo="https://img.thesports.com/football/team/ec2ed16825c0bf497854333615c4e2af.png" group-title="live camelia vip [tes]",Aurora vs Universitario De Vinto - Bolivian Primera Division [LIVE] (0-0) 07:30 WIB 10-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6Mxk3ywzJaxsrdkFy1.m3u8?txSecret=c569ec0eaab43357ebd475117a3fe3e8&txTime=6AF2696E&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
