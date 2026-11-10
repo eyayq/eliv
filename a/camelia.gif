@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:0,tvg-name="AFC Metalul Buzau vs CSA Steaua Bucuresti - Romanian Liga II [LIVE] (0-0) 00:30 WIB 11-11-2026" tvg-logo="https://img.thesports.com/football/team/f5564d465c79e1d82f69a3cd887c50b8.png" group-title="live camelia vip [tes]",AFC Metalul Buzau vs CSA Steaua Bucuresti - Romanian Liga II [LIVE] (0-0) 00:30 WIB 11-11-2026
+#EXTINF:0,tvg-name="AFC Metalul Buzau vs CSA Steaua Bucuresti - Romanian Liga II [LIVE] (0-1) 00:30 WIB 11-11-2026" tvg-logo="https://img.thesports.com/football/team/f5564d465c79e1d82f69a3cd887c50b8.png" group-title="live camelia vip [tes]",AFC Metalul Buzau vs CSA Steaua Bucuresti - Romanian Liga II [LIVE] (0-1) 00:30 WIB 11-11-2026
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/sd-6Mwarm9mNVAmV5UhrF.m3u8?txSecret=e7f1b833cd2cb428cfd55cae0de3cff5&txTime=6AF356FA&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/sd-6Mwarm9mNVAmV5UhrF.m3u8?txSecret=7d722454cc7c8c7491a7482aca9224f7&txTime=6AF35BD3&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Real Madrid Women vs Paris FC Women - UEFA Women's Champions League [LIVE] (0-0) 00:45 WIB 11-11-2026" tvg-logo="https://img.thesports.com/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png" group-title="live camelia vip [tes]",Real Madrid Women vs Paris FC Women - UEFA Women's Champions League [LIVE] (0-0) 00:45 WIB 11-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MxjZPMy2SqZVbi2AB.m3u8?txSecret=d8d0b4af4ee3a789b51b34703673bb09&txTime=6AF35BD3&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="BK Hacken Women vs Chelsea FC Women - UEFA Women's Champions League [LIVE] (0-0) 00:45 WIB 11-11-2026" tvg-logo="https://img.thesports.com/football/team/e121cced31de682c590d3305327061df.png" group-title="live camelia vip [tes]",BK Hacken Women vs Chelsea FC Women - UEFA Women's Champions League [LIVE] (0-0) 00:45 WIB 11-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MxjZPMy2V33N5XwK5.m3u8?txSecret=403d1a7dbb0b0fc1b7756eafb2241a2d&txTime=6AF35BD3&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
