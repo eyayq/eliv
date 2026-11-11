@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [17.09 WIB 11/11/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [17.25 WIB 11/11/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="1638013" tvg-logo="https://media.chuoichientv.net/media/20251115_120250_dac8ca8d.png" group-title="[LIVE 15:30 WIB 11/11/26] Philippines U17 vs Indonesia U17",[LIVE 15:30 WIB 11/11/26] Philippines U17 vs Indonesia U17 (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -31,62 +31,62 @@ https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8
-#EXTINF:-1 tvg-id="1648033" tvg-logo="https://media.chuoichientv.net/media/20251115_115529_0cf25f68.png" group-title="[UPCOMING 0j 20m 17:30 WIB 11/11/26] Urawa vs Cerezo Osaka",[UPCOMING 0j 20m 17:30 WIB 11/11/26] Urawa vs Cerezo Osaka (HD1)
+#EXTINF:-1 tvg-id="1648033" tvg-logo="https://media.chuoichientv.net/media/20251115_115529_0cf25f68.png" group-title="[UPCOMING 0j 4m 17:30 WIB 11/11/26] Urawa vs Cerezo Osaka",[UPCOMING 0j 4m 17:30 WIB 11/11/26] Urawa vs Cerezo Osaka (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="1648033" tvg-logo="https://media.chuoichientv.net/media/20251115_115529_0cf25f68.png" group-title="[UPCOMING 0j 20m 17:30 WIB 11/11/26] Urawa vs Cerezo Osaka",[UPCOMING 0j 20m 17:30 WIB 11/11/26] Urawa vs Cerezo Osaka (HD2)
+#EXTINF:-1 tvg-id="1648033" tvg-logo="https://media.chuoichientv.net/media/20251115_115529_0cf25f68.png" group-title="[UPCOMING 0j 4m 17:30 WIB 11/11/26] Urawa vs Cerezo Osaka",[UPCOMING 0j 4m 17:30 WIB 11/11/26] Urawa vs Cerezo Osaka (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1647357" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="[UPCOMING 1j 50m 19:00 WIB 11/11/26] Việt Nam vs Chinese Taipei",[UPCOMING 1j 50m 19:00 WIB 11/11/26] Việt Nam vs Chinese Taipei (HD1)
+#EXTINF:-1 tvg-id="1647357" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="[UPCOMING 1j 34m 19:00 WIB 11/11/26] Việt Nam vs Chinese Taipei",[UPCOMING 1j 34m 19:00 WIB 11/11/26] Việt Nam vs Chinese Taipei (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="1647357" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="[UPCOMING 1j 50m 19:00 WIB 11/11/26] Việt Nam vs Chinese Taipei",[UPCOMING 1j 50m 19:00 WIB 11/11/26] Việt Nam vs Chinese Taipei (HD2)
+#EXTINF:-1 tvg-id="1647357" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="[UPCOMING 1j 34m 19:00 WIB 11/11/26] Việt Nam vs Chinese Taipei",[UPCOMING 1j 34m 19:00 WIB 11/11/26] Việt Nam vs Chinese Taipei (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="1647634" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="[UPCOMING 2j 25m 19:35 WIB 11/11/26] China U19 vs Vietnam U19",[UPCOMING 2j 25m 19:35 WIB 11/11/26] China U19 vs Vietnam U19 (HD1)
+#EXTINF:-1 tvg-id="1647634" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="[UPCOMING 2j 9m 19:35 WIB 11/11/26] China U19 vs Vietnam U19",[UPCOMING 2j 9m 19:35 WIB 11/11/26] China U19 vs Vietnam U19 (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="1647634" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="[UPCOMING 2j 25m 19:35 WIB 11/11/26] China U19 vs Vietnam U19",[UPCOMING 2j 25m 19:35 WIB 11/11/26] China U19 vs Vietnam U19 (HD2)
+#EXTINF:-1 tvg-id="1647634" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="[UPCOMING 2j 9m 19:35 WIB 11/11/26] China U19 vs Vietnam U19",[UPCOMING 2j 9m 19:35 WIB 11/11/26] China U19 vs Vietnam U19 (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1648707" tvg-logo="https://media.chuoichientv.net/media/20251115_115536_0bfc7b1f.png" group-title="[UPCOMING 3j 50m 21:00 WIB 11/11/26] Bangladesh vs Sri Lanka",[UPCOMING 3j 50m 21:00 WIB 11/11/26] Bangladesh vs Sri Lanka (HD1)
+#EXTINF:-1 tvg-id="1648707" tvg-logo="https://media.chuoichientv.net/media/20251115_115536_0bfc7b1f.png" group-title="[UPCOMING 3j 34m 21:00 WIB 11/11/26] Bangladesh vs Sri Lanka",[UPCOMING 3j 34m 21:00 WIB 11/11/26] Bangladesh vs Sri Lanka (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="1648707" tvg-logo="https://media.chuoichientv.net/media/20251115_115536_0bfc7b1f.png" group-title="[UPCOMING 3j 50m 21:00 WIB 11/11/26] Bangladesh vs Sri Lanka",[UPCOMING 3j 50m 21:00 WIB 11/11/26] Bangladesh vs Sri Lanka (HD2)
+#EXTINF:-1 tvg-id="1648707" tvg-logo="https://media.chuoichientv.net/media/20251115_115536_0bfc7b1f.png" group-title="[UPCOMING 3j 34m 21:00 WIB 11/11/26] Bangladesh vs Sri Lanka",[UPCOMING 3j 34m 21:00 WIB 11/11/26] Bangladesh vs Sri Lanka (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="1612675" tvg-logo="https://media.chuoichientv.net/media/20251115_120058_044316b1.png" group-title="[UPCOMING 8j 50m 02:00 WIB 12/11/26] Liverpool W vs Aston Villa W",[UPCOMING 8j 50m 02:00 WIB 12/11/26] Liverpool W vs Aston Villa W (HD1)
+#EXTINF:-1 tvg-id="1612675" tvg-logo="https://media.chuoichientv.net/media/20251115_120058_044316b1.png" group-title="[UPCOMING 8j 34m 02:00 WIB 12/11/26] Liverpool W vs Aston Villa W",[UPCOMING 8j 34m 02:00 WIB 12/11/26] Liverpool W vs Aston Villa W (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="1612675" tvg-logo="https://media.chuoichientv.net/media/20251115_120058_044316b1.png" group-title="[UPCOMING 8j 50m 02:00 WIB 12/11/26] Liverpool W vs Aston Villa W",[UPCOMING 8j 50m 02:00 WIB 12/11/26] Liverpool W vs Aston Villa W (HD2)
+#EXTINF:-1 tvg-id="1612675" tvg-logo="https://media.chuoichientv.net/media/20251115_120058_044316b1.png" group-title="[UPCOMING 8j 34m 02:00 WIB 12/11/26] Liverpool W vs Aston Villa W",[UPCOMING 8j 34m 02:00 WIB 12/11/26] Liverpool W vs Aston Villa W (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1638005" tvg-logo="https://media.chuoichientv.net/media/20251115_120250_dac8ca8d.png" group-title="[UPCOMING 1j 50m 19:00 WIB 11/11/26] Chinese Taipei U17 vs Thailand U17",[UPCOMING 1j 50m 19:00 WIB 11/11/26] Chinese Taipei U17 vs Thailand U17 (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1638005" tvg-logo="https://media.chuoichientv.net/media/20251115_120250_dac8ca8d.png" group-title="[UPCOMING 1j 34m 19:00 WIB 11/11/26] Chinese Taipei U17 vs Thailand U17",[UPCOMING 1j 34m 19:00 WIB 11/11/26] Chinese Taipei U17 vs Thailand U17 (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
-#EXTINF:-1 tvg-id="1638005" tvg-logo="https://media.chuoichientv.net/media/20251115_120250_dac8ca8d.png" group-title="[UPCOMING 1j 50m 19:00 WIB 11/11/26] Chinese Taipei U17 vs Thailand U17",[UPCOMING 1j 50m 19:00 WIB 11/11/26] Chinese Taipei U17 vs Thailand U17 (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1638005" tvg-logo="https://media.chuoichientv.net/media/20251115_120250_dac8ca8d.png" group-title="[UPCOMING 1j 34m 19:00 WIB 11/11/26] Chinese Taipei U17 vs Thailand U17",[UPCOMING 1j 34m 19:00 WIB 11/11/26] Chinese Taipei U17 vs Thailand U17 (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
