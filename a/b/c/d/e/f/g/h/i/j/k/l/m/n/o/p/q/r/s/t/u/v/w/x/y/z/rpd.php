@@ -1,30 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [08.49 WIB 12/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.03 WIB 12/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-raptors-c81af9.webp" group-title="[LIVE 07:00 WIB 12/11/26] Toronto Raptors vs Boston Celtics | Server 1",[LIVE 07:00 WIB 12/11/26] Toronto Raptors vs Boston Celtics | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1794451448-0-0-2dcbc3499a6c9b5ae13f7ceaa2b7dd2d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-raptors-c81af9.webp" group-title="[LIVE 07:00 WIB 12/11/26] Toronto Raptors vs Boston Celtics | Server 2",[LIVE 07:00 WIB 12/11/26] Toronto Raptors vs Boston Celtics | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794451448-0-0-7a23805cee549a7533db581cb472b5da
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-knicks-389bd8.webp" group-title="[LIVE 07:00 WIB 12/11/26] New York Knicks vs Cleveland Cavaliers | Server 1",[LIVE 07:00 WIB 12/11/26] New York Knicks vs Cleveland Cavaliers | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1794451507-0-0-ebfc55d905b15446be289437aea165a4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-york-knicks-389bd8.webp" group-title="[LIVE 07:00 WIB 12/11/26] New York Knicks vs Cleveland Cavaliers | Server 2",[LIVE 07:00 WIB 12/11/26] New York Knicks vs Cleveland Cavaliers | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794451507-0-0-fcc1f1e43966f016ae14771bec7a0598
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indiana-pacers-53d535.webp" group-title="[LIVE 07:00 WIB 12/11/26] Indiana Pacers vs Washington Wizards | Server 1",[LIVE 07:00 WIB 12/11/26] Indiana Pacers vs Washington Wizards | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1794451448-0-0-e47d838b9f9d3c75fbb0c571e2c30685
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indiana-pacers-53d535.webp" group-title="[LIVE 07:00 WIB 12/11/26] Indiana Pacers vs Washington Wizards | Server 2",[LIVE 07:00 WIB 12/11/26] Indiana Pacers vs Washington Wizards | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794451448-0-0-0470b0e04076a2f48ce2aa9f2b5cd353
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indiana-pacers-53d535.webp" group-title="[LIVE 07:00 WIB 12/11/26] Indiana Pacers vs Washington Wizards | Server 3",[LIVE 07:00 WIB 12/11/26] Indiana Pacers vs Washington Wizards | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1794451448-0-0-b9557b711b37f41ddd46982806a8b357
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indiana-pacers-53d535.webp" group-title="[LIVE 07:00 WIB 12/11/26] Indiana Pacers vs Washington Wizards | Server 4",[LIVE 07:00 WIB 12/11/26] Indiana Pacers vs Washington Wizards | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794451448-0-0-5d632afecea9abb795fb095e99243637
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-women-369da6.webp" group-title="[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 1",[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/toluca-america-mexligamx/index.m3u8
@@ -33,109 +9,106 @@ https://hls.lauthaitv.cc/live/toluca-america-mexligamx/index.m3u8
 https://flv.lauthaitv.cc/live/toluca-america-mexligamx.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-women-369da6.webp" group-title="[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 3",[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6af0dbd9cfbac0cba8548eeb.m3u8?auth_key=1794469502-0-0-3f1f9c13c56bdfe8f3c3d170290345fb
+https://pull.fmp.live/sla/1-6af0dbd9cfbac0cba8548eeb.m3u8?auth_key=1794470221-0-0-91e8b5bf54894175055c61c13ac2a8eb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-women-369da6.webp" group-title="[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 4",[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1794451508-0-0-5ade8db7e8fdf1b7eb3cf4a72030be52
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1794452168-0-0-880fd0ce0761b10296be9972d97363c4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-women-369da6.webp" group-title="[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 5",[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1794451508-0-0-0662f7c4ff90013bcb3e75d4af2efe5c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1794452168-0-0-8797f54fc7871f19c7b251e8b1b83eaa
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-women-369da6.webp" group-title="[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 6",[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1794451508-0-0-97c62d3b2e24bcce57d8a4f9957fc882
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1794452168-0-0-929a0ccf2fbac12d6a2981a464ea17bd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-women-369da6.webp" group-title="[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 7",[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1794451508-0-0-34a69960415b0d28a5ffa7fc138c2466
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794452168-0-0-26a604d403e707b152a8c4c7ff251e10
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-women-369da6.webp" group-title="[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 8",[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=4a9cee79db47be4647bf59a0b652175f&txTime=6af56e84
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1794452168-0-0-2851c3606995c4d3c4b82646e1cd56b1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-women-369da6.webp" group-title="[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 9",[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=06067a7ec6c3bd216255baadc3838fa7&txTime=6af56e84
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1794452168-0-0-28e6ad9b4d5b1e6e91e63dc079318f98
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-women-369da6.webp" group-title="[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 10",[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1794451508-0-0-8838d8138b452f90e2fb529ab2188b8a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=972262098d7260784a0f9dc3839b1cfd&txTime=6af57118
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-women-369da6.webp" group-title="[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 11",[LIVE 08:00 WIB 12/11/26] Club America Women vs Toluca Women | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794451508-0-0-bc28b8ddc24218b0a05356aa61c3b2c1
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/e9f797958c647b62a4fc004c20e48a05.png" group-title="[LIVE 08:00 WIB 12/11/26] Club America Nữ vs Toluca Nữ | Server 1",[LIVE 08:00 WIB 12/11/26] Club America Nữ vs Toluca Nữ | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk49jj38k8n7qb24.m3u8?txSecret=77669dde7ce51ef82ede47e181b1bb28&txTime=6AF5C394
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=e4baf3692fdfa40b22da3ca004996d93&txTime=6af57118
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-america-w-b72d96.png" group-title="[LIVE 08:00 WIB 12/11/26] Club America (W) vs Deportivo Toluca (W) | Server 1",[LIVE 08:00 WIB 12/11/26] Club America (W) vs Deportivo Toluca (W) | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/673fd6583250c2ac.m3u8?wsSecret=6022EAEC2303FFECE282BBB27EA4079C&wsTime=1794447875
+https://play.lacrima2000.com/live/673fd6583250c2ac.m3u8?wsSecret=8B35C20C1B3356FBB48F418560FFAFC6&wsTime=1794448597
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportes-quindio-f33d14.webp" group-title="[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 1",[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/980410fa25d63b13.m3u8?wsSecret=07D59C27DB13BDC57BE5177FD6B977F8&wsTime=1794447875
+https://play.lacrima2000.com/live/980410fa25d63b13.m3u8?wsSecret=E21D2EEA1278606765E9E6E3184DB207&wsTime=1794448597
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportes-quindio-f33d14.webp" group-title="[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 2",[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1794451508-0-0-117d25bffa0f12ba65a4cb8a4e614a87
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1794452228-0-0-fb169869fdc3f5ed6fd0e485dd165564
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportes-quindio-f33d14.webp" group-title="[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 3",[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1794451508-0-0-874388235e25971eee34b57715c2df83
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1794452228-0-0-586f85bbb3f15f9b8bb7b5fecc02a31e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportes-quindio-f33d14.webp" group-title="[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 4",[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1794451508-0-0-b624dc54620c42392662c76f5c7fb70f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1794452228-0-0-970716a07bbd3cf97291d718997325af
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportes-quindio-f33d14.webp" group-title="[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 5",[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1794451508-0-0-16a77324b5dfd230e4b57b6609cc681f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1794452228-0-0-b0d6137500e3971b73bdedae0708f8e5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportes-quindio-f33d14.webp" group-title="[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 6",[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=44064e085b1c17b9c54367dccb449294&txTime=6af56e84
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=3b714579a2ace29a01dc05e984ae1512&txTime=6af57154
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportes-quindio-f33d14.webp" group-title="[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 7",[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5adcbcad9f621f72afae553e74d94290&txTime=6af56e84
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=f3a602905102208c2342bd44c6ccde96&txTime=6af57154
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportes-quindio-f33d14.webp" group-title="[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 8",[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1794451508-0-0-492fee8b84132bb29fa980bf80a80c03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1794452228-0-0-7d76bdc51b0eb0cc12ea88613b75dc1e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportes-quindio-f33d14.webp" group-title="[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 9",[LIVE 08:10 WIB 12/11/26] Deportes Quindio vs Tigres Zipaquira | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1794451508-0-0-19b34d209e3295269e772901a419fa8a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/utah-jazz-f3be8f.webp" group-title="[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 1",[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794451508-0-0-1083ae8ab18e4eac3bc78411942ab199
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/utah-jazz-f3be8f.webp" group-title="[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 2",[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794451508-0-0-66f5c360731e52318ad90dd9b7a28cab
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/utah-jazz-f3be8f.webp" group-title="[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 3",[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1794451508-0-0-1af78585e254b7e2be37f15b66081165
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/utah-jazz-f3be8f.webp" group-title="[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 4",[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794451508-0-0-816a069e8a915d60014bd99ecf30316e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1794452228-0-0-5f959267b2a8fab7cc188e1356976d45
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/piratas-fc-d5db1b.webp" group-title="[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 1",[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1794451508-0-0-7a3a4c374f8ae74ba74be2d1881b9b07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1794452228-0-0-28877bcde4eaf1e54ca87147e8796a19
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/piratas-fc-d5db1b.webp" group-title="[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 2",[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794451508-0-0-e4f6c68d41da82656ba0d075376ece14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794452228-0-0-21b77769b834c2a2807e369947a12088
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/piratas-fc-d5db1b.webp" group-title="[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 3",[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=4b8de5aa382f713cb2df05a53aed5bb8&txTime=6af56e84
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=ad13a34ee3f77134464eb93eac65a850&txTime=6af57154
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/piratas-fc-d5db1b.webp" group-title="[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 4",[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=da6e09198f029acefba3ab5c425a9437&txTime=6af56e84
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=15a29471573193760b548b7a46cfc19e&txTime=6af57154
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/piratas-fc-d5db1b.webp" group-title="[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 5",[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1794451508-0-0-842fffbea6b390def97ae2565030edb1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1794452228-0-0-f89213b8b9c0cb5f83a154a7da788816
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/piratas-fc-d5db1b.webp" group-title="[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 6",[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794451508-0-0-6793450169b25d0905d466e8184d58a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794452228-0-0-46ac71b7c108db21c86fef0e8cea72d1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/piratas-fc-d5db1b.webp" group-title="[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 7",[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1794451508-0-0-7ec5e4dc5b74be5372fea1e724d74b8e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1794452228-0-0-ac29b6a363692f5c9de2ad4d19ebeb58
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/piratas-fc-d5db1b.webp" group-title="[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 8",[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794451508-0-0-64fe27e1083bfb823547b728243fb8f6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794452228-0-0-f119c5cd52a077f73e6de46a9eae8f71
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/piratas-fc-d5db1b.webp" group-title="[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 9",[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1794451508-0-0-2a9bc84938e5579793590dd8655ee709
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1794452228-0-0-d2ac4cbfbd49b9590ec749607b2b53df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/piratas-fc-d5db1b.webp" group-title="[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 10",[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794451508-0-0-21c91feced62fa99922be86fe4e142ba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794452228-0-0-d93706a3e8252b7a5386e6b83fa2b0a6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/piratas-fc-d5db1b.webp" group-title="[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 11",[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912127_lsd.m3u8?txSecret=bd395544a9ced8dd3ed1583af5341e30&txTime=6af56e84
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niur.live/live/stream-9912127_lsd.m3u8?txSecret=8291f29388497669fb74a5ed394e3f36&txTime=6af57154
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/piratas-fc-d5db1b.webp" group-title="[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 12",[LIVE 09:00 WIB 12/11/26] Piratas FC vs Club Atletico La Paz | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=224bef2243d3ddecd6ff2235da657767&txTime=6af56e84
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=0052542aab12080d5fd06532d999d25c&txTime=6af57154
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/utah-jazz-f3be8f.webp" group-title="[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 1",[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794452228-0-0-bf033e19ce7273502966888ae6668f38
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/utah-jazz-f3be8f.webp" group-title="[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 2",[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794452228-0-0-c5b1d60bc608934172e3b134e77c9b98
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/utah-jazz-f3be8f.webp" group-title="[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 3",[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1794452228-0-0-4c5acbdefb58db54bddbbb23fe3699f2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/utah-jazz-f3be8f.webp" group-title="[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 4",[LIVE 09:00 WIB 12/11/26] Utah Jazz vs Orlando Magic | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794452228-0-0-2a16f295be7fd8153315a612898bc290
