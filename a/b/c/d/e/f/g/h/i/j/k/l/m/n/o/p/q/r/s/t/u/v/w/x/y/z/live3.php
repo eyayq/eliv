@@ -1,39 +1,41 @@
 #EXTM3U
-# Generated Thu Nov 12 05:15:42 2026
+# Generated Thu Nov 12 05:29:36 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 12-11-2026 12:15:32 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 12-11-2026 12:29:21 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈New Zealand😈 [🆚] 😈India [44m]😈📁
+#EXTINF:-1 group-title="📁😈 Indian Bangalore Super Division 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e6b58b5bfee1910ebdf86bb542ab3776.png",📁😈Bangalore City😈 [🆚] 😈Kickstart Karnataka FC [0m]😈📁
+https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4665810
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈New Zealand😈 [🆚] 😈India [30m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4650128
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Thailand U23😈 [🆚] 😈Qatar U23 [164m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Thailand U23😈 [🆚] 😈Qatar U23 [150m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4662876
-#EXTINF:-1 group-title="📁😈 Aus Champ 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/24c4935c711f8829dafcea8715df5702.png",📁😈APIA Leichhardt Tigers😈 [🆚] 😈Adelaide City FC [194m]😈📁
+#EXTINF:-1 group-title="📁😈 Aus Champ 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/24c4935c711f8829dafcea8715df5702.png",📁😈APIA Leichhardt Tigers😈 [🆚] 😈Adelaide City FC [180m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4657686
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Singapore U23😈 [🆚] 😈Vietnam U23 [404m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Singapore U23😈 [🆚] 😈Vietnam U23 [390m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4662877
-#EXTINF:-1 group-title="📁😈 UEFA European U17 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/dc7cbee49669e640a1e3625d45484bee.png",📁😈Portugal U17😈 [🆚] 😈Andorra U17 [584m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA European U17 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/dc7cbee49669e640a1e3625d45484bee.png",📁😈Portugal U17😈 [🆚] 😈Andorra U17 [570m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4552863
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Uzbekistan😈 [🆚] 😈Russia [584m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Uzbekistan😈 [🆚] 😈Russia [570m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4663034
-#EXTINF:-1 group-title="📁😈 UEFA European U19 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1e5d8fc51382e8521d0fef8e44d62045.png",📁😈Portugal U19😈 [🆚] 😈Lithuania U19 [584m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA European U19 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1e5d8fc51382e8521d0fef8e44d62045.png",📁😈Portugal U19😈 [🆚] 😈Lithuania U19 [570m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4665761
-#EXTINF:-1 group-title="📁😈 CAF Africa Cup of Nations 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/dc00471256fd2162677840453cbb2cee.png",📁😈Guinea😈 [🆚] 😈Eritrea [644m]😈📁
+#EXTINF:-1 group-title="📁😈 CAF Africa Cup of Nations 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/dc00471256fd2162677840453cbb2cee.png",📁😈Guinea😈 [🆚] 😈Eritrea [630m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4642737
-#EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈Turkiye😈 [🆚] 😈Belgium [704m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈Turkiye😈 [🆚] 😈Belgium [690m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4518077
-#EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈Armenia😈 [🆚] 😈Cyprus [704m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈Armenia😈 [🆚] 😈Cyprus [690m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4518083
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Lithuania😈 [🆚] 😈Suriname [704m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Lithuania😈 [🆚] 😈Suriname [690m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4667164
-#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Barcelona Women😈 [🆚] 😈Arsenal Women [749m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Barcelona Women😈 [🆚] 😈Arsenal Women [735m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4646537
-#EXTINF:-1 group-title="📁😈 Copa del Rey 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/7067abeb61660895f3ca0227675ef16f.png",📁😈CD Tarancon😈 [🆚] 😈Levante [764m]😈📁
+#EXTINF:-1 group-title="📁😈 Copa del Rey 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/7067abeb61660895f3ca0227675ef16f.png",📁😈CD Tarancon😈 [🆚] 😈Levante [750m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4658640
-#EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈Czechia😈 [🆚] 😈Spain [869m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈Czechia😈 [🆚] 😈Spain [855m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4518079
-#EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈England😈 [🆚] 😈Croatia [869m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈England😈 [🆚] 😈Croatia [855m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4518080
-#EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈Montenegro😈 [🆚] 😈Latvia [869m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈Montenegro😈 [🆚] 😈Latvia [855m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4518084
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Saudi Arabia😈 [🆚] 😈South Korea [1994m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Saudi Arabia😈 [🆚] 😈South Korea [1980m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4663038
