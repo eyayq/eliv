@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [12.04 WIB 12/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [12.18 WIB 12/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-trail-blazers-b049c6.webp" group-title="[LIVE 10:30 WIB 12/11/26] Portland Trail Blazers vs Oklahoma City Thunder | Server 1",[LIVE 10:30 WIB 12/11/26] Portland Trail Blazers vs Oklahoma City Thunder | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1794463328-0-0-cb339bd876eee15ae3cd17ceb6570288
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1794464048-0-0-11d82296c1726c1c3271f4a7b2f47b12
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-trail-blazers-b049c6.webp" group-title="[LIVE 10:30 WIB 12/11/26] Portland Trail Blazers vs Oklahoma City Thunder | Server 2",[LIVE 10:30 WIB 12/11/26] Portland Trail Blazers vs Oklahoma City Thunder | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794463328-0-0-692c89301dce6b2b3d73dc4efbd79fd7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794464048-0-0-9427fe6635eeb965641c1662eacc713f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-trail-blazers-b049c6.webp" group-title="[LIVE 10:30 WIB 12/11/26] Portland Trail Blazers vs Oklahoma City Thunder | Server 3",[LIVE 10:30 WIB 12/11/26] Portland Trail Blazers vs Oklahoma City Thunder | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1794463328-0-0-5652590b1d9a4757d2e8960c8a9a4fc5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1794464048-0-0-322d2f2217f67b50f2d1c1d6145c29c2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portland-trail-blazers-b049c6.webp" group-title="[LIVE 10:30 WIB 12/11/26] Portland Trail Blazers vs Oklahoma City Thunder | Server 4",[LIVE 10:30 WIB 12/11/26] Portland Trail Blazers vs Oklahoma City Thunder | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794463328-0-0-fd1717a386d661589845c8cbb5ac4812
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794464048-0-0-103d574596985d2cfda51d3ee0da8566
