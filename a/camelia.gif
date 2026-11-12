@@ -1,12 +1,18 @@
 #EXTM3U
-#EXTINF:0,tvg-name="Ghana vs Somalia - CAF Africa Cup of Nations [FT] (1-0) 22:00 WIB 12-11-2026" tvg-logo="https://img.thesports.com/football/team/f63a25999e46016f279bdb8f5caffd33.png" group-title="live camelia vip [tes]",Ghana vs Somalia - CAF Africa Cup of Nations [FT] (1-0) 22:00 WIB 12-11-2026
+#EXTINF:0,tvg-name="Ghana vs Somalia - CAF Africa Cup of Nations [FT] (2-0) 22:00 WIB 12-11-2026" tvg-logo="https://img.thesports.com/football/team/f63a25999e46016f279bdb8f5caffd33.png" group-title="live camelia vip [tes]",Ghana vs Somalia - CAF Africa Cup of Nations [FT] (2-0) 22:00 WIB 12-11-2026
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/27551_12551405_6ypq3nhvx94nmd7_md.m3u8?txSecret=b60afee71ef928e541300f21f2fad5b6&txTime=6AF5E99E&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/27551_12551405_6ypq3nhvx94nmd7_md.m3u8?txSecret=231dcc0ff9585cca63026735fedb39c3&txTime=6AF5ED30&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
 
 #EXTINF:0,tvg-name="Equatorial Guinea vs Zimbabwe - CAF Africa Cup of Nations [LIVE] (0-0) 23:00 WIB 12-11-2026" tvg-logo="https://img.thesports.com/football/team/e7d3c57cebd8447a0eccae2ca753551f.png" group-title="live camelia vip [tes]",Equatorial Guinea vs Zimbabwe - CAF Africa Cup of Nations [LIVE] (0-0) 23:00 WIB 12-11-2026
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/27551_12385001_vjxm8ghey12er6o_md.m3u8?txSecret=00234504fdbabfaa05d5276bf56dc29b&txTime=6AF5E99E&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/27551_12385001_vjxm8ghey12er6o_md.m3u8?txSecret=09839dcf73e07ba52aadf4cd50aa967a&txTime=6AF5ED30&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Democratic Republic of the Congo vs Sierra Leone - CAF Africa Cup of Nations [LIVE] (2-0) 23:00 WIB 12-11-2026" tvg-logo="https://img.thesports.com/football/team/7f5e0cd419a4b7509e13399efb75056a.png" group-title="live camelia vip [tes]",Democratic Republic of the Congo vs Sierra Leone - CAF Africa Cup of Nations [LIVE] (2-0) 23:00 WIB 12-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/27551_12568345_4wyrn4h6g37dq86.m3u8?txSecret=093ae5d29368c803f5fbd9f095880d27&txTime=6AF5ED30&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
