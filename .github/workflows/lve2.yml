@@ -1,0 +1,76 @@
+name: Get prm
+
+on:
+  schedule:
+    - cron: '0,5,10,15,20,25,30,35,40,45,50,55 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'premium.py'
+      - '.github/workflows/lve2.yml'
+
+concurrency:
+  group: premium-m3u
+  cancel-in-progress: true
+
+jobs:
+  merge-and-commit:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+
+    env:
+      PREMIUM_PY_B64: ${{ secrets.PREMIUM_PY_B64 }}
+
+    steps:
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests curl_cffi
+
+      - name: Create Folder Path
+        run: |
+          mkdir -p a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z
+
+      - name: Decode Python Script
+        run: |
+          echo "$PREMIUM_PY_B64" | base64 -d > premium.py
+          chmod +x premium.py
+
+      - name: Run Script
+        run: |
+          python premium.py
+
+      - name: Commit M3U
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --local user.email "yanshdroid[bot]@users.noreply.github.com"
+          git config --local user.name "yanshdroid[bot]"
+
+          FILE="a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u"
+
+          if [ -f "$FILE" ]; then
+            git add "$FILE"
+            git commit -m "Auto Update Premium M3U" || echo "No changes"
+
+            git pull --rebase origin main
+
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          else
+            echo "M3U file not found"
+          fi
