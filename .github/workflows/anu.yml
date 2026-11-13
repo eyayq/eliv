@@ -1,0 +1,45 @@
+name: Runtri
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0,5,10,15,20,25,30,35,40,45,50,55 * * * *'
+  push:
+   branches: [main] 
+
+concurrency:
+  group: runner-queue
+  cancel-in-progress: false
+  queue: max   
+
+jobs:
+  runner:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 660
+
+    steps:
+      - name: ♪
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: ♪
+        run: |
+          echo "${{ secrets.TRI_PY }}" | base64 -d > tri.py
+          chmod +x tri.py
+
+      - name: ♪
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: ♪
+        run: pip install requests
+
+      - name: Run Tri Script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python tri.py   
+
+        
