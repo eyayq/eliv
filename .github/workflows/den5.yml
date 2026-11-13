@@ -31,7 +31,7 @@ jobs:
 
       - name: ✓
         run: |
-          pip install requests
+          pip install requests curl-cffi
 
       - name: ✓
         run: |
@@ -40,7 +40,7 @@ jobs:
 
       - name: ✓
         run: |
-          python DEN5.py
+          python DEN5.py --debug
 
       - name: √
         env:
