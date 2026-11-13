@@ -3,4 +3,10 @@
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/27551_12568345_n54qllhnv0dwqvy.m3u8?txSecret=715ba6dd9f6d0fb1a1fec7175adf3266&txTime=6AF70F2E&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/27551_12568345_n54qllhnv0dwqvy_md.m3u8?txSecret=ba5fe9fb44eb40e7cdc4ea44b4a4dc41&txTime=6AF712E7&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Comoros vs Republic of the Congo - CAF Africa Cup of Nations [LIVE] (0-0) 20:00 WIB 13-11-2026" tvg-logo="https://img.thesports.com/football/team/22fc8d10a1f32e5da720454189015664.png" group-title="live camelia vip [tes]",Comoros vs Republic of the Congo - CAF Africa Cup of Nations [LIVE] (0-0) 20:00 WIB 13-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/27551_12385001_965mkyhkpvzjr1g.m3u8?txSecret=78ad1eceb6bff5e6fe0a9d0bbbe039a5&txTime=6AF712E7&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
