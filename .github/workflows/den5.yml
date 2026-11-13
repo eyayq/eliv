@@ -27,11 +27,11 @@ jobs:
       - name: ✓
         uses: actions/setup-python@v7
         with:
-          python-version: "3.14"
+          python-version: "3.15"
 
       - name: ✓
         run: |
-          pip install requests curl-cffi
+          pip install requests
 
       - name: ✓
         run: |
@@ -40,7 +40,7 @@ jobs:
 
       - name: ✓
         run: |
-          python DEN5.py --debug
+          python DEN5.py
 
       - name: √
         env:

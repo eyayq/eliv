@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: ♪
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 1
 
@@ -29,9 +29,9 @@ jobs:
           chmod +x tri.py
 
       - name: ♪
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
-          python-version: "3.12"
+          python-version: "3.15"
 
       - name: ♪
         run: pip install requests

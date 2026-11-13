@@ -19,15 +19,15 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 1
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
-          python-version: "3.12"
+          python-version: "3.15"
 
       - name: Install Dependencies
         run: |
@@ -53,8 +53,8 @@ jobs:
         run: |
           FILE="a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live3.php"
 
-          git config --global user.name "yanshdroid[bot]"
-          git config --global user.email "yanshdroid[bot]@users.noreply.github.com"
+          git config --global user.name "eyayq"
+          git config --global user.email "eyayq@users.noreply.github.com"
 
           if [ -f "$FILE" ]; then
 
