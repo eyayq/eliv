@@ -1,66 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [12.15 WIB 13/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [12.30 WIB 13/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-real-bengaluru-51b24b.png" group-title="[LIVE 10:30 WIB 13/11/26] FC Real Bengaluru vs Bangalore Dream United FC | Server 1",[LIVE 10:30 WIB 13/11/26] FC Real Bengaluru vs Bangalore Dream United FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aee38e10f488e166914f429.m3u8?auth_key=1794568141-0-0-3b32d3e6e75a026acf17339fa2bfd2d9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-real-bengaluru-51b24b.png" group-title="[LIVE 10:30 WIB 13/11/26] FC Real Bengaluru vs Bangalore Dream United FC | Server 2",[LIVE 10:30 WIB 13/11/26] FC Real Bengaluru vs Bangalore Dream United FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/886426eb60e29930.m3u8?wsSecret=0DCFF1635B5FBEF300FE95C80347EB67&wsTime=1794546487
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/soles-76594f.webp" group-title="[LIVE 10:45 WIB 13/11/26] Soles vs Astros | Server 1",[LIVE 10:45 WIB 13/11/26] Soles vs Astros | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1794550088-0-0-77caf4612884410053711d21cffa7594
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1794551168-0-0-c700afe725cea6a634845af0af3ef046
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/soles-76594f.webp" group-title="[LIVE 10:45 WIB 13/11/26] Soles vs Astros | Server 2",[LIVE 10:45 WIB 13/11/26] Soles vs Astros | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794550088-0-0-26e646a217ef276a1cf80dd3ca4644bd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794551168-0-0-66a96ba5674be3a7a16d89204b71773b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shinshu-633d12.webp" group-title="[LIVE 11:05 WIB 13/11/26] Shinshu vs Gunma | Server 1",[LIVE 11:05 WIB 13/11/26] Shinshu vs Gunma | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794550088-0-0-c4ea94f328f24fbf1a9a3fe7799ee1de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794551201-0-0-65692640ec2110da74fc9ea15a12349c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shinshu-633d12.webp" group-title="[LIVE 11:05 WIB 13/11/26] Shinshu vs Gunma | Server 2",[LIVE 11:05 WIB 13/11/26] Shinshu vs Gunma | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794550088-0-0-f610f9f4b8236aacb9f28bf2d05a5ba4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794551201-0-0-e8f6bae6eaa2e2099cf652992f1a2f99
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shinshu-633d12.webp" group-title="[LIVE 11:05 WIB 13/11/26] Shinshu vs Gunma | Server 3",[LIVE 11:05 WIB 13/11/26] Shinshu vs Gunma | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1794550088-0-0-b7b8c8a5b22dfeb793f97b652dc4bfed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1794551168-0-0-c333e010377036f9253aaf7e7e4a7d97
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shinshu-633d12.webp" group-title="[LIVE 11:05 WIB 13/11/26] Shinshu vs Gunma | Server 4",[LIVE 11:05 WIB 13/11/26] Shinshu vs Gunma | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794550088-0-0-27ac786726796331ec0f227ca6acd5a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794551168-0-0-315da517f8295582947ca2e0d7bf40ef
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 1",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=3354e8be308db85a0ccf2b23394dce7e&txTime=6af6ef98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6adc88bc5d732f70fc14f377.m3u8?auth_key=1794569221-0-0-6a9ade7fefce7bd52d32c0dd54c4f397
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 2",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=b1a8c93ff20497180afac1a3492cb2fe&txTime=6af6ef98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/3853061a95858b53.m3u8?wsSecret=D0F1CFF8B2B2725918308CD202A5D1A8&wsTime=1794547569
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 3",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-623653_lsd.m3u8?auth_key=1794550088-0-0-e5bcb1306da7fb4abc0ff4b9c1c59d29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=e253315362bda8674104280d1b7aab41&txTime=6af6f3d0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 4",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794550088-0-0-47382b7daa3e3b78a0e4a9c343ac89aa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d32a59dcbb2c299c10175b3914b212b7&txTime=6af6f3d0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 5",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1794550088-0-0-39cde483b12530627b6760bea3a045ce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-623653_lsd.m3u8?auth_key=1794551168-0-0-9b759ae66b8dfa50115ffd52bdc292db
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 6",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794550088-0-0-4c3bb069de98fbfdf514c9cb1c4d95d1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794551168-0-0-c0099b4cfaca184255318bfa1a53e370
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 7",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=f4f86f8228e67007c0eb31b1f9e2c322&txTime=6af6ef98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=5d1d529ffc6d7eacb5d98ec84e74bff0&txTime=6af6f3d0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 8",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=bfe12711ba267d5356e00b589c78bea4&txTime=6af6ef98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=04aca4aa418c9b1765d795199daac571&txTime=6af6f3d0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 9",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1794550148-0-0-283a050fa72911e534532a4ca50f15eb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1794551168-0-0-b8c356b65159b9be70c6798a5f30b4da
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 10",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794550148-0-0-b378849c688ef23ad3968d35f961d8ef
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794551168-0-0-4737eb5ee0eda555c87271f175b0572a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 11",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1794550148-0-0-fed2ebcec7b40dbd88eb79da49f0f356
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1794551228-0-0-4815cbe1b456ac585ca5089c96f8ffd0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 12",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794550148-0-0-6ee31486a40de0f5f6f2005f370a4a5b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794551228-0-0-dba19d6f863f936faa2d2aff4127d644
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 13",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1794551228-0-0-673a589727c676dc5c464c0c668ffa74
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 14",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Hunters FC | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794551228-0-0-fc97d7668c8fca786ca5d030a2732203
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ulaanbaatar-aedcb2.png" group-title="[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Thợ săn FC | Server 1",[LIVE 12:00 WIB 13/11/26] FC Ulaanbaatar vs Thợ săn FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk3yx19PunrZpxQU.m3u8?txSecret=6568f10f18c4851532078113df4f156a&txTime=6AF744E5
+https://live.cds78y11d.org/live/sd-6Mxk3yx19PunrZpxQU.m3u8?txSecret=85afc9c4bbb0817688db25424177dcc9&txTime=6AF74869
