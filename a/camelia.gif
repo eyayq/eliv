@@ -3,4 +3,10 @@
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/sd-6Mxk49g3GrhPQfpKvX.m3u8?txSecret=439be4b507c71471c09dd144eb1d6d0e&txTime=6AF699EF&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/sd-6Mxk49g3GrhPQfpKvX.m3u8?txSecret=b3316a7c32f84780b3e459450094102c&txTime=6AF69D84&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="FC Ulaanbaatar vs Hunters FC - Mongolia Premier League [LIVE] (0-0) 12:00 WIB 13-11-2026" tvg-logo="https://img.thesports.com/football/team/0c7d6546c9204e45c17bc2d9d05f7a4b.png" group-title="live camelia vip [tes]",FC Ulaanbaatar vs Hunters FC - Mongolia Premier League [LIVE] (0-0) 12:00 WIB 13-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6Mxk3yx19PunrZpdXm.m3u8?txSecret=ba2bf5b849674a25de9ac7b3eaffda59&txTime=6AF69D84&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
