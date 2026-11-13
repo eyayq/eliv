@@ -1,54 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [08.52 WIB 13/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.07 WIB 13/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-wizards-c55b3a.webp" group-title="[LIVE 07:00 WIB 13/11/26] Washington Wizards vs Detroit Pistons | Server 1",[LIVE 07:00 WIB 13/11/26] Washington Wizards vs Detroit Pistons | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1794537908-0-0-0fb1b2ed985c71551411b58854360648
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-wizards-c55b3a.webp" group-title="[LIVE 07:00 WIB 13/11/26] Washington Wizards vs Detroit Pistons | Server 2",[LIVE 07:00 WIB 13/11/26] Washington Wizards vs Detroit Pistons | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794537908-0-0-79bbfc42de17b1c552773d18974d6018
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-wizards-c55b3a.webp" group-title="[LIVE 07:00 WIB 13/11/26] Washington Wizards vs Detroit Pistons | Server 3",[LIVE 07:00 WIB 13/11/26] Washington Wizards vs Detroit Pistons | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1794537908-0-0-b3120602f8669ef180f149a652688edc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-wizards-c55b3a.webp" group-title="[LIVE 07:00 WIB 13/11/26] Washington Wizards vs Detroit Pistons | Server 4",[LIVE 07:00 WIB 13/11/26] Washington Wizards vs Detroit Pistons | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794537908-0-0-f15459676b269ce71a56ec7a72019e22
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/philadelphia-76ers-7cd599.webp" group-title="[LIVE 07:00 WIB 13/11/26] Philadelphia 76ers vs Toronto Raptors | Server 1",[LIVE 07:00 WIB 13/11/26] Philadelphia 76ers vs Toronto Raptors | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1794537848-0-0-845fa40bb5b096b65d4c25538ba54e7b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/philadelphia-76ers-7cd599.webp" group-title="[LIVE 07:00 WIB 13/11/26] Philadelphia 76ers vs Toronto Raptors | Server 2",[LIVE 07:00 WIB 13/11/26] Philadelphia 76ers vs Toronto Raptors | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794537848-0-0-a57dc9322678f741cca5d029c029a792
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/philadelphia-76ers-7cd599.webp" group-title="[LIVE 07:00 WIB 13/11/26] Philadelphia 76ers vs Toronto Raptors | Server 3",[LIVE 07:00 WIB 13/11/26] Philadelphia 76ers vs Toronto Raptors | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1794537848-0-0-8eeba1d820ad462011f9fa42cb824fee
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/philadelphia-76ers-7cd599.webp" group-title="[LIVE 07:00 WIB 13/11/26] Philadelphia 76ers vs Toronto Raptors | Server 4",[LIVE 07:00 WIB 13/11/26] Philadelphia 76ers vs Toronto Raptors | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794537848-0-0-a09eaed0902d15dd4ad973b9099b9da2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/llaneros-fc-e13fdb.png" group-title="[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 1",[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ad63784e607ff5ae4f2815d.m3u8?auth_key=1794555902-0-0-f4e4e8362e9b4684c9798d9c926c414f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/llaneros-fc-e13fdb.png" group-title="[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 2",[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/902603880e9bfb76.m3u8?wsSecret=76E1B7FA16E3AAF04A2EFD195A36F56D&wsTime=1794534288
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/llaneros-fc-e13fdb.png" group-title="[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 3",[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1794537848-0-0-5fbb33161a1dbd2d3a53bdcc1678d417
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/llaneros-fc-e13fdb.png" group-title="[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 4",[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1794537848-0-0-55a17592ae42eebad36931a408ccc3f8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/llaneros-fc-e13fdb.png" group-title="[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 5",[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-626841_lsd.m3u8?auth_key=1794537848-0-0-9aaa0e191565bcff060bf039a9e027ee
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/llaneros-fc-e13fdb.png" group-title="[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 6",[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1794537848-0-0-2442792413ec4ead37a2054efe8c068a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/llaneros-fc-e13fdb.png" group-title="[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 7",[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1794537848-0-0-b16c98a1fde61f93cbc79f583c0f307f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/llaneros-fc-e13fdb.png" group-title="[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 8",[LIVE 07:00 WIB 13/11/26] Llaneros FC vs Boyaca Chico FC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794537848-0-0-0d11863ea866e72753e2ac13ce0294c5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 1",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/cur-pan-concacafnl/index.m3u8
@@ -57,100 +9,103 @@ https://hls.lauthaitv.cc/live/cur-pan-concacafnl/index.m3u8
 https://flv.lauthaitv.cc/live/cur-pan-concacafnl.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 3",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aecf5677d344044a2bb9578.m3u8?auth_key=1794555902-0-0-169896fb0ba4bc4234072ba44ceadeb1
+https://pull.fmp.live/sla/1-6aecf5677d344044a2bb9578.m3u8?auth_key=1794556982-0-0-ca93ba66fc65e05e0c332a0e35bda2f5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 4",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/a8fa3a3ffe4d754f.m3u8?wsSecret=37496F5A520B71B385A6B6F9B330E8CE&wsTime=1794534288
+https://play.lacrima2000.com/live/a8fa3a3ffe4d754f.m3u8?wsSecret=FCC39109D864EC9DBD002DE8258322D2&wsTime=1794535369
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 5",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1794537908-0-0-108da51d0832acae881970ee6e11e31e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=ca2fab3409950d8a2bee0c7db3e64d96&txTime=6af6c400
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 6",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794537908-0-0-0e69df273f8b67d80553b02c7d09dfd8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=4fe5e9c05f74f35e0a8bb230954bf4b1&txTime=6af6c400
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 7",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=f3662c63ad36858f6b4876745b53c70e&txTime=6af6c004
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1794538928-0-0-62cc6bc143d875732e3209c67c32f831
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 8",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=1d0f103bfc4a3b18412898fc0c6ed8e2&txTime=6af6c004
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794538928-0-0-c52664912422e010b0260c77129ec249
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 9",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1794537908-0-0-911d78499f122db5be205062536a697c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1794538928-0-0-6e98df69b87577b0ec64053c17e29723
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 10",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794537908-0-0-afdb5f8295d3c6d3881ac5f0ef61f16d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794538928-0-0-7135c8188297a4def949aec274ee415f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 11",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1794537908-0-0-c6e7f0ec5b793531b50e007335cd9cdc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1794538928-0-0-868adeb6a29beec8eb6e60525dfa4e55
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 12",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794537908-0-0-52905f9d4978b747b43ce33808412eec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794538928-0-0-79fece22d5d4beb31205247e6918360c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 13",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1794537908-0-0-edd984f190ba786b4e2870cce6e0d8f4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1794538928-0-0-f501cf4897f7dbf82d786e350a0293c9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 14",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1794537908-0-0-12f5ba459c6bc6ce7863492159b2117d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1794538928-0-0-da024f33c3c158dd1c9b6960ece9373c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 15",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1794537908-0-0-592b5e31c3982b62d3978e444d5bc8b9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1794538928-0-0-cf2b3de42b4985024d64b7c40eaa94ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/curacao-2f3549.webp" group-title="[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 16",[LIVE 07:30 WIB 13/11/26] Curacao vs Panama | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1794537908-0-0-9334d32157f7b48196566ae600e7767a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/minnesota-timberwolves-4d5ee7.webp" group-title="[LIVE 08:00 WIB 13/11/26] Minnesota Timberwolves vs Dallas Mavericks | Server 1",[LIVE 08:00 WIB 13/11/26] Minnesota Timberwolves vs Dallas Mavericks | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794537908-0-0-9e7633c62fedde7ff6d5fa6a6fec7856
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/minnesota-timberwolves-4d5ee7.webp" group-title="[LIVE 08:00 WIB 13/11/26] Minnesota Timberwolves vs Dallas Mavericks | Server 2",[LIVE 08:00 WIB 13/11/26] Minnesota Timberwolves vs Dallas Mavericks | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794537908-0-0-ff488df6cddad6f5d9e1231d738c1a56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1794538928-0-0-f3f704181bd8fa4af4343be530c88aeb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-u20-078e61.webp" group-title="[LIVE 08:00 WIB 13/11/26] USA U20 vs Japan U19 | Server 1",[LIVE 08:00 WIB 13/11/26] USA U20 vs Japan U19 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/bbf6edf3488f698f.m3u8?wsSecret=666D66E0A3279CCFB3B692038CF9286E&wsTime=1794534288
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 1",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1794537908-0-0-861e6b7edb7b1c4089e5b77ea9e47aab
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 2",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1794537908-0-0-4aba31da96f051947f2272c9706f04c1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 3",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1794537908-0-0-594474ccb20fc7f37b3ceb456d59bf96
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 4",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1794537908-0-0-b2bdf9a9bd3f09a0938b3efa09fde97b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 5",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1794537908-0-0-2a5c51a5b0a67791312a9b60eeabfb16
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 6",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794537908-0-0-1a31926b31721f7a9189758377ce6b7e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 7",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1794537908-0-0-aa60539f6c1be30098c11bd79a48a624
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 8",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794537908-0-0-b9666ecdba289ab4245b11c8bb205958
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 9",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1794537908-0-0-e500df14e9bbb6dc3e5e17a9fccef2de
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 10",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794537908-0-0-e15a98ce4fc47177523d551fb26f7a52
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 11",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1794537908-0-0-3fb50536cdcf568d925052993a357fd5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 12",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794537908-0-0-2afca0994760301c51e73379fd0ab7d8
+https://play.lacrima2000.com/live/bbf6edf3488f698f.m3u8?wsSecret=FB0FF014C0FBEAB5CE00217B023E286E&wsTime=1794535369
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/minnesota-timberwolves-4d5ee7.webp" group-title="[LIVE 08:00 WIB 13/11/26] Minnesota Timberwolves vs Dallas Mavericks | Server 1",[LIVE 08:00 WIB 13/11/26] Minnesota Timberwolves vs Dallas Mavericks | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794538928-0-0-81a0ac6eb389e8cfe63b9e7831daf5ab
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/minnesota-timberwolves-4d5ee7.webp" group-title="[LIVE 08:00 WIB 13/11/26] Minnesota Timberwolves vs Dallas Mavericks | Server 2",[LIVE 08:00 WIB 13/11/26] Minnesota Timberwolves vs Dallas Mavericks | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794538928-0-0-b9cffc5c7b0fdfce136617cf7504cb0b
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/1cd995bdc2b652d31129d027afb27ed8.png" group-title="[LIVE 09:00 WIB 13/11/26] Atl. Morelia vs Piratas FC | Server 1",[LIVE 09:00 WIB 13/11/26] Atl. Morelia vs Piratas FC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxk46RmLaEvBTPT3S.m3u8?txSecret=df4e3d085759f1bd766c828577bf8b73&txTime=6AF71899
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/phoenix-suns-689313.webp" group-title="[LIVE 09:00 WIB 13/11/26] Phoenix Suns vs Charlotte Hornets | Server 1",[LIVE 09:00 WIB 13/11/26] Phoenix Suns vs Charlotte Hornets | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1794537908-0-0-b8d49166a8af07d7da93312c6e60876d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1794538988-0-0-c42e3a22acba066a86bbde33c21712e6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/phoenix-suns-689313.webp" group-title="[LIVE 09:00 WIB 13/11/26] Phoenix Suns vs Charlotte Hornets | Server 2",[LIVE 09:00 WIB 13/11/26] Phoenix Suns vs Charlotte Hornets | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794537908-0-0-7e450125d34c05d87b5c161eb7010b8a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794538988-0-0-f91371cb86d13cfc302c63d7f0a6a377
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/phoenix-suns-689313.webp" group-title="[LIVE 09:00 WIB 13/11/26] Phoenix Suns vs Charlotte Hornets | Server 3",[LIVE 09:00 WIB 13/11/26] Phoenix Suns vs Charlotte Hornets | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1794537908-0-0-3420d5e224cb167ccc8395d80f4c8948
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1794538988-0-0-ed3079befe5439fd4b5c10013e52ce5c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/phoenix-suns-689313.webp" group-title="[LIVE 09:00 WIB 13/11/26] Phoenix Suns vs Charlotte Hornets | Server 4",[LIVE 09:00 WIB 13/11/26] Phoenix Suns vs Charlotte Hornets | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794537908-0-0-7a21b048e7574e013a60653ae805c4a6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794538988-0-0-2f8bb6bf2386778a2d9f911d8faacb96
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 1",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1794538988-0-0-793833a52fee05afe2c155f7698d3c2c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 2",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1794538988-0-0-03b9eae42154bea38814bd9675f065b5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 3",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1794538988-0-0-922787c272b84f63b7f7095741e4b282
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 4",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1794538988-0-0-99c76bf6e7f21d2be02308efbd2660f4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 5",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1794538988-0-0-8cb387a81e503f3072cb32999e5af1ae
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 6",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794538988-0-0-90fd36f4a6640c799062b36ec12a20ba
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 7",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1794538988-0-0-4f21d95e6805f62fbf57b7a87a92acdd
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 8",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794538988-0-0-51ea8bed14962a327ffeaeec6fefbd3a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 9",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1794538988-0-0-84487d892ace96dbfb1f50fa74042b0d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 10",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794538988-0-0-1f364f7f4a6c2971c41cc09233060df2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 11",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1794538988-0-0-8d27a6a8e3bcebe80805de7554ed0f77
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-morelia-d13b61.webp" group-title="[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 12",[LIVE 09:00 WIB 13/11/26] Atletico Morelia vs Leones Negros de la U. de G. | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794538988-0-0-a0dd48eaeda34b266a9d8d6bdaefc504
