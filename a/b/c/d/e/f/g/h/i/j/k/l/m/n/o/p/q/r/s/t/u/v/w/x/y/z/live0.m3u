@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 12:20:51 WIB 14-11-2026
-# 🔄 Total Channels: 841
+# ⏰ Latest Updated: 12:36:31 WIB 14-11-2026
+# 🔄 Total Channels: 839
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:20:51 WIB 14-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:36:31 WIB 14-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4770/image" group-title="LIVE EVENT",17:15 WIB Japan vs Brazil | Football | Live 2 | Gvision TV
@@ -93,15 +93,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Live Event: CFY",18:30 WIB Abu Dhabi T10 League | Cricket | A SPORTS HD | Gvision TV
 https://live.msnetworks.net/a-sports/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4770/image" group-title="Live Event: CFY",17:15 WIB Japan vs Brazil | Football | Live 2 | Gvision TV
-#EXTVLCOPT:http-referrer=https://player.on8on8.com/
-https://live.vivo155.com/live/sd-1-4650133.m3u8?txSecret=db34d925c087279a184f9f45bfef895b&txTime=6AF85BB1|Referer=https://player.on8on8.com/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4770/image" group-title="Live Event: CFY",17:15 WIB Japan vs Brazil | Football | HD SERVER | Gvision TV
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4770/image" group-title="Live Event: CFY",17:15 WIB Japan vs Brazil | Football | Live 3 | Gvision TV
-#EXTVLCOPT:http-referrer=https://player.on8on8.com/
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=662f4f482c0df681cb028743b216c0f1&txTime=6af88820|Referer=https://player.on8on8.com/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/213104/image" group-title="Live Event: CFY",12:00 WIB Pakistan Under-19 vs India Under-19 | Cricket | WILLOW - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -133,6 +124,12 @@ https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.doma
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/5937/image" group-title="Live Event: CFY",19:00 WIB Chinese Taipei vs Kyrgyzstan | Football | HD SERVER | Gvision TV
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/86/image" group-title="Live Event: CFY",19:30 WIB Exeter City vs Cheltenham Town | Football | beIN ENGLISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?w=1280&h=720&fit=contain&cbg=ffffff&url=https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (VS OS6)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
