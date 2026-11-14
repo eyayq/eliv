@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [16.23 WIB 14/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [16.38 WIB 14/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/seoul-thunders-a97d7c.webp" group-title="[LIVE 14:30 WIB 14/11/26] Seoul Thunders vs Anyang JungKwanJang | Server 1",[LIVE 14:30 WIB 14/11/26] Seoul Thunders vs Anyang JungKwanJang | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1794651428-0-0-3740940491475abddebe6e021901e0e7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/seoul-thunders-a97d7c.webp" group-title="[LIVE 14:30 WIB 14/11/26] Seoul Thunders vs Anyang JungKwanJang | Server 2",[LIVE 14:30 WIB 14/11/26] Seoul Thunders vs Anyang JungKwanJang | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794651428-0-0-8f6cfaba11ec1755e41f07dba200cbda
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/seoul-thunders-a97d7c.webp" group-title="[LIVE 14:30 WIB 14/11/26] Seoul Thunders vs Anyang JungKwanJang | Server 3",[LIVE 14:30 WIB 14/11/26] Seoul Thunders vs Anyang JungKwanJang | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1794651428-0-0-f599581f9bc6210a8bcfbaa7c36de495
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/seoul-thunders-a97d7c.webp" group-title="[LIVE 14:30 WIB 14/11/26] Seoul Thunders vs Anyang JungKwanJang | Server 4",[LIVE 14:30 WIB 14/11/26] Seoul Thunders vs Anyang JungKwanJang | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794651428-0-0-f3daa88a7b277a0537fc5da57eb85c50
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 1",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/nguoi-tho-20261114-3ec12d/index.m3u8
@@ -21,91 +9,88 @@ https://hls.lauthaitv.cc/live/nguoi-tho-20261114-3ec12d/index.m3u8
 https://flv.lauthaitv.cc/live/nguoi-tho-20261114-3ec12d.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 3",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae1a49fdaf8f9c59c60ae43.m3u8?auth_key=1794669421-0-0-504cdfc5d1abb88529b16592861e0e47
+https://pull.fmp.live/sla/1-6ae1a49fdaf8f9c59c60ae43.m3u8?auth_key=1794670382-0-0-7dbede7c33ba6361ab577419e9b15cab
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 4",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/a3ccb412ab7b3493.m3u8?wsSecret=44C9F9FA73DBFECA332470A2E6B3AFBA&wsTime=1794647867
+https://play.lacrima2000.com/live/a3ccb412ab7b3493.m3u8?wsSecret=3912522BDB19ED355513AC6804D21B68&wsTime=1794648769
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 5",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1794651428-0-0-50e05b79830bc159cd25f6e266208eb4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=666ff17fd3ec24cb671116e1df1db40e&txTime=6af87ef8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 6",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794651428-0-0-e240ed62c2f9c667485f004983b9d0fe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=4a8a64fcc6e93c0b98cbde21ee94d4ee&txTime=6af87ef8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 7",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=fe01b57e973be5eb47ca8e160d6fe7d0&txTime=6af87b74
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1794652328-0-0-a09e33b96373c487328f9e1ea3340e5a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 8",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=1171f335400607715559c5ee3e8b7370&txTime=6af87b74
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794652328-0-0-c26851bb7fc93218fbf55fbfa132a0f1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 9",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=f548cbd3ee0ae49695006f6e12b72ac0&txTime=6af87b74
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1794652328-0-0-4fee982e6c56b9d96d318ff344151348
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 10",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=05bd16cd76df7d3d19afce867f8a1292&txTime=6af87b74
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794652328-0-0-836eca74a5a3886821a6ebf44a9ba832
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 11",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1794651428-0-0-d3dad79e8058cdf3629ba22846c44925
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=fde8bbbe5b840ccbfd5a063134c80342&txTime=6af87ef8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 12",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794651428-0-0-2a61c82734f0a398352d7382bc953ae9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=6958f7bfea57d98e9c97cf4b377c23db&txTime=6af87ef8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 13",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1794651428-0-0-36c31865abc566136839aa3e10158f2e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1794652328-0-0-cb79d90ef6b5ddc49503010f18ee0c99
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 14",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794651428-0-0-8ccfa7674ce7d1421938432c972a9309
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794652328-0-0-d85a1b32eae3336a1d8371b12700c4e9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 15",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1794651428-0-0-6a88115c846c181c59199908b471a04c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1794652328-0-0-61f704270d18bb40c6c39ae07a4a86cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u23-1d154b.png" group-title="[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 16",[LIVE 15:00 WIB 14/11/26] Thailand U23 vs Singapore U23 | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794651428-0-0-0c9a728a90274301ad46b812b17261c4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 1",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjJwvoLcn1SCQnRS.m3u8?txSecret=ddec50db429d04445d7fef2c646beab8&txTime=6AF8D00D
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 2",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/fe89e378ea8319e1.m3u8?wsSecret=09355FDEE1BE698327DE2C56AE0D840A&wsTime=1794647867
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 3",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1794651488-0-0-479c5e2bf0e8486bdb1a4c584bad817b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 4",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794651488-0-0-ae59fd4d09462fc35d6601af2fdb9de4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 5",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=48276a1b2469a1e6b1307f0a9450ddd3&txTime=6af87bb0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 6",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=db15b360289475cf04b77170094717d3&txTime=6af87bb0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 7",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1794651488-0-0-367edf18885b404394c3991dc1dc22a9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 8",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794651488-0-0-444bd1d33d04657e70a83a344c9c6712
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 9",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1794651488-0-0-eedbc82faecad4ad086dc67e842bb59c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 10",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794651488-0-0-a68ffaa02a48c61ec923f117254f768a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794652328-0-0-6dd574ab51a6d1134d8bd2a727358e41
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myanmar-u17-b28140.png" group-title="[LIVE 15:30 WIB 14/11/26] Myanmar U17 vs Philippines U17 | Server 1",[LIVE 15:30 WIB 14/11/26] Myanmar U17 vs Philippines U17 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxipaQFg2gGUeQzKe.m3u8?txSecret=6807dcef82a1145a597f930024368f19&txTime=6AF8D00D
+https://live.cds78y11d.org/live/sd-6MxipaQFg2gGUeQzKe.m3u8?txSecret=f5c936ca6da8ac1a89aa801dfe921285&txTime=6AF8D445
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 1",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/fe89e378ea8319e1.m3u8?wsSecret=5E7E2A439A240DEAB802D389AFF352CB&wsTime=1794648769
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 2",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1794652328-0-0-a76ccbcc386f694562ca739c7c56d35b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 3",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794652328-0-0-e90c30238d6f819c504508e535842bd3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 4",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1794652328-0-0-f1895c2e64201e66ee3e880e81bf810e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 5",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794652328-0-0-60677f92b88380fa81aebcf8bf40595f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 6",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1794652328-0-0-2afc7a1a17205bf9504d2578d90cafab
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 7",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794652328-0-0-4b75bde3fd4f8cbd216e7a84b69f050e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 8",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=71af236adb91fc785ae6cee63aaf4174&txTime=6af87ef8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayswater-city-2c747c.webp" group-title="[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 9",[LIVE 15:30 WIB 14/11/26] Bayswater City vs Sydney Olympic | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=fc3845913c676d95ab6b2f95227a944f&txTime=6af87ef8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-united-029486.webp" group-title="[LIVE 15:30 WIB 14/11/26] Melbourne United vs South East Melbourne | Server 1",[LIVE 15:30 WIB 14/11/26] Melbourne United vs South East Melbourne | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1794651488-0-0-fdf4f9076aefe8cba851016114fc1fdf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1794652388-0-0-6248af9faf9378b3fddf673eb983a742
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-united-029486.webp" group-title="[LIVE 15:30 WIB 14/11/26] Melbourne United vs South East Melbourne | Server 2",[LIVE 15:30 WIB 14/11/26] Melbourne United vs South East Melbourne | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794651488-0-0-48a3888081c2523ace5a360d5e314d8f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794652388-0-0-98986e00f1c84f3f919d13118b4a7951
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-united-029486.webp" group-title="[LIVE 15:30 WIB 14/11/26] Melbourne United vs South East Melbourne | Server 3",[LIVE 15:30 WIB 14/11/26] Melbourne United vs South East Melbourne | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794651488-0-0-18c03c569c12377821f29f2e5e0ff25d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794652388-0-0-85417d6170600a27d4ab7aab315dc416
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/melbourne-united-029486.webp" group-title="[LIVE 15:30 WIB 14/11/26] Melbourne United vs South East Melbourne | Server 4",[LIVE 15:30 WIB 14/11/26] Melbourne United vs South East Melbourne | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794651488-0-0-f87c6a706241a833913182eeb038fcbc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794652388-0-0-71cf209dcd250ae10e69a6abd85516fd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/oman-ad437f.webp" group-title="[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 1",[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/koru21-mexu23-intfr/index.m3u8
@@ -114,61 +99,61 @@ https://hls.lauthaitv.cc/live/koru21-mexu23-intfr/index.m3u8
 https://flv.lauthaitv.cc/live/koru21-mexu23-intfr.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/oman-ad437f.webp" group-title="[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 3",[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk3sRGVtHzT8JJZA.m3u8?txSecret=dbeca86db28e03c3fcbae3933c1d5300&txTime=6AF8D00D
+https://live.cds78y11d.org/live/sd-6Mxk3sRGVtHzT8JJZA.m3u8?txSecret=271dd8f6cd69a3a2048a5a2f8d44566e&txTime=6AF8D445
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/oman-ad437f.webp" group-title="[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 4",[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae42b71daf8f9c59c7943d8.m3u8?auth_key=1794669421-0-0-00f7492f0c815cd7c53ca914aafc075d
+https://pull.fmp.live/sla/1-6ae42b71daf8f9c59c7943d8.m3u8?auth_key=1794670382-0-0-ce6cc80299148461c15111335b8f33e2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/oman-ad437f.webp" group-title="[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 5",[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/dfd833136dd1c9a3.m3u8?wsSecret=E31B38BBB510A9289D76E13D627C171A&wsTime=1794647867
+https://play.lacrima2000.com/live/dfd833136dd1c9a3.m3u8?wsSecret=DBE11590CC36701241EBF4AAC6D3364D&wsTime=1794648769
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/oman-ad437f.webp" group-title="[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 6",[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1794651488-0-0-d2c92f6fb2ee38383fa128123a4cafc9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1794652388-0-0-dc3fe41d71d275ef0c0e74704df47830
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/oman-ad437f.webp" group-title="[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 7",[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1794651488-0-0-d3f96088a1c678b9a3c04e1ced1f6858
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1794652388-0-0-084584cc83e0d4f302d78e32a5b718b6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/oman-ad437f.webp" group-title="[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 8",[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1794651488-0-0-bb760c9f6e6ffadfbfa61a16db159367
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1794652388-0-0-6a4ab017000c80d7819ffc88b3c64eab
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/oman-ad437f.webp" group-title="[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 9",[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1794651488-0-0-742038d22922ec573ca1ce630ed35a1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794652388-0-0-5b08436419fc918fe20e5deaa4efa599
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/oman-ad437f.webp" group-title="[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 10",[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1794651488-0-0-308cb0e9e4c9f68ba234728f1f74f8ed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1794652388-0-0-d852dda5a5f2ec90c816be445b02367c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/oman-ad437f.webp" group-title="[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 11",[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794651488-0-0-15edb98ed3c1f19e9e4657ddbb5f80f9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1794652388-0-0-492b1eb07bf84cf54c7e86ead21e7d91
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/oman-ad437f.webp" group-title="[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 12",[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1794651488-0-0-5ff6872b35b44252b95cf9c742e5edd0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1794652388-0-0-6ccc41cc2a406c57c7ffbb9122115e46
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/oman-ad437f.webp" group-title="[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 13",[LIVE 16:00 WIB 14/11/26] Oman vs Tajikistan | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794651488-0-0-cb9ebace554371a8913b28baea989d71
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794652388-0-0-aec98dd39157fea8187e84c97f62c99f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/india-11a983.webp" group-title="[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 1",[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=cd90834aa49eaf87c0ed82edd0412542&txTime=6af87bb0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1794652388-0-0-85d3ef12a9088be9a4c1c7b1cb539cff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/india-11a983.webp" group-title="[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 2",[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=3fef29360c44660e1c01d159935cb5e0&txTime=6af87bb0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794652388-0-0-64d2367ac353c7f1de13181d90a2cb7a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/india-11a983.webp" group-title="[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 3",[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1794651488-0-0-ab93f7636aeb8639e17eefb03ced5aa6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=a3b9df892254e9cab09982cd8c2aaefc&txTime=6af87f34
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/india-11a983.webp" group-title="[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 4",[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794651488-0-0-aa4a62aa2e902652c86a6d9671609e55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=961eb968a3ad17158202e463f57a8df3&txTime=6af87f34
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/india-11a983.webp" group-title="[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 5",[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1794651488-0-0-101275fa1269cfb71324aa8eb3ce1d3f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1794652388-0-0-98ae2a28890db7b99af7351be6147839
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/india-11a983.webp" group-title="[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 6",[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1794651488-0-0-00d0499c5977030377263cf1cd2e297a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1794652388-0-0-aa40f1f519a54c875ad191060ef7d5aa
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/india-11a983.webp" group-title="[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 7",[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-623653_lsd.m3u8?auth_key=1794651488-0-0-e9f90157db57e6017d193038440e144d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-623653_lsd.m3u8?auth_key=1794652388-0-0-859dcf3a8856ee69024ffae1fc7494f3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/india-11a983.webp" group-title="[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 8",[LIVE 16:00 WIB 14/11/26] India vs Bhutan | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794651488-0-0-1c20400c2c9c26fe1c465c4717cbfa8e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794652388-0-0-bac854e3523f11ae6e88880428cdbfb9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-livyi-bereh-764f5e.png" group-title="[LIVE 16:30 WIB 14/11/26] FC Livyi Bereh vs FC Bukovyna Chernivtsi | Server 1",[LIVE 16:30 WIB 14/11/26] FC Livyi Bereh vs FC Bukovyna Chernivtsi | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://pull.fmp.live/sla/1-6ac6659b5c0020a99778a07e.m3u8?auth_key=1793466782-0-0-39191b06847fa43cb1326583d3b3d345
