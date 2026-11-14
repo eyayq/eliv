@@ -1,165 +1,156 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.22 WIB 14/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.37 WIB 14/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lexington-sc-w-3417f8.png" group-title="[LIVE 07:30 WIB 14/11/26] Lexington SC (W) vs Fort Lauderdale United FC (W) | Server 1",[LIVE 07:30 WIB 14/11/26] Lexington SC (W) vs Fort Lauderdale United FC (W) | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/9eadcaa66404b15a.m3u8?wsSecret=F09CFC8150330225555FAF23A08DF63A&wsTime=1794622628
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/waterside-karori-women-fe7bb4.png" group-title="[LIVE 07:30 WIB 14/11/26] Waterside Karori Women vs Auckland United Women | Server 1",[LIVE 07:30 WIB 14/11/26] Waterside Karori Women vs Auckland United Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aef8a7c8f7c293f9f033ef6.m3u8?auth_key=1794644281-0-0-8819351e46db6fb9e82cd2520341b81e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/wellington-phoenix-fc-r-ebaf91.png" group-title="[LIVE 08:00 WIB 14/11/26] Wellington Phoenix FC (R) vs Auckland City | Server 1",[LIVE 08:00 WIB 14/11/26] Wellington Phoenix FC (R) vs Auckland City | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/ee59c21b9b6aaec4.m3u8?wsSecret=B2503E996CED89F2B4C6B66BD1579357&wsTime=1794622628
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/miami-heat-e6d85e.webp" group-title="[LIVE 08:00 WIB 14/11/26] Miami Heat vs Cleveland Cavaliers | Server 1",[LIVE 08:00 WIB 14/11/26] Miami Heat vs Cleveland Cavaliers | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794626288-0-0-b11d4b82952b19551871975b7723d605
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/miami-heat-e6d85e.webp" group-title="[LIVE 08:00 WIB 14/11/26] Miami Heat vs Cleveland Cavaliers | Server 2",[LIVE 08:00 WIB 14/11/26] Miami Heat vs Cleveland Cavaliers | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794626288-0-0-0dd412f4eaa2d4bd01b78a2607140e39
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-orleans-pelicans-b3f8e5.webp" group-title="[LIVE 08:00 WIB 14/11/26] New Orleans Pelicans vs Memphis Grizzlies | Server 1",[LIVE 08:00 WIB 14/11/26] New Orleans Pelicans vs Memphis Grizzlies | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1794626288-0-0-077bde2f54d2d7c21bbcc08bc01eba6a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-orleans-pelicans-b3f8e5.webp" group-title="[LIVE 08:00 WIB 14/11/26] New Orleans Pelicans vs Memphis Grizzlies | Server 2",[LIVE 08:00 WIB 14/11/26] New Orleans Pelicans vs Memphis Grizzlies | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794626288-0-0-a71f0ffbc5e6c713627e194e8e1ee3d5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/wellington-phoenix-reserve-cb884f.png" group-title="[LIVE 08:00 WIB 14/11/26] Wellington Phoenix Reserve vs Auckland City | Server 1",[LIVE 08:00 WIB 14/11/26] Wellington Phoenix Reserve vs Auckland City | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ad7890f44fd96a7d10ac2ba.m3u8?auth_key=1794644281-0-0-0d89e9ddd5fd86535c53b1005c4af0c6
+https://pull.fmp.live/sla/1-6ad7890f44fd96a7d10ac2ba.m3u8?auth_key=1794645182-0-0-3ba1304f41f8bdaa88464fe7df355ffa
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/wellington-phoenix-reserve-cb884f.png" group-title="[LIVE 08:00 WIB 14/11/26] Wellington Phoenix Reserve vs Auckland City | Server 2",[LIVE 08:00 WIB 14/11/26] Wellington Phoenix Reserve vs Auckland City | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1794626228-0-0-0f8acce6c664415c79dc3c9a374b2860
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=00933f7b770b9f8dfc514e3cb5ef9a3e&txTime=6af81c88
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/wellington-phoenix-reserve-cb884f.png" group-title="[LIVE 08:00 WIB 14/11/26] Wellington Phoenix Reserve vs Auckland City | Server 3",[LIVE 08:00 WIB 14/11/26] Wellington Phoenix Reserve vs Auckland City | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1794626228-0-0-4d619a01828d0edccf30232b278e3e6f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=4e1436d4e1e734d31e9cfc90afeaf6db&txTime=6af81c88
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/wellington-phoenix-reserve-cb884f.png" group-title="[LIVE 08:00 WIB 14/11/26] Wellington Phoenix Reserve vs Auckland City | Server 4",[LIVE 08:00 WIB 14/11/26] Wellington Phoenix Reserve vs Auckland City | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=291ae88c335f980e24940fa17063c363&txTime=6af81904
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1794627128-0-0-82095be2e8694d5c4e7efd482a627588
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/wellington-phoenix-reserve-cb884f.png" group-title="[LIVE 08:00 WIB 14/11/26] Wellington Phoenix Reserve vs Auckland City | Server 5",[LIVE 08:00 WIB 14/11/26] Wellington Phoenix Reserve vs Auckland City | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=8258b54792d6d73c36cbf63603c980c9&txTime=6af81904
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1794627128-0-0-917cb6f6cbd80d69e5c1d343cda15b4e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-orleans-pelicans-b3f8e5.webp" group-title="[LIVE 08:00 WIB 14/11/26] New Orleans Pelicans vs Memphis Grizzlies | Server 1",[LIVE 08:00 WIB 14/11/26] New Orleans Pelicans vs Memphis Grizzlies | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1794627188-0-0-d1b594102d5448aed5b2dde02a94d3ef
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-orleans-pelicans-b3f8e5.webp" group-title="[LIVE 08:00 WIB 14/11/26] New Orleans Pelicans vs Memphis Grizzlies | Server 2",[LIVE 08:00 WIB 14/11/26] New Orleans Pelicans vs Memphis Grizzlies | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794627188-0-0-d750f35a543d13865cadda22111790f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/miami-heat-e6d85e.webp" group-title="[LIVE 08:00 WIB 14/11/26] Miami Heat vs Cleveland Cavaliers | Server 1",[LIVE 08:00 WIB 14/11/26] Miami Heat vs Cleveland Cavaliers | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794627128-0-0-bab4fcdb90eaeafd4fbe43ec5ae628cd
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/miami-heat-e6d85e.webp" group-title="[LIVE 08:00 WIB 14/11/26] Miami Heat vs Cleveland Cavaliers | Server 2",[LIVE 08:00 WIB 14/11/26] Miami Heat vs Cleveland Cavaliers | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794627128-0-0-896ff06f004b2cd44308cb75421240ac
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/peru-32e841.webp" group-title="[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 1",[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae1a49fdaf8f9c59c60ae40.m3u8?auth_key=1794644281-0-0-d7c53a912f3365b44a796f09503ee350
+https://pull.fmp.live/sla/1-6ae1a49fdaf8f9c59c60ae40.m3u8?auth_key=1794645182-0-0-7a91cd8a2e9ece8ecda48f632068c690
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/peru-32e841.webp" group-title="[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 2",[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1794626228-0-0-e7700d8ade215c034a3eec3496ee35ef
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1794627128-0-0-3c1340484399fc595830f0ee272895f9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/peru-32e841.webp" group-title="[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 3",[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1794626228-0-0-b0ee7274faa18626db5d5bc9f72e0b06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1794627128-0-0-24e86245a18e275538f1d070d60b2a83
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/peru-32e841.webp" group-title="[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 4",[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912139_lsd.m3u8?txSecret=47e99b87235cdffa33fd93b83a9b079a&txTime=6af81904
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-9912139_lsd.m3u8?txSecret=d0a0b887834364c63b2f2a2d27bf35ff&txTime=6af81c88
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/peru-32e841.webp" group-title="[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 5",[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=012a8ae526ac9a50d789a5c7b28fa5e6&txTime=6af81904
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=97cae2432502009a8efea770a3f9ab57&txTime=6af81c88
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/peru-32e841.webp" group-title="[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 6",[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1794626228-0-0-ae42e0b5f8574b8a6700f69198e64e8e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1794627128-0-0-23be4264c77dbf1c8dec98201fda99a9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/peru-32e841.webp" group-title="[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 7",[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794626228-0-0-c2d8b68ddd7a7a19c0599f37c833d6a5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794627128-0-0-5aa640f8f4a50862c03b46d6e0e8b726
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/peru-32e841.webp" group-title="[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 8",[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1794626228-0-0-53c8f8b6a5390a5bed7d30f52837c599
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1794627128-0-0-5c1cd5597ee521e4ae17f1d625a5adde
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/peru-32e841.webp" group-title="[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 9",[LIVE 08:00 WIB 14/11/26] Peru vs Bolivia | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1794626228-0-0-d3a59a0c0aa58839faf7a2403866ccec
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/265454b5fee1950f8aa1173147c8c593.png" group-title="[LIVE 08:30 WIB 14/11/26] La Equidad vs Santa Fe | Server 1",[LIVE 08:30 WIB 14/11/26] La Equidad vs Santa Fe | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1794627128-0-0-662dc05451eb531886703743019f9d33
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/wellington-phoenix-fc-r-ebaf91.png" group-title="[LIVE 08:00 WIB 14/11/26] Wellington Phoenix FC (R) vs Auckland City | Server 1",[LIVE 08:00 WIB 14/11/26] Wellington Phoenix FC (R) vs Auckland City | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MweaVyhs3dDrWGJEg.m3u8?txSecret=a553265b711017c37b3b8b3a2a55ac39&txTime=6AF86D9D
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/houston-rockets-c6224b.webp" group-title="[LIVE 08:30 WIB 14/11/26] Houston Rockets vs Utah Jazz | Server 1",[LIVE 08:30 WIB 14/11/26] Houston Rockets vs Utah Jazz | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1794626288-0-0-6d1a3d597d9bf4fb2057c063b55b307a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/houston-rockets-c6224b.webp" group-title="[LIVE 08:30 WIB 14/11/26] Houston Rockets vs Utah Jazz | Server 2",[LIVE 08:30 WIB 14/11/26] Houston Rockets vs Utah Jazz | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794626288-0-0-e2c166b745896a0f34b1862312dab4d1
+https://play.lacrima2000.com/live/ee59c21b9b6aaec4.m3u8?wsSecret=76A034D4995C4C91DAF766D7676034DA&wsTime=1794623529
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/internacional-de-bogota-e6fea0.png" group-title="[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 1",[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ad63784e607ff5ae4f2815e.m3u8?auth_key=1794644221-0-0-e0b8fa746f393a0a51fbab85793d0460
+https://pull.fmp.live/sla/1-6ad63784e607ff5ae4f2815e.m3u8?auth_key=1794645122-0-0-54775c3fb6e28842b356ae2f8a271f19
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/internacional-de-bogota-e6fea0.png" group-title="[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 2",[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1794626288-0-0-b74ea4227ed7b2bdf22a8205ffe63599
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1794627188-0-0-f4876ef71601479bbc296c4b218db42e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/internacional-de-bogota-e6fea0.png" group-title="[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 3",[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794626288-0-0-38ad84ea043c5aadea6d3a3ab82fcb79
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1794627188-0-0-7711fd03e98271355bed50f07b89488a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/internacional-de-bogota-e6fea0.png" group-title="[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 4",[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1794626288-0-0-e41b14423bf52cdd8e7f729137f075a2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1794627188-0-0-08cf42bf0f6823e0655f588b35adf1f0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/internacional-de-bogota-e6fea0.png" group-title="[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 5",[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1794626288-0-0-3a3202835a7401013ac26a094954d504
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794627188-0-0-4525139c44b2cd4a1385c6a610fa8b2f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/internacional-de-bogota-e6fea0.png" group-title="[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 6",[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1794626288-0-0-30fa1cfebad4ef93bc98705bc6e6bc9c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1794627188-0-0-e9f2638a60cac1a23e6fad40d5f85969
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/internacional-de-bogota-e6fea0.png" group-title="[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 7",[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1794626288-0-0-318f5fe9c347eab04f8b85fe32a31666
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794627188-0-0-c22fc2e6ce4b0e4d169d505e45d96076
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/internacional-de-bogota-e6fea0.png" group-title="[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 8",[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1794626288-0-0-e693cc54c38e56fc33dc1eb9677cba64
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1794627188-0-0-ef2cd51b6b8b93e29bfc2b7c6aae3806
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/internacional-de-bogota-e6fea0.png" group-title="[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 9",[LIVE 08:30 WIB 14/11/26] Internacional de Bogota vs Independiente Santa Fe | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794626288-0-0-3e6e91c712dfcf00ed3ec832b31b408f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1794627188-0-0-2b3fb1adab4e0ef8a2f7e645789e25e6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/houston-rockets-c6224b.webp" group-title="[LIVE 08:30 WIB 14/11/26] Houston Rockets vs Utah Jazz | Server 1",[LIVE 08:30 WIB 14/11/26] Houston Rockets vs Utah Jazz | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1794627188-0-0-6f8f6e86201636a4497d5b951685bec0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/houston-rockets-c6224b.webp" group-title="[LIVE 08:30 WIB 14/11/26] Houston Rockets vs Utah Jazz | Server 2",[LIVE 08:30 WIB 14/11/26] Houston Rockets vs Utah Jazz | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794627188-0-0-23729ac859b40dae5a1548c09a8841a6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 1",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/gua-can-intfr/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxk4Czhx7QaAWe1rt.m3u8?txSecret=51849dd767b65a1ae822402b71dea8e7&txTime=6AF871D5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 2",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/gua-can-intfr.flv
+https://hls.lauthaitv.cc/live/gua-can-intfr/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 3",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk4Czhx7QaAWe1rt.m3u8?txSecret=a546ce74af920c4ef91243d50e33df5b&txTime=6AF86D9D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/gua-can-intfr.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 4",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aed03850bd04a161fcee6ef.m3u8?auth_key=1794644221-0-0-70c7a0d26b42b2dd0113c0e3b8b2b2c0
+https://pull.fmp.live/sla/1-6aed03850bd04a161fcee6ef.m3u8?auth_key=1794645122-0-0-ca462efcb7f2d7420d7ec1a4aa6f11bb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 5",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/043d0cbafb515c16.m3u8?wsSecret=A177305ADB022CC51B35464F7D410C0E&wsTime=1794622628
+https://play.lacrima2000.com/live/043d0cbafb515c16.m3u8?wsSecret=B5B2778A869D07A7D5DAC805BFFA388B&wsTime=1794623529
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 6",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1794626288-0-0-102cb10a4ba5ab3a4e9ba8d0625febec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1794627188-0-0-00b1b4c72bba549c64efab87a52cd445
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 7",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794626288-0-0-3e865ba13013f4d07b415fff48b51360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794627188-0-0-659919c1a4d669c45004cb9c7db46501
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 8",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1794626288-0-0-c3309ee7b17c17b5fb59cffb6ab82a56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=c33c9d3a3a3bfe145c51d33c679bb052&txTime=6af81cc4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 9",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1794626288-0-0-e05f23fbfa97b946a1c725e63fe7ef1a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=397de6ea1aa0cf22945dd8ac7e7b2973&txTime=6af81cc4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 10",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1794626288-0-0-8d06c4a96f03ce8042df8c507507c34b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1794627188-0-0-0eb0f17786df8e5fb5625c611dc2fa94
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 11",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794626288-0-0-27ec6d090bc3cdffe38344f7e0863aab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1794627188-0-0-f0b4e31e700215285eb3796d0fdc309a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 12",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=a5f71d52b4c60676285cee941f25cee8&txTime=6af81940
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1794627188-0-0-c59bc7c39837f2bda407949ee9d87dc3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 13",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=d33e83a4799963c1d7772f4d8bfdee93&txTime=6af81940
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794627188-0-0-dee94f44890bb10208b74da99d2841d3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 14",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1794626288-0-0-d4d8aac0fc9fef5ab0415ebf735eb74b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1794627188-0-0-d6e299009282142462eec58bc0be2ee7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 15",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794626288-0-0-dc3ee542625454b9e115891ca57229fa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794627188-0-0-121c73d52dd3c0bfc9501e99b4ff23da
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 16",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1794626288-0-0-f11d8066ef0052726cc48d49d7714e70
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1794627188-0-0-69732edaa1689aecad63ac4e6b7c0244
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/guatemala-ac785d.webp" group-title="[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 17",[LIVE 09:00 WIB 14/11/26] Guatemala vs Canada | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794626288-0-0-6cb824d727ab575520f8181d7011c9be
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794627188-0-0-e182b9eff4c7e25e6621663bd0e4d4de
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-antonio-spurs-5f3ebb.webp" group-title="[LIVE 09:30 WIB 14/11/26] San Antonio Spurs vs Golden State Warriors | Server 1",[LIVE 09:30 WIB 14/11/26] San Antonio Spurs vs Golden State Warriors | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1794626288-0-0-525a3ebced6eab12e74a1a852685f3ad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1794627188-0-0-b0ed29ecc8cf938e36d35f7434824687
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-antonio-spurs-5f3ebb.webp" group-title="[LIVE 09:30 WIB 14/11/26] San Antonio Spurs vs Golden State Warriors | Server 2",[LIVE 09:30 WIB 14/11/26] San Antonio Spurs vs Golden State Warriors | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794626288-0-0-b240450dee2fd4e0d88b156c19122851
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794627188-0-0-1f86b7dc33da37ee030d3711414c9dba
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-antonio-spurs-5f3ebb.webp" group-title="[LIVE 09:30 WIB 14/11/26] San Antonio Spurs vs Golden State Warriors | Server 3",[LIVE 09:30 WIB 14/11/26] San Antonio Spurs vs Golden State Warriors | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1794626288-0-0-8e394ce55bc6f145933923fc3a76fc70
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1794627188-0-0-5f2abf28913cd65dea5d4d62f116e28d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-antonio-spurs-5f3ebb.webp" group-title="[LIVE 09:30 WIB 14/11/26] San Antonio Spurs vs Golden State Warriors | Server 4",[LIVE 09:30 WIB 14/11/26] San Antonio Spurs vs Golden State Warriors | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794626288-0-0-7b82833c4a3ac6e15b2d3456fe6431c2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794627188-0-0-f91f840e8613a9a452c1010c181c76e8
