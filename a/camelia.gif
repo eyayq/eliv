@@ -1,6 +1,66 @@
 #EXTM3U
-#EXTINF:0,tvg-name="Portugal vs Denmark - UEFA Nations League [FT] (0-4) 02:45 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/8863b9e186e3580aa6dec29f19155d3a.png" group-title="live camelia vip [tes]",Portugal vs Denmark - UEFA Nations League [FT] (0-4) 02:45 WIB 15-11-2026
+#EXTINF:0,tvg-name="Real Oviedo vs Girona FC - Spanish Segunda Division [FT] (1-2) 03:00 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/21551996567bcd206ee574043d509a84.png" group-title="live camelia vip [tes]",Real Oviedo vs Girona FC - Spanish Segunda Division [FT] (1-2) 03:00 WIB 15-11-2026
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/27551_12568347_4wyrn4h6ypj8q86_md.m3u8?txSecret=a80dec95f48530af042a5b96966172fa&txTime=6AF8D4EF&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/sd-6MweaARkPZqe1r48oH.m3u8?txSecret=003d6bbcc7a127be11b7b0457a06482b&txTime=6AF8D86C&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Millonarios vs Alianza Fútbol Club - Categoría Primera A [FT] (1-0) 03:30 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png" group-title="live camelia vip [tes]",Millonarios vs Alianza Fútbol Club - Categoría Primera A [FT] (1-0) 03:30 WIB 15-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MweaVyhs82BbTuofm.m3u8?txSecret=01d5c264a6a8d2e32e3ac13d5665f03d&txTime=6AF8D86C&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Atletico Nacional Medellin vs Deportiva Once Caldas - Categoría Primera A [FT] (1-1) 03:30 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/4ee24366d09a9239bb2c4207a5008111.png" group-title="live camelia vip [tes]",Atletico Nacional Medellin vs Deportiva Once Caldas - Categoría Primera A [FT] (1-1) 03:30 WIB 15-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MweaVyihpNeyxWRmq.m3u8?txSecret=3d108c3941c22269d990d5ec6589a1b6&txTime=6AF8D86C&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Atletico Bucaramanga vs Fortaleza F.C - Categoría Primera A [FT] (0-0) 03:30 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/70c92764e181ce7abe6176c411a93fe3.png" group-title="live camelia vip [tes]",Atletico Bucaramanga vs Fortaleza F.C - Categoría Primera A [FT] (0-0) 03:30 WIB 15-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MweaVyihnBB7UgWcw.m3u8?txSecret=3e163c42ec46aeb32433c1bab347921e&txTime=6AF8D86C&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Deportivo Pereira vs America de Cali - Categoría Primera A [FT] (0-1) 03:30 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/2a016d670dd775e37ae908540843a444.png" group-title="live camelia vip [tes]",Deportivo Pereira vs America de Cali - Categoría Primera A [FT] (0-1) 03:30 WIB 15-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MweaVyhsEcdCuPZ8T.m3u8?txSecret=d6853aa209ab8a033774cf519d551e58&txTime=6AF8D86C&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Aguilas Doradas vs Dep.Independiente Medellin - Categoría Primera A [FT] (0-0) 03:30 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/3190d6d022fe9b36c65d83cf98e16d15.png" group-title="live camelia vip [tes]",Aguilas Doradas vs Dep.Independiente Medellin - Categoría Primera A [FT] (0-0) 03:30 WIB 15-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MweaVyihhnDNX2gK9.m3u8?txSecret=8e5fee1cdf1dce9d24f1b7cff16fb8f9&txTime=6AF8D86C&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Deportivo Cali vs Deportes Tolima - Categoría Primera A [FT] (1-1) 03:30 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/b997a2811a0caed43ff38b631a708420.png" group-title="live camelia vip [tes]",Deportivo Cali vs Deportes Tolima - Categoría Primera A [FT] (1-1) 03:30 WIB 15-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MweaVyihFQSvm7gUP.m3u8?txSecret=75f5712d5ac5ed9d5eeed3de4a164a30&txTime=6AF8D86C&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Cucuta Deportivo vs Jaguares de Cordoba - Categoría Primera A [FT] (1-0) 03:30 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/972c2e951d1ba7680faee53a342bd0a2.png" group-title="live camelia vip [tes]",Cucuta Deportivo vs Jaguares de Cordoba - Categoría Primera A [FT] (1-0) 03:30 WIB 15-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MweaVyihHbvoEwbdH.m3u8?txSecret=e363190828e0161f140dcd25576b3cf5&txTime=6AF8D86C&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Colon de Santa Fe vs Ferrocarril Midland - ARG Primera Nacional [LIVE] (0-0) 04:00 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/a7fa07ce3b6d59d682c8c18ce44cf2fb.png" group-title="live camelia vip [tes]",Colon de Santa Fe vs Ferrocarril Midland - ARG Primera Nacional [LIVE] (0-0) 04:00 WIB 15-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6Mxk49iyi8Yj1EpcKR.m3u8?txSecret=1a5c88c000d0b36ca21372617de0544d&txTime=6AF8D86C&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Haiti vs USA - CONCACAF Nations League [LIVE] (0-1) 04:30 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/46470ad68a6d9a6e9b4a0f62103bb02c.crdownload" group-title="live camelia vip [tes]",Haiti vs USA - CONCACAF Nations League [LIVE] (0-1) 04:30 WIB 15-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6Mxk4Czhx31cRYyrgP_md.m3u8?txSecret=47034d754eec296118c47324666f1b50&txTime=6AF8D86C&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Mirassol - SP vs Atlético Mineiro - MG - Brazilian Serie A [LIVE] (0-0) 04:30 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/b20645448c644b701286477f55b11e24.png" group-title="live camelia vip [tes]",Mirassol - SP vs Atlético Mineiro - MG - Brazilian Serie A [LIVE] (0-0) 04:30 WIB 15-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MvZ6LzgNB2Dz93rQw.m3u8?txSecret=8332d43d0f6f97e81650ecc4b1469c0c&txTime=6AF8D86C&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
