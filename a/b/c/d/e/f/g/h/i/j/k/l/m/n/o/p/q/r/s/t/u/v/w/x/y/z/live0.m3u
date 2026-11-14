@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 15:17:39 WIB 14-11-2026
-# 🔄 Total Channels: 833
+# ⏰ Latest Updated: 15:33:19 WIB 14-11-2026
+# 🔄 Total Channels: 834
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:17:39 WIB 14-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:33:19 WIB 14-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4755/image" group-title="LIVE EVENT",19:00 WIB China vs Malaysia | Football | HD SERVER | Gvision TV
@@ -113,6 +113,11 @@ https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=56c20834d52717b7eab
 https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/154426/image" group-title="Live Event: CFY",21:00 WIB Kosovo vs Israel | Football | SonyLiv | Gvision TV
 https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794707604~acl=/*~id=40416883930794749896787547691928~hmac=eabd9c97d1bc99a44e6450644df33d661c737d580092dc8a5dabdb3f6bae61f4
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/24360/image" group-title="Live Event: CFY",22:15 WIB Real Sociedad B vs Sporting Gijon | Football | LaLiga Hypermotion | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?w=1280&h=720&fit=contain&cbg=ffffff&url=https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (VS OS6)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
