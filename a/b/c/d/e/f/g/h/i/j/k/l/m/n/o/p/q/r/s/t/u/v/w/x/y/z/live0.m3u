@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 13:49:03 WIB 15-11-2026
-# 🔄 Total Channels: 831
+# ⏰ Latest Updated: 14:04:00 WIB 15-11-2026
+# 🔄 Total Channels: 842
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [13:49:03 WIB 15-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:04:00 WIB 15-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2822/image" group-title="LIVE EVENT",20:00 WIB CD Tenerife vs AD Ceuta | Football | LaLiga Hypermotion | Gvision TV
@@ -14,24 +14,60 @@ https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
 https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Guo Yu Yi Jin Yi Yin Shou Guan 2026JapanMasters Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1-imgplus.flv?wsSecret=2558e7a60d1d6050f31d715e6e07f851&wsTime=6afb08ac&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Jue Sai Jing Cai Hui Gu     2026JapanMasters Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=d5da6854e44f4da0dc6020d94e5b8a55&wsTime=6afb08ad&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",[Belum Mulai] 21:00 WIB Latvia vs Armenia
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4482/image" group-title="LIVE EVENT",21:00 WIB Cyprus vs Montenegro | Football | DAZN SPORTS - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a431dd45ed2508b47290213500617f23:b6363b41b5807dcb1f568f4f64718691
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wefdfonlnc/out/v1/4bd2d041433b4b58861d63df0b1677c6/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4482/image" group-title="LIVE EVENT",21:00 WIB Cyprus vs Montenegro | Football | PRIME VIDEO - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bf7c61f3ce6a153280dab88b23f3057:5fd57e93bb680d530ac999f7c217a87a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aghlyfvogt/out/v1/4d5a657a11624b12856887453a15b612/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4482/image" group-title="LIVE EVENT",21:00 WIB Cyprus vs Montenegro | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bc4236304752eaeab92f844412eebe8:2610dfd2072192991a8b66283d5840aa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/khw3chre2o/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4706/image" group-title="LIVE EVENT",21:00 WIB Latvia vs Armenia | Football | DAZN SPORTS - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d8c5f233f0bdd4439dfb26a58c355f:6899e04bd16a60638c9e5fd0a5b5d4d9
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zfvwrztx8j/out/v1/f1c6c8f0ca414b70b148bedd0f394213/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4706/image" group-title="LIVE EVENT",21:00 WIB Latvia vs Armenia | Football | PRIME VIDEO - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0c256a38e47c7c19ee0d8503bfdfe17:bed1c37c30e103e66e64e562b9b32833
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/te0xlcvi8o/out/v1/d5cd6d7f35c9452bbf7f2b88cf1f50fa/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4706/image" group-title="LIVE EVENT",21:00 WIB Latvia vs Armenia | Football | beIN ENGLISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4706/image" group-title="LIVE EVENT",21:00 WIB Latvia vs Armenia | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3f9cc220f9e73b355ae62bb40ba90fb:6e5f24e4e845e5d552a28787ff470d9d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hwjlmyb59s/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd
+#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",21:00 WIB Latvia vs Armenia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",[Belum Mulai] 21:00 WIB Siprus vs Montenegro
+#EXTINF:-1 tvg-logo="https://shorter.me/JHxeb" group-title="LIVE EVENT",21:00 WIB Siprus vs Montenegro
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Guo Yu Yi Jin Yi Yin Shou Guan 2026JapanMasters Badminton | HUYA CN | Gvision TV
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1-imgplus.flv?wsSecret=be62ed8449fc91d1c1dfedd5cefd9428&wsTime=6afb0ca3&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Jue Sai Jing Cai Hui Gu     2026JapanMasters Badminton | HUYA CN | Gvision TV
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=9bdb517a3c355dda360ae2ece227a421&wsTime=6afb0ca4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1a0df143-15bf-4682-900d-d79351dfe5ca/4/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Triton Poker ONE Series Cyprus-$15K High Roller  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -74,31 +110,19 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c58e89e55b6ca6b7155cc78c8e2300d:949c2c45b7bbfab1d09f7c9bb96e2e4c
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187575/image" group-title="Live Event: CFY",13:00 WIB Afghanistan vs Zimbabwe | Cricket | WILLOW - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c58e89e55b6ca6b7155cc78c8e2300d:949c2c45b7bbfab1d09f7c9bb96e2e4c
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6yweffzpen/out/v1/197dbda9339c436c95282a80d109cbd6/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187575/image" group-title="Live Event: CFY",13:00 WIB Afghanistan vs Zimbabwe | Cricket | WILLOW - ALT | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c58e89e55b6ca6b7155cc78c8e2300d:949c2c45b7bbfab1d09f7c9bb96e2e4c
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6yweffzpen/out/v1/197dbda9339c436c95282a80d109cbd6/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187575/image" group-title="Live Event: CFY",13:00 WIB Afghanistan vs Zimbabwe | Cricket | A SPORTS HD | Gvision TV
-https://live.msnetworks.net/a-sports/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&amp;s" group-title="Live Event: CFY",18:15 WIB NPL Nepal Premier League | Cricket | STAR SPORTS HD | Gvision TV
 http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Live Event: CFY",18:30 WIB Abu Dhabi T10 League | Cricket | WILLOW - AQ | Gvision TV
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Live Event: CFY",20:45 WIB Abu Dhabi T10 League | Cricket | WILLOW - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0746588cbf8ac03b65207fb487d8a65d:01db21ef36ef2c010efc6c32b9ccf412
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/clgxn8uxdu/out/v1/58af05d280a542b99de566f57c8de009/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Live Event: CFY",18:30 WIB Abu Dhabi T10 League | Cricket | WILLOW - ALT | Gvision TV
+#KODIPROP:inputstream.adaptive.license_key=61b5aed045f5f30c90cbbdd368b2abaf:7f9159dd162612a77f4c770199b27671
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gbxtruggg2/out/v1/b8172045e5c9414c8cb5e70a909585ac/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Live Event: CFY",20:45 WIB Abu Dhabi T10 League | Cricket | WILLOW - ALT | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0746588cbf8ac03b65207fb487d8a65d:01db21ef36ef2c010efc6c32b9ccf412
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/clgxn8uxdu/out/v1/58af05d280a542b99de566f57c8de009/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Live Event: CFY",18:30 WIB Abu Dhabi T10 League | Cricket | A SPORTS HD | Gvision TV
+#KODIPROP:inputstream.adaptive.license_key=61b5aed045f5f30c90cbbdd368b2abaf:7f9159dd162612a77f4c770199b27671
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gbxtruggg2/out/v1/b8172045e5c9414c8cb5e70a909585ac/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Live Event: CFY",20:45 WIB Abu Dhabi T10 League | Cricket | A SPORTS HD | Gvision TV
 https://live.msnetworks.net/a-sports/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187747/image" group-title="Live Event: CFY",15:00 WIB South Africa vs Bangladesh | Cricket | WILLOW - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -118,6 +142,42 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4482/image" group-title="Live Event: CFY",21:00 WIB Cyprus vs Montenegro | Football | DAZN SPORTS - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a431dd45ed2508b47290213500617f23:b6363b41b5807dcb1f568f4f64718691
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wefdfonlnc/out/v1/4bd2d041433b4b58861d63df0b1677c6/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4482/image" group-title="Live Event: CFY",21:00 WIB Cyprus vs Montenegro | Football | PRIME VIDEO - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bf7c61f3ce6a153280dab88b23f3057:5fd57e93bb680d530ac999f7c217a87a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aghlyfvogt/out/v1/4d5a657a11624b12856887453a15b612/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4482/image" group-title="Live Event: CFY",21:00 WIB Cyprus vs Montenegro | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bc4236304752eaeab92f844412eebe8:2610dfd2072192991a8b66283d5840aa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/khw3chre2o/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4706/image" group-title="Live Event: CFY",21:00 WIB Latvia vs Armenia | Football | DAZN SPORTS - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d8c5f233f0bdd4439dfb26a58c355f:6899e04bd16a60638c9e5fd0a5b5d4d9
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zfvwrztx8j/out/v1/f1c6c8f0ca414b70b148bedd0f394213/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4706/image" group-title="Live Event: CFY",21:00 WIB Latvia vs Armenia | Football | PRIME VIDEO - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0c256a38e47c7c19ee0d8503bfdfe17:bed1c37c30e103e66e64e562b9b32833
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/te0xlcvi8o/out/v1/d5cd6d7f35c9452bbf7f2b88cf1f50fa/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4706/image" group-title="Live Event: CFY",21:00 WIB Latvia vs Armenia | Football | beIN ENGLISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4706/image" group-title="Live Event: CFY",21:00 WIB Latvia vs Armenia | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3f9cc220f9e73b355ae62bb40ba90fb:6e5f24e4e845e5d552a28787ff470d9d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hwjlmyb59s/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2822/image" group-title="Live Event: CFY",20:00 WIB CD Tenerife vs AD Ceuta | Football | LaLiga Hypermotion | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
