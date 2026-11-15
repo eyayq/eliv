@@ -1,261 +1,261 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁New Orleans Pelicans😈VS😈Denver Nuggets📁|LIVE|Sunday 15 November 2026 07:00:00 WIB(Main)
-https://live.hztx2020.com/live/14315872_b6f4efe0513daffd99e70864da71ba33_autoChange.m3u8?auth_key=1794722238-0-0-5f49ea8dad93d33d3cb3f34745516a10
+https://live.hztx2020.com/live/14315872_b6f4efe0513daffd99e70864da71ba33_autoChange.m3u8?auth_key=1794723121-0-0-26e61ed2dc47a22b77e609fe5168085e
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁New Orleans Pelicans😈VS😈Denver Nuggets📁|LIVE|Sunday 15 November 2026 07:00:00 WIB(BLV TARZAAN)
 https://live05.wecile.app/live/56998120.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Cleveland Cavaliers😈VS😈Dallas Mavericks📁|LIVE|Sunday 15 November 2026 07:30:00 WIB(Main)
-https://live.hztx2020.com/live/14315873_d73680585cc204f26231d00ce3a60f5e_autoChange.m3u8?auth_key=1794722236-0-0-26b199602466100164ee4c933e774be6
+https://live.hztx2020.com/live/14315873_d73680585cc204f26231d00ce3a60f5e_autoChange.m3u8?auth_key=1794723122-0-0-caa09a13016fbf0ce2e0b34d0dfa13e5
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Cleveland Cavaliers😈VS😈Dallas Mavericks📁|LIVE|Sunday 15 November 2026 07:30:00 WIB(BLV POCARI)
 https://live05.wecile.app/live/19919577.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80" group-title="📁Giao hữu các CLB quốc tế📁",📁New York Red Bulls😈VS😈Club America📁|LIVE|Sunday 15 November 2026 07:55:00 WIB(Main)
-https://live.hztx2020.com/live/14639664_5f0f50c933e67254ae4e0d482f159df7_autoChange.m3u8?auth_key=1794722236-0-0-ce6973c4b1eef21a7f4828851b33af83
+https://live.hztx2020.com/live/14639664_5f0f50c933e67254ae4e0d482f159df7_autoChange.m3u8?auth_key=1794723120-0-0-8c09daec9916ee9b5c8e1a16c1c6c755
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80" group-title="📁Giao hữu các CLB quốc tế📁",📁New York Red Bulls😈VS😈Club America📁|LIVE|Sunday 15 November 2026 07:55:00 WIB(BLV REDBULL)
 https://live05.wecile.app/live/49572724.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80" group-title="📁Liên minh bóng đá quốc gia châu Mỹ📁",📁Jamaica😈VS😈Mexico📁|LIVE|Sunday 15 November 2026 08:00:00 WIB(Main)
-https://live3.hztx2020.com/live/14559662_253df549acff3cff9afa544497210184_autoChange.m3u8?auth_key=1794722237-0-0-72b3134c57708a53fc61dde8f14db8c2
+https://live3.hztx2020.com/live/14559662_253df549acff3cff9afa544497210184_autoChange.m3u8?auth_key=1794723120-0-0-bd0fe6a11e11451f006b19a86709b188
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80" group-title="📁Liên minh bóng đá quốc gia châu Mỹ📁",📁Jamaica😈VS😈Mexico📁|LIVE|Sunday 15 November 2026 08:00:00 WIB(BLV PEPSI)
 https://live05.wecile.app/live/59444581.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Miami Heat😈VS😈Detroit Pistons📁|LIVE|Sunday 15 November 2026 08:00:00 WIB(Main)
-https://live1.hztx2020.com/live/14315874_f373508f8965ceb2a99a0e09cac1a28e_autoChange.m3u8?auth_key=1794722237-0-0-6d853061afe9e718714c68653355d0b2
+https://live1.hztx2020.com/live/14315874_f373508f8965ceb2a99a0e09cac1a28e_autoChange.m3u8?auth_key=1794723120-0-0-85a833e898074c407e7ac1a596bcdc60
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Miami Heat😈VS😈Detroit Pistons📁|LIVE|Sunday 15 November 2026 08:00:00 WIB(BLV ROCKSTAR)
 https://live05.wecile.app/live/82054853.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Memphis Grizzlies😈VS😈Brooklyn Nets📁|LIVE|Sunday 15 November 2026 08:00:00 WIB(Main)
-https://live2.hztx2020.com/live/14315875_ef555741d2ae424742112f818db87b48_autoChange.m3u8?auth_key=1794722237-0-0-1e262ca18728018ba0d6a25f2cd50a32
+https://live2.hztx2020.com/live/14315875_ef555741d2ae424742112f818db87b48_autoChange.m3u8?auth_key=1794723120-0-0-895ff55992f64ba9e434b87ed353489a
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Memphis Grizzlies😈VS😈Brooklyn Nets📁|LIVE|Sunday 15 November 2026 08:00:00 WIB(BLV Cozy)
 https://live05.wecile.app/live/87379114.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Minnesota Timberwolves😈VS😈Chicago Bulls📁|LIVE|Sunday 15 November 2026 08:00:00 WIB(Main)
-https://live.hztx2020.com/live/14315876_97f6244b6d68f047da05802156f3a73e_autoChange.m3u8?auth_key=1794722237-0-0-1076ca07c99c3cd6898f3ece2f2811cf
+https://live.hztx2020.com/live/14315876_97f6244b6d68f047da05802156f3a73e_autoChange.m3u8?auth_key=1794723120-0-0-413cb5e5a718280370587bdfae1d854d
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Minnesota Timberwolves😈VS😈Chicago Bulls📁|LIVE|Sunday 15 November 2026 08:00:00 WIB(BLV 247)
 https://live05.wecile.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1b3145c36b91e56bd3e1329351ad2258.png!w80" group-title="📁Giải bóng đá nữ cao cấp Mexico📁",📁Phụ nữ Chivas Guadalajara😈VS😈Juarez Nữ📁|0d 1h 2m 15s|Sunday 15 November 2026 10:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1b3145c36b91e56bd3e1329351ad2258.png!w80" group-title="📁Giải bóng đá nữ cao cấp Mexico📁",📁Phụ nữ Chivas Guadalajara😈VS😈Juarez Nữ📁|0d 0h 47m 29s|Sunday 15 November 2026 10:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1b3145c36b91e56bd3e1329351ad2258.png!w80" group-title="📁Giải bóng đá nữ cao cấp Mexico📁",📁Phụ nữ Chivas Guadalajara😈VS😈Juarez Nữ📁|0d 1h 2m 15s|Sunday 15 November 2026 10:00:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1b3145c36b91e56bd3e1329351ad2258.png!w80" group-title="📁Giải bóng đá nữ cao cấp Mexico📁",📁Phụ nữ Chivas Guadalajara😈VS😈Juarez Nữ📁|0d 0h 47m 29s|Sunday 15 November 2026 10:00:00 WIB(BLV REDBULL)
 https://live05.wecile.app/live/49572724.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f827b5406c7aa5b4fe10062ae06a137b.png!w80" group-title="📁Giao hữu Quốc tế📁",📁New Zealand😈VS😈Đội tuyển quốc gia Ấn Độ📁|0d 1h 12m 15s|Sunday 15 November 2026 10:10:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f827b5406c7aa5b4fe10062ae06a137b.png!w80" group-title="📁Giao hữu Quốc tế📁",📁New Zealand😈VS😈Đội tuyển quốc gia Ấn Độ📁|0d 0h 57m 29s|Sunday 15 November 2026 10:10:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f827b5406c7aa5b4fe10062ae06a137b.png!w80" group-title="📁Giao hữu Quốc tế📁",📁New Zealand😈VS😈Đội tuyển quốc gia Ấn Độ📁|0d 1h 12m 15s|Sunday 15 November 2026 10:10:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f827b5406c7aa5b4fe10062ae06a137b.png!w80" group-title="📁Giao hữu Quốc tế📁",📁New Zealand😈VS😈Đội tuyển quốc gia Ấn Độ📁|0d 0h 57m 29s|Sunday 15 November 2026 10:10:00 WIB(BLV BÍ ĐAO)
 https://live05.wecile.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/fd8ad42f4f7a3b8cbe094e6d166a0b2c.png!w80" group-title="📁Giải bóng đá nữ Úc📁",📁Canberra Nữ😈VS😈Brisbane Roar Nữ📁|0d 2h 2m 15s|Sunday 15 November 2026 11:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/fd8ad42f4f7a3b8cbe094e6d166a0b2c.png!w80" group-title="📁Giải bóng đá nữ Úc📁",📁Canberra Nữ😈VS😈Brisbane Roar Nữ📁|0d 1h 47m 29s|Sunday 15 November 2026 11:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/fd8ad42f4f7a3b8cbe094e6d166a0b2c.png!w80" group-title="📁Giải bóng đá nữ Úc📁",📁Canberra Nữ😈VS😈Brisbane Roar Nữ📁|0d 2h 2m 15s|Sunday 15 November 2026 11:00:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/fd8ad42f4f7a3b8cbe094e6d166a0b2c.png!w80" group-title="📁Giải bóng đá nữ Úc📁",📁Canberra Nữ😈VS😈Brisbane Roar Nữ📁|0d 1h 47m 29s|Sunday 15 November 2026 11:00:00 WIB(BLV MONSTER)
 https://live05.wecile.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" group-title="📁Liên đoàn Bóng rổ Quốc gia Úc📁",📁Sydney😈VS😈New Zealand Breakers📁|0d 2h 2m 15s|Sunday 15 November 2026 11:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" group-title="📁Liên đoàn Bóng rổ Quốc gia Úc📁",📁Sydney😈VS😈New Zealand Breakers📁|0d 1h 47m 29s|Sunday 15 November 2026 11:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" group-title="📁Liên đoàn Bóng rổ Quốc gia Úc📁",📁Sydney😈VS😈New Zealand Breakers📁|0d 2h 2m 15s|Sunday 15 November 2026 11:00:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" group-title="📁Liên đoàn Bóng rổ Quốc gia Úc📁",📁Sydney😈VS😈New Zealand Breakers📁|0d 1h 47m 29s|Sunday 15 November 2026 11:00:00 WIB(BLV ROCKSTAR)
 https://live05.wecile.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/514eb329116806ef998ead8b3ccb5612.png!w80" group-title="📁Giải bóng đá hạng nhì Nhật Bản📁",📁Vegalta Sendai😈VS😈Blaublitz Akita📁|0d 2h 7m 15s|Sunday 15 November 2026 11:05:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/514eb329116806ef998ead8b3ccb5612.png!w80" group-title="📁Giải bóng đá hạng nhì Nhật Bản📁",📁Vegalta Sendai😈VS😈Blaublitz Akita📁|0d 1h 52m 29s|Sunday 15 November 2026 11:05:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/514eb329116806ef998ead8b3ccb5612.png!w80" group-title="📁Giải bóng đá hạng nhì Nhật Bản📁",📁Vegalta Sendai😈VS😈Blaublitz Akita📁|0d 2h 7m 15s|Sunday 15 November 2026 11:05:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/514eb329116806ef998ead8b3ccb5612.png!w80" group-title="📁Giải bóng đá hạng nhì Nhật Bản📁",📁Vegalta Sendai😈VS😈Blaublitz Akita📁|0d 1h 52m 29s|Sunday 15 November 2026 11:05:00 WIB(BLV GIÀ LÀNG)
 https://live05.wecile.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Machida😈VS😈Vissel Kobe📁|0d 3h 2m 15s|Sunday 15 November 2026 12:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Machida😈VS😈Vissel Kobe📁|0d 2h 47m 29s|Sunday 15 November 2026 12:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Machida😈VS😈Vissel Kobe📁|0d 3h 2m 15s|Sunday 15 November 2026 12:00:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Machida😈VS😈Vissel Kobe📁|0d 2h 47m 29s|Sunday 15 November 2026 12:00:00 WIB(BLV PEPSI)
 https://live05.wecile.app/live/59444581.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" group-title="📁Giải bóng rổ nam Hàn Quốc📁",📁Goyang Carrot Jumpers😈VS😈Wonju Dongbu Promy📁|0d 3h 2m 15s|Sunday 15 November 2026 12:00:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" group-title="📁Giải bóng rổ nam Hàn Quốc📁",📁Goyang Carrot Jumpers😈VS😈Wonju Dongbu Promy📁|0d 2h 47m 29s|Sunday 15 November 2026 12:00:00 WIB(BLV POCARI)
 https://live05.wecile.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8b9ca3d6a9a5b9573992e58b972e96fd.png!w80" group-title="📁Giải bóng đá hạng nhì Nhật Bản📁",📁Kataller Toyama😈VS😈Tokushima📁|0d 3h 2m 15s|Sunday 15 November 2026 12:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8b9ca3d6a9a5b9573992e58b972e96fd.png!w80" group-title="📁Giải bóng đá hạng nhì Nhật Bản📁",📁Kataller Toyama😈VS😈Tokushima📁|0d 2h 47m 29s|Sunday 15 November 2026 12:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8b9ca3d6a9a5b9573992e58b972e96fd.png!w80" group-title="📁Giải bóng đá hạng nhì Nhật Bản📁",📁Kataller Toyama😈VS😈Tokushima📁|0d 3h 2m 15s|Sunday 15 November 2026 12:00:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8b9ca3d6a9a5b9573992e58b972e96fd.png!w80" group-title="📁Giải bóng đá hạng nhì Nhật Bản📁",📁Kataller Toyama😈VS😈Tokushima📁|0d 2h 47m 29s|Sunday 15 November 2026 12:00:00 WIB(BLV Cozy)
 https://live05.wecile.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Cerezo Osaka😈VS😈Urawa Reds📁|0d 4h 2m 15s|Sunday 15 November 2026 13:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Cerezo Osaka😈VS😈Urawa Reds📁|0d 3h 47m 29s|Sunday 15 November 2026 13:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Cerezo Osaka😈VS😈Urawa Reds📁|0d 4h 2m 15s|Sunday 15 November 2026 13:00:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Cerezo Osaka😈VS😈Urawa Reds📁|0d 3h 47m 29s|Sunday 15 November 2026 13:00:00 WIB(BLV REVIVE)
 https://live05.wecile.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Kashima Antlers😈VS😈Yokohama F. Marinos📁|0d 4h 2m 15s|Sunday 15 November 2026 13:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Kashima Antlers😈VS😈Yokohama F. Marinos📁|0d 3h 47m 29s|Sunday 15 November 2026 13:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Kashima Antlers😈VS😈Yokohama F. Marinos📁|0d 4h 2m 15s|Sunday 15 November 2026 13:00:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Kashima Antlers😈VS😈Yokohama F. Marinos📁|0d 3h 47m 29s|Sunday 15 November 2026 13:00:00 WIB(BLV REDBULL)
 https://live05.wecile.app/live/49572724.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80" group-title="📁Liên đoàn Bóng rổ Quốc gia Úc📁",📁Brisbane Bullets😈VS😈Tasmania JackNgười Nhảy📁|0d 4h 2m 15s|Sunday 15 November 2026 13:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80" group-title="📁Liên đoàn Bóng rổ Quốc gia Úc📁",📁Brisbane Bullets😈VS😈Tasmania JackNgười Nhảy📁|0d 3h 47m 29s|Sunday 15 November 2026 13:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80" group-title="📁Liên đoàn Bóng rổ Quốc gia Úc📁",📁Brisbane Bullets😈VS😈Tasmania JackNgười Nhảy📁|0d 4h 2m 15s|Sunday 15 November 2026 13:00:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80" group-title="📁Liên đoàn Bóng rổ Quốc gia Úc📁",📁Brisbane Bullets😈VS😈Tasmania JackNgười Nhảy📁|0d 3h 47m 29s|Sunday 15 November 2026 13:00:00 WIB(BLV 247)
 https://live05.wecile.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/b3a61f88692a8a3836f3b93ba65b98da.png!w80" group-title="📁Giải bóng rổ nam Hàn Quốc📁",📁LG Sakers😈VS😈Busan KTF Sonicboom📁|0d 5h 32m 15s|Sunday 15 November 2026 14:30:00 WIB(BLV TARZAAN)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/b3a61f88692a8a3836f3b93ba65b98da.png!w80" group-title="📁Giải bóng rổ nam Hàn Quốc📁",📁LG Sakers😈VS😈Busan KTF Sonicboom📁|0d 5h 17m 29s|Sunday 15 November 2026 14:30:00 WIB(BLV TARZAAN)
 https://live05.wecile.app/live/56998120.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="📁Giải bóng rổ nam Hàn Quốc📁",📁KCC Egis😈VS😈Incheon📁|0d 5h 32m 15s|Sunday 15 November 2026 14:30:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="📁Giải bóng rổ nam Hàn Quốc📁",📁KCC Egis😈VS😈Incheon📁|0d 5h 17m 29s|Sunday 15 November 2026 14:30:00 WIB(BLV Cozy)
 https://live05.wecile.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Kashiwa Reysol😈VS😈Kawasaki Frontale📁|0d 6h 2m 15s|Sunday 15 November 2026 15:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Kashiwa Reysol😈VS😈Kawasaki Frontale📁|0d 5h 47m 29s|Sunday 15 November 2026 15:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Kashiwa Reysol😈VS😈Kawasaki Frontale📁|0d 6h 2m 15s|Sunday 15 November 2026 15:00:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80" group-title="📁Cúp Liên đoàn Nhật Bản📁",📁Kashiwa Reysol😈VS😈Kawasaki Frontale📁|0d 5h 47m 29s|Sunday 15 November 2026 15:00:00 WIB(BLV MONSTER)
 https://live05.wecile.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c7c81ba5deb4cc8d28180e51e0944c74.png!w80" group-title="📁Giải bóng đá hạng ba Nhật Bản📁",📁Reilac Shiga FC😈VS😈Osaka FC📁|0d 7h 2m 15s|Sunday 15 November 2026 16:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c7c81ba5deb4cc8d28180e51e0944c74.png!w80" group-title="📁Giải bóng đá hạng ba Nhật Bản📁",📁Reilac Shiga FC😈VS😈Osaka FC📁|0d 6h 47m 29s|Sunday 15 November 2026 16:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c7c81ba5deb4cc8d28180e51e0944c74.png!w80" group-title="📁Giải bóng đá hạng ba Nhật Bản📁",📁Reilac Shiga FC😈VS😈Osaka FC📁|0d 7h 2m 15s|Sunday 15 November 2026 16:00:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c7c81ba5deb4cc8d28180e51e0944c74.png!w80" group-title="📁Giải bóng đá hạng ba Nhật Bản📁",📁Reilac Shiga FC😈VS😈Osaka FC📁|0d 6h 47m 29s|Sunday 15 November 2026 16:00:00 WIB(BLV POCARI)
 https://live05.wecile.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ad447efc200f864044a546c6c4811473.png!w80" group-title="📁Giải Bóng đá Quốc gia Nga📁",📁FK Chelyabinsk😈VS😈Veles Moscow (Rus)📁|0d 8h 2m 15s|Sunday 15 November 2026 17:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ad447efc200f864044a546c6c4811473.png!w80" group-title="📁Giải Bóng đá Quốc gia Nga📁",📁FK Chelyabinsk😈VS😈Veles Moscow (Rus)📁|0d 7h 47m 29s|Sunday 15 November 2026 17:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ad447efc200f864044a546c6c4811473.png!w80" group-title="📁Giải Bóng đá Quốc gia Nga📁",📁FK Chelyabinsk😈VS😈Veles Moscow (Rus)📁|0d 8h 2m 15s|Sunday 15 November 2026 17:00:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ad447efc200f864044a546c6c4811473.png!w80" group-title="📁Giải Bóng đá Quốc gia Nga📁",📁FK Chelyabinsk😈VS😈Veles Moscow (Rus)📁|0d 7h 47m 29s|Sunday 15 November 2026 17:00:00 WIB(BLV 247)
 https://live05.wecile.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/23184d4df8fb45f4e0de26ce3a2a99c4.png!w80" group-title="📁Giải bóng đá hạng nhất Ấn Độ📁",📁Dempo😈VS😈FC Chanmari📁|0d 8h 32m 15s|Sunday 15 November 2026 17:30:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/23184d4df8fb45f4e0de26ce3a2a99c4.png!w80" group-title="📁Giải bóng đá hạng nhất Ấn Độ📁",📁Dempo😈VS😈FC Chanmari📁|0d 8h 17m 29s|Sunday 15 November 2026 17:30:00 WIB(BLV 247)
 https://live05.wecile.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/178df2f7b70aa342f101f957d0c3144f.png!w80" group-title="📁Giải hạng Hai Bồ Đào Nha📁",📁Amarante😈VS😈Felgueiras📁|0d 9h 2m 15s|Sunday 15 November 2026 18:00:00 WIB(BLV FANTA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/178df2f7b70aa342f101f957d0c3144f.png!w80" group-title="📁Giải hạng Hai Bồ Đào Nha📁",📁Amarante😈VS😈Felgueiras📁|0d 8h 47m 29s|Sunday 15 November 2026 18:00:00 WIB(BLV FANTA)
 https://live05.wecile.app/live/16226575.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/4640a8c2881298c36b5c67927ce820f8.png!w80" group-title="📁Giải hạng Hai Bồ Đào Nha📁",📁CD Tondela😈VS😈SC Farense📁|0d 9h 2m 15s|Sunday 15 November 2026 18:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/4640a8c2881298c36b5c67927ce820f8.png!w80" group-title="📁Giải hạng Hai Bồ Đào Nha📁",📁CD Tondela😈VS😈SC Farense📁|0d 8h 47m 29s|Sunday 15 November 2026 18:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/4640a8c2881298c36b5c67927ce820f8.png!w80" group-title="📁Giải hạng Hai Bồ Đào Nha📁",📁CD Tondela😈VS😈SC Farense📁|0d 9h 2m 15s|Sunday 15 November 2026 18:00:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/4640a8c2881298c36b5c67927ce820f8.png!w80" group-title="📁Giải hạng Hai Bồ Đào Nha📁",📁CD Tondela😈VS😈SC Farense📁|0d 8h 47m 29s|Sunday 15 November 2026 18:00:00 WIB(BLV BÍ ĐAO)
 https://live05.wecile.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2e757283541b53461c2dd9759c39eb85.png!w80" group-title="📁Giải bóng đá Serie C Italia📁",📁Calcio Giugliano😈VS😈Savoia📁|0d 9h 32m 15s|Sunday 15 November 2026 18:30:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2e757283541b53461c2dd9759c39eb85.png!w80" group-title="📁Giải bóng đá Serie C Italia📁",📁Calcio Giugliano😈VS😈Savoia📁|0d 9h 17m 29s|Sunday 15 November 2026 18:30:00 WIB(BLV C2)
 https://live05.wecile.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/bed3e0e7e7677fc51f43b2e6b33dd040.png!w80" group-title="📁Giải Bóng đá Quốc gia Nga📁",📁Ufa😈VS😈S. Kostroma📁|0d 9h 32m 15s|Sunday 15 November 2026 18:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/bed3e0e7e7677fc51f43b2e6b33dd040.png!w80" group-title="📁Giải Bóng đá Quốc gia Nga📁",📁Ufa😈VS😈S. Kostroma📁|0d 9h 17m 29s|Sunday 15 November 2026 18:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/bed3e0e7e7677fc51f43b2e6b33dd040.png!w80" group-title="📁Giải Bóng đá Quốc gia Nga📁",📁Ufa😈VS😈S. Kostroma📁|0d 9h 32m 15s|Sunday 15 November 2026 18:30:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/bed3e0e7e7677fc51f43b2e6b33dd040.png!w80" group-title="📁Giải Bóng đá Quốc gia Nga📁",📁Ufa😈VS😈S. Kostroma📁|0d 9h 17m 29s|Sunday 15 November 2026 18:30:00 WIB(BLV SODA)
 https://live05.wecile.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/62a588b49f69c8d9b12eb069506f4146.png!w80" group-title="📁Giải bóng đá Serie C Italia📁",📁Novara😈VS😈Lecco📁|0d 9h 32m 15s|Sunday 15 November 2026 18:30:00 WIB(BLV AQUA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/62a588b49f69c8d9b12eb069506f4146.png!w80" group-title="📁Giải bóng đá Serie C Italia📁",📁Novara😈VS😈Lecco📁|0d 9h 17m 29s|Sunday 15 November 2026 18:30:00 WIB(BLV AQUA)
 https://live05.wecile.app/live/18812304.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/da5a07224920e4856d3b14e7e1a86741.png!w80" group-title="📁Cúp liên đoàn UAE📁",📁Al Wahda😈VS😈Khor Fakkan📁|0d 10h 52m 15s|Sunday 15 November 2026 19:50:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/da5a07224920e4856d3b14e7e1a86741.png!w80" group-title="📁Cúp liên đoàn UAE📁",📁Al Wahda😈VS😈Khor Fakkan📁|0d 10h 37m 29s|Sunday 15 November 2026 19:50:00 WIB(BLV MOUNTAIN DEW)
 https://live05.wecile.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Pháp U20😈VS😈Đan Mạch U20📁|0d 11h 2m 15s|Sunday 15 November 2026 20:00:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Pháp U20😈VS😈Đan Mạch U20📁|0d 10h 47m 29s|Sunday 15 November 2026 20:00:00 WIB(BLV SPRITE)
 https://live05.wecile.app/live/75748097.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c816a7cc7ab1eb6dcce3fb4408acd320.png!w80" group-title="📁Giải bóng đá Hạng nhì Tây Ban Nha📁",📁CLB Tenerife😈VS😈Ceuta📁|0d 11h 2m 15s|Sunday 15 November 2026 20:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c816a7cc7ab1eb6dcce3fb4408acd320.png!w80" group-title="📁Giải bóng đá Hạng nhì Tây Ban Nha📁",📁CLB Tenerife😈VS😈Ceuta📁|0d 10h 47m 29s|Sunday 15 November 2026 20:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c816a7cc7ab1eb6dcce3fb4408acd320.png!w80" group-title="📁Giải bóng đá Hạng nhì Tây Ban Nha📁",📁CLB Tenerife😈VS😈Ceuta📁|0d 11h 2m 15s|Sunday 15 November 2026 20:00:00 WIB(BLV HỔ VẰN)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c816a7cc7ab1eb6dcce3fb4408acd320.png!w80" group-title="📁Giải bóng đá Hạng nhì Tây Ban Nha📁",📁CLB Tenerife😈VS😈Ceuta📁|0d 10h 47m 29s|Sunday 15 November 2026 20:00:00 WIB(BLV HỔ VẰN)
 https://live05.wecile.app/live/07428422.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Scotland U21😈VS😈USA U21📁|0d 11h 2m 15s|Sunday 15 November 2026 20:00:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Scotland U21😈VS😈USA U21📁|0d 10h 47m 29s|Sunday 15 November 2026 20:00:00 WIB(BLV 7UP)
 https://live05.wecile.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d8c05f02f3ad2bb52a4c539e3453a30a.png!w80" group-title="📁Giải bóng đá Serie C Italia📁",📁Spezia Calcio😈VS😈Vado📁|0d 11h 32m 15s|Sunday 15 November 2026 20:30:00 WIB(BLV WARRIOR)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d8c05f02f3ad2bb52a4c539e3453a30a.png!w80" group-title="📁Giải bóng đá Serie C Italia📁",📁Spezia Calcio😈VS😈Vado📁|0d 11h 17m 29s|Sunday 15 November 2026 20:30:00 WIB(BLV WARRIOR)
 https://live05.wecile.app/live/97885009.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/948e7850b0d6bd6224a99a647e24e29b.png!w80" group-title="📁Giải bóng đá Serie C Italia📁",📁U.S. Salernitana😈VS😈CLB Catania📁|0d 11h 32m 15s|Sunday 15 November 2026 20:30:00 WIB(BLV TEPPY)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/948e7850b0d6bd6224a99a647e24e29b.png!w80" group-title="📁Giải bóng đá Serie C Italia📁",📁U.S. Salernitana😈VS😈CLB Catania📁|0d 11h 17m 29s|Sunday 15 November 2026 20:30:00 WIB(BLV TEPPY)
 https://live05.wecile.app/live/33860426.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/478c25d465838f37af59cd190207e32a.png!w80" group-title="📁Giải bóng đá Serie C Italia📁",📁Potenza😈VS😈Scafatese📁|0d 11h 32m 15s|Sunday 15 November 2026 20:30:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/478c25d465838f37af59cd190207e32a.png!w80" group-title="📁Giải bóng đá Serie C Italia📁",📁Potenza😈VS😈Scafatese📁|0d 11h 17m 29s|Sunday 15 November 2026 20:30:00 WIB(BLV MONSTER)
 https://live05.wecile.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/baf8f393e021415710bdcd6d348d0848.png!w80" group-title="📁Giải hạng hai Hà Lan📁",📁Câu lạc bộ MVV Maastricht😈VS😈CLB Vitesse Arnhem📁|0d 11h 32m 15s|Sunday 15 November 2026 20:30:00 WIB(BLV TEPPY)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/baf8f393e021415710bdcd6d348d0848.png!w80" group-title="📁Giải hạng hai Hà Lan📁",📁Câu lạc bộ MVV Maastricht😈VS😈CLB Vitesse Arnhem📁|0d 11h 17m 29s|Sunday 15 November 2026 20:30:00 WIB(BLV TEPPY)
 https://live05.wecile.app/live/33860426.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Latvia😈VS😈CLB Armenia📁|0d 12h 2m 15s|Sunday 15 November 2026 21:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Latvia😈VS😈CLB Armenia📁|0d 11h 47m 29s|Sunday 15 November 2026 21:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Latvia😈VS😈CLB Armenia📁|0d 12h 2m 15s|Sunday 15 November 2026 21:00:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Latvia😈VS😈CLB Armenia📁|0d 11h 47m 29s|Sunday 15 November 2026 21:00:00 WIB(BLV C2)
 https://live05.wecile.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/77414d59a2d7001928f99ce10477dfb2.png!w80" group-title="📁Giải Bóng đá Quốc gia Nga📁",📁FK Sochi😈VS😈Shinnik Yaroslavl📁|0d 12h 2m 15s|Sunday 15 November 2026 21:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/77414d59a2d7001928f99ce10477dfb2.png!w80" group-title="📁Giải Bóng đá Quốc gia Nga📁",📁FK Sochi😈VS😈Shinnik Yaroslavl📁|0d 11h 47m 29s|Sunday 15 November 2026 21:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/77414d59a2d7001928f99ce10477dfb2.png!w80" group-title="📁Giải Bóng đá Quốc gia Nga📁",📁FK Sochi😈VS😈Shinnik Yaroslavl📁|0d 12h 2m 15s|Sunday 15 November 2026 21:00:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/77414d59a2d7001928f99ce10477dfb2.png!w80" group-title="📁Giải Bóng đá Quốc gia Nga📁",📁FK Sochi😈VS😈Shinnik Yaroslavl📁|0d 11h 47m 29s|Sunday 15 November 2026 21:00:00 WIB(BLV GIÀ LÀNG)
 https://live05.wecile.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Đảo Síp😈VS😈Montenegro📁|0d 12h 2m 15s|Sunday 15 November 2026 21:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Đảo Síp😈VS😈Montenegro📁|0d 11h 47m 29s|Sunday 15 November 2026 21:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Đảo Síp😈VS😈Montenegro📁|0d 12h 2m 15s|Sunday 15 November 2026 21:00:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Đảo Síp😈VS😈Montenegro📁|0d 11h 47m 29s|Sunday 15 November 2026 21:00:00 WIB(BLV REVIVE)
 https://live05.wecile.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9786e02491cd73bef33d48d5f1b2ad51.png!w80" group-title="📁Hạng Nhất nữ Anh📁",📁Aston Villa Nữ😈VS😈Birmingham Nữ📁|0d 12h 2m 15s|Sunday 15 November 2026 21:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9786e02491cd73bef33d48d5f1b2ad51.png!w80" group-title="📁Hạng Nhất nữ Anh📁",📁Aston Villa Nữ😈VS😈Birmingham Nữ📁|0d 11h 47m 29s|Sunday 15 November 2026 21:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9786e02491cd73bef33d48d5f1b2ad51.png!w80" group-title="📁Hạng Nhất nữ Anh📁",📁Aston Villa Nữ😈VS😈Birmingham Nữ📁|0d 12h 2m 15s|Sunday 15 November 2026 21:00:00 WIB(BLV SAMURAI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9786e02491cd73bef33d48d5f1b2ad51.png!w80" group-title="📁Hạng Nhất nữ Anh📁",📁Aston Villa Nữ😈VS😈Birmingham Nữ📁|0d 11h 47m 29s|Sunday 15 November 2026 21:00:00 WIB(BLV SAMURAI)
 https://live05.wecile.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f6fd9013a1e10442708bc6e9d09ee236.png!w80" group-title="📁Hạng Nhất nữ Anh📁",📁West Ham Nữ😈VS😈Charlton Nữ📁|0d 12h 2m 15s|Sunday 15 November 2026 21:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f6fd9013a1e10442708bc6e9d09ee236.png!w80" group-title="📁Hạng Nhất nữ Anh📁",📁West Ham Nữ😈VS😈Charlton Nữ📁|0d 11h 47m 29s|Sunday 15 November 2026 21:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f6fd9013a1e10442708bc6e9d09ee236.png!w80" group-title="📁Hạng Nhất nữ Anh📁",📁West Ham Nữ😈VS😈Charlton Nữ📁|0d 12h 2m 15s|Sunday 15 November 2026 21:00:00 WIB(BLV AQUA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f6fd9013a1e10442708bc6e9d09ee236.png!w80" group-title="📁Hạng Nhất nữ Anh📁",📁West Ham Nữ😈VS😈Charlton Nữ📁|0d 11h 47m 29s|Sunday 15 November 2026 21:00:00 WIB(BLV AQUA)
 https://live05.wecile.app/live/18812304.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/432c13e823ffcc46ee9255384e525629.png!w80" group-title="📁Giải Vô địch Quốc gia Georgia📁",📁FC Spaeri😈VS😈Saburtalo Tbilisi📁|0d 13h 2m 15s|Sunday 15 November 2026 22:00:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/432c13e823ffcc46ee9255384e525629.png!w80" group-title="📁Giải Vô địch Quốc gia Georgia📁",📁FC Spaeri😈VS😈Saburtalo Tbilisi📁|0d 12h 47m 29s|Sunday 15 November 2026 22:00:00 WIB(BLV SODA)
 https://live05.wecile.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/16acbe6ee7c10f8278fc3e55ca88abd9.webp!w80" group-title="📁Giải bóng đá Nữ Đức📁",📁Rb Leipzig Nữ😈VS😈Eintracht Frankfurt Nữ📁|0d 13h 2m 15s|Sunday 15 November 2026 22:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/16acbe6ee7c10f8278fc3e55ca88abd9.webp!w80" group-title="📁Giải bóng đá Nữ Đức📁",📁Rb Leipzig Nữ😈VS😈Eintracht Frankfurt Nữ📁|0d 12h 47m 29s|Sunday 15 November 2026 22:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/16acbe6ee7c10f8278fc3e55ca88abd9.webp!w80" group-title="📁Giải bóng đá Nữ Đức📁",📁Rb Leipzig Nữ😈VS😈Eintracht Frankfurt Nữ📁|0d 13h 2m 15s|Sunday 15 November 2026 22:00:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/16acbe6ee7c10f8278fc3e55ca88abd9.webp!w80" group-title="📁Giải bóng đá Nữ Đức📁",📁Rb Leipzig Nữ😈VS😈Eintracht Frankfurt Nữ📁|0d 12h 47m 29s|Sunday 15 November 2026 22:00:00 WIB(BLV SPRITE)
 https://live05.wecile.app/live/75748097.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f8ac17559f204d139563929dc7eeedeb.png!w80" group-title="📁Giải bóng đá Hạng nhì Tây Ban Nha📁",📁Câu lạc bộ bóng đá Granada😈VS😈CLB Las Palmas📁|0d 13h 17m 15s|Sunday 15 November 2026 22:15:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f8ac17559f204d139563929dc7eeedeb.png!w80" group-title="📁Giải bóng đá Hạng nhì Tây Ban Nha📁",📁Câu lạc bộ bóng đá Granada😈VS😈CLB Las Palmas📁|0d 13h 2m 29s|Sunday 15 November 2026 22:15:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f8ac17559f204d139563929dc7eeedeb.png!w80" group-title="📁Giải bóng đá Hạng nhì Tây Ban Nha📁",📁Câu lạc bộ bóng đá Granada😈VS😈CLB Las Palmas📁|0d 13h 17m 15s|Sunday 15 November 2026 22:15:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f8ac17559f204d139563929dc7eeedeb.png!w80" group-title="📁Giải bóng đá Hạng nhì Tây Ban Nha📁",📁Câu lạc bộ bóng đá Granada😈VS😈CLB Las Palmas📁|0d 13h 2m 29s|Sunday 15 November 2026 22:15:00 WIB(BLV 7UP)
 https://live05.wecile.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c009d759e6bbfbbf59f1fd87d06cfd4f.png!w80" group-title="📁Giải hạng Hai Bồ Đào Nha📁",📁Penafiel😈VS😈Lusitania FC📁|0d 13h 32m 15s|Sunday 15 November 2026 22:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c009d759e6bbfbbf59f1fd87d06cfd4f.png!w80" group-title="📁Giải hạng Hai Bồ Đào Nha📁",📁Penafiel😈VS😈Lusitania FC📁|0d 13h 17m 29s|Sunday 15 November 2026 22:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c009d759e6bbfbbf59f1fd87d06cfd4f.png!w80" group-title="📁Giải hạng Hai Bồ Đào Nha📁",📁Penafiel😈VS😈Lusitania FC📁|0d 13h 32m 15s|Sunday 15 November 2026 22:30:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c009d759e6bbfbbf59f1fd87d06cfd4f.png!w80" group-title="📁Giải hạng Hai Bồ Đào Nha📁",📁Penafiel😈VS😈Lusitania FC📁|0d 13h 17m 29s|Sunday 15 November 2026 22:30:00 WIB(BLV MOUNTAIN DEW)
 https://live05.wecile.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9352b8e0b9515b84abf716a32c42777e.png!w80" group-title="📁Cúp liên đoàn UAE📁",📁Al Jazira😈VS😈Bani Yas📁|0d 13h 32m 15s|Sunday 15 November 2026 22:30:00 WIB(BLV HỔ VẰN)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9352b8e0b9515b84abf716a32c42777e.png!w80" group-title="📁Cúp liên đoàn UAE📁",📁Al Jazira😈VS😈Bani Yas📁|0d 13h 17m 29s|Sunday 15 November 2026 22:30:00 WIB(BLV HỔ VẰN)
 https://live05.wecile.app/live/07428422.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2e8a02ec6526cb9c73b87acf8a06453b.png!w80" group-title="📁Cúp liên đoàn UAE📁",📁Ittihad Kalba😈VS😈CLB Al Ahli📁|0d 13h 32m 15s|Sunday 15 November 2026 22:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2e8a02ec6526cb9c73b87acf8a06453b.png!w80" group-title="📁Cúp liên đoàn UAE📁",📁Ittihad Kalba😈VS😈CLB Al Ahli📁|0d 13h 17m 29s|Sunday 15 November 2026 22:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2e8a02ec6526cb9c73b87acf8a06453b.png!w80" group-title="📁Cúp liên đoàn UAE📁",📁Ittihad Kalba😈VS😈CLB Al Ahli📁|0d 13h 32m 15s|Sunday 15 November 2026 22:30:00 WIB(BLV FANTA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2e8a02ec6526cb9c73b87acf8a06453b.png!w80" group-title="📁Cúp liên đoàn UAE📁",📁Ittihad Kalba😈VS😈CLB Al Ahli📁|0d 13h 17m 29s|Sunday 15 November 2026 22:30:00 WIB(BLV FANTA)
 https://live05.wecile.app/live/16226575.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6c8aae21b8b71867144be6e8b3413d0d.png!w80" group-title="📁Giải bóng đá Serie C Italia📁",📁Ravenna😈VS😈Forli📁|0d 14h 32m 15s|Sunday 15 November 2026 23:30:00 WIB(BLV SAMURAI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6c8aae21b8b71867144be6e8b3413d0d.png!w80" group-title="📁Giải bóng đá Serie C Italia📁",📁Ravenna😈VS😈Forli📁|0d 14h 17m 29s|Sunday 15 November 2026 23:30:00 WIB(BLV SAMURAI)
 https://live05.wecile.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/b61190e348449a746ef3f802e7ebc701.png!w80" group-title="📁Hạng Nhất nữ Anh📁",📁Arsenal Nữ😈VS😈London City Lionesses Nữ📁|0d 14h 32m 15s|Sunday 15 November 2026 23:30:00 WIB(BLV TEPPY)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/b61190e348449a746ef3f802e7ebc701.png!w80" group-title="📁Hạng Nhất nữ Anh📁",📁Arsenal Nữ😈VS😈London City Lionesses Nữ📁|0d 14h 17m 29s|Sunday 15 November 2026 23:30:00 WIB(BLV TEPPY)
 https://live05.wecile.app/live/33860426.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/886df3030ac69737be2e2a8d9a3a397b.png!w80" group-title="📁Giải bóng đá Serie C Italia📁",📁CLB Cittadella😈VS😈CLB US Folgore Caratese📁|0d 14h 32m 15s|Sunday 15 November 2026 23:30:00 WIB(BLV AQUA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/886df3030ac69737be2e2a8d9a3a397b.png!w80" group-title="📁Giải bóng đá Serie C Italia📁",📁CLB Cittadella😈VS😈CLB US Folgore Caratese📁|0d 14h 17m 29s|Sunday 15 November 2026 23:30:00 WIB(BLV AQUA)
 https://live05.wecile.app/live/18812304.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/3c0b84f6c8ee0d929021de10cbb8cc69.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁ĐTQG Phần Lan😈VS😈CLB San Marino📁|0d 15h 2m 15s|Monday 16 November 2026 00:00:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/3c0b84f6c8ee0d929021de10cbb8cc69.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁ĐTQG Phần Lan😈VS😈CLB San Marino📁|0d 14h 47m 29s|Monday 16 November 2026 00:00:00 WIB(BLV GIÀ LÀNG)
 https://live05.wecile.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/447d5c2ba3e790ec434c0bee994095ed.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Belarus😈VS😈Đội tuyển QG Albania 📁|0d 15h 2m 15s|Monday 16 November 2026 00:00:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/447d5c2ba3e790ec434c0bee994095ed.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Belarus😈VS😈Đội tuyển QG Albania 📁|0d 14h 47m 29s|Monday 16 November 2026 00:00:00 WIB(BLV MONSTER)
 https://live05.wecile.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/230be7f4f23de1cb08877a72cd08f619.png!w80" group-title="📁Giải bóng đá Hạng nhì Tây Ban Nha📁",📁CLB Eibar😈VS😈Cadiz CF📁|0d 15h 32m 15s|Monday 16 November 2026 00:30:00 WIB(BLV WARRIOR)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/230be7f4f23de1cb08877a72cd08f619.png!w80" group-title="📁Giải bóng đá Hạng nhì Tây Ban Nha📁",📁CLB Eibar😈VS😈Cadiz CF📁|0d 15h 17m 29s|Monday 16 November 2026 00:30:00 WIB(BLV WARRIOR)
 https://live05.wecile.app/live/97885009.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1d6e461df015562ab49d5b6af780d256.png!w80" group-title="📁Giải bóng đá Hạng nhì Tây Ban Nha📁",📁Eldense😈VS😈CLB Sabadell📁|0d 15h 32m 15s|Monday 16 November 2026 00:30:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1d6e461df015562ab49d5b6af780d256.png!w80" group-title="📁Giải bóng đá Hạng nhì Tây Ban Nha📁",📁Eldense😈VS😈CLB Sabadell📁|0d 15h 17m 29s|Monday 16 November 2026 00:30:00 WIB(BLV 7UP)
 https://live05.wecile.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/28da4be2e01d4db90e8fce3769d9ccb9.png!w80" group-title="📁Giải hạng Hai Bồ Đào Nha📁",📁Leixoes S.C.😈VS😈Chaves📁|0d 16h 2m 15s|Monday 16 November 2026 01:00:00 WIB(BLV RỒNG ĐỎ)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/28da4be2e01d4db90e8fce3769d9ccb9.png!w80" group-title="📁Giải hạng Hai Bồ Đào Nha📁",📁Leixoes S.C.😈VS😈Chaves📁|0d 15h 47m 29s|Monday 16 November 2026 01:00:00 WIB(BLV RỒNG ĐỎ)
 https://live05.wecile.app/live/88508431.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2e71fd2a456cd182d3583c1189bc5569.png!w80" group-title="📁Giải Vô Địch Quốc Gia Peru📁",📁Comerciantes Unidos😈VS😈Sport Boys📁|0d 16h 2m 15s|Monday 16 November 2026 01:00:00 WIB(BLV STING)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2e71fd2a456cd182d3583c1189bc5569.png!w80" group-title="📁Giải Vô Địch Quốc Gia Peru📁",📁Comerciantes Unidos😈VS😈Sport Boys📁|0d 15h 47m 29s|Monday 16 November 2026 01:00:00 WIB(BLV STING)
 https://live05.wecile.app/live/14707124.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f772b20418c5809e65bf731740e235e4.png!w80" group-title="📁Giải bóng đá Hạng nhì Argentina📁",📁Deportivo Moron😈VS😈Colegiales📁|0d 16h 2m 15s|Monday 16 November 2026 01:00:00 WIB(BLV FANTA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f772b20418c5809e65bf731740e235e4.png!w80" group-title="📁Giải bóng đá Hạng nhì Argentina📁",📁Deportivo Moron😈VS😈Colegiales📁|0d 15h 47m 29s|Monday 16 November 2026 01:00:00 WIB(BLV FANTA)
 https://live05.wecile.app/live/16226575.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Philadelphia 76ers😈VS😈Indiana Pacers📁|0d 16h 2m 15s|Monday 16 November 2026 01:00:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Philadelphia 76ers😈VS😈Indiana Pacers📁|0d 15h 47m 29s|Monday 16 November 2026 01:00:00 WIB(BLV Cozy)
 https://live05.wecile.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/eb8a697bd6aece4f1b4162bfc47d2595.png!w80" group-title="📁Giải hạng hai Mexico📁",📁CLB Leones Univ Guadalajara😈VS😈Atl. Morelia📁|0d 16h 2m 15s|Monday 16 November 2026 01:00:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/eb8a697bd6aece4f1b4162bfc47d2595.png!w80" group-title="📁Giải hạng hai Mexico📁",📁CLB Leones Univ Guadalajara😈VS😈Atl. Morelia📁|0d 15h 47m 29s|Monday 16 November 2026 01:00:00 WIB(BLV MOUNTAIN DEW)
 https://live05.wecile.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/160c9f3f589e2fb4578e984d2e692d18.png!w80" group-title="📁Giải vô địch quốc gia Uruguay📁",📁Danubio FC😈VS😈Liverpool M📁|0d 17h 32m 15s|Monday 16 November 2026 02:30:00 WIB(BLV SAMURAI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/160c9f3f589e2fb4578e984d2e692d18.png!w80" group-title="📁Giải vô địch quốc gia Uruguay📁",📁Danubio FC😈VS😈Liverpool M📁|0d 17h 17m 29s|Monday 16 November 2026 02:30:00 WIB(BLV SAMURAI)
 https://live05.wecile.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Tây Ban Nha😈VS😈ĐTQG Anh📁|0d 17h 47m 15s|Monday 16 November 2026 02:45:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Tây Ban Nha😈VS😈ĐTQG Anh📁|0d 17h 32m 29s|Monday 16 November 2026 02:45:00 WIB(BLV C2)
 https://live05.wecile.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Tây Ban Nha😈VS😈ĐTQG Anh📁|0d 17h 47m 15s|Monday 16 November 2026 02:45:00 WIB(BLV HỔ VẰN)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Tây Ban Nha😈VS😈ĐTQG Anh📁|0d 17h 32m 29s|Monday 16 November 2026 02:45:00 WIB(BLV HỔ VẰN)
 https://live05.wecile.app/live/07428422.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Tây Ban Nha😈VS😈ĐTQG Anh📁|0d 17h 47m 15s|Monday 16 November 2026 02:45:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Tây Ban Nha😈VS😈ĐTQG Anh📁|0d 17h 32m 29s|Monday 16 November 2026 02:45:00 WIB(BLV GIÀ LÀNG)
 https://live05.wecile.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Pháp😈VS😈Thổ nhĩ kỳ📁|0d 17h 47m 15s|Monday 16 November 2026 02:45:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Pháp😈VS😈Thổ nhĩ kỳ📁|0d 17h 32m 29s|Monday 16 November 2026 02:45:00 WIB(BLV REVIVE)
 https://live05.wecile.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Pháp😈VS😈Thổ nhĩ kỳ📁|0d 17h 47m 15s|Monday 16 November 2026 02:45:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Pháp😈VS😈Thổ nhĩ kỳ📁|0d 17h 32m 29s|Monday 16 November 2026 02:45:00 WIB(BLV SPRITE)
 https://live05.wecile.app/live/75748097.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Croatia😈VS😈Cộng hòa Séc📁|0d 17h 47m 15s|Monday 16 November 2026 02:45:00 WIB(BLV TEPPY)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Croatia😈VS😈Cộng hòa Séc📁|0d 17h 32m 29s|Monday 16 November 2026 02:45:00 WIB(BLV TEPPY)
 https://live05.wecile.app/live/33860426.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f28132d473716d2532150ebf48688925.png!w80" group-title="📁Giải bóng đá Hạng nhì Colombia📁",📁Yumbo FC😈VS😈CLB Envigado📁|0d 19h 2m 15s|Monday 16 November 2026 04:00:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f28132d473716d2532150ebf48688925.png!w80" group-title="📁Giải bóng đá Hạng nhì Colombia📁",📁Yumbo FC😈VS😈CLB Envigado📁|0d 18h 47m 29s|Monday 16 November 2026 04:00:00 WIB(BLV BÍ ĐAO)
 https://live05.wecile.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Phoenix suns😈VS😈Los Angeles Lakers📁|0d 19h 2m 15s|Monday 16 November 2026 04:00:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Phoenix suns😈VS😈Los Angeles Lakers📁|0d 18h 47m 29s|Monday 16 November 2026 04:00:00 WIB(BLV POCARI)
 https://live05.wecile.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Utah Jazz😈VS😈San Antonio Spurs📁|0d 20h 2m 15s|Monday 16 November 2026 05:00:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Utah Jazz😈VS😈San Antonio Spurs📁|0d 19h 47m 29s|Monday 16 November 2026 05:00:00 WIB(BLV ROCKSTAR)
 https://live05.wecile.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Đội bóng rổ Boston Celtics😈VS😈Dallas Mavericks📁|0d 21h 2m 15s|Monday 16 November 2026 06:00:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Đội bóng rổ Boston Celtics😈VS😈Dallas Mavericks📁|0d 20h 47m 29s|Monday 16 November 2026 06:00:00 WIB(BLV 247)
 https://live05.wecile.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Toronto Raptors😈VS😈New York Knicks📁|0d 21h 2m 15s|Monday 16 November 2026 06:00:00 WIB(BLV LIPTON)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Toronto Raptors😈VS😈New York Knicks📁|0d 20h 47m 29s|Monday 16 November 2026 06:00:00 WIB(BLV LIPTON)
 https://live05.wecile.app/live/89756030.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/b2ef45e609ac233aa3f9bc6dcac5ca64.png!w80" group-title="📁Giải vô địch quốc gia Uruguay📁",📁Defensor Sp😈VS😈CA Penarol📁|0d 21h 2m 15s|Monday 16 November 2026 06:00:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/b2ef45e609ac233aa3f9bc6dcac5ca64.png!w80" group-title="📁Giải vô địch quốc gia Uruguay📁",📁Defensor Sp😈VS😈CA Penarol📁|0d 20h 47m 29s|Monday 16 November 2026 06:00:00 WIB(BLV REDBULL)
 https://live05.wecile.app/live/49572724.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80" group-title="📁Liên minh bóng đá quốc gia châu Mỹ📁",📁Panama😈VS😈Curacao📁|0d 21h 2m 15s|Monday 16 November 2026 06:00:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80" group-title="📁Liên minh bóng đá quốc gia châu Mỹ📁",📁Panama😈VS😈Curacao📁|0d 20h 47m 29s|Monday 16 November 2026 06:00:00 WIB(BLV PEPSI)
 https://live05.wecile.app/live/59444581.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/bced686ea9d08190520be6eaaa6edf0b.png!w80" group-title="📁Giải bóng đá Hạng nhì Hoa Kỳ📁",📁New Mexico United😈VS😈Sacramento Republic📁|0d 22h 2m 15s|Monday 16 November 2026 07:00:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/bced686ea9d08190520be6eaaa6edf0b.png!w80" group-title="📁Giải bóng đá Hạng nhì Hoa Kỳ📁",📁New Mexico United😈VS😈Sacramento Republic📁|0d 21h 47m 29s|Monday 16 November 2026 07:00:00 WIB(BLV BÍ ĐAO)
 https://live05.wecile.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Washington Wizards😈VS😈Houston Rockets📁|0d 22h 2m 15s|Monday 16 November 2026 07:00:00 WIB(BLV TARZAAN)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Washington Wizards😈VS😈Houston Rockets📁|0d 21h 47m 29s|Monday 16 November 2026 07:00:00 WIB(BLV TARZAAN)
 https://live05.wecile.app/live/56998120.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Milwaukee Bucks😈VS😈Atlanta Hawks📁|0d 23h 2m 15s|Monday 16 November 2026 08:00:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Milwaukee Bucks😈VS😈Atlanta Hawks📁|0d 22h 47m 29s|Monday 16 November 2026 08:00:00 WIB(BLV POCARI)
 https://live05.wecile.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c32ddb0be3a23ceca9a2ccfb599438eb.png!w80" group-title="📁Giải bóng đá nữ cao cấp Mexico📁",📁Monterrey Nữ😈VS😈Pachuca Nữ📁|0d 23h 2m 15s|Monday 16 November 2026 08:00:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c32ddb0be3a23ceca9a2ccfb599438eb.png!w80" group-title="📁Giải bóng đá nữ cao cấp Mexico📁",📁Monterrey Nữ😈VS😈Pachuca Nữ📁|0d 22h 47m 29s|Monday 16 November 2026 08:00:00 WIB(BLV PEPSI)
 https://live05.wecile.app/live/59444581.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Sacramento Kings😈VS😈Oklahoma City Thunder📁|1d 0h 2m 15s|Monday 16 November 2026 09:00:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Sacramento Kings😈VS😈Oklahoma City Thunder📁|0d 23h 47m 29s|Monday 16 November 2026 09:00:00 WIB(BLV ROCKSTAR)
 https://live05.wecile.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/680f427a2bc69ae676240a60d8aa2bdb.png!w80" group-title="📁Giải bóng đá nữ cao cấp Mexico📁",📁Toluca Nữ😈VS😈Club America Nữ📁|1d 1h 12m 15s|Monday 16 November 2026 10:10:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/680f427a2bc69ae676240a60d8aa2bdb.png!w80" group-title="📁Giải bóng đá nữ cao cấp Mexico📁",📁Toluca Nữ😈VS😈Club America Nữ📁|1d 0h 57m 29s|Monday 16 November 2026 10:10:00 WIB(BLV REDBULL)
 https://live05.wecile.app/live/49572724.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80" group-title="📁Giải bóng rổ nam Hàn Quốc📁",📁Seoul Knights😈VS😈Mobis Phoebus📁|1d 8h 2m 15s|Monday 16 November 2026 17:00:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80" group-title="📁Giải bóng rổ nam Hàn Quốc📁",📁Seoul Knights😈VS😈Mobis Phoebus📁|1d 7h 47m 29s|Monday 16 November 2026 17:00:00 WIB(BLV Cozy)
 https://live05.wecile.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/3afdfda57ca6ef4d3d875f098902f58f.png!w80" group-title="📁Giải bóng rổ nữ Trung Quốc📁",📁Shanxi Xing Rui Nữ😈VS😈Hefei Culture and Tourism Women's📁|1d 9h 32m 15s|Monday 16 November 2026 18:30:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/3afdfda57ca6ef4d3d875f098902f58f.png!w80" group-title="📁Giải bóng rổ nữ Trung Quốc📁",📁Shanxi Xing Rui Nữ😈VS😈Hefei Culture and Tourism Women's📁|1d 9h 17m 29s|Monday 16 November 2026 18:30:00 WIB(BLV 247)
 https://live05.wecile.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/83f08380c7ca9df5cf05fe86f423ca34.png!w80" group-title="📁Giải hạng nhất quốc gia Serbia📁",📁Bor 1919😈VS😈Semendria 1924📁|1d 10h 2m 15s|Monday 16 November 2026 19:00:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/83f08380c7ca9df5cf05fe86f423ca34.png!w80" group-title="📁Giải hạng nhất quốc gia Serbia📁",📁Bor 1919😈VS😈Semendria 1924📁|1d 9h 47m 29s|Monday 16 November 2026 19:00:00 WIB(BLV 7UP)
 https://live05.wecile.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/cbb6ad45aa0de955fe139e57eb64cc7e.png!w80" group-title="📁Giải hạng nhất quốc gia Serbia📁",📁Graficar Beograd😈VS😈Câu lạc bộ bóng đá Vozdovac📁|1d 10h 2m 15s|Monday 16 November 2026 19:00:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/cbb6ad45aa0de955fe139e57eb64cc7e.png!w80" group-title="📁Giải hạng nhất quốc gia Serbia📁",📁Graficar Beograd😈VS😈Câu lạc bộ bóng đá Vozdovac📁|1d 9h 47m 29s|Monday 16 November 2026 19:00:00 WIB(BLV MONSTER)
 https://live05.wecile.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/85040c47172a95869f1a82c180ae7701.png!w80" group-title="📁Cúp Quốc gia Châu Phi📁",📁Zimbabwe😈VS😈Guinea Xích đạo📁|1d 11h 2m 15s|Monday 16 November 2026 20:00:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/85040c47172a95869f1a82c180ae7701.png!w80" group-title="📁Cúp Quốc gia Châu Phi📁",📁Zimbabwe😈VS😈Guinea Xích đạo📁|1d 10h 47m 29s|Monday 16 November 2026 20:00:00 WIB(BLV MOUNTAIN DEW)
 https://live05.wecile.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a23156abfd4a114c35b930b836064e8b.png!w80" group-title="📁Cúp Quốc gia Châu Phi📁",📁Sudan😈VS😈Senegal📁|1d 11h 2m 15s|Monday 16 November 2026 20:00:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a23156abfd4a114c35b930b836064e8b.png!w80" group-title="📁Cúp Quốc gia Châu Phi📁",📁Sudan😈VS😈Senegal📁|1d 10h 47m 29s|Monday 16 November 2026 20:00:00 WIB(BLV REVIVE)
 https://live05.wecile.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80" group-title="📁Giải bóng đá CAF U17📁",📁Tunisia U17😈VS😈Ma Rốc U17📁|1d 11h 2m 15s|Monday 16 November 2026 20:00:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80" group-title="📁Giải bóng đá CAF U17📁",📁Tunisia U17😈VS😈Ma Rốc U17📁|1d 10h 47m 29s|Monday 16 November 2026 20:00:00 WIB(BLV SODA)
 https://live05.wecile.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c0f3a9cc8c0672341632498cdfb3fff9.png!w80" group-title="📁Giải bóng đá CAF U17📁",📁Algeria U17😈VS😈Ai Cập U17📁|1d 11h 2m 15s|Monday 16 November 2026 20:00:00 WIB(BLV AQUA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c0f3a9cc8c0672341632498cdfb3fff9.png!w80" group-title="📁Giải bóng đá CAF U17📁",📁Algeria U17😈VS😈Ai Cập U17📁|1d 10h 47m 29s|Monday 16 November 2026 20:00:00 WIB(BLV AQUA)
 https://live05.wecile.app/live/18812304.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/247c0a953f3a082b83443b3dfccedffb.png!w80" group-title="📁Cúp Quốc gia Châu Phi📁",📁Namibia😈VS😈Cameroon📁|1d 11h 2m 15s|Monday 16 November 2026 20:00:00 WIB(BLV HỔ VẰN)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/247c0a953f3a082b83443b3dfccedffb.png!w80" group-title="📁Cúp Quốc gia Châu Phi📁",📁Namibia😈VS😈Cameroon📁|1d 10h 47m 29s|Monday 16 November 2026 20:00:00 WIB(BLV HỔ VẰN)
 https://live05.wecile.app/live/07428422.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" group-title="📁Elite League U20📁",📁Ý U20😈VS😈Thụy Sĩ U20📁|1d 12h 2m 15s|Monday 16 November 2026 21:00:00 WIB(BLV RỒNG ĐỎ)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" group-title="📁Elite League U20📁",📁Ý U20😈VS😈Thụy Sĩ U20📁|1d 11h 47m 29s|Monday 16 November 2026 21:00:00 WIB(BLV RỒNG ĐỎ)
 https://live05.wecile.app/live/88508431.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80" group-title="📁Elite League U20📁",📁Cộng hòa Séc U20😈VS😈Đức U20📁|1d 12h 2m 15s|Monday 16 November 2026 21:00:00 WIB(BLV STING)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80" group-title="📁Elite League U20📁",📁Cộng hòa Séc U20😈VS😈Đức U20📁|1d 11h 47m 29s|Monday 16 November 2026 21:00:00 WIB(BLV STING)
 https://live05.wecile.app/live/14707124.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/27ab2e099af3df31bb3a67cece587ffe.png!w80" group-title="📁Cúp Quốc gia Châu Phi📁",📁Somalia😈VS😈Ghana📁|1d 13h 2m 15s|Monday 16 November 2026 22:00:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/27ab2e099af3df31bb3a67cece587ffe.png!w80" group-title="📁Cúp Quốc gia Châu Phi📁",📁Somalia😈VS😈Ghana📁|1d 12h 47m 29s|Monday 16 November 2026 22:00:00 WIB(BLV 7UP)
 https://live05.wecile.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/4e7a14d03963d6f7728504ab7567b22d.png!w80" group-title="📁Giải bóng đá U23 Bồ Đào Nha📁",📁Felgueiras U23😈VS😈Leixoes U23📁|1d 13h 2m 15s|Monday 16 November 2026 22:00:00 WIB(BLV SAMURAI)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/4e7a14d03963d6f7728504ab7567b22d.png!w80" group-title="📁Giải bóng đá U23 Bồ Đào Nha📁",📁Felgueiras U23😈VS😈Leixoes U23📁|1d 12h 47m 29s|Monday 16 November 2026 22:00:00 WIB(BLV SAMURAI)
 https://live05.wecile.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/90c34175923a36ab7a5de4b981c1972f.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Quần đảo Faroe😈VS😈ĐTQG Moldova📁|1d 13h 2m 15s|Monday 16 November 2026 22:00:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/90c34175923a36ab7a5de4b981c1972f.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁Quần đảo Faroe😈VS😈ĐTQG Moldova📁|1d 12h 47m 29s|Monday 16 November 2026 22:00:00 WIB(BLV SPRITE)
 https://live05.wecile.app/live/75748097.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁ĐTQG Kazakhstan😈VS😈Đội tuyển Quốc gia Slovakia📁|1d 13h 2m 15s|Monday 16 November 2026 22:00:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80" group-title="📁Giải vô địch bóng đá các quốc gia châu Âu📁",📁ĐTQG Kazakhstan😈VS😈Đội tuyển Quốc gia Slovakia📁|1d 12h 47m 29s|Monday 16 November 2026 22:00:00 WIB(BLV C2)
 https://live05.wecile.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c8c1fad8f7b657fa96c4e5da96ada7c2.png!w80" group-title="📁Cúp Quốc gia Châu Phi📁",📁Eritrea😈VS😈Guinea📁|1d 14h 2m 15s|Monday 16 November 2026 23:00:00 WIB(BLV WARRIOR)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c8c1fad8f7b657fa96c4e5da96ada7c2.png!w80" group-title="📁Cúp Quốc gia Châu Phi📁",📁Eritrea😈VS😈Guinea📁|1d 13h 47m 29s|Monday 16 November 2026 23:00:00 WIB(BLV WARRIOR)
 https://live05.wecile.app/live/97885009.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7421513831e839a215c3bea5f9333d0a.png!w80" group-title="📁Elite League U20📁",📁Bồ Đào Nha U20😈VS😈Anh U20📁|1d 14h 2m 15s|Monday 16 November 2026 23:00:00 WIB(BLV FANTA)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7421513831e839a215c3bea5f9333d0a.png!w80" group-title="📁Elite League U20📁",📁Bồ Đào Nha U20😈VS😈Anh U20📁|1d 13h 47m 29s|Monday 16 November 2026 23:00:00 WIB(BLV FANTA)
 https://live05.wecile.app/live/16226575.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/24b9e0931d66349fbfb639e2d60de183.png!w80" group-title="📁Cúp Quốc gia Châu Phi📁",📁Trung Phi😈VS😈Benin📁|1d 14h 2m 15s|Monday 16 November 2026 23:00:00 WIB(BLV TEPPY)
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/24b9e0931d66349fbfb639e2d60de183.png!w80" group-title="📁Cúp Quốc gia Châu Phi📁",📁Trung Phi😈VS😈Benin📁|1d 13h 47m 29s|Monday 16 November 2026 23:00:00 WIB(BLV TEPPY)
 https://live05.wecile.app/live/33860426.m3u8
