@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:0,tvg-name="Cyprus vs Montenegro - UEFA Nations League [FT] (1-4) 21:00 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/89b97e57cbdac50cad2c04e17463e267.crdownload" group-title="live camelia vip [tes]",Cyprus vs Montenegro - UEFA Nations League [FT] (1-4) 21:00 WIB 15-11-2026
+#EXTINF:0,tvg-name="Spaeri FC vs FC Iberia 1999 Tbilisi - Georgia Erovnuli Liga [FT] (1-1) 22:00 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/432c13e823ffcc46ee9255384e525629.png" group-title="live camelia vip [tes]",Spaeri FC vs FC Iberia 1999 Tbilisi - Georgia Erovnuli Liga [FT] (1-1) 22:00 WIB 15-11-2026
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/27551_12568347_x7lm7phjxylzm2w.m3u8?txSecret=610adf655ac30afe738089d631c06bd8&txTime=6AF9D6D3&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/sd-6MvYrBoYyPVwCh7mrf.m3u8?txSecret=b309435d7112523b48b29436a343ee40&txTime=6AF9DA72&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Granada CF vs UD Las Palmas - Spanish Segunda Division [UPC] (0-0) 22:15 WIB 15-11-2026" tvg-logo="https://img.thesports.com/football/team/f8ac17559f204d139563929dc7eeedeb.png" group-title="live camelia vip [tes]",Granada CF vs UD Las Palmas - Spanish Segunda Division [UPC] (0-0) 22:15 WIB 15-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MweaARkPXeA9NEDeP.m3u8?txSecret=53ec550cceda7b1ef783a2549afb5b4f&txTime=6AF9DA72&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
