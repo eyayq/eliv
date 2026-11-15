@@ -54,12 +54,11 @@ https://exsample.d-n-s.name/playlist.mpd?slug=363-tvone
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://exsample.d-n-s.name/playlist.mpd?slug=215-sctv
 
-#EXTINF:0 tvg-name="Indosiar" tvg-id="808" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/1aac6c51-ebad-4c50-af70-13bf371bed25.png" group-title="tv nasional prem",Indosiar [vip tes]
+#EXTINF:0 tvg-name="Indosiar" tvg-id="808" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2b5324cd-4e2b-4bf3-9d83-eba44af6dd0f.png" group-title="tv nasional prem",Indosiar [vip tes]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://www.cubmu.com
 #EXTVLCOPT:http-referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://exsample.d-n-s.name/playlist.mpd?slug=216-indosiar
 
 #EXTINF:0 tvg-name="RCTI" tvg-id="809" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/15c10f90-4304-4410-a418-67891b5c185d.png" group-title="tv nasional prem",RCTI [vip tes]
@@ -628,15 +627,7 @@ https://exsample.d-n-s.name/playlist.mpd?slug=256-fight-tv-premium
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://exsample.d-n-s.name/playlist.mpd?slug=257-psj-tv
 
-#EXTINF:0 tvg-name="Route du Rhum" tvg-id="917" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/541b70a8-5228-4cfe-947e-ac3cf04af46e.jpg" group-title="tv nasional prem",Route du Rhum [vip tes]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.cubmu.com
-#EXTVLCOPT:http-referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://exsample.d-n-s.name/playlist.mpd?slug=826-route-du-rhum
-
-#EXTINF:0 tvg-name="Liga Sentra ID" tvg-id="918" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/67bc4613-a408-4e2b-8a57-628865ac12b1.jpg" group-title="tv nasional prem",Liga Sentra ID [vip tes]
+#EXTINF:0 tvg-name="Liga Sentra ID" tvg-id="918" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5439bd03-9d1a-4927-9600-6b1b89755efb.jpg" group-title="tv nasional prem",Liga Sentra ID [vip tes]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://www.cubmu.com
 #EXTVLCOPT:http-referer=https://www.cubmu.com/
