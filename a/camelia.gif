@@ -1,18 +1,24 @@
 #EXTM3U
-#EXTINF:0,tvg-name="France vs Turkiye - UEFA Nations League [NS] (0-0) 02:45 WIB 16-11-2026" tvg-logo="https://img.thesports.com/football/team/17883efbf965291049b600c87db36057.png" group-title="live camelia vip [tes]",France vs Turkiye - UEFA Nations League [NS] (0-0) 02:45 WIB 16-11-2026
-#EXTVLCOPT:http-origin=https://www.camel1.tv
-#EXTVLCOPT:http-referrer=https://www.camel1.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/27551_12385003_y0or5jh89yv8qwz.m3u8?txSecret=44314e28df2c7bac586dd9f050c84db7&txTime=6AFA0807&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
-
 #EXTINF:0,tvg-name="Spain vs England - UEFA Nations League [NS] (0-0) 02:45 WIB 16-11-2026" tvg-logo="https://img.thesports.com/football/team/73a264533a29450db1077e2ff2fd271a.png" group-title="live camelia vip [tes]",Spain vs England - UEFA Nations League [NS] (0-0) 02:45 WIB 16-11-2026
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/27551_12385001_zp5rzghg3vndq82.m3u8?txSecret=f273c937863992162f21c7fcd59c00fd&txTime=6AFA0807&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/27551_12385001_zp5rzghg3vndq82_md.m3u8?txSecret=701556f8a0cebd742b56f0c3b86c76fd&txTime=6AFA0B86&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
 
 #EXTINF:0,tvg-name="Croatia vs Czechia - UEFA Nations League [NS] (0-0) 02:45 WIB 16-11-2026" tvg-logo="https://img.thesports.com/football/team/29af77da9c86e3580fff75f75f0798fc.png" group-title="live camelia vip [tes]",Croatia vs Czechia - UEFA Nations League [NS] (0-0) 02:45 WIB 16-11-2026
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/27551_12385000_23xmvkh6y1e2qg8.m3u8?txSecret=87195b685376d307b41291eee7b15e37&txTime=6AFA0807&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/27551_12385000_23xmvkh6y1e2qg8.m3u8?txSecret=261654df45dc8e41b51c47b77ef31372&txTime=6AFA0B86&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Belgium vs Italy - UEFA Nations League [NS] (0-0) 02:45 WIB 16-11-2026" tvg-logo="https://img.thesports.com/football/team/f40763e705743d293364c0056abbc341.png" group-title="live camelia vip [tes]",Belgium vs Italy - UEFA Nations League [NS] (0-0) 02:45 WIB 16-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/27551_12385002_n54qllhn4gl4qvy.m3u8?txSecret=cadd7c5f4972b3794ba754491553e0d2&txTime=6AFA0B86&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="France vs Turkiye - UEFA Nations League [NS] (0-0) 02:45 WIB 16-11-2026" tvg-logo="https://img.thesports.com/football/team/17883efbf965291049b600c87db36057.png" group-title="live camelia vip [tes]",France vs Turkiye - UEFA Nations League [NS] (0-0) 02:45 WIB 16-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/27551_12385003_y0or5jh89yv8qwz.m3u8?txSecret=cafa121b2e81207c460b5a0281479359&txTime=6AFA0B86&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
