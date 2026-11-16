@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜",TIKTOK LIVE alejandrasosa913
-https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-1561598014765137989_hd/index.m3u8?expire=1795997736&sign=eedc2f9af32519c660d0b26fe23f511d
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜",TIKTOK LIVE nosoydenadie9317
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-2138058819064823851_hd/index.m3u8?expire=1795997740&sign=49a55934e95481982ed06f2da54e49bf
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜",TIKTOK LIVE satenghazaryan
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-2138058015013601323_hd/index.m3u8?expire=1795997745&sign=6292e5cbfc3955ea657254030bc19f4c
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜",TIKTOK LIVE tylilovzu
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273366734059603265_hd/index.m3u8?expire=1795998560&sign=cb61d37684da54fe03fe637925fabb20
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜",TIKTOK LIVE royal_blood_szabix
+https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273367609220793665_hd/index.m3u8?expire=1795998564&sign=43ce72a976d9b170355886eaba9822a2
