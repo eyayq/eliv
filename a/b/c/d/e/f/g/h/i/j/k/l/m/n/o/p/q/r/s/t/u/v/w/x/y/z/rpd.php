@@ -1,90 +1,150 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [19.02 WIB 17/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [19.20 WIB 17/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nagasaki-dcccf6.webp" group-title="[LIVE 17:05 WIB 17/11/26] Nagasaki vs SeaHorses Mikawa | Server 1",[LIVE 17:05 WIB 17/11/26] Nagasaki vs SeaHorses Mikawa | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1794920228-0-0-b18379dee87d31d42ba9c76558def5fc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nagasaki-dcccf6.webp" group-title="[LIVE 17:05 WIB 17/11/26] Nagasaki vs SeaHorses Mikawa | Server 2",[LIVE 17:05 WIB 17/11/26] Nagasaki vs SeaHorses Mikawa | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794920228-0-0-0a969ab46fe52ebdecbfb12996a42ad2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nagasaki-dcccf6.webp" group-title="[LIVE 17:05 WIB 17/11/26] Nagasaki vs SeaHorses Mikawa | Server 3",[LIVE 17:05 WIB 17/11/26] Nagasaki vs SeaHorses Mikawa | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794920228-0-0-e038ef8840182a1a2d05e00b1d110bdf
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nagasaki-dcccf6.webp" group-title="[LIVE 17:05 WIB 17/11/26] Nagasaki vs SeaHorses Mikawa | Server 4",[LIVE 17:05 WIB 17/11/26] Nagasaki vs SeaHorses Mikawa | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794920228-0-0-9d847aef060c3db09f41a1408bf7039e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/serbia-u17-e9150f.png" group-title="[LIVE 17:30 WIB 17/11/26] Serbia U17 vs Portugal U17 | Server 1",[LIVE 17:30 WIB 17/11/26] Serbia U17 vs Portugal U17 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6adb7d94008ae97ac22b3723.m3u8?auth_key=1794939482-0-0-21a6b0ec3997f075f6dd03989666fcad
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-u19-324116.png" group-title="[LIVE 17:30 WIB 17/11/26] Poland U19 vs Luxembourg U19 | Server 1",[LIVE 17:30 WIB 17/11/26] Poland U19 vs Luxembourg U19 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aefb48cd83fdbd7c325e7ff.m3u8?auth_key=1794938222-0-0-bd7f2156294497b58d8a06432e7c7e72
+https://pull.fmp.live/sla/1-6aefb48cd83fdbd7c325e7ff.m3u8?auth_key=1794939482-0-0-d6b3a9f05af2dd4375e8b7c7e35c92b6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rebels-fc-1c1fb3.png" group-title="[LIVE 17:30 WIB 17/11/26] Rebels FC vs Parikrma FC | Server 1",[LIVE 17:30 WIB 17/11/26] Rebels FC vs Parikrma FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6af37ecf7cb66c539a95c558.m3u8?auth_key=1794938222-0-0-57911b3d2663aeac02309653e1ddda90
+https://pull.fmp.live/sla/1-6af37ecf7cb66c539a95c558.m3u8?auth_key=1794939482-0-0-1afbe75a893c91604717da7b373dfb1d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rebels-fc-1c1fb3.png" group-title="[LIVE 17:30 WIB 17/11/26] Rebels FC vs Parikrma FC | Server 2",[LIVE 17:30 WIB 17/11/26] Rebels FC vs Parikrma FC | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/96ed7ea60a8f45c4.m3u8?wsSecret=F009D53067406A39E69ECF3B606FFEA5&wsTime=1794916777
+https://play.lacrima2000.com/live/96ed7ea60a8f45c4.m3u8?wsSecret=B4DFBA46F4EAAB7F1D42119F91BDBBE0&wsTime=1794917859
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 1",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=823fa3c3a6e392fe98e4119f151a80af&txTime=6afc9a24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 2",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5322ccf0a34c55fc800978943c1c511b&txTime=6afc9a24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 3",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1794921428-0-0-bd7294c1f929c82e3e03b72068a4ddf9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 4",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794921428-0-0-e45c4b29897bf648e0f45f11c2b9d1a1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 5",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-623653_lsd.m3u8?auth_key=1794921428-0-0-2acc2d872d34f58acacfa6b498381e1e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 6",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794921428-0-0-7db0788003cc67b5e5544bd41ce69380
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 7",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1794921428-0-0-087b8173315b6283198fad9e65c5981a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 8",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794921428-0-0-96e3d8e908dc87f56b1b437e6dfa8a61
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vizela-u23-6e9d4a.webp" group-title="[LIVE 18:00 WIB 17/11/26] Vizela U23 vs CD Santa Clara U23 | Server 1",[LIVE 18:00 WIB 17/11/26] Vizela U23 vs CD Santa Clara U23 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6a774b93fa4b2c2f02123d2d.m3u8?auth_key=1794938222-0-0-b0890f67d595d8c20219ca4ea29ed53f
+https://pull.fmp.live/sla/1-6a774b93fa4b2c2f02123d2d.m3u8?auth_key=1794939482-0-0-307fb34f08bd41d24e17fc6d3c2927da
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vizela-u23-6e9d4a.webp" group-title="[LIVE 18:00 WIB 17/11/26] Vizela U23 vs CD Santa Clara U23 | Server 2",[LIVE 18:00 WIB 17/11/26] Vizela U23 vs CD Santa Clara U23 | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/b24fe560d629c0b7.m3u8?wsSecret=E9279B6C7A2D6664DC13A2B9BC0092B9&wsTime=1794916777
+https://play.lacrima2000.com/live/b24fe560d629c0b7.m3u8?wsSecret=18BB3707DFEF4FA30178E8995E50F5D4&wsTime=1794917859
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vizela-u23-6e9d4a.webp" group-title="[LIVE 18:00 WIB 17/11/26] Vizela U23 vs CD Santa Clara U23 | Server 3",[LIVE 18:00 WIB 17/11/26] Vizela U23 vs CD Santa Clara U23 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=3f81f32402b7d596c49e1016467e86fc&txTime=6afc9574
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=b534c6d31a7ad602fb4c09e03d1c0ed0&txTime=6afc9a24
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vizela-u23-6e9d4a.webp" group-title="[LIVE 18:00 WIB 17/11/26] Vizela U23 vs CD Santa Clara U23 | Server 4",[LIVE 18:00 WIB 17/11/26] Vizela U23 vs CD Santa Clara U23 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=4d87a37a0d095520a86a0009d8f5812c&txTime=6afc9574
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=6a7c16ccb023a3faa1759543f3e2cbfe&txTime=6afc9a24
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vizela-u23-6e9d4a.webp" group-title="[LIVE 18:00 WIB 17/11/26] Vizela U23 vs CD Santa Clara U23 | Server 5",[LIVE 18:00 WIB 17/11/26] Vizela U23 vs CD Santa Clara U23 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=386dcc28bbf99d236d9bcfcc78ccf967&txTime=6afc9574
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=2060458605b1493ea73009d20c8c5ef3&txTime=6afc9a24
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vizela-u23-6e9d4a.webp" group-title="[LIVE 18:00 WIB 17/11/26] Vizela U23 vs CD Santa Clara U23 | Server 6",[LIVE 18:00 WIB 17/11/26] Vizela U23 vs CD Santa Clara U23 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=6eb00ec3c54f70a057dd884a967d7160&txTime=6afc9574
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 1",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-623653_lsd.m3u8?auth_key=1794920228-0-0-cc0469044abfc22fc3fc9417339860b8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 2",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794920228-0-0-748005e66f49c61455a232d23bf69cb9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 3",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1794920228-0-0-8fd3348872ade5eaf122df2b41867783
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 4",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794920228-0-0-dc57e4c6a8cbe16d510bfed23fad1581
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 5",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=62e27eb3bc13f842964f119ad631a6b7&txTime=6afc9574
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 6",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=d6bafd43ad7cf304932132286853df61&txTime=6afc9574
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 7",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1794920228-0-0-e881de15c9031bda305a14788a43d6bb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u19-d42104.png" group-title="[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 8",[LIVE 18:00 WIB 17/11/26] Netherlands U19 vs Croatia U19 | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794920228-0-0-38c2f5ca15bc97040d0f601c029e9f43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=5a7bb2622255b42f1fca72b7ba6e4174&txTime=6afc9a24
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/israel-u19-e00df9.png" group-title="[LIVE 18:30 WIB 17/11/26] Israel U19 vs Italy U19 | Server 1",[LIVE 18:30 WIB 17/11/26] Israel U19 vs Italy U19 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6aee71235c0020a9973df9ea.m3u8?auth_key=1794938881-0-0-3bcf1d407c90e0e9c78597a6845c64c0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shandong-w-643ee6.png" group-title="[LIVE 18:30 WIB 17/11/26] Shandong W vs Xinjiang W | Server 1",[LIVE 18:30 WIB 17/11/26] Shandong W vs Xinjiang W | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1794920228-0-0-69d2900216b76a361c321ac6754204f1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1794921428-0-0-4cef37a3326b4a7a31defdfe37764b62
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shandong-w-643ee6.png" group-title="[LIVE 18:30 WIB 17/11/26] Shandong W vs Xinjiang W | Server 2",[LIVE 18:30 WIB 17/11/26] Shandong W vs Xinjiang W | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794920228-0-0-09603684c32a2b92884ff634eed37764
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794921428-0-0-c5bc3618d385fdb686d2a6e6f29ca0d5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-u19-80099b.png" group-title="[LIVE 18:35 WIB 17/11/26] China U19 vs Korea Republic U19 | Server 1",[LIVE 18:35 WIB 17/11/26] China U19 vs Korea Republic U19 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6adb7d94008ae97ac22b370d.m3u8?auth_key=1794938222-0-0-7d503e26f02326426d98b7bbc568480f
+https://pull.fmp.live/sla/1-6adb7d94008ae97ac22b370d.m3u8?auth_key=1794939421-0-0-e3a1b724e06da71f899c17ec1972fcf4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-u19-80099b.png" group-title="[LIVE 18:35 WIB 17/11/26] China U19 vs Korea Republic U19 | Server 2",[LIVE 18:35 WIB 17/11/26] China U19 vs Korea Republic U19 | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/a5d63e422671a74e.m3u8?wsSecret=840438A5DDA49ABD3EA2BBB6A7804663&wsTime=1794916777
+https://play.lacrima2000.com/live/a5d63e422671a74e.m3u8?wsSecret=E89B312D720C3A0BC7806F1C2E061A97&wsTime=1794917859
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/367ba92bc85435312f1074132e9e2ce8.png" group-title="[LIVE 18:35 WIB 17/11/26] Trung Quốc U19 vs Hàn Quốc U19 | Server 1",[LIVE 18:35 WIB 17/11/26] Trung Quốc U19 vs Hàn Quốc U19 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/hd-en-6Mxk43AnbXSNpm38PW.m3u8?txSecret=391c0478ecb9fad45548ad87c21d1efe&txTime=6AFCEA86
+https://live.cds78y11d.org/live/hd-en-6Mxk43AnbXSNpm38PW.m3u8?txSecret=762344ff71401227f570788a4a348079&txTime=6AFCEEBD
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/367ba92bc85435312f1074132e9e2ce8.png" group-title="[LIVE 18:35 WIB 17/11/26] Trung Quốc U19 vs Hàn Quốc U19 | Server 2",[LIVE 18:35 WIB 17/11/26] Trung Quốc U19 vs Hàn Quốc U19 | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk43AnbXSNpm38PW.m3u8?txSecret=22d69323f502b45984f280ee8dc8d3dd&txTime=6AFCEA86
+https://live.cds78y11d.org/live/sd-6Mxk43AnbXSNpm38PW.m3u8?txSecret=d23439a42c9121a125d65113fdd59521&txTime=6AFCEEBD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Viet Nam | Server 1",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Viet Nam | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/kyr-vie-intfr/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Viet Nam | Server 2",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Viet Nam | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/kyr-vie-intfr.flv
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/trung-quốc-6d211d.jpg" group-title="[LIVE 19:00 WIB 17/11/26] Trung Quốc vs Bahrain | Server 1",[LIVE 19:00 WIB 17/11/26] Trung Quốc vs Bahrain | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/hd-en-6MxjKHSaMx351oivj6.m3u8?txSecret=396ad61dbb8def62247f10dabc661218&txTime=6AFCEEBD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/trung-quốc-6d211d.jpg" group-title="[LIVE 19:00 WIB 17/11/26] Trung Quốc vs Bahrain | Server 2",[LIVE 19:00 WIB 17/11/26] Trung Quốc vs Bahrain | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxjKHSaMx351oivj6.m3u8?txSecret=5b553ed560460e2d7d1514ea5fb024ac&txTime=6AFCEEBD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/romania-u19-087f83.png" group-title="[LIVE 19:00 WIB 17/11/26] Romania U19 vs Ukraine U19 | Server 1",[LIVE 19:00 WIB 17/11/26] Romania U19 vs Ukraine U19 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxk4D2AvM7eEVCume.m3u8?txSecret=f0cd4f7910002af8961251870c5564ac&txTime=6AFCEEBD
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/f3928d24f36131a4c3066a6989bfa52d.png" group-title="[LIVE 19:00 WIB 17/11/26] Lào U17 vs Sri Lanka U17 | Server 1",[LIVE 19:00 WIB 17/11/26] Lào U17 vs Sri Lanka U17 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxipaQF1eAVpeXdwS.m3u8?txSecret=605e193000f4e42ac2db9de8bd8da5ee&txTime=6AFCEEBD
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/c2ed005169a8733b7f08567778f9ea04.png" group-title="[LIVE 19:00 WIB 17/11/26] Cộng hoà Kyrgyzstan vs Việt Nam | Server 1",[LIVE 19:00 WIB 17/11/26] Cộng hoà Kyrgyzstan vs Việt Nam | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk46XgjaypEsT3gQ.m3u8?txSecret=1fc56564d77119a3dcc504a541045345&txTime=6AFCEA86
+https://live.cds78y11d.org/live/sd-6Mxk46XgjaypEsT3gQ.m3u8?txSecret=b2e4ae84efedb1acf128b7691988a1d2&txTime=6AFCEEBD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u17-75f129.png" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan U17 vs Yemen U17 | Server 1",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan U17 vs Yemen U17 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxipaQE1KXyNJ6Ese.m3u8?txSecret=30de677d55743152af36cc62a3efb1cd&txTime=6AFCEEBD
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u17-75f129.png" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan U17 vs Yemen U17 | Server 2",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan U17 vs Yemen U17 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/22011435e580f093.m3u8?wsSecret=A1F7D617A096AC3DF9D401CB32ACFE0E&wsTime=1794917859
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 1",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6af605c0a903b20f1832da5c.m3u8?auth_key=1794939421-0-0-236376080e8360318d2faf1a4f151a2a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 2",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/00c7c9f73649a54d.m3u8?wsSecret=1EE30405544824D3985EAD922B395826&wsTime=1794917859
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 3",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912127_lsd.m3u8?txSecret=a0d4fc80bb0e63dbe010a28a585fcb9f&txTime=6afc9a60
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 4",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=a92f2305e74ef6fab05fce99198e68d6&txTime=6afc9a60
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 5",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1794921488-0-0-ae53f6953eb782da5f20b47a26bbc6d3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 6",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794921488-0-0-ff65b9890cc19af81093a09b7df544d2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 7",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1794921488-0-0-482a479d4b47848fec78b33df24610a5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 8",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794921488-0-0-24704e8361dca1d1f41fc96fbc4414c2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 9",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1794921488-0-0-55a40bab79d1bfc53e66628f7431b8f7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 10",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794921488-0-0-212e554a7f60b112dfd2d0bdabff57d5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 11",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1794921488-0-0-1b3e3b5027567a7c6ffcafd8dbb15163
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 12",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794921488-0-0-8367240990bca7893ecb2d61b52815fe
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 13",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1794921488-0-0-377cb1bf47ecfe29ed1a79f8e75c6fb8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 14",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1794921488-0-0-14eb573bec0365d78eb9867f9957eb74
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-8a7d7b.png" group-title="[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 1",[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/chn-bah-intfr/index.m3u8
@@ -92,104 +152,77 @@ https://hls.lauthaitv.cc/live/chn-bah-intfr/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/chn-bah-intfr.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-8a7d7b.png" group-title="[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 3",[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1794920228-0-0-2ef00a82c14a9ab5232ae3aae0b95727
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/e144f5f1ebc7e82f.m3u8?wsSecret=2ACAEBA4ABBB522BD925D28E71F2222C&wsTime=1794917859
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-8a7d7b.png" group-title="[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 4",[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1794920228-0-0-60c136f3f042c9bd7e456b14259a8698
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1794921488-0-0-0c10e4279e610081c68a743fbcb994fc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-8a7d7b.png" group-title="[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 5",[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1794920228-0-0-184fbf3edcaad8fbcbb25147f72d6671
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794921488-0-0-96eafe31e914f52bea6563d208b260bc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-8a7d7b.png" group-title="[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 6",[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794920228-0-0-fd540ca53a7b6ecc81fa23a0c9b258e0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1794921488-0-0-c02cfd281aec0fcf0c5247f41e4c6f1e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-8a7d7b.png" group-title="[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 7",[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1794920228-0-0-87bdbb1a656fd8c5b81728cd062dfb70
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794921488-0-0-96a172fa9043fb1a2f47af35028e438a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-8a7d7b.png" group-title="[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 8",[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794920228-0-0-1a942deec463a07dbee0d96c6e706a7a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1794921488-0-0-d25fae69bd7bd74daf107e4d6c29c22e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-8a7d7b.png" group-title="[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 9",[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1794920228-0-0-bbbe19eb53ebc09e14ffe95e754033f9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1794921488-0-0-d7cbe48f9475d79c656098c6dc17b1ae
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-8a7d7b.png" group-title="[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 10",[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1794920228-0-0-e1322a51735fcce211dbc3c0a0b1b67e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1794921488-0-0-e6f844f5fb0eab3ce78ceda43c940053
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-8a7d7b.png" group-title="[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 11",[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912140_lsd.m3u8?txSecret=6e9d731d7d88d8399dbfc8e6a1b12c99&txTime=6afc9574
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1794921488-0-0-c19a1a574589817ff192cb0bfd2f31fc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-8a7d7b.png" group-title="[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 12",[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=ca597bb2d891921a27a4b72f40b33b0b&txTime=6afc9574
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912140_lsd.m3u8?txSecret=eede2de512de144277a119eea9171f12&txTime=6afc9a60
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-8a7d7b.png" group-title="[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 13",[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1794920228-0-0-88fa07d836958598d60fc938151eb7d4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=510a1130fa43080feec6c13493beb14a&txTime=6afc9a60
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-8a7d7b.png" group-title="[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 14",[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1794920228-0-0-ebb1124d3622f5ff88e69bc34ddb1b50
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Viet Nam | Server 1",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Viet Nam | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/kyr-vie-intfr/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Viet Nam | Server 2",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Viet Nam | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/kyr-vie-intfr.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u17-75f129.png" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan U17 vs Yemen U17 | Server 1",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan U17 vs Yemen U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxipaQE1KXyNJ6Ese.m3u8?txSecret=ffcf8371e3e0484ae213b83b20ac2c34&txTime=6AFCEA86
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u17-75f129.png" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan U17 vs Yemen U17 | Server 2",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan U17 vs Yemen U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/22011435e580f093.m3u8?wsSecret=A404E34827EEBCE1D5A9FF35906AAA7F&wsTime=1794916795
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 1",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6af605c0a903b20f1832da5c.m3u8?auth_key=1794938222-0-0-068d39c1af40c57e2964642075fec0c6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 2",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/00c7c9f73649a54d.m3u8?wsSecret=8AA1B880C8A86BAA0259A193CEC5E372&wsTime=1794916795
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 3",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1794920228-0-0-21f890a6724000a606785164d12937aa
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 4",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794920228-0-0-a966a6a099c9b922701b565e9bed2c25
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 5",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1794920228-0-0-91b7254e31e3233f17c2d293c404ea09
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 6",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794920228-0-0-4f0fa6a7960c4d87e0a0b8b7126e69b4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 7",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1794920228-0-0-3976ef90d4fdc125e38f6302aeaa60ca
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 8",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794920228-0-0-603137049727664bb2b3b53aa06495f5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 9",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912127_lsd.m3u8?txSecret=de527a51df7cec8b56f79a0bd817dcbd&txTime=6afc9574
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 10",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=b5fb01be1a3e74b4e39152bd8a651e76&txTime=6afc9574
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 11",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1794920228-0-0-2cb63400f7a2ae6d4dd01c188c211542
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 12",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794920228-0-0-fccf9582b89dd005161445e7f2157d4d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 13",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1794920228-0-0-c9406fdfb0c84e33ee19c05dbcc86739
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kyrgyzstan-u16-e0fc6b.webp" group-title="[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 14",[LIVE 19:00 WIB 17/11/26] Kyrgyzstan vs Vietnam | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1794920228-0-0-849146e8dc72d6968b806eab8c5125a2
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/f3928d24f36131a4c3066a6989bfa52d.png" group-title="[LIVE 19:00 WIB 17/11/26] Lào U17 vs Sri Lanka U17 | Server 1",[LIVE 19:00 WIB 17/11/26] Lào U17 vs Sri Lanka U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxipaQF1eAVpeXdwS.m3u8?txSecret=c7c95ba240e7514c4a3f4aee0c423025&txTime=6AFCEA86
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/israel-u19-e00df9.png" group-title="[LIVE 19:00 WIB 17/11/26] Israel U19 vs Ý U19 | Server 1",[LIVE 19:00 WIB 17/11/26] Israel U19 vs Ý U19 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk4D2AvEXCd3jAJx.m3u8?txSecret=59508ef45b90d02710ced742d3bf5100&txTime=6AFCEA86
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/trung-quốc-6d211d.jpg" group-title="[LIVE 19:00 WIB 17/11/26] Trung Quốc vs Bahrain | Server 1",[LIVE 19:00 WIB 17/11/26] Trung Quốc vs Bahrain | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/hd-en-6MxjKHSaMx351oivj6.m3u8?txSecret=45720800f8b404f0117069a460027c4e&txTime=6AFCEA86
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/trung-quốc-6d211d.jpg" group-title="[LIVE 19:00 WIB 17/11/26] Trung Quốc vs Bahrain | Server 2",[LIVE 19:00 WIB 17/11/26] Trung Quốc vs Bahrain | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjKHSaMx351oivj6.m3u8?txSecret=5c9770d4ca15d1b6fc24913842cdb802&txTime=6AFCEA86
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1794921488-0-0-781b7dbedfedbc34a9251989c7f47f47
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-8a7d7b.png" group-title="[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 15",[LIVE 19:00 WIB 17/11/26] China vs Bahrain | Server 15 (SVR-BHNS 15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1794921488-0-0-2e4322377c36dc5189fab965897bc64a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-868939.webp" group-title="[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 1",[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1794921488-0-0-fe70413115367291fc7984001ed0636e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-868939.webp" group-title="[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 2",[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1794921488-0-0-980da506334e652fae636073293bf8b4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-868939.webp" group-title="[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 3",[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1794921488-0-0-4b5893db9b94b4a05181493ebb6d83a5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-868939.webp" group-title="[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 4",[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1794921488-0-0-4978cbaeaca233a4fecfa6dbfd5a6e22
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-868939.webp" group-title="[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 5",[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1794921488-0-0-ec902df8dda8f3885c04d72475bb6dcf
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-868939.webp" group-title="[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 6",[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794921488-0-0-9f39af81dc960c3928dc304a95c02879
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-868939.webp" group-title="[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 7",[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1794921488-0-0-80bd7ec0e4189cf0dc286905b300898f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-868939.webp" group-title="[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 8",[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1794921488-0-0-2d3c8982a97e8577337c279c6659955f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-868939.webp" group-title="[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 9",[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1794921488-0-0-6d64baab694e7b1b4a3bf54f6747f9b5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-868939.webp" group-title="[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 10",[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1794921488-0-0-812ed2ebbd70e910ed6414b4fff0f27e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-868939.webp" group-title="[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 11",[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1794921488-0-0-449bba21515b1817780367a7ab3550dc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-868939.webp" group-title="[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 12",[LIVE 19:30 WIB 17/11/26] Thailand vs Tajikistan | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1794921488-0-0-ad1acc7c348125f51ca0ce9b67b7c720
