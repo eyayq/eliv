@@ -1,126 +1,117 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [16.07 WIB 17/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [16.24 WIB 17/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/palestine-u17-f65259.png" group-title="[LIVE 14:30 WIB 17/11/26] Palestine U17 vs India U17 | Server 1",[LIVE 14:30 WIB 17/11/26] Palestine U17 vs India U17 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6adb7d94008ae97ac22b3702.m3u8?auth_key=1794927781-0-0-7fb3612985ab0da8b454f3b26a98b4c8
+https://pull.fmp.live/sla/1-6adb7d94008ae97ac22b3702.m3u8?auth_key=1794928862-0-0-22f234e64628485d62c6b5cbe5d1a63c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/palestine-u17-f65259.png" group-title="[LIVE 14:30 WIB 17/11/26] Palestine U17 vs India U17 | Server 2",[LIVE 14:30 WIB 17/11/26] Palestine U17 vs India U17 | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/79cd49e9ebcf0369.m3u8?wsSecret=EA7F04A6232A85B74277682FA1D0E00C&wsTime=1794906141
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/palestine-u17-f65259.png" group-title="[LIVE 14:30 WIB 17/11/26] Palestine U17 vs India U17 | Server 3",[LIVE 14:30 WIB 17/11/26] Palestine U17 vs India U17 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1794909728-0-0-0abb68f108d50b1a5f8452799561b88a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/palestine-u17-f65259.png" group-title="[LIVE 14:30 WIB 17/11/26] Palestine U17 vs India U17 | Server 4",[LIVE 14:30 WIB 17/11/26] Palestine U17 vs India U17 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794909728-0-0-6455f396e2e372c82ea27e43df478ed6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/palestine-u17-f65259.png" group-title="[LIVE 14:30 WIB 17/11/26] Palestine U17 vs India U17 | Server 5",[LIVE 14:30 WIB 17/11/26] Palestine U17 vs India U17 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-626841_lsd.m3u8?auth_key=1794909728-0-0-108c3d94aa41afc55ab2ed7d469ac1fc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/palestine-u17-f65259.png" group-title="[LIVE 14:30 WIB 17/11/26] Palestine U17 vs India U17 | Server 6",[LIVE 14:30 WIB 17/11/26] Palestine U17 vs India U17 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1794909728-0-0-c85de4c15c6e497a730f1f47e5184fbd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gresik-united-159780.png" group-title="[LIVE 15:00 WIB 17/11/26] Gresik United vs Persika Karanganyar | Server 1",[LIVE 15:00 WIB 17/11/26] Gresik United vs Persika Karanganyar | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6afb217f008ae97ac28f2351.m3u8?auth_key=1794927302-0-0-05d69aa8951f1bd4378468c4b15838b1
+https://play.lacrima2000.com/live/79cd49e9ebcf0369.m3u8?wsSecret=38AA90920B25759A50BB0BD3985D462D&wsTime=1794907224
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-lightning-w-97be2c.webp" group-title="[LIVE 15:00 WIB 17/11/26] Adelaide Lightning W vs Geelong Venom W | Server 1",[LIVE 15:00 WIB 17/11/26] Adelaide Lightning W vs Geelong Venom W | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1794909728-0-0-3ad3d4406962179371d8da83a83f70d6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1794910808-0-0-4f3db2d1b9d1694c409288bb15935d4d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-lightning-w-97be2c.webp" group-title="[LIVE 15:00 WIB 17/11/26] Adelaide Lightning W vs Geelong Venom W | Server 2",[LIVE 15:00 WIB 17/11/26] Adelaide Lightning W vs Geelong Venom W | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794909728-0-0-303ab0949a8f948e1f87050290cbf7b1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794910808-0-0-f7c1ba609bd696a15960fb89deb2c0f3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-lightning-w-97be2c.webp" group-title="[LIVE 15:00 WIB 17/11/26] Adelaide Lightning W vs Geelong Venom W | Server 3",[LIVE 15:00 WIB 17/11/26] Adelaide Lightning W vs Geelong Venom W | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1794909728-0-0-10a286372b926f24ea3a1bc74d250bc5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1794910808-0-0-c9a707a9a8f8c728cd1bc19f72479619
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-lightning-w-97be2c.webp" group-title="[LIVE 15:00 WIB 17/11/26] Adelaide Lightning W vs Geelong Venom W | Server 4",[LIVE 15:00 WIB 17/11/26] Adelaide Lightning W vs Geelong Venom W | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794909728-0-0-cb1490f0a70f4b37ec174ac481eff554
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iraq-u17-0596bd.png" group-title="[LIVE 15:00 WIB 17/11/26] Iraq U17 vs Maldives U17 | Server 1",[LIVE 15:00 WIB 17/11/26] Iraq U17 vs Maldives U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/764756195f3f8b1d.m3u8?wsSecret=C6788943D2D56B140B1A92FFD96A1CF0&wsTime=1794906141
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iraq-u17-0596bd.png" group-title="[LIVE 15:00 WIB 17/11/26] Iraq U17 vs Maldives U17 | Server 2",[LIVE 15:00 WIB 17/11/26] Iraq U17 vs Maldives U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1794909058-0-0-6d8d0da91ac95064b3297c45b15ab602
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iraq-u17-0596bd.png" group-title="[LIVE 15:00 WIB 17/11/26] Iraq U17 vs Maldives U17 | Server 3",[LIVE 15:00 WIB 17/11/26] Iraq U17 vs Maldives U17 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794909058-0-0-41e4b1647ba028fc3e76b21f36494fc3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794910808-0-0-f61ddf81e41660bc1d0b190c467a8de6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stride-sports-fc-d40300.png" group-title="[LIVE 15:00 WIB 17/11/26] Stride Sports FC vs Bangalore City FC | Server 1",[LIVE 15:00 WIB 17/11/26] Stride Sports FC vs Bangalore City FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6af37ecf7cb66c539a95c557.m3u8?auth_key=1794927781-0-0-5ef9d3c4a1df620c57db471614bdbc91
+https://pull.fmp.live/sla/1-6af37ecf7cb66c539a95c557.m3u8?auth_key=1794928862-0-0-a18f9938efe9492914da3a2d76842bfa
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stride-sports-fc-d40300.png" group-title="[LIVE 15:00 WIB 17/11/26] Stride Sports FC vs Bangalore City FC | Server 2",[LIVE 15:00 WIB 17/11/26] Stride Sports FC vs Bangalore City FC | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/1a99581827030d45.m3u8?wsSecret=42A717F7FA4A35C07FFD1C4671636410&wsTime=1794906141
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myanmar-u17-b28140.png" group-title="[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 1",[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-623653_lsd.m3u8?auth_key=1794909728-0-0-2f07aaa09d42e1e3335fb184bed6431e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myanmar-u17-b28140.png" group-title="[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 2",[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794909728-0-0-3443a0f823b46c6cf3611c17a954b970
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myanmar-u17-b28140.png" group-title="[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 3",[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1794909728-0-0-ed1a53135538b28bf41ed381fd174121
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myanmar-u17-b28140.png" group-title="[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 4",[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794909728-0-0-1c19fee9f95f8b0a35deca4de409ce67
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afghanistan-u17-229478.png" group-title="[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 1",[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1794909728-0-0-10b0b3aa7eb9efece82d15f3feb3f90d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afghanistan-u17-229478.png" group-title="[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 2",[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794909728-0-0-ace7964d91e2a02f1bda8f0332e75165
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afghanistan-u17-229478.png" group-title="[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 3",[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1794909728-0-0-d54ff7da715bb375aa0d41a69059ee0b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afghanistan-u17-229478.png" group-title="[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 4",[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794909728-0-0-9cd029fc1afe9d32b6f1c8397b60ae60
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/persipa-pati-6f750c.png" group-title="[LIVE 15:30 WIB 17/11/26] Persipa Pati vs Persiba Bantul | Server 1",[LIVE 15:30 WIB 17/11/26] Persipa Pati vs Persiba Bantul | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk4S5f3cKwz6wqja.m3u8?txSecret=5a2ec6f63b3aa215fc9dd6e6fee30a1f&txTime=6AFCC108
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/persipa-pati-6f750c.png" group-title="[LIVE 15:30 WIB 17/11/26] Persipa Pati vs Persiba Bantul | Server 2",[LIVE 15:30 WIB 17/11/26] Persipa Pati vs Persiba Bantul | Server 2 (SVR-BHNS 2)
+https://play.lacrima2000.com/live/1a99581827030d45.m3u8?wsSecret=C1FC42F213BADED0FEF9FB58CE7B41FA&wsTime=1794907224
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/persipa-pati-6f750c.png" group-title="[LIVE 15:00 WIB 17/11/26] Persipa Pati vs Persiba Bantul | Server 1",[LIVE 15:00 WIB 17/11/26] Persipa Pati vs Persiba Bantul | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6afb2f8b5d732f70fc66be21.m3u8?auth_key=1794927781-0-0-892e4db8904a2eb3d03b309d6e3caf69
+https://pull.fmp.live/sla/1-6afb2f8b5d732f70fc66be21.m3u8?auth_key=1794928862-0-0-3c3e5c078280679b79de2bb720344d35
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iraq-u17-0596bd.png" group-title="[LIVE 15:00 WIB 17/11/26] Iraq U17 vs Maldives U17 | Server 1",[LIVE 15:00 WIB 17/11/26] Iraq U17 vs Maldives U17 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1794909058-0-0-6d8d0da91ac95064b3297c45b15ab602
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iraq-u17-0596bd.png" group-title="[LIVE 15:00 WIB 17/11/26] Iraq U17 vs Maldives U17 | Server 2",[LIVE 15:00 WIB 17/11/26] Iraq U17 vs Maldives U17 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794909058-0-0-41e4b1647ba028fc3e76b21f36494fc3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gresik-united-159780.png" group-title="[LIVE 15:00 WIB 17/11/26] Gresik United vs Persika Karanganyar | Server 1",[LIVE 15:00 WIB 17/11/26] Gresik United vs Persika Karanganyar | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6afb217f008ae97ac28f2351.m3u8?auth_key=1794928862-0-0-2fc5d54f3757d2dd110c7dfdbef337df
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myanmar-u17-b28140.png" group-title="[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 1",[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-623653_lsd.m3u8?auth_key=1794910808-0-0-63ff0b301002b0af8263a828d615615e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myanmar-u17-b28140.png" group-title="[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 2",[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794910808-0-0-b2a9bc0a979366f564ac8a0ecb8c4dcb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myanmar-u17-b28140.png" group-title="[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 3",[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1794910808-0-0-ca682d6f0bbfb9cbd063c6180edfd87b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/myanmar-u17-b28140.png" group-title="[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 4",[LIVE 15:30 WIB 17/11/26] Myanmar U17 vs Cambodia U17 | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794910808-0-0-62f1e9d0c73cf95cd9bf65320f63adb6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afghanistan-u17-229478.png" group-title="[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 1",[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1794910808-0-0-0756fccf0177b86549dd824db1d8062a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afghanistan-u17-229478.png" group-title="[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 2",[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794910808-0-0-e8bd980160c140502ab9d528229a5b09
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afghanistan-u17-229478.png" group-title="[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 3",[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1794910808-0-0-a370a65f28293fe785c88709d26d3328
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afghanistan-u17-229478.png" group-title="[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 4",[LIVE 15:30 WIB 17/11/26] Afghanistan U17 vs Indonesia U17 | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794910808-0-0-0e59cf1df9b64b2f398a00c8f0332950
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jordan-u17-0a087a.png" group-title="[LIVE 16:00 WIB 17/11/26] Jordan U17 vs Iran U17 | Server 1",[LIVE 16:00 WIB 17/11/26] Jordan U17 vs Iran U17 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxipaQF1Xa4DD3tUk.m3u8?txSecret=85eefc47713e8b5f2d99d3632409f754&txTime=6AFCC108
+https://live.cds78y11d.org/live/sd-6MxipaQF1Xa4DD3tUk.m3u8?txSecret=7edde9c7fd895cb8a7e7c727bbe8580f&txTime=6AFCC5F5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jordan-u17-0a087a.png" group-title="[LIVE 16:00 WIB 17/11/26] Jordan U17 vs Iran U17 | Server 2",[LIVE 16:00 WIB 17/11/26] Jordan U17 vs Iran U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/36a48f0ed6940135.m3u8?wsSecret=850ACFBE3F632BD8627BD0E271553155&wsTime=1794906141
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1794910868-0-0-d7f33d05abf94a0c135b37cae9495899
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jordan-u17-0a087a.png" group-title="[LIVE 16:00 WIB 17/11/26] Jordan U17 vs Iran U17 | Server 3",[LIVE 16:00 WIB 17/11/26] Jordan U17 vs Iran U17 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1794909788-0-0-ef79c46962603c7292c1ce6cafd4c29a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1794910868-0-0-a926298c7b4b423734cc27f1e9ee4b8d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jordan-u17-0a087a.png" group-title="[LIVE 16:00 WIB 17/11/26] Jordan U17 vs Iran U17 | Server 4",[LIVE 16:00 WIB 17/11/26] Jordan U17 vs Iran U17 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1794909788-0-0-2a1b298f96019835e795e4d3a19d944f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1794910868-0-0-6720bc0820a9f4cc6dea598de2c7ace2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jordan-u17-0a087a.png" group-title="[LIVE 16:00 WIB 17/11/26] Jordan U17 vs Iran U17 | Server 5",[LIVE 16:00 WIB 17/11/26] Jordan U17 vs Iran U17 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1794909788-0-0-cca4b88a1d2b397777e7eb8644889ef1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jordan-u17-0a087a.png" group-title="[LIVE 16:00 WIB 17/11/26] Jordan U17 vs Iran U17 | Server 6",[LIVE 16:00 WIB 17/11/26] Jordan U17 vs Iran U17 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794909788-0-0-b328db00585ee236eb202ce584954400
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794910868-0-0-2fe3bfa8559673b91384238d2c8e7564
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brunei-darussalam-6ef4dc.webp" group-title="[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 1",[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk4S1xx3XccTRSSQ.m3u8?txSecret=57588d92a19bfd486e9b90d5e82063e9&txTime=6AFCC109
+https://live.cds78y11d.org/live/sd-6Mxk4S1xx3XccTRSSQ.m3u8?txSecret=8d968b7ccccb9f8c77f7bac45d11b99f&txTime=6AFCC5F5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brunei-darussalam-6ef4dc.webp" group-title="[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 2",[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1794909788-0-0-9ba3315b50472fab46c19238d58809e7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6af9de1493add94b37999e6b.m3u8?auth_key=1794928862-0-0-e768b92b6a11e72e54b1501fa1297d9d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brunei-darussalam-6ef4dc.webp" group-title="[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 3",[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1794909788-0-0-cdf3eed2b72e81f680afeadac5db53db
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/684b4ae6f74ce01a.m3u8?wsSecret=2107EC874FA4D0F9734605A67FFFA973&wsTime=1794907224
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brunei-darussalam-6ef4dc.webp" group-title="[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 4",[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1794909788-0-0-1edcaf233db44767cf9a86f97bf2bd14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1794910868-0-0-fa63ccd0848eaf677ceb96cbe5ee513f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brunei-darussalam-6ef4dc.webp" group-title="[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 5",[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1794909788-0-0-b28419db8df22f67239d964ddcb4b3a5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1794910868-0-0-36a1c28012fb4e3d514ba579506b3a5a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brunei-darussalam-6ef4dc.webp" group-title="[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 6",[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1794909788-0-0-6fd89469e5786a5b9d5042fe04049f6f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1794910868-0-0-6c7379701ac389e7b8127dad08048990
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brunei-darussalam-6ef4dc.webp" group-title="[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 7",[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1794909788-0-0-a16159bb0d203f2e6bd294ed6bd878ff
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1794910868-0-0-ded36b40e6b9a9dd2bf626dd500e80dc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brunei-darussalam-6ef4dc.webp" group-title="[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 8",[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=42647b4d35e23bfe694159638e24881e&txTime=6afc6cac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1794910868-0-0-1216f8493694f5c1b505e8e8f665d753
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brunei-darussalam-6ef4dc.webp" group-title="[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 9",[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=1885a755dd688721e009208574eba260&txTime=6afc6cac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1794910868-0-0-0251386a5f26c32390246bc30662a53d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brunei-darussalam-6ef4dc.webp" group-title="[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 10",[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=867f9423c751d7a5ab3d29b4ad53d92f&txTime=6afc70e4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brunei-darussalam-6ef4dc.webp" group-title="[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 11",[LIVE 16:00 WIB 17/11/26] Brunei Darussalam vs Oman | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ae127d6b9c2d97357769b048f0964dab&txTime=6afc70e4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pardubice-b-399c84.png" group-title="[LIVE 16:15 WIB 17/11/26] Pardubice B vs FK Horni Redice | Server 1",[LIVE 16:15 WIB 17/11/26] Pardubice B vs FK Horni Redice | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MweKfjcHXMNAC13eC.m3u8?txSecret=c3cd2dae75bda88319b5d38efbc13d88&txTime=6AFCC5F5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ucsa-60ca58.png" group-title="[LIVE 16:30 WIB 17/11/26] UCSA vs Polissya Zhytomyr B | Server 1",[LIVE 16:30 WIB 17/11/26] UCSA vs Polissya Zhytomyr B | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ad8da9453d3d883505ad2a1.m3u8?auth_key=1794847505-0-0-6792b4b9ccaa866081cff1a3d3c7777e
