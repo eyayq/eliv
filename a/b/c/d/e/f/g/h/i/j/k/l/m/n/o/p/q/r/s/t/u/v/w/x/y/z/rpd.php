@@ -1,24 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.36 WIB 18/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.53 WIB 18/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/romania-u20-e38730.webp" group-title="[LIVE 00:00 WIB 18/11/26] Romania U20 vs Poland U20 | Server 1",[LIVE 00:00 WIB 18/11/26] Romania U20 vs Poland U20 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/8e679c44a2050abe.m3u8?wsSecret=B5D2EA29035E12862E68A96E4FE5E8FE&wsTime=1794941424
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/croatia-u21-303a7d.webp" group-title="[LIVE 00:00 WIB 18/11/26] Croatia U21 vs Germany U21 | Server 1",[LIVE 00:00 WIB 18/11/26] Croatia U21 vs Germany U21 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/0c5a293640c22af1.m3u8?wsSecret=E978494E56A372A11FC3B42D9E2D8537&wsTime=1794940342
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 1",[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/12c1114bb7d6785d.m3u8?wsSecret=8F3F76B90FFABCD339B9D4E1F866A9D2&wsTime=1794940342
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 2",[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-633416_lsd.m3u8?auth_key=1794944108-0-0-794d058504847b0b49029aa729c6fbd4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 3",[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1794944108-0-0-45c8d1bfaa1f38575fd28cfcbb8ecc19
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 4",[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1794944108-0-0-7dd2c1b483fb916c4afbb0b4a71a4584
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 5",[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794944108-0-0-7f2c78978322aa681bc3ef7afa260d5c
+https://play.lacrima2000.com/live/0c5a293640c22af1.m3u8?wsSecret=9FF01B68536DD281E0CDC905BF3991F1&wsTime=1794941424
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u21-12ff28.webp" group-title="[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 1",[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/ned-den-eurou21/index.m3u8
@@ -27,70 +15,82 @@ https://hls.lauthaitv.cc/live/ned-den-eurou21/index.m3u8
 https://flv.lauthaitv.cc/live/ned-den-eurou21.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u21-12ff28.webp" group-title="[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 3",[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=4411f45a85e4f4b8ceb5e6f5ac1f0bf1&txTime=6afcf2bc
+https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=f8df822eb6d776c3311ae5e3925b06ad&txTime=6afcf640
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u21-12ff28.webp" group-title="[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 4",[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=129e245c8ca28b69860c98ab3da9ef30&txTime=6afcf2bc
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=2d0b7876f24e0661a33f2a192bdae9d3&txTime=6afcf640
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u21-12ff28.webp" group-title="[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 5",[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912142_lsd.m3u8?auth_key=1794944108-0-0-402abd40ea83f780ab8ecb3cf83288c0
+https://pull.niues.live/live/stream-9912142_lsd.m3u8?auth_key=1794945008-0-0-de9043ae82446a829665e33f4aa3aac9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u21-12ff28.webp" group-title="[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 6",[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1794944108-0-0-449b202efc2d0a5389a89b0c9eaecdac
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1794945008-0-0-77135643c3d4f6a29623173ce6379dca
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u21-12ff28.webp" group-title="[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 7",[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1794944108-0-0-afa6c95fc8f2bac8d1c3f9991b6e1610
+https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1794945008-0-0-ff14d172e6bad1c218b42bf6ebe75ab2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u21-12ff28.webp" group-title="[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 8",[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794944108-0-0-9b1520f051ad4698fb09f2e9ed48cb8d
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794945008-0-0-644f5cd6eb3a8a4c5f05e1b59216ac41
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u21-12ff28.webp" group-title="[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 9",[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=329e56ee8418a071cde13cb0c08c7d1c&txTime=6afcf2bc
+https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=f489f6767f2f527e3accdb77147a37a7&txTime=6afcf640
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-u21-12ff28.webp" group-title="[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 10",[LIVE 00:30 WIB 18/11/26] Netherlands U21 vs Denmark U21 | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=d80f3e2fdc2b034c95142d3fbe7f2f88&txTime=6afcf2bc
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=79355739a1a0cfd267d558f303e84ebb&txTime=6afcf640
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 1",[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/12c1114bb7d6785d.m3u8?wsSecret=1DF343050B3425CD73DF9280CF58A21C&wsTime=1794941424
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 2",[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1794945008-0-0-975e04bfd5eeadf1317f71c0ee17dac9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 3",[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794945008-0-0-f64c89a7c5685f32c4b3e763b59e3756
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 4",[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-633416_lsd.m3u8?auth_key=1794945008-0-0-ba0362ef2d6696744272c9cc60180cc1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.webp" group-title="[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 5",[LIVE 00:30 WIB 18/11/26] Portugal U21 vs Norway U21 | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1794945008-0-0-d1eb0e5c0c35cab81e1fba5ac58aea82
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-u21-4b89d3.webp" group-title="[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 1",[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1794944168-0-0-ed7158efce2f83aa6affd757152f1f97
+https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1794945008-0-0-da5c923a91b645afeae0321cdcf62bc5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-u21-4b89d3.webp" group-title="[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 2",[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1794944168-0-0-8b3558997dbc690228a0abdd11934666
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1794945008-0-0-1270fda5cb6b5d784f12c2067d5bed64
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-u21-4b89d3.webp" group-title="[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 3",[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1794944168-0-0-c58da3fa9ebc3f62a49b56889dc07c82
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1794945008-0-0-dbf57cc4c947afcb782b983158f1dc01
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-u21-4b89d3.webp" group-title="[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 4",[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1794944168-0-0-1c2ada4a15599827d24e68ff652e2fe8
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794945008-0-0-91e2ab9accbe01493670a584fb12a111
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-u21-4b89d3.webp" group-title="[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 5",[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1794944168-0-0-62f5f761b699428c326b09d28fe0c64b
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1794945008-0-0-3e0f131d6527264b0217dbe34d394416
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-u21-4b89d3.webp" group-title="[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 6",[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794944168-0-0-40200a91c6039946cd991cb7a4ade790
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1794945008-0-0-d83e5281f773bc912214886d5e0f85ab
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-u21-4b89d3.webp" group-title="[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 7",[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1794944168-0-0-d7dbacc66baa90de8128f046712ef401
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1794945008-0-0-eea0d22fa1216db003869968b6b77379
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-u21-4b89d3.webp" group-title="[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 8",[LIVE 00:45 WIB 18/11/26] Ireland U21 vs Finland U21 | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1794944168-0-0-87d8d5a880d26411dd5aecf009b4eb33
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/albania-u21-3cda71.png" group-title="[LIVE 01:00 WIB 18/11/26] Albania U21 vs Tây Ban Nha U21 | Server 1",[LIVE 01:00 WIB 18/11/26] Albania U21 vs Tây Ban Nha U21 | Server 1 (SVR-BHNS 1)
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1794945008-0-0-070fe808c27fc2f213aacbc089b5e941
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/albania-u21-3cda71.png" group-title="[LIVE 01:00 WIB 18/11/26] Albania U21 vs Spain U21 | Server 1",[LIVE 01:00 WIB 18/11/26] Albania U21 vs Spain U21 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk4CyDorPxqN97cp.m3u8?txSecret=325f1f757402c623c35a35ef4b2680d1&txTime=6AFD4755
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-lorenzo-reserves-db19f3.png" group-title="[LIVE 01:00 WIB 18/11/26] San Lorenzo Reserves vs Khu bảo tồn hổ | Server 1",[LIVE 01:00 WIB 18/11/26] San Lorenzo Reserves vs Khu bảo tồn hổ | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk46Wwk4XPpb5ShJ.m3u8?txSecret=4696c6ce3d00228cad93ff42cf053b60&txTime=6AFD4755
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/estudiantes-rio-cuarto-reserves-8f9001.png" group-title="[LIVE 01:00 WIB 18/11/26] Estudiantes Rio Cuarto Reserves vs Đội dự bị Colon | Server 1",[LIVE 01:00 WIB 18/11/26] Estudiantes Rio Cuarto Reserves vs Đội dự bị Colon | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk46WwkKukuwrrma.m3u8?txSecret=7f31dc053a70f1a7d74863909110bf78&txTime=6AFD4755
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gimnasia-lp-reserves-e57985.png" group-title="[LIVE 01:00 WIB 18/11/26] Gimnasia LP Reserves vs Đội dự bị Atletico Tucuman | Server 1",[LIVE 01:00 WIB 18/11/26] Gimnasia LP Reserves vs Đội dự bị Atletico Tucuman | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk46WwkSWCXPLcEG.m3u8?txSecret=3d8a3861325ecc1cf71dcdf2d8236c6e&txTime=6AFD4755
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/defensa-y-justicia-reserves-84246f.png" group-title="[LIVE 01:00 WIB 18/11/26] Defensa y Justicia Reserves vs Huracan Reserves | Server 1",[LIVE 01:00 WIB 18/11/26] Defensa y Justicia Reserves vs Huracan Reserves | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk46WBRC5E37YPeL.m3u8?txSecret=349c8e5b14b53e9d2f3eef94e7ac8ae0&txTime=6AFD4755
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/37946f59d1447112fd07b77035615626.png" group-title="[LIVE 01:00 WIB 18/11/26] Khu bảo tồn Rivadavia độc lập vs Platense Reserves | Server 1",[LIVE 01:00 WIB 18/11/26] Khu bảo tồn Rivadavia độc lập vs Platense Reserves | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk46WwkQJieuWh5N.m3u8?txSecret=1e7e4f0a6c016b365caf60b77654f5ff&txTime=6AFD4755
+https://play.lacrima2000.com/live/c358631e9f9cfb9c.m3u8?wsSecret=3207A574DAA2690CE29F4459D0D96B6F&wsTime=1794941424
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/ba472bb6eb37e333549df040175df856.png" group-title="[LIVE 01:30 WIB 18/11/26] Anh U17 vs Ukraine U17 | Server 1",[LIVE 01:30 WIB 18/11/26] Anh U17 vs Ukraine U17 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mwdpr9nycR7gE6Srp.m3u8?txSecret=8cf8f0b5c36f0218cd9bb6f01f068005&txTime=6AFD4755
+https://live.cds78y11d.org/live/sd-6Mwdpr9nycR7gE6Srp.m3u8?txSecret=06d837387b5ac81bf345908be343c9a4&txTime=6AFD4AD8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mauritania-a49692.webp" group-title="[LIVE 01:30 WIB 18/11/26] Mauritania vs Burkina Faso | Server 1",[LIVE 01:30 WIB 18/11/26] Mauritania vs Burkina Faso | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ada2c1753d3d8835066dc7c.m3u8?auth_key=1794962881-0-0-9672d4e6cf8f5a7bd0589ad8b3ed323b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/liberia-2f738a.png" group-title="[LIVE 01:30 WIB 18/11/26] Liberia vs Cabo Verde | Server 1",[LIVE 01:30 WIB 18/11/26] Liberia vs Cabo Verde | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ada2c1753d3d8835066dc7e.m3u8?auth_key=1794963001-0-0-ec2f26f188e1594771bc1c2322e3e5f4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/botswana-1c182d.webp" group-title="[LIVE 01:30 WIB 18/11/26] Botswana vs Uganda | Server 1",[LIVE 01:30 WIB 18/11/26] Botswana vs Uganda | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ada2c1753d3d8835066dc86.m3u8?auth_key=1794963001-0-0-793dc1d92f8df64861e9cdd39eafe86f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rwanda-c04911.jpg" group-title="[LIVE 01:30 WIB 18/11/26] Rwanda vs Mali | Server 1",[LIVE 01:30 WIB 18/11/26] Rwanda vs Mali | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ada2c1753d3d8835066dc87.m3u8?auth_key=1794963001-0-0-19b0d51250e7deb271d6458e94ede85b
