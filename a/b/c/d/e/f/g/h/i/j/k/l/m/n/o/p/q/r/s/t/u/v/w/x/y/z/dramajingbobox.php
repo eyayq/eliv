@@ -1,2605 +1,3429 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php" group-title="👰🏻Support Me 2!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [19:07:37 WIB]👰🏻
+#EXTINF:-1 tvg-logo="https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php" group-title="👰🏻Support Me 2!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [19:26:47 WIB]👰🏻
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP1 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/1/vfPvXUkW6KpAV-wX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP2 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/2/gblvESEOtiPqmzRN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP3 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/3/OxQuXRdcnedR2dDi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP4 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/4/_aEMFM7Ifw-NFjRA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP5 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/5/h02SNspDHUUNWqDO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP6 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/6/FMkG_d11DQSFrAKH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP7 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/7/lIr5DdzSO1MNEW3Q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP8 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/8/M8_sdCpJaui31e-E.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP9 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/9/6aPn64LHiXN0RrwC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP10 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/10/24MLb6wFI6huF34a.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP11 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/11/AN2zWsk_YFsOS0RB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP12 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/12/A-v5OKX4GEe43myK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP13 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/13/mU8S3E6a2OCDOTua.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP14 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/14/rzFTwO7A9oMhocUN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2c7d31837b214824bf99902499bea15d-1781264573477.jpg" group-title="👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire👰🏻",👰🏻The Switched Bride: My Broke Husband is a Secret Billionaire EP15 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4953/1080/15/gtlqZn7eABr-x5Uu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP1 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/1/JPf3fef-s0SyhLr8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP2 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/2/kV8nl-mZcUuzxBeq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP3 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/3/KYmsw3AicjE6o8gc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP4 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/4/4BqtRP0g7IMWFtXx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP5 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/5/-CLHMHLzfSnAlmOi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP6 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/6/iTO1J3Qf09fUezfJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP7 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/7/grdyW0D23KpYb20s.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP8 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/8/F6iDtWyMuk0VS5wP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP9 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/9/SnSoALz86PPOTRQT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP10 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/10/ulUjTWZZrKJWp9XH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP11 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/11/PWSnRai4joxlnbR5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP12 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/12/WQZbq14GPoTbX3vH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP13 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/13/vhB5iwDXsOAkYybt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP14 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/14/540GIbFKL7R_QaMr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/334f86a957364a878dae47046f1ec6bd-1781264570585.jpg" group-title="👰🏻The Lost Heiress's Revenge👰🏻",👰🏻The Lost Heiress's Revenge EP15 [19:07:30 WIB]👰🏻
-https://static.venixtv.com/videos/4950/1080/15/a0bfoXG4EnVq7jSi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP1 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/1/3qYYBPkcTdQK33pd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP2 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/2/2VqpihC9AXVWIX3I.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP3 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/3/qA1wfpU81JMmufIT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP4 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/4/NNzobCVg6cwNRfYA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP5 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/5/Ic9hp8-IXZiJ1k5J.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP6 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/6/mGDCoBWfSLgvm8Qx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP7 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/7/5hHMVCoIZwXsWI6-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP8 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/8/JxzEc9TnCgOD0iq4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP9 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/9/abSMP7is0ltZ91Lz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP10 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/10/g8SsCk-EjMMkJOc3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP11 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/11/moZLhpYaGOBpzuwu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP12 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/12/bpdTzU4dvbp-26eG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP13 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/13/uUTQPHFECeIlojHf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP14 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/14/IAXz6tb5gmJpfZmY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/80721bdc3a124af1ab5951defe36400d-1781264567624.jpg" group-title="👰🏻The MAFIA'S CAPTIVE WIFE👰🏻",👰🏻The MAFIA'S CAPTIVE WIFE EP15 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4951/1080/15/c9MGI8twPAq04de1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP1 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/1/KSG8NbUXY7m0mXsM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP2 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/2/h-YvsqqbE1qBnsmJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP3 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/3/zZ7vy0pI-TDFeI9O.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP4 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/4/vioYjfQORuQYTyE8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP5 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/5/ZovM0_Um76HG-TDz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP6 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/6/TxwdhA8FUYXYx2Rp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP7 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/7/Zy8BxtyBHr8I-2Jt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP8 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/8/qLSH_pmSzH6wiuMH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP9 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/9/hfqtfmhtip_au5cT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP10 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/10/RlTczl2zIvN2qL2x.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP11 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/11/s4CEckz0AkAAihne.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP12 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/12/okNFX7eXK4jmGQfv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP13 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/13/JxGXAErExvBlfdCw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP14 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/14/cVwpbWdU9nbGh5hM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/92640dc8dbce4574a0e27c4d88eb976f-1781264564074.jpg" group-title="👰🏻Black Engagement Feast👰🏻",👰🏻Black Engagement Feast EP15 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4952/1080/15/vQ5yzewW1tBhf_fJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP1 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/1/_-4PioB3B4YHNe_H.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP2 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/2/9j9ZVhCudCCdVgjE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP3 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/3/JZygd2H91g__O5sZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP4 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/4/BcD9sSr6HBx5RYlh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP5 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/5/KRl5D4yC-FI-g3Qx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP6 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/6/S1GeNuWB3Uyfz_pb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP7 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/7/gv_d8uJou-oRv4i3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP8 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/8/P1j08h0ZNSQ90Pj9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP9 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/9/F6mm3ESd45uLo8lp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP10 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/10/bHYDOAnC4hXHYlCe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP11 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/11/B4bQ98tQB_okqLM-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP12 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/12/fZ2M5W_RNP9kfDyB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP13 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/13/3tppaxMxWV-Dq_mN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP14 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/14/4nIlC3yj8_nPkPKn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP15 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/15/4zmKLRyABx7La9AQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP16 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/16/_UlaCnaUoAVzjmiE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP17 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/17/eFye9dsAPzAJzLjN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP18 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/18/n95iFxu6zN3hk4_-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP19 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/19/BobLTcqaH7NYhLpK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP20 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/20/s6ILYZAqigSBH2D_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP21 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/21/1PawUSMD7N9lcuiy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP22 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/22/kzp97JETM8RHRN6h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP23 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/23/FrHk0lNtBzGzWP1w.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP24 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/24/9nYz9NWin_mYx6v2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP25 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/25/aqnVSAhQ7jIwMxpG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP26 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/26/xvzPf-iYMZ980D_D.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP27 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/27/KVGkO5VxrDE9bJnw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP28 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/28/ly6JpO_4j-WsSAP_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP29 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/29/HiF_KRJ85fgTramm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP30 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/30/3Mx_h_oqqlkp7Z-Q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP31 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/31/5zglzX0wFw9iW5kB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP32 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/32/b64MrDd_wzVIPYar.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP33 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/33/aWMqGYnyzIXYhnRg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP34 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/34/NQF7SrfRJDxn1ED4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP35 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/35/3j5ol3wfW6tUFjUg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP36 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/36/rCUG31xwGVa8zYbz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP37 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/37/5AnaPcDF2RTNqSAR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP38 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/38/zn2J-nklvD5-WkA7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP39 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/39/vjyOnzfPTvIDs2Au.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP40 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/40/b6jSyaM6s_JT0Cab.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP41 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/41/5zNENhLl1bk0FvnM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP42 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/42/naq5m1eXrIxSi_Cc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP43 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/43/p35ikL00QqTBJveZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP44 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/44/iW4LDNBweRr1GJjx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP45 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/45/H3YkpewicZStF6zJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP46 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/46/N8kqz8OhRzf5TYMr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP47 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/47/mr8R_XB2vtmg4FZN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP48 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/48/5F8NW3XfkTVqPI96.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP49 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/49/A2CDxg6UHw734XiQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP50 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/50/m8ZhYpKl9dTbGIJi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP51 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/51/6jXnnh687TkySFvm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP52 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/52/MUjDoW2VUUCmrib2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP53 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/53/B47Wg7pcR6L3cQ8t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP54 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/54/mOiOB6d7zEz47J00.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP55 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/55/vRQNh2Ku3NvkLuWD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP56 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/56/STWMXjcHdpmznU2T.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP57 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/57/K9efwxPGji1V6EaQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP58 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/58/mRBOI-eEAKmYytyp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP59 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/59/Yc6K5TdgKRYCkyox.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP60 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/60/5VnrZ_R2xYutf9pf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP61 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/61/5Pgwr2fmmpfKNZ4L.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP62 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/62/g4MOoO4o3TGFhUFG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP63 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/63/cmhenWlCywW66MSQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP64 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/64/hRFJcqtfkNI15yVf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP65 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/65/n6EQsGUZnlALJ8s6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP66 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/66/LF4CSakGjpX7b7Vm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP67 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/67/ngVX6bVW7eHUOd68.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP68 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/68/X5JdLdRxiKC8RX6G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP69 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/69/bPYygddjhIg84E6d.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP70 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/70/Rh-OsAAdwn-d_2IT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP71 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/71/_tNIxjiZXARl_eF-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP72 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/72/pn_RpkELlGrxorBz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP73 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/73/E-mKBYcAT3UXh9QL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP74 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/74/9VMwvnHY15Qsk3Me.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP75 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/75/bSai_VpGcm-6utmB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP76 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/76/2YE-gEiW1KxdwWe5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP77 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/77/m9wV2le8gXXKaoDv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP78 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/78/-oNiipAhoUJ04qQm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/cb3025e022e34bf1b32cbdf257238415-1781178236647.png" group-title="👰🏻EIGHT YEARS FROZEN,LATE REGRET👰🏻",👰🏻EIGHT YEARS FROZEN,LATE REGRET EP79 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4339/1080/79/QnFPBLC5KY8Uk2yA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP1 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/1/yso2KMhdDMacWKsL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP2 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/2/yaM57uNzbNPQ_k0d.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP3 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/3/jE1wp0ovGh2UTtj6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP4 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/4/p5KIBlQbrfntT8k7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP5 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/5/SDSRXABP0H8LkM7I.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP6 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/6/-o1a3WTk5NsasY6F.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP7 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/7/O92xdNW1Lft2RfD9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP8 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/8/swcF5yjbistirbV8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP9 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/9/OYS6H7np6LwulP_p.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP10 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/10/E3lZAiGxrpP-3Pp1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP11 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/11/cOVRZH6nUwG0BWnZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP12 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/12/a_7fKoiuLBV5rG1P.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP13 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/13/mJqgjEBteenbnoG3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP14 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/14/zWG7pEQa9SwtZtuR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP15 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/15/zqdCuiRGu2RmC1zH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP16 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/16/cTRKwfp4CmXdnOzy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP17 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/17/1_jS1AHfBQTiwXLZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP18 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/18/qY6kpL22FrSU-nQ_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP19 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/19/-CP4UXNqTADGu5D9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP20 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/20/3JeP87nybv-kNyst.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP21 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/21/x3NmLWti_f0ys112.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP22 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/22/QkXgCW_ZcMAv5ylA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP23 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/23/hbE14ha9FV31bnaC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP24 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/24/yB8QzH6cRvXMKKDX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP25 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/25/G3zPlAVaelZnz7u4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP26 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/26/_UZdRnMrlEwu8zqL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP27 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/27/10wTSSETTPw9PnSt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP28 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/28/SXXs7cwLqX5iDGTm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP29 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/29/mmEPKajayZqn0bT3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP30 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/30/sD2Oih9Wsy-io172.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP31 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/31/ZekvAkq-95BlWcDi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP32 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/32/3hta78cnpZq8ixgt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP33 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/33/Cqc8CqcbzoYHSJAQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP34 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/34/1vXGjGiiMbQgaLDA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP35 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/35/cb2nw_uSTG-z_2dL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP36 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/36/Og8NK7K9eDHx58_4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP37 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/37/36YLvgBbctnfjGgv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP38 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/38/dwCscKmmpOH_WTKx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP39 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/39/VaXOA3BAc_BDDHqg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP40 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/40/lRPmRi8q73klYatG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP41 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/41/w9NypEkG6yPRQ3G_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP42 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/42/5Ct4bd2EcO4xh4Y7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP43 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/43/8yrr0gR51qGZJiUb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9ab49e97f9364b2fb579526c37882112-1781178224527.png" group-title="👰🏻The Love We Left In Summer👰🏻",👰🏻The Love We Left In Summer EP44 [19:07:31 WIB]👰🏻
-https://static.venixtv.com/videos/4357/1080/44/4s6G-mc2Q3YDrhlV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP1 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/1/DpvKLRY99_-I1a05.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP2 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/2/j5D9YQVSTlYsRvdZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP3 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/3/dgJFj6UGWZeyPX3V.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP4 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/4/3KVfypBprNU_wOpi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP5 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/5/nD1AOO9WAPdxUNgC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP6 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/6/3YbsTSZscWN3oDSx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP7 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/7/JZR4kkHBhhp-WHa_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP8 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/8/5d6WiE7lz1NJLEkv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP9 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/9/uORcTfy6LKCpUDwn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP10 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/10/b8hthTcR59ZvL9mk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP11 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/11/sFYjELglAGV_Jkbj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP12 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/12/AQO0T2LXmzlIMIJ3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP13 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/13/oqW2WvbRQLtMwrMo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP14 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/14/CnR-1Ih-ifQ26CUD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP15 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/15/faOuUXpfncC4MYLg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP16 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/16/YZVQ5CUHh8qJuSBK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP17 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/17/WHHsE9TdsOnhj5_W.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP18 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/18/KcjCxLUF79SxJZba.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP19 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/19/k4Axojf0G8dOBE_P.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP20 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/20/TCd-L1r8sLvaPZjj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP21 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/21/ec5HIzcuWsxggsQs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP22 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/22/dd2PirePcvVO1x-b.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP23 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/23/HlqyLSXXt5l2Y2_S.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP24 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/24/fF_dt9zHug6EYv7k.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP25 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/25/pFbz6_h7vZpXwUEy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP26 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/26/8BpNXapWEZxmnew3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP27 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/27/T5OQgt27O2eswrI8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP28 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/28/jbwILfjd9GsQb9qX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP29 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/29/S6I8HtNEsljGJwWF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP30 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/30/qhBtR0nbQcPtEGqO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP31 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/31/1HntIESPSgNmq90e.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP32 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/32/-pp0EvpfbM9nLqQJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP33 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/33/hDbBPUyXrBY0JODy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP34 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/34/-igLB3QmVlEE_47S.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP35 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/35/E2Gp7VTKJ3A6nN8h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP36 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/36/LUlL-Fwu_CGu0t5h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP37 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/37/Y7BoTiP1zDf878Nr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP38 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/38/Hmcy1SIrV80LzguD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP39 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/39/CmGgnxmdVzquroja.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP40 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/40/pRCZW4_hOuMDdieV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP41 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/41/MOcotQlGsv4DlU4B.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP42 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/42/OcKQJITsem3ZfrJR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP43 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/43/benpon7hpeKtN2lO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP44 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/44/BZD-VPNavvk9DucA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP45 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/45/oWJOLWWmfJ-cLolR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP46 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/46/e7hV9ttTiBLF43oX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP47 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/47/HS8wpMR-QlXt5br7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP48 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/48/08OdeysGuDgMDRKb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP49 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/49/sovoVabe3oE_YG63.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP50 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/50/GO4mYvKZvZmWtLk2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP51 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/51/5K5-68TIsHn-Twan.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP52 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/52/QdK8OezPsx6JyQKl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP53 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/53/xIsHZEBdz2OZCKWR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP54 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/54/ol5Y-w8Pwu0TTMI2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP55 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/55/OT3kqsfKkr7nZuAq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP56 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/56/Glwq4BCvsEWG1o9E.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP57 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/57/oM_VOoHpz4UU4QYi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP58 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/58/tcFHXdTbgxmmVFzA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP59 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/59/INqRKWLQcNfrLfqg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP60 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/60/cjMr27oow5BBAYQG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP61 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/61/1tlbcRkaK_O1CTRW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP62 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/62/lBE_zaULiN0MJOtm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP63 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/63/3hyYqLQQcwTd9pd6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP64 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/64/S7iRGe9EvlNQEtUN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP65 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/65/QHDeGo_skhLXgTNk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP66 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/66/1UDTaozKn2mu-XK9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP67 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/67/lQzQvsvKUI1qiyM_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP68 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/68/MroLPH5YRWGhkNmL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP69 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/69/4a-O-vhbVH_YogJd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP70 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/70/BN5Hqhl5ImrdSAsm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP71 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/71/c4GPukOfJgYq69RH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP72 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/72/V30PF1YQagKv3UDn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP73 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/73/hb014kWgrJwNwIa5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP74 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/74/6gskhdkGiOA79wIR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP75 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/75/WjKOHJ6ngwCjkcFl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP76 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/76/dVWs74VkO1rHDJ7c.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP77 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/77/PChwztOTzJNEWDoY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP78 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/78/D3gIGnyDXhuy8r51.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP79 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/79/x4F6fMDfICkwltIU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5f3666094d8b4abab09957281f3884b5-1781178213903.png" group-title="👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby👰🏻",👰🏻TAMING THE GODFATHER:My Secret Return with a Cute Baby EP80 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4552/1080/80/skNuUneXiUusOSKN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP1 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/1/mFm0Ha7ilZHP68Jo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP2 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/2/HzUA3pRdnnG-SHj0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP3 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/3/6p3rMue_MAqekka-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP4 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/4/SbGNZzSXI3i8yX5S.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP5 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/5/5YWPE7ZIYqhc--Wq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP6 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/6/5KHMxtld6hpRnvyC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP7 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/7/FOO888HbZFYf0TDB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP8 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/8/b-nBbk9sTbTQExoy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP9 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/9/71l5K3C2f3XbEHFD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP10 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/10/OmSgKp8kmBHF5YM6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP11 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/11/QDMmBYaJ5XWi9p-P.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP12 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/12/dzO8FDweohuAOKAN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP13 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/13/sukKkYLLF6nDkYFF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP14 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/14/i7D-iQqq2dbqg10Q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP15 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/15/V8qEj-JSkJjmNZ6w.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP16 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/16/hx77MpoaKbcNw32v.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP17 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/17/WAyjt8-cnSA1GRIc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP18 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/18/LQSJg9I_VVp2Jygy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP19 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/19/RWWCevfIamAysEDM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP20 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/20/qBeHibzG0KYp8-hn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP21 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/21/JyzTKFkhSagzdFDQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP22 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/22/c2vhIz02RtZcTB75.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP23 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/23/PDlYkAjA0DsN-1iP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP24 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/24/qBWOavg-8JRSHAwT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP25 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/25/2KontJQN3V0RYK4H.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP26 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/26/oSm6A_5CcjonVlCB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP27 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/27/hZ_ecZ50KESf8yKH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP28 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/28/VFlY68xrMn55SfS9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP29 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/29/VTon6LQ5EkeqHQ_Z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP30 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/30/GomnLva4h0LMFhIC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP31 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/31/rRTyp2jEZ71cYU8f.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP32 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/32/M3GkjJP8RqgeOj6P.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP33 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/33/_TbjKTzpA1C0wCqc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP34 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/34/yVljZdBxqWGHpSZn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP35 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/35/DcK9AL-9fkEI6Vkn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP36 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/36/wG0GxmOzkWKxCv55.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP37 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/37/eUzb_dG3NU0x_dG4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP38 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/38/JRAzAb3z1wfdzD3Y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP39 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/39/7ei68hMRZO2t_Qnf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP40 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/40/-RCacrQh0HqyuYJN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP41 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/41/-NGE6s1gXl7mJ14T.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP42 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/42/EbyqWQMA9W98PyDW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP43 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/43/XLBfo8sowKt_sAiU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP44 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/44/FK4raYH-9-wAZ4W-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP45 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/45/BRG5KlJewF2iP8vI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP46 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/46/8r9mAgDapDlDqR1p.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP47 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/47/NaOycPLxFeavHxOA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP48 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/48/Fq4sASruUkRDG5lK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP49 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/49/XVA1M8-CBH3145Kr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP50 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/50/RVrHVcHf2_uZy2YT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP51 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/51/jb_6Vshi6msWWvk5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP52 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/52/zzc9h5rwMY1yfY2z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP53 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/53/hXXDqZgt1qF6rFO4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP54 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/54/gBQz07ePjBrp3mfW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP55 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/55/F1f5ZzaDV4wd-8hO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP56 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/56/R3jw1fmjxK2AQqTm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP57 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/57/o1lQDzjCPlahBMSL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP58 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/58/QFOJvchRSqidhyX-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP59 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/59/cGSiPjXhTlSic1Mb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP60 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/60/HSIJBzrpxLXQyOjr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP61 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/61/ou3jum-2URkkxMpC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP62 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/62/EudU3yWrHSBbUoIR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP63 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/63/-uMd_ZqbE-r84Egq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP64 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/64/4_F4YuY7JCvXVQhy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP65 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/65/drdRubk5o8EDaHD5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/b9c73c8ccd0340009560c8d328580e02-1781178201785.png" group-title="👰🏻I Came Back From The Fire To Ruin Them👰🏻",👰🏻I Came Back From The Fire To Ruin Them EP66 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4689/1080/66/NW_9qLGMV4Kcjz0y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP1 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/1/l86jP0lI3wksSQEa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP2 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/2/0JfAXCiJ8yu95Ukj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP3 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/3/O9GlfQa-nnNMOP8o.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP4 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/4/P7ZRPGt7G13_VHq2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP5 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/5/mEuVngfTGH7y9IRz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP6 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/6/kqVOytCc-HP8AMan.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP7 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/7/RHmzKmUdn58zTFni.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP8 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/8/dN_MPJAVGKQBQAYl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP9 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/9/lsmfl57mT2OAFUDY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP10 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/10/0GILoGdf-eEO6L33.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP11 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/11/lwuLFsDXlRodiJYM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP12 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/12/1YvUsYUdruXGr911.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP13 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/13/A0LxWN7MsYHqk8YK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP14 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/14/X9tL4dxniuFmiwmf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP15 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/15/gEgQVv75kZmbCTvE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP16 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/16/5ZqbSaB9IN_3GNUa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP17 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/17/pzYknwxzREohLYOD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP18 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/18/4dtMqqj6C6pD5Hwt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP19 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/19/LO_MJBLJ-Q-r4U36.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP20 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/20/KWDmzJoAOCcqzcVE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP21 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/21/jE78s3ndrSrJttMz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP22 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/22/-bHOv-qzxJqjgjxs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP23 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/23/mbwcmfFj1Ew8XZkT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP24 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/24/ExssdPzKbWyBJUAT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP25 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/25/KmY9BpBRCs3Y2kpG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP26 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/26/BjSBfMzTRSMQkgBi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP27 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/27/sQnY2F0rKB3kT_Bt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP28 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/28/ER8oWGzWbhm-Tusg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP29 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/29/eMBPwuVaHDNZ73yy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP30 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/30/yGjDwyaxfmW_MQXx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP31 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/31/J1-gohaGlsoMmOFO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP32 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/32/ce4M7rD6O1Y0hQax.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP33 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/33/qj4ZULzqHb-UK6e5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP34 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/34/eXkqy_BNeyspylqC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP35 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/35/M5povykdk4xCsP3p.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP36 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/36/V2ABRfm8JNbGgRV-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP37 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/37/RlkeT5Idup4SbpZk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP38 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/38/pLnCcGibs-yKzID0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP39 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/39/NdHlhdVEH1xs9bw0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP40 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/40/Gicf32WEx9xEHENe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP41 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/41/67gHTYXniKTRdH_s.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP42 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/42/z2aow_GXiVAsN1y6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP43 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/43/mpFSQTbW0eGx7Hxo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP44 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/44/zGVO8IckVN2PVydy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP45 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/45/Ne-5ptq3BSKZIb2W.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP46 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/46/P40ZLuFsVcjYuKa6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP47 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/47/rfNE58N9lLR1-Gwm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP48 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/48/IEiGugAzOwDRJ0MJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP49 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/49/9fU0gaHv2-WPnnH9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP50 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/50/dAo0V1zESAyR_N9P.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP51 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/51/f1Fhwawz29aifD_A.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP52 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/52/QmZqh4lDJ_1EMYYk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP53 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/53/W0cT5AchvnMRp5pX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP54 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/54/a8tCynqFEP1HXKOn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP55 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/55/ljNJFe88eJZgOvXX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP56 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/56/nVZ9UQkDgx3mCkJ7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP57 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/57/VsZfUJlWZT4F09V-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP58 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/58/6hqZojvX9E-r3LaG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP59 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/59/MYAwFNQfJOfaTFda.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP60 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/60/pHWapWaVv1-LFWfO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP61 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/61/5CE5W-Xu4wyxH8jr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP62 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/62/JFjLuINICJD2WhBS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP63 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/63/rhUrFhEkfUZTzJhy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP64 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/64/z3YEXU323HZyYIwl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP65 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/65/4GG6QaLr94KKlurm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP66 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/66/NrJ9gpQJsOS1UJs1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP67 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/67/peszYWhfId4jpQx6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP68 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/68/LgDpx50Rk09kevX6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP69 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/69/5IWH2QQY9Qqj2BSP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP70 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/70/cUBnA6j8mZelAXik.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP71 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/71/8V3KldpUqDNotjgi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP72 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/72/ykkO8stQB_c0PqZ4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP73 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/73/CdFnBPBYJpmJYlU5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP74 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/74/6qNSTaw3-IUcMhGf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP75 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/75/TlVq24YRm69Ylj7_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP76 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/76/knPEBrYEUVF86Nkg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP77 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/77/ufO_dIdOu2pnefE9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP78 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/78/VrvtFAZO4VS_pLif.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP79 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/79/jdXBCK0XtWwnXZd7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP80 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/80/-KVWtOxuW0fj5bOo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP81 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/81/03mwDqhhEqcwnkuA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP82 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/82/PKsRwUMijfQBz5il.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP83 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/83/HPPhIjeMeDPvMCk9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP84 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/84/t0ieIzj5S6GyMvT1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP85 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/85/5iteJtQzU2CEom22.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP86 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/86/4jtvNIUFxUbU5GR0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP87 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/87/PuHPggiWEzjLDopm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP88 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/88/wbubK1Qvj_jDIbJW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP89 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/89/JXIWZed-OHbGq7J_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP90 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/90/i6rGxgEQPxS9tITx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP91 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/91/xoq6Bj6-oEXr6Hcd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP92 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/92/F7jyTCKvtu6yOQMA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP93 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/93/kdYSpwirfyxbpNKf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP94 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/94/6t9WTx2hAVZ-ms2d.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP95 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/95/iJ-VoyjtG-GMVGHR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP96 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/96/iGfWT2Zir17DiUmM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/8dd6caaf6d104007be9b38f3e0f21b10-1781178188694.png" group-title="👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE👰🏻",👰🏻Divorced-UNMASKED: MARRIED DR. NATHAN'S BILLIONAIRE YOUNG UNCLE EP97 [19:07:32 WIB]👰🏻
-https://static.venixtv.com/videos/4835/1080/97/zry51-_XxBsdQgix.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP1 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/1/lin98j_PljIA6D3n.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP2 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/2/ejlhmuaLoNjXSPJj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP3 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/3/sCMoONNvqv2mfYG6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP4 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/4/M_MCMCS2MraQtOFF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP5 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/5/9xmA4sVVrUsLK4MU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP6 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/6/Yasy64SoV6kabRGA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP7 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/7/LwYfAMLZx-PzgKr2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP8 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/8/9h5DoK0x2MGGCIYB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP9 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/9/584E3iS7xCg3-ZV_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP10 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/10/ubyYdzAwRTaJTyw4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP11 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/11/QVE1lAgSPG_j82NR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP12 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/12/X93mUMWFPHck0Bts.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP13 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/13/4Fff5E7Kq2eLUrSV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP14 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/14/EeHepWFcUgTA8rxo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP15 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/15/KYxgWURhL1IGxZmi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP16 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/16/6FJeHdYOz10__M1G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP17 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/17/dQ8VsmSnctoxtJfy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP18 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/18/Nt6tPxmoFYQbitYG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP19 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/19/VC1BI82wezZdF8IJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP20 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/20/DuToBKOpM309p0QB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP21 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/21/NWTDZaBmtTZDD71z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP22 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/22/Ou5KCVOc6gJHBC7f.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP23 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/23/zFfSsSG0HiEn-KGV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP24 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/24/HRZKIwSJJlhvVI_p.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP25 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/25/aERpZzn1F0a44SQk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP26 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/26/9OZIdqOvU4adz8Dz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP27 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/27/Orad4UseEPq9xSWX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP28 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/28/aJ5m4Waq1BWRwoE9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP29 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/29/fSAarAQ4Gnx7V5tu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/fb96e888d29e488a82c9648c03660a82-1781091895392.jpg" group-title="👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back👰🏻",👰🏻STOLEN FUTURE：The Small-Town Genius Fights Back EP30 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4287/1080/30/EwngneyB2Ukf1rVn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP1 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/1/pJSq4XKMHdPXkzzk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP2 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/2/LDmObfoOMSLAH4UP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP3 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/3/186sXvAwqP5b7yIL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP4 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/4/6yZmabLm82q-_RGQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP5 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/5/pOG8NNKPLGMyUVX3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP6 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/6/hh8S2AWCHt1V59z-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP7 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/7/vAfhS3PSZEjPPh96.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP8 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/8/lNueK9CWOSRq_Nfj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP9 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/9/KygvFKis7WUl2MMr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP10 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/10/e1HGYoLMZTAzlOSz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP11 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/11/3EeNZUsR-ed7e3Jx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP12 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/12/hz2Snri-FCCKUKrz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP13 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/13/blRF-jwdznM4wfgG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP14 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/14/WOK9_51QTycS_emT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP15 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/15/q9DuSmhlujKbf3mm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP16 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/16/CC0AC4hJMwJROsXS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP17 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/17/F2z19rgR2upG3qao.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP18 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/18/LZRUSpnwgyXaU81x.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP19 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/19/ee8yZd033VBCWUOx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP20 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/20/SYHlDFYPr7jWTNNH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP21 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/21/CS9IIeOJMe9hJuCW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP22 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/22/eo1Tkr1LpRqrLNiG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP23 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/23/Q92B-CUNEFNBVMsl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP24 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/24/MeJT73V7bYfCCtFa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP25 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/25/w8MdivM2mfvJ-mZl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP26 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/26/Myz5L6q1UOl75U_s.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP27 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/27/zOr5RoFk5dq4Z08j.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP28 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/28/HlXyKZn1NEnhnsuO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP29 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/29/sQK_Yiozm4r_AXvF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP30 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/30/Er-Zunr170b8Io7p.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP31 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/31/zzbCBD0qVTP9KkVi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP32 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/32/NTPL-eYKqzJ95Ka3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP33 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/33/Zqf3Q_3b839fFBfS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP34 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/34/UWXi3AjaIKgNd7vm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP35 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/35/4IYDhZNExVYhdaaF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP36 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/36/03xtpn9zPDoVx2ow.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP37 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/37/DcSam50Uv2rMvorF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP38 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/38/pklqfsZYDrPyOXav.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP39 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/39/lLBA8PHxdWuvxuyh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP40 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/40/ZkrNqC7vSo4EQDEz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP41 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/41/k9tVOD7gDhemfHPC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP42 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/42/dgXqnNFX950GREui.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP43 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/43/32ClEAIj10RvQFwZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP44 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/44/fRsfr7eFuIOopCRp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP45 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/45/0H90oj2c01jKdkLC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP46 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/46/PZ4xB24ZpdsKunNP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP47 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/47/MHcgPJzjxDHAjDtS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP48 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/48/HTKlKoDFylfZSyIo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP49 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/49/nPvsQo_KKbt8rYA4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP50 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/50/_SWnE_rTDaKG6hHK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP51 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/51/Q56LAPjRAO6DUTPu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP52 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/52/DslWDPnMv1CL9i-l.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP53 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/53/Qgi0wqfznsb4LHRe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP54 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/54/x5O_kONLATfbAZFx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP55 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/55/YxqWBxDuOBLVflkw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP56 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/56/RZbg3akN7yWTaEsl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP57 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/57/ktIymgB3KSuagUJi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP58 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/58/0uDSax4K_GdjG7Jl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP59 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/59/6_1cxGTQ8qXhdyH2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP60 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/60/xcnHHb9YLnJ3617c.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP61 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/61/RsBsixXg0NED-fV0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP62 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/62/rpU7T_1BNN9wiaSe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP63 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/63/h-yh8oxWS9ctWMo-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP64 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/64/emcXeukrQ-BWjPyW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP65 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/65/XecCaGoWwJkbgdmK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP66 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/66/gy1oqoQyh8sHKa9a.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP67 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/67/L3NSXacO8PF4hCIc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP68 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/68/_SZ5j-Vufl-1H7fL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP69 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/69/qymkdGQ2IwaEbW_m.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/838f3824e3d44e7e99dfce17a6913a5d-1781091888106.png" group-title="👰🏻Deadly Karma:Broken Vows👰🏻",👰🏻Deadly Karma:Broken Vows EP70 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4316/1080/70/jPIXWPBxvMYdrkIl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP1 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/1/4r-ZVh9IqmOj1WRs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP2 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/2/1vWZIGb_sPqsm1hY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP3 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/3/3QiK0k7Uoi1VJRaV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP4 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/4/9xMWl9yp29Fp2A8O.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP5 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/5/99y0g-8d8cS5l-Lz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP6 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/6/Q211ge7eIsrKZtqt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP7 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/7/DzTLESwOQlJkrGHD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP8 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/8/G7kEx8WAV5eWP3ZY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP9 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/9/dZqpZoK7d1HCnnIz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP10 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/10/ez3QanCrgdk1oI0-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP11 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/11/M8F04M0pPN9X8A67.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP12 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/12/q7q_7kfTJF-5Pzui.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP13 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/13/pQWEt386Fa_sNjwG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP14 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/14/6EB6lSJ2IjkrDHcL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP15 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/15/xoLgp64mEvVBmPY5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP16 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/16/O5Ga-AdZ570B15Kt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP17 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/17/KOBsXIhA6wbHWCHr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP18 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/18/evCzsOXZUsJAaoL8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP19 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/19/oqRS9bo6RnXSLX4P.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP20 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/20/UWR-ciuqlelTVXZl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP21 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/21/kRl1z_YS0xZDB4VX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP22 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/22/lupfKK8u27l6YiTZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP23 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/23/gNYiwT0lnVjuG27H.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP24 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/24/1bdyQQVxs0MMbsSX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP25 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/25/lGFzpl_vQCYvkeg5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP26 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/26/w-viuF7lJvHg-sv3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP27 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/27/Cc2xF7UbBKDdxHTa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP28 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/28/SfR2q6cawg_JB2V9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP29 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/29/GYcXULIMr8AVRdlg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP30 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/30/hb8ILj7Cbd_YOEdJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP31 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/31/yfsEVLoHW6ciOihJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP32 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/32/OrNIywY1Z2zhPn5f.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP33 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/33/eodpuSPH7xFTMHjK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP34 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/34/R7ZRo6A1dCMJXt8o.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP35 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/35/rtzpVAuJ96gF_Qb4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP36 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/36/0xpUYByRaCDU_Ll0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP37 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/37/2XeVPxdoEtsoBpzT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP38 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/38/6t8mUCQbZnI2g-dR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP39 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/39/xyLpz6gynO8zILQk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP40 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/40/zPbzRqk5q5kFN2qJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP41 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/41/dTCQdEXe-CpvyOHz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP42 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/42/sWOfiY_qEQ1UiPhG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP43 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/43/Tm95XYO_PtvpZzmD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP44 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/44/8GfkjvuqSyGOHqlO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP45 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/45/DFKQe7pir8ST1lDw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP46 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/46/c-rnZZx3wjX-vZz1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP47 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/47/W-RvYqwct2fhcumH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP48 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/48/N7Go4Eku0-zEnd_w.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP49 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/49/VFTq2pR5R-c9W9N8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP50 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/50/lz_WfYD6ZMhWrKuZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP51 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/51/MnzGR7yaa52ZWoZE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP52 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/52/wTw84jBpV08cGKUY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP53 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/53/1HNTAUMpq4r2IHx6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP54 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/54/9k_36WZ-FpnRhhfZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP55 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/55/2ZE2wgYBadV7533P.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP56 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/56/JvkhPJieVcw4SYyb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP57 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/57/ybrRu2u8LXYKKzS7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP58 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/58/fUmXqY3jUW2BdtUG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP59 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/59/tTDIlUwfe25eBXvr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/2d5b34ce9126423c950c03d922ec063d-1781091877228.png" group-title="👰🏻The Revenge of the Wolf King👰🏻",👰🏻The Revenge of the Wolf King EP60 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4513/1080/60/kQUkp0WCSEw-yCf_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP1 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/1/NVTK_lG-JG-xJgWL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP2 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/2/Hhsr8_tvVQSBSB8J.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP3 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/3/5x6OLRSISOQZzxru.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP4 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/4/kE2WAJb66kKCKgVN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP5 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/5/d9HRXMtEE_wVxhpY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP6 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/6/nSir-0xnTdTRmtPA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP7 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/7/m-1a3QOyAcqbwCdJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP8 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/8/LP22E2Pzp3ON303Z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP9 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/9/xW6Toiz2_Fm3kEEE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP10 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/10/Nef_rkbKsln65pJz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP11 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/11/DdIsBlDo8gsbIkUN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP12 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/12/jfdTHAbwQUHhs5AO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP13 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/13/KoIJkP-KZXhZc2uw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP14 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/14/zqN5iGMVL1VyiuHd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP15 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/15/qEL3YTrvM3kq5adq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP16 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/16/eVET-y-3zLhfskfq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP17 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/17/eiqUjqB9Q7gliDfW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP18 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/18/InJVXUKGrBGZRx9g.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP19 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/19/cpYs_y8QG8eW8Teg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP20 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/20/i4lRuFs6SEmcTkSx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP21 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/21/PQzMEw3nYFWKuCvY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP22 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/22/Gzwyw18C6xMYJkpt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP23 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/23/YczF6m4h4YgWAuHu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP24 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/24/60OAgn5Qes-heNke.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP25 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/25/bwnUnAO9uODBTqCI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP26 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/26/dF0U9LMCIrVcZ4fg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP27 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/27/0L54mdwtxWPq9cOn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP28 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/28/Gp7Nyhqxtt2GoEmy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP29 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/29/MbG5s0Mxt89xqPCM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP30 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/30/My5seeFxE3Rvuqgi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP31 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/31/KMm9Li-OQWftA637.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP32 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/32/q7eORHscq67iXd9n.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP33 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/33/WNS-BW6fBatNGSWi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP34 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/34/lxXUN5jzgGzl_yQr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP35 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/35/oNOMUHoqC9HI16OP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP36 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/36/fPe--j6JhT38G8V6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP37 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/37/FF5z8gFfvbxLI06g.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP38 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/38/xs4-tUHH6m7pbiM9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP39 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/39/dLjT0mEV7BikBfRM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP40 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/40/H4BiIkdUkAg6XjaY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP41 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/41/v-1q2KLBe7A8DgYg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP42 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/42/QbUFX6lKUU_i13XG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP43 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/43/9BaMqrEHJKvwSz7y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP44 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/44/5Je99EX6U3HkrEzJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP45 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/45/uch1ylEhF-rx_zQ1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP46 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/46/XFRnrTOpen9w1xvc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP47 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/47/M1LmhmFCjO5ENKIv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP48 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/48/WNc1FSddaj8XSu6t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP49 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/49/bsdhmhBD1Z0EwCNv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP50 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/50/ixVIC7FxPQM5L7pq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP51 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/51/n46-5y4RzSAEimyL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP52 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/52/8sJCoGHOrVpdQoz9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP53 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/53/D8nojaJaW9py9QbE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP54 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/54/JyNZedjQgvSWYsI8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP55 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/55/Be3sJfSVuAh_x5i5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP56 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/56/zHtiJ5F0jZMapxZb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP57 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/57/8oQuhzQxfzpxHm8v.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP58 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/58/Y5IXH2YJfT6ZRgSs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP59 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/59/FpboYSZ0o5weJFTE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP60 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/60/zrxivisrRftitvSN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP61 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/61/mD5uq7UcQ9DoyB9h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP62 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/62/8JE9tUSKpvEbnQ-p.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP63 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/63/aAt-LCN-gE790QfI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP64 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/64/4ds7GMltfyCjfIOt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP65 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/65/Vdi13itaRhH_PxJZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP66 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/66/MWE4ndESoGBqm-oM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP67 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/67/tKdDlEwKArHh1pbO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP68 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/68/XAh9qptz3lQXsHoF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP69 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/69/MplE2GgcBiFv1FX4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP70 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/70/7V8At1IIW92vfMRQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/553c3248720d440f9deafb038c76cbc0-1781091869674.png" group-title="👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt👰🏻",👰🏻Ninety-Nine Divorces, the CEO Ex-Husband Knelt EP71 [19:07:33 WIB]👰🏻
-https://static.venixtv.com/videos/4515/1080/71/jmE3bG5-5WJWv4Da.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP1 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/1/8_9OZh8Lg28gezdl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP2 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/2/4rxNzPKZwgSIGOoS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP3 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/3/VcLMO66L-5HtdoEk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP4 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/4/4wOB3dZQhBKGVax8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP5 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/5/dIBgdcm2BzyTqxX6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP6 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/6/nMC_Z4tp5nWMy9oU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP7 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/7/CnU8-JFBTiX6Pfgn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP8 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/8/bIpkTr5JjWKN-Sp3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP9 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/9/XJezlah8nR9NuQ3H.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP10 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/10/RadldapUVPwBQ617.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP11 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/11/Sx7NfHcrOlna8m7l.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP12 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/12/qO29tnq_8l3hOfFQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP13 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/13/6q582BK0p0eknuoO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP14 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/14/r3uE5gKkDyxtGcgC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP15 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/15/RLEWVqDHhvmOqKXn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP16 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/16/--wkScv0271-b9Xm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP17 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/17/woLQyVNh-s36Ya0E.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP18 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/18/HGvJxixY2f-oyxhF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP19 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/19/wmo9hZWawIrhyEz7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP20 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/20/xUSp__oCLOY8HBx7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP21 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/21/8Sk4MfpIHv0JIS8f.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP22 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/22/-GRDLSULBdSPpHok.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP23 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/23/MUpTK39Zk39NNMU_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP24 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/24/Jvfkv0yCXBPfXucI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP25 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/25/okdDkdjisRgNiBBu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP26 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/26/8gSXV1tZvrL-rgUd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP27 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/27/OZGDYcx9F-hm3i5U.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP28 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/28/SY7epwrf7mgG4ABh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP29 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/29/bgWYgXRap1Hoa6sf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP30 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/30/PPBVX0DTl9KMDyrS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP31 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/31/MKYKMF8oIZI6GTfP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP32 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/32/-s4fT_uNw59zUuCA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP33 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/33/2jXyaJV2sPcFyWLg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP34 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/34/GpKvQWE34FeiElMo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP35 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/35/Nz1LuK-y74oBuH1d.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP36 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/36/qxwT9S-OQz8fS4bp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP37 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/37/_h8jCXweDVCy_UkF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP38 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/38/C-Hjg8dkxhcY6GtC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP39 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/39/AQexlyQGt3H_Ex6F.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP40 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/40/m-6bxqnyJYYX5MAl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP41 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/41/J6MORt4Ty-NZMzfM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP42 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/42/84zLdDKkfSLjTHPw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP43 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/43/33TPsZna3GhXGQ_3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP44 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/44/ugIfBev0vyb8IcoI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP45 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/45/PFjkmF5jTs0FQ63v.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP46 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/46/SR3sVBlGxZ8EoEOy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP47 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/47/q9HVq7BvNKg8h8vu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP48 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/48/ZkYcBKjj6afX5ZI1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP49 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/49/7oXjymKdMPIY7WNv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP50 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/50/9T6zUFr1zVfQrLMO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP51 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/51/-I0rhWmuVPcH9MZD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP52 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/52/V4wl2I6IDb7uiky9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP53 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/53/mT0ni8lL49rvvX5c.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP54 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/54/75JyWNf_Y5w76hTq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP55 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/55/sfe4mUOqtipPyyc8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP56 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/56/oWdHExD9W1oCTnhg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP57 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/57/i1LjzCSDAtuV7QyY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP58 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/58/amwPNwUf2-woxi_z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP59 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/59/swUmgD_BoSLN9zXH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP60 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/60/Kwh1gyjcRLguqVW1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP61 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/61/Np2RtvScxVMIi1y-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP62 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/62/anspOdVagN-gHVnt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP63 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/63/oSU4YuUmFx8dSs5K.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP64 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/64/opfv_UHbjxUR1q_J.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP65 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/65/4_8JEa9wXOwAHwiH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP66 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/66/e1xsD0RiNdfL0WIv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP67 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/67/7H7SRa5ouz-YPZlG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP68 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/68/SOtrM57T8oifSfaF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP69 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/69/eNdQrDdl5ZF3Afpk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP70 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/70/i4zt-gQ9mOoHR4rE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP71 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/71/OlTF1vzOH116PzhC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP72 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/72/muFu_xeOs2JzCR6g.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP73 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/73/qhAWysGzQwqlyd5l.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP74 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/74/Eo5-kLCII3ON4RLw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP75 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/75/ZGBmgh7ThuPRw74d.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP76 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/76/1A_PpswIGovKsEDI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP77 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/77/ZU1kTaFWv0juPwPY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP78 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/78/_5wxnAZTPzWmdv9e.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP79 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/79/mvIzXJojaZc_1WJ7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP80 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/80/4eiDIuL1yI2mloCq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP81 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/81/WZoqhWbVQa82y8Eo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP82 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/82/ESTzuQGdMHK7Htl5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP83 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/83/PQnKUL-MlaeU2SBn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP84 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/84/jVpyFqzymsg7QLRh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP85 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/85/SbOq1xzsneA3Nuek.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP86 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/86/-rnkVFvFs_GaVmSw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP87 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/87/ihOKMY_nFWQI8cJy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP88 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/88/Z1N9AFuNFhbFc8pF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP89 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/89/fk9swFfUeOnqRxSy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP90 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/90/9yUxCrpV9MLT5y7a.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP91 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/91/I5mvuJ6u-_rTuAyz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP92 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/92/HxX9Cv0iZv_9e2m0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP93 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/93/T1_5u-FZohSfaV9X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP94 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/94/zDUKRhN-l9Zudd_m.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP95 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/95/X1QLZJgdKOm6gKWN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP96 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/96/dxM2n-5PFInt5UUl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP97 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/97/9w19td9RiE-34FvU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP98 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/98/y_hi2Bw7HtDYLwu9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP99 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/99/ZnHnIWxnVFr89zsi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP100 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/100/38r77B03J0Aq_nWu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP101 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/101/tKJnSDtrFrbLzaWU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP102 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/102/lEbeMVI4sbeayxlZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP103 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/103/bwCFem0_eh-hKU1Y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP104 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/104/Kiw7Fhmwv-8iyPrr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP105 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/105/wDRNhGA27IzLVZh6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP106 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/106/vBc2pYvP-ODGjXea.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP107 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/107/Q_dUugbKZqkiVfw6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP108 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/108/i__JhUSx3-YIY62b.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP109 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/109/QW-BDih1fOf53Lk-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP110 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/110/dcOvZBc3Les09E1Z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP111 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/111/xZuG8j6a2jO6heL1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP112 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/112/tNE1A6b_zTdrV-Wp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP113 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/113/_LnYI8jU4xBAuY1A.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP114 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/114/kFkofUDsrW-j8FMn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP115 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/115/-heTpm_9A3lMG5dN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP116 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/116/Pz96cH_Ne7V7jhAW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP117 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/117/u2yIjzoo__DTfCj3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/e1c04544a6494bafb5f41c64857bf5be-1781091860515.png" group-title="👰🏻TOO LATE  MR.MANHATTAN👰🏻",👰🏻TOO LATE  MR.MANHATTAN EP118 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4567/1080/118/6OkNPNktYdfkZCAG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP1 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/1/fBNK-2y6loo48ONo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP2 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/2/JdttirNu2fZPordc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP3 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/3/D5RTWiIiIeXgvsGe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP4 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/4/pmoSHbMVWo_WxCJJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP5 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/5/7poG8iicF9vgD339.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP6 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/6/IE9eKrHAigCyplZV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP7 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/7/t6YAbzMcLoKSBwPT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP8 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/8/isW2ZYU6yEO4RVUX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP9 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/9/H9nkgmcyqlgcqq48.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP10 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/10/W8WHvyMZEVbd8HLW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP11 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/11/oawAN4URl_VsGunp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP12 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/12/CRfKw1sI9j0FAZy9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP13 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/13/GKbDl3U3XdAB-BT3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP14 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/14/ofZEfGnS9V9N7HcE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP15 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/15/vExiH74qWk-bn0rE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP16 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/16/dIfc77Tpn9jM1f4a.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP17 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/17/kqReGvwVnsxJ9P0C.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP18 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/18/OPlkTOb_rjZWF-sG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP19 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/19/WwKyA7uiNMHQuZ8A.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP20 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/20/epxsremzCVWl_Ue1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP21 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/21/-0L8KnqfUHI3Kzlg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP22 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/22/6CFqXrbYTmGv5LvJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP23 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/23/KnzKSPyMCtEdl8nu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP24 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/24/aivmDT_dEu_GO74W.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP25 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/25/d3OYWYuIPyYC9Xde.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP26 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/26/m2zzsd6vBuaG_KOs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP27 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/27/lQB5Jd2LukSSviU_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP28 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/28/ztsLPl7gemWc-KiJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP29 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/29/c0e8p4kUl-opRDKT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP30 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/30/32mOLgMWKOdcdwYQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP31 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/31/ILjIeP6rztNm3cmP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP32 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/32/vYlhw-fxrJV2XO5i.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP33 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/33/amSdoAB8G9NnmEYH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP34 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/34/JStBwx6BnFxntBw8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP35 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/35/F2E9j-EGyBUSHGDQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP36 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/36/jnzKnBQU96NOll9W.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP37 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/37/YjwouAF7LfR9DTLL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP38 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/38/8nDcY0rQtUGwKnrO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP39 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/39/sQYpNthTjV_aNwzl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP40 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/40/7GdhWR0tUWv6xoj-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP41 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/41/yrEz0xM34WIr4o3N.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP42 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/42/k55KK2DXV-HZiGVi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP43 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/43/poaZL_QyAL2VQ_BK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP44 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/44/odWtZllYc8RsD0u9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP45 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/45/FHvmRprI_xFn18YR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP46 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/46/enUgdZjkAYOjS0BO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP47 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/47/gQQ_uPHEzvSSOIeX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP48 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/48/iSDc8EyYTKpU6A-y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP49 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/49/XZLB7zbsF4gWQP14.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP50 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/50/8ZfK2KwYdc_47MXm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP51 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/51/cCdvBJTIaZJMkwjU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP52 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/52/53Mt4yaU9ch0qtu1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP53 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/53/ecmJgVdINWTsesmV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP54 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/54/aJU4uehx2blFpdIn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP55 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/55/xAnGeSuX1MKw38Ez.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP56 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/56/Qgyx-qnQiMg70F69.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP57 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/57/_zPTGOSWuwNB_TMF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP58 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/58/F8D9HVNgwucESCbp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP59 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/59/dBZhnpi3YAQ6U65s.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP60 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/60/jLnB_ykHB-XAzbdf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP61 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/61/Vo5hVG4P-EpQ5lQD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP62 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/62/aPURWz-OrcZv-n9t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP63 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/63/fYSBNcevUz9XqYes.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP64 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/64/6Jiqp1gImLEYDS-v.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP65 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/65/tDau3OCyb8Ac5eS6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP66 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/66/EkyUzzmqxwMEn59O.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP67 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/67/S-FFl3-6Tm7tj-_B.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP68 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/68/y9DMS3r5j4jHAA1H.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP69 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/69/5cKlC3_dwYC1IJ0A.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP70 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/70/y_M1ApfW_RZ-lVqT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP71 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/71/lAoF6prfIScEVoTO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP72 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/72/G2ow49gu7LVl0jPM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP73 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/73/pUWa9Q-KHLuEFocp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP74 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/74/u-PLU0mRFQstxVHN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP75 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/75/oUjuI_eXDc8ZGjRW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP76 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/76/4FdsjKW1guIh-mP9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP77 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/77/fdeBKW4UK5_iUoTG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP78 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/78/b3hwsKuioyvaxiUt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP79 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/79/Ng8S_ZWSk-iWQ-sy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP80 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/80/TCZx5_xuEM3xaxM4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP81 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/81/Cro-WvrIbJH8CSMG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP82 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/82/MdFE7z2oHKDm8OfP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/141783e35b474fd9b1e3966b7a2e9ef8-1781091844265.png" group-title="👰🏻Snatch the billionaire fiancé of my stepsister👰🏻",👰🏻Snatch the billionaire fiancé of my stepsister EP83 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4617/1080/83/4F4hyD851nFg1Jdv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP1 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/1/5rcprXg8l7l3fX_G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP2 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/2/hd1WtpDhzr6VDfkD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP3 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/3/M2BFn3YYOFWQIoIJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP4 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/4/vj9Flyp6Yg9oOt9I.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP5 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/5/Tk_Jej2PGksx8mse.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP6 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/6/It3ri4wyy32C1Unj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP7 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/7/IEtNYbX6wnN8b05D.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP8 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/8/Z8u71nfRzDtHJKnU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP9 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/9/Cly3FJRhU-yOAf2y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP10 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/10/2K3PsGTEtjjYX5ds.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP11 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/11/D06mI3Q0IEzKRdhu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP12 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/12/rnPE6d8lalbB2pno.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP13 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/13/0n4hi32hzQH2j5TN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP14 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/14/0rG5RNiPGllmv4qB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP15 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/15/6fBusnhdzekkhIav.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP16 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/16/WTslCRezP0NM7_Dn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP17 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/17/dyOWO6lHC3_tuCHG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP18 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/18/1Q-MHCkFqf1LSTc3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP19 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/19/chu4snB1ema3nZQf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP20 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/20/BU21g2iK2iCkYI3a.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP21 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/21/ch9LpIOosHRaiMGC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP22 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/22/CVROeoy5KIbAPjuv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP23 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/23/blek9qEvq5uSpxP5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP24 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/24/lLt7RNYHz80Aqni1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP25 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/25/8oNx4gDMpPHtmB_a.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP26 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/26/Vda6maBDS4TepECZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP27 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/27/J9AVmHMd6ot24XVg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP28 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/28/b1TYwRBGwAOXvw4O.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP29 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/29/fDXPZ02guf9WP1T3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP30 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/30/fuq_0cw__YIZolut.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP31 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/31/OcFXKg2WLQyE0qUo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP32 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/32/bZpSkZODc5e66QoR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP33 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/33/B7BO6Wh8rf694yCA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP34 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/34/hg882WuaGem1J29Q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP35 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/35/QtFdWbl3J4agsuC0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP36 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/36/To-mkQtVs9JcXi3l.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP37 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/37/ELIiTFMIFfq7dA_Z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP38 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/38/pvq0xyhyujzYuAb5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP39 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/39/HaHNHwK3Ekq2agFq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP40 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/40/gRd95vQtwk_hjkEV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP41 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/41/DM26x8KC_wUoGd3X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP42 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/42/mkFJM-sYF8zzE6BG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP43 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/43/80F-iISc3XEiYEi7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP44 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/44/OYr4HQrn0vw7ySop.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP45 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/45/OrJTR1-GJ6Vpk7Gs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP46 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/46/rpfTvp28wyI0zaMs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP47 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/47/BrYUVlVR41rNC0mR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP48 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/48/BAh3LL4oBSGV1XdC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP49 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/49/mfwpEpWjgMUIEQtq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP50 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/50/vooifN5v8veL0Q8k.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP51 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/51/xfttk07LQF1CKwuB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP52 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/52/-i461Vi2fqV6EqW3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP53 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/53/a2zmKAgPDbK6DPRD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP54 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/54/pJVVrUfSFJYrvKaa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP55 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/55/P86m97gRVSPRLEW8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP56 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/56/nk2BPhMiJ4AoTDKP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP57 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/57/J433uwGATXoU_SC6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP58 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/58/dqIDfNb6KJ8NAnOH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP59 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/59/4roMtadtP0oxdg2H.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP60 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/60/zB9BStZlLIxBWLu-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP61 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/61/3nn7OGE6lbiY6jiw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP62 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/62/A-3RMxFeR1D4BDWc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP63 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/63/-KbL4Vv-WJVNNZZW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP64 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/64/ElDcQlIsiGfdnPTU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP65 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/65/rUAXhZ7UWcWVQhET.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP66 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/66/16hdUAj98PG29PDh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP67 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/67/Kkt5mhEhdeP4UQHj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP68 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/68/ev4RVfchWuWzevU6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP69 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/69/Sfsj_cZcQg8JydPG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP70 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/70/q5ep0d-i8QyE79uy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP71 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/71/7tU4m3wPqAsRl1ID.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP72 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/72/JL7vXSHWDNRv1HKP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP73 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/73/4IIFkA41lSj3lZe3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP74 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/74/gYBhXP9qPftdU4Sk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP75 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/75/HQg_i2YHgzMTf16D.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP76 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/76/LMPHUQ5PYH8-Co-9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP77 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/77/1x8VNupXbiC88Zqp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP78 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/78/GvHEM9r30gwZj9Cm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP79 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/79/HHhoxMvp26aCaTDq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a833b7c8b3f5442a90aa3e219b0e9c14-1781091833918.png" group-title="👰🏻Moon Confuses the Ferry Crossing👰🏻",👰🏻Moon Confuses the Ferry Crossing EP80 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4601/1080/80/WO2Z4bx3kfFszIUI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP1 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/1/42LghyhyNBCAB2aU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP2 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/2/59Tk2iU54P0a51ZF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP3 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/3/pHkZ-Nn1Xxhz9-4U.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP4 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/4/E6QqdRqtidrkeZbo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP5 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/5/ePZ__zZT8msJSqaN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP6 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/6/6p9Hyx3CBnZ690bX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP7 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/7/UHA4hAB5bvrwSM7z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP8 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/8/HZvWfIXPlNBLkc-q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP9 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/9/kGarJLV3Mxu8Q8yr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP10 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/10/RiSMGysOJIU8sfOn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP11 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/11/XhPRM1Bhug0TsmOF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP12 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/12/_FPyB-aA2xMo4TH2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP13 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/13/am3U69qBlTYkJxeD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP14 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/14/9xrGG5-8_pr1AWXB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP15 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/15/aE4I0BGvZS8Qt9Om.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP16 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/16/9yYNbLLVpGIpBtGJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP17 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/17/H9Ings7drYI1X5h5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP18 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/18/s5RGMUho_jy8dDbB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP19 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/19/zOe35wWWsAlO-6x8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP20 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/20/4NRSMGwDEa4fA4Oc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP21 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/21/g6Aw3CUWo80nzLui.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP22 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/22/3A4S16kX45GXGc_R.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP23 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/23/7r9jqqKOuKOeX26X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP24 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/24/NRALkEZppgemt3Bs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP25 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/25/RDEmDKBXDpzRsEfM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP26 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/26/GFCeJ9kNSR8kXnZL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP27 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/27/V2Nu9uaYYwzwq-8X.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP28 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/28/i_ZC6kLv5i2Ck8at.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP29 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/29/SNebzKDyEdEOB-gi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP30 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/30/yCzblQ_466PbWcUA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP31 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/31/uUSFgWCox0E_hYnu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP32 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/32/fIZyemy6Ao7ybeF_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP33 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/33/o2JGESKPQg8Ag602.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP34 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/34/V0y3X5NM013D0H9A.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP35 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/35/TlyOS6jS8DTT8s15.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP36 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/36/PI-TwrOA4KoqMblN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP37 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/37/xdMfRCUbzq32Pw6I.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP38 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/38/aSfKRttUt_clr6i4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP39 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/39/PuFGLB7pk7anfzgG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP40 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/40/PkGeG2naWaZr6zhZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP41 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/41/RmGVQEjkVjhVy2Z-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP42 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/42/r-s4FCyyuB_95lvU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP43 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/43/ibvuMlXJoLQ8uM6M.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP44 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/44/tsUyHJ3CQVJY7nA_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP45 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/45/rIg-pPzwBt6w36OJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP46 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/46/X_Rfs8MirapjA53c.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP47 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/47/q2ZTk61BAgffSrgA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP48 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/48/QVBrKUkHm3QfSceu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP49 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/49/ZP_xveEK2g5f6PYY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP50 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/50/f-llyrzG-Tau4oxe.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP51 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/51/ujrsOHKymw65SGZW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP52 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/52/sm70nyNAtU5xGxL-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP53 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/53/HUT6oK570t-N7h7g.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP54 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/54/4tXceFXYhHECrmFA.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP55 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/55/SSjPnqSyeAc1uRhd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP56 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/56/NylcKWfMtmfJi1ZL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP57 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/57/t6uDm9oT3v1mJy5a.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP58 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/58/6KEOy0ztcXS_nGNY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP59 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/59/JJk0b1YPxknNdcfQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/4813c89c45e14339bd0ac0b4a4a1a92d-1781091823941.png" group-title="👰🏻Fired. Then I Shorted Them for $10 Billion👰🏻",👰🏻Fired. Then I Shorted Them for $10 Billion EP60 [19:07:34 WIB]👰🏻
-https://static.venixtv.com/videos/4677/1080/60/-1WNmdm0hjW9Syhf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP1 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/1/rn-neodcXgAE6RBd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP2 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/2/Kf3sMAE7cI20EsAt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP3 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/3/iFncBSI-V_bXdxNy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP4 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/4/wHgIErj6Cj4kaJXZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP5 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/5/GExEP6H4y7ce659t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP6 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/6/iycIVVvipb9VAs2g.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP7 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/7/1ZGmW9-C3TewzjtB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP8 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/8/STfGPNYlmAdJGDSD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP9 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/9/LSdJFg7RQjd5Hm9_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP10 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/10/NJnKcHJH4mTicFLn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP11 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/11/LaGjS0GLBUtHyUav.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP12 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/12/SK-Kulr_anjqWpr3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP13 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/13/6eReGdbwonBUK2KS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP14 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/14/15jceNu1XU9z5t8p.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP15 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/15/sQpE43BAIyXSNYaz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP16 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/16/5isXiae8oCZeIx19.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP17 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/17/tOqHoydPRvq_1XLi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP18 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/18/xJdeVGAIJLrZbZDn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP19 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/19/oCWiU9lrqRvzUOT2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP20 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/20/A7O65UGs8OtPODni.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP21 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/21/4qevHPmSE8PbTzkS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP22 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/22/1dEU9DyBWzOOM-os.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP23 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/23/AZyZR1_aEdvDZEP2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP24 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/24/OiPnXSaA7h8-yr94.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP25 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/25/PGN7pKWB8Tdt-xh5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP26 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/26/-q5cDumg-6FOiKsj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP27 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/27/Sbpj7iiRi_3aXewb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP28 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/28/7eIMKE53ZESawpTF.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP29 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/29/KNvFBxOti6pd4w99.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP30 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/30/GVQ0P-SnXM7juxzd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP31 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/31/wsO7xA2ZQw4YvoJY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP32 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/32/KkoULPb2_lA3vQjV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP33 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/33/d9f7wkOklEtfxO6U.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP34 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/34/cmj6ZSe6rTSTjoGN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP35 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/35/TopdXtK4-5g5OrbS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP36 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/36/Bgt0ekl1G1w0uEby.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP37 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/37/S9E5NS38yQP9XNLK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP38 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/38/1PXu78pyugQUikMJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP39 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/39/J9Wuzad6-Q7tFyGi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP40 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/40/e0wNd5R6nDXUtbNJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP41 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/41/wbwQm2dcxTuuf5TS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP42 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/42/8bew3GmykDFq40Fn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP43 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/43/fKEqJ5w-gOlRt0ge.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP44 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/44/HpYMEEA9fEqM938C.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP45 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/45/-ZJsWUwnyT403Hri.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP46 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/46/ObxLIuBSwMnFfWTP.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP47 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/47/06gBPLwzQzBdRlvE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP48 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/48/ZQ7FaGvR_TzofCdB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP49 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/49/1k8TDe43gI06_lZj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP50 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/50/SqWIkbVe5v7G7dRp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP51 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/51/TN6z4a3HGBhG14Wy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP52 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/52/yOrEmj-bvRoCS5vS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP53 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/53/jxhFEOPabW5F7Szi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP54 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/54/6NOcU_1dtYC8oxAV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP55 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/55/d4Asz4UNAdkQhqTJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP56 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/56/MzaMve0VB5jJIYv2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP57 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/57/DxLtX1cG0ER6YaaQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP58 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/58/U14U6RRCiRSCQhQu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP59 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/59/KUkCAl1EHPFjaByb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP60 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/60/OTFD0JPDlo4UV0hw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP61 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/61/d7f28Nwcled5xtLH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP62 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/62/YQck2OgzMqaO3KUj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP63 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/63/4MewGYLTPXIXVQc2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP64 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/64/12U8yKX0gkxdEfha.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP65 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/65/5WaDD80FCZUrxypb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP66 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/66/h9nAJsFZSYhN2Lqo.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP67 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/67/KDrg7KLdI0O41oQB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP68 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/68/LQFaP6U7eQ10qouB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP69 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/69/bX3sdGzXgdmovCJG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP70 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/70/oymzEKlsYUb_U5q6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP71 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/71/r3FO4ddYupqhjhvq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP72 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/72/Kw3CHTsP2V0kDsww.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP73 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/73/u2fIfQnPpl4imJJR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP74 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/74/st74avxVomYLMV5A.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP75 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/75/DRDXKoR0M77ECuWi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP76 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/76/kO2Qb_RphB_BRKQN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP77 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/77/ybjNQwV8H1dy-NM0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP78 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/78/Bag8ENSWarf7-llY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP79 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/79/qc2GlD5WuKo8L5hV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP80 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/80/Oac4kj1hGs7O_vhG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP81 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/81/gpuARf9HTuGCZNft.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP82 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/82/8vJIqUNeH3abuO3y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP83 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/83/fzkVLgrL_fRiDw5n.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP84 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/84/noVN6Vlo6ZBNeXXw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP85 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/85/1EVed_lFGJZQRCHw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP86 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/86/_RmVivYRQmZSR3sX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP87 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/87/gMssRobqufiYa163.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP88 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/88/01cnw0v9uOn2S0q_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP89 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/89/S957IVlNhvaShIEv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP90 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/90/dIt20gKJr2d9xvvj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP91 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/91/foVTrFxnEQrToUUR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP92 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/92/Y5GRg9oGoX5MX1zR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP93 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/93/SWxZpOWfL9zc5XHh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP94 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/94/v_qCacWZaBddeGg4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP95 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/95/-AZ3hxyo7Ji0umo2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP96 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/96/ZpgzSN0uMKX_ZsDC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP97 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/97/SW4SvZTdgsOcKTgW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP98 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/98/b8BjxOVzJcs9UPvU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP99 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/99/kiNoxxo2vRYcx7MV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP100 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/100/aj7VN4tJUIPg8NVV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP101 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/101/FU9RLpzwm32EoxkX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP102 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/102/J58hD9nzOGVaIS-o.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP103 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/103/GRFS-AiFzSOzg7XB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP104 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/104/QtqLUXxMV8iVCE-N.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP105 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/105/IykqBEPEk6uf07lg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP106 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/106/TEq8MMSd3w9yjAb9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP107 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/107/F1-c4AMi29aRrlrH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP108 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/108/qBZeglKlRDm2mxBD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP109 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/109/G46t0Qu7U1-PFqis.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f3522c5c235f4068a297ef97b0919102-1781091815877.png" group-title="👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS👰🏻",👰🏻NYC UNDERLORD FORBIDDEN AFFAIRS EP110 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4561/1080/110/Gu2GruiLkw2Z8Tho.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP1 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/1/GwSPdolEoxdQi-qI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP2 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/2/Y82tUNDfsrQc9Bbb.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP3 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/3/tvn9ZbRk_ZZ6PBV7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP4 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/4/zfiZ5ZyS2L1M7x9Z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP5 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/5/gkE9DA8Q_ya5c0ZU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP6 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/6/A9IWHg3E984zfg2h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP7 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/7/An_8H-bkoTVC00EB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP8 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/8/TJfi1FKeIonl0yOJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP9 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/9/8V2xdAgERAokj4n-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP10 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/10/phxB7S9R-PRQyQu4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP11 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/11/4eh31It5fkfwnxI2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP12 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/12/Ytvw1s2Unl_GbR16.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP13 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/13/i1uvZNNf-L3nQMIX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP14 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/14/1okmr-q0n4h5BgAu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0233883e878e4b64bbc838076ccd3767-1781091800598.png" group-title="👰🏻Old Godfather’s Ex, Godfather’s Wife👰🏻",👰🏻Old Godfather’s Ex, Godfather’s Wife EP15 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4887/1080/15/3GKbR9NoBKWn9Bpu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP1 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/1/kE7D8AZXFAzQeKzr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP2 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/2/mVSqP6p8UQhediLq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP3 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/3/5SzsWgv9FhGo2kHc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP4 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/4/a2Ei7v5yOsqW-EPa.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP5 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/5/qNJIq0scW2gYCDls.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP6 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/6/iJLRmAZX1cpwUWMB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP7 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/7/G26h0_qFUjsM813u.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP8 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/8/TjOzeeIdnIcrgL1V.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP9 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/9/buB1qi7QhG4Cm8uN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP10 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/10/MxuzTDRvZnvTOVKX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP11 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/11/pxkXjnv3Qsj0d5dH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP12 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/12/6LOutbtTO3AZJmCg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP13 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/13/c18qImV0fiJpEyjc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP14 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/14/gKH6_e-qsKQtdxrX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/05df307a5179454c88bb964e6f29eda3-1781091797769.png" group-title="👰🏻The Secret Witch Billionaire Tycoon👰🏻",👰🏻The Secret Witch Billionaire Tycoon EP15 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4870/1080/15/_iYiDOfz1MR4eHLy.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP1 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/1/_h0kmnknNslsJ0UQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP2 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/2/GiNHTzWey_-TA3F3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP3 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/3/ObcrRZGCp8F84RWU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP4 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/4/pJa2q6Zxwy5hIOgu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP5 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/5/YmOsuPliydJz0hA9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP6 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/6/EQdGsk3ds8se2HC1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP7 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/7/XakgJKe9L7HZ5Ej0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP8 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/8/MP3jrXUKsloBxwQ0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP9 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/9/96SjFjDkKVRUReNE.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP10 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/10/bEPbozRpgdRFngWl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP11 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/11/B2FhoaiJFJPx8TR6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP12 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/12/vrdmN6yOiKd-4Brp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP13 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/13/UZu02NgAl_aX2J3s.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP14 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/14/qqzMchbg-7f-ft-L.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0b6fdaaf07ff45bf953424f2549cf97c-1781091794758.jpg" group-title="👰🏻My car became their hideaway👰🏻",👰🏻My car became their hideaway EP15 [19:07:35 WIB]👰🏻
-https://static.venixtv.com/videos/4867/1080/15/RvKQgO68A0DscEFk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP1 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/1/N71ErSrJ4oJq0VT0.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP2 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/2/TpSG1r7_Gkl-Au9o.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP3 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/3/DDjS_2PP6n4a-otr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP4 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/4/ZDwKBSOBNTVhF3kY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP5 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/5/uKzMSKH7BYB0O0t3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP6 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/6/lIA9aHYn2hiLAndO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP7 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/7/kenK4MYX48M0eXfB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP8 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/8/bAc_h6WIfz3NYLMK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP9 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/9/vqECGnFKhI7fOR5k.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP10 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/10/5vHGg_KSDQp1Jjj3.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP11 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/11/9B6z6jMmCOk5dfpN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP12 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/12/vEaOtPw-fjYFKQ5G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP13 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/13/arUjK5MvQPCs1d9Z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP14 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/14/ckJvSTLzrAQO9vY8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/9cc741a35f884ab09ee0392b98546255-1781091791800.jpg" group-title="👰🏻Divorced, I Rule The Business Empire👰🏻",👰🏻Divorced, I Rule The Business Empire EP15 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4871/1080/15/lrdL1_csGoXWMXJV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP1 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/1/PrcxIrDju0ykJk4i.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP2 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/2/aqhORRKRfUfgYXbM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP3 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/3/e02q3L4dQOnO7nt5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP4 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/4/4ymwAGk581JHknZC.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP5 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/5/GeWW7Qs2VAk7metn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP6 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/6/StBQyeDieZ-oi2Bc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP7 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/7/hJPEjj-nURaJB6_z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP8 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/8/ZVuxT2ivdfaZdDHf.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP9 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/9/D_MBlxVtCI7Z4Dve.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP10 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/10/7EK1eBqs6eqfpHtL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP11 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/11/ZeDfCmUKnKVL6t6G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP12 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/12/_MtDNAL6kVwVIoBd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP13 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/13/ZYW0qhq8SHGeoc_y.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP14 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/14/PNxOPyd8ubzpVA64.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP15 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/15/iwiXMdGa1rCUfOUW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP16 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/16/nsaMxoQf-CZiRYC8.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a9c031996c5a485ba135b46bba4fec4d-1781091787103.png" group-title="👰🏻Death Vision: The Giant Python👰🏻",👰🏻Death Vision: The Giant Python EP17 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4855/1080/17/uGGrh3HMVpY0FyBS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP1 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/1/1o4OTUxSjTmNp5p1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP2 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/2/I4PIthqqmLNJQZC5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP3 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/3/dmn32y9xHEvgNicJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP4 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/4/GnVRd53HEewnLXLX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP5 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/5/zZzdPjHMzY2B_Bk4.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP6 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/6/uZPJevB2TpsyOSOm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP7 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/7/lK-Hr99W1tNIFNgj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP8 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/8/Im9Vgsbhl71uyvNU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP9 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/9/iZCJT461byt8WqKM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP10 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/10/eVsBMMb0V2ZtbB1q.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP11 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/11/kBmGAn2tcQtMM8j6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP12 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/12/wCp5kgWvWBOjf5z2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP13 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/13/BMZYCMlKUVmUoq-v.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP14 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/14/vpb49XzRjXYbDBQ2.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/f6b04458fca749c7a3ff5495b8abffce-1781091783926.jpg" group-title="👰🏻Deadly  Marriage👰🏻",👰🏻Deadly  Marriage EP15 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4859/1080/15/lGdpWAkM21olx4aN.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP1 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/1/2A72C_tLWHGw2iWJ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP2 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/2/-EmZvgeVQZpRDKpX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP3 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/3/KVtTQaL96vrVaiBM.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP4 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/4/ZzsV4JlfpPGPbeFg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP5 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/5/2gyLRBp5ezDE-wAD.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP6 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/6/gt-chLLUj7SX3C9G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP7 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/7/Ud8ujuPrneXCcvPj.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP8 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/8/tM1yQ94RGKAPz8fR.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP9 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/9/MBmz2pi5x_YpbIAO.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP10 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/10/gsnmrUzot2-8_lso.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP11 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/11/A1pEX5ukSa82fix1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP12 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/12/PLT05k41hv1T23nt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP13 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/13/fvU0hn717BB1EhG6.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP14 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/14/QysYqHMYuBS0cWQS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c7e375e7339b402991ec2d3a7478c439-1781091780780.png" group-title="👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON👰🏻",👰🏻ONE NIGHT WITH THE TYCOON,RETUN WITH HIS SON EP15 [19:07:36 WIB]👰🏻
-https://static.venixtv.com/videos/4872/1080/15/e2BFbgk65Kb19wNq.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP1 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/1/hDgoO9fOGBpmPnKQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP2 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/2/5cYL3CA1tlEw1r5i.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP3 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/3/SsHvsd8t7XrL0SXt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP4 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/4/tzESjYLz7TFvgOxl.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP5 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/5/PQM-Dj94F9y_hwuZ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP6 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/6/sNkaZk5_lAG_NkZi.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP7 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/7/FSikgee-jrfYSC0n.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP8 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/8/wUuaKq2wpkuRq92p.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP9 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/9/aBZNUKSZM4sUNuwh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP10 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/10/6whmhay1M3ytPf-s.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP11 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/11/9qFvQXci7CcPBi8k.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP12 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/12/satdQD4ZLlBYOzwh.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP13 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/13/r8oalKiq0EWVZo2G.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP14 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/14/4DMXb-OVIoSSgtCI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c408868a5c1f40f4bd8c81991894b31c-1781091777922.png" group-title="👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL👰🏻",👰🏻KING OF SOLDIER  OUT OF PRISON:SHOCKING BETRAYAL EP15 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4869/1080/15/hSgFVB1Kw9bwsrGI.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP1 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/1/Zsa5VHFgMqXxUnvz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP2 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/2/GZys26OIMd4VoKVL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP3 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/3/8HV3SkngqsGhpf0-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP4 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/4/Rp1QWpBMq6o7fxKU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP5 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/5/JutmRtxsXKmRul8m.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP6 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/6/2IYkv1KoNB_As77t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP7 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/7/ipLAR0VpQoU_PPeG.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP8 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/8/Utu4QVF3OugfW0Qp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP9 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/9/Ez960w2Y5bzFohMr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP10 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/10/jM8X86rvX3Bl9I0Z.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP11 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/11/ECK3rDVo3NVjc4A1.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP12 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/12/827p0WpDrJdqvKne.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP13 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/13/7xPkBr2wfAADOXuX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP14 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/14/vsnRcvs7FpEvI2ir.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP15 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/15/JxakB45Gaq3dqkJx.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP16 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/16/L2AshP-vt0YR6tiW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP17 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/17/_CDL2gJqWBm21DNt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP18 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/18/dKYS31weErzoX5Jm.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP19 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/19/A0vb2AIf0_Y-PMUX.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP20 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/20/SQA_6WH8ozZ72y5B.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP21 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/21/r-ydsW4NuUaC7ylv.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP22 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/22/-BUT1i0huUWK-l4g.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP23 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/23/xxGCZPwbHKL-nMYs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP24 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/24/8TggnNv95DgoFyWu.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP25 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/25/yxTjNSb9Bvc11iMQ.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP26 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/26/sZloDIOsCVkYtZZ7.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP27 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/27/5Cutu2clDBv6qsdY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP28 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/28/Pv5aY5nEKbQefJrs.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP29 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/29/5LlfWkOKrvI-OikW.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP30 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/30/HQ5vpgt7lsYrrUNT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP31 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/31/wGS9RtOjWMlqAC8t.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP32 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/32/6W5VuuFWWCVVIcF_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP33 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/33/sD4hVbqyNkp3UOrK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP34 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/34/pTGKPAMVjQoPoA5I.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP35 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/35/xIpHXSc3wUOr_gLr.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP36 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/36/jh-9K2trpZlDU2js.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP37 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/37/agfpt_AxSNZjYns5.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP38 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/38/0dccflhoNn0_rugz.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP39 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/39/VYcvVFHa6hvN5gLk.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/0eea5bc203bb49fcb952c7c08ca0cb17-1781091774841.png" group-title="👰🏻The THREE-YEAR  TABOO CONTRACT👰🏻",👰🏻The THREE-YEAR  TABOO CONTRACT EP40 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4905/1080/40/TuuSHsQ8Whhpz2_b.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP1 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/1/YnO4D9SOrwSvriKV.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP2 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/2/HBImCcDTou_1j_tU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP3 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/3/f0LA_rH46m820GkH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP4 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/4/HMuRdwvSXl_jjmL-.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP5 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/5/4eZfmcJVVqR-Q9vw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP6 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/6/A45N1MxVSEZKeg1h.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP7 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/7/AylHKoNMvFmUy-yY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP8 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/8/WVjRj3kMte9DFpQH.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP9 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/9/Ta9CHvKC4kSRHLFd.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP10 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/10/74c0aPmozE3Md7Ql.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP11 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/11/C1p5TIqD-nCCQWrp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP12 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/12/tZqkX6G4dtl6L0GB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP13 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/13/6ZnVdcKBxTvvOGyt.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP14 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/14/k4vSzQ0F001ZFxuw.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP15 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/15/7Is24n6WzrqSiwAY.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP16 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/16/oSrvIOTyeBD6YRpn.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP17 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/17/OYsvh3_qCpUXw8YK.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP18 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/18/_1pjsZdx8jPE3Im9.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP19 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/19/CeIcklBHu15IuOFT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP20 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/20/MLCJkMaBIbotgr4s.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP21 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/21/LrLsGycDjn7lmaBT.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP22 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/22/jSrtDiobb8WS1LLp.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP23 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/23/-aDVqpyUBHeSh7Bc.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP24 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/24/1pD3GMG512Ryz5DU.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP25 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/25/2LQxqMZzuOMMP3Dg.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP26 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/26/ZmrLa8YNlAHMEEw_.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP27 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/27/yFKtQhFI53hnkqFS.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP28 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/28/IYQVL2_8I9WcwxkL.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP29 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/29/Pokz4Sg-1CCf28xB.m3u8
-#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/23b57087c1fc42099f7e772581232735-1781091768795.png" group-title="👰🏻Death Bill: I Can Rewrite Fate👰🏻",👰🏻Death Bill: I Can Rewrite Fate EP30 [19:07:37 WIB]👰🏻
-https://static.venixtv.com/videos/4911/1080/30/LkBs1owIVYIiqUfe.m3u8
-#EXTINF:-1 tvg-logo="https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php" group-title="👰🏻Support Me 2!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [19:07:37 WIB]👰🏻
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP1 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/1/F4dSs9DjkX9m6OiX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP2 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/2/DYRRuIsDxTszz6Yj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP3 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/3/Rk9-byLpVJGTGCqi.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP4 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/4/3fDgBMY_PsguvZyU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP5 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/5/ElFzRbS9BApX2NZ7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP6 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/6/KGfgWegLGhdAEk4K.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP7 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/7/-42OfwiZYLMWYPuy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP8 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/8/TyEORak321999BFg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP9 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/9/uEzjIoS4O7LQy3qi.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP10 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/10/r_OJrbezrTIhbjyj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP11 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/11/UNPtvPt-mXDoH-wL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP12 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/12/05sdQ6IaN8KpvyVp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP13 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/13/EtjBV26rPijMHa9y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP14 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/14/_mxFhYN185qVrj0v.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP15 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/15/gsLPHdJ9V8Ay21Dk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP16 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/16/fyCfe6fmBCu6hc2E.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP17 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/17/xLBF8OGU6icZR4cG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP18 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/18/BrwfInslbAwDnQPq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP19 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/19/_ROS_kZXpYX56HFc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP20 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/20/GMNQylGkr1pO4lk2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP21 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/21/3kkTi8WKXyWGzdMa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP22 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/22/dbOY6tAE2lejZdxJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP23 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/23/1AiSkJ6Ou43DHCZq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP24 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/24/FDV4XPWKPUtsgNu4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP25 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/25/xCCTqoVAx5GBVPEy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP26 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/26/i39kmQCD1g033oeh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP27 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/27/exObBzkGcEDJ1l7v.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP28 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/28/cQ07wGIwj_TsSMgf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP29 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/29/goVLGZMAXo3Zj0so.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP30 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/30/1CO-gzQcTZEhgJ-X.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP31 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/31/wGv6lyXqx8bwvrJq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP32 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/32/VGRm1-2qfMn2Fhrw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP33 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/33/X18sZglrwEeAhanI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP34 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/34/ZUGrUptdg-OaHwP-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP35 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/35/hgI3TA35pWZ2fNRt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP36 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/36/2yLOiR2X9f1KHxgE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP37 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/37/CZkyK84Nc0f4_FXl.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP38 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/38/MMdHZTo4jy2EE9sm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP39 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/39/Yn_1dpI5x5zaPuuz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP40 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/40/0O__Ql9Kcdc0-m0h.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP41 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/41/BXI7N482IDT1md3H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP42 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/42/V2pcI9wUrc1gBVhP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP43 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/43/XgYy5pE4DHqVBdWP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP44 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/44/5vK3T0eTpfnOUadU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP45 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/45/GwZI_V_Euc0bPDum.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP46 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/46/I-vhvOIwJ7BPg0SW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP47 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/47/3his8ukHrdAMNdXe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP48 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/48/aQ8C2lmEPSsbZP-h.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP49 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/49/bdONshFwuNgsiZ7X.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP50 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/50/uNoe6QUqljwOGdGb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP51 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/51/FwzxGzga_KF5oFlH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP52 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/52/jUaz_dxXHj5hja5f.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP53 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/53/DmX7fEk3gn57keZZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP54 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/54/rO-S_0wSCJ36VUTt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP55 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/55/puzj6d5IPs3qNlZT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP56 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/56/hF8E_L6TkeJoE0Fo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP57 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/57/yMyyu5xbqMAyxo3f.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP58 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/58/_nr_LB0f4LW71yjJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP59 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/59/lKCByPNkrelC4RXe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP60 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/60/NbMedusBN1pD35i9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP61 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/61/2DAxlttKTasWEHON.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP62 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/62/TOWZfc03nu01Gb6S.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP63 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/63/x7sBIYuL6T6YwLqL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP64 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/64/8Ll_IDeH-WS_Qz0F.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP65 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/65/bHyRI-FOtYy4-y9h.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP66 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/66/sO-Qdbkm2qyEhP1o.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP67 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/67/p72FDE4BD0yIW7ML.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP68 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/68/96TLApRDb3BkXLKl.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP69 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/69/9QFs8nfuWbRXKWub.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP70 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/70/FqvJ7bvYWXkXQ31y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP71 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/71/kSJjv0yzXd9SMnVY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP72 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/72/Uy1WPWGZjUNcjSzk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP73 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/73/-bjMf2zqYyieYfEI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP74 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/74/71N1HW-3kjdg20ZL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP75 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/75/JSL8FC51WwTTQXco.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP76 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/76/nQ3nps0mu0vp6kBd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP77 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/77/mEzjTLPdLF-CYvG6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP78 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/78/0fI3Lwp2e7I6-O4j.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP79 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/79/wW_E7qeHJQn2_0mP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b0b0825575cf47b3a7f6efe8ea54892e-1783744307918.png" group-title="👰🏻Obsessed Devotion👰🏻",👰🏻Obsessed Devotion EP80 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4044/1080/80/6pz-fGkhMX6KZWqm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP1 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/1/2OZodS6br4lYlGT9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP2 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/2/t-kMtdDbzS9V8gIc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP3 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/3/Nw9OKVXvN1p0w3vW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP4 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/4/ecLKgH9DhN2V5Nj-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP5 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/5/QcrGNr9797LDqY6B.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP6 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/6/YqGEBLEaMiU7WJhE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP7 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/7/mIb0-1tL6lqODYAZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP8 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/8/1vR3mV5hp0EXAMUr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP9 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/9/9Z5UTPAnc_lPEfLJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP10 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/10/LfoCQRqayHgrgGIN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP11 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/11/omp8O0mh6V9Ox6By.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP12 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/12/_LU64msHbhfLwjTZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP13 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/13/S924dvE2p5FDAZec.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP14 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/14/Nbp99-iv3PGW1v-S.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP15 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/15/n23i0z-CPsdKHWvM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP16 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/16/Mg7_sYpMIMSxetP1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP17 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/17/qPDVGTCO5p5zGp_A.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP18 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/18/RbAKb57joHPxFl0_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP19 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/19/CAiVPo3Jg2BXw6oX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP20 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/20/QybTImwQwXF2LnuL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP21 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/21/nRtups2fOBoSAnbQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP22 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/22/1tQbSVBACLkiGB-h.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP23 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/23/sLFgN5apjITyg7tT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP24 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/24/aa7oLvxGkndcGKn7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP25 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/25/XpxlxAupRVXa13aP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP26 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/26/8CaF37-VEM61AOVP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP27 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/27/5ZQvxlIRe_kLzVpb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP28 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/28/Bjo9Uo8GpzYieOgl.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP29 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/29/8JAo5WxUlyK9kzPk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP30 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/30/b7DzCFQKsrHIdKMz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP31 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/31/ocuRx3jY_NFteAfz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP32 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/32/PiENt_sGXXAfljQ6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP33 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/33/HlC24gyLtg2Xkhqi.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP34 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/34/PnvaiwSgNBHgbrj6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP35 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/35/uYA1eNYLaXhrtYuG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP36 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/36/Lc8cBhltkg9V47gs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP37 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/37/L3bClSyySLtkXf-2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP38 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/38/GG2Fny2E5V5dNRIb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP39 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/39/gG_4DOlRwDsOJBNx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP40 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/40/3r5lCTUAIdBwGB0I.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP41 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/41/Z373MUabXHYGF7Vx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP42 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/42/ktyl992zW-VCiEKd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP43 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/43/VxJQDdqNx_314tf8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP44 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/44/i0XGcADWoqBT81Q7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP45 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/45/q4CuhvjT3AqUbEMw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP46 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/46/4XOISEd7usvKEHFF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP47 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/47/kK0DyRHzK04YUegV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/8b2a7233867041f781088a91eed6b75e-1783744295983.png" group-title="👰🏻DRAGON  LDRD: RISE FROM THE ASHES👰🏻",👰🏻DRAGON  LDRD: RISE FROM THE ASHES EP48 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4343/1080/48/rrRBUqhX4OnfWekU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP1 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/1/vDp16y1CkhwpZ8jT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP2 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/2/Wa6KwDOQvc2eY97l.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP3 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/3/a9BdgI9F_Oaug-yB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP4 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/4/OtLOSvanlytwzrht.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP5 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/5/EQUiDyLjh_Xwde-P.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP6 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/6/PrYG-xguDYqmYEIN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP7 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/7/uqJniceoJbhBlS29.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP8 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/8/f24BV6lyAWtWR9oZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP9 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/9/t2wiYcXJubkZVUZl.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP10 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/10/mfgls2uwdh2-saoD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP11 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/11/Ypio6-dhxqRobg1M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP12 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/12/jI2mZV56IlePdJKX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP13 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/13/krGljss7vueKNmg0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP14 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/14/-xxW_60aDkM7YIAd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b3de44539f214e488c5548572b965de7-1783744287270.png" group-title="👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT👰🏻",👰🏻HE BETRAYED ME  AFTER PRISON ，NOW I'VE LOST IT EP15 [19:26:39 WIB]👰🏻
+https://static.ziptaletv.com/videos/4384/1080/15/tukPs0rQXhhlhnjI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP1 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/1/ediU33P_igi7906p.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP2 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/2/mOaAqupu3bBpHQqj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP3 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/3/n20ugPwwEP6pTYxJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP4 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/4/Ygy0gVp2lwLYp8F0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP5 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/5/yHMbP2gp2pUezwq8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP6 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/6/auzDBF-Pytb2hxPG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP7 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/7/9M0z1xjY8OQz1gJ3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP8 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/8/YBaeem8VdXYZU97d.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP9 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/9/odbfqCnHEHZBeSjo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP10 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/10/Jay_4rqEwjYQxY2B.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP11 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/11/pZvFbwAbtnSu79hF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP12 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/12/858kRpSak08HqoUp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP13 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/13/c5oBV7JHgap3IVTC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP14 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/14/g7a_rHqR5yNWdKZx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP15 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/15/ogP1vNkFYyya84SL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP16 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/16/BCqzG2ifFrgbBjeU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP17 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/17/9YM8WAYv5FSVxgrh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP18 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/18/IsnYxAhzSeCBhpOv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP19 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/19/4zAO9h5KC_SbbXq8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP20 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/20/7Tt2-T04L9ct06Li.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP21 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/21/OzSxZlRblqV89hUR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP22 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/22/3NLJKvPZndkwOjqo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP23 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/23/ndOtLHvKVIoSlhmf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP24 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/24/ol8skfivwLXQ6E36.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP25 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/25/wShLVMY3oHs4P5Lg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP26 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/26/ZpHRGlFOnov4U_wW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP27 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/27/eNdVUgCzE9l8GEDv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP28 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/28/uzFmIDJTIU5GNBei.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP29 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/29/vpvCAOGytQzIRTtr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f3668de542b34cbe848fa3ce5d03a337-1783744282011.png" group-title="👰🏻Wedding Crash: Reborn to Win👰🏻",👰🏻Wedding Crash: Reborn to Win EP30 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4130/1080/30/vg9l_BoSpyuI520W.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP1 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/1/Y7JG873u_ryAYYY4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP2 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/2/TA_HL0HBjC2334o3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP3 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/3/ipnh6KLVZy_D6P4x.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP4 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/4/285dYRIUb-smW69Y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP5 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/5/1Jo5m455qphvD9K8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP6 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/6/n8teetoQki6P2sSE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP7 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/7/ScY2fGPXDHMsj6Kf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP8 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/8/OioGR5vweriwxZ4i.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP9 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/9/chodD-EaAyNAmlI8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP10 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/10/EYnEgxde_d4XmdF8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP11 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/11/rs0e9kxrgnkJcxE7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP12 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/12/LXyjGyCmT0BU1X3C.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP13 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/13/5Cu9TTTvB8pMCZmy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP14 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/14/VpVatgRCQ1DTeXuS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP15 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/15/XnZTJ3rj8efzn9pk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP16 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/16/rPx-9AMoXpFJTKye.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP17 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/17/rp_nn4z8d9u_Dgxy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP18 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/18/NB8kS4Rxwlv9-KHg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP19 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/19/xr3HNFWJ7AwQzoa4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP20 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/20/liCvWrp0AijjEviu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP21 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/21/lteaqBPbBNltX0g0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP22 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/22/i41TdV8VsrwYsPIw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP23 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/23/7_v4-Ho-DYUy4j1w.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP24 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/24/pDiNHqix6XQEencN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP25 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/25/2u8gP0GBVEmixVOD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP26 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/26/MPqUbjOJSiWyjNjM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP27 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/27/B6Wcmw5UPshOihXu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP28 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/28/JkSiHSX1LowMjnEU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP29 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/29/dQ41bL-csBFZlwFd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP30 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/30/sWpAnj9oL-9zrDJq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP31 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/31/k4VjMjQAOxJDUr7L.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP32 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/32/8Pjfa2eMJZAlIYE9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP33 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/33/voU3FJ4tHyCP9aJO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP34 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/34/s1PpaZFSukgjrQFC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP35 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/35/ZiaGF66r-SHL5RjL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP36 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/36/0VK48kPLlDwkFVSG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP37 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/37/e74NznA0NGyncEzm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP38 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/38/LFkMZgeWCpdIVcfa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP39 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/39/shod_Kd1W-gx5A-1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP40 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/40/-NIJdVaMWs5E3oC8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP41 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/41/2S3lSR8GMBPKJ5mb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP42 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/42/g11yrgT7XAiAJ8Dd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP43 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/43/HcQy_y60a32YyxX-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP44 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/44/q8cAz5c36lw4e55O.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP45 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/45/X-hTp-_ckwUCv8mW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP46 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/46/Dt1YyT2zYSttjcOh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP47 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/47/uqZrOOmx79-x0z07.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP48 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/48/su-_vBJGHeq6-m2J.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP49 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/49/FOnwnGuq9c_ATvkB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP50 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/50/mqLs8f-d1Lep2zPc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP51 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/51/zlVOfwmX3KkK4twv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP52 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/52/Xj84ArY6LBQkc-4e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP53 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/53/PQdtcbgUyftwoev1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP54 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/54/ngRb3TpcfRLIYL7u.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP55 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/55/rMQKRMIEx9LlugZg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP56 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/56/hCgemFSkAAZPMKVP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP57 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/57/-H2Ew2_4GoyX2C_r.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP58 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/58/6sUUNstwjeZdDbG5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP59 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/59/5hmNagTu_zi83FfG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP60 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/60/OxoOH9aU9xcYguMc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP61 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/61/wXtrC9Npq6Rxf0zq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP62 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/62/phyBjFrINlWV4HL2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP63 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/63/PBhgtfZVmzdmtqYD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP64 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/64/Mu8Zd_0MEcygr1I6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP65 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/65/xMdVSHzaQBPmAROP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP66 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/66/qw7-cFjtkZmnz3UO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP67 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/67/JH2kzB8q3Tlw0lut.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP68 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/68/A5Fnf8qt02k1iMOo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP69 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/69/c7OYgdL6sg3QoonX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP70 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/70/GmAnGRvgv20eDZKr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP71 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/71/-W2IsMxBUydp0Jwr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP72 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/72/l7SoTvQ0pdg0oHGH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP73 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/73/r7oo_kjMDSk0uSEL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP74 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/74/8wIqMRSsRtrJEiME.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP75 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/75/lvh5FcK5dpxsLkgU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP76 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/76/a-iuLSen2vxyqcjk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP77 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/77/pJHIBmO1L-7CEZdb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP78 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/78/BmTey1HH4H8EiBGy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP79 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/79/x1QgpUX1AjnVBttb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP80 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/80/yYgiJDVrshDvX6IL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP81 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/81/gc_Dtw_n4DlqIsjw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP82 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/82/wY49TGoD_TPM3pG4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP83 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/83/sGgRNG53FMnDMH4B.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP84 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/84/iOoIakEe7dD5hxW6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP85 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/85/YeiKOybf4EcWnbbE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP86 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/86/5h-Rhz-0-UUL582r.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP87 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/87/LPwbXu62eJXIWgoO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP88 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/88/zyAR9atoxxlp4Iac.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP89 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/89/Qn-tHyDhdAjLsMie.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP90 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/90/V15QGZGLLmojCTjM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP91 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/91/TrOPCdseiE7WpdTc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP92 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/92/lT6kkeWXNDZh_B6m.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP93 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/93/G8XzNPPtfsBtDoPi.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP94 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/94/BN0jxC1L6VnDfSPL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP95 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/95/ISk-krf1sWP05Kr4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP96 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/96/b0WcOuihnrKf2EXC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP97 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/97/fe9Ct20XeYfTzB0k.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP98 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/98/0akLTb2iaXGPCpje.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP99 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/99/sVFpFaNOIyx07qwH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP100 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/100/03dof0Xv1R2WZudw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP101 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/101/On4VpnotY61Ayicq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP102 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/102/dCEG3n38vEK4UX19.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP103 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/103/Ct67qD9iHFVy90a-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP104 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/104/9_vna0ui9fH_V7Vz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP105 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/105/S8NIjVq80TXYPHcO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP106 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/106/-7LM3J_w9MxlHfdo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP107 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/107/FnEunxadxZ7oNx1E.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP108 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/108/9N4bhYsDXVR27QoS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP109 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/109/ExdrIm278wSlKzdI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP110 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/110/VtGJBZTz_0AQlIzE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP111 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/111/bscB6IEUpOBH0Akd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP112 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/112/FHystzUf_BXzmu-V.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP113 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/113/ueQ-QAUva3T4KcSq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP114 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/114/MrU42x7iU0XT5L8f.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP115 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/115/N1bgTk_X8xmIhXBS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP116 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/116/cZ7L-Pn2XhqpPO0u.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP117 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/117/pqzVjOCtCXjPgJEk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP118 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/118/aWotJbAyoBsfl2fT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP119 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/119/b2Qjg1kYemBigr9-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/1ec92d1ed3694347b05a670b92f2397d-1783744275230.png" group-title="👰🏻Help! My Ex's Brother is Obsessed With Me👰🏻",👰🏻Help! My Ex's Brother is Obsessed With Me EP120 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4258/1080/120/Y4HNp_8ZEKut4-O5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP1 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/1/QtxSIOuy2TC8HT3_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP2 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/2/D0G1C7yq1HnslYwF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP3 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/3/fSyL1MQ0NRw-m3Zq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP4 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/4/bcstbLd4OTRQQXa2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP5 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/5/GRcKdXDDM0SxbnlP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP6 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/6/WRtNAWxILnKJJpdC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP7 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/7/R0m8w9bDcd4IkYa_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP8 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/8/1-W6RDF1ID7Ig2uC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP9 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/9/a8_siOhcdwUdfpzV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP10 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/10/NyBx8fK_TFpHln5F.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP11 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/11/fNsRH2P0HJHhqV-6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP12 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/12/sa39qpBvARXhjgfW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP13 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/13/yRXKeKDQPFiOwB-T.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP14 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/14/Nq5YKZ1h33NWSKT5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP15 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/15/UplLwc8XMHGcCkp6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP16 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/16/ZdLuUGyLolwE7bLR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP17 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/17/EiLlhR4aerguHxgn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP18 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/18/1ZF1mkeg6xJWqzb1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP19 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/19/APhuxTD8KHr6CvJb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP20 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/20/9dnF5EpktWnLPAS7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP21 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/21/XwJSEzeHzmNkE_2r.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP22 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/22/JJigxED0gorhPXlp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP23 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/23/qQeLwCkXTh28omRu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP24 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/24/09_ZRmZ7DdNNL4A-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP25 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/25/ZshPmTXqSq9m5ZfL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP26 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/26/vadQn7xpGwTgl2zr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP27 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/27/26FFMNbXSiHb-zC5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP28 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/28/nNvmHQaml7iY72Bw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP29 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/29/npMdeG3gnWzi1EfQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP30 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/30/6wgETwDx5oOI2LmP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP31 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/31/7SlXUuBXmkuv18cJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP32 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/32/OoPo5AO4y2NuOq_m.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP33 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/33/T8fNeXT9MoUyI05n.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP34 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/34/RwSggiwhGE81mvp0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP35 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/35/WsiH2KrzqJJNtT1H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP36 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/36/gQRpVc17AZ1FubKS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP37 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/37/xxwFSq1ClZLWOxgC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP38 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/38/perok7d18oS6F_oQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP39 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/39/xmmJSEhpOOhh0N4M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP40 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/40/DN8du6U550t1zdDW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP41 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/41/GEyDSELCUfkRUNWI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP42 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/42/sSIbgNige7yia_pC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP43 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/43/Y-B9e__-y-8_QHxe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP44 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/44/onm--d801L67nD31.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP45 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/45/HARYMYfgzeRGjpGg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP46 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/46/Yh5XuUaseW5eDtXg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP47 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/47/ObKk5ebbE4xOurLO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP48 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/48/hm_aE5vSTVyoJHNC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP49 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/49/s1ZrC7tAoUlfq2mu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP50 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/50/_g2Cw6iO-O07NhCU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP51 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/51/n7zypcqfnPKZLayW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP52 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/52/U3ZTvWPeOeU8W1bf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP53 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/53/t11E2kCm153_rbDX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP54 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/54/sKOUbznLz1V_-siA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP55 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/55/Lw4eYk1iPoRox_Ik.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP56 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/56/IHDzJN2WAqzdtmbi.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP57 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/57/q0KIElISL83rjrdO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP58 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/58/fc2dILouzwtzqqV0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP59 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/59/DCUSLpFSFytCVy0i.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/a35d98cfa752482f93516a09848ecc96-1783744259168.png" group-title="👰🏻From Broken Heart to Broken Knees👰🏻",👰🏻From Broken Heart to Broken Knees EP60 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/4277/1080/60/_qMALBKITNn--2xM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP1 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/1/-yddr1SeTVe2092j.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP2 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/2/e-qBewF3Bpx-X_7P.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP3 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/3/5CBa3Hn8bluKWZHy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP4 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/4/8fuZTbRIzf07ywVM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP5 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/5/2B3iXKUus8zmklR4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP6 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/6/7b5onrUmCKalGxG4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP7 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/7/Ec8YKI88XiBvbXn7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP8 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/8/aEzGL8nVAP5EAAol.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP9 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/9/1_VD6cjfmMz01BCH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP10 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/10/chCIkd16rIZU8nNl.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP11 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/11/LemMwpJpUHtdpAyp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP12 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/12/ndEuTD6_-nkugM-q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP13 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/13/9a5hxkS6idsKemDJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP14 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/14/y3PBz8JndHBoonMG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP15 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/15/6E0H6FW_c6rkOgaS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP16 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/16/9gvqg2nUAHll8IMb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP17 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/17/H5iOFS98SoT7cjgM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP18 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/18/5ErD_mB1b1o9tKvH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP19 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/19/KrTqdV7bNRArOkLA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/f57401aad8fa45b8b227f8f6d37ab9aa-1783744247065.png" group-title="👰🏻The Wrong Groom👰🏻",👰🏻The Wrong Groom EP20 [19:26:40 WIB]👰🏻
+https://static.ziptaletv.com/videos/3858/1080/20/FV2j1FsBIuoSF9kb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP1 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/1/ldAJ7C93i-jA2Odh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP2 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/2/V_k31Rsh3YFXJhxm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP3 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/3/ZArE7IhFDtMlp_Ab.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP4 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/4/Bf4WrP4nKWK2_7wa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP5 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/5/Eq4s77V0UOm_3JJw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP6 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/6/ADMOPREombfqK62u.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP7 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/7/j-UtE2WMWW9A0MyZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP8 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/8/3XzE4KrE79qJn7Bs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP9 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/9/k_QIcY06BunrS0DX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP10 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/10/882RDlSHFv8hvPMf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP11 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/11/uRflz_JIKh3fySvO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP12 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/12/C7aE7dKtKGEt_tFm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP13 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/13/bQrHQXErboiYORLo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP14 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/14/KU5WvHFyyapkDf2K.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP15 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/15/4PNCAqamxqwllzF4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP16 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/16/c3wtKir5sWKnluca.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP17 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/17/L-dlTn4QCabRSyDy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP18 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/18/R8iQzSSDUlAmt7AI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP19 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/19/3SI7THuP_H4kP1pN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP20 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/20/kOCo5ly7QJrXbVY0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP21 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/21/CgeOamc572JxQbdo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP22 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/22/mipuJ5hC3BwlNhve.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP23 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/23/Rdtz6of__IO8wCZU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP24 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/24/zGULEpN1KDukV_c9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP25 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/25/0oF294BI9zxk044q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP26 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/26/2WB_aEM4sKVCJx4j.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP27 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/27/ganRBOR7D7cQlD6U.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP28 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/28/BsChGKCUqPBCjv1S.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP29 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/29/9oi8CKUrs7OlIKmC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP30 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/30/txxT72xwoEP1XWs-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP31 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/31/rgE3_IcrsBFIJeJA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP32 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/32/vp8ZC0dowcfn0KJl.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP33 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/33/iymJQmcqjMsBK8TO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP34 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/34/Mnb7SlS5h0-THqNa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP35 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/35/THn2S9-yQCnqeKKD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP36 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/36/dFTL973aWVzJu8BN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP37 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/37/DWQvBZFnAh24KP2t.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP38 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/38/_v7G77LfLmMQB0bl.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP39 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/39/oa-AwxAJSHl43os8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP40 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/40/vXpLGbiqKTX1nZ90.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP41 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/41/bBzTrio5EqHILV7-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP42 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/42/mkqiAyBARqEnjMzw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP43 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/43/XFBkF6lnaRJatfzb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP44 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/44/dPTev1UWIxV-MtgD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP45 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/45/wI5J90cwv7y0tkLo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP46 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/46/CElvGaWqjR9jI3pb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP47 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/47/zcE7Nd1Bi1GbWXBr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP48 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/48/_IJ4bgGn-Cq3ddw_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP49 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/49/nkanRwHWI5pXsR1x.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/d8cb3e2ce1cc4ee1ac715b2c70cfac8d-1783744241196.png" group-title="👰🏻The Flight She Didn't Take👰🏻",👰🏻The Flight She Didn't Take EP50 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/3982/1080/50/94lARXhbJhah-O-0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP1 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/1/8EjIIhfgSUytf8Ju.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP2 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/2/IAT9dX2Uz2yhBCDY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP3 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/3/I-vWSTlstnLWSahj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP4 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/4/kgt9zMYpG-fj0-W3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP5 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/5/nnMA_UvP4I_aKcoW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP6 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/6/75r4USo5cP_c0nGV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP7 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/7/L_Kc8dWcAHB3YJ3O.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP8 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/8/p65-2iVgHM2hXRGv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP9 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/9/A5dpSNE-H2ZB9RHM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP10 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/10/4vGOyoEHDi8Emkxo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP11 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/11/wK_ToYVyvM0LlqoD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP12 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/12/c2zNyxjQQywmSeM6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP13 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/13/mUMxjTLrr2-F1cGJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP14 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/14/KLPOPBs_UXsLe-ib.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP15 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/15/4_3LlpxUaFMOGOqN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP16 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/16/c6MrFhN-pRgJqkuP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP17 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/17/lr5iKPKfTsKcfebi.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP18 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/18/dsuF4jgnfsChKD5y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP19 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/19/HENMcJmZDPC_FDDL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP20 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/20/5ipmZy_KN3I2kquA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP21 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/21/SZpcnDcaFZnEIACt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP22 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/22/OZ2vLD3Uz_1utR_i.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP23 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/23/O-qWfXv0-6boKU2_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP24 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/24/CqcRcl2KNtW-Thnm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP25 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/25/-bVOPob7vP-L4Z_f.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP26 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/26/1USWOz3a6JGtN3h-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP27 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/27/wibtNpb7FzU4hAN8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP28 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/28/LhPJXCPCLy7nJhVa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP29 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/29/l2RcS7jFMjrV6nDt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP30 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/30/Od3NwP1L8r0UmMjZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP31 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/31/1juYoJGrqTCiHAsa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP32 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/32/DihA2f79toOBL26i.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP33 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/33/yW0o5H0s4di3Uy8i.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP34 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/34/oFQlW20gPRAaq1FH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP35 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/35/Lc5eRRgqG1ThNevR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP36 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/36/W6jl6lvccatiojMU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP37 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/37/JXkzgvwv_3iDEpWy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP38 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/38/Vxfh6sOX4YA1hs31.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP39 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/39/9g7h-MHJsoXR5n_W.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP40 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/40/Jl4hlRd_BATeVeFF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP41 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/41/pjp31HRinuCPNyIP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP42 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/42/_4_7sEbAsgLGtt1G.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP43 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/43/edSeRBpSpnHTNh74.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP44 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/44/O0mNlc_l1WRgo_s1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP45 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/45/w8YPvKp7EWbs0WL-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP46 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/46/FhMZN4EkIZrHla8s.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP47 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/47/7JhqVazuGPkAntkG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP48 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/48/GmZjCe8S5GyUH4YX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP49 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/49/wifqAZ1i1NXxGTxP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP50 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/50/J-F6TI4c-fUXjQIu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP51 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/51/O4ErOFFrGnfzl1CY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP52 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/52/u2ijS_Jz9J-FiuzA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP53 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/53/d9C-y_BMowUzTDBn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP54 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/54/8mXJ7jewj8glsUQr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP55 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/55/DqbyrOwQ34VkyLho.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP56 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/56/iPRgPadqm0WnnvRF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP57 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/57/jnvE6n1fZDtxhmlr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP58 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/58/7GlR4SSoTalmcLmW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP59 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/59/IptRBRb8Hd1wLkCz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP60 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/60/Ldpl9Lk6HB7CjvAB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP61 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/61/bh2bqjE-X3SEnFCt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP62 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/62/5dflGWKZ99HDrImf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP63 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/63/WC14RLOkpSVWfop_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP64 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/64/32Iik9Ix6zrwmu5l.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP65 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/65/PlX0v3xKJ0pZNeb3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP66 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/66/vIIRcJlUtrE4nKl8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP67 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/67/DrXnf6EQ4jcRYOTK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP68 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/68/ySEpzp0NvN85bwdq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP69 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/69/sZVXJaejMTrts5oX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP70 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/70/7yje6v-p6CF0DkRX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP71 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/71/4-JByezV1EttuQ9x.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP72 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/72/_HVdfnptQac0gFmS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP73 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/73/XfkrB6-qdO1Tgv8I.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP74 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/74/IOLuPLI21lQRh2d4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP75 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/75/XQszquTw2uxUshQz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP76 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/76/mU2t08sHHw1e6XGM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP77 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/77/827faoPuP7RJ3B-H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP78 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/78/a3lOJ9T8Yuu_bGmh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP79 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/79/RpPkoTjzUl-PVmyb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP80 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/80/OfKpgUzWDEPyBJ6O.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP81 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/81/PNbu1_0117cEyU4I.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP82 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/82/3EZMJfuMQC66vC6z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP83 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/83/mUhdhtcc1IOnuc3G.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP84 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/84/gc6QnE0HDQEeuno1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP85 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/85/3vrkKgbrKfi3xBKW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP86 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/86/P5oXwIC_k4-JEKzM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP87 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/87/MgxQhcqMblwU3D8W.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP88 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/88/oMIlPsMtTwGSdqV3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP89 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/89/hE5mbT_QaiT_nx18.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP90 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/90/dqGdudvvLbTr7sCw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP91 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/91/-RnLPQ6KCx2kmZ8r.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP92 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/92/FXZupwP-OdTNZsR6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP93 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/93/bBMcb99VA5TCjv5I.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP94 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/94/8xXlrcHtYDGYpAqv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP95 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/95/FOPz6-JUSqWWx3tM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP96 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/96/ZzGraquTY8BPxkwx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP97 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/97/xPjJOeY2tVSAe0Ar.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP98 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/98/I11H6ZylsbVoAAis.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP99 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/99/AHGlyNXA9rsnGiTh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP100 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/100/MlEaZY-Tz7Cxifpu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP101 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/101/Amh6dQZh-yif71Qh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP102 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/102/mselNkpmckHMXWkh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP103 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/103/GBe-RM77SToSHZ06.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP104 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/104/MDiv2X5zJCAv-Yyq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP105 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/105/m43FIHqJUX7Ux5Yt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP106 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/106/gvTDGf43W0H9TnQS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP107 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/107/T_zM3CJ9U8icBCp0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP108 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/108/c4k3cf5e9A10EP07.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP109 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/109/RBopyfLYRw5omGRh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP110 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/110/BXaBFXLM80JVTYn1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP111 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/111/9JQqjr-aLWKa_R18.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP112 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/112/nh1derUKT7YNweSP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP113 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/113/U5ZUcpC7HKFvrRof.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP114 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/114/Hxtq53lhC4REGS8H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP115 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/115/dEqbFgE2BZfWy4Eo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP116 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/116/z0pejYyBVT3HA02C.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP117 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/117/7vhFhXcS5XgzQd2Y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP118 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/118/mRuBPSD-6ThPxbGO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP119 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/119/aTan49MdExifs4O1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/6aede3a1d8f44b83a45f216b0d3abd7f-1783744232810.jpg" group-title="👰🏻My Empire, My Captain👰🏻",👰🏻My Empire, My Captain EP120 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4146/1080/120/ENkX5jHdG4usXwDG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP1 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/1/j6F0m2-8qNROF0jF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP2 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/2/iQC41tPbvI1H5fPI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP3 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/3/lXnUOf1yiStGKGgo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP4 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/4/Ig5mU-ODPKcd_sro.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP5 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/5/g-JQQnhUcgcsr8dg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP6 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/6/msg7zPwldd4OYjox.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP7 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/7/G9DI2kxNz2qp1Mxo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP8 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/8/mQArNOoQWTyKCzRB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP9 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/9/YebJbCDlmfZ19VzJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP10 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/10/056355Y1PnkRYjPp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP11 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/11/665YXBjzZHYGqRCp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP12 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/12/a5he-LPwpK4CHi1H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP13 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/13/jKs3Sts7aCj7XA4P.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP14 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/14/MsdMo-XgtwqYIP2E.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/aae88268930847f2ae63b776bfac6753-1783744213837.png" group-title="👰🏻DADDY'S LOVE Never Too Late👰🏻",👰🏻DADDY'S LOVE Never Too Late EP15 [19:26:41 WIB]👰🏻
+https://static.ziptaletv.com/videos/4270/1080/15/oymsJc222yTOe1ET.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP1 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/1/O2wk2pkph8nWsg9U.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP2 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/2/HtQnNKilWE9jJ0Yu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP3 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/3/cBISghng-Mb0o1sG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP4 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/4/75646V4Z28ndd01H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP5 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/5/yUP4Tltyqz0LPmM9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP6 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/6/M0TgqXwsuSalSJ8W.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP7 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/7/c36CWUYV5wfyjFfd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP8 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/8/7xGaypPAA268bh8e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP9 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/9/K9uxKVgr-fFGC8r3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP10 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/10/5VXu2W3zbofxTBs1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP11 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/11/vOs2phTI69tH-V5Y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP12 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/12/gALSBRyz-_GKmNxh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP13 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/13/BRJoDgAwvcFJvwGC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP14 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/14/cYOeBcmH74dEUx5p.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP15 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/15/7Nqe7DZgTUdTge-2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP16 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/16/DA3F7aYhQuiaI9E3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP17 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/17/ZoP9xeHYejHbSYNX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP18 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/18/B3k0A1WJcdnO3BfE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP19 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/19/3Fqbudl1TkpEqjCo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP20 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/20/OfQsRpkP_RX58AKO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP21 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/21/JUWCzZqAsHvy6P38.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP22 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/22/zzhWbUDn2UdwSeYd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP23 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/23/E-cqkJQuLr8EDO19.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP24 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/24/JcmLLdfUglRMq_Gr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP25 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/25/kDgGJMOLeDIK5Jwk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP26 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/26/AUIzKQQ6TS_e0kLN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP27 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/27/Fk1ewzqP0e20Ps9j.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP28 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/28/eDnrVEj5hs9P3aan.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP29 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/29/JWXr2T4-Z3xubL45.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP30 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/30/xWEdpF7qVvLaFqOt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP31 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/31/xLbCyBk8O9pgEhxF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP32 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/32/RCN_6Q2jNovriOuG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP33 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/33/Tck95oSAzG0Z4ddU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP34 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/34/_T4eiialD_f8cjMZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP35 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/35/839TGtBomjy-E_ez.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP36 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/36/OJfePVPsHn92hzcV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP37 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/37/J29tlSHFlWyHnJli.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP38 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/38/oNXt1yNMyQAcxMbg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP39 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/39/ms_4U3GXD-JLBtZC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP40 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/40/ZwlQWB0isC_subR1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP41 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/41/LpsGFPhVLh0vgVMD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP42 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/42/VLlt_OJXYGj6CJrh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP43 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/43/I86yzroOmb350Ypl.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP44 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/44/ZaHQUOix9Wx447m4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP45 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/45/J_doZ1tdBi44EuME.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP46 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/46/Z5vkcKg4dBbLaskE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP47 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/47/L378qBRpZX93X_Dr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP48 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/48/demX3qHzpokuX2jJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP49 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/49/jWGZp9W3weZYkpK7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP50 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/50/i5Vfi8V1Jw9NI7Cw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP51 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/51/RJfDhGAG_ZMf4i-j.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP52 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/52/uK5ArepQjnvurXYj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP53 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/53/z2tFjiUQ2mrk912V.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP54 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/54/Nv1xTcdYWYbyXS6Y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP55 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/55/aLfi78l_qD_mXhmL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP56 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/56/ajWRjyNjTTf5xEwa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP57 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/57/T80o97d1ziqlBkmV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP58 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/58/xLijiTEc9lGEEwvh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP59 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/59/6GFh7cuXNFggdGO4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP60 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/60/C71BVcNOTcAMa0Nm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP61 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/61/qVaJwTTibWFUUM91.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP62 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/62/4-RL-yckGzGnH2_o.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP63 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/63/NIPdaQdb5z0FL1SP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP64 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/64/SkMNir5ssatUWsZX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP65 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/65/l0gO9_7GgS-BWd5f.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP66 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/66/XHnYS6QEk-o_TzEe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP67 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/67/4Q-OBbz-MHYwdmoy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP68 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/68/CFU9th99I2Fp4VFO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP69 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/69/EQPPXmsoBaJf5uHa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP70 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/70/3LlK_I9Jc2mDD52C.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP71 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/71/HLZtQnQJcQJFn7Id.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP72 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/72/cTJnZNnB9bbn1tTn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP73 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/73/G-6erFQ36z2ei2LT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP74 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/74/7Jg1AsOdFFMF7Yif.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP75 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/75/urKwL9w-idVaQGHO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP76 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/76/F2q4wzG1GQU30o37.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP77 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/77/dFMFE-YtWrK-M5EA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP78 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/78/HYOvAhx9Q4HJs5Y6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP79 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/79/bpijt4-NFfNyT0cz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/47/b9a6cd28e2ed436980ce9bcb8e7c4880-1783743423527.png" group-title="👰🏻The Last Crumb👰🏻",👰🏻The Last Crumb EP80 [19:26:42 WIB]👰🏻
+https://static.ziptaletv.com/videos/4113/1080/80/gAyGuAB-Ne4cozne.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP1 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61791/1080/4RdVwyA6EDPrva3ezhZGCNbn7jTuSpUB_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP2 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61792/1080/HVgStA5mWUMwQE279Yye68dquak3DfvT_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP3 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61793/1080/T9pnZKUHGEcxfMRvegbsYzrQwkBCXmd8_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP4 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61794/1080/n925cw6PbVMgmKvspXR3aZC4zkGtUWEq_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP5 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61795/1080/qfgkd9BFx3NSTGERQwMm7c8K2PtjZ5UH_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP6 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61796/1080/txf9XCZdW3mU4HhF57G8VMgeKQ2DyTS6_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP7 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61797/1080/9ESPtFMaG7DKwhsVxnekHpCcbgjUBq4J_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP8 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61798/1080/x7jSWrFv4PkTDsNXeHYBdMyAGfb3ap5h_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP9 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61799/1080/8nJZ4DdxpYGW6BaTzNK9FQcwMHhVb3ut_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP10 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61800/1080/3ZXrtw9aYmyP2q7uvTdEHFhRW8CnD5jA_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP11 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61801/1080/dS57gbAPYKQa6VXetxvpshZ48zwHmBfR_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP12 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61802/1080/czZv2arxVRjYpPtek5U7n9JyGdgmCQF6_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP13 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61803/1080/stuAwh45RbejNqn9pJ8H6kZQWBDFUrE3_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP14 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61804/1080/Xwe8f2TRzF6SPVjDqGY9kEuHcCv3xhrQ_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP15 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61805/1080/ReTa7U8hsdzFC2q4QAr9yMGkXjNuHYnS_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP16 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61806/1080/wNQBV4Ry93jMJHdXzA5ET78tCxKZvhFg_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP17 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61807/1080/DebGpdj5KkNuPWctwVxEQCzvrFX8R69n_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP18 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61808/1080/yETUg5e4CRnJvkca7ZNbGrB9h8SK6s2W_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP19 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61821/1080/BWKkmsd8ryuVg3zPYpnDqwHcN6eRTFtv_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP20 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61809/1080/cdaK8Zu3GtghmwpPyMB94Te6zq7XbxfJ_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP21 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61822/1080/fK9wTkbBrMVZCQUGuhmSjJy4AtWNnegx_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP22 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61823/1080/3qRb5jJc8QWuDnGgKEhPHftCYVSk7N62_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP23 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61810/1080/unNKBdHpFybZCUDEMqPw72fRXzka5m4Q_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP24 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61824/1080/8HYjP9nyuDVdabGe4ThJCSNA7w2vksQK_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP25 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61825/1080/z4VHZKBD5dMq2jEXCtQYPvwmUeN9nhW7_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP26 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61826/1080/qzS8Ck2D9HBmFuQJjnVw7RAd4gaG5MXy_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP27 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61811/1080/w3dkKS6h9g2UrBa4EmXvDtNpqRYj5QAy_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP28 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61827/1080/pD3Wr5HtCaTkqZBcR7VEd6SNuJjYgbAw_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP29 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61812/1080/7ArRSZ2KmjhygPCGQbqEe4xY6tkDapMw_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP30 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61813/1080/Csd8mYDZ9p7F6SBWnVEkrJGtyhuvjAT3_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP31 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61828/1080/8qJhM4kctN2jzpQFbTRaBCgmPdUsfvGH_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP32 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61829/1080/AqZwXFc3RhHbvQD9GTMzxCduBr8ejntU_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP33 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61830/1080/sMCzm3JZpTAc9684VWYnEKtgbjeDwRHd_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP34 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61814/1080/TcUBFV29ZHgx4SEujyYnahDtCp8Jedrs_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP35 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61831/1080/NYfCpzdDxKk2Mng7Z3vPJqGASmu4RjHB_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP36 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61832/1080/6dR9yH5quVfCJz7xQXkS8KEeG2mNrant_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP37 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61833/1080/MkTVzcFGb9qSs3ayKBj5E76gNtJZCmpR_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP38 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61834/1080/UNgx5HvX69Aydcbt2VjFKCDQZwGrpqhR_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP39 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61815/1080/AmTNBRn6Jj9qyvgKEZ3MeQHashVPfu2X_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP40 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61816/1080/Kp9FdkbHrQ7JEWYfuPmqawxZMGXTh3Dn_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP41 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61817/1080/EtBwjJp9smQXv8n2hzRWcSka6ATUDCed_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP42 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61818/1080/2RbCNSamqhXkvuY8gMesVJUFpfBcrK7j_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP43 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61835/1080/hMQRcjF4PBNubAmVa3DtUHrCvdTwzn8E_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP44 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61836/1080/RNv6T7mB3aAysufWZVQGSxpb4nUJrPgE_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP45 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61819/1080/FYcRqZ3kVvsGraWbXDx9d5HJ6fmTpuBg_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP46 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61837/1080/ybwnt23V7EDgq6rJaUX5cv4hBxuFfsWK_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP47 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61838/1080/VUfmSt9cBu8na4EKjhHTJ63NPYvZrpbR_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP48 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61820/1080/8aQqbRsmZux7zenK9YfFG3PUMXjgH4Dy_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP49 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61839/1080/zPyhWqsrZHSCTjNkw2puEdMeBQ54F7nf_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP50 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61840/1080/7DdNWb4pufcj3v5yU9XG6hkAsFaR8mre_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP51 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61870/1080/AvspM8dGZKJwX9kWaHErPRV4bx625gCf_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP52 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61871/1080/ySPfeGd7NT4K3xZEuX8km5sUvJ2qbrhw_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP53 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61841/1080/dYGJszEw8CrNmA3BTnXvpPUyj2bkVgZu_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP54 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61872/1080/HupAT7QtEJCaXfYWMZe9ysr6q8hzk35v_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP55 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61873/1080/YCGyFMhHrZdcRA3zNPx2pemTj87ngQft_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP56 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61842/1080/RCYTvHUFdADQuj3SqGhMcxPa9tf8EWyN_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP57 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61843/1080/5dUw7eNbBPcVS29xhYHpu8WyEs3gmnz4_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP58 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61874/1080/eU8ZNC4MsvxTFd7uHzbgPrKjQWnEqa25_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP59 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61844/1080/GTQcepys7YP6dbvAkKuRZVC38aUwBqE2_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP60 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61845/1080/MaDw4dyJhtT6Q3YpA5kWszZHvRXESufr_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP61 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61846/1080/4tXjHsBuSU35rZCP6yVJqRdDNbcWg2z9_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP62 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61847/1080/vAQWedECY5GKTM8gcDkU9StFnr2mHyVz_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP63 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61875/1080/CdJF82vYHRTM5pQZfgmX4EtD3VUucSbr_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP64 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61848/1080/yeHt92SWfUTD5hq6cr3XYz7JjwbGNp4B_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP65 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61876/1080/HCAsXVuWd2DUQGBng5vmS7r9aJhZwq84_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP66 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61849/1080/G9CvAXDShQuMTxckNjtPfWrZpRUE462e_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP67 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61877/1080/FeB4GKDzquaWxCAH3dMQNhftbUpSyc5n_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP68 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61878/1080/CskrW6XMwBUfqDY4E3HzSxtjmbeRnQgJ_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP69 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61850/1080/V7KQkgDJPXjfb2reywp6Asq4ZanuYxBm_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP70 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61851/1080/2ztkPHC8MmW3ReqyUNKAsX4gZSwh9cnr_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP71 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61852/1080/QPr7DSnMKUcYfTVBxbmHp3jE2a8sghRz_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP72 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61879/1080/nbKABv4mup2Y7DPwjQX5qMVHSFtZaCk9_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP73 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61880/1080/SUvYtwmgn84R9ZecEDaXkFNhQ3WzuH2V_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP74 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61881/1080/4wTn9KEPW7tXYxvAF2Zgd3kHjBmGVJzb_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP75 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61853/1080/yRrP7bE9fUWuAnXZDG5adqVNcFJ4Ctkh_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP76 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61854/1080/Kx3N2BtHUd85y7cGVv9YZwsJ6aMjnhFq_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP77 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61855/1080/JcqzarhvT9ewgnWUQYRxVS3AEB7j4ypX_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP78 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61856/1080/CZrmwsdS4WqGPAHzk5hBXaF8yNJ6eEDt_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP79 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61857/1080/PwW2s7REQ8mgHy5tVMAD39zJXbrSaekh_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP80 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61858/1080/9GxkpgrN5a7bHtSVdsBMU6XQDwm8uEny_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP81 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61859/1080/hAgWXdBsxwfktEr2pyDueaY63FMCzRUH_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP82 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61860/1080/REtQkVM2BCXnm4Nj6S5verzxGAgDd7Kw_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP83 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61882/1080/tZGT9JPcXjurqNU8wQb45HpFySfE7ARs_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP84 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61861/1080/tWkzS9U2dCKQX4ARJuwEsHhFTnjYBMmr_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP85 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61862/1080/RuUak6cbHqZyYKpwsEeCz5DXFA2mjMnt_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP86 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61863/1080/XmJBgzWFM9bQc7wSp8dyex2NsrVH4KRa_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP87 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61883/1080/zwHWjxfNhYMtZS7ba9cnUuKk4yFeXT25_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP88 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61884/1080/QFjycBHq7w9zWfK5JdrmG6PZNCUEpakD_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP89 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61885/1080/cgmU3xRntrP7Ga9ZKQMHjTB2qkJey68A_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP90 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61886/1080/2j9Fg8tQRb5pxHdGVv6TfSUryEwYJCWz_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP91 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61887/1080/F9kgfuMcnGywd2EZAPK6xVvTj7ptR4Qm_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP92 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61864/1080/EQbnhtsmGPWuySYXV4ZkzC739FJADjwT_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP93 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61888/1080/wBZCJvX9pS3Hjmrh2U5DfnNEMqzbPR67_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP94 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61865/1080/v9ACXKmcQ62GpZ4NrWdwHxjPzDqM5B3e_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP95 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61866/1080/STcHyJBgnuUwNadEbDpeF9GZPqz4h268_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP96 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61867/1080/d6QkYzbZmnCKFTAVURscJjNy72SMX8w4_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/ac4906ff46e74a3896281b2d62c22f46-1783740702345.png" group-title="👰🏻Marry To Ex's Brother After Divorce👰🏻",👰🏻Marry To Ex's Brother After Divorce EP97 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_08_15/ffmpeg_1049_61889/1080/akTrvC9MQKx4fnd5DSpW87UGwt3RjJhY_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP1 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29188/1080/xNDdHgrXEMVJv8aSAQf7tZ2ksYW64KCP_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP2 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29189/1080/vJDaWTGFK5zrQfU6PkMg39VZnRmstxHy_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP3 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29190/1080/zeXHgxJpPuaSCNn45URr3k2Btchq9DsK_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP4 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29191/1080/zRar5D98um36G2KYnyACdeEtsXvB4pSZ_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP5 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29192/1080/8RMhKEXZHjbCeN4DpwzuJSyfUPYx9asm_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP6 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29193/1080/uESMgrWx5kq8ewmjGcZ6Q7FJT9BXfaYA_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP7 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29194/1080/4nVp7QceZy2zqEasTKJgGC3mYDH9tPNA_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP8 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29195/1080/mfqzS8xc2u3Qg9ZDGtFMXNdrshVw5Aae_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP9 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29196/1080/XqKMuCTGh6WkxSJ4NZzEQ5BfR89Hcbtw_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP10 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29197/1080/ytAJGfqQxjS8UgmcNET6a97nzY2RW4CD_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP11 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29198/1080/jpgXaQTwsGkFNMr6AyDnc7vhUCHueS28_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP12 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29199/1080/rnwexQMD2Wzs6Smv8HBTVu4hXUdFpkgA_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP13 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29200/1080/BVtSmc3UbkWa59fg8FspxJ7CQhTn64PK_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP14 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29201/1080/fpb6NRHsSMVXu24xhZv9yg5WjmY837wn_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP15 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29202/1080/578jmhUHRrQdGxB4K6MDytv9VfZEAp3X_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP16 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29203/1080/vhTSwbqPWdfrVjYsunxMNUFGkK4ZRaD7_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP17 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29204/1080/95gFBNzafHXnxJmDKqRvQGbedESswh2M_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP18 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29205/1080/RvG68Z3m9sfjdY5ADzUrNSHqa7u4MKPp_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP19 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29206/1080/yEjq5axksN4AvdXW6cP2getmhZwbnFBr_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP20 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29207/1080/VUqZrAzevskGn2KdcxJCwBb5SmNyY6pD_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP21 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29208/1080/9uDc5UXGQ6kqZamnP4pdfHrWsw72gYNK_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP22 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29209/1080/tryA4FDfdbhGBVNesHnmMSUXuJpja8qg_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP23 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29210/1080/uZGvbq7KeAYjFdkHy45BVMJTaEwfNpCX_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP24 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29211/1080/xp3jnEfWyT25mJDkRbHQS7gcsVvdFtAz_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP25 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29212/1080/d5JsSAjtcRfUbhEK3vG2BZzqkgDHw6Vm_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP26 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29213/1080/57WjDzJdqNTFmb3tMYQRZgvf9w4CGhrx_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP27 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29214/1080/ZhjY6xD38nQwCTKrPqGguFp9sAtRbJXN_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP28 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29215/1080/8hTxzsCmF3Ae5DYtRKJbvcdSMgr49qaf_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP29 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29216/1080/DAeWyTj7uBkSR9Ggpt6V2XwnmaQ83P4c_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP30 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_23/ffmpeg_658_29217/1080/KQED4hZSx8c3JC9mXTatnUfBWHPdpy2N_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP31 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29218/1080/4sDEHSwfCjnAdF3UMg2xWhmGbK5ytqzQ_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP32 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29219/1080/XwS5TC7k9DpEZjrB2qMGUuF8tehxHb63_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP33 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29220/1080/ahSpc7kUb9dBEC3RJ8XKDqyMu4t6Ff2n_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP34 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29221/1080/MjEmtNqH5h4k8cfvZsuWdbrYpAV6QngT_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP35 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29222/1080/SZHwecBptPGn8TU3QAbyqfmdMFVkXvNa_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP36 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29223/1080/Z78hb4aAPXYqK2vGWyCpEnkNMz3x6HBu_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP37 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29224/1080/GkYM2XCTPbqazEf4jQV95UA3K8cJB6dg_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP38 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29225/1080/HE8RvJs7B4YjWepT6kVbhAuGgPwF5Mzr_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP39 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29226/1080/zZuB98y46cMEjtpTnVAWsrdmbDvkq5Jf_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP40 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29227/1080/yzujRkweKfgJMqmr5TEDnxPBpd8ZHNbA_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP41 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29228/1080/DqASCb8xGHhp35e2EmgfUT9WrYMKZnzF_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP42 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29229/1080/FuwHBDgKGhSU6RMV9qnykxJNPmsejdAW_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP43 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29230/1080/PWUcjvVNqmw87hk4XaRxn9AYugbD3Cye_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP44 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29231/1080/GHJgrSX9qyQUhC3KtxBMmjf6Zd4wzFPk_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP45 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29232/1080/TpVgfZnz5yuqKS6mev2Q4G7McJhUPAjw_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP46 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29233/1080/3hMQ6bPHjztGafRSwyg7ZEkYeJ45CBu8_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP47 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29234/1080/ZU8sta2zNHSv3pVjBYfweJyXxDrFcKgh_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP48 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29235/1080/VFbNZCSJ48TGWH5R2wxPyQrdB3neAasq_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP49 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29236/1080/r7Q2d5WNmkfKsMEa3BwhAYTjHuc4zFb9_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP50 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29237/1080/SYpgP53MamNyJkAzuG4ETwXx8WHdvhFC_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP51 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29238/1080/2yYXfnTRr3EVauN95PcFZ6AGbBe78kwK_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP52 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29239/1080/tKA2TPD7BjcURhVdS6mbNHaJvk4QpqF5_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP53 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29240/1080/UaJqCfs8FWz3tVBnpgjSxemTQhMurR9v_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP54 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29241/1080/KH3qFaxJBZdGkrYURemN5CAyt9XTQPpS_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP55 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29242/1080/GFSqguzstD6y89BhdMafv5ARPxKmbHCX_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP56 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29243/1080/GRBdbwv7s2UCrtFT4aE8QzM3p6mWkuqg_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP57 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29244/1080/wu7cMCf6zpANTxbdSyFv3RPrUWZqJ9Hg_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP58 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29245/1080/Zj7Bfh9rtWmp2gbuAzEeRvVQMT6FaxUN_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP59 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29246/1080/A7g864QkjwVWbpvueSTcahyRBE95D2Um_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP60 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29247/1080/BZHVTvbqGJn6r29jkExaz7mwUgsKXy4Y_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP61 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29248/1080/N9tsRz3vDgXVdrjaWf7CmEKpH2kATn45_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP62 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29249/1080/4BxzS5NXGQCUmu8jMKYJDAHFhZ3kn9Wr_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP63 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29250/1080/SDhvyXR2Mzq9Hguw6BZCjfa37JVdpemb_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP64 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29251/1080/z7FtWYydrTkCBHQZ6EhbsVAjuGNnmeM5_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP65 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29252/1080/TMS2GJwyPnvVrzENqkgRB7QH3xhmsu9Z_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP66 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29253/1080/MNvQ4fJdE2sg3zmbGqye8CrDcxTXkVUB_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP67 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29254/1080/vkcrtpjF5BdyE4NPCehZUKDg8RzYa2nH_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP68 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29255/1080/NB72Mn5zuDSmwvFtUEVyAd4CGPcK9h6Q_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP69 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29256/1080/e3fpRKgabkZnUJzDrQuxwG6tXANY4PCB_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/26419ed325fd4aa38e68192486339d58-1783654307724.jpg" group-title="👰🏻The Divine Child Yuanbao👰🏻",👰🏻The Divine Child Yuanbao EP70 [19:26:42 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_24/ffmpeg_658_29257/1080/vrVRud34y7UAFMDtjW5mXBxwJg2SHqhT_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP1 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/1/iE49bvvIImJjt-qt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP2 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/2/_DmJaxs6X523LSD2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP3 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/3/d6g2E-7VTUhRSW7-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP4 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/4/RirZ1qlh2DZXFy-w.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP5 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/5/FK-_e1qv4jaYts2L.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP6 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/6/sgV4AJhZcojiIg0f.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP7 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/7/3jBR5FvSC_CBRpN6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP8 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/8/IGZrIy-BA7nsPBVk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP9 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/9/a1VgJVr4t1YyKG1b.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP10 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/10/63IAqXzRkzgNcFUk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP11 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/11/GvBouXKv6eRRdv73.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP12 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/12/4vELDY7bEEUsmM8Y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP13 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/13/Y8UpHJM0BjVbaabp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP14 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/14/MilYpU0I3tc6FXBH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP15 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/15/ZililGaD2HM7Q3ml.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP16 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/16/dSg6Ko-UwxGG4apk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP17 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/17/n5voSZKKorOb8cYE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP18 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/18/2LmMfNL6os4euwvW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP19 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/19/hWZz_xaKejySys2G.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP20 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/20/oKOgtaPZZKz1DVUr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP21 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/21/BcttOpO2yOZfHKNR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP22 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/22/Shp5ZKVx3_w85bt_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP23 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/23/W4duirCkM2WAmjgJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP24 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/24/LyvxYGOAAir2lV5W.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP25 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/25/dRat9Qlrs_LGtFhk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP26 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/26/PDrGRYY5oJHKYAz0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP27 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/27/RlZ_-lnOKyvPInb9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP28 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/28/hegGIvmEKZP5rSzt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP29 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/29/W-bbyAjLP8KuYmm_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP30 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/30/cKoLmH8Y1XKu6xeY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP31 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/31/gc1XBaG3xHjNu8lJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP32 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/32/IYFMNmDR4UNEMM06.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP33 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/33/6_rRm08ngVq9MNJo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP34 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/34/SL_DoEc9i8lCGkRB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP35 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/35/2GEqw7fhjDufzeVH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP36 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/36/cU0M55h9hkDENv7g.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP37 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/37/yMAebnI98d43U8r-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP38 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/38/gQ9tE4nYnSFZfKGJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP39 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/39/1D5fynxBnDFpMaXg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP40 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/40/wYBJmQsU8omaWoAE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP41 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/41/oVZznzc-HgXWcBZT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP42 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/42/Hcz8Lk1-94QHKZ8E.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP43 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/43/mEohoqMOA7tKQMIt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP44 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/44/9zx2wY6HZo5PHg_R.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP45 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/45/9B--Pr31-Dxwpkz0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP46 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/46/DzyYHvwRhhpMZvz9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP47 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/47/SjjQMiGxKewAfRbV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP48 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/48/k3j73OEyRSABbHGi.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP49 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/49/00z7K__c17TrfHHa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP50 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/50/tyGb-QUHdIL_zbJZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP51 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/51/qq9PqHgmWF1os_lE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP52 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/52/Uds2EmrZZl3VxaIm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP53 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/53/xgRsEVOz-55mM98M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP54 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/54/F5A4ft8xYkOCWCzd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP55 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/55/tVaTyGDwN76U-hV-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP56 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/56/LKKId5QZ__rZyz2e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP57 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/57/EFUY5srWPNYVR9i8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP58 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/58/4qDYyvi0bJT8jHu9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP59 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/59/RFLAS8dEIM9SfZEL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/5611415f51854b2aa3c7af35a9ef8584-1783251749154.jpg" group-title="👰🏻QUEEN OF SLAUGHTER👰🏻",👰🏻QUEEN OF SLAUGHTER EP60 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/5057/1080/60/MLwPD1tRI-ryc9aI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP1 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/1/b3GbbZEAorWQ3vDS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP2 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/2/tO7dgeUelfQsqaOW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP3 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/3/RhC6IfjHVCT_K3St.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP4 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/4/87dAKlPW0z8Aue0c.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP5 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/5/DaZKWOwX3pWjjDQL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP6 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/6/M_ZfU1gYSC8sjjj4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP7 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/7/g_wtvmSq68RsNc8I.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP8 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/8/ml_MTdS1E-J-7rq9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP9 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/9/rBj6QaBjWzRvt_kR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP10 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/10/xliiXlkEwe6w8MgM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP11 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/11/oTJYUNRaU4E79OGG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP12 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/12/UI9wGphQPP2AmVO_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP13 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/13/Lxr4AXlkerwDd13d.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP14 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/14/glu1ud4O8ix0o09H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP15 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/15/9QJebjJIavqkRxzr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP16 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/16/I_O1SIVUZIxtot8r.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP17 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/17/Vk_q4HIqq-qIctbp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP18 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/18/04FRCq5vqoh3oUOl.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP19 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/19/qrS9ELO2yTumwWRR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP20 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/20/vgWCKgHCJgypXsSm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP21 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/21/5NRJLTACNFM8N2bU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP22 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/22/I5cFv6fjf53d7Nmq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP23 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/23/Y6FmQ5iOLYdUdBhj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP24 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/24/M81mc-SfRlASxqIN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP25 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/25/bDBzTmYjTiZQNZqN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP26 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/26/JJwKLYAtgQZRxdvy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP27 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/27/DlZGBxQUETA3R0DF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP28 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/28/UpGMjxxdBFe7HkK-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP29 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/29/H8X1mHVcK9mZzOzl.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP30 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/30/Soa9TvJPUsKCSp7S.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP31 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/31/aJN9DgkCUUWyeOWg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP32 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/32/4W7Bk9pRYpK9P1hg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP33 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/33/wJEq8isRMei4Y26e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP34 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/34/iXZHn1vqvOf8Q4E_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP35 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/35/h2qEHjkejfwSmF8J.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP36 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/36/dqc_R0GvToJh-q0w.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP37 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/37/uGZzCEDMIP1WdHkw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP38 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/38/Xda2HP4HqZDwg9b4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP39 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/39/ONK3WGVpZAnr2aBl.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP40 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/40/fuCCmgA4FWKXEPEj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP41 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/41/xGnprh__KF2uk5f1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP42 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/42/ZkL2UZG7bM_UHKAS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP43 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/43/yPIC8aTVkjK3himf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP44 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/44/V0x91Nfv8Lnh7c3z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP45 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/45/OsgQz0RHOLJ9O3jp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP46 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/46/sVruKk68Vl8DGiTd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP47 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/47/gxRnBe2Enp0bMU38.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP48 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/48/hKdZBNFrq8ivvuft.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP49 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/49/XchuIg3oJgan9kTu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP50 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/50/OSqAYPJftXQxLqmw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP51 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/51/9oD039VQfAnA2HOJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP52 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/52/ExC3ItGGZ52BFgZ2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP53 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/53/tI97H5giO0GzGbs3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP54 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/54/GF5CNnvfZeCdbBsU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP55 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/55/aOv6mTFeTx5ubI_5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP56 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/56/M3bZmmOzdLi6Dt0e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP57 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/57/yMIdlL0Oq5MHpr7S.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP58 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/58/UVSmJAcKOsN4HpQj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP59 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/59/-plGjQXq0kyONJWo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP60 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/60/2v4F3flbIWOka101.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP61 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/61/oepKIhUFHmgQWRhy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP62 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/62/q66pjEN5TO3N68lx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP63 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/63/1wKmWANKeovtRYiS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP64 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/64/kG_VPmyjWIVZm5aT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP65 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/65/ZXDcv_zt_0zcpfr6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP66 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/66/tinyfUDpqxEQLu93.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP67 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/67/WhKSTIzYdW-Gf8ti.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP68 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/68/6yNKp-pf-juaT699.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP69 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/69/NzLFrz8bMwCnnyXq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP70 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/70/_wbrp69Oehow1e-x.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP71 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/71/Ix4fp9sQJgTVI0KA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP72 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/72/7vxJgTBMv2RVw1C1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP73 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/73/yNmOAYHglJHUDFWP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP74 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/74/9CRMT5qVV31pxYCe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP75 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/75/nnqR_5YtnRWwdsZe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP76 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/76/nGOR-xpp4jBIg_MF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP77 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/77/cqHvlOcSEYZ8lIoQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP78 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/78/hY2lQBS0FWpn_-ho.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP79 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/79/0nHVqAZyee78AXja.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/949af54a63974886914fa0df2c22e660-1783078937511.png" group-title="👰🏻The Ex‑Wife He Destroyed Was His Only Savior👰🏻",👰🏻The Ex‑Wife He Destroyed Was His Only Savior EP80 [19:26:43 WIB]👰🏻
+https://static.venixtv.com/videos/4362/1080/80/KDkxANYY_C3efW04.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP1 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/73f405c595f3f74c18bb/73f405c595f3f74c18bb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP2 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/d4f9ed3c14c694aa098a/d4f9ed3c14c694aa098a.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP3 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/b9899ef1dbbfb17f32c3/b9899ef1dbbfb17f32c3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP4 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/e7b6ec6e2e5bfd8e05a4/e7b6ec6e2e5bfd8e05a4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP5 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/4eec9d86dad4fb2cd712/4eec9d86dad4fb2cd712.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP6 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/64792d4e64eb68092108/64792d4e64eb68092108.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP7 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/c955f760b9e4d1d2f866/c955f760b9e4d1d2f866.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP8 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/ee02e28ab4e3c7563e83/ee02e28ab4e3c7563e83.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP9 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/941e51a163c5e3299400/941e51a163c5e3299400.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP10 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/5f16d5fbed1503fda8ff/5f16d5fbed1503fda8ff.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP11 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/02b1c0fbc33d5441286c/02b1c0fbc33d5441286c.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP12 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/400d02ffe67d0abbcf07/400d02ffe67d0abbcf07.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP13 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/40ad7de18f192fdc4688/40ad7de18f192fdc4688.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP14 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/99fc1043ba71a0f4bd38/99fc1043ba71a0f4bd38.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP15 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/ce1c4f62adca6851566b/ce1c4f62adca6851566b.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP16 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/2c554de9185e06448aa6/2c554de9185e06448aa6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP17 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/019cdfe2a2f295084c74/019cdfe2a2f295084c74.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP18 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/a0a20ebd538374e426e0/a0a20ebd538374e426e0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP19 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/b01177fc1a84a9c87549/b01177fc1a84a9c87549.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP20 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/fa919788b042f937014f/fa919788b042f937014f.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP21 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/d7a835882d8aebc7bf49/d7a835882d8aebc7bf49.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP22 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/f3368a203f693ea2f36b/f3368a203f693ea2f36b.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP23 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/0a7334bf7e9dfe42bb88/0a7334bf7e9dfe42bb88.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP24 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/5280d1cf4ee363ed3d9a/5280d1cf4ee363ed3d9a.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP25 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/08aa2b3d974132efd9c5/08aa2b3d974132efd9c5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP26 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/bb6adb7014d2d1af7cce/bb6adb7014d2d1af7cce.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP27 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/ca70ce8ae923c81e695b/ca70ce8ae923c81e695b.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP28 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/017cc65cc5ecb6e9b009/017cc65cc5ecb6e9b009.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP29 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/1b3628f8861a92eb74e6/1b3628f8861a92eb74e6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP30 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/e0200d5447da13969cb0/e0200d5447da13969cb0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP31 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/37e670d96fecaac82499/37e670d96fecaac82499.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP32 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/fd6796b8dd25fedca37c/fd6796b8dd25fedca37c.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP33 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/0350cda6cdb0af0f01e4/0350cda6cdb0af0f01e4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP34 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/685da713874a1cb13d36/685da713874a1cb13d36.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP35 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/2037f5cab9b3d79fe4b2/2037f5cab9b3d79fe4b2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/2d3bdf8fb6da460d96aae47f714801d8-1783049534430.jpg" group-title="👰🏻A Fierce Maiden's Taming Tale of Her Man👰🏻",👰🏻A Fierce Maiden's Taming Tale of Her Man EP36 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/559b3e33080e86cd3d09/559b3e33080e86cd3d09.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP1 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/37dfd1168ce48edc31b7/37dfd1168ce48edc31b7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP2 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/b057f4692ea80cf8f9c9/b057f4692ea80cf8f9c9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP3 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/fab3ca05b375a9ff00aa/fab3ca05b375a9ff00aa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP4 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/4b9323059d3314e6bfbe/4b9323059d3314e6bfbe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP5 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/e03d3844053cb69b3272/e03d3844053cb69b3272.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP6 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/ed57fe2d3195d3a80d4a/ed57fe2d3195d3a80d4a.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP7 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/7be46c3269914273faba/7be46c3269914273faba.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP8 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/4e8896eefdd61f8cc52a/4e8896eefdd61f8cc52a.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP9 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/e634543439773ff4bb8d/e634543439773ff4bb8d.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP10 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/b9e54a340df747bb4a46/b9e54a340df747bb4a46.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP11 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/7753bf8df582ec456763/7753bf8df582ec456763.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP12 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/6e224c11f5b6b4e9d3f5/6e224c11f5b6b4e9d3f5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP13 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/7210e74f5e02188a8cbb/7210e74f5e02188a8cbb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP14 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/7e3b2ac49972065737ad/7e3b2ac49972065737ad.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP15 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/2750ffcc10e8c6a26749/2750ffcc10e8c6a26749.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP16 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/09cacebe47c1e35b0f76/09cacebe47c1e35b0f76.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP17 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/a13da43a83565d4ca69c/a13da43a83565d4ca69c.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP18 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/cfe313afe82b56935fa3/cfe313afe82b56935fa3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP19 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/e22fc97095141a60b6e5/e22fc97095141a60b6e5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP20 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/aea9c710f3ae000a1983/aea9c710f3ae000a1983.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP21 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/4439dac82e260dcbbb50/4439dac82e260dcbbb50.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP22 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/66663a54275bc879b155/66663a54275bc879b155.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP23 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/5efd9d81c074b198c4ad/5efd9d81c074b198c4ad.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP24 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/6ef1eb9917a57427e7c3/6ef1eb9917a57427e7c3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP25 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/20554665aea4e4344894/20554665aea4e4344894.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP26 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/70b4b76c3a4a533d1644/70b4b76c3a4a533d1644.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP27 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/6cb54c421df44e56dc15/6cb54c421df44e56dc15.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP28 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/9124d3b29239f6dc8b5d/9124d3b29239f6dc8b5d.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP29 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/1c3aaab584c0a251499d/1c3aaab584c0a251499d.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP30 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/0750eed58c2b1b1837e6/0750eed58c2b1b1837e6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP31 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/15dce6792820c9183140/15dce6792820c9183140.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP32 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/18bf5356c654d2223042/18bf5356c654d2223042.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP33 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/d6aa29676bf262d32af9/d6aa29676bf262d32af9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP34 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/65fb9d65a766510c85af/65fb9d65a766510c85af.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP35 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/042a082543cec6ca2f4e/042a082543cec6ca2f4e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP36 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/bd343942f0419b278324/bd343942f0419b278324.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/05f54cf024eb4f24bbff31b1abdbd550-1783049527670.jpg" group-title="👰🏻It Must be a Special Fate👰🏻",👰🏻It Must be a Special Fate EP37 [19:26:43 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/1b5d5c7fdeb54c294ae2/1b5d5c7fdeb54c294ae2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP1 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/97f6ace25b35c8a0b984/97f6ace25b35c8a0b984.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP2 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/34fa5ae6f7ca1ec5f0b4/34fa5ae6f7ca1ec5f0b4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP3 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/3e012596f365804920df/3e012596f365804920df.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP4 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/e6d96a088ecac8117c1c/e6d96a088ecac8117c1c.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP5 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/f02470071dfb0c132346/f02470071dfb0c132346.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP6 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/702f5449ade8e51071a4/702f5449ade8e51071a4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP7 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/41a1bc633419ca0b93f4/41a1bc633419ca0b93f4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP8 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/79ab5617a4c288518a23/79ab5617a4c288518a23.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP9 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/20abd36c2f4d042eeaee/20abd36c2f4d042eeaee.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP10 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/edcbaaf00c56d3247b7e/edcbaaf00c56d3247b7e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP11 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/dc5389c870628dedbd3f/dc5389c870628dedbd3f.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP12 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/cc86113f15e6dd0a15b4/cc86113f15e6dd0a15b4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP13 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/e4f7d077898ddc925301/e4f7d077898ddc925301.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP14 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/d9d76dc97719b764cc5b/d9d76dc97719b764cc5b.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP15 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/457ce7a14dd2a3c488a2/457ce7a14dd2a3c488a2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP16 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/d41e12b664f41160799f/d41e12b664f41160799f.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP17 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/685d9e3bf3f24b4250f7/685d9e3bf3f24b4250f7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP18 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/b5a9376c3ffa33d93ef4/b5a9376c3ffa33d93ef4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP19 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/2c38c6c9fde73401898e/2c38c6c9fde73401898e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP20 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/992845b75f682fd5cd1a/992845b75f682fd5cd1a.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP21 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/144622d154ee3dc5c8b7/144622d154ee3dc5c8b7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP22 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/9d975156664f15e27a29/9d975156664f15e27a29.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP23 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/c21ebb4125e5c768a1f8/c21ebb4125e5c768a1f8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP24 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/87e62c141416cb7fdb6d/87e62c141416cb7fdb6d.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP25 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/acc903e58c3d0b3013ef/acc903e58c3d0b3013ef.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP26 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/162a63e75b500b925662/162a63e75b500b925662.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP27 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/8d3ace0af59700d84257/8d3ace0af59700d84257.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP28 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/043ff640a03711a49db8/043ff640a03711a49db8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP29 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/19435b8e24f86249e8da/19435b8e24f86249e8da.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/e430469683d74fa1be5718a9277e0317-1783049518928.jpg" group-title="👰🏻Sweet Contract👰🏻",👰🏻Sweet Contract EP30 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videom3u8/f23873dececf93311f29/f23873dececf93311f29.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP1 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23054/1080/kYTrV3aKsNM8ZgFb2HDtcuCBG4j5hqvm_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP2 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23055/1080/gfvhuydxZwaP3UpREH2DGcq86WQBzNSn_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP3 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23056/1080/CbyqSHjfJGXAheFupD7tnxK5ZQzaBw2r_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP4 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23057/1080/mGhkMfju9cTgyF7YNqS34sp2KrPCEWBd_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP5 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23058/1080/KjRtFE7A6GpxB8H9hnb2Sw3kcDTNVWPX_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP6 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23059/1080/f7J4g9D5kpNw2SKW3UZjrAtEeFGhPMsv_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP7 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23060/1080/ezg6ju5QPnqGAs7c8bHXRVJWN3UZYvmK_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP8 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23061/1080/7fsPXug8Mx2ZcGqj4JwCyAat9QdFhEmD_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP9 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23062/1080/CPgcvj962yMrNkDe8pBznsFSfYUaT7VK_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP10 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23063/1080/aeYQGNFcT2nK5z3ShXRAxpWrgZstyPMd_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP11 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23064/1080/9vCWQN3MRfju675Yyd4gbXhBscTeZmVk_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP12 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23065/1080/t2c6j7dxrmYw8znXHMyGbuJe9KDAEC4a_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP13 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23066/1080/GKzc6eDvuBgxFbrJqdp5s3E4T2jUaWfy_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP14 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23067/1080/6Z7wsrfEx5QCdMAeXuUtbH98hmkjPVcq_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP15 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23068/1080/YS9WAxQ8usbyzVJjeDRKT2UM6hH3paw5_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP16 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23069/1080/6rhR5Spsw9PzDTnHxY8JM3AveqWb2Edc_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP17 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23070/1080/nygH7EjSrmR9NVhwQkzJZAuT48pD6G5b_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP18 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23071/1080/3pM8u7bsTmvnZPwY4g5cNa2HUeEfxd9V_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP19 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23072/1080/Z2ceJ5DrRzNjkxUnwMsEQdTP9yVvWX7F_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP20 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23073/1080/uDBAwvGMKrq8XnZzY9gmCk2NWxV6Hyep_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP21 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23074/1080/rDtmMnhzuRKG5fQJ3jcHdxYNVC84UqP2_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP22 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23075/1080/UucTwhNkWgfFMPQv342J8rBZbq9GtpX6_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP23 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23076/1080/2AG6Mm9crtXaspvyRuTdCHn4ESwZ7bJk_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP24 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23077/1080/WfGNT3r9hC8ypdQ4z2c7v5SMUnD6XRmw_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP25 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23078/1080/xamRvtbqDKErGkw9s5MSCzVg23udje74_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP26 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23079/1080/mWEtHj365uAYrZPUbFVR9s8DyGTSeaNQ_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP27 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23080/1080/8yxzr9w7qX5U4C6EtZhdWDuSbenmJF3V_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP28 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23081/1080/hWsyrFSdtV29f3kQCbZczDewmgE4YRva_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP29 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23082/1080/sxv4XzSMWNB2rZfJpG7kH3qYb8UVg9KT_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP30 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23083/1080/FQXpMAw4eqabuzVB6D5m9Zd8SytsvKET_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/7340ed79c55e427ea650a0a854ab2ec6-1783049512664.jpg" group-title="👰🏻The Runaway Marriage👰🏻",👰🏻The Runaway Marriage EP31 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2024_11_21/ffmpeg_503_23084/1080/MHb4AjghqGXdRSxJmKVPtCZNwrfkUWe6_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP1 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_13/ffmpeg_642_28412/1080/WaRXgNYApVkcdhte6fGKCyJ2xHjmU9ns_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP2 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_13/ffmpeg_642_28413/1080/mgxaqvCFdDG7WuHXEAhZ6nj5YQbMcy3t_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP3 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_13/ffmpeg_642_28414/1080/yz9VcBxUbnQRHKj4S6FvWgeJYt85upC2_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP4 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_13/ffmpeg_642_28415/1080/mZvdK6ew5prPS2HaVUzWJuRBsGEbF4YA_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP5 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_13/ffmpeg_642_28416/1080/Jvkmb2PzKBrCNfngQps8MS6Fauj5HqUw_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP6 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28417/1080/4wKCYp8WFbxrBTSUmVdeszn2PkXyHADf_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP7 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28418/1080/JcAMysfK236PzTY7CtnkQFrvXEWHd9pG_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP8 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28419/1080/eGf5xuaRrtYPhj4DdWXS7EMBzVKZ3bmw_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP9 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28420/1080/xjknZtR5MSP4CmGQw36JeV9brDvqcXBg_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP10 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28421/1080/8EbSBPNAuvtRqzfsDZX2KpWCyr7YjedG_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP11 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28422/1080/HPzT6NK3b4ADkJqVnreQfpwMdhmFYgyv_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP12 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28423/1080/bXe29FxzvGTknKwjUtRN46fumgHAV5cs_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP13 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28424/1080/kHFEph8btfNGjrm9VP2Xxuzs3DTge7qa_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP14 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28425/1080/x3J5yd6grYFTbzQ9sHR8KhMB2kWqDp47_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP15 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28426/1080/9wuTzAUqeMX5Ytc7df3GxrRbnV4FhQgB_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP16 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28427/1080/K4vMsFce92BA3Vbhmr6xqTHNQpk5YdXj_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP17 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28428/1080/f9DGS4JQaxe5YyzuWXdKtrs3TNcU6BH2_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP18 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28429/1080/rwtudaWFQmTEPRqf5JGvyC23BkgUA6xe_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP19 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28430/1080/CxyRWkvbGthH7MQzweVTAmjXKN6BqnZF_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP20 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28431/1080/GKm2tTr5Q3PC4qyYS6c7xaADNjdW9FnH_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP21 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28432/1080/Vq3Mbe4jRhSwryNPn2skFB5WmZz8u7C6_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP22 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28433/1080/4AahydGcu6tDmEWgPVKS3BvM5q9C2xNn_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP23 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28434/1080/uvreJ9hafPjBkmMwRZ4UdznxF7tYSCG6_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP24 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28435/1080/RxBez6rF5VX2NThEafkyMCPgnYpvJcK7_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP25 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28436/1080/6eYM4au8dUrRBfnsHjVKFQ3Jvg7NPEch_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP26 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28437/1080/TuGKwV5es7jEfbWd4AkzSv8XgHaqUpCY_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP27 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28438/1080/PvwVXGjnq8h5MWkBdK4ZczfDpmREsHS2_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP28 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28439/1080/EvtQw9PJMWdrgX73UBheaV4Fbs8DnjNk_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP29 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28440/1080/vaZ97s24S6GjexYX3ETygVMUPAWnduzp_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP30 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28441/1080/hR4XDN7EWqZbux3ScvesaYfArVp9gkHK_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP31 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28442/1080/73aMxEsYndg5kf6ZTWScPBwevqtuADJX_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP32 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28443/1080/XxahRVbt7D2mGr8jYupMnvWSzZefcAQH_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP33 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28444/1080/f5rC2h3VvkQEFzsnJ4ZwbMSPpXmxWec7_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP34 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28445/1080/Dm5fvCRqngxehVcEQjMpN96rPHXBJs2S_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP35 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28446/1080/QwmjS9urGcPC7yMBVTnA2xXhH5bdEZU4_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP36 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28447/1080/yuFnqQY3Bcz2dbfSaK5hjVwCtr7JRAXv_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP37 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28448/1080/qn5TgfKvNEVkjr2FpeQPDh9dYSbRUCtm_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP38 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28449/1080/cC2gHbUJax9tfwzZjNSFGDXdpk4q8rnR_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP39 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28450/1080/Zx5qEURyuhgSsWf4pQjeY9DzP6HrGA73_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP40 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28451/1080/KrtNpdSYg3fuQwa2McFhCJ8TynA6RzbX_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP41 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28452/1080/DhQ2gP3TmMXkY89AVEqrvKCeSczJtxd6_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP42 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28453/1080/PtyGD3dp9Q6EsHJzcwgkTXNvWZfSq7a2_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP43 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28454/1080/c98qGj4x7mbheVrJTunWMP3YQsSzDFBC_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP44 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28455/1080/2ZYC4qnJQSBK6zbtPVmN8hUfrTGFa9kj_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP45 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28456/1080/Vsn2zCZaWXK8U6mvYqeuHjT3Phcp9DtM_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP46 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28457/1080/yJB35tSuCkfXRvTKpEcjdFAWMwPUH8ZY_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP47 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28458/1080/qk4pad9vrVZ2USWcHnb6YD5JxQGfMzFh_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP48 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28459/1080/FmWQN9GtzgrPdwf7sXMbxEKYChkRcT6u_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP49 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28460/1080/KRNefq7Fj9zt4E6dUVv5McuTZJ8HpCnw_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/34/d85a10813b674f898d3efeab86f31125-1783049503081.jpg" group-title="👰🏻A Prison for the Soul👰🏻",👰🏻A Prison for the Soul EP50 [19:26:44 WIB]👰🏻
+https://static.virlixtv.com/videos/2025_01_14/ffmpeg_642_28461/1080/dWsTSEAV5bZ82Rh96XmwcjtHCrMYunyJ_1080.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP1 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/1/26P1qYjGifxeC4eY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP2 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/2/FhUkX3L5jh1HLbT9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP3 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/3/OWBnUzWRghEoDJYy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP4 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/4/vptp9N93vTFH2xOZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP5 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/5/I2XlUOB-_73x_lEH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP6 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/6/z8mHpxymBxkuMSF5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP7 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/7/9YSqmsncbtSUqUeX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP8 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/8/qaVidclW5hc9vLMh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP9 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/9/VjTtZQD5m86fzhER.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP10 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/10/9G1It1YkAJEQn-Q1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP11 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/11/I17vo1HUTdra4ZLs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP12 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/12/OjM3xTtFoIRTYXHM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP13 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/13/2486oz63-LGn3B0G.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP14 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/14/q5NX2r5cN4XFkuIn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP15 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/15/n5MRUOESq63VfOtm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP16 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/16/NNPZBcLW_HPspgwW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP17 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/17/rYuhPCeuV7_rj6Q_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP18 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/18/xBoumJ3A9c_vczdt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP19 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/19/50lZxlrOWgw4Ea_u.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP20 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/20/8xkf9KIgestOZbM3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP21 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/21/XbGGd89yWmbz3AqP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP22 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/22/jlLhuAvKIzDgT601.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP23 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/23/JBP8Ynau47QnghPS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP24 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/24/i9q3AFZpYL3Og6u1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP25 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/25/66oIlizPijMFFr0N.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP26 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/26/cp6HAcIa6u42sIXO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP27 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/27/YKKXxOfQPnTfEBWS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP28 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/28/74cvDVI5p0IoeHlV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP29 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/29/4hIajT_C-5Ptc7Tr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP30 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/30/QcJVTx_0tgscUcJe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP31 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/31/yuErxBITgqZ5Gp2J.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP32 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/32/YKnJIuqSmMaeI4fN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP33 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/33/C3lFYaTkTHRk__4A.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP34 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/34/sp6dvpvCGhEl96Tm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP35 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/35/DQT8KTPm5gdAGJI_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP36 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/36/DOFCW5M0F_dcbNCL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP37 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/37/f4Vx3uKYwFug5TsD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP38 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/38/Llp7vAqwMWquR64R.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP39 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/39/iCjBx0a_OsGXgglF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP40 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/40/etOdcyzOG5J5Pni6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP41 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/41/G4TP2IJRdGu5fDCv.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP42 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/42/seY8Uy8A-9Y1WnkN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP43 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/43/i96NxOywwmPkW4tD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP44 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/44/3qmWxspVa8h9sn5P.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP45 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/45/WMwwZTdYBzF9M8ct.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP46 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/46/4JmUamajF9pal3cb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP47 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/47/yw0CAac3woDeuG_k.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP48 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/48/Uj_YX__OimzKH3Yx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP49 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/49/v84DipVQu98jdtIQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP50 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/50/nX5Ygx4dsJbCQJ0B.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP51 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/51/cYDShgqwUQFvcT7U.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP52 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/52/8RnpqfjW6G1baIZp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP53 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/53/PMgS0vwbZmUIYzP0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP54 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/54/eWVb9qvT37nbWh0v.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP55 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/55/e7PwLr3miVUEn11M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP56 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/56/rDiWCTNIj98KWEmb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP57 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/57/zWR13K_yO-sTjVbg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP58 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/58/T7GqhPs9-WTB6xxs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP59 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/59/mYAjOBOVDgzAex6_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP60 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/60/UFdXIw-T-UD_2GC6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP61 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/61/WFvfN-3qNECpEbYa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP62 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/62/zqoW5xAKubh1TVKb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP63 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/63/51eDeYszZKojdQS2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP64 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/64/CRjwmhAFAI_NpYWt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP65 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/65/ZbhXuYAzqPG4A_wp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP66 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/66/YCD3R3WdWtQSfKqw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP67 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/67/uacNqJd8Kll0XLE_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP68 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/68/n8HXJlX9ow93Q2Mr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP69 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/69/yJmiFCpuWltLy9ht.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP70 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/70/sduKZir3MqDojADh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP71 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/71/2aQZYmjKH-v0Nphh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP72 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/72/1D1AbobgPsIQzfX5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP73 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/73/PlWYcyI5V6uIytMy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP74 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/74/_lNQV4AaAX8ATpiJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP75 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/75/lPq-EYelciyZoAPo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP76 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/76/50FHTzrJpsjwYxeE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP77 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/77/1HJoB_9Kg5VbBqs5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP78 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/78/-njFH2kUcxIwauFd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP79 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/79/l35nPFOwSxFeKEQk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/29/c6b88fefa6624bdc8d48fd064e265761-1782818336903.jpg" group-title="👰🏻The Widow's Play👰🏻",👰🏻The Widow's Play EP80 [19:26:45 WIB]👰🏻
+https://static.aurareeltv.com/videos/1171/1080/80/nP_IcSx7H6r2Bp-M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP1 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/1/oaeB2vuwLWxwn5tR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP2 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/2/xp9YAITpTnyAj7Jd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP3 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/3/zXa-54531_o2nCxC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP4 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/4/9xGHSml5jpH5amY-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP5 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/5/zWQKVPFRKWs_GueD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP6 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/6/8XTTZp1FxbLG9VAp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP7 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/7/7u2GP_2zArxW5JP0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP8 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/8/BCa1oWMj1Ht88iZo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP9 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/9/od3H905aSciUqvn-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP10 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/10/sCl5wPVDLUpnUsVF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP11 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/11/rKGH_zJ_3wMOxSld.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP12 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/12/d5C3OA8jkjSmKb3k.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP13 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/13/PWIPvCswDPUqXNs-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP14 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/14/qVueDrvE8FDah0xn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP15 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/15/dF2ANmjoGhB4j8Jg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP16 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/16/3u_BZokusg_NhMlt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP17 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/17/T2yvd2wjMseCJTkf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP18 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/18/hZLi4ilDUEaK_yHQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP19 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/19/_Zf6ddGiNo27PxbX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP20 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/20/CGVlGPq2sZwTrcjA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP21 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/21/qN409Opl7VsNuK1r.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP22 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/22/lPPuxim9ia0CUsBz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP23 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/23/yjq-fRsyt6QoahsJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP24 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/24/gUeSMgfQA1wvIGa4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP25 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/25/YNs1ySsnzyvNVrAR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP26 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/26/4zUHTnsnIEyo5Yq0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP27 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/27/k2owfvDNnpBZz6T0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP28 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/28/4cwWqSOLGAX_hJkG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP29 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/29/uQ9G8vqbMvoxN86M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/66a9af1ca5954ce3b8f2178f368d81c1-1782733340384.png" group-title="👰🏻Secretly Married, for Five Years,Madam Has Had Enough👰🏻",👰🏻Secretly Married, for Five Years,Madam Has Had Enough EP30 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5105/1080/30/0Y3-eb-z8y2JVdrZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP1 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/1/Eezii9mhIuDQlqXm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP2 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/2/Dz6utYOT41g8oFKo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP3 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/3/tFABnfcMuau5D0jp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP4 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/4/PMD7sRkU1tBuarCS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP5 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/5/Zh7KGTF-tswckt9q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP6 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/6/Mhg41AIDdGmrxuEw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP7 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/7/il8RCe7KRLtzE7Pc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP8 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/8/m2ixBm4J80tuaUzi.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP9 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/9/cLChy_I4dAG1I4nY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP10 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/10/rjLO4U4kT6ZrWKKI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP11 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/11/6t_clwTn8ThA5wiC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP12 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/12/Vc_dDQhRek6ZRNib.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP13 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/13/F0hHpaNuxj5cF1Pw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP14 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/14/BsSS242Qmyoe91eW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP15 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/15/IH8s0z31JZYgxrkT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP16 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/16/itG2Y86ZNW18tAKi.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP17 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/17/CcPfZ3HIBZRs25_O.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP18 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/18/X6kUvH1DLvA2cztM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP19 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/19/VvNn-HnuqX3lcxEx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP20 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/20/Cjzch4o_WHUY3NL8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP21 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/21/LZRH6RmPyCkE-ddF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP22 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/22/lsGg-2G7-drekJui.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP23 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/23/jDW6vVDvYVaSGDw0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP24 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/24/xVODNGS01p1USZEQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP25 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/25/lEIHmOzlPOeKzHUG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP26 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/26/DXz4-xW3cnimmhgq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP27 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/27/wcE8R1ih5a1iXwJ-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP28 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/28/HJcP7Dn4vZ6p10tB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP29 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/29/FmevyslA5x4z6v-2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP30 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/30/8KfdMjeRIXZCNW_K.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP31 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/31/0NvS5vpkHEQgWxvL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP32 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/32/XQItKot-IADeoypa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP33 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/33/ynwws9VtrBrTrg8K.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP34 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/34/uyO5E_Z9e2N2QWHV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP35 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/35/e4uxcwDGbEDQ_yWK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP36 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/36/YKB6gzcTz9crPU7g.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP37 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/37/fer5lE1XIePfjkjZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP38 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/38/ce5n8WvZXdjGU4h4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP39 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/39/fbnU0_ZGLN3yrEUk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP40 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/40/yNdGzt5w2Gqf4r8F.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP41 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/41/6AWejOU5vhHo8Rfi.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP42 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/42/hyKfeohkYAoo7W3z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP43 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/43/rc_uJkEGfLmsNDsV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP44 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/44/0MjbwD2xtncl3CgZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP45 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/45/jsLWm-m21O3i3YZ5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP46 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/46/BeZyUIR5ZmiVEFaQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP47 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/47/ixUtYyFP4cCWULPB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP48 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/48/j7NOTfceCy1byJRo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP49 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/49/VrsQNxtK9H7m8zf-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP50 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/50/wePyivTvMqR4GP80.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP51 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/51/D0TfDLkYHASa91xF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP52 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/52/XJvhBbgnldYQl4gr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP53 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/53/7y4yH60FHgPYdUEB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP54 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/54/kZxZO5pViywfhink.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP55 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/55/n1fqw3WdUsVLpFGD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP56 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/56/cdt5kgjO2GnzJ_XQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP57 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/57/9DvEgkt8RbMO8an0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP58 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/58/f4ZnHbM6MF2U1A-8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP59 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/59/exgE29OIxdmtxB4y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/239e507142494aaab11552cb2add7d9f-1782474150985.png" group-title="👰🏻Dragonborn: The False Heir👰🏻",👰🏻Dragonborn: The False Heir EP60 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/5062/1080/60/lvOvAif3xxSPV2is.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP1 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/1/nbJvj6hJ8uYyHewg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP2 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/2/DW58yy2ck5qJlVs1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP3 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/3/1ctkj959qJ-sf16_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP4 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/4/Bja49w8Wzh8HE-DN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP5 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/5/VRJ_pgtWfMnGJeez.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP6 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/6/XHG6mq-jp-NGySlc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP7 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/7/hKbqcKx2neOFErQo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP8 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/8/wbRC_jqWBSc-1ci9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP9 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/9/yTArZiiOcFU3j66d.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP10 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/10/QKILJP0OGYprQuLg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP11 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/11/-FUo9Do9qJ7uwhDJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP12 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/12/gbJkZzFK6NXqcrdb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP13 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/13/OeRrzW5GvTAREFSn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP14 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/14/vQT-Tx8hensmORtw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP15 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/15/160XpksRqw_BtJdW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP16 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/16/7-dUIbEs93wAmL8T.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP17 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/17/Gv15IKXGxNolsqM5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP18 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/18/un001mxzeDVZJkN0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP19 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/19/U7wx1k1LCB7BwAcK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP20 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/20/jAKJffHiYbB466Ts.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP21 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/21/bvtxmPiYTqU62gRd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP22 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/22/qt2M3ZgUMTnNrlfr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP23 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/23/-8mpplvGRMpwof-3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP24 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/24/WXv5ggHqFxpQWMIj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP25 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/25/2Bm3ZPblLpNQHphU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP26 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/26/9SGW-NCU7kWGppkQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP27 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/27/Ar6OWLCFJar9QlNW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP28 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/28/ap95IULRrIb1pi55.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP29 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/29/66dKBNByeuOGRdV8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP30 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/30/voBC6U6BO2hcS8_V.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP31 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/31/Jsj0awCGyx69ynBu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP32 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/32/y00etmUMhrwkhWpl.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP33 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/33/D1P3UP2kW6M5QlCj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP34 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/34/hIudS4TDdysGTVqK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP35 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/35/bnGcrpUU5N15_Fw_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP36 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/36/2_2ZqxCEnYwzv8nR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP37 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/37/WfeVdYDRgSAwZ27H.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP38 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/38/Uwu294JkAM8DGAIT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP39 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/39/XSEmSamJx-4wqTRZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP40 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/40/Lr0tBKI-tIbp7sbz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP41 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/41/4pgISMFMhDD5eIYr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP42 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/42/j0bRkBGUut6QmfUg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP43 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/43/f8dD41E87S4Stu0l.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP44 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/44/gNSYTDYtClIqIvLt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP45 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/45/QIJ3izXwMflo7TTZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP46 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/46/_YknpAyxO812dOpC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP47 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/47/IbYCVbGn8HF_AGF_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP48 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/48/E-fvIJr85e9hkN6u.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP49 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/49/N82JtZuw5lrOpt_S.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP50 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/50/CJFn06ybVXgntPFp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP51 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/51/rLqFRjocdKXqVdaa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP52 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/52/91qS1RMUuMcxjEGB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP53 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/53/sV0m4O0jbyPkNrPO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP54 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/54/vF0sCv4uD3rQz53S.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP55 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/55/X7y_38CU6D5yrHPt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP56 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/56/IDnNtPu4ySmnvUQ9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP57 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/57/SHC0Ep8hAdLWqAmh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP58 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/58/Xjh6uf15UxGJAtp4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP59 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/59/hHL0eebPZ27bxvio.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP60 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/60/_UGXAuvojXcQdt_Q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP61 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/61/H0HvhrNI1AWFfMrm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP62 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/62/GE7fQfGWPif8g3SN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP63 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/63/U-YlMF8VEBT3OEEa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP64 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/64/8hi5VcoUU7mj0dsB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP65 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/65/14jEUWqgrWbXr9_o.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP66 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/66/00hNz0hbh8789kqS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP67 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/67/W33fFVaAQtRCgsdI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP68 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/68/NoO-H66ON3jvLfdP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP69 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/69/TQ_54uWQP0efZ67F.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP70 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/70/r8uJZ_dSKlMb1g0e.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP71 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/71/nl-zp30jWrv5qPO0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP72 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/72/69xTe4Hy1YonYKfo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP73 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/73/14008LM1JMWC_XOP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP74 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/74/oB1tcfstVHRMP7h5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP75 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/75/y8PC6e_tJEPDYeUV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP76 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/76/Rr7awNqy5lfHlMV3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP77 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/77/bNOGB1nrSw6HofaM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP78 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/78/5a_qT2dhMg7vaKrA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP79 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/79/Aq0Q8fqYojUs-IY-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP80 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/80/8XlPdu0oHCncSzRD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP81 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/81/UoDTBFL42gToSZKC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP82 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/82/NCfT3-IXHc0pmwjZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP83 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/83/pq3Z90QHszkAiLy0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP84 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/84/tgHixGGnJSSauL7J.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP85 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/85/XZq9-I0QTzFC8eeI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP86 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/86/3GUuAoVu6yQpQ9Mf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP87 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/87/zw_maqaLLPp9h7eX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP88 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/88/ebGFDMq3R2nYTW-b.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP89 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/89/kuSR2Q6WHRpw_Eag.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP90 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/90/Bb8q22GePvxa6d1I.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP91 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/91/ZcqsvVu0T8jXOWnF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP92 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/92/kZmPIXt7koiD3CL9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP93 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/93/bu7uRENGAT0sM2Xy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP94 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/94/ZDgXKf9KfQFqF9fC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP95 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/95/6gi4H-fZdp1Dcb-Q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP96 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/96/8TURFp8Ma3iSMRi5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP97 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/97/ONSxYrsZ_m1QxGH-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP98 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/98/rLbqJivG5mxTsyoZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP99 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/99/q7b6_JvH0j1_vBGo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/c9303392a8ff4492a5422c755d40ac1f-1781696554972.png" group-title="👰🏻Vengeful Mommy and Her Genius Trio👰🏻",👰🏻Vengeful Mommy and Her Genius Trio EP100 [19:26:45 WIB]👰🏻
+https://static.venixtv.com/videos/4997/1080/100/LZFxlLt4TPn8yh9K.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP1 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/1/d0gOe27ULyP3nhHP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP2 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/2/reTnb-M2hgEsAe8C.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP3 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/3/EJtfkbd-uBePVkgu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP4 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/4/yUc_FK1SsSQRt3Dj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP5 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/5/izo1Mug5CUaLp7qy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP6 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/6/gXjTVOMpR4Iy3ZW6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP7 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/7/T6ycLlHeTnI-Dfxc.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP8 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/8/IGR4r8UwD6leBZ7p.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP9 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/9/2v63b0Gn8A_tVZy-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP10 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/10/UZw7i_FMxC1e5IkG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP11 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/11/0vAocBCgj6ossujA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP12 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/12/tXRHlLxOMicVViyx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP13 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/13/mn2J3Z-qewb4Np-w.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP14 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/14/zAXshojq1UqZA3WG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP15 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/15/gPxBSl46Y7f8Z4oo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP16 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/16/aeT0AgDDQGejMatP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP17 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/17/yTwOIAraRXt3cuOw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP18 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/18/AT4RPt5QWX9CdpgB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP19 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/19/XVfkOHvvKENS25UN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP20 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/20/Y4gi8mMBr3ne9YkS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP21 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/21/6CJl9jgjg1ho1Tv7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP22 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/22/uBfLtbjU5wqiAmuf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP23 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/23/fPzJrDodHDqYSARw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP24 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/24/CkrhDoZt9oSiDnGE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP25 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/25/3iReAyXF315euML9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP26 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/26/55vKb-BdxpDGkNQQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP27 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/27/9RPF8YHmZvdwaoyS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP28 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/28/-8Mcr6Siul942ivd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP29 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/29/3_7UgoYTzc4oPy66.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP30 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/30/oVLrtjzS8z9ZMMSG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP31 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/31/RNe7nvv-J18pqVBW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP32 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/32/l4el75T8zm2iJnd1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP33 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/33/wB-coT9ba1JQRA2I.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP34 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/34/M-Le2fBh111fO-XM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP35 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/35/dMG86_-Ub3HlAZNq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP36 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/36/DrqFQEs7mIHvI-rk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP37 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/37/dDIhdgWDJTycW2ss.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP38 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/38/5gGd59IBml5GeN8l.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP39 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/39/hbmccQTZH4PveLd0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP40 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/40/arVDyd8OJJlEbYUg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP41 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/41/FHTr9W6fMd6edXBn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP42 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/42/vmMYtpt1IXAuSUK1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP43 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/43/3ZFj3Hh5Nuzsji4y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP44 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/44/FJiFK2_ox6RJIAkW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP45 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/45/W7xpN-DFL9G9pxLG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP46 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/46/mAUS1cg0J5ORlEdW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP47 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/47/7QfY_PgWL9y2yUBX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP48 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/48/U0u1NwynoRkuJeYH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP49 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/49/MS6MYps6rDoIuFC5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP50 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/50/EJ6bIXwipUUQCFnV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP51 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/51/YkqnJi6nMWFCKgyu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP52 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/52/309tOIjyAv30xVQ0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP53 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/53/w5WCqf3Oq40JRqSd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP54 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/54/oIes10hVAFbUowQI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP55 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/55/BavsXfRgu_Kkt_FY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP56 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/56/OsYYm9_6GRo5lRUA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP57 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/57/0TaiEucK-H6xp7Wa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP58 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/58/iKRm4rgJU-ElUZJo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP59 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/59/nAGQiH-tghrQ9QYp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/7013f0ef86f847b7969360b14c93e8ad-1781696542355.jpg" group-title="👰🏻Our Future Is Beyond Carving👰🏻",👰🏻Our Future Is Beyond Carving EP60 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4696/1080/60/0n4XWYUr7fpu9dh-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP1 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/1/Px6Cocrr5s8m68dT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP2 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/2/CSOIgRtUaubqa3F5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP3 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/3/rIhB37rbuX3MzewB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP4 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/4/kP_wCtm2D0lH5fcF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP5 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/5/yhhXW2VY5ocPoXAu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP6 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/6/QfqNweG-zMsqEl-M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP7 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/7/liayMZ7fCjwStUVj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP8 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/8/sRp76Za9SQY3wbaE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP9 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/9/xNS4GORNWmPZoMPC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP10 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/10/NPEBEi4en7Zg_oj6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP11 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/11/uSGNhxz5N7mehrEC.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP12 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/12/BXF-rYQ8upqTrOla.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP13 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/13/P2FBApk5Q7ldXWw9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP14 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/14/m5U4yu_v-u4rRyM_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP15 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/15/WmHYIAho_l88zgPb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP16 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/16/O8PrS3Nosu80aCd4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP17 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/17/UuwmKepwO_Ytrk1B.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP18 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/18/UJQvlyl_kGGikV4q.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP19 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/19/zbG9YKr66yyfaR4Z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP20 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/20/rHyCQx16hkacaYFt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP21 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/21/oMQoYrh2owgEju5d.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP22 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/22/ClnnNbrYpd9nIigy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP23 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/23/yrzqroCAyhao5-YV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP24 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/24/dP8OrqDfarMqXAfW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP25 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/25/OVgl541huj_zgRW2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP26 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/26/yLCEARSLQ95RndZH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP27 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/27/jWuV9C6jq9_mH7hU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP28 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/28/yFD5dZjMqilLDbmE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP29 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/29/73Pb6EBrhrBJUf1s.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP30 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/30/Ztc-WPLcvd64-1sN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP31 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/31/-NMgiicD_QIwl7oK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP32 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/32/73iakrFCTWbeSzvM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP33 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/33/tgNMM4Ue-FKB1Jj1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP34 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/34/0G3meFFXUyHj7Awp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP35 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/35/fzmctx5Z34GI_vN7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP36 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/36/hKKk85daFoDVSJhi.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP37 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/37/lN84s1CrmeIo1dCX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP38 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/38/zpMX7lTzhcWcX6iG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP39 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/39/30IuMyJBa2INagEe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP40 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/40/qwu6umKg099TKIXP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP41 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/41/xKJ0PIKFbdAbti1s.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP42 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/42/5LVShvHbJVvHxCeY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP43 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/43/_d5oj1lOAHGEQUOx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP44 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/44/csyLCZY9f9sOtM0j.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP45 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/45/0AVOiKmHxFj0bVaW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP46 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/46/JxSg8PQTGt-sz-I6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP47 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/47/wc5Df48ICACsqnCy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP48 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/48/X944NHt_0cujI9r9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP49 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/49/NKrwd9shWtu4Z_Dr.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP50 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/50/QIrIC1Csz3EW1nfd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP51 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/51/w3347K4uu0DACUXW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP52 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/52/oHsQcCh66sR3zayo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP53 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/53/kADmmYgh-HLheBpb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP54 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/54/AlrfaHb9iJ22LhFg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP55 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/55/lkZgYwAlBh_JLx61.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP56 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/56/BdzyYEQL-Cvlofdh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP57 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/57/xGvm5BN8tes7yFpN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP58 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/58/9ZXr58o4rS1VGNgO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP59 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/59/DK15qX6U4HmwBkf_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP60 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/60/j5QVzhHiPiZlGrO6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP61 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/61/wXJLc30d9X5fGGMZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP62 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/62/sxvnz-l_Ju-sRFVf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP63 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/63/YpTVnU-GSZGVYFSu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP64 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/64/4xXwUUBBSpg3ZXuj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP65 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/65/PvwdlKT8QkCpMNU1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP66 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/66/ewpZ1TiFVzSX8A89.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP67 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/67/ynOJDaVs0ePKaU4r.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP68 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/68/4QRHHYNSI5jVE2U1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP69 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/69/jAuCB_bH4_yHwqA4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/ded7371bceef453fbe84862bc16e1c06-1781610197807.png" group-title="👰🏻He Loved the Wrong One👰🏻",👰🏻He Loved the Wrong One EP70 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4715/1080/70/nNdTGjug_a5bDvXJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP1 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/1/pPTgwGbTWVSdfSf5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP2 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/2/s8mL9YEgHYrQGxE3.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP3 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/3/h2gpmpjXAS3MMFuk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP4 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/4/Bvxd3EneBQrjxOpQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP5 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/5/Y7OptOaO4ra310tw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP6 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/6/UzB_ZyEnJ1zUctKR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP7 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/7/xpkwBPuX23LtY0Ya.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP8 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/8/_T8XN4Hzx_YEThsN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP9 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/9/QfaEWVfviYbr4myJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP10 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/10/-cEdVISfJcJRhnE7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP11 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/11/eC3VC2xF8AZ1DouX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP12 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/12/KHJ4NsvSbYGLTXSj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP13 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/13/jFapIVlODytLZfDR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP14 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/14/CucdU5op7I2JoI63.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP15 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/15/K5D1-YMhVvLMp9cL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP16 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/16/jdxMavyMKEJujIyn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP17 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/17/_X1Rbev386Bab__I.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP18 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/18/runr4zMVfpL4UnPJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP19 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/19/4_3hv0JRk-p9Y0z5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP20 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/20/ghI4Flw1K-eXLm3p.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP21 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/21/ry775NdJAxnBUkVG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP22 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/22/gBH1hAzYvM-Fyv02.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP23 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/23/g8093UI7HYbIN2pd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP24 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/24/8LKDldy3oWKruZOy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP25 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/25/yYn-ecTx-GF8YXCU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP26 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/26/jfw2qDS-hPKCrlEy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP27 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/27/EUMrg5xZxYwlvdgk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP28 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/28/yZZ6_fgr20pyqVwV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP29 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/29/EK1EHFHiKVCTTgfO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP30 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/30/ucU3y-j9rXEWZzQ9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP31 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/31/_6ue7wgGNNMyxjks.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP32 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/32/buta3D1MpeopBrQi.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP33 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/33/kGTcqsbKBqV35XL-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP34 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/34/m0Vudrs8n-FSmWSu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP35 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/35/lxMsj2c0YBVbwzsI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP36 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/36/JGeZ0-VMspu3OaRz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP37 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/37/msXzcjDEQSEm4jhY.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP38 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/38/9xUuDKp8ov6fMCGb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP39 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/39/iYz_44W9pqdJG4Tx.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP40 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/40/_sK9EQnwoveu4QJe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP41 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/41/nU3o5kYauPjOfJtB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP42 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/42/GltsiCUBIkQ1vLgk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP43 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/43/FDI3Z2wesDPo57aZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP44 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/44/hgppav02aHQLNlbW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP45 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/45/zjcdCGCWOIJ1Dz_c.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP46 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/46/RfsBwGz0HwRTXZxt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP47 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/47/OreU_B3307zh3Pw9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP48 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/48/9R4fMj-def45v3he.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP49 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/49/bph6u0Vk3v3kRTjM.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP50 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/50/IiBITMPyQjbiMpcR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP51 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/51/_KXof0smbxhX86Ue.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP52 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/52/DY9zPrS_XfnKoYA4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP53 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/53/QAS8EQZsXpeOZgwf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP54 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/54/f0oMP5AAwWKeDHqd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP55 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/55/hp6vcO58-5WY1S2F.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP56 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/56/rfQrOAxLWsfNHSio.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP57 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/57/ADaR_C4GK1ccs-Vb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP58 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/58/ij4Heag9yk4jAGAk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP59 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/59/AwDNZ87iBC22DBgF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP60 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/60/2DtqTa62rz_HooVz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP61 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/61/i7BtQW1dYl7vrNLh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP62 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/62/LXZm1Zfd0vl1fhXw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP63 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/63/1N54WlNo1QdS3v4r.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP64 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/64/HLCdD-nvB5g5_lSE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP65 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/65/-TZ8-RKmy_ynJMFG.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP66 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/66/JTcNqspeMm6mtagw.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP67 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/67/gqRHy9GjtSAFBM6h.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP68 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/68/ixfIdyzjZfxR_pW8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP69 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/69/vUbIIEWZNRV5UZPj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP70 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/70/dJRx-WIIQzQWO5rU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP71 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/71/2LNTPLGqCXma1AzF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP72 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/72/VjR5N8lrQMfJnYAf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP73 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/73/w4HTthHQR0fnRabi.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP74 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/74/uu37OsXDtRbg_7NK.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP75 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/75/4TwsmhW_ZpjRMIfu.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP76 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/76/9LCJ9n-1o2b7QpsI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP77 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/77/uUSiiqpqyC857aTh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP78 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/78/5UXolVYbc83Cl5S2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP79 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/79/bZg94k1NuPqm_Kxm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP80 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/80/G4Qo78tz_TrlzSgq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP81 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/81/0aoNlui3AlunonS4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP82 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/82/OAc6hqhHQ_uJSNyR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP83 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/83/4MttT6uWwYcgM7Q6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP84 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/84/z3EfpLTBu5eH9u1I.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP85 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/85/XfRMeKHHRCTANDtg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP86 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/86/GEBIOo6OnJpzJXFa.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP87 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/87/CMKnJTbDs36mLVMA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP88 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/88/UXzUnXnRJ7ha5oLW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP89 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/89/VPXIyYjI4eckJaaZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP90 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/90/aYsjRvjMkNBGYATZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP91 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/91/7SXiTh48NsjsGv-A.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP92 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/92/aKAXGxYfQeC_rXgN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP93 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/93/Z8mSA11wvDKiULO_.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP94 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/94/YoTNk63iX3kZldWO.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP95 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/95/QZaOpzH05XKC-HTE.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP96 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/96/v7czEImp-Vi-ieVW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP97 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/97/c5s-PkfRkj6JnXE9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/70f5072785c4400e9f7f5193b87818e3-1781610189095.png" group-title="👰🏻Wearing Her Fangs, Taking Her Uncle👰🏻",👰🏻Wearing Her Fangs, Taking Her Uncle EP98 [19:26:46 WIB]👰🏻
+https://static.venixtv.com/videos/4706/1080/98/jAVCRaAZXE1Ry0_M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP1 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/1/w_syQ88HGrlfwSSV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP2 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/2/j1-UxAeSVtHBwMQ7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP3 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/3/Kd_05KyWRkfhecyF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP4 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/4/PDUYUvVNBiVBVmw7.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP5 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/5/EEaDUp7FVo3lTz3P.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP6 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/6/nQ8jmM2zOmNuagfo.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP7 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/7/kuUvynSHA3DVTHLk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP8 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/8/Tvx8yx9wHGh60b0-.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP9 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/9/FFYKLYpZiphPDT_2.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP10 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/10/8lklLvj_Y9OyvEtk.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP11 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/11/NArUml7x1vwMk0Dh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP12 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/12/tB1ROjSRVrp2CMGP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP13 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/13/A3KTdrHkajlnpNYq.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP14 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/14/spDI1vq1cNmpMzvW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP15 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/15/fiiIetSZ5Oqs0Qcy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP16 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/16/7vqububOH2fhX3tW.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP17 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/17/HLK0gVzCZQCRn8QV.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP18 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/18/V7n9wM9S5Kg_Rlt5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP19 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/19/w-lgWLQYv0-EUhS8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP20 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/20/1Ld1B0xoRJJda5Uf.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP21 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/21/TD_DD3tZCiyyx3F0.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP22 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/22/w-Qg73x8FnRFrfoy.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP23 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/23/Z3S8nug1Oolip0mR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP24 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/24/tzDieaqw7sg9u75v.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP25 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/25/63i-wRpMbMeP7pwJ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP26 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/26/Gtby6XRxIlaUKWSe.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP27 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/27/XgvMW9LzIq88fyf8.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP28 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/28/j7YRWHeCGv30L0r9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP29 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/29/jguM_qogz5gUvYxH.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP30 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/30/O7HZhPaDTJ_fvCpF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP31 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/31/6Fvo6D7A8QyuA0FI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP32 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/32/Aj6LS29o0PLlU2hl.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP33 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/33/CvDvxpoCzrFpnbkX.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP34 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/34/dcy-J9XldxY3dfoT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP35 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/35/7vtxK5eOesjfh1Vn.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP36 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/36/YcZJnh5mtLKijkXm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP37 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/37/oAz9IAhWDeeOLdb9.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP38 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/38/aBBPIgs4FgjXjKpg.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP39 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/39/EHGPWZDvt9j9nbmQ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP40 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/40/9DXGP01BWpCEYBhP.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP41 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/41/3EgKgclB43_x9qim.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP42 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/42/3eyr6e1_niyyUSJA.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP43 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/43/TiBA3y2VvrsEidvp.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP44 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/44/Rbk6yEzKh0KW92rj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP45 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/45/J99-x8USDb73qhK1.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP46 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/46/0kpuVTQDWhT0PaRN.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP47 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/47/AgmRkUkXeDhK92B5.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP48 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/48/EWjGPTU5nZaNFD0i.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP49 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/49/iKXZvgAL4YQxfYwR.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP50 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/50/z3zjAaRCIDD3bI8h.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP51 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/51/5qOLUzUJSF2A45lt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP52 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/52/88MW-o-cQsBuJLvs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP53 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/53/H8Zbe8vRkVJ9SI5Z.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP54 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/54/1dtKEdeY1hyZWZYd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP55 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/55/RQDcpJTBzp6UmOaU.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP56 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/56/UgsgxmvoXTm67xAt.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP57 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/57/rTbU2qqKS0USzVHZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP58 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/58/qU2sxCrYD1NOL6At.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP59 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/59/143Yd6r_Kx8IsR_U.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP60 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/60/Vzo9aEn_n06ttONF.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP61 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/61/RmPM6W_u2hnXr5y6.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP62 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/62/UtP76qiDj-OEQNBz.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP63 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/63/pfM2nWoari9rAK3R.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP64 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/64/V5hwpSnXNd2e3W29.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP65 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/65/WQ_e7hpD5eP30IwZ.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP66 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/66/9ftDdbwVurOAot9n.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP67 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/67/ZloGwQnbONZF8w1M.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP68 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/68/jIYuEKhiIYzSpbPh.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP69 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/69/11OOAbJt-EVfAbtj.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP70 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/70/vK0B4UJZQZUxToVD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP71 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/71/uViV8Q55ulj-n0vS.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP72 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/72/aRQC0Bz3HcgVFYaT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP73 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/73/lUOhgQtOvbkcgSWs.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP74 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/74/zLjWTy5Lyigzwhdd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP75 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/75/ava3FvRornQ3tpL4.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP76 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/76/wDAGO5X6nYq7n2wT.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP77 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/77/vImrW1uyIaQRHdTd.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP78 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/78/vBevqWst7GS9cBgD.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP79 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/79/7UrhOxjOZDOjJuGI.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP80 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/80/uA5nTqV2hCEDGQ5y.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP81 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/81/UGPrKR-RK_4FzCoL.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP82 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/82/bKMUNZtCKmJ2wvBm.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP83 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/83/dNtBLutzcec0XXXB.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP84 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/84/xihmxB0Kw3CM01qb.m3u8
+#EXTINF:-1 tvg-logo="https://res.chartdrama.com/30/a131f199ea7f49dd93c4bd7b5d4b13f4-1781610175765.png" group-title="👰🏻Divorce Finalized：The AI Queen's Return👰🏻",👰🏻Divorce Finalized：The AI Queen's Return EP85 [19:26:47 WIB]👰🏻
+https://static.venixtv.com/videos/4772/1080/85/7agu1QXJxJyHCSgl.m3u8
+#EXTINF:-1 tvg-logo="https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php" group-title="👰🏻Support Me 2!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [19:26:47 WIB]👰🏻
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
