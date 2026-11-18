@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:0,tvg-name="NK Race vs NK Radomlje - Slovenia Cup [FT] (0-0) 23:00 WIB 18-11-2026" tvg-logo="https://img.thesports.com/football/team/f71dc3847d264bb398d892a247d658a5.png" group-title="live camelia vip [tes]",NK Race vs NK Radomlje - Slovenia Cup [FT] (0-0) 23:00 WIB 18-11-2026
+#EXTINF:0,tvg-name="NK Race vs NK Radomlje - Slovenia Cup [FT] (0-2) 23:00 WIB 18-11-2026" tvg-logo="https://img.thesports.com/football/team/f71dc3847d264bb398d892a247d658a5.png" group-title="live camelia vip [tes]",NK Race vs NK Radomlje - Slovenia Cup [FT] (0-2) 23:00 WIB 18-11-2026
 #EXTVLCOPT:http-origin=https://www.camel1.tv
 #EXTVLCOPT:http-referrer=https://www.camel1.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
-https://live123.bhns.workers.dev/live/sd-6Mxk46WwarRdL1KRYj.m3u8?txSecret=568d43b26322c99aa5157711cd8cf3bc&txTime=6AFDDD9F&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+https://live123.bhns.workers.dev/live/sd-6Mxk46WwarRdL1KRYj.m3u8?txSecret=2448acd769755f92b09d0fa9e31cf780&txTime=6AFDE39C&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
+
+#EXTINF:0,tvg-name="Zemun vs Radnicki 1923 Kragujevac - Mozzart Serbian Cup [LIVE] (0-0) 00:30 WIB 19-11-2026" tvg-logo="https://img.thesports.com/football/team/810c5df2cb25ece4a24b43a927508810.png" group-title="live camelia vip [tes]",Zemun vs Radnicki 1923 Kragujevac - Mozzart Serbian Cup [LIVE] (0-0) 00:30 WIB 19-11-2026
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36
+https://live123.bhns.workers.dev/live/sd-6MxjKLj4QyZuzytVrX.m3u8?txSecret=52a53e7a08edd76746536d5109a44422&txTime=6AFDE39B&lat=9000&auth=aad639d3a1b66cb8c384364342600a6b&d=liveplay1.camel4.live
