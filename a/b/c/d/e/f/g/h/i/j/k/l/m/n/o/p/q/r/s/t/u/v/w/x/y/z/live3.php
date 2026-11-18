@@ -1,31 +1,33 @@
 #EXTM3U
-# Generated Wed Nov 18 03:07:23 2026
+# Generated Wed Nov 18 03:29:35 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Wednesday 18-11-2026 10:07:16 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Wednesday 18-11-2026 10:29:22 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 CONCACAF Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",📁😈Mexico😈 [🆚] 😈Jamaica [LIVE]😈📁
-https://tv.streamhy.com/live/5010442.m3u8?expire=1794985572&sign=0114249ea653613dcc8fa5d40d9005e8
-#EXTINF:-1 group-title="📁😈 CONCACAF Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",📁😈Mexico😈 [🆚] 😈Jamaica [LIVE]😈📁
-https://tv.streamhy.com/live/5010447.m3u8?expire=1794982268&sign=f4c6602a409ec89c8f2e159e70a20b96
 #EXTINF:-1 group-title="📁😈 CONCACAF Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",📁😈Mexico😈 [🆚] 😈Jamaica [LIVE]😈📁
 https://tv.streamhy.com/live/5010473.m3u8?expire=1794983921&sign=3a1d79ec1aa49bce6bb798123f5d637f
 #EXTINF:-1 group-title="📁😈 CONCACAF Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",📁😈Mexico😈 [🆚] 😈Jamaica [LIVE]😈📁
 https://tv.streamhy.com/live/5010475.m3u8?expire=1794985258&sign=2aa1d224212d4f8d444cf045fff4902f
-#EXTINF:-1 group-title="📁😈 Women Empowerment League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/46daee709a863eacb0a5132744979dcf.png",📁😈Mynavi Sendai Ladies Women😈 [🆚] 😈NTV Tokyo Verdy Beleza Women [112m]😈📁
+#EXTINF:-1 group-title="📁😈 CONCACAF Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",📁😈Mexico😈 [🆚] 😈Jamaica [LIVE]😈📁
+https://tv.streamhy.com/live/5010447.m3u8?expire=1794985872&sign=e31cfc10caa5919c94fadd07c1a24bb3
+#EXTINF:-1 group-title="📁😈 CONCACAF Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",📁😈Mexico😈 [🆚] 😈Jamaica [LIVE]😈📁
+https://tv.streamhy.com/live/5010442.m3u8?expire=1794985572&sign=0114249ea653613dcc8fa5d40d9005e8
+#EXTINF:-1 group-title="📁😈 Women Empowerment League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/46daee709a863eacb0a5132744979dcf.png",📁😈JEF United Ichihara Chiba Ladies Women😈 [🆚] 😈AC Nagano Parceiro Ladies Women [30m]😈📁
+https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4602930
+#EXTINF:-1 group-title="📁😈 Women Empowerment League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/46daee709a863eacb0a5132744979dcf.png",📁😈Mynavi Sendai Ladies Women😈 [🆚] 😈NTV Tokyo Verdy Beleza Women [90m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4602942
-#EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Tampines Rovers FC😈 [🆚] 😈Ratchaburi FC [502m]😈📁
+#EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Tampines Rovers FC😈 [🆚] 😈Ratchaburi FC [480m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4561876
-#EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Borneo FC Samarinda😈 [🆚] 😈Manila Digger FC [532m]😈📁
+#EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Borneo FC Samarinda😈 [🆚] 😈Manila Digger FC [510m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4645747
-#EXTINF:-1 group-title="📁😈 Indonesian Women's Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6d8a41f0e2a04c911f02a167c60674b5.png",📁😈Persikad Depok (W)😈 [🆚] 😈Persija Jakarta Women [532m]😈📁
+#EXTINF:-1 group-title="📁😈 Indonesian Women's Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6d8a41f0e2a04c911f02a167c60674b5.png",📁😈Persikad Depok (W)😈 [🆚] 😈Persija Jakarta Women [510m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4669969
-#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Real Madrid Women😈 [🆚] 😈Inter Milan Women [877m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Real Madrid Women😈 [🆚] 😈Inter Milan Women [855m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4646542
-#EXTINF:-1 group-title="📁😈 Copa del Rey 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/7067abeb61660895f3ca0227675ef16f.png",📁😈Utebo FC😈 [🆚] 😈Sabadell [892m]😈📁
+#EXTINF:-1 group-title="📁😈 Copa del Rey 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/7067abeb61660895f3ca0227675ef16f.png",📁😈Utebo FC😈 [🆚] 😈Sabadell [870m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4658637
-#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Chelsea FC Women😈 [🆚] 😈Paris Saint Germain Women [1012m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Chelsea FC Women😈 [🆚] 😈Paris Saint Germain Women [990m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4646543
-#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Juventus Women😈 [🆚] 😈Oud Heverlee Leuven Women [1012m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Juventus Women😈 [🆚] 😈Oud Heverlee Leuven Women [990m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4646544
-#EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Persib Bandung😈 [🆚] 😈Shan United [1972m]😈📁
+#EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Persib Bandung😈 [🆚] 😈Shan United [1950m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4646617
