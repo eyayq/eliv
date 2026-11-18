@@ -1,33 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [15.25 WIB 18/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [15.47 WIB 18/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-zealand-breakers-2f4e70.webp" group-title="[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 1",[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1794993788-0-0-0f75bba7f6bb2b6648f3f713ea3b3eb0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-zealand-breakers-2f4e70.webp" group-title="[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 2",[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794993788-0-0-ce17e4e51c7c00db1b433470d7abacce
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-zealand-breakers-2f4e70.webp" group-title="[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 3",[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1794993788-0-0-2e642e5c96275080d903bc26a6c00afe
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-zealand-breakers-2f4e70.webp" group-title="[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 4",[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794993788-0-0-40a2ca99dd6dbfcd3725e0bc02284037
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-zealand-breakers-2f4e70.webp" group-title="[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 5",[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1794993788-0-0-1624d2abeae92da061ebe5156c298daf
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-zealand-breakers-2f4e70.webp" group-title="[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 6",[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794993788-0-0-068d61a92051c3f01e40c56da2973253
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-zealand-breakers-2f4e70.webp" group-title="[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 7",[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1794993788-0-0-ed5422c50be2c3b3c728c321f1b9b510
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-zealand-breakers-2f4e70.webp" group-title="[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 8",[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794993788-0-0-2dbbf57d202e033084f75e24a691a624
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-zealand-breakers-2f4e70.webp" group-title="[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 9",[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1794993788-0-0-f48a2417f0f03713b494071ec1a24448
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/new-zealand-breakers-2f4e70.webp" group-title="[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 10",[LIVE 13:30 WIB 18/11/26] New Zealand Breakers vs South East Melbourne | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794993788-0-0-512f35be402ee8ff177975953f1b1edb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dewa-united-fc-w-a2216d.webp" group-title="[LIVE 15:00 WIB 18/11/26] Dewa United FC (W) vs Persita Tangerang (W) | Server 1",[LIVE 15:00 WIB 18/11/26] Dewa United FC (W) vs Persita Tangerang (W) | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxk4S5ehwbZH7BD8G.m3u8?txSecret=257ddebca916b22f5005acbf1adcdeb2&txTime=6AFE0D9D
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dewa-united-fc-w-a2216d.webp" group-title="[LIVE 15:00 WIB 18/11/26] Dewa United FC (W) vs Persita Tangerang (W) | Server 2",[LIVE 15:00 WIB 18/11/26] Dewa United FC (W) vs Persita Tangerang (W) | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6afbf4756c5a23a8c289eb4d.m3u8?auth_key=1795012922-0-0-4035a679a0d33df83f288e3d3cec4b42
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dewa-united-fc-w-a2216d.webp" group-title="[LIVE 15:00 WIB 18/11/26] Dewa United FC (W) vs Persita Tangerang (W) | Server 3",[LIVE 15:00 WIB 18/11/26] Dewa United FC (W) vs Persita Tangerang (W) | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/c805d78c1dfeeade.m3u8?wsSecret=9E08134F20B47C2C47864E7741E9ED34&wsTime=1794991295
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chamchuri-united-fc-4f09da.png" group-title="[LIVE 15:30 WIB 18/11/26] Chamchuri United FC vs Kasem Bundit University FC | Server 1",[LIVE 15:30 WIB 18/11/26] Chamchuri United FC vs Kasem Bundit University FC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ab177bf5c0020a997a8db56.m3u8?auth_key=1795012922-0-0-c8569256cdff3450cfa731dcd6d65fb4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chamchuri-united-fc-4f09da.png" group-title="[LIVE 15:30 WIB 18/11/26] Chamchuri United FC vs Kasem Bundit University FC | Server 2",[LIVE 15:30 WIB 18/11/26] Chamchuri United FC vs Kasem Bundit University FC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/65f2e140b2a36a66.m3u8?wsSecret=FEABD7506858320C548FA8C8FBE399AF&wsTime=1794991295
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/9499cf627208fc3fd56e627e11ab9431.png" group-title="[LIVE 15:30 WIB 18/11/26] FC Chamchuri United vs FC Đại học Kasem Bundit | Server 1",[LIVE 15:30 WIB 18/11/26] FC Chamchuri United vs FC Đại học Kasem Bundit | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxjZfbEf2bE23Ryja.m3u8?txSecret=bc07fe25c83d081ff34fbc12635d9e8e&txTime=6AFE0D9D
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/persibangga-purbalingga-78398a.png" group-title="[LIVE 15:30 WIB 18/11/26] Persibangga Purbalingga vs Persibo Bojonegoro | Server 1",[LIVE 15:30 WIB 18/11/26] Persibangga Purbalingga vs Persibo Bojonegoro | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxk4S5dYJGpijWNKv.m3u8?txSecret=657a9134e30d38fd83a35e524404ac86&txTime=6AFE0D9D
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/persibangga-purbalingga-78398a.png" group-title="[LIVE 15:30 WIB 18/11/26] Persibangga Purbalingga vs Persibo Bojonegoro | Server 2",[LIVE 15:30 WIB 18/11/26] Persibangga Purbalingga vs Persibo Bojonegoro | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6afc108f8b0323bfecf12d56.m3u8?auth_key=1795012922-0-0-27061c36dd574b128b7fefdf6d1b8a15
