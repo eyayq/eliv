@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 group-title="tv nasional prem" tvg-name="wedotvMovies" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-movies340x160@3x@3x.jpg",wedotvMovies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h70/wedotv_movie.m3u8?app_type=web&userid=lite&chname=wedotvMovies
+#EXTINF:-1 group-title="tv nasional prem" tvg-name="wedotvAmor" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-amor340x160@3x.jpg",wedotvAmor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h68/wedotv_amor.m3u8?app_type=web&userid=lite&chname=wedotvAmor
+#EXTINF:-1 group-title="tv nasional prem" tvg-name="wedotvBig Stories" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-big-stories340x160@3x@3x.jpg",wedotvBig Stories
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h69/wedotv_big_stories.m3u8?app_type=web&userid=lite&chname=wedotvBig_Stories
+#EXTINF:-1 group-title="tv nasional prem" tvg-name="wedoSports" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-sports340x160@3x@3x.jpg",wedoSports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
 #EXTINF:-1 group-title="tv nasional prem" tvg-name="My Cinema Europe HD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg",My Cinema Europe HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -95,22 +111,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV
-#EXTINF:-1 group-title="tv nasional prem" tvg-name="wedotvMovies" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-movies340x160@3x@3x.jpg",wedotvMovies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayahd-1.dens.tv/h/h70/wedotv_movie.m3u8?app_type=web&userid=lite&chname=wedotvMovies
-#EXTINF:-1 group-title="tv nasional prem" tvg-name="wedotvAmor" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-amor340x160@3x.jpg",wedotvAmor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayahd-1.dens.tv/h/h68/wedotv_amor.m3u8?app_type=web&userid=lite&chname=wedotvAmor
-#EXTINF:-1 group-title="tv nasional prem" tvg-name="wedotvBig Stories" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-big-stories340x160@3x@3x.jpg",wedotvBig Stories
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayahd-1.dens.tv/h/h69/wedotv_big_stories.m3u8?app_type=web&userid=lite&chname=wedotvBig_Stories
-#EXTINF:-1 group-title="tv nasional prem" tvg-name="wedoSports" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-sports340x160@3x@3x.jpg",wedoSports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayahd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
 #EXTINF:-1 group-title="tv nasional prem" tvg-name="Live Streaming 1" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1745228970_tvchannels_v1.jpg",Live Streaming 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -191,50 +191,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h16/index.m3u8?app_type=web&userid=lit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
-#EXTINF:-1 group-title="epg even" tvg-name="Itâ€™s Showtime! by Qwest TV [00:00 - 02:06]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Itâ€™s Showtime! by Qwest TV [00:00 - 02:06]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794934800&endtime=1794942360
-#EXTINF:-1 group-title="epg even" tvg-name="Chillin' with Qwest TV [02:06 - 04:58]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Chillin' with Qwest TV [02:06 - 04:58]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794942360&endtime=1794952680
-#EXTINF:-1 group-title="epg even" tvg-name="Diverse, Beautiful Music by Qwest TV [04:58 - 07:50]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Diverse, Beautiful Music by Qwest TV [04:58 - 07:50]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794952680&endtime=1794963000
-#EXTINF:-1 group-title="epg even" tvg-name="Where Great Music Meets by Qwest TV [07:50 - 10:40]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Where Great Music Meets by Qwest TV [07:50 - 10:40]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794963000&endtime=1794973200
-#EXTINF:-1 group-title="epg even" tvg-name="Late Night Sounds by Qwest TV [10:40 - 12:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Late Night Sounds by Qwest TV [10:40 - 12:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794973200&endtime=1794978000
-#EXTINF:-1 group-title="epg even" tvg-name="Chillin' with Qwest TV [12:00 - 14:45]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Chillin' with Qwest TV [12:00 - 14:45]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794978000&endtime=1794987900
-#EXTINF:-1 group-title="epg even" tvg-name="Diverse, Beautiful Music by Qwest TV [14:45 - 17:35]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Diverse, Beautiful Music by Qwest TV [14:45 - 17:35]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794987900&endtime=1794998100
-#EXTINF:-1 group-title="epg even" tvg-name="Where Great Music Meets by Qwest TV [17:35 - 20:26]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Where Great Music Meets by Qwest TV [17:35 - 20:26]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794998100&endtime=1795008360
-#EXTINF:-1 group-title="epg even" tvg-name="From Be Bop to Hip Hop by Qwest TV [20:26 - 23:19]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",From Be Bop to Hip Hop by Qwest TV [20:26 - 23:19]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1795008360&endtime=1795018740
-#EXTINF:-1 group-title="epg even" tvg-name="Itâ€™s Showtime! by Qwest TV [23:19 - 23:59]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Itâ€™s Showtime! by Qwest TV [23:19 - 23:59]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1795018740&endtime=1795021190
-#EXTINF:-1 group-title="epg even" tvg-name="Itâ€™s Showtime! by Qwest TV [23:59 - 23:59]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Itâ€™s Showtime! by Qwest TV [23:59 - 23:59]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1795021190&endtime=1795021199
 #EXTINF:-1 group-title="epg even" tvg-name="Black Butterflies [00:00 - 00:45]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg",Black Butterflies [00:00 - 00:45]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -303,6 +259,154 @@ https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h18&starttime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h18&starttime=1795021190&endtime=1795021199
+#EXTINF:-1 group-title="epg even" tvg-name="Itâ€™s Showtime! by Qwest TV [00:00 - 02:06]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Itâ€™s Showtime! by Qwest TV [00:00 - 02:06]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794934800&endtime=1794942360
+#EXTINF:-1 group-title="epg even" tvg-name="Chillin' with Qwest TV [02:06 - 04:58]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Chillin' with Qwest TV [02:06 - 04:58]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794942360&endtime=1794952680
+#EXTINF:-1 group-title="epg even" tvg-name="Diverse, Beautiful Music by Qwest TV [04:58 - 07:50]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Diverse, Beautiful Music by Qwest TV [04:58 - 07:50]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794952680&endtime=1794963000
+#EXTINF:-1 group-title="epg even" tvg-name="Where Great Music Meets by Qwest TV [07:50 - 10:40]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Where Great Music Meets by Qwest TV [07:50 - 10:40]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794963000&endtime=1794973200
+#EXTINF:-1 group-title="epg even" tvg-name="Late Night Sounds by Qwest TV [10:40 - 12:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Late Night Sounds by Qwest TV [10:40 - 12:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794973200&endtime=1794978000
+#EXTINF:-1 group-title="epg even" tvg-name="Chillin' with Qwest TV [12:00 - 14:45]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Chillin' with Qwest TV [12:00 - 14:45]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794978000&endtime=1794987900
+#EXTINF:-1 group-title="epg even" tvg-name="Diverse, Beautiful Music by Qwest TV [14:45 - 17:35]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Diverse, Beautiful Music by Qwest TV [14:45 - 17:35]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794987900&endtime=1794998100
+#EXTINF:-1 group-title="epg even" tvg-name="Where Great Music Meets by Qwest TV [17:35 - 20:26]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Where Great Music Meets by Qwest TV [17:35 - 20:26]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1794998100&endtime=1795008360
+#EXTINF:-1 group-title="epg even" tvg-name="From Be Bop to Hip Hop by Qwest TV [20:26 - 23:19]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",From Be Bop to Hip Hop by Qwest TV [20:26 - 23:19]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1795008360&endtime=1795018740
+#EXTINF:-1 group-title="epg even" tvg-name="Itâ€™s Showtime! by Qwest TV [23:19 - 23:59]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Itâ€™s Showtime! by Qwest TV [23:19 - 23:59]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1795018740&endtime=1795021190
+#EXTINF:-1 group-title="epg even" tvg-name="Itâ€™s Showtime! by Qwest TV [23:59 - 23:59]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg",Itâ€™s Showtime! by Qwest TV [23:59 - 23:59]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?&code=h153&starttime=1795021190&endtime=1795021199
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [00:00 - 01:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [00:00 - 01:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794934800&endtime=1794938400
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [01:00 - 01:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [01:00 - 01:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794938400&endtime=1794940200
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [01:30 - 02:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [01:30 - 02:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794940200&endtime=1794942000
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [02:00 - 03:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [02:00 - 03:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794942000&endtime=1794945600
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [03:00 - 04:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [03:00 - 04:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794945600&endtime=1794951000
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [04:30 - 05:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [04:30 - 05:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794951000&endtime=1794954600
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [05:30 - 06:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [05:30 - 06:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794954600&endtime=1794956400
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [06:00 - 06:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [06:00 - 06:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794956400&endtime=1794958200
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [06:30 - 07:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [06:30 - 07:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794958200&endtime=1794960000
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [07:00 - 08:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [07:00 - 08:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794960000&endtime=1794963600
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [08:00 - 09:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [08:00 - 09:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794963600&endtime=1794969000
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [09:30 - 10:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [09:30 - 10:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794969000&endtime=1794970800
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [10:00 - 11:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [10:00 - 11:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794970800&endtime=1794974400
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [11:00 - 11:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [11:00 - 11:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794974400&endtime=1794976200
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [11:30 - 14:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [11:30 - 14:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794976200&endtime=1794985200
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [14:00 - 15:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [14:00 - 15:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794985200&endtime=1794988800
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [15:00 - 16:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [15:00 - 16:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794988800&endtime=1794992400
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [16:00 - 17:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [16:00 - 17:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794992400&endtime=1794996000
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [17:00 - 18:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [17:00 - 18:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794996000&endtime=1794999600
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [18:00 - 18:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [18:00 - 18:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794999600&endtime=1795001400
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [18:30 - 19:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [18:30 - 19:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1795001400&endtime=1795003200
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [19:00 - 21:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [19:00 - 21:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1795003200&endtime=1795010400
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [21:00 - 22:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [21:00 - 22:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1795010400&endtime=1795014000
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [22:00 - 23:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [22:00 - 23:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1795014000&endtime=1795017600
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [23:00 - 23:59]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [23:00 - 23:59]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1795017600&endtime=1795021190
+#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [23:59 - 23:59]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [23:59 - 23:59]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1795021190&endtime=1795021199
 #EXTINF:-1 group-title="epg even" tvg-name="Prisma [00:00 - 00:15]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423611_tvchannels_v1.jpg",Prisma [00:00 - 00:15]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -423,110 +527,78 @@ https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h171&starttim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h171&starttime=1795021190&endtime=1795021199
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [00:00 - 01:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [00:00 - 01:00]
+#EXTINF:-1 group-title="epg even" tvg-name="Peluit Akhir Podcast [06:00 - 07:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Peluit Akhir Podcast [06:00 - 07:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794934800&endtime=1794938400
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [01:00 - 01:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [01:00 - 01:30]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794956400&endtime=1794960000
+#EXTINF:-1 group-title="epg even" tvg-name="Mora Show by Ruang Cinema [07:00 - 08:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Mora Show by Ruang Cinema [07:00 - 08:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794938400&endtime=1794940200
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [01:30 - 02:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [01:30 - 02:00]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794960000&endtime=1794963600
+#EXTINF:-1 group-title="epg even" tvg-name="Office Hour - All Performance [08:00 - 09:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Office Hour - All Performance [08:00 - 09:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794940200&endtime=1794942000
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [02:00 - 03:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [02:00 - 03:00]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794963600&endtime=1794967200
+#EXTINF:-1 group-title="epg even" tvg-name="Podcastis Season 1 [09:00 - 10:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Podcastis Season 1 [09:00 - 10:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794942000&endtime=1794945600
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [03:00 - 04:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [03:00 - 04:30]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794967200&endtime=1794970800
+#EXTINF:-1 group-title="epg even" tvg-name="Podcast Curiga [10:00 - 11:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Podcast Curiga [10:00 - 11:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794945600&endtime=1794951000
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [04:30 - 05:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [04:30 - 05:30]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794970800&endtime=1794974400
+#EXTINF:-1 group-title="epg even" tvg-name="Sinema Hits [11:00 - 12:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Sinema Hits [11:00 - 12:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794951000&endtime=1794954600
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [05:30 - 06:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [05:30 - 06:00]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794974400&endtime=1794978000
+#EXTINF:-1 group-title="epg even" tvg-name="100% Warga Konoha [12:00 - 13:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",100% Warga Konoha [12:00 - 13:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794954600&endtime=1794956400
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [06:00 - 06:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [06:00 - 06:30]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794978000&endtime=1794981600
+#EXTINF:-1 group-title="epg even" tvg-name="Live Streaming [13:00 - 15:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Live Streaming [13:00 - 15:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794956400&endtime=1794958200
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [06:30 - 07:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [06:30 - 07:00]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794981600&endtime=1794988800
+#EXTINF:-1 group-title="epg even" tvg-name="Mysteri Of Asia [15:00 - 16:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Mysteri Of Asia [15:00 - 16:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794958200&endtime=1794960000
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [07:00 - 08:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [07:00 - 08:00]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794988800&endtime=1794992400
+#EXTINF:-1 group-title="epg even" tvg-name="Cantik-Cantik Gamers [16:00 - 17:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Cantik-Cantik Gamers [16:00 - 17:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794960000&endtime=1794963600
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [08:00 - 09:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [08:00 - 09:30]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794992400&endtime=1794996000
+#EXTINF:-1 group-title="epg even" tvg-name="All Event Liputan [17:00 - 18:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",All Event Liputan [17:00 - 18:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794963600&endtime=1794969000
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [09:30 - 10:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [09:30 - 10:00]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794996000&endtime=1794999600
+#EXTINF:-1 group-title="epg even" tvg-name="Office Hour - All Performance [18:00 - 19:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Office Hour - All Performance [18:00 - 19:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794969000&endtime=1794970800
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [10:00 - 11:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [10:00 - 11:00]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794999600&endtime=1795003200
+#EXTINF:-1 group-title="epg even" tvg-name="Podcastis Season 1 [19:00 - 20:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Podcastis Season 1 [19:00 - 20:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794970800&endtime=1794974400
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [11:00 - 11:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [11:00 - 11:30]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1795003200&endtime=1795006800
+#EXTINF:-1 group-title="epg even" tvg-name="Podcast Curiga [20:00 - 21:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Podcast Curiga [20:00 - 21:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794974400&endtime=1794976200
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [11:30 - 14:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [11:30 - 14:00]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1795006800&endtime=1795010400
+#EXTINF:-1 group-title="epg even" tvg-name="Kosan MBG [21:00 - 21:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Kosan MBG [21:00 - 21:30]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794976200&endtime=1794985200
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [14:00 - 15:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [14:00 - 15:00]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1795010400&endtime=1795012200
+#EXTINF:-1 group-title="epg even" tvg-name="Podcast Terkuat Di Bumi [21:30 - 22:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Podcast Terkuat Di Bumi [21:30 - 22:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794985200&endtime=1794988800
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [15:00 - 16:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [15:00 - 16:00]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1795012200&endtime=1795014000
+#EXTINF:-1 group-title="epg even" tvg-name="Hollywood Insider [22:00 - 23:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Hollywood Insider [22:00 - 23:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794988800&endtime=1794992400
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [16:00 - 17:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [16:00 - 17:00]
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1795014000&endtime=1795017600
+#EXTINF:-1 group-title="epg even" tvg-name="Mysteri Of Asia [23:00 - 23:59]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Mysteri Of Asia [23:00 - 23:59]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794992400&endtime=1794996000
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [17:00 - 18:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [17:00 - 18:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794996000&endtime=1794999600
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [18:00 - 18:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [18:00 - 18:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1794999600&endtime=1795001400
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [18:30 - 19:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [18:30 - 19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1795001400&endtime=1795003200
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [19:00 - 21:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [19:00 - 21:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1795003200&endtime=1795010400
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [21:00 - 22:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [21:00 - 22:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1795010400&endtime=1795014000
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [22:00 - 23:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [22:00 - 23:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1795014000&endtime=1795017600
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [23:00 - 23:59]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [23:00 - 23:59]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1795017600&endtime=1795021190
-#EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [23:59 - 23:59]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg",The Schedule Is Not Available [23:59 - 23:59]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h170&starttime=1795021190&endtime=1795021199
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1795017600&endtime=1795021199
 #EXTINF:-1 group-title="epg even" tvg-name="NHK Newsline [00:00 - 00:10]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503409_tvchannels_v1.jpg",NHK Newsline [00:00 - 00:10]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -935,6 +1007,94 @@ https://op-flashcon-digdayacatchup-1.dens.tv/tvod/tvod8p.m3u8?code=s21&starttime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-flashcon-digdayacatchup-1.dens.tv/tvod/tvod8p.m3u8?code=s21&starttime=1795021190&endtime=1795021199
+#EXTINF:-1 group-title="epg even" tvg-name="Live Cooking (Recorded) [06:00 - 08:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Live Cooking (Recorded) [06:00 - 08:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794956400&endtime=1794963600
+#EXTINF:-1 group-title="epg even" tvg-name="Sweet Yummy [08:00 - 08:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Sweet Yummy [08:00 - 08:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794963600&endtime=1794965400
+#EXTINF:-1 group-title="epg even" tvg-name="Bulepotan [08:30 - 09:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Bulepotan [08:30 - 09:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794965400&endtime=1794967200
+#EXTINF:-1 group-title="epg even" tvg-name="The Boston [09:00 - 10:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",The Boston [09:00 - 10:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794967200&endtime=1794970800
+#EXTINF:-1 group-title="epg even" tvg-name="Dialog Rasa [10:00 - 11:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Dialog Rasa [10:00 - 11:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794970800&endtime=1794974400
+#EXTINF:-1 group-title="epg even" tvg-name="Secret Chef Season 2 [11:00 - 11:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Secret Chef Season 2 [11:00 - 11:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794974400&endtime=1794976200
+#EXTINF:-1 group-title="epg even" tvg-name="Taste Good [11:30 - 12:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Taste Good [11:30 - 12:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794976200&endtime=1794978000
+#EXTINF:-1 group-title="epg even" tvg-name="Doobydobap [12:00 - 13:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Doobydobap [12:00 - 13:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794978000&endtime=1794981600
+#EXTINF:-1 group-title="epg even" tvg-name="Tifficooks [13:00 - 14:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Tifficooks [13:00 - 14:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794981600&endtime=1794985200
+#EXTINF:-1 group-title="epg even" tvg-name="People Vs Food [14:00 - 15:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",People Vs Food [14:00 - 15:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794985200&endtime=1794988800
+#EXTINF:-1 group-title="epg even" tvg-name="Kitchen Sanctuary [15:00 - 16:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Kitchen Sanctuary [15:00 - 16:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794988800&endtime=1794992400
+#EXTINF:-1 group-title="epg even" tvg-name="The Drunken Sommelier Food Show [16:00 - 17:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",The Drunken Sommelier Food Show [16:00 - 17:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794992400&endtime=1794996000
+#EXTINF:-1 group-title="epg even" tvg-name="Puedess Puoll! [17:00 - 17:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Puedess Puoll! [17:00 - 17:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794996000&endtime=1794997800
+#EXTINF:-1 group-title="epg even" tvg-name="Ngopi Cantik [17:30 - 18:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Ngopi Cantik [17:30 - 18:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794997800&endtime=1794999600
+#EXTINF:-1 group-title="epg even" tvg-name="Masak Bareng [18:00 - 18:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Masak Bareng [18:00 - 18:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794999600&endtime=1795001400
+#EXTINF:-1 group-title="epg even" tvg-name="Ramen(in) [18:30 - 19:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Ramen(in) [18:30 - 19:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1795001400&endtime=1795003200
+#EXTINF:-1 group-title="epg even" tvg-name="Sweet Yummy [19:00 - 19:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Sweet Yummy [19:00 - 19:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1795003200&endtime=1795005000
+#EXTINF:-1 group-title="epg even" tvg-name="Foodsaurus [19:30 - 20:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Foodsaurus [19:30 - 20:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1795005000&endtime=1795006800
+#EXTINF:-1 group-title="epg even" tvg-name="Food Street Festival [20:00 - 21:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Food Street Festival [20:00 - 21:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1795006800&endtime=1795010400
+#EXTINF:-1 group-title="epg even" tvg-name="Recipe 30 [21:00 - 22:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Recipe 30 [21:00 - 22:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1795010400&endtime=1795014000
+#EXTINF:-1 group-title="epg even" tvg-name="Boone Bake [22:00 - 23:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Boone Bake [22:00 - 23:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1795014000&endtime=1795017600
+#EXTINF:-1 group-title="epg even" tvg-name="Food Stories [23:00 - 23:59]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Food Stories [23:00 - 23:59]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1795017600&endtime=1795021199
 #EXTINF:-1 group-title="epg even" tvg-name="Belgian Rally Championship 2026 The Examination [00:00 - 00:15]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg",Belgian Rally Championship 2026 The Examination [00:00 - 00:15]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1107,78 +1267,6 @@ https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod2p.m3u8?code=h09&starttime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod2p.m3u8?code=h09&starttime=1795021190&endtime=1795021199
-#EXTINF:-1 group-title="epg even" tvg-name="Peluit Akhir Podcast [06:00 - 07:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Peluit Akhir Podcast [06:00 - 07:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794956400&endtime=1794960000
-#EXTINF:-1 group-title="epg even" tvg-name="Mora Show by Ruang Cinema [07:00 - 08:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Mora Show by Ruang Cinema [07:00 - 08:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794960000&endtime=1794963600
-#EXTINF:-1 group-title="epg even" tvg-name="Office Hour - All Performance [08:00 - 09:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Office Hour - All Performance [08:00 - 09:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794963600&endtime=1794967200
-#EXTINF:-1 group-title="epg even" tvg-name="Podcastis Season 1 [09:00 - 10:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Podcastis Season 1 [09:00 - 10:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794967200&endtime=1794970800
-#EXTINF:-1 group-title="epg even" tvg-name="Podcast Curiga [10:00 - 11:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Podcast Curiga [10:00 - 11:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794970800&endtime=1794974400
-#EXTINF:-1 group-title="epg even" tvg-name="Sinema Hits [11:00 - 12:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Sinema Hits [11:00 - 12:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794974400&endtime=1794978000
-#EXTINF:-1 group-title="epg even" tvg-name="100% Warga Konoha [12:00 - 13:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",100% Warga Konoha [12:00 - 13:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794978000&endtime=1794981600
-#EXTINF:-1 group-title="epg even" tvg-name="Live Streaming [13:00 - 15:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Live Streaming [13:00 - 15:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794981600&endtime=1794988800
-#EXTINF:-1 group-title="epg even" tvg-name="Mysteri Of Asia [15:00 - 16:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Mysteri Of Asia [15:00 - 16:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794988800&endtime=1794992400
-#EXTINF:-1 group-title="epg even" tvg-name="Cantik-Cantik Gamers [16:00 - 17:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Cantik-Cantik Gamers [16:00 - 17:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794992400&endtime=1794996000
-#EXTINF:-1 group-title="epg even" tvg-name="All Event Liputan [17:00 - 18:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",All Event Liputan [17:00 - 18:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794996000&endtime=1794999600
-#EXTINF:-1 group-title="epg even" tvg-name="Office Hour - All Performance [18:00 - 19:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Office Hour - All Performance [18:00 - 19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1794999600&endtime=1795003200
-#EXTINF:-1 group-title="epg even" tvg-name="Podcastis Season 1 [19:00 - 20:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Podcastis Season 1 [19:00 - 20:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1795003200&endtime=1795006800
-#EXTINF:-1 group-title="epg even" tvg-name="Podcast Curiga [20:00 - 21:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Podcast Curiga [20:00 - 21:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1795006800&endtime=1795010400
-#EXTINF:-1 group-title="epg even" tvg-name="Kosan MBG [21:00 - 21:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Kosan MBG [21:00 - 21:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1795010400&endtime=1795012200
-#EXTINF:-1 group-title="epg even" tvg-name="Podcast Terkuat Di Bumi [21:30 - 22:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Podcast Terkuat Di Bumi [21:30 - 22:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1795012200&endtime=1795014000
-#EXTINF:-1 group-title="epg even" tvg-name="Hollywood Insider [22:00 - 23:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Hollywood Insider [22:00 - 23:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1795014000&endtime=1795017600
-#EXTINF:-1 group-title="epg even" tvg-name="Mysteri Of Asia [23:00 - 23:59]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Mysteri Of Asia [23:00 - 23:59]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s113&starttime=1795017600&endtime=1795021199
 #EXTINF:-1 group-title="epg even" tvg-name="Piala Dunia 2026 [00:00 - 04:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501756_tvchannels_v1.jpg",Piala Dunia 2026 [00:00 - 04:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1323,174 +1411,6 @@ https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s11&starttime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s11&starttime=1795021190&endtime=1795021199
-#EXTINF:-1 group-title="epg even" tvg-name="Valoverse [06:00 - 08:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Valoverse [06:00 - 08:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794956400&endtime=1794963600
-#EXTINF:-1 group-title="epg even" tvg-name="Isekai Podcast [08:00 - 08:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Isekai Podcast [08:00 - 08:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794963600&endtime=1794965400
-#EXTINF:-1 group-title="epg even" tvg-name="Main Rasa [08:30 - 09:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Main Rasa [08:30 - 09:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794965400&endtime=1794967200
-#EXTINF:-1 group-title="epg even" tvg-name="Gaming Room [09:00 - 09:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Gaming Room [09:00 - 09:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794967200&endtime=1794969000
-#EXTINF:-1 group-title="epg even" tvg-name="Alter Ego Esports [09:30 - 10:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Alter Ego Esports [09:30 - 10:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794969000&endtime=1794970800
-#EXTINF:-1 group-title="epg even" tvg-name="Anak Rental [10:00 - 11:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Anak Rental [10:00 - 11:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794970800&endtime=1794974400
-#EXTINF:-1 group-title="epg even" tvg-name="Esports Spectator by SL [11:00 - 11:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Esports Spectator by SL [11:00 - 11:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794974400&endtime=1794976200
-#EXTINF:-1 group-title="epg even" tvg-name="Isekai Podcast [11:30 - 12:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Isekai Podcast [11:30 - 12:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794976200&endtime=1794978000
-#EXTINF:-1 group-title="epg even" tvg-name="Cantik-Cantik Gamers [12:00 - 13:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Cantik-Cantik Gamers [12:00 - 13:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794978000&endtime=1794983400
-#EXTINF:-1 group-title="epg even" tvg-name="Esports Play & Pro [13:30 - 14:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Esports Play & Pro [13:30 - 14:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794983400&endtime=1794985200
-#EXTINF:-1 group-title="epg even" tvg-name="Retro Game Corps [14:00 - 15:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Retro Game Corps [14:00 - 15:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794985200&endtime=1794988800
-#EXTINF:-1 group-title="epg even" tvg-name="Jobbythehong [15:00 - 16:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Jobbythehong [15:00 - 16:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794988800&endtime=1794992400
-#EXTINF:-1 group-title="epg even" tvg-name="Before You Buy [16:00 - 17:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Before You Buy [16:00 - 17:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794992400&endtime=1794996000
-#EXTINF:-1 group-title="epg even" tvg-name="Alter Ego Esports [17:00 - 18:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Alter Ego Esports [17:00 - 18:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794996000&endtime=1794999600
-#EXTINF:-1 group-title="epg even" tvg-name="Gaming Room [18:00 - 18:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Gaming Room [18:00 - 18:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794999600&endtime=1795001400
-#EXTINF:-1 group-title="epg even" tvg-name="Isekai Podcast [18:30 - 19:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Isekai Podcast [18:30 - 19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1795001400&endtime=1795003200
-#EXTINF:-1 group-title="epg even" tvg-name="Makmur Jaya Esports [19:00 - 20:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Makmur Jaya Esports [19:00 - 20:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1795003200&endtime=1795006800
-#EXTINF:-1 group-title="epg even" tvg-name="PlayHub By Queenuts [20:00 - 22:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",PlayHub By Queenuts [20:00 - 22:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1795006800&endtime=1795014000
-#EXTINF:-1 group-title="epg even" tvg-name="Jobbythehong [22:00 - 23:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Jobbythehong [22:00 - 23:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1795014000&endtime=1795017600
-#EXTINF:-1 group-title="epg even" tvg-name="Before You Buy [23:00 - 23:59]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Before You Buy [23:00 - 23:59]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1795017600&endtime=1795021199
-#EXTINF:-1 group-title="epg even" tvg-name="Live Cooking (Recorded) [06:00 - 08:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Live Cooking (Recorded) [06:00 - 08:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794956400&endtime=1794963600
-#EXTINF:-1 group-title="epg even" tvg-name="Sweet Yummy [08:00 - 08:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Sweet Yummy [08:00 - 08:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794963600&endtime=1794965400
-#EXTINF:-1 group-title="epg even" tvg-name="Bulepotan [08:30 - 09:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Bulepotan [08:30 - 09:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794965400&endtime=1794967200
-#EXTINF:-1 group-title="epg even" tvg-name="The Boston [09:00 - 10:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",The Boston [09:00 - 10:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794967200&endtime=1794970800
-#EXTINF:-1 group-title="epg even" tvg-name="Dialog Rasa [10:00 - 11:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Dialog Rasa [10:00 - 11:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794970800&endtime=1794974400
-#EXTINF:-1 group-title="epg even" tvg-name="Secret Chef Season 2 [11:00 - 11:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Secret Chef Season 2 [11:00 - 11:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794974400&endtime=1794976200
-#EXTINF:-1 group-title="epg even" tvg-name="Taste Good [11:30 - 12:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Taste Good [11:30 - 12:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794976200&endtime=1794978000
-#EXTINF:-1 group-title="epg even" tvg-name="Doobydobap [12:00 - 13:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Doobydobap [12:00 - 13:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794978000&endtime=1794981600
-#EXTINF:-1 group-title="epg even" tvg-name="Tifficooks [13:00 - 14:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Tifficooks [13:00 - 14:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794981600&endtime=1794985200
-#EXTINF:-1 group-title="epg even" tvg-name="People Vs Food [14:00 - 15:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",People Vs Food [14:00 - 15:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794985200&endtime=1794988800
-#EXTINF:-1 group-title="epg even" tvg-name="Kitchen Sanctuary [15:00 - 16:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Kitchen Sanctuary [15:00 - 16:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794988800&endtime=1794992400
-#EXTINF:-1 group-title="epg even" tvg-name="The Drunken Sommelier Food Show [16:00 - 17:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",The Drunken Sommelier Food Show [16:00 - 17:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794992400&endtime=1794996000
-#EXTINF:-1 group-title="epg even" tvg-name="Puedess Puoll! [17:00 - 17:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Puedess Puoll! [17:00 - 17:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794996000&endtime=1794997800
-#EXTINF:-1 group-title="epg even" tvg-name="Ngopi Cantik [17:30 - 18:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Ngopi Cantik [17:30 - 18:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794997800&endtime=1794999600
-#EXTINF:-1 group-title="epg even" tvg-name="Masak Bareng [18:00 - 18:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Masak Bareng [18:00 - 18:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1794999600&endtime=1795001400
-#EXTINF:-1 group-title="epg even" tvg-name="Ramen(in) [18:30 - 19:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Ramen(in) [18:30 - 19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1795001400&endtime=1795003200
-#EXTINF:-1 group-title="epg even" tvg-name="Sweet Yummy [19:00 - 19:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Sweet Yummy [19:00 - 19:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1795003200&endtime=1795005000
-#EXTINF:-1 group-title="epg even" tvg-name="Foodsaurus [19:30 - 20:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Foodsaurus [19:30 - 20:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1795005000&endtime=1795006800
-#EXTINF:-1 group-title="epg even" tvg-name="Food Street Festival [20:00 - 21:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Food Street Festival [20:00 - 21:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1795006800&endtime=1795010400
-#EXTINF:-1 group-title="epg even" tvg-name="Recipe 30 [21:00 - 22:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Recipe 30 [21:00 - 22:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1795010400&endtime=1795014000
-#EXTINF:-1 group-title="epg even" tvg-name="Boone Bake [22:00 - 23:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Boone Bake [22:00 - 23:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1795014000&endtime=1795017600
-#EXTINF:-1 group-title="epg even" tvg-name="Food Stories [23:00 - 23:59]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",Food Stories [23:00 - 23:59]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h221&starttime=1795017600&endtime=1795021199
 #EXTINF:-1 group-title="epg even" tvg-name="The Schedule Is Not Available [00:00 - 01:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501653_tvchannels_v1.jpg",The Schedule Is Not Available [00:00 - 01:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1595,6 +1515,86 @@ https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h10&starttime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=h10&starttime=1795021190&endtime=1795021199
+#EXTINF:-1 group-title="epg even" tvg-name="Valoverse [06:00 - 08:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Valoverse [06:00 - 08:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794956400&endtime=1794963600
+#EXTINF:-1 group-title="epg even" tvg-name="Isekai Podcast [08:00 - 08:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Isekai Podcast [08:00 - 08:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794963600&endtime=1794965400
+#EXTINF:-1 group-title="epg even" tvg-name="Main Rasa [08:30 - 09:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Main Rasa [08:30 - 09:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794965400&endtime=1794967200
+#EXTINF:-1 group-title="epg even" tvg-name="Gaming Room [09:00 - 09:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Gaming Room [09:00 - 09:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794967200&endtime=1794969000
+#EXTINF:-1 group-title="epg even" tvg-name="Alter Ego Esports [09:30 - 10:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Alter Ego Esports [09:30 - 10:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794969000&endtime=1794970800
+#EXTINF:-1 group-title="epg even" tvg-name="Anak Rental [10:00 - 11:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Anak Rental [10:00 - 11:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794970800&endtime=1794974400
+#EXTINF:-1 group-title="epg even" tvg-name="Esports Spectator by SL [11:00 - 11:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Esports Spectator by SL [11:00 - 11:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794974400&endtime=1794976200
+#EXTINF:-1 group-title="epg even" tvg-name="Isekai Podcast [11:30 - 12:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Isekai Podcast [11:30 - 12:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794976200&endtime=1794978000
+#EXTINF:-1 group-title="epg even" tvg-name="Cantik-Cantik Gamers [12:00 - 13:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Cantik-Cantik Gamers [12:00 - 13:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794978000&endtime=1794983400
+#EXTINF:-1 group-title="epg even" tvg-name="Esports Play & Pro [13:30 - 14:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Esports Play & Pro [13:30 - 14:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794983400&endtime=1794985200
+#EXTINF:-1 group-title="epg even" tvg-name="Retro Game Corps [14:00 - 15:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Retro Game Corps [14:00 - 15:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794985200&endtime=1794988800
+#EXTINF:-1 group-title="epg even" tvg-name="Jobbythehong [15:00 - 16:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Jobbythehong [15:00 - 16:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794988800&endtime=1794992400
+#EXTINF:-1 group-title="epg even" tvg-name="Before You Buy [16:00 - 17:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Before You Buy [16:00 - 17:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794992400&endtime=1794996000
+#EXTINF:-1 group-title="epg even" tvg-name="Alter Ego Esports [17:00 - 18:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Alter Ego Esports [17:00 - 18:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794996000&endtime=1794999600
+#EXTINF:-1 group-title="epg even" tvg-name="Gaming Room [18:00 - 18:30]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Gaming Room [18:00 - 18:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1794999600&endtime=1795001400
+#EXTINF:-1 group-title="epg even" tvg-name="Isekai Podcast [18:30 - 19:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Isekai Podcast [18:30 - 19:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1795001400&endtime=1795003200
+#EXTINF:-1 group-title="epg even" tvg-name="Makmur Jaya Esports [19:00 - 20:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Makmur Jaya Esports [19:00 - 20:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1795003200&endtime=1795006800
+#EXTINF:-1 group-title="epg even" tvg-name="PlayHub By Queenuts [20:00 - 22:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",PlayHub By Queenuts [20:00 - 22:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1795006800&endtime=1795014000
+#EXTINF:-1 group-title="epg even" tvg-name="Jobbythehong [22:00 - 23:00]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Jobbythehong [22:00 - 23:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1795014000&endtime=1795017600
+#EXTINF:-1 group-title="epg even" tvg-name="Before You Buy [23:00 - 23:59]" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",Before You Buy [23:00 - 23:59]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayacatchup-2.dens.tv/tvod/tvod8p.m3u8?code=s101p&starttime=1795017600&endtime=1795021199
 #EXTINF:-1 group-title="Ketinggalan? Nonton di Sini" tvg-name="Meat And Great Eps. 5" tvg-logo="https://picture.dens.tv/wp/img/top_tvshowbanner_v1/1280x720/1794888078_top_tvshowbanner_v1.jpg",Meat And Great Eps. 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1679,6 +1679,22 @@ https://op-svod.dens.tv/04/MVPPA00069/index5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-svod.dens.tv/04/MVMBG00001/index5.m3u8
+#EXTINF:-1 group-title="VOD - Horror & Thriller" tvg-name="Stockholm Requiem (5 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1789543943_land.jpg",Stockholm Requiem (5 Episodes) | Rated : PG-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVMCE00110/index5.m3u8?app_type=web&userid=guest&movieid=10144
+#EXTINF:-1 group-title="VOD - Horror & Thriller" tvg-name="PETAKA (Pesan Tak Kasat Mata) (48 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1758881615_land.jpg",PETAKA (Pesan Tak Kasat Mata) (48 Episodes) | Rated : PG-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVPTK00009/index5.m3u8?app_type=web&userid=guest&movieid=9811
+#EXTINF:-1 group-title="VOD - Horror & Thriller" tvg-name="Podcastis Season 3 | Rated : PG-13 (12 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1729062458_land.jpg",Podcastis Season 3 | Rated : PG-13 (12 Episodes)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVPDC00039/index5.m3u8?app_type=web&userid=guest&movieid=8774
+#EXTINF:-1 group-title="VOD - Horror & Thriller" tvg-name="Petaka “Pesan Tak Kasat Mata” | Rated : PG-13 (8 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1728545136_land.jpg",Petaka “Pesan Tak Kasat Mata” | Rated : PG-13 (8 Episodes)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVPTK00001/index5.m3u8?app_type=web&userid=guest&movieid=8760
 #EXTINF:-1 group-title="VOD - Other" tvg-name="Wildlings | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/wildlings@3x (1).jpg",Wildlings | Rated : PG-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1707,6 +1723,218 @@ https://op-svod.dens.tv/04/MVPOV00001/index5.m3u8?app_type=web&userid=guest&movi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-svod.dens.tv/04/MVNYR00001/index1.m3u8?app_type=web&userid=guest&movieid=9380
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Live Cooking With Chef Leon : Berbukalah Dengan Yang Viral" tvg-logo="https://picture.dens.tv/poster/files/lands/1742871700_land.jpg",Live Cooking With Chef Leon : Berbukalah Dengan Yang Viral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVLVC00001/index5.m3u8?app_type=web&userid=guest&movieid=9290
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Dialog Rasa (11 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1738897325_land.jpg",Dialog Rasa (11 Episodes) | Rated : PG-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDRS00001/index5.m3u8?app_type=web&userid=guest&movieid=9104
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Ngopi Cantik | Rated : PG-13 (6 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1728282774_land.jpg",Ngopi Cantik | Rated : PG-13 (6 Episodes)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVNCK00001/index5.m3u8?app_type=web&userid=guest&movieid=8743
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Foodsaurus (12 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1717476997_land.jpg",Foodsaurus (12 Episodes) | Rated : PG-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVFDS00001/index5.m3u8?app_type=web&userid=guest&movieid=8386
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Main Rasa (6 Episodes) | Rated : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1715067909_land.jpg",Main Rasa (6 Episodes) | Rated : PG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVMRS00001/index5.m3u8?app_type=web&userid=guest&movieid=8317
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Jelajah Halal (5 Episodes) | Rated : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1710743535_land.jpg",Jelajah Halal (5 Episodes) | Rated : PG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVJLH00001/index5.m3u8?app_type=web&userid=guest&movieid=8148
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Sweet Yummy (6 Episodes) | Rated : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1710318866_land.jpg",Sweet Yummy (6 Episodes) | Rated : PG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVSWY00001/index5.m3u8?app_type=web&userid=guest&movieid=8127
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Masak Bareng (4 Episodes) | Rated : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1707710590_land.jpg",Masak Bareng (4 Episodes) | Rated : PG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDFC00099/index5.m3u8?app_type=web&userid=guest&movieid=8048
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Secret Chef Season 2 | Rated : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1703139558_land.jpg",Secret Chef Season 2 | Rated : PG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDFC00085/index5.m3u8?app_type=web&userid=guest&movieid=7871
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Escape (5 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1731917527_land.jpg",Escape (5 Episodes) | Rated : PG-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVBTE00001/index1.m3u8?app_type=web&userid=guest&movieid=7362
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Masak Yuk! Bareng Chef Nanda (3 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1691982979_land.jpg",Masak Yuk! Bareng Chef Nanda (3 Episodes) | Rated : PG-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVLVC00001a/index5.m3u8?app_type=web&userid=guest&movieid=7036
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Meat and Great (18 Episodes) | Rated : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1683081729_land.jpg",Meat and Great (18 Episodes) | Rated : PG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVMNG00001/index1.m3u8?app_type=web&userid=guest&movieid=6614
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Halal Kuliner (15 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1681722513_land.jpg",Halal Kuliner (15 Episodes) | Rated : PG-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVHLK00001/index1.m3u8?app_type=web&userid=guest&movieid=6542
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Taste Good (28 Episodes) | Rated : Su" tvg-logo="https://picture.dens.tv/poster/files/lands/1674202400_land.jpg",Taste Good (28 Episodes) | Rated : Su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVUPC00127/index5.m3u8?app_type=web&userid=guest&movieid=6150
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Pecah Rasa (12 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1670299759_land.jpg",Pecah Rasa (12 Episodes)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVPCR00002/index1.m3u8?app_type=web&userid=guest&movieid=5899
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Icip Skuy (18 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1670301331_land.jpg",Icip Skuy (18 Episodes)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVICS00001/index5.m3u8?app_type=web&userid=guest&movieid=5432
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Cooking Duck ( 21 Episodes) | Rated : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1670300577_land.jpg",Cooking Duck ( 21 Episodes) | Rated : PG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDFC00013/index1.m3u8?app_type=web&userid=guest&movieid=5415
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Titiek Puspa: Warisan Abadi Sang Diva" tvg-logo="https://picture.dens.tv/poster/files/lands/1745227539_land.jpg",Titiek Puspa: Warisan Abadi Sang Diva
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDOP00048/index5.m3u8?app_type=web&userid=guest&movieid=9324
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Lintas Melawai Volume.2 : After Movie" tvg-logo="https://picture.dens.tv/poster/files/lands/1737621011_land.jpg",Lintas Melawai Volume.2 : After Movie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVLMI00004/index5.m3u8?app_type=web&userid=guest&movieid=9097
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Lintas Melawai Volume.2 : Hari Ketiga" tvg-logo="https://picture.dens.tv/poster/files/lands/1737621014_land.jpg",Lintas Melawai Volume.2 : Hari Ketiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVLMI00003/index5.m3u8?app_type=web&userid=guest&movieid=9096
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Lintas Melawai Volume.2 : Hari Kedua" tvg-logo="https://picture.dens.tv/poster/files/lands/1737621016_land.jpg",Lintas Melawai Volume.2 : Hari Kedua
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVLMI00002/index5.m3u8?app_type=web&userid=guest&movieid=9095
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Lintas Melawai Volume.2 : Hari Pertama" tvg-logo="https://picture.dens.tv/poster/files/lands/1737621383_land.jpg",Lintas Melawai Volume.2 : Hari Pertama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVLMI00001/index5.m3u8?app_type=web&userid=guest&movieid=9094
+#EXTINF:-1 group-title="VOD - Other" tvg-name="High School Fest 2024 : After Movie" tvg-logo="https://picture.dens.tv/poster/files/lands/1736824068_land.jpg",High School Fest 2024 : After Movie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVENT00002/index5.m3u8?app_type=web&userid=guest&movieid=9065
+#EXTINF:-1 group-title="VOD - Other" tvg-name="High School Fest 2024" tvg-logo="https://picture.dens.tv/poster/files/lands/1736824067_land.jpg",High School Fest 2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVENT00001/index5.m3u8?app_type=web&userid=guest&movieid=9064
+#EXTINF:-1 group-title="VOD - Other" tvg-name="All Performance @ Office Hour! | Rated : PG-13 (108 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1729496436_land.jpg",All Performance @ Office Hour! | Rated : PG-13 (108 Episodes)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVPOH00001/index5.m3u8?app_type=web&userid=guest&movieid=8805
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Office Hour | Rated: PG-13 (36 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1727240562_land.jpg",Office Hour | Rated: PG-13 (36 Episodes)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVOFH00001/index5.m3u8?app_type=web&userid=guest&movieid=8731
+#EXTINF:-1 group-title="VOD - Other" tvg-name="The Sounds Project Vol. 7 : After Movie" tvg-logo="https://picture.dens.tv/poster/files/lands/1726824680_land.jpg",The Sounds Project Vol. 7 : After Movie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVSNP00002/index5.m3u8?app_type=web&userid=guest&movieid=8721
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Sunset Di Kebun" tvg-logo="https://picture.dens.tv/poster/files/lands/1724906855_land.jpg",Sunset Di Kebun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVSDK00001/index5.m3u8?app_type=web&userid=guest&movieid=8675
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Java Jazz Festival 2024 (4Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1721182988_land.jpg",Java Jazz Festival 2024 (4Episodes)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVJJZ00001/index5.m3u8?app_type=web&userid=guest&movieid=8534
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Jazz Gunung Bromo 2023 (3 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1700540262_land.jpg",Jazz Gunung Bromo 2023 (3 Episodes) | Rated : PG-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVJGM00009/index5.m3u8?app_type=web&userid=guest&movieid=7730
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Festival Koplo Indonesia 2023 : After Movie" tvg-logo="https://picture.dens.tv/poster/files/lands/1694600268_land.jpg",Festival Koplo Indonesia 2023 : After Movie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVFKL00003/index1.m3u8?app_type=web&userid=guest&movieid=7264
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Festival Koplo Indonesia 2023 : Day 2" tvg-logo="https://picture.dens.tv/poster/files/lands/1694600267_land.jpg",Festival Koplo Indonesia 2023 : Day 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVFKL00002/index1.m3u8?app_type=web&userid=guest&movieid=7263
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Festival Koplo Indonesia 2023 : Day 1" tvg-logo="https://picture.dens.tv/poster/files/lands/1694600266_land.jpg",Festival Koplo Indonesia 2023 : Day 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVFKL00001/index1.m3u8?app_type=web&userid=guest&movieid=7262
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Java Jazz Festival 2023 (4 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1687416579_land.jpg",Java Jazz Festival 2023 (4 Episodes)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVJGM00004/index1.m3u8?app_type=web&userid=guest&movieid=6789
+#EXTINF:-1 group-title="VOD - Other" tvg-name="The 45th Jazz Goes To Campus" tvg-logo="https://picture.dens.tv/poster/files/lands/1670573622_land.jpg",The 45th Jazz Goes To Campus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVEVC00001/index5.m3u8?app_type=web&userid=guest&movieid=6110
+#EXTINF:-1 group-title="VOD - Other" tvg-name="The Kitchen Musical Boston (Episode 8) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1676264425_land.jpg",The Kitchen Musical Boston (Episode 8) | Rated : PG-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVTKM00014/index5.m3u8?app_type=web&userid=guest&movieid=6051
+#EXTINF:-1 group-title="VOD - Other" tvg-name="Jazz Gunung Bromo 2022 (3 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1670301720_land.jpg",Jazz Gunung Bromo 2022 (3 Episodes)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVJGM00001/index5.m3u8?app_type=web&userid=guest&movieid=5726
+#EXTINF:-1 group-title="VOD - Other" tvg-name="BADAILOVECOUSTIC VOL.2 “CINTA, Hidup dan Wanita" tvg-logo="https://picture.dens.tv/poster/files/lands/Thumbnail-VOD-Main-Cover-Badai-Love-Coustic-Live-Full-Show-Landscape (5).jpg",BADAILOVECOUSTIC VOL.2 “CINTA, Hidup dan Wanita
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/BDS0000002/index5.m3u8?app_type=web&userid=guest&movieid=5417
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Mengapa 17 Agustus 1945 menjadi hari Kemerdekaan Indonesia?" tvg-logo="https://picture.dens.tv/poster/files/lands/Cover2@3x.jpg",Mengapa 17 Agustus 1945 menjadi hari Kemerdekaan Indonesia?
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDOP00161/index5.m3u8?app_type=web&userid=guest&movieid=9730
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Pacu Jalur: Warisan Budaya yang Mendunia" tvg-logo="https://picture.dens.tv/poster/files/lands/Cover Land@3x (3).jpg",Pacu Jalur: Warisan Budaya yang Mendunia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDOP00139/index5.m3u8?app_type=web&userid=guest&movieid=9614
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="LEGENDA MALAM SATU SURO DI WADUK GAJAH MUNGKUR" tvg-logo="https://picture.dens.tv/poster/files/lands/Cover@3x (12).jpg",LEGENDA MALAM SATU SURO DI WADUK GAJAH MUNGKUR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDOP00124/index5.m3u8?app_type=web&userid=guest&movieid=9592
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="DUEL SENGIT DI LAPANGAN: Sportivitas Shin Tae-Yong DAN Patrick Kluivert" tvg-logo="https://picture.dens.tv/poster/files/lands/sty@3x (1).jpg",DUEL SENGIT DI LAPANGAN: Sportivitas Shin Tae-Yong DAN Patrick Kluivert
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDOP00038/index5.m3u8?app_type=web&userid=guest&movieid=9303
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Fenomena Berburu Takjil" tvg-logo="https://picture.dens.tv/poster/files/lands/Cover LAND@3x.jpg",Fenomena Berburu Takjil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDOP00037/index5.m3u8?app_type=web&userid=guest&movieid=9298
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Legenda Si Pitung" tvg-logo="https://picture.dens.tv/poster/files/lands/Land@3x (2).jpg",Legenda Si Pitung
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDOP00021/index5.m3u8?app_type=web&userid=guest&movieid=9186
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Perjalanan Shin Tae-yong Melatih Timnas Indonesia" tvg-logo="https://picture.dens.tv/poster/files/lands/Land@3x (4).jpg",Perjalanan Shin Tae-yong Melatih Timnas Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDOP00013a/index5.m3u8?app_type=web&userid=guest&movieid=9092
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Perayaan Natal: Uniknya tradisi di Indonesia" tvg-logo="https://picture.dens.tv/poster/files/lands/Cover Land@3x (2).jpg",Perayaan Natal: Uniknya tradisi di Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDOP00012a/index5.m3u8?app_type=web&userid=guest&movieid=9016
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Thanksgiving di Indonesia: Harmoni dua tradisi" tvg-logo="https://picture.dens.tv/poster/files/lands/Land@3x (3).jpg",Thanksgiving di Indonesia: Harmoni dua tradisi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDOP00011a/index5.m3u8?app_type=web&userid=guest&movieid=8942
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Legenda Malin Kundang" tvg-logo="https://picture.dens.tv/poster/files/lands/Malin Land@3x.jpg",Legenda Malin Kundang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDOP00010a/index5.m3u8?app_type=web&userid=guest&movieid=8849
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Legenda Danau Toba" tvg-logo="https://picture.dens.tv/poster/files/lands/Toba Land@3x.jpg",Legenda Danau Toba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDOP00009a/index5.m3u8?app_type=web&userid=guest&movieid=8712
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="5 Fakta Menarik Pulau Komodo" tvg-logo="https://picture.dens.tv/poster/files/lands/Komodo Land@3x.jpg",5 Fakta Menarik Pulau Komodo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVDOP00008a/index5.m3u8?app_type=web&userid=guest&movieid=8711
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Sejarah Lagu Indonesia Raya" tvg-logo="https://picture.dens.tv/poster/files/lands/1 Land@3x.jpg",Sejarah Lagu Indonesia Raya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVAGS00003/index5.m3u8?app_type=web&userid=guest&movieid=8592
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Cerita Pak Hwie, kenang detik-detik Proklamasi" tvg-logo="https://picture.dens.tv/poster/files/lands/2 Land@3x.jpg",Cerita Pak Hwie, kenang detik-detik Proklamasi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVAGS00001/index5.m3u8?app_type=web&userid=guest&movieid=8591
+#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Sejarah perlombaan 17 Agustus" tvg-logo="https://picture.dens.tv/poster/files/lands/3 Land@3x.jpg",Sejarah perlombaan 17 Agustus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-svod.dens.tv/04/MVAGS00002/index5.m3u8?app_type=web&userid=guest&movieid=8590
 #EXTINF:-1 group-title="VOD - Drama" tvg-name="Nowhere in Africa | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1779244388_land.jpg",Nowhere in Africa | Rated : PG-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1767,10 +1995,6 @@ https://op-svod.dens.tv/04/MVMCE00058/index5.m3u8?app_type=web&userid=guest&movi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-svod.dens.tv/04/MSARM00001/index5.m3u8?app_type=web&userid=guest&movieid=8923
-#EXTINF:-1 group-title="VOD - Drama" tvg-name="The Kitchen Musical Boston (Episode 8) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1676264425_land.jpg",The Kitchen Musical Boston (Episode 8) | Rated : PG-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVTKM00014/index5.m3u8?app_type=web&userid=guest&movieid=6051
 #EXTINF:-1 group-title="VOD - Drama" tvg-name="The Kitchen Musical (13 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1670480002_land.jpg",The Kitchen Musical (13 Episodes) | Rated : PG-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1903,22 +2127,6 @@ https://op-svod.dens.tv/04/MVMCE00042/index5.m3u8?app_type=web&userid=guest&movi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-svod.dens.tv/04/MVMCE00045/index5.m3u8?app_type=web&userid=guest&movieid=3909
-#EXTINF:-1 group-title="VOD - Horror & Thriller" tvg-name="Stockholm Requiem (5 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1789543943_land.jpg",Stockholm Requiem (5 Episodes) | Rated : PG-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVMCE00110/index5.m3u8?app_type=web&userid=guest&movieid=10144
-#EXTINF:-1 group-title="VOD - Horror & Thriller" tvg-name="PETAKA (Pesan Tak Kasat Mata) (48 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1758881615_land.jpg",PETAKA (Pesan Tak Kasat Mata) (48 Episodes) | Rated : PG-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVPTK00009/index5.m3u8?app_type=web&userid=guest&movieid=9811
-#EXTINF:-1 group-title="VOD - Horror & Thriller" tvg-name="Podcastis Season 3 | Rated : PG-13 (12 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1729062458_land.jpg",Podcastis Season 3 | Rated : PG-13 (12 Episodes)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVPDC00039/index5.m3u8?app_type=web&userid=guest&movieid=8774
-#EXTINF:-1 group-title="VOD - Horror & Thriller" tvg-name="Petaka “Pesan Tak Kasat Mata” | Rated : PG-13 (8 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1728545136_land.jpg",Petaka “Pesan Tak Kasat Mata” | Rated : PG-13 (8 Episodes)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVPTK00001/index5.m3u8?app_type=web&userid=guest&movieid=8760
 #EXTINF:-1 group-title="VOD - Other" tvg-name="Kosan MBG (Masak Bareng Gen Z) - 6 Episodes" tvg-logo="https://picture.dens.tv/poster/files/lands/1781863833_land.jpg",Kosan MBG (Masak Bareng Gen Z) - 6 Episodes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -2011,154 +2219,6 @@ https://op-svod.dens.tv/02/MVLIM00012/index1.m3u8?app_type=web&userid=guest&movi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-svod.dens.tv/02/MVLIM00026/index1.m3u8?app_type=web&userid=guest&movieid=2596
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Titiek Puspa: Warisan Abadi Sang Diva" tvg-logo="https://picture.dens.tv/poster/files/lands/1745227539_land.jpg",Titiek Puspa: Warisan Abadi Sang Diva
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDOP00048/index5.m3u8?app_type=web&userid=guest&movieid=9324
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Lintas Melawai Volume.2 : After Movie" tvg-logo="https://picture.dens.tv/poster/files/lands/1737621011_land.jpg",Lintas Melawai Volume.2 : After Movie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVLMI00004/index5.m3u8?app_type=web&userid=guest&movieid=9097
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Lintas Melawai Volume.2 : Hari Ketiga" tvg-logo="https://picture.dens.tv/poster/files/lands/1737621014_land.jpg",Lintas Melawai Volume.2 : Hari Ketiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVLMI00003/index5.m3u8?app_type=web&userid=guest&movieid=9096
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Lintas Melawai Volume.2 : Hari Kedua" tvg-logo="https://picture.dens.tv/poster/files/lands/1737621016_land.jpg",Lintas Melawai Volume.2 : Hari Kedua
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVLMI00002/index5.m3u8?app_type=web&userid=guest&movieid=9095
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Lintas Melawai Volume.2 : Hari Pertama" tvg-logo="https://picture.dens.tv/poster/files/lands/1737621383_land.jpg",Lintas Melawai Volume.2 : Hari Pertama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVLMI00001/index5.m3u8?app_type=web&userid=guest&movieid=9094
-#EXTINF:-1 group-title="VOD - Other" tvg-name="High School Fest 2024 : After Movie" tvg-logo="https://picture.dens.tv/poster/files/lands/1736824068_land.jpg",High School Fest 2024 : After Movie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVENT00002/index5.m3u8?app_type=web&userid=guest&movieid=9065
-#EXTINF:-1 group-title="VOD - Other" tvg-name="High School Fest 2024" tvg-logo="https://picture.dens.tv/poster/files/lands/1736824067_land.jpg",High School Fest 2024
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVENT00001/index5.m3u8?app_type=web&userid=guest&movieid=9064
-#EXTINF:-1 group-title="VOD - Other" tvg-name="All Performance @ Office Hour! | Rated : PG-13 (108 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1729496436_land.jpg",All Performance @ Office Hour! | Rated : PG-13 (108 Episodes)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVPOH00001/index5.m3u8?app_type=web&userid=guest&movieid=8805
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Office Hour | Rated: PG-13 (36 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1727240562_land.jpg",Office Hour | Rated: PG-13 (36 Episodes)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVOFH00001/index5.m3u8?app_type=web&userid=guest&movieid=8731
-#EXTINF:-1 group-title="VOD - Other" tvg-name="The Sounds Project Vol. 7 : After Movie" tvg-logo="https://picture.dens.tv/poster/files/lands/1726824680_land.jpg",The Sounds Project Vol. 7 : After Movie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVSNP00002/index5.m3u8?app_type=web&userid=guest&movieid=8721
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Sunset Di Kebun" tvg-logo="https://picture.dens.tv/poster/files/lands/1724906855_land.jpg",Sunset Di Kebun
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVSDK00001/index5.m3u8?app_type=web&userid=guest&movieid=8675
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Java Jazz Festival 2024 (4Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1721182988_land.jpg",Java Jazz Festival 2024 (4Episodes)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVJJZ00001/index5.m3u8?app_type=web&userid=guest&movieid=8534
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Jazz Gunung Bromo 2023 (3 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1700540262_land.jpg",Jazz Gunung Bromo 2023 (3 Episodes) | Rated : PG-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVJGM00009/index5.m3u8?app_type=web&userid=guest&movieid=7730
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Festival Koplo Indonesia 2023 : After Movie" tvg-logo="https://picture.dens.tv/poster/files/lands/1694600268_land.jpg",Festival Koplo Indonesia 2023 : After Movie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVFKL00003/index1.m3u8?app_type=web&userid=guest&movieid=7264
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Festival Koplo Indonesia 2023 : Day 2" tvg-logo="https://picture.dens.tv/poster/files/lands/1694600267_land.jpg",Festival Koplo Indonesia 2023 : Day 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVFKL00002/index1.m3u8?app_type=web&userid=guest&movieid=7263
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Festival Koplo Indonesia 2023 : Day 1" tvg-logo="https://picture.dens.tv/poster/files/lands/1694600266_land.jpg",Festival Koplo Indonesia 2023 : Day 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVFKL00001/index1.m3u8?app_type=web&userid=guest&movieid=7262
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Java Jazz Festival 2023 (4 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1687416579_land.jpg",Java Jazz Festival 2023 (4 Episodes)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVJGM00004/index1.m3u8?app_type=web&userid=guest&movieid=6789
-#EXTINF:-1 group-title="VOD - Other" tvg-name="The 45th Jazz Goes To Campus" tvg-logo="https://picture.dens.tv/poster/files/lands/1670573622_land.jpg",The 45th Jazz Goes To Campus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVEVC00001/index5.m3u8?app_type=web&userid=guest&movieid=6110
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Jazz Gunung Bromo 2022 (3 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1670301720_land.jpg",Jazz Gunung Bromo 2022 (3 Episodes)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVJGM00001/index5.m3u8?app_type=web&userid=guest&movieid=5726
-#EXTINF:-1 group-title="VOD - Other" tvg-name="BADAILOVECOUSTIC VOL.2 “CINTA, Hidup dan Wanita" tvg-logo="https://picture.dens.tv/poster/files/lands/Thumbnail-VOD-Main-Cover-Badai-Love-Coustic-Live-Full-Show-Landscape (5).jpg",BADAILOVECOUSTIC VOL.2 “CINTA, Hidup dan Wanita
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/BDS0000002/index5.m3u8?app_type=web&userid=guest&movieid=5417
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Live Cooking With Chef Leon : Berbukalah Dengan Yang Viral" tvg-logo="https://picture.dens.tv/poster/files/lands/1742871700_land.jpg",Live Cooking With Chef Leon : Berbukalah Dengan Yang Viral
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVLVC00001/index5.m3u8?app_type=web&userid=guest&movieid=9290
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Dialog Rasa (11 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1738897325_land.jpg",Dialog Rasa (11 Episodes) | Rated : PG-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDRS00001/index5.m3u8?app_type=web&userid=guest&movieid=9104
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Ngopi Cantik | Rated : PG-13 (6 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1728282774_land.jpg",Ngopi Cantik | Rated : PG-13 (6 Episodes)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVNCK00001/index5.m3u8?app_type=web&userid=guest&movieid=8743
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Foodsaurus (12 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1717476997_land.jpg",Foodsaurus (12 Episodes) | Rated : PG-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVFDS00001/index5.m3u8?app_type=web&userid=guest&movieid=8386
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Main Rasa (6 Episodes) | Rated : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1715067909_land.jpg",Main Rasa (6 Episodes) | Rated : PG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVMRS00001/index5.m3u8?app_type=web&userid=guest&movieid=8317
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Jelajah Halal (5 Episodes) | Rated : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1710743535_land.jpg",Jelajah Halal (5 Episodes) | Rated : PG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVJLH00001/index5.m3u8?app_type=web&userid=guest&movieid=8148
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Sweet Yummy (6 Episodes) | Rated : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1710318866_land.jpg",Sweet Yummy (6 Episodes) | Rated : PG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVSWY00001/index5.m3u8?app_type=web&userid=guest&movieid=8127
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Masak Bareng (4 Episodes) | Rated : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1707710590_land.jpg",Masak Bareng (4 Episodes) | Rated : PG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDFC00099/index5.m3u8?app_type=web&userid=guest&movieid=8048
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Secret Chef Season 2 | Rated : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1703139558_land.jpg",Secret Chef Season 2 | Rated : PG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDFC00085/index5.m3u8?app_type=web&userid=guest&movieid=7871
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Escape (5 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1731917527_land.jpg",Escape (5 Episodes) | Rated : PG-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVBTE00001/index1.m3u8?app_type=web&userid=guest&movieid=7362
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Masak Yuk! Bareng Chef Nanda (3 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1691982979_land.jpg",Masak Yuk! Bareng Chef Nanda (3 Episodes) | Rated : PG-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVLVC00001a/index5.m3u8?app_type=web&userid=guest&movieid=7036
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Meat and Great (18 Episodes) | Rated : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1683081729_land.jpg",Meat and Great (18 Episodes) | Rated : PG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVMNG00001/index1.m3u8?app_type=web&userid=guest&movieid=6614
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Halal Kuliner (15 Episodes) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1681722513_land.jpg",Halal Kuliner (15 Episodes) | Rated : PG-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVHLK00001/index1.m3u8?app_type=web&userid=guest&movieid=6542
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Taste Good (28 Episodes) | Rated : Su" tvg-logo="https://picture.dens.tv/poster/files/lands/1674202400_land.jpg",Taste Good (28 Episodes) | Rated : Su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVUPC00127/index5.m3u8?app_type=web&userid=guest&movieid=6150
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Pecah Rasa (12 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1670299759_land.jpg",Pecah Rasa (12 Episodes)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVPCR00002/index1.m3u8?app_type=web&userid=guest&movieid=5899
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Icip Skuy (18 Episodes)" tvg-logo="https://picture.dens.tv/poster/files/lands/1670301331_land.jpg",Icip Skuy (18 Episodes)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVICS00001/index5.m3u8?app_type=web&userid=guest&movieid=5432
-#EXTINF:-1 group-title="VOD - Other" tvg-name="Cooking Duck ( 21 Episodes) | Rated : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1670300577_land.jpg",Cooking Duck ( 21 Episodes) | Rated : PG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDFC00013/index1.m3u8?app_type=web&userid=guest&movieid=5415
 #EXTINF:-1 group-title="VOD - Other" tvg-name="Sinema Hits (18 Episode) | Rated : PG-13" tvg-logo="https://picture.dens.tv/poster/files/lands/1786510980_land.jpg",Sinema Hits (18 Episode) | Rated : PG-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -2187,66 +2247,6 @@ https://op-svod.dens.tv/04/MVDSP00011/index5.m3u8?app_type=web&userid=guest&movi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-svod.dens.tv/04/MVMSW00001/index5.m3u8?app_type=web&userid=guest&movieid=8679
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Mengapa 17 Agustus 1945 menjadi hari Kemerdekaan Indonesia?" tvg-logo="https://picture.dens.tv/poster/files/lands/Cover2@3x.jpg",Mengapa 17 Agustus 1945 menjadi hari Kemerdekaan Indonesia?
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDOP00161/index5.m3u8?app_type=web&userid=guest&movieid=9730
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Pacu Jalur: Warisan Budaya yang Mendunia" tvg-logo="https://picture.dens.tv/poster/files/lands/Cover Land@3x (3).jpg",Pacu Jalur: Warisan Budaya yang Mendunia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDOP00139/index5.m3u8?app_type=web&userid=guest&movieid=9614
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="LEGENDA MALAM SATU SURO DI WADUK GAJAH MUNGKUR" tvg-logo="https://picture.dens.tv/poster/files/lands/Cover@3x (12).jpg",LEGENDA MALAM SATU SURO DI WADUK GAJAH MUNGKUR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDOP00124/index5.m3u8?app_type=web&userid=guest&movieid=9592
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="DUEL SENGIT DI LAPANGAN: Sportivitas Shin Tae-Yong DAN Patrick Kluivert" tvg-logo="https://picture.dens.tv/poster/files/lands/sty@3x (1).jpg",DUEL SENGIT DI LAPANGAN: Sportivitas Shin Tae-Yong DAN Patrick Kluivert
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDOP00038/index5.m3u8?app_type=web&userid=guest&movieid=9303
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Fenomena Berburu Takjil" tvg-logo="https://picture.dens.tv/poster/files/lands/Cover LAND@3x.jpg",Fenomena Berburu Takjil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDOP00037/index5.m3u8?app_type=web&userid=guest&movieid=9298
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Legenda Si Pitung" tvg-logo="https://picture.dens.tv/poster/files/lands/Land@3x (2).jpg",Legenda Si Pitung
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDOP00021/index5.m3u8?app_type=web&userid=guest&movieid=9186
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Perjalanan Shin Tae-yong Melatih Timnas Indonesia" tvg-logo="https://picture.dens.tv/poster/files/lands/Land@3x (4).jpg",Perjalanan Shin Tae-yong Melatih Timnas Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDOP00013a/index5.m3u8?app_type=web&userid=guest&movieid=9092
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Perayaan Natal: Uniknya tradisi di Indonesia" tvg-logo="https://picture.dens.tv/poster/files/lands/Cover Land@3x (2).jpg",Perayaan Natal: Uniknya tradisi di Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDOP00012a/index5.m3u8?app_type=web&userid=guest&movieid=9016
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Thanksgiving di Indonesia: Harmoni dua tradisi" tvg-logo="https://picture.dens.tv/poster/files/lands/Land@3x (3).jpg",Thanksgiving di Indonesia: Harmoni dua tradisi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDOP00011a/index5.m3u8?app_type=web&userid=guest&movieid=8942
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Legenda Malin Kundang" tvg-logo="https://picture.dens.tv/poster/files/lands/Malin Land@3x.jpg",Legenda Malin Kundang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDOP00010a/index5.m3u8?app_type=web&userid=guest&movieid=8849
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Legenda Danau Toba" tvg-logo="https://picture.dens.tv/poster/files/lands/Toba Land@3x.jpg",Legenda Danau Toba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDOP00009a/index5.m3u8?app_type=web&userid=guest&movieid=8712
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="5 Fakta Menarik Pulau Komodo" tvg-logo="https://picture.dens.tv/poster/files/lands/Komodo Land@3x.jpg",5 Fakta Menarik Pulau Komodo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVDOP00008a/index5.m3u8?app_type=web&userid=guest&movieid=8711
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Sejarah Lagu Indonesia Raya" tvg-logo="https://picture.dens.tv/poster/files/lands/1 Land@3x.jpg",Sejarah Lagu Indonesia Raya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVAGS00003/index5.m3u8?app_type=web&userid=guest&movieid=8592
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Cerita Pak Hwie, kenang detik-detik Proklamasi" tvg-logo="https://picture.dens.tv/poster/files/lands/2 Land@3x.jpg",Cerita Pak Hwie, kenang detik-detik Proklamasi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVAGS00001/index5.m3u8?app_type=web&userid=guest&movieid=8591
-#EXTINF:-1 group-title="VOD - Cerita Indonesia" tvg-name="Sejarah perlombaan 17 Agustus" tvg-logo="https://picture.dens.tv/poster/files/lands/3 Land@3x.jpg",Sejarah perlombaan 17 Agustus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-svod.dens.tv/04/MVAGS00002/index5.m3u8?app_type=web&userid=guest&movieid=8590
 #EXTINF:-1 group-title="VOD - Other" tvg-name="Josh Holmes (2 Episodes) | Rated  : PG" tvg-logo="https://picture.dens.tv/poster/files/lands/1779436408_land.jpg",Josh Holmes (2 Episodes) | Rated  : PG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
