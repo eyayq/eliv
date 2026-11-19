@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.07 WIB 20/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.32 WIB 20/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munich Women | Server 1",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munich Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/wien-bayern-c1w/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munich Women | Server 2",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munich Women | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/wien-bayern-c1w.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-fc-women-c4ce1e.webp" group-title="[LIVE 00:45 WIB 20/11/26] Paris FC Women vs HB Koge 's Women | Server 1",[LIVE 00:45 WIB 20/11/26] Paris FC Women vs HB Koge 's Women | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/paris-koge-c1w/index.m3u8
@@ -8,94 +14,91 @@ https://hls.lauthaitv.cc/live/paris-koge-c1w/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/paris-koge-c1w.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-fc-women-c4ce1e.webp" group-title="[LIVE 00:45 WIB 20/11/26] Paris FC Women vs HB Koge 's Women | Server 3",[LIVE 00:45 WIB 20/11/26] Paris FC Women vs HB Koge 's Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=7b7addb0484e9adb84582453c4f9ba0f&txTime=6aff9c10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=67bff48d2cc1a47c7fdb5b66d79953c5&txTime=6affa1b0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-fc-women-c4ce1e.webp" group-title="[LIVE 00:45 WIB 20/11/26] Paris FC Women vs HB Koge 's Women | Server 4",[LIVE 00:45 WIB 20/11/26] Paris FC Women vs HB Koge 's Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=7a563d20ccfd3a121050353a465fe435&txTime=6aff9c10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=3e5c43b6fdf8e9b74e969de3c4ce2eab&txTime=6affa1b0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-fc-women-c4ce1e.webp" group-title="[LIVE 00:45 WIB 20/11/26] Paris FC Women vs HB Koge 's Women | Server 5",[LIVE 00:45 WIB 20/11/26] Paris FC Women vs HB Koge 's Women | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912138_lsd.m3u8?auth_key=1795118528-0-0-19a67b66046f93929bbc7bc992a8fcd7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-9912138_lsd.m3u8?auth_key=1795119968-0-0-cc5125fda5f134d330f1b094bebc5b90
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/paris-fc-women-c4ce1e.webp" group-title="[LIVE 00:45 WIB 20/11/26] Paris FC Women vs HB Koge 's Women | Server 6",[LIVE 00:45 WIB 20/11/26] Paris FC Women vs HB Koge 's Women | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1795118528-0-0-04e46c0bcae4dfd01114820c901d8b07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1795119968-0-0-c75c6f85c5b7f7e02ba79935101ceba2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 1",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912133_lsd.m3u8?auth_key=1795118528-0-0-0588e43db3f5a51d821d40a63a0245ed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-9912133_lsd.m3u8?auth_key=1795119968-0-0-534de7740dc60c2028cb6ba224bbff73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 2",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1795118528-0-0-0e7256175ad1206bd82153388d4af815
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1795119968-0-0-b9b72ea0ee8fc4886d5d63359d0a9080
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 3",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1795118528-0-0-eb2eb6335fe2c3a912c2ae42b3b33fbe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1795119968-0-0-62cc56167e663b151043b9548bd5b77c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 4",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1795118528-0-0-f8ec6652a6e149b3f594b72b4c7a1df4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1795119968-0-0-78d0398eb30f2b872bb96e1b29f9c318
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 5",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1795118528-0-0-e2221927c42e06e412ff4e0e4514af23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-9912142_lsd.m3u8?auth_key=1795119968-0-0-5ed2aa30c3f87b1773b2271089596a0a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 6",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1795118528-0-0-f577a05a38b41b0ad73cd3e5851275af
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1795119968-0-0-e4dd2dfa8924a05229c6cf6735ea7b3c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 7",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912142_lsd.m3u8?auth_key=1795118528-0-0-bd85523de2f2fe47c71728dde7773c97
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1795119968-0-0-9055f9193fba443ef18d47b35ad2ea6d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 8",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1795118528-0-0-588cf02235c4d6140874177bd8bc09e6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1795119968-0-0-20e89f0bd7eee6706fd770158c897310
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 9",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=74f629204b6ac232f05eaea188602f4c&txTime=6aff9c10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=2848448a542bd7b3fef75490f7308440&txTime=6affa1b0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 10",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=a62419aa3664669ff8eec50b0dfb304b&txTime=6aff9c10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=d405a3e1e1a30873ec79f7c687bba32a&txTime=6affa1b0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 11",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912136_lsd.m3u8?txSecret=88ce7e03529dcb09f6cc58e230fdff30&txTime=6aff9c10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niur.live/live/stream-9912136_lsd.m3u8?txSecret=b7beb5ab9070a4ea41a79107844f347b&txTime=6affa1b0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 12",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munchen Women | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=8666c43dc8c5534c3edec8ecfbfc6382&txTime=6aff9c10
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munich Women | Server 1",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munich Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/wien-bayern-c1w/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-wien-women-6c8bd5.webp" group-title="[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munich Women | Server 2",[LIVE 00:45 WIB 20/11/26] Austria Wien Women vs Bayern Munich Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/wien-bayern-c1w.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-fredericia-d06208.png" group-title="[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 1",[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/4c36e5fcbf10e173.m3u8?wsSecret=65531D28EDE1978F338DA3A76075666A&wsTime=1795114982
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-fredericia-d06208.png" group-title="[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 2",[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1795118528-0-0-3e34b9fe4597b5f1858eb386c83df36d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-fredericia-d06208.png" group-title="[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 3",[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1795118528-0-0-8bae065b89b7b86dcfd674f9fa7dd680
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-fredericia-d06208.png" group-title="[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 4",[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1795118528-0-0-b573659a8b1c3ef08e3a9dfa046d0f26
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-fredericia-d06208.png" group-title="[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 5",[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1795118528-0-0-71d22e060f907e329d0d6afb5836ce81
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=23d94a84c8eb1e8a262ae5dc43eae472&txTime=6affa1b0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zed-fc-9f44bb.webp" group-title="[LIVE 01:00 WIB 20/11/26] ZED FC vs Smouha SC | Server 1",[LIVE 01:00 WIB 20/11/26] ZED FC vs Smouha SC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/e32186e8a691a8fd.m3u8?wsSecret=58F4CC9C47A88CB874E07A092F8DC9F2&wsTime=1795114982
+https://play.lacrima2000.com/live/e32186e8a691a8fd.m3u8?wsSecret=9DCFE0FFF9FC89EB1C0D4C19A2314212&wsTime=1795116365
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zed-fc-9f44bb.webp" group-title="[LIVE 01:00 WIB 20/11/26] ZED FC vs Smouha SC | Server 2",[LIVE 01:00 WIB 20/11/26] ZED FC vs Smouha SC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-633416_lsd.m3u8?auth_key=1795118528-0-0-905faea27c252c39fadd52381b38ad7f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-633416_lsd.m3u8?auth_key=1795119968-0-0-116686d0bdf9c6cd30427a70d9347664
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zed-fc-9f44bb.webp" group-title="[LIVE 01:00 WIB 20/11/26] ZED FC vs Smouha SC | Server 3",[LIVE 01:00 WIB 20/11/26] ZED FC vs Smouha SC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1795118528-0-0-82283df3b7f9682f8bcc17d26f844de9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1795119968-0-0-84346932f84570f0d4c2cc4eac842b22
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zed-fc-9f44bb.webp" group-title="[LIVE 01:00 WIB 20/11/26] ZED FC vs Smouha SC | Server 4",[LIVE 01:00 WIB 20/11/26] ZED FC vs Smouha SC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1795118528-0-0-76a2634380ba9cc07c68a943358ac69e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-627318_lsd.m3u8?auth_key=1795119968-0-0-106c4aadee6bcbae0a592b7b9dd6c9f9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zed-fc-9f44bb.webp" group-title="[LIVE 01:00 WIB 20/11/26] ZED FC vs Smouha SC | Server 5",[LIVE 01:00 WIB 20/11/26] ZED FC vs Smouha SC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1795118528-0-0-5d53ce2b33a4f5861455dfcb75e42843
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1795119968-0-0-6dfef72633607a9b698256ccbe98b708
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-fredericia-d06208.png" group-title="[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 1",[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/4c36e5fcbf10e173.m3u8?wsSecret=31E26800FD16E6DC5FB030C779695D58&wsTime=1795116365
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-fredericia-d06208.png" group-title="[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 2",[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1795119968-0-0-93f60bf18f34ea96681f83c54011a76b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-fredericia-d06208.png" group-title="[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 3",[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1795119968-0-0-040fa74537225adcf058a52f4ef41d58
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-fredericia-d06208.png" group-title="[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 4",[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1795119968-0-0-0749334d3a0fcaaf4ab38491e4ee5f66
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-fredericia-d06208.png" group-title="[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 5",[LIVE 01:00 WIB 20/11/26] FC Fredericia vs Hillerod | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1795119968-0-0-73fdf93865945656d842c57d76153043
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ca-boston-river-755c9d.png" group-title="[LIVE 02:30 WIB 20/11/26] CA Boston River vs Deportivo Maldonado | Server 1",[LIVE 02:30 WIB 20/11/26] CA Boston River vs Deportivo Maldonado | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/e2bb8c6d52afe2c4.m3u8?wsSecret=2E5B51634ED606D95572AD8CED0D309A&wsTime=1795116365
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayern-münchen-faa45f.png" group-title="[LIVE 02:30 WIB 21/11/26] Bayern München vs FC Köln | Server 1",[LIVE 02:30 WIB 21/11/26] Bayern München vs FC Köln | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bayern-münchen-faa45f.png" group-title="[LIVE 02:30 WIB 21/11/26] Bayern München vs FC Köln | Server 2",[LIVE 02:30 WIB 21/11/26] Bayern München vs FC Köln | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/troyes-c75053.webp" group-title="[LIVE 02:45 WIB 21/11/26] Troyes vs Le Havre | Server 1",[LIVE 02:45 WIB 21/11/26] Troyes vs Le Havre | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
