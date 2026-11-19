@@ -1,32 +1,32 @@
 #EXTM3U
-# Generated Thu Nov 19 13:41:15 2026
+# Generated Thu Nov 19 13:42:44 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 19-11-2026 20:40:55 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 19-11-2026 20:42:25 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Preah Khan Reach Svay Rieng FC😈 [🆚] 😈Port FC [LIVE]😈📁
-https://tv.streamhy.com/live/5007696.m3u8?expire=1795107368&sign=2412a9e1f3795ee36840eecf0ea3bddb
-#EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Preah Khan Reach Svay Rieng FC😈 [🆚] 😈Port FC [LIVE]😈📁
-https://tv.streamhy.com/live/5009601.m3u8?expire=1795107954&sign=b7bf63b2dfed39fd23f99360f63e63f5
 #EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Preah Khan Reach Svay Rieng FC😈 [🆚] 😈Port FC [LIVE]😈📁
 https://tv.streamhy.com/live/5007266.m3u8?expire=1795109973&sign=8699e924ea143151af5a83cd46415cbe
 #EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Preah Khan Reach Svay Rieng FC😈 [🆚] 😈Port FC [LIVE]😈📁
+https://tv.streamhy.com/live/5007696.m3u8?expire=1795107368&sign=2412a9e1f3795ee36840eecf0ea3bddb
+#EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Preah Khan Reach Svay Rieng FC😈 [🆚] 😈Port FC [LIVE]😈📁
 https://tv.streamhy.com/live/5007429.m3u8?expire=1795108570&sign=734da02c966d3f6dcd1ca5662a97e97d
+#EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Preah Khan Reach Svay Rieng FC😈 [🆚] 😈Port FC [LIVE]😈📁
+https://tv.streamhy.com/live/5009601.m3u8?expire=1795107954&sign=b7bf63b2dfed39fd23f99360f63e63f5
 #EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Persib Bandung😈 [🆚] 😈Shan United [LIVE]😈📁
 https://tv.streamhy.com/live/5010298.m3u8?expire=1795109951&sign=adc9c00348ba130b9c93d8a02618d92c
 #EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Persib Bandung😈 [🆚] 😈Shan United [LIVE]😈📁
 https://tv.streamhy.com/live/5010507.m3u8?expire=1795108213&sign=92670a5967558493b26c39574d972f5a
 #EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Persib Bandung😈 [🆚] 😈Shan United [LIVE]😈📁
-https://tv.streamhy.com/live/5009850.m3u8?expire=1795107265&sign=9ecc7423a89700fe62a1900c56397ce9
-#EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Persib Bandung😈 [🆚] 😈Shan United [LIVE]😈📁
 https://tv.streamhy.com/live/5008979.m3u8?expire=1795109292&sign=dc29c93116fdc0c58d1093aae94c6011
-#EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Cong An Ha Noi FC😈 [🆚] 😈Johor Darul Ta'zim FC [LIVE]😈📁
-https://tv.streamhy.com/live/5010508.m3u8?expire=1795107836&sign=746b53dbf89ed71a1479f39593c5beb3
+#EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Persib Bandung😈 [🆚] 😈Shan United [LIVE]😈📁
+https://tv.streamhy.com/live/5009850.m3u8?expire=1795107265&sign=9ecc7423a89700fe62a1900c56397ce9
 #EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Cong An Ha Noi FC😈 [🆚] 😈Johor Darul Ta'zim FC [LIVE]😈📁
 https://tv.streamhy.com/live/5009621.m3u8?expire=1795107595&sign=ffe21136b72e78903719a1c01f31ba49
 #EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Cong An Ha Noi FC😈 [🆚] 😈Johor Darul Ta'zim FC [LIVE]😈📁
 https://tv.streamhy.com/live/5005343.m3u8?expire=1795107686&sign=dc115cf101f389d35e024529cfdecdaa
 #EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Cong An Ha Noi FC😈 [🆚] 😈Johor Darul Ta'zim FC [LIVE]😈📁
 https://tv.streamhy.com/live/5009620.m3u8?expire=1795107975&sign=abf67f04813b4dea5470dfd93e23f13b
+#EXTINF:-1 group-title="📁😈 Asean Club Championship Shopee Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",📁😈Cong An Ha Noi FC😈 [🆚] 😈Johor Darul Ta'zim FC [LIVE]😈📁
+https://tv.streamhy.com/live/5010508.m3u8?expire=1795107836&sign=746b53dbf89ed71a1479f39593c5beb3
 #EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Termez Surkhon😈 [🆚] 😈FK Andijon [LIVE]😈📁
 https://tv.streamhy.com/live/5009619.m3u8?expire=1795109466&sign=9897e097fa7ef046bdc8fb737dee2479
 #EXTINF:-1 group-title="📁😈 FIFA U17 World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8f1cede667dd40babe801d43821420aa.png",📁😈France U17😈 [🆚] 😈Haiti U17 [LIVE]😈📁
@@ -35,41 +35,41 @@ https://tv.streamhy.com/live/5007419.m3u8?expire=1795106829&sign=5254a5d1c449dfc
 https://tv.streamhy.com/live/5006865.m3u8?expire=1795109696&sign=e36b4e332191dbd9d61b85e6a933681f
 #EXTINF:-1 group-title="📁😈 FIFA U17 World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8f1cede667dd40babe801d43821420aa.png",📁😈South Korea U17😈 [🆚] 😈Uganda U17 [LIVE]😈📁
 https://tv.streamhy.com/live/5006875.m3u8?expire=1795109269&sign=ddf8ce57b61a32245ad118fda42b0fb7
-#EXTINF:-1 group-title="📁😈 Egyptian Scores Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6052a7371f24baf0cc76c335251a065d.png",📁😈El Mokawloon El Arab😈 [🆚] 😈Olympic El Qanal [78m]😈📁
+#EXTINF:-1 group-title="📁😈 Egyptian Scores Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6052a7371f24baf0cc76c335251a065d.png",📁😈El Mokawloon El Arab😈 [🆚] 😈Olympic El Qanal [77m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4669497
-#EXTINF:-1 group-title="📁😈 FIFA U17 World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8f1cede667dd40babe801d43821420aa.png",📁😈Qatar U17😈 [🆚] 😈Panama U17 [108m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA U17 World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8f1cede667dd40babe801d43821420aa.png",📁😈Qatar U17😈 [🆚] 😈Panama U17 [107m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4544792
-#EXTINF:-1 group-title="📁😈 Qatar Stars League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1012858622ebf597d520c00c1c278e58.png",📁😈Al-Ahli Sports Club(Qatar)😈 [🆚] 😈Al-Shamal Sports Club [108m]😈📁
+#EXTINF:-1 group-title="📁😈 Qatar Stars League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1012858622ebf597d520c00c1c278e58.png",📁😈Al-Ahli Sports Club(Qatar)😈 [🆚] 😈Al-Shamal Sports Club [107m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4591265
-#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Austria Wien Women😈 [🆚] 😈Bayern Munchen Women [243m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Austria Wien Women😈 [🆚] 😈Bayern Munchen Women [242m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4646545
-#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Paris FC Women😈 [🆚] 😈HB Koge 's Women [243m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Paris FC Women😈 [🆚] 😈HB Koge 's Women [242m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4646546
-#EXTINF:-1 group-title="📁😈 Copa de la Reina Women 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8a045a622f0178721a479afcff37affa.png",📁😈AS Celtas Women😈 [🆚] 😈RCD Espanyol Women [258m]😈📁
+#EXTINF:-1 group-title="📁😈 Copa de la Reina Women 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8a045a622f0178721a479afcff37affa.png",📁😈AS Celtas Women😈 [🆚] 😈RCD Espanyol Women [257m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4663148
-#EXTINF:-1 group-title="📁😈 Egyptian Scores Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6052a7371f24baf0cc76c335251a065d.png",📁😈ZED FC😈 [🆚] 😈Smouha SC [258m]😈📁
+#EXTINF:-1 group-title="📁😈 Egyptian Scores Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6052a7371f24baf0cc76c335251a065d.png",📁😈ZED FC😈 [🆚] 😈Smouha SC [257m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4669994
-#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Arsenal Women😈 [🆚] 😈OL Lyonnes Women [378m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Arsenal Women😈 [🆚] 😈OL Lyonnes Women [377m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4646547
-#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Barcelona Women😈 [🆚] 😈Servette Women [378m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Barcelona Women😈 [🆚] 😈Servette Women [377m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4646548
-#EXTINF:-1 group-title="📁😈 Australia W-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/16e09c13832d48afbb8a542a8628ed1c.png",📁😈WS Wanderers Women😈 [🆚] 😈Wellington Phoenix Women [968m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia W-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/16e09c13832d48afbb8a542a8628ed1c.png",📁😈WS Wanderers Women😈 [🆚] 😈Wellington Phoenix Women [967m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4625694
-#EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈Garudayaksa FC😈 [🆚] 😈Madura United [1128m]😈📁
+#EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈Garudayaksa FC😈 [🆚] 😈Madura United [1127m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4614417
-#EXTINF:-1 group-title="📁😈 AFC U17 Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5c287db45efa824791e1deaaf3206832.png",📁😈Indonesia U17😈 [🆚] 😈Myanmar U17 [1128m]😈📁
+#EXTINF:-1 group-title="📁😈 AFC U17 Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5c287db45efa824791e1deaaf3206832.png",📁😈Indonesia U17😈 [🆚] 😈Myanmar U17 [1127m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4638934
-#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/aad52ee6d650628d65f1cc2b5cda10ab.png",📁😈Kashima Antlers😈 [🆚] 😈Shimizu S-Pulse [1218m]😈📁
+#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/aad52ee6d650628d65f1cc2b5cda10ab.png",📁😈Kashima Antlers😈 [🆚] 😈Shimizu S-Pulse [1217m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4555349
-#EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈Dewa United FC😈 [🆚] 😈Persita Tangerang [1338m]😈📁
+#EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈Dewa United FC😈 [🆚] 😈Persita Tangerang [1337m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4614419
-#EXTINF:-1 group-title="📁😈 Indonesian Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/06565a2672fc1f85be8c44da526c3820.png",📁😈Persiba Balikpapan😈 [🆚] 😈Barito Putera [1338m]😈📁
+#EXTINF:-1 group-title="📁😈 Indonesian Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/06565a2672fc1f85be8c44da526c3820.png",📁😈Persiba Balikpapan😈 [🆚] 😈Barito Putera [1337m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4641279
-#EXTINF:-1 group-title="📁😈 UAE U23 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a50090c1d2f05973f5139270b06b4465.png",📁😈Hatta Club U23😈 [🆚] 😈Al Wasl SC U23 [1383m]😈📁
+#EXTINF:-1 group-title="📁😈 UAE U23 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a50090c1d2f05973f5139270b06b4465.png",📁😈Hatta Club U23😈 [🆚] 😈Al Wasl SC U23 [1382m]😈📁
 https://tv.streamhy.com/live/5007611.m3u8?expire=1795109759&sign=679a65959e816b1d71715b997c76e094
-#EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Navbahor Namangan😈 [🆚] 😈Neftchi Fergana [1428m]😈📁
+#EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Navbahor Namangan😈 [🆚] 😈Neftchi Fergana [1427m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4488200
-#EXTINF:-1 group-title="📁😈 Indian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png",📁😈Bengaluru FC😈 [🆚] 😈Mumbai City FC [1458m]😈📁
+#EXTINF:-1 group-title="📁😈 Indian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png",📁😈Bengaluru FC😈 [🆚] 😈Mumbai City FC [1457m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4655869
-#EXTINF:-1 group-title="📁😈 FIFA U17 World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8f1cede667dd40babe801d43821420aa.png",📁😈Italy U17😈 [🆚] 😈Jamaica U17 [1518m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA U17 World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8f1cede667dd40babe801d43821420aa.png",📁😈Italy U17😈 [🆚] 😈Jamaica U17 [1517m]😈📁
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4544786
