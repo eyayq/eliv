@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [14.55 WIB 20/11/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [15.13 WIB 20/11/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="1632127" tvg-logo="https://media.chuoichientv.net/media/20251115_111532_af6fdb08.png" group-title="[LIVE 12:50 WIB 20/11/26] Western Sydney Wanderers W vs Wellington Phoenix W",[LIVE 12:50 WIB 20/11/26] Western Sydney Wanderers W vs Wellington Phoenix W (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -11,83 +11,123 @@ https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1622836" tvg-logo="https://media.chuoichientv.net/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 0j 34m 15:30 WIB 20/11/26] PSS Sleman vs Arema FC",[UPCOMING 0j 34m 15:30 WIB 20/11/26] PSS Sleman vs Arema FC (HD1)
+#EXTINF:-1 tvg-id="1622836" tvg-logo="https://media.chuoichientv.net/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 0j 16m 15:30 WIB 20/11/26] PSS Sleman vs Arema FC",[UPCOMING 0j 16m 15:30 WIB 20/11/26] PSS Sleman vs Arema FC (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="1622836" tvg-logo="https://media.chuoichientv.net/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 0j 34m 15:30 WIB 20/11/26] PSS Sleman vs Arema FC",[UPCOMING 0j 34m 15:30 WIB 20/11/26] PSS Sleman vs Arema FC (HD2)
+#EXTINF:-1 tvg-id="1622836" tvg-logo="https://media.chuoichientv.net/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 0j 16m 15:30 WIB 20/11/26] PSS Sleman vs Arema FC",[UPCOMING 0j 16m 15:30 WIB 20/11/26] PSS Sleman vs Arema FC (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="1593704" tvg-logo="https://media.chuoichientv.net/media/20251115_115449_831c0031.png" group-title="[UPCOMING 0j 44m 15:40 WIB 20/11/26] Western Sydney Wanderers vs Adelaide United",[UPCOMING 0j 44m 15:40 WIB 20/11/26] Western Sydney Wanderers vs Adelaide United (HD1)
+#EXTINF:-1 tvg-id="1593704" tvg-logo="https://media.chuoichientv.net/media/20251115_115449_831c0031.png" group-title="[UPCOMING 0j 26m 15:40 WIB 20/11/26] Western Sydney Wanderers vs Adelaide United",[UPCOMING 0j 26m 15:40 WIB 20/11/26] Western Sydney Wanderers vs Adelaide United (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="1593704" tvg-logo="https://media.chuoichientv.net/media/20251115_115449_831c0031.png" group-title="[UPCOMING 0j 44m 15:40 WIB 20/11/26] Western Sydney Wanderers vs Adelaide United",[UPCOMING 0j 44m 15:40 WIB 20/11/26] Western Sydney Wanderers vs Adelaide United (HD2)
+#EXTINF:-1 tvg-id="1593704" tvg-logo="https://media.chuoichientv.net/media/20251115_115449_831c0031.png" group-title="[UPCOMING 0j 26m 15:40 WIB 20/11/26] Western Sydney Wanderers vs Adelaide United",[UPCOMING 0j 26m 15:40 WIB 20/11/26] Western Sydney Wanderers vs Adelaide United (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="1601152" tvg-logo="https://media.chuoichientv.net/media/20251115_112807_cc897047.png" group-title="[UPCOMING 0j 49m 15:45 WIB 20/11/26] Negeri Sembilan vs Kuching FA",[UPCOMING 0j 49m 15:45 WIB 20/11/26] Negeri Sembilan vs Kuching FA (HD1)
+#EXTINF:-1 tvg-id="1601152" tvg-logo="https://media.chuoichientv.net/media/20251115_112807_cc897047.png" group-title="[UPCOMING 0j 31m 15:45 WIB 20/11/26] Negeri Sembilan vs Kuching FA",[UPCOMING 0j 31m 15:45 WIB 20/11/26] Negeri Sembilan vs Kuching FA (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="1601152" tvg-logo="https://media.chuoichientv.net/media/20251115_112807_cc897047.png" group-title="[UPCOMING 0j 49m 15:45 WIB 20/11/26] Negeri Sembilan vs Kuching FA",[UPCOMING 0j 49m 15:45 WIB 20/11/26] Negeri Sembilan vs Kuching FA (HD2)
+#EXTINF:-1 tvg-id="1601152" tvg-logo="https://media.chuoichientv.net/media/20251115_112807_cc897047.png" group-title="[UPCOMING 0j 31m 15:45 WIB 20/11/26] Negeri Sembilan vs Kuching FA",[UPCOMING 0j 31m 15:45 WIB 20/11/26] Negeri Sembilan vs Kuching FA (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1633935" tvg-logo="https://media.chuoichientv.net/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 2j 4m 17:00 WIB 20/11/26] Thanh Hóa vs Hoang Anh Gia Lai",[UPCOMING 2j 4m 17:00 WIB 20/11/26] Thanh Hóa vs Hoang Anh Gia Lai (HD1)
+#EXTINF:-1 tvg-id="1633935" tvg-logo="https://media.chuoichientv.net/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 1j 46m 17:00 WIB 20/11/26] Thanh Hóa vs Hoang Anh Gia Lai",[UPCOMING 1j 46m 17:00 WIB 20/11/26] Thanh Hóa vs Hoang Anh Gia Lai (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="1633935" tvg-logo="https://media.chuoichientv.net/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 2j 4m 17:00 WIB 20/11/26] Thanh Hóa vs Hoang Anh Gia Lai",[UPCOMING 2j 4m 17:00 WIB 20/11/26] Thanh Hóa vs Hoang Anh Gia Lai (HD2)
+#EXTINF:-1 tvg-id="1633935" tvg-logo="https://media.chuoichientv.net/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 1j 46m 17:00 WIB 20/11/26] Thanh Hóa vs Hoang Anh Gia Lai",[UPCOMING 1j 46m 17:00 WIB 20/11/26] Thanh Hóa vs Hoang Anh Gia Lai (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8
-#EXTINF:-1 tvg-id="1635011" tvg-logo="https://media.chuoichientv.net/media/20251115_115933_f82a4e9f.png" group-title="[UPCOMING 2j 4m 17:00 WIB 20/11/26] TP. Hồ Chí Minh vs Thai Nguyen",[UPCOMING 2j 4m 17:00 WIB 20/11/26] TP. Hồ Chí Minh vs Thai Nguyen (HD1)
+#EXTINF:-1 tvg-id="1635011" tvg-logo="https://media.chuoichientv.net/media/20251115_115933_f82a4e9f.png" group-title="[UPCOMING 1j 46m 17:00 WIB 20/11/26] TP. Hồ Chí Minh vs Thai Nguyen",[UPCOMING 1j 46m 17:00 WIB 20/11/26] TP. Hồ Chí Minh vs Thai Nguyen (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="1635011" tvg-logo="https://media.chuoichientv.net/media/20251115_115933_f82a4e9f.png" group-title="[UPCOMING 2j 4m 17:00 WIB 20/11/26] TP. Hồ Chí Minh vs Thai Nguyen",[UPCOMING 2j 4m 17:00 WIB 20/11/26] TP. Hồ Chí Minh vs Thai Nguyen (HD2)
+#EXTINF:-1 tvg-id="1635011" tvg-logo="https://media.chuoichientv.net/media/20251115_115933_f82a4e9f.png" group-title="[UPCOMING 1j 46m 17:00 WIB 20/11/26] TP. Hồ Chí Minh vs Thai Nguyen",[UPCOMING 1j 46m 17:00 WIB 20/11/26] TP. Hồ Chí Minh vs Thai Nguyen (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="1633936" tvg-logo="https://media.chuoichientv.net/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 4j 19m 19:15 WIB 20/11/26] Viettel vs Song Lam Nghe An",[UPCOMING 4j 19m 19:15 WIB 20/11/26] Viettel vs Song Lam Nghe An (HD1)
+#EXTINF:-1 tvg-id="1633936" tvg-logo="https://media.chuoichientv.net/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 4j 1m 19:15 WIB 20/11/26] Viettel vs Song Lam Nghe An",[UPCOMING 4j 1m 19:15 WIB 20/11/26] Viettel vs Song Lam Nghe An (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="1633936" tvg-logo="https://media.chuoichientv.net/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 4j 19m 19:15 WIB 20/11/26] Viettel vs Song Lam Nghe An",[UPCOMING 4j 19m 19:15 WIB 20/11/26] Viettel vs Song Lam Nghe An (HD2)
+#EXTINF:-1 tvg-id="1633936" tvg-logo="https://media.chuoichientv.net/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 4j 1m 19:15 WIB 20/11/26] Viettel vs Song Lam Nghe An",[UPCOMING 4j 1m 19:15 WIB 20/11/26] Viettel vs Song Lam Nghe An (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1546160" tvg-logo="https://media.api-sports.io/football/leagues/587.png" group-title="[UPCOMING 6j 4m 21:00 WIB 20/11/26] Spain U17 vs China PR U17",[UPCOMING 6j 4m 21:00 WIB 20/11/26] Spain U17 vs China PR U17 (HD1)
+#EXTINF:-1 tvg-id="1546160" tvg-logo="https://media.api-sports.io/football/leagues/587.png" group-title="[UPCOMING 5j 46m 21:00 WIB 20/11/26] Spain U17 vs China PR U17",[UPCOMING 5j 46m 21:00 WIB 20/11/26] Spain U17 vs China PR U17 (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="1546160" tvg-logo="https://media.api-sports.io/football/leagues/587.png" group-title="[UPCOMING 6j 4m 21:00 WIB 20/11/26] Spain U17 vs China PR U17",[UPCOMING 6j 4m 21:00 WIB 20/11/26] Spain U17 vs China PR U17 (HD2)
+#EXTINF:-1 tvg-id="1546160" tvg-logo="https://media.api-sports.io/football/leagues/587.png" group-title="[UPCOMING 5j 46m 21:00 WIB 20/11/26] Spain U17 vs China PR U17",[UPCOMING 5j 46m 21:00 WIB 20/11/26] Spain U17 vs China PR U17 (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1546151" tvg-logo="https://media.api-sports.io/football/leagues/587.png" group-title="[UPCOMING 8j 4m 23:00 WIB 20/11/26] Côte d'Ivoire U17 vs Uzbekistan U17",[UPCOMING 8j 4m 23:00 WIB 20/11/26] Côte d'Ivoire U17 vs Uzbekistan U17 (HD1)
+#EXTINF:-1 tvg-id="1546151" tvg-logo="https://media.api-sports.io/football/leagues/587.png" group-title="[UPCOMING 7j 46m 23:00 WIB 20/11/26] Côte d'Ivoire U17 vs Uzbekistan U17",[UPCOMING 7j 46m 23:00 WIB 20/11/26] Côte d'Ivoire U17 vs Uzbekistan U17 (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
-#EXTINF:-1 tvg-id="1546151" tvg-logo="https://media.api-sports.io/football/leagues/587.png" group-title="[UPCOMING 8j 4m 23:00 WIB 20/11/26] Côte d'Ivoire U17 vs Uzbekistan U17",[UPCOMING 8j 4m 23:00 WIB 20/11/26] Côte d'Ivoire U17 vs Uzbekistan U17 (HD2)
+#EXTINF:-1 tvg-id="1546151" tvg-logo="https://media.api-sports.io/football/leagues/587.png" group-title="[UPCOMING 7j 46m 23:00 WIB 20/11/26] Côte d'Ivoire U17 vs Uzbekistan U17",[UPCOMING 7j 46m 23:00 WIB 20/11/26] Côte d'Ivoire U17 vs Uzbekistan U17 (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8
+#EXTINF:-1 tvg-id="999637" tvg-logo="https://media.chuoichientv.net/media/20260508_185415_1b4dab26.png" group-title="[UPCOMING 19j 51m 11:05 WIB 21/11/26] Gunma Bank Green Wings W vs Body Queenseis W",[UPCOMING 19j 51m 11:05 WIB 21/11/26] Gunma Bank Green Wings W vs Body Queenseis W (SVR-BHNS0)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
+#EXTINF:-1 tvg-id="992374" tvg-logo="https://media.chuoichientv.net/media/20260508_185415_1b4dab26.png" group-title="[UPCOMING 19j 51m 11:05 WIB 21/11/26] Toray Arrows W vs Okayama Seagulls W",[UPCOMING 19j 51m 11:05 WIB 21/11/26] Toray Arrows W vs Okayama Seagulls W (SVR-BHNS0)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
+#EXTINF:-1 tvg-id="994534" tvg-logo="https://media.chuoichientv.net/media/20260508_185415_1b4dab26.png" group-title="[UPCOMING 19j 51m 11:05 WIB 22/11/26] Gunma Bank Green Wings W vs Body Queenseis W",[UPCOMING 19j 51m 11:05 WIB 22/11/26] Gunma Bank Green Wings W vs Body Queenseis W (SVR-BHNS0)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
+#EXTINF:-1 tvg-id="995718" tvg-logo="https://media.chuoichientv.net/media/20260508_185415_1b4dab26.png" group-title="[UPCOMING 19j 51m 11:05 WIB 22/11/26] Toray Arrows W vs Okayama Seagulls W",[UPCOMING 19j 51m 11:05 WIB 22/11/26] Toray Arrows W vs Okayama Seagulls W (SVR-BHNS0)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
+#EXTINF:-1 tvg-id="999637" tvg-logo="https://media.chuoichientv.net/media/20260508_185415_1b4dab26.png" group-title="[UPCOMING 19j 51m 11:05 WIB 21/11/26] Gunma Bank Green Wings W vs Body Queenseis W",[UPCOMING 19j 51m 11:05 WIB 21/11/26] Gunma Bank Green Wings W vs Body Queenseis W (SVR-BHNS0)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
+#EXTINF:-1 tvg-id="992374" tvg-logo="https://media.chuoichientv.net/media/20260508_185415_1b4dab26.png" group-title="[UPCOMING 19j 51m 11:05 WIB 21/11/26] Toray Arrows W vs Okayama Seagulls W",[UPCOMING 19j 51m 11:05 WIB 21/11/26] Toray Arrows W vs Okayama Seagulls W (SVR-BHNS0)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
+#EXTINF:-1 tvg-id="994534" tvg-logo="https://media.chuoichientv.net/media/20260508_185415_1b4dab26.png" group-title="[UPCOMING 19j 51m 11:05 WIB 22/11/26] Gunma Bank Green Wings W vs Body Queenseis W",[UPCOMING 19j 51m 11:05 WIB 22/11/26] Gunma Bank Green Wings W vs Body Queenseis W (SVR-BHNS0)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
+#EXTINF:-1 tvg-id="995718" tvg-logo="https://media.chuoichientv.net/media/20260508_185415_1b4dab26.png" group-title="[UPCOMING 19j 51m 11:05 WIB 22/11/26] Toray Arrows W vs Okayama Seagulls W",[UPCOMING 19j 51m 11:05 WIB 22/11/26] Toray Arrows W vs Okayama Seagulls W (SVR-BHNS0)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
