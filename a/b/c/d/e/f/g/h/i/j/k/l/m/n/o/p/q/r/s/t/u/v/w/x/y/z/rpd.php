@@ -1,33 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [20.14 WIB 20/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [20.32 WIB 20/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-okmk-olmaliq-38f6cd.webp" group-title="[LIVE 18:30 WIB 20/11/26] FC OKMK Olmaliq vs Qizilqum Zarafshon | Server 1",[LIVE 18:30 WIB 20/11/26] FC OKMK Olmaliq vs Qizilqum Zarafshon | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae0c3b270a52b8b4e391ce0.m3u8?auth_key=1795201681-0-0-f51c8ca24f21864dccbdae745c64dbb3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-jurong-33a0ab.webp" group-title="[LIVE 18:30 WIB 20/11/26] FC Jurong vs Balestier Khalsa FC | Server 1",[LIVE 18:30 WIB 20/11/26] FC Jurong vs Balestier Khalsa FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6adf72047cb66c539ad1badf.m3u8?auth_key=1795201741-0-0-e64c71739c2b7456cdee592e9c77dfb5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-jurong-33a0ab.webp" group-title="[LIVE 18:30 WIB 20/11/26] FC Jurong vs Balestier Khalsa FC | Server 2",[LIVE 18:30 WIB 20/11/26] FC Jurong vs Balestier Khalsa FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/3fe78ad4b76228b9.m3u8?wsSecret=248CC4F4C82224711E4D14A331BD7257&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/east-bengal-fc-e3ced4.webp" group-title="[LIVE 18:30 WIB 20/11/26] East Bengal FC vs Sporting Club Delhi | Server 1",[LIVE 18:30 WIB 20/11/26] East Bengal FC vs Sporting Club Delhi | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6adf72047cb66c539ad1bade.m3u8?auth_key=1795201741-0-0-aeabff3369b69bb350487d8574513e84
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/east-bengal-fc-e3ced4.webp" group-title="[LIVE 18:30 WIB 20/11/26] East Bengal FC vs Sporting Club Delhi | Server 2",[LIVE 18:30 WIB 20/11/26] East Bengal FC vs Sporting Club Delhi | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/54ed45df70a3ca5c.m3u8?wsSecret=34F36CAA861DBD0655D1D77A0A02D43D&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/east-bengal-fc-e3ced4.webp" group-title="[LIVE 18:30 WIB 20/11/26] East Bengal FC vs Sporting Club Delhi | Server 3",[LIVE 18:30 WIB 20/11/26] East Bengal FC vs Sporting Club Delhi | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1795183689-0-0-88f0ec7626b9c73bf3697027663382f0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/east-bengal-fc-e3ced4.webp" group-title="[LIVE 18:30 WIB 20/11/26] East Bengal FC vs Sporting Club Delhi | Server 4",[LIVE 18:30 WIB 20/11/26] East Bengal FC vs Sporting Club Delhi | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1795183689-0-0-e75a0112daff2149ed93f01028b5e602
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/east-bengal-fc-e3ced4.webp" group-title="[LIVE 18:30 WIB 20/11/26] East Bengal FC vs Sporting Club Delhi | Server 5",[LIVE 18:30 WIB 20/11/26] East Bengal FC vs Sporting Club Delhi | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-623743_lsd.m3u8?auth_key=1795183689-0-0-f9e43a5e0738b789f7571d507b7e6ce6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/east-bengal-fc-e3ced4.webp" group-title="[LIVE 18:30 WIB 20/11/26] East Bengal FC vs Sporting Club Delhi | Server 6",[LIVE 18:30 WIB 20/11/26] East Bengal FC vs Sporting Club Delhi | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1795183689-0-0-fcea509fe3244591c8a106aa8d7bf1f8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/beijing-guoan-7f0582.webp" group-title="[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 1",[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/beijing-shanghai-chnfa/index.m3u8
@@ -35,134 +8,92 @@ https://hls.lauthaitv.cc/live/beijing-shanghai-chnfa/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/beijing-shanghai-chnfa.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/beijing-guoan-7f0582.webp" group-title="[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 3",[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/7439a23993ff14f7.m3u8?wsSecret=0ED91D0E21D1957F48A211797F83123F&wsTime=1795180128
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1795184949-0-0-a9afa386d0b8296647b67d4ca76cbf1d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/beijing-guoan-7f0582.webp" group-title="[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 4",[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627718_lsd.m3u8?auth_key=1795183689-0-0-d6d3aef097d0ac09e2a891fa105d2aa9
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1795184949-0-0-2bfd68c9b8cb1a1f65ec6cd2842442db
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/beijing-guoan-7f0582.webp" group-title="[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 5",[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1795183689-0-0-dcfa89916008b6cd83215d1425356ad3
+https://pull.niues.live/live/stream-9912127_lsd.m3u8?auth_key=1795185009-0-0-8111d11fee716675eb613689f1775f17
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/beijing-guoan-7f0582.webp" group-title="[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 6",[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912127_lsd.m3u8?auth_key=1795183688-0-0-f416bb9435de0672fe98e854c36ceaff
+https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1795185009-0-0-c17c0c801c00168aff82698bb5081425
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/beijing-guoan-7f0582.webp" group-title="[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 7",[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1795183688-0-0-4c7159633832aa077d616db1c5f2e7f9
+https://pull.niues.live/live/stream-9912142_lsd.m3u8?auth_key=1795185009-0-0-c0bbe166f09883c5df4234a0dc054bda
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/beijing-guoan-7f0582.webp" group-title="[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 8",[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912140_lsd.m3u8?txSecret=047fad0a851536029c3e352be3b6c195&txTime=6b009a98
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1795185009-0-0-919d390b10ba7116e8e41dbf699a94a9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/beijing-guoan-7f0582.webp" group-title="[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 9",[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=033918d05967dae15cab7a07e11958a2&txTime=6b009a98
+https://pull.niur.live/live/stream-9912140_lsd.m3u8?txSecret=b4234d79f173054fc002ff48749a5b39&txTime=6b009fc1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/beijing-guoan-7f0582.webp" group-title="[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 10",[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912142_lsd.m3u8?auth_key=1795183689-0-0-ce00cfdf555cd0b7e55ce3c9cc801200
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=1e0dedaa90887f219a648c494a3acae3&txTime=6b009fc1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/beijing-guoan-7f0582.webp" group-title="[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 11",[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1795183689-0-0-22e468040fab37347a2c9638c4497313
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1795185009-0-0-6c2059fc6f59e25080a1ade3639d724e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/beijing-guoan-7f0582.webp" group-title="[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 12",[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1795183748-0-0-f0aed41a295a6de45986f88d060b8dc0
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1795185009-0-0-761acb519a8c8efe8a04f79d08ae3ea5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/beijing-guoan-7f0582.webp" group-title="[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 13",[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1795183748-0-0-2e99d40a7e3bec32b68f955bbe567a3f
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1795185008-0-0-8bcad9ba03c01e6ff68a625799e998b6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/beijing-guoan-7f0582.webp" group-title="[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 14",[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1795183749-0-0-0bf8766e4e9706cf78edc70ce183893f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/beijing-guoan-7f0582.webp" group-title="[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 15",[LIVE 18:35 WIB 20/11/26] Beijing Guoan vs Shanghai Port | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1795183749-0-0-3f439586afd41f4a752fcefc12aacc26
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lee-man-fc-5b708f.png" group-title="[LIVE 19:00 WIB 20/11/26] Lee Man FC vs North District FC | Server 1",[LIVE 19:00 WIB 20/11/26] Lee Man FC vs North District FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/5b16f5c44a86a6d3.m3u8?wsSecret=85C27DA2DBC3E5476B84C8B6309DC97B&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u17-d82656.png" group-title="[LIVE 19:00 WIB 20/11/26] Thailand U17 vs Iraq U17 | Server 1",[LIVE 19:00 WIB 20/11/26] Thailand U17 vs Iraq U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/a3021475b2dc053d.m3u8?wsSecret=B95DF493EC371261FC665508B421E707&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-agmk-7a599b.png" group-title="[LIVE 19:00 WIB 20/11/26] FC AGMK vs Qizilqum Zarafshon | Server 1",[LIVE 19:00 WIB 20/11/26] FC AGMK vs Qizilqum Zarafshon | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/10a7d7c601dc97c6.m3u8?wsSecret=A2A1BD75F09F91BA626245F153343833&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/laos-u17-76e372.png" group-title="[LIVE 19:00 WIB 20/11/26] Laos U17 vs Iran U17 | Server 1",[LIVE 19:00 WIB 20/11/26] Laos U17 vs Iran U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6adf72047cb66c539ad1bad5.m3u8?auth_key=1795201741-0-0-1893d9e01448589c7a1c99963d97ccbd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/laos-u17-76e372.png" group-title="[LIVE 19:00 WIB 20/11/26] Laos U17 vs Iran U17 | Server 2",[LIVE 19:00 WIB 20/11/26] Laos U17 vs Iran U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/d71e581815fe8cb3.m3u8?wsSecret=A019BEE7B6679B8BD32AA1E29A3E1D3C&wsTime=1795180128
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1795185008-0-0-127b73a2b1fe3a6db810dbe8eaabd2ee
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dewa-united-fc-7b2afc.webp" group-title="[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 1",[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/f9663584f186740e.m3u8?wsSecret=E2F46A607699304830C51A184B82D33A&wsTime=1795180128
+https://play.lacrima2000.com/live/f9663584f186740e.m3u8?wsSecret=A0CD85A877FC8E4F7A3F677B84D35782&wsTime=1795181390
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dewa-united-fc-7b2afc.webp" group-title="[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 2",[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1795183749-0-0-7c45b38c3a9e19f52942fd5547b40dc7
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=e50b7d29c23a16ecff0a64551e399ed1&txTime=6b009fc1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dewa-united-fc-7b2afc.webp" group-title="[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 3",[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1795183749-0-0-2c33912b8f126265d10d043107de2671
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=517f40e80df5f7b8baec4f911b37b3e7&txTime=6b009fc1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dewa-united-fc-7b2afc.webp" group-title="[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 4",[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1795183748-0-0-c9ae9d359f86b83fd3ab862b0e23ca15
+https://pull.niues.live/live/stream-620084_lsd.m3u8?auth_key=1795185009-0-0-a5128fbd8c676ac9cb9bc475965dbdea
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dewa-united-fc-7b2afc.webp" group-title="[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 5",[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1795183748-0-0-77013f358cfaeb117aa58f6ee25dcb17
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1795185009-0-0-59d152a7642d2f20189a8a08955f7e98
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dewa-united-fc-7b2afc.webp" group-title="[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 6",[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912131_lsd.m3u8?auth_key=1795183748-0-0-d890fa2ed1d635834da935fb4028e2d4
+https://pull.niues.live/live/stream-9912131_lsd.m3u8?auth_key=1795185008-0-0-a841c503b1681ba7713bfcc65ccc9137
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dewa-united-fc-7b2afc.webp" group-title="[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 7",[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1795183748-0-0-a4f6664bd309ba250cdadd1acd5b5afa
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1795185008-0-0-fc9cd3268cf2b1fd8f2a35addf42f576
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dewa-united-fc-7b2afc.webp" group-title="[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 8",[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=c92d6468665ea327f68db9b8d6c44168&txTime=6b009ad5
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1795185009-0-0-9d03b1e80d112eefa4f27b034e4c4331
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dewa-united-fc-7b2afc.webp" group-title="[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 9",[LIVE 19:00 WIB 20/11/26] Dewa United FC vs Persita Tangerang | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=74e52f98d6494265d87d412c6c1b208a&txTime=6b009ad5
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1795185009-0-0-5e1142bea83a3ffbdeb5a010d0359299
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-agmk-7a599b.png" group-title="[LIVE 19:00 WIB 20/11/26] FC AGMK vs Qizilqum Zarafshon | Server 1",[LIVE 19:00 WIB 20/11/26] FC AGMK vs Qizilqum Zarafshon | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/10a7d7c601dc97c6.m3u8?wsSecret=79C4C122DC84329F21D6E8CD16BAE318&wsTime=1795181390
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lokomotiv-tashkent-228c23.webp" group-title="[LIVE 19:00 WIB 20/11/26] Lokomotiv Tashkent vs Pakhtakor Tashkent | Server 1",[LIVE 19:00 WIB 20/11/26] Lokomotiv Tashkent vs Pakhtakor Tashkent | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae9fe0f0f488e1669dcf9f1.m3u8?auth_key=1795201681-0-0-09df6b40195ec91edcee80edc4a7e1f1
+https://pull.fmp.live/sla/1-6ae9fe0f0f488e1669dcf9f1.m3u8?auth_key=1795203002-0-0-b852c6d5ca1cba74e580966d9531f431
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lokomotiv-tashkent-228c23.webp" group-title="[LIVE 19:00 WIB 20/11/26] Lokomotiv Tashkent vs Pakhtakor Tashkent | Server 2",[LIVE 19:00 WIB 20/11/26] Lokomotiv Tashkent vs Pakhtakor Tashkent | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/d5e62e3ac3177b6c.m3u8?wsSecret=1D180E61A34AD80455DBB78E3982079C&wsTime=1795180128
+https://play.lacrima2000.com/live/d5e62e3ac3177b6c.m3u8?wsSecret=2CE264806D6B582FD931664D63D61559&wsTime=1795181390
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mongolia-u17-144d4f.png" group-title="[LIVE 19:00 WIB 20/11/26] Mongolia U17 vs Kyrgyzstan U17 | Server 1",[LIVE 19:00 WIB 20/11/26] Mongolia U17 vs Kyrgyzstan U17 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/200484768da5b2f9.m3u8?wsSecret=6EF961E02A355402D349D4BA1073E727&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 1",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 1 (SVR-BHNS 1)
+https://play.lacrima2000.com/live/200484768da5b2f9.m3u8?wsSecret=83119FC4F4DCE42028C39DB7F3B0E14D&wsTime=1795181390
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/laos-u17-76e372.png" group-title="[LIVE 19:00 WIB 20/11/26] Laos U17 vs Iran U17 | Server 1",[LIVE 19:00 WIB 20/11/26] Laos U17 vs Iran U17 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6adf72047cb66c539ad1bb00.m3u8?auth_key=1795201681-0-0-93746816872bde929b7e071339580b92
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 2",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1795183748-0-0-ea217eb3989108eb4ad28e41c12eb5f0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 3",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1795183748-0-0-d71d614b74952e8f974edbeaf9758696
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 4",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=8ba9d12feada8fe2103058bd7d59c4ab&txTime=6b009ad4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 5",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=f8f9215dd1fc7fa5dd5e0fb4188fd51e&txTime=6b009ad4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 6",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=206c1edbeba81813696f00d96349a2ad&txTime=6b009ad5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 7",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=5413d28451caa563e9abe0ae39b40e08&txTime=6b009ad5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 8",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1795183748-0-0-18a95b6f4e7db9cc0afa2d674e878a78
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 9",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1795183748-0-0-8f5fd1f00bff553eaa323c846b312937
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 10",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1795183749-0-0-685e38cdc66b8d5a66d38e72b4fc93b5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 11",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1795183749-0-0-bb8622f9a59a742e156e2998cac7a9e4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-palm-city-173f19.webp" group-title="[LIVE 19:15 WIB 20/11/26] FC Palm City vs City Club | Server 1",[LIVE 19:15 WIB 20/11/26] FC Palm City vs City Club | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6adf72047cb66c539ad1bae1.m3u8?auth_key=1795201681-0-0-f44b246c4fd91e4acc3a3fe73fa2bc19
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hamriyah-79aa3f.webp" group-title="[LIVE 19:15 WIB 20/11/26] Al-Hamriyah vs Al Thaid | Server 1",[LIVE 19:15 WIB 20/11/26] Al-Hamriyah vs Al Thaid | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6adf72047cb66c539ad1bb0d.m3u8?auth_key=1795201681-0-0-9533a3ea6c6f687e66ab8c1ad1e936a5
+https://pull.fmp.live/sla/1-6adf72047cb66c539ad1bad5.m3u8?auth_key=1795203002-0-0-8d55c968e7c76637857c3558b1ba8754
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/laos-u17-76e372.png" group-title="[LIVE 19:00 WIB 20/11/26] Laos U17 vs Iran U17 | Server 2",[LIVE 19:00 WIB 20/11/26] Laos U17 vs Iran U17 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/d71e581815fe8cb3.m3u8?wsSecret=F7CBA5B98F7CB973A0C42AF5AD8831CD&wsTime=1795181390
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lee-man-fc-5b708f.png" group-title="[LIVE 19:00 WIB 20/11/26] Lee Man FC vs North District FC | Server 1",[LIVE 19:00 WIB 20/11/26] Lee Man FC vs North District FC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/5b16f5c44a86a6d3.m3u8?wsSecret=4AA53F4B3E77D9D874652FF456D8F53E&wsTime=1795181390
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thailand-u17-d82656.png" group-title="[LIVE 19:00 WIB 20/11/26] Thailand U17 vs Iraq U17 | Server 1",[LIVE 19:00 WIB 20/11/26] Thailand U17 vs Iraq U17 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/a3021475b2dc053d.m3u8?wsSecret=293ACBCEE0A6EA17A39415D3A414EE7A&wsTime=1795181390
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-fc-ee72f5.png" group-title="[LIVE 19:15 WIB 20/11/26] The Cong Viettel FC vs Song Lam Nghe An | Server 1",[LIVE 19:15 WIB 20/11/26] The Cong Viettel FC vs Song Lam Nghe An | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/thecong-slna-vleague/index.m3u8
@@ -171,151 +102,139 @@ https://hls.lauthaitv.cc/live/thecong-slna-vleague/index.m3u8
 https://flv.lauthaitv.cc/live/thecong-slna-vleague.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-fc-ee72f5.png" group-title="[LIVE 19:15 WIB 20/11/26] The Cong Viettel FC vs Song Lam Nghe An | Server 3",[LIVE 19:15 WIB 20/11/26] The Cong Viettel FC vs Song Lam Nghe An | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/d7c7a7e19aa67f96.m3u8?wsSecret=BC0196604E181D6FB95A9F3162F564BA&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-moscow-youth-cd9f0a.png" group-title="[LIVE 19:30 WIB 20/11/26] Spartak Moscow Youth vs Almaz Antey Youth | Server 1",[LIVE 19:30 WIB 20/11/26] Spartak Moscow Youth vs Almaz Antey Youth | Server 1 (SVR-BHNS 1)
+https://play.lacrima2000.com/live/d7c7a7e19aa67f96.m3u8?wsSecret=CB0B7D27382AE8121956C109FB232644&wsTime=1795181390
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 1",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6adf72047cb66c539ad1baee.m3u8?auth_key=1795201441-0-0-7354a8382e8771e19e43776963c0f37f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zenit-stpetersburg-youth-4195fb.png" group-title="[LIVE 19:30 WIB 20/11/26] Zenit St.Petersburg Youth vs CSKA Moscow  Reserves | Server 1",[LIVE 19:30 WIB 20/11/26] Zenit St.Petersburg Youth vs CSKA Moscow  Reserves | Server 1 (SVR-BHNS 1)
+https://pull.fmp.live/sla/1-6adf72047cb66c539ad1bb00.m3u8?auth_key=1795203002-0-0-becfeb2560ca0195c9ca5dbdcd0c785a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 2",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=a37028476cd92ec302687cf8afb1ece4&txTime=6b009fc1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 3",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=2a800c633e59aaa2c1989d01665697f1&txTime=6b009fc1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 4",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=53ed3a4db3349a0e3b362eb010c352ce&txTime=6b009fc1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 5",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=d5ac0d6cf970e800c5dc64261ca3be01&txTime=6b009fc1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 6",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1795185008-0-0-6a11f68242012a57b2a571d83af24a7b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 7",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1795185008-0-0-c5cbcfadce2998dd9d68ae61100e7ac4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 8",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1795185009-0-0-dd315e9c5b80458383913b71a3c39095
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 9",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1795185009-0-0-95752ff33a16a6811d914fd3bec6d289
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 10",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620797_lsd.m3u8?auth_key=1795185009-0-0-9f55e734aa7147022ed49735b9e73133
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/the-cong-viettel-358104.webp" group-title="[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 11",[LIVE 19:15 WIB 20/11/26] The Cong-Viettel vs Song Lam Nghe An | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1795185009-0-0-e5042b9d7262605931f79362d0dba6a3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-palm-city-173f19.webp" group-title="[LIVE 19:15 WIB 20/11/26] FC Palm City vs City Club | Server 1",[LIVE 19:15 WIB 20/11/26] FC Palm City vs City Club | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6adf72047cb66c539ad1baec.m3u8?auth_key=1795201681-0-0-2ad83bb06e5446e62ff2416b6dc990ad
+https://pull.fmp.live/sla/1-6adf72047cb66c539ad1bae1.m3u8?auth_key=1795203002-0-0-14aa8f01558f69b104c642894a399237
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hamriyah-79aa3f.webp" group-title="[LIVE 19:15 WIB 20/11/26] Al-Hamriyah vs Al Thaid | Server 1",[LIVE 19:15 WIB 20/11/26] Al-Hamriyah vs Al Thaid | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6adf72047cb66c539ad1bb0d.m3u8?auth_key=1795202942-0-0-d5a444e1851ed1829d4a1d3e83a3a828
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-bihor-oradea-aac5aa.png" group-title="[LIVE 19:30 WIB 20/11/26] FC Bihor Oradea vs FC Gloria Bistrita | Server 1",[LIVE 19:30 WIB 20/11/26] FC Bihor Oradea vs FC Gloria Bistrita | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/e4fdca036e541f80.m3u8?wsSecret=7DCFE48CE0A84589C8218D56456974A1&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-fc-19ed8a.webp" group-title="[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 1",[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 1 (SVR-BHNS 1)
+https://play.lacrima2000.com/live/e4fdca036e541f80.m3u8?wsSecret=985F83CDC7A9710CD32716CB390F84FF&wsTime=1795181390
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-moscow-youth-cd9f0a.png" group-title="[LIVE 19:30 WIB 20/11/26] Spartak Moscow Youth vs Almaz Antey Youth | Server 1",[LIVE 19:30 WIB 20/11/26] Spartak Moscow Youth vs Almaz Antey Youth | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6adf72047cb66c539ad1bb0b.m3u8?auth_key=1795201681-0-0-48f2abba65f4d28908d6cba5c47939ea
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-fc-19ed8a.webp" group-title="[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 2",[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912136_lsd.m3u8?txSecret=940293790643efd604723e821e126b7a&txTime=6b009ad4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-fc-19ed8a.webp" group-title="[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 3",[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=2b7e706dc298c9afaa49a29543314ad3&txTime=6b009ad4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-fc-19ed8a.webp" group-title="[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 4",[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=7869c20e0ab8bb96799e53a17a962ca0&txTime=6b009ad5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-fc-19ed8a.webp" group-title="[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 5",[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6b21fd948bfe3c07e1b6dae2f842941a&txTime=6b009ad5
+https://pull.fmp.live/sla/1-6adf72047cb66c539ad1baee.m3u8?auth_key=1795202942-0-0-0de0f80aa7935c24c3fc38e78107a769
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-arabi-uae-d1f27c.png" group-title="[LIVE 19:45 WIB 20/11/26] Al Arabi (UAE) vs Al Jazira Al Hamra | Server 1",[LIVE 19:45 WIB 20/11/26] Al Arabi (UAE) vs Al Jazira Al Hamra | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/820c687b86d2fe5e.m3u8?wsSecret=4160149BC724CB35EADF007D16A85F41&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-palm-city-173f19.webp" group-title="[LIVE 19:45 WIB 20/11/26] FC Palm City vs thành phố | Server 1",[LIVE 19:45 WIB 20/11/26] FC Palm City vs thành phố | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjJwwZL3gfjZ8hnU.m3u8?txSecret=c165a08b555818480fa635b93cf1eb30&txTime=6B00EFE5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-arabi-f365d8.webp" group-title="[LIVE 19:45 WIB 20/11/26] Al Arabi vs Al-Jazira Al-Hamra | Server 1",[LIVE 19:45 WIB 20/11/26] Al Arabi vs Al-Jazira Al-Hamra | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjJwwZKWuwYqZsdv.m3u8?txSecret=4d23f20fc0df14bfb4619db34b40552f&txTime=6B00EFE5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hamriyah-79aa3f.webp" group-title="[LIVE 19:45 WIB 20/11/26] Al Hamriyah vs Al Thaid | Server 1",[LIVE 19:45 WIB 20/11/26] Al Hamriyah vs Al Thaid | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjJwwZKZ7RRKPnnp.m3u8?txSecret=d43fac8ac38fb8e2b1326fbfe872512e&txTime=6B00EFE5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ittihad-kalba-54330e.png" group-title="[LIVE 19:45 WIB 20/11/26] Al Ittihad Kalba vs Al Sharjah | Server 1",[LIVE 19:45 WIB 20/11/26] Al Ittihad Kalba vs Al Sharjah | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxjK1E2t1PxAkeh8x.m3u8?txSecret=bdf4389a54ed9f04f47333d999a83c7d&txTime=6B00EFE5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ittihad-kalba-54330e.png" group-title="[LIVE 19:45 WIB 20/11/26] Al Ittihad Kalba vs Al Sharjah | Server 2",[LIVE 19:45 WIB 20/11/26] Al Ittihad Kalba vs Al Sharjah | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/70e2f4a1d5f0c6ce.m3u8?wsSecret=8D612AE07F6F5C99EE2ECABC41A2131C&wsTime=1795180128
+https://play.lacrima2000.com/live/820c687b86d2fe5e.m3u8?wsSecret=DFA52E3FA41CD47AC49D2879D3012684&wsTime=1795181390
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-palm-city-173f19.webp" group-title="[LIVE 19:45 WIB 20/11/26] FC Palm City vs Dubai City FC | Server 1",[LIVE 19:45 WIB 20/11/26] FC Palm City vs Dubai City FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/df702ae1098ec1bf.m3u8?wsSecret=232E1670B0393DBCD5B7AC8478CB641B&wsTime=1795180128
+https://play.lacrima2000.com/live/df702ae1098ec1bf.m3u8?wsSecret=33ADF67AFC2BA739A7B3BA54D7A7A4ED&wsTime=1795181390
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ittihad-kalba-54330e.png" group-title="[LIVE 19:45 WIB 20/11/26] Al Ittihad Kalba vs Al Sharjah | Server 1",[LIVE 19:45 WIB 20/11/26] Al Ittihad Kalba vs Al Sharjah | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/70e2f4a1d5f0c6ce.m3u8?wsSecret=92B49A981DBE362540371BAB7B7726AD&wsTime=1795181390
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hamriyah-79aa3f.webp" group-title="[LIVE 19:45 WIB 20/11/26] Al Hamriyah vs Al Dhaid | Server 1",[LIVE 19:45 WIB 20/11/26] Al Hamriyah vs Al Dhaid | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/4af603f59c840c11.m3u8?wsSecret=340A7CEE07827846D452CC7CED8EA1B7&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sadd-d2a8b0.png" group-title="[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 1",[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1795183749-0-0-7d6e8d1614b906ad2a415ddd067b1c25
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sadd-d2a8b0.png" group-title="[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 2",[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1795183749-0-0-cf4a1730dc440eef1f1af1d9b6dec83b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sadd-d2a8b0.png" group-title="[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 3",[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1795183748-0-0-a4376fffe7933f43a173573b6aa4e6fc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sadd-d2a8b0.png" group-title="[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 4",[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1795183748-0-0-1ff0eb3c85757404c2e295cdc95e292a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sadd-d2a8b0.png" group-title="[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 5",[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1795183749-0-0-00860c1e004ce4bdd54cec68f84fbb15
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sadd-d2a8b0.png" group-title="[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 6",[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1795183749-0-0-176ac3f481b38db7de11bd62e4eedecd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mohammedan-sc-kolkata-e9f38f.png" group-title="[LIVE 20:00 WIB 20/11/26] Mohammedan SC Kolkata vs Gokulam Kerala FC | Server 1",[LIVE 20:00 WIB 20/11/26] Mohammedan SC Kolkata vs Gokulam Kerala FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk43A1wdcz8Sn2LU.m3u8?txSecret=aaff168e9c7e0f42f99ae54c65bd8cca&txTime=6B00EFE5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mohammedan-sc-kolkata-e9f38f.png" group-title="[LIVE 20:00 WIB 20/11/26] Mohammedan SC Kolkata vs Gokulam Kerala FC | Server 2",[LIVE 20:00 WIB 20/11/26] Mohammedan SC Kolkata vs Gokulam Kerala FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/636302f3ae9c2344.m3u8?wsSecret=373E3AB983C43809DAD640D5D1D54BE7&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 1",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MwarK5ojjDMtQWjj2.m3u8?txSecret=175ff54d3968342fbf4532f4b159292d&txTime=6B00EFE5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 2",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/2216a634bb5c8563.m3u8?wsSecret=E78DFCFAD0103D161B90610C9A05F0B7&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 3",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1795183748-0-0-ad90adf9219d6afea7b4da4e2dc4e0db
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 4",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1795183748-0-0-ace06a1ea0667c2d121f1d2ac246b73c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 5",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1795183748-0-0-47437f087769dda6f22f6c98d1ad6c50
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 6",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795183748-0-0-172dd00beb47f973ec1839d091241255
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 7",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=10be2a98acb0709de816607d0bd5389a&txTime=6b009ad4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 8",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=62025871ff1cfd46682020d73433fb13&txTime=6b009ad4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 9",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=ea66c285e64227bb088172ba237692fd&txTime=6b009ad5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 10",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=ded21163f04b450735dc7c1febc6466f&txTime=6b009ad5
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/f2d10c6fec4284c0c0567686c96c7e3a.png" group-title="[LIVE 20:00 WIB 20/11/26] Zenit U19 vs CSKA Moscow  Youth | Server 1",[LIVE 20:00 WIB 20/11/26] Zenit U19 vs CSKA Moscow  Youth | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mwd5vbg3uxLvUiYR2.m3u8?txSecret=5a7c29257bf414bbe3636eca4eb32935&txTime=6B00EFE5
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/7183145a2a3e0ce2b68cd3735186b1d5.png" group-title="[LIVE 20:00 WIB 20/11/26] Ấn Độ U17 vs Malaysia U17 | Server 1",[LIVE 20:00 WIB 20/11/26] Ấn Độ U17 vs Malaysia U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxipaQEr1tSkngryi.m3u8?txSecret=66dd36ddd8c2c2ea37911411e748ff09&txTime=6B00EFE5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cuba-u17-d46a08.png" group-title="[LIVE 20:00 WIB 20/11/26] Cuba U17 vs Tajikistan U17 | Server 1",[LIVE 20:00 WIB 20/11/26] Cuba U17 vs Tajikistan U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mwe5ZsuiyL1kqoCAY.m3u8?txSecret=e5189d482ad196de3e7e9a5a3b953a10&txTime=6B00EFE5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cuba-u17-d46a08.png" group-title="[LIVE 20:00 WIB 20/11/26] Cuba U17 vs Tajikistan U17 | Server 2",[LIVE 20:00 WIB 20/11/26] Cuba U17 vs Tajikistan U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/4c06aadaba0df8d6.m3u8?wsSecret=22A5D9E28D8E3095CE320A840E47F00A&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/terengganu-a93786.webp" group-title="[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 1",[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MwarpUT3ij9rxJYUL.m3u8?txSecret=2bb6a2b14bc4a510a6ae083a1b621987&txTime=6B00EFE5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/terengganu-a93786.webp" group-title="[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 2",[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 2 (SVR-BHNS 2)
+https://play.lacrima2000.com/live/4af603f59c840c11.m3u8?wsSecret=688FAB7D3DB42E0ED1A630A8071FDE00&wsTime=1795181390
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-fc-19ed8a.webp" group-title="[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 1",[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6adf72047cb66c539ad1bb10.m3u8?auth_key=1795201681-0-0-f5c80b5d86fad0fa62912112d5bce57d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/terengganu-a93786.webp" group-title="[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 3",[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/025c052b26cea2f5.m3u8?wsSecret=2871A6DDD215CB7824B78ADC2A5546FE&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/terengganu-a93786.webp" group-title="[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 4",[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 4 (SVR-BHNS 4)
+https://pull.fmp.live/sla/1-6adf72047cb66c539ad1bb0b.m3u8?auth_key=1795202942-0-0-34c9579a067b46168e083a02081b2411
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-fc-19ed8a.webp" group-title="[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 2",[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1795183749-0-0-a99b7b1d75ec9e52b52217ff0d42d411
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/terengganu-a93786.webp" group-title="[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 5",[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 5 (SVR-BHNS 5)
+https://pull.niur.live/live/stream-9912136_lsd.m3u8?txSecret=3d630404745a2540996e515078d11407&txTime=6b009fc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-fc-19ed8a.webp" group-title="[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 3",[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1795183749-0-0-bd15cbd7fd40ad045c12c80ad306823f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/terengganu-a93786.webp" group-title="[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 6",[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 6 (SVR-BHNS 6)
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=63f49005b8b162960ff5086f3844e3dc&txTime=6b009fc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-fc-19ed8a.webp" group-title="[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 4",[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1795183748-0-0-a28cf57798dd6965d4855b2137ff1173
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/terengganu-a93786.webp" group-title="[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 7",[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 7 (SVR-BHNS 7)
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=4d43b609e5580f2704596d864f74f132&txTime=6b009fc1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-fc-19ed8a.webp" group-title="[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 5",[LIVE 19:45 WIB 20/11/26] Ittihad Kalba FC vs Al-Sharjah | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1795183748-0-0-96f14b2cf92c9c91970062192d2175b5
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a740aa5f4401485c333d9eb0ced53451&txTime=6b009fc1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zakho-sc-b0a960.png" group-title="[LIVE 20:00 WIB 20/11/26] Zakho SC vs Al Shorta Baghdad | Server 1",[LIVE 20:00 WIB 20/11/26] Zakho SC vs Al Shorta Baghdad | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/af0bd8657bfe7c22.m3u8?wsSecret=F9F3630F9F70E177E12C28765E4F0730&wsTime=1795180128
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png" group-title="[LIVE 20:00 WIB 20/11/26] Bỉ U17 vs Vietnam U17 | Server 1",[LIVE 20:00 WIB 20/11/26] Bỉ U17 vs Vietnam U17 | Server 1 (SVR-BHNS 1)
+https://play.lacrima2000.com/live/af0bd8657bfe7c22.m3u8?wsSecret=D6B943C1CC7225BB16AFC7352562E8F1&wsTime=1795181390
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 1",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mwe5ZsvZbHXQNjyxp.m3u8?txSecret=b4cdaa17df0e8048fa9a688faef810b7&txTime=6B00EFE5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sadd-d2a8b0.png" group-title="[LIVE 20:00 WIB 20/11/26] Al Sadd vs Lusail city fc | Server 1",[LIVE 20:00 WIB 20/11/26] Al Sadd vs Lusail city fc | Server 1 (SVR-BHNS 1)
+https://play.lacrima2000.com/live/2216a634bb5c8563.m3u8?wsSecret=42DB312CDFCD401230DADBD338DF628D&wsTime=1795181390
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 2",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=6a37d58af595a278c20482c0073bed3e&txTime=6b009fc1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 3",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=7ee0637e953ff35633a0231fea00122b&txTime=6b009fc1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 4",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=b3f093f826940b740d67a39c6a7c2792&txTime=6b009fc1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 5",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=c300329328f7bafc075237f22cbc794a&txTime=6b009fc1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 6",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1795185009-0-0-74efa5669e209f9123087f23cdddcc35
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 7",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795185009-0-0-aa21ad5e3ad7bf548a1417373135903c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 8",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1795185008-0-0-adde21cbd3e37c2d08dab07f74ff1854
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-sc-5bcd9f.webp" group-title="[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 9",[LIVE 20:00 WIB 20/11/26] Al Duhail SC vs Qatar SC | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1795185008-0-0-25613d5ae2fdbec520f9961a8e4200f5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/terengganu-a93786.webp" group-title="[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 1",[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MwarK5ojCSdhgwuaU.m3u8?txSecret=1046f49b2d024db52a34856467f11bb0&txTime=6B00EFE5
+https://live.cds78y11d.org/live/sd-6MwarpUT3ij9rxJYUL.m3u8?txSecret=78514fbb97a016a5bbf5507110af9af9&txTime=6B00F41D
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/terengganu-a93786.webp" group-title="[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 2",[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6adf72047cb66c539ad1bb10.m3u8?auth_key=1795202942-0-0-40c4629f6273b1eebfb2955f4a3ba6f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/terengganu-a93786.webp" group-title="[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 3",[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/025c052b26cea2f5.m3u8?wsSecret=1FC66C87788D3E892170AAA99A0262A5&wsTime=1795181390
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/terengganu-a93786.webp" group-title="[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 4",[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1795185009-0-0-80f8dfd83bf6e5135502d33c112e5618
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/terengganu-a93786.webp" group-title="[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 5",[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1795185009-0-0-69d647ab3f4a387565461b8b9b0d6e89
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/terengganu-a93786.webp" group-title="[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 6",[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1795185009-0-0-10fdf432a10aac1f52c3fdf59bbe86d1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/terengganu-a93786.webp" group-title="[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 7",[LIVE 20:00 WIB 20/11/26] Terengganu vs DPMM FC | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1795185009-0-0-71f14dd20ea7ba3f45b53f91f6ccaf6a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mohammedan-sc-kolkata-e9f38f.png" group-title="[LIVE 20:00 WIB 20/11/26] Mohammedan SC Kolkata vs Gokulam Kerala FC | Server 1",[LIVE 20:00 WIB 20/11/26] Mohammedan SC Kolkata vs Gokulam Kerala FC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxk43A1wdcz8Sn2LU.m3u8?txSecret=43b29c437eb42b3e1999f04af610730b&txTime=6B00F41D
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mohammedan-sc-kolkata-e9f38f.png" group-title="[LIVE 20:00 WIB 20/11/26] Mohammedan SC Kolkata vs Gokulam Kerala FC | Server 2",[LIVE 20:00 WIB 20/11/26] Mohammedan SC Kolkata vs Gokulam Kerala FC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6adf72047cb66c539ad1bb13.m3u8?auth_key=1795202942-0-0-936a69fa3faf5e92e7c8922057b81cc3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mohammedan-sc-kolkata-e9f38f.png" group-title="[LIVE 20:00 WIB 20/11/26] Mohammedan SC Kolkata vs Gokulam Kerala FC | Server 3",[LIVE 20:00 WIB 20/11/26] Mohammedan SC Kolkata vs Gokulam Kerala FC | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/636302f3ae9c2344.m3u8?wsSecret=B4A3C7A94DD26A964FCE0B8796F2264C&wsTime=1795181390
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgium-u17-3b5640.png" group-title="[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 1",[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/bel-vie-wcu17/index.m3u8
@@ -324,46 +243,106 @@ https://hls.lauthaitv.cc/live/bel-vie-wcu17/index.m3u8
 https://flv.lauthaitv.cc/live/bel-vie-wcu17.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgium-u17-3b5640.png" group-title="[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 3",[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/2ed0d07ad37c16bf.m3u8?wsSecret=F5A7B75CA534F6406A4AABD0275E6EE6&wsTime=1795180128
+https://play.lacrima2000.com/live/2ed0d07ad37c16bf.m3u8?wsSecret=12F88C9868E9D69F21BA51BDF2A2DC47&wsTime=1795181390
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgium-u17-3b5640.png" group-title="[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 4",[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1795183749-0-0-43b77dec5d6873490ee8d061821e2a3b
+https://pull.niues.live/live/stream-622240_lsd.m3u8?auth_key=1795185009-0-0-52566b5e3550a83e707192e0c015b881
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgium-u17-3b5640.png" group-title="[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 5",[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1795183749-0-0-0ce76d7ced1124c882809573340508cf
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1795185009-0-0-c950eb998cf98b797763a48253d6bda3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgium-u17-3b5640.png" group-title="[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 6",[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912141_lsd.m3u8?auth_key=1795183749-0-0-a517e4d97989778aa162b1fa1530a989
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=c0b0aa1fd1b39efdc8c581e6a98b47e3&txTime=6b009fc0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgium-u17-3b5640.png" group-title="[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 7",[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1795183749-0-0-188937023d74682b3f937177ca9fbacc
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f545c532c23506909839655e16c8645a&txTime=6b009fc0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgium-u17-3b5640.png" group-title="[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 8",[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1795183749-0-0-a64ddd86c746f5f0b4c5459531eac6b2
+https://pull.niues.live/live/stream-9912141_lsd.m3u8?auth_key=1795185009-0-0-74ea6f6d85e4acbd2eae77717b53a610
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgium-u17-3b5640.png" group-title="[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 9",[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1795183749-0-0-ec165a7f61072655b6014f1641c1c311
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1795185009-0-0-fe296a9e03944e1d8890041040588b74
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgium-u17-3b5640.png" group-title="[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 10",[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=7a10adc4b16a3b5cca9d1ca76f12be16&txTime=6b009ad4
+https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1795185009-0-0-e3921c30bbb05d67c7ad12f75cbb6e58
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgium-u17-3b5640.png" group-title="[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 11",[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=405a64c7d203845ba6563156b050495f&txTime=6b009ad4
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1795185009-0-0-b18e795e7a5a7f21332e7ec08b50fdcb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgium-u17-3b5640.png" group-title="[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 12",[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1795183748-0-0-1b86803fa5df55930cd43c110b4d66d0
+https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1795185008-0-0-c1c4db1feb37669a19b44c1f4f8b549e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgium-u17-3b5640.png" group-title="[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 13",[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1795183748-0-0-250ea9c2a5c690d3a08f662d61321380
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1795185008-0-0-c58fb06ec16cf90da4e977fd4882ff0c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgium-u17-3b5640.png" group-title="[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 14",[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1795183748-0-0-c16fa0b003a5bb583ce004997f0a1170
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1795185008-0-0-0ec50ae017e6c7700f60926e7e8d3835
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belgium-u17-3b5640.png" group-title="[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 15",[LIVE 20:00 WIB 20/11/26] Belgium U17 vs Vietnam U17 | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1795183748-0-0-4d327e8264605ccdaefc6c92759b3f49
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/69a788841fd6ee41f48081a7e440cb8f.png" group-title="[LIVE 20:00 WIB 20/11/26] Spartak Moscow U19 vs Almaz Antey Youth | Server 1",[LIVE 20:00 WIB 20/11/26] Spartak Moscow U19 vs Almaz Antey Youth | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mwd5vbg4Sj57CHNZa.m3u8?txSecret=a2f3a807e6ae2153febce840fbce2688&txTime=6B00EFE5
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1795185008-0-0-e1b09fd50075c6d9153f5672649b2a93
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/malaysia-u17-d28cd0.png" group-title="[LIVE 20:00 WIB 20/11/26] Malaysia U17 vs India U17 | Server 1",[LIVE 20:00 WIB 20/11/26] Malaysia U17 vs India U17 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/be2d8c64a21df303.m3u8?wsSecret=142A1B6DE79F202E029BA8A265C2709A&wsTime=1795180128
+https://play.lacrima2000.com/live/be2d8c64a21df303.m3u8?wsSecret=C0854694BB712E0E5EFAC89FE9B3218F&wsTime=1795181390
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cuba-u17-d46a08.png" group-title="[LIVE 20:00 WIB 20/11/26] Cuba U17 vs Tajikistan U17 | Server 1",[LIVE 20:00 WIB 20/11/26] Cuba U17 vs Tajikistan U17 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mwe5ZsuiyL1kqoCAY.m3u8?txSecret=ff87cd4fd09327b671be0804253420c5&txTime=6B00F41D
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cuba-u17-d46a08.png" group-title="[LIVE 20:00 WIB 20/11/26] Cuba U17 vs Tajikistan U17 | Server 2",[LIVE 20:00 WIB 20/11/26] Cuba U17 vs Tajikistan U17 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/4c06aadaba0df8d6.m3u8?wsSecret=08859C8D9B3E4D6968D5E945553466C6&wsTime=1795181390
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/7183145a2a3e0ce2b68cd3735186b1d5.png" group-title="[LIVE 20:00 WIB 20/11/26] Ấn Độ U17 vs Malaysia U17 | Server 1",[LIVE 20:00 WIB 20/11/26] Ấn Độ U17 vs Malaysia U17 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxipaQEr1tSkngryi.m3u8?txSecret=c533c0c744451001f231f9e8535ae335&txTime=6B00F41D
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png" group-title="[LIVE 20:00 WIB 20/11/26] Bỉ U17 vs Vietnam U17 | Server 1",[LIVE 20:00 WIB 20/11/26] Bỉ U17 vs Vietnam U17 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mwe5ZsvZbHXQNjyxp.m3u8?txSecret=bc78abfeeeaaf439e8eb5a9bb1fa9f05&txTime=6B00F41D
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sadd-d2a8b0.png" group-title="[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 1",[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1795185008-0-0-60ce644391f481aafd843c309f61ef7a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sadd-d2a8b0.png" group-title="[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 2",[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1795185008-0-0-0f52e929b7dd5e285b67ec606ebf48ac
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sadd-d2a8b0.png" group-title="[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 3",[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1795185009-0-0-5690ba270a6b326cf945a3244686a624
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sadd-d2a8b0.png" group-title="[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 4",[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1795185009-0-0-4d5be6bd63565c0ba6194a8287ae40e4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sadd-d2a8b0.png" group-title="[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 5",[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1795185009-0-0-e36e2b332ca45e02c6c1e0323eebafaa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sadd-d2a8b0.png" group-title="[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 6",[LIVE 20:00 WIB 20/11/26] Al-Sadd vs Lusail SC | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1795185009-0-0-cbbc180600452417b3c32fa58f65a569
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mali-u17-e11aa2.webp" group-title="[LIVE 20:30 WIB 20/11/26] Mali U17 vs New Zealand U17 | Server 1",[LIVE 20:30 WIB 20/11/26] Mali U17 vs New Zealand U17 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mwe5ZsuiZ9jBZi7Ug.m3u8?txSecret=5db2dc9d42a208186d1e054e8b8a3283&txTime=6B00F41D
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mali-u17-e11aa2.webp" group-title="[LIVE 20:30 WIB 20/11/26] Mali U17 vs New Zealand U17 | Server 2",[LIVE 20:30 WIB 20/11/26] Mali U17 vs New Zealand U17 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/06694f722a3c9fe5.m3u8?wsSecret=C5FB8BF4CA28A46AD5A400B500D6186B&wsTime=1795181396
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mali-u17-e11aa2.webp" group-title="[LIVE 20:30 WIB 20/11/26] Mali U17 vs New Zealand U17 | Server 3",[LIVE 20:30 WIB 20/11/26] Mali U17 vs New Zealand U17 | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=707923a12ba588ae694ede1822cb879e&txTime=6b009fc1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mali-u17-e11aa2.webp" group-title="[LIVE 20:30 WIB 20/11/26] Mali U17 vs New Zealand U17 | Server 4",[LIVE 20:30 WIB 20/11/26] Mali U17 vs New Zealand U17 | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=62548b00bf8207fb6ef19b2fbb529f12&txTime=6b009fc1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mali-u17-e11aa2.webp" group-title="[LIVE 20:30 WIB 20/11/26] Mali U17 vs New Zealand U17 | Server 5",[LIVE 20:30 WIB 20/11/26] Mali U17 vs New Zealand U17 | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=df102a2a6e9135bb0e6359256ad65e67&txTime=6b009fc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mali-u17-e11aa2.webp" group-title="[LIVE 20:30 WIB 20/11/26] Mali U17 vs New Zealand U17 | Server 6",[LIVE 20:30 WIB 20/11/26] Mali U17 vs New Zealand U17 | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=cb144cc9f50fb6560ffd7bfc3c6eb1ea&txTime=6b009fc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/navbahor-namangan-43e2b9.webp" group-title="[LIVE 20:30 WIB 20/11/26] Navbahor Namangan vs FC Neftchi Fergana | Server 1",[LIVE 20:30 WIB 20/11/26] Navbahor Namangan vs FC Neftchi Fergana | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ae0c3b270a52b8b4e391ce1.m3u8?auth_key=1795202942-0-0-36feb82696fd493709bab8b5f03bbd46
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/navbahor-namangan-43e2b9.webp" group-title="[LIVE 20:30 WIB 20/11/26] Navbahor Namangan vs FC Neftchi Fergana | Server 2",[LIVE 20:30 WIB 20/11/26] Navbahor Namangan vs FC Neftchi Fergana | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/76d2104ca2e31fc7.m3u8?wsSecret=CED2BC3C3CF96A557880A30B46B696AF&wsTime=1795181396
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/navbahor-namangan-43e2b9.webp" group-title="[LIVE 20:30 WIB 20/11/26] Navbahor Namangan vs Neftchi Fargona | Server 1",[LIVE 20:30 WIB 20/11/26] Navbahor Namangan vs Neftchi Fargona | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MvVdGa9wus1BLTfG8.m3u8?txSecret=a7a52da7a10d2b52d1c6ef8e9cd1e516&txTime=6B00F41D
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-u17-0e05e9.png" group-title="[LIVE 21:00 WIB 20/11/26] Spain U17 vs China U17 | Server 1",[LIVE 21:00 WIB 20/11/26] Spain U17 vs China U17 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hls.lauthaitv.cc/live/esp-chn-wcu17/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-u17-0e05e9.png" group-title="[LIVE 21:00 WIB 20/11/26] Spain U17 vs China U17 | Server 2",[LIVE 21:00 WIB 20/11/26] Spain U17 vs China U17 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/esp-chn-wcu17.flv
