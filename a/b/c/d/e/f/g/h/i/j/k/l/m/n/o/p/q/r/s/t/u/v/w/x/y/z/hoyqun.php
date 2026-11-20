@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="📢MY PACAR LIVE🍜",TIKTOK LIVE myname_is_afnisa
-https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1561622697293643868_hd/index.m3u8?expire=1796371168&sign=ba399d2d2f29b132c6521ac34ee441a5
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜",TIKTOK LIVE di7nur
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-1561623086651146283_hd/index.m3u8?expire=1796371178&sign=3584cd0d27cd50ee010d61bc472fa748
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜",TIKTOK LIVE sweetkidsfoundation
-https://pull-hls-q5-sg01.tiktokcdn.com/stage/stream-2138083719412187182_hd/index.m3u8?expire=1796371182&sign=b5fc2eef3203a8993d80770c2b28aa94
-#EXTINF:-1 group-title="📢MY PACAR LIVE🍜",TIKTOK LIVE kingofkings123452
-https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1273391987857556801_hd/index.m3u8?expire=1796371185&sign=6f5ebb65665c1e6eab7d24429a404ca7
+https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-1561622697293643868_hd/index.m3u8?expire=1796372235&sign=2d484d888cff22a21fd24103aeb80e7e
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜",TIKTOK LIVE cocolinica
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561621121718812718_hd/index.m3u8?expire=1796372244&sign=39405a318eed74fecc57edfa0357eec0
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜",TIKTOK LIVE nivemoefaauo
+https://pull-hls-f16-sg01.tiktokcdn.com/stage/stream-1849853277238198341_hd/index.m3u8?expire=1796372248&sign=506b7dd36ba9f9bc04b42f56a78b9300
+#EXTINF:-1 group-title="📢MY PACAR LIVE🍜",TIKTOK LIVE emilia_arngold
+https://pull-hls-w5-sg01.tiktokcdn.com/stage/stream-1561622897061789742_hd/index.m3u8?expire=1796372258&sign=666fdfbbdca80e71a872a988d981ec6b
