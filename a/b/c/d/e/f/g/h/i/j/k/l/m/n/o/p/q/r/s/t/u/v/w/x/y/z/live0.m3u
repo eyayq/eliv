@@ -1,37 +1,69 @@
 #EXTM3U
-# ⏰ Latest Updated: 12:28:15 WIB 21-11-2026
-# 🔄 Total Channels: 883
+# ⏰ Latest Updated: 12:45:15 WIB 21-11-2026
+# 🔄 Total Channels: 897
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:28:15 WIB 21-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:45:15 WIB 21-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",15:30 WIB Persebaya Surabaya vs Malut United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel10.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",15:30 WIB Persik Kediri vs PSIM Yogyakarta
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhfLWlyflwOU1fF90F4tB0-HpUTjDp45K9ABpRycXeCQ&s=10" group-title="LIVE EVENT",19:40 WIB Moto3&Moto2: Repsol Grand Prix of Portugal - Qualifying | TNT SPORTS 2 | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhfLWlyflwOU1fF90F4tB0-HpUTjDp45K9ABpRycXeCQ&s=10" group-title="LIVE EVENT",19:40 WIB Moto3&Moto2: Repsol Grand Prix of Portugal - Qualifying | Fancode | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhfLWlyflwOU1fF90F4tB0-HpUTjDp45K9ABpRycXeCQ&s=10" group-title="LIVE EVENT",19:40 WIB Moto3&Moto2: Repsol Grand Prix of Portugal - Qualifying | Nonton GP | Gvision TV
+#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
+http://master3.s3stream.top/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",19:00 WIB PSM vs Persija
 #EXTVLCOPT:http-origin=https://player.787200.com/
 #EXTVLCOPT:http-referrer=https://player.787200.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.vivo155.com/live/sd-1-4614421.m3u8?txSecret=4a86b20ceca71ed4cff795c99d9883bc&txTime=6B016E77
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",15:30 WIB Persik Kediri vs PSIM Yogyakarta
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5688051_1.m3u8?auth_key=1795336881-0-0-8f24f309ca3e1c7df7bda102f0ac509c
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",15:30 WIB Persik Kediri vs PSIM Yogyakarta
+https://live.vivo155.com/live/sd-1-4614423.m3u8?txSecret=0a556da338654766e9159abebd3a013b&txTime=6B019FB9
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",19:00 WIB PSM vs Persija
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi83NjcyMmExNTcxNzZkMzU0YTk1MmM2NzFiYjQ2Y2M3ZS5wbmc%253D" group-title="LIVE EVENT",15:40 WIB brisbane roar vs sydney fc | Australia A-League | KickLive | Gvision TV
-https://apxvf0ws91.yarncdn.live/live/sd-6MwarNNHne9mG9AXtt/playlist.m3u8
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",19:00 WIB Bhayangkara vs Persijap
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-1-4614422.m3u8?txSecret=28a7ca448a9b7b715ebfb85bfd42183c&txTime=6B019FBC
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",19:00 WIB Bhayangkara vs Persijap
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
+#EXTINF:-1 tvg-logo="https://marhaba.qa/wp-content/uploads/2026/04/FIFA-U-17-World-Cup-Qatar-2026-1024x683.jpg" group-title="LIVE EVENT",19:30 WIB serbia u17 vs honduras u17 | FIFA U17 World Cup | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5ZsuZJrUpW69gL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",19:30 WIB Manchester City vs Fulham
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-logo="https://shorter.me/UXCX0" group-title="LIVE EVENT",19:30 WIB Millwall vs Queens Park Rangers
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",China Hongkong Open Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=b4609661520f2c2e0ff32cfe8fa35e72&wsTime=6b02c642&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",A Ma Li Ya u002FLa Ma Dan Di  VS Zhong Chu Jin u002FGao Qiao Mei You   2026ChinaXiang Gang Open Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1-imgplus.flv?wsSecret=8de929ea1e310968a12f69ca3d761b32&wsTime=6b02c657&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",A Ma Li Ya u002FLa Ma Dan Di  VS Zhong Chu Jin u002FGao Qiao Mei You    2026ChinaXiang Gang Open Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=47713c7beffc7281452c437f3d6ff6f3&wsTime=6b02c658&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=0e53cc69f467bfdf5d49c0b41b799142&wsTime=6b02e00d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Liu Zi Yu u002FAn Qi La  VS Chen Kang Le u002FDi Nuo  2026ChinaXiang Gang Open Badminton | HUYA CN | Gvision TV
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1-imgplus.flv?wsSecret=8bc63972ea49f82966ca831c3a0ebba6&wsTime=6b02e0da&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Liu Zi Yu u002FAn Qi La  VS Chen Kang Le u002FDi Nuo    2026ChinaXiang Gang Open Badminton | HUYA CN | Gvision TV
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=ee0baa791457da4d9a7be84e32752127&wsTime=6b02e0bf&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",[Belum Mulai] 20:00 WIB Deportivo Alaves vs Deportivo La Coruna
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.52a60033-3ef2-4909-a58c-fc8882826a12/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Live Event: Prime Sports",Australia vs. England  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -51,9 +83,11 @@ https://a164live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZ
 #KODIPROP:inputstream.adaptive.license_key=46bbf645122de0df0cd0b19d4487e2ce:45e84957268ce56d53ae6d0fadec5964
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fceyqwjpo4/out/v1/3d62c2d3722b4801b8c7dce78217ff87/cenc.mpd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",China Hongkong Open Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=fb51d7976f29c33fc7851fac3a9155a5&wsTime=6b02df8d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9mZWYxZjgxZmViYmUwMTJlMTFmOTg3NzI2ZjhmZWYxNS5wbmc%253D" group-title="Live Event: KickLIve",17:30 WIB shamakhi fk vs turan tovuz | Azerbaijan Premier League | KickLive | Gvision TV
-https://apxvf0ws91.yarncdn.live/live/sd-6MwarYAjf1qo6Rid8L/playlist.m3u8
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=6144b6f2a6c01657b53bad85c4167f5d&wsTime=6b02e37a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi80M2JkZmRiODYxOGQ1Y2RmMjc1MTE4NjBkZGQ1MWFlNy5wbmc%253D" group-title="Live Event: KickLIve",19:30 WIB japan u17 vs colombia u17 | FIFA U17 World Cup | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5ZsuibMD43VgFz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi80M2JkZmRiODYxOGQ1Y2RmMjc1MTE4NjBkZGQ1MWFlNy5wbmc%253D" group-title="Live Event: KickLIve",19:30 WIB serbia u17 vs honduras u17 | FIFA U17 World Cup | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5ZsuZJrUpW69gL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9lNzQ3NWNmYWNiMGJlYmQ2YWI4MWFlM2YwOWVmZGIyOC5wbmc%253D" group-title="Live Event: KickLIve",18:00 WIB fc baranovichi vs fc belshina babruisk | Belarusian Premier League | Server 1 | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6Mwd5hbuN8WKxu1rjz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9lNzQ3NWNmYWNiMGJlYmQ2YWI4MWFlM2YwOWVmZGIyOC5wbmc%253D" group-title="Live Event: KickLIve",18:00 WIB fc baranovichi vs fc belshina babruisk | Belarusian Premier League | Server 2 | KickLive | Gvision TV
@@ -64,20 +98,20 @@ https://apxvf0ws91.yarncdn.live/live/sd-6Mwd5hbuMbjbnBT2bS/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/sd-6Mwd5hbtXPxNhvbKV2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9kYzgyMTdiZjFjODIxOWQxMjY1ZmU3MDRmMWRkNDYwYi5wbmc%253D" group-title="Live Event: KickLIve",18:00 WIB fc syunik vs urartu | Armenian Premier League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MweLB8GSUbzcb8YCG/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi85NDIyYWE5MWI3MjM3M2M0ZDY5ZjZkY2Y0NzdhY2ViMi5wbmc%253D" group-title="Live Event: KickLIve",18:30 WIB kolos kovalivka vs metalist 1925 kharkiv | Ukrainian Premier League | KickLive | Gvision TV
-https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gpL91sbNGGQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9mNjczOTM1ZDExNWQxOWZkNDEyYmNlZGY5YWMzZjkzNi5wbmc%253D" group-title="Live Event: KickLIve",18:30 WIB young lions vs tanjong pagar united | Singapore Premier League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MxiZk7BergPNR1iuN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi85NDIyYWE5MWI3MjM3M2M0ZDY5ZjZkY2Y0NzdhY2ViMi5wbmc%253D" group-title="Live Event: KickLIve",18:40 WIB kolos kovalivka vs metalist 1925 kharkiv | Ukrainian Premier League | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gpL91sbNGGQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9hZDVhODkwYTRjZmRkYzQ5YzA1NmMzZmQyMTUzZDdhZC5wbmc%253D" group-title="Live Event: KickLIve",19:00 WIB bsk banja luka vs hsk zrinjski mostar | Bosnia and Herzegovina Premier League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MxjJwxGyhNcbvjgBa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9kNGQ0NjE2NzllZWRmZWQ1MDM3NGQ0N2Q4NDQzMWVmMy5wbmc%253D" group-title="Live Event: KickLIve",19:15 WIB akron togliatti vs fakel voronezh | Russian Premier League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MweaLBEpTeFQecGXr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8zNTQ5ZjE5MmM3NWNiYzczN2EwNWZkNTFlY2FkMzgzZS5wbmc%253D" group-title="Live Event: KickLIve",19:30 WIB manchester city vs fulham | English Premier League | Server 1 | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQgo9yQfUNbPfE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8zNTQ5ZjE5MmM3NWNiYzczN2EwNWZkNTFlY2FkMzgzZS5wbmc%253D" group-title="Live Event: KickLIve",19:30 WIB manchester city vs fulham | English Premier League | Server 2 | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQgo9yQfUNbPfE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi83ZGNkYzYyODNkMjU3ZTIyNTYxOTY3NTEyYzA2NzMzOS5wbmc%253D" group-title="Live Event: KickLIve",18:30 WIB parma women vs napoli women | Italian Women's Serie A | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MwarY7nDiwn1LtGtp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9lYWI2ZTM0OWNmNTgxMTQwOGMwNjI4YTc3NDcyNDg2OS5wbmc%253D" group-title="Live Event: KickLIve",19:00 WIB hannover 96 vs spvgg greuther furth | German Bundesliga 2 | KickLive | Gvision TV
-https://apxvf0ws91.yarncdn.live/live/sd-6MweaDiDSRXt2b4GrL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9lYWI2ZTM0OWNmNTgxMTQwOGMwNjI4YTc3NDcyNDg2OS5wbmc%253D" group-title="Live Event: KickLIve",19:00 WIB 1. fc nurnberg vs eintracht braunschweig | German Bundesliga 2 | KickLive | Gvision TV
-https://apxvf0ws91.yarncdn.live/live/sd-6MweaDiDc8CtqQYt7r/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Live Event: PlayZ",Australia vs England
 http://193.47.62.41/hls/SSSSAAAAQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg" group-title="Live Event: PlayZ",Melbourne United vs New Zealand Breakers
@@ -257,36 +291,71 @@ http://193.47.62.41/hls/QAQAQAAA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://193.47.62.41/hls/QAQAQAAAQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png" group-title="Live Event: PlayZ",Gillingham vs Crewe
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png" group-title="Live Event: PlayZ",Gillingham vs Crewe --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/8d8519fa-5013-44c9-87b1-e0589eadf66e.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png" group-title="Live Event: PlayZ",Gillingham vs Crewe --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://193.47.62.44/hls/Z888.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png" group-title="Live Event: PlayZ",Newport vs Swindon
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png" group-title="Live Event: PlayZ",Newport vs Swindon --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/05de9b52-6bdd-4105-824e-f6a52313ffeb.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png" group-title="Live Event: PlayZ",Newport vs Swindon --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://193.47.62.44/hls/Z888A.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png" group-title="Live Event: PlayZ",Reading vs Bromley
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png" group-title="Live Event: PlayZ",Reading vs Bromley --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/4148bc48-14fd-4135-8ad6-995a4b64fcf6.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png" group-title="Live Event: PlayZ",Reading vs Bromley --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://193.47.62.44/hls/Z888AAAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png" group-title="Live Event: PlayZ",Blackpool vs Wigan
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png" group-title="Live Event: PlayZ",Blackpool vs Wigan --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/6c65fe90-a41f-4f4e-93c0-8dad232e916b.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png" group-title="Live Event: PlayZ",Blackpool vs Wigan --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://193.47.62.44/hls/Z888AAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="Live Event: PlayZ",Norwich City vs Cardiff City --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/26c749ff-3215-45cc-b319-160c5a27fe6a.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="Live Event: PlayZ",Norwich City vs Cardiff City --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://193.47.62.44/hls/Z888AAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="Live Event: PlayZ",Southampton vs Derby County --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/82182685-23b4-4312-ab08-5110544d0780.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="Live Event: PlayZ",Southampton vs Derby County --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://193.47.62.44/hls/Z888AAAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="Live Event: PlayZ",Millwall vs QPR --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/8b81f26b-5016-4359-9174-d610686035a2.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="Live Event: PlayZ",Millwall vs QPR --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -297,7 +366,7 @@ http://193.47.62.44/hls/Z888AA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://www.rtmpcdn.com/live/c146aa6b-a552-4a21-8781-aa878a63c43b.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 19:30 WIB Cau lac bo bong da thanh pho Manchester vs Cau lac bo bong da Fulham | ColaTV | Gvision TV
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="Live Event: ColaTV",19:30 WIB Manchester City vs Fulham | ColaTV | Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -306,18 +375,18 @@ https://live05.wecile.app/live/08552895.m3u8
 https://live05.wecile.app/live/07428422.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80" group-title="Live Event: ColaTV",18:00 WIB Dong Nai vs Ha Noi FC | ColaTV | Gvision TV
 https://live05.wecile.app/live/75748097.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ec111e88997dce5a5f76c26b8e85d7f3.png!w80" group-title="Live Event: ColaTV",17:30 WIB Genclerbirligi vs Gaziantep Buyuksehir Belediyesi | ColaTV | Gvision TV
-https://live05.wecile.app/live/88508431.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80" group-title="Live Event: ColaTV",19:00 WIB VfL Wolfsburg vs CLB Holstein Kiel | ColaTV | Gvision TV
 https://live05.wecile.app/live/07808742.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/895a263ae5237d0edbaf850a907a59b0.png!w80" group-title="Live Event: ColaTV",19:00 WIB Nurnberg vs Braunschweig | ColaTV | Gvision TV
 https://live05.wecile.app/live/97885009.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1800be60204966114d63970b5d0873da.png!w80" group-title="Live Event: ColaTV",19:00 WIB Hannover 96 vs Greuther Furth | ColaTV | Gvision TV
 https://live05.wecile.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/4623d3fa1cda20d1f289dce9dc803527.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 19:30 WIB Southampton vs CLB Derby County | ColaTV | Gvision TV
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/4623d3fa1cda20d1f289dce9dc803527.png!w80" group-title="Live Event: ColaTV",19:30 WIB Southampton vs CLB Derby County | ColaTV | Gvision TV
 https://live05.wecile.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80" group-title="Live Event: ColaTV",07:30 WIB New York Knicks vs Portland Trail Blazers | ColaTV | Gvision TV
-https://live05.wecile.app/live/87379114.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/fffbebaa7a0c3c2db7e8d637a3de1811.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 20:00 WIB Alaves vs Dep. La Coruna | ColaTV | Gvision TV
+https://live05.wecile.app/live/33860426.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 20:00 WIB Galatasaray vs CLB Samsunspor | ColaTV | Gvision TV
+https://live05.wecile.app/live/49572724.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7654a95374767f93f6bec6a3d4819f76.png!w80" group-title="Live Event: ColaTV",08:00 WIB U.N.A.M.- Pumas vs Monterrey | ColaTV | Gvision TV
 https://live05.wecile.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80" group-title="Live Event: ColaTV",08:00 WIB Dallas Mavericks vs Los Angeles Clippers | ColaTV | Gvision TV
