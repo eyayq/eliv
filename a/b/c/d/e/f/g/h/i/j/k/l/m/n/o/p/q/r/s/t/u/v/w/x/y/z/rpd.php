@@ -1,84 +1,78 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [08.12 WIB 21/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [08.30 WIB 21/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/palestino-31f7d5.webp" group-title="[LIVE 06:30 WIB 21/11/26] Palestino vs Union La Calera | Server 1",[LIVE 06:30 WIB 21/11/26] Palestino vs Union La Calera | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ae3668bc60fabad17aa281c.m3u8?auth_key=1795246022-0-0-bc67925b7c440d9b2982ee2426b16d15
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/palestino-31f7d5.webp" group-title="[LIVE 06:30 WIB 21/11/26] Palestino vs Union La Calera | Server 2",[LIVE 06:30 WIB 21/11/26] Palestino vs Union La Calera | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1795227968-0-0-a0c683aba494278a22353f85229e1d76
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/palestino-31f7d5.webp" group-title="[LIVE 06:30 WIB 21/11/26] Palestino vs Union La Calera | Server 3",[LIVE 06:30 WIB 21/11/26] Palestino vs Union La Calera | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1795227968-0-0-8ce887b95542ed8f97e53df2f70b73f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/palestino-31f7d5.webp" group-title="[LIVE 06:30 WIB 21/11/26] Palestino vs Union La Calera | Server 4",[LIVE 06:30 WIB 21/11/26] Palestino vs Union La Calera | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1795227968-0-0-e4b214ee30de9da6e09e86b9f6dd1649
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/palestino-31f7d5.webp" group-title="[LIVE 06:30 WIB 21/11/26] Palestino vs Union La Calera | Server 5",[LIVE 06:30 WIB 21/11/26] Palestino vs Union La Calera | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1795227968-0-0-13c36586651bdc373d0c7818ea545a34
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/elco-ltd-st-peters-fac3a1.png" group-title="[LIVE 06:30 WIB 21/11/26] ELCO LTD St Peters vs TGE Dieppe Bay Eagles | Server 1",[LIVE 06:30 WIB 21/11/26] ELCO LTD St Peters vs TGE Dieppe Bay Eagles | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6aff243ab29a32ad12dbe5c3.m3u8?auth_key=1795244701-0-0-b6cb82e0b95eff3562e8f1a2974bd2f1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cd-palestino-11bded.png" group-title="[LIVE 06:30 WIB 21/11/26] CD Palestino vs Union La Calera | Server 1",[LIVE 06:30 WIB 21/11/26] CD Palestino vs Union La Calera | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae3668bc60fabad17aa281c.m3u8?auth_key=1795244764-0-0-ab1f6f4bf0df0017084a830ffaafd26c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cd-palestino-11bded.png" group-title="[LIVE 06:30 WIB 21/11/26] CD Palestino vs Union La Calera | Server 2",[LIVE 06:30 WIB 21/11/26] CD Palestino vs Union La Calera | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/a63975e16b707272.m3u8?wsSecret=4B70A933560A9A0FEBAC24AA6A103911&wsTime=1795223107
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cd-palestino-11bded.png" group-title="[LIVE 06:30 WIB 21/11/26] CD Palestino vs Union La Calera | Server 3",[LIVE 06:30 WIB 21/11/26] CD Palestino vs Union La Calera | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1795226708-0-0-921b505c0e35834a4c01a21386723837
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cd-palestino-11bded.png" group-title="[LIVE 06:30 WIB 21/11/26] CD Palestino vs Union La Calera | Server 4",[LIVE 06:30 WIB 21/11/26] CD Palestino vs Union La Calera | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1795226708-0-0-6993fe3b78722903b1133914213ffb71
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cd-palestino-11bded.png" group-title="[LIVE 06:30 WIB 21/11/26] CD Palestino vs Union La Calera | Server 5",[LIVE 06:30 WIB 21/11/26] CD Palestino vs Union La Calera | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1795226708-0-0-e54d444c254c51f3d9a9f25fd8e0bbea
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cd-palestino-11bded.png" group-title="[LIVE 06:30 WIB 21/11/26] CD Palestino vs Union La Calera | Server 6",[LIVE 06:30 WIB 21/11/26] CD Palestino vs Union La Calera | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1795226708-0-0-54712f35dfa46cc05448a246a75cb762
+https://pull.fmp.live/sla/1-6aff243ab29a32ad12dbe5c3.m3u8?auth_key=1795246022-0-0-03628d81647c46483b9182e4561e027b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-bucaramanga-7e9fa1.webp" group-title="[LIVE 06:35 WIB 21/11/26] Atletico Bucaramanga vs America De Cali | Server 1",[LIVE 06:35 WIB 21/11/26] Atletico Bucaramanga vs America De Cali | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/d9770acf55a15056.m3u8?wsSecret=08C6DC2ABE874C360DD5314C9F47419B&wsTime=1795223107
+https://play.lacrima2000.com/live/d9770acf55a15056.m3u8?wsSecret=CD793D896B5AADEA9612DEEE7B279046&wsTime=1795224369
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-bucaramanga-7e9fa1.webp" group-title="[LIVE 06:35 WIB 21/11/26] Atletico Bucaramanga vs America De Cali | Server 2",[LIVE 06:35 WIB 21/11/26] Atletico Bucaramanga vs America De Cali | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1795226708-0-0-c491ef859a63102814f95110d813fd5d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1795227968-0-0-22d14f3e72a812fb51c444de0b1790a4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-bucaramanga-7e9fa1.webp" group-title="[LIVE 06:35 WIB 21/11/26] Atletico Bucaramanga vs America De Cali | Server 3",[LIVE 06:35 WIB 21/11/26] Atletico Bucaramanga vs America De Cali | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1795226708-0-0-5650a777d86c2516fdb38123fbaa66c0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1795227968-0-0-8bf30e012a4b81c826f0cfdb0c54d9fc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/auckland-city-2905ef.webp" group-title="[LIVE 07:00 WIB 21/11/26] Auckland City vs Napier City Rovers | Server 1",[LIVE 07:00 WIB 21/11/26] Auckland City vs Napier City Rovers | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae0c3b270a52b8b4e391d5e.m3u8?auth_key=1795244701-0-0-895ec81097083fdd16a3efbb9666a5df
+https://pull.fmp.live/sla/1-6ae0c3b270a52b8b4e391d5e.m3u8?auth_key=1795246022-0-0-5f46271f80a186b4514eaa930aeec08e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/auckland-city-2905ef.webp" group-title="[LIVE 07:00 WIB 21/11/26] Auckland City vs Napier City Rovers | Server 2",[LIVE 07:00 WIB 21/11/26] Auckland City vs Napier City Rovers | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-623653_lsd.m3u8?auth_key=1795226708-0-0-131e97602624048ccd754da2b14dbaf8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1795227968-0-0-e72bd6a9584bdbf4d2a62fc327ac8813
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/auckland-city-2905ef.webp" group-title="[LIVE 07:00 WIB 21/11/26] Auckland City vs Napier City Rovers | Server 3",[LIVE 07:00 WIB 21/11/26] Auckland City vs Napier City Rovers | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1795226708-0-0-c63178767a5c71ab95a89d1a3424c546
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1795227968-0-0-8230264d6b67a92a7b68dda6b8272c1d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/auckland-city-2905ef.webp" group-title="[LIVE 07:00 WIB 21/11/26] Auckland City vs Napier City Rovers | Server 4",[LIVE 07:00 WIB 21/11/26] Auckland City vs Napier City Rovers | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1795226708-0-0-1d68d6b118498027015c1a61c5300498
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-623653_lsd.m3u8?auth_key=1795227968-0-0-13bf70481161fb8419620d81d5d3478e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/auckland-city-2905ef.webp" group-title="[LIVE 07:00 WIB 21/11/26] Auckland City vs Napier City Rovers | Server 5",[LIVE 07:00 WIB 21/11/26] Auckland City vs Napier City Rovers | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1795226708-0-0-62f792c3bec33d409f7e7a4177fa1f5d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1795227968-0-0-fcfe05b5f72d8f00fdfe51496a0f4ffc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atlanta-hawks-01c726.webp" group-title="[LIVE 07:00 WIB 21/11/26] Atlanta Hawks vs Charlotte Hornets | Server 1",[LIVE 07:00 WIB 21/11/26] Atlanta Hawks vs Charlotte Hornets | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1795226708-0-0-a9faeaf42802df2bf09178fa84219107
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1795227968-0-0-b9c3a7ef401930ae3a1a87e0c7ca5e88
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atlanta-hawks-01c726.webp" group-title="[LIVE 07:00 WIB 21/11/26] Atlanta Hawks vs Charlotte Hornets | Server 2",[LIVE 07:00 WIB 21/11/26] Atlanta Hawks vs Charlotte Hornets | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1795226708-0-0-b6538dfb35358ea9ca026df759231b8f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1795227968-0-0-c30a7273411f135b286978a673e660fb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saint-peters-strikers-fc-30a0ea.png" group-title="[LIVE 07:00 WIB 21/11/26] Saint Peters Strikers FC vs Dieppe Bay Eagles | Server 1",[LIVE 07:00 WIB 21/11/26] Saint Peters Strikers FC vs Dieppe Bay Eagles | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/5cbae310863a109a.m3u8?wsSecret=FB6DFEA86ABCF875759953A1893A9C3C&wsTime=1795223107
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cleveland-cavaliers-26cce9.webp" group-title="[LIVE 07:30 WIB 21/11/26] Cleveland Cavaliers vs Indiana Pacers | Server 1",[LIVE 07:30 WIB 21/11/26] Cleveland Cavaliers vs Indiana Pacers | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1795226708-0-0-0c4cc6053c6d3c50cf2caa13c573a882
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cleveland-cavaliers-26cce9.webp" group-title="[LIVE 07:30 WIB 21/11/26] Cleveland Cavaliers vs Indiana Pacers | Server 2",[LIVE 07:30 WIB 21/11/26] Cleveland Cavaliers vs Indiana Pacers | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1795226708-0-0-0866c7927f3517fb3793bdaeaa20ed50
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/detroit-pistons-baffdd.webp" group-title="[LIVE 07:30 WIB 21/11/26] Detroit Pistons vs Toronto Raptors | Server 1",[LIVE 07:30 WIB 21/11/26] Detroit Pistons vs Toronto Raptors | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1795226768-0-0-87b8979b8d3671b04e85544d9f7cbc38
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/detroit-pistons-baffdd.webp" group-title="[LIVE 07:30 WIB 21/11/26] Detroit Pistons vs Toronto Raptors | Server 2",[LIVE 07:30 WIB 21/11/26] Detroit Pistons vs Toronto Raptors | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1795226768-0-0-eb5881cee235534acd7bab57cf2e94c4
+https://play.lacrima2000.com/live/5cbae310863a109a.m3u8?wsSecret=85601525B296F92F4EC30C8BF7CCCF81&wsTime=1795224369
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brooklyn-nets-fd3acf.webp" group-title="[LIVE 07:30 WIB 21/11/26] Brooklyn Nets vs Orlando Magic | Server 1",[LIVE 07:30 WIB 21/11/26] Brooklyn Nets vs Orlando Magic | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1795226708-0-0-bcce641c9745558e984c7c703a5931f8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1795227968-0-0-f22ead10c42b2ef4007f90afac8da138
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brooklyn-nets-fd3acf.webp" group-title="[LIVE 07:30 WIB 21/11/26] Brooklyn Nets vs Orlando Magic | Server 2",[LIVE 07:30 WIB 21/11/26] Brooklyn Nets vs Orlando Magic | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1795226708-0-0-3dce713c977842a3fe37ce6895f73f7e
-#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/577e0df3f80cd623c4b15f2f9d814468.png" group-title="[LIVE 07:30 WIB 21/11/26] La Fama vs Racing Club Aruba | Server 1",[LIVE 07:30 WIB 21/11/26] La Fama vs Racing Club Aruba | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mxk3yu3sW6wcTstDJ.m3u8?txSecret=9afb6ede93929c11d0321a667aa86fbf&txTime=6B01973D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1795227968-0-0-9d23d87b044735d2122a6e3ba7e6e905
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/detroit-pistons-baffdd.webp" group-title="[LIVE 07:30 WIB 21/11/26] Detroit Pistons vs Toronto Raptors | Server 1",[LIVE 07:30 WIB 21/11/26] Detroit Pistons vs Toronto Raptors | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1795227968-0-0-ef96d7c9f925d065016a3a52e381a818
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/detroit-pistons-baffdd.webp" group-title="[LIVE 07:30 WIB 21/11/26] Detroit Pistons vs Toronto Raptors | Server 2",[LIVE 07:30 WIB 21/11/26] Detroit Pistons vs Toronto Raptors | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1795227968-0-0-6e0179bdf64cec81d7fcd5fce6df7444
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cleveland-cavaliers-26cce9.webp" group-title="[LIVE 07:30 WIB 21/11/26] Cleveland Cavaliers vs Indiana Pacers | Server 1",[LIVE 07:30 WIB 21/11/26] Cleveland Cavaliers vs Indiana Pacers | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1795227968-0-0-dfc4c28c56aef5669610c74bbfd44b87
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cleveland-cavaliers-26cce9.webp" group-title="[LIVE 07:30 WIB 21/11/26] Cleveland Cavaliers vs Indiana Pacers | Server 2",[LIVE 07:30 WIB 21/11/26] Cleveland Cavaliers vs Indiana Pacers | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1795227968-0-0-551ad14ab12c791ec1a13d8ac20fd974
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 1",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MwdpnuZYf4TCtvnMJ.m3u8?txSecret=ca69f09f86c89a16b8b082f5690c1661&txTime=6B01973D
+https://live.cds78y11d.org/live/sd-6MwdpnuZYf4TCtvnMJ.m3u8?txSecret=6ad06bd4ecd8ff0e6c7cb4d5811320a5&txTime=6B019C28
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 2",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/puebla-atlluis-mexliga/index.m3u8
@@ -87,43 +81,67 @@ https://hls.lauthaitv.cc/live/puebla-atlluis-mexliga/index.m3u8
 https://flv.lauthaitv.cc/live/puebla-atlluis-mexliga.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 4",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae0c3b270a52b8b4e391d61.m3u8?auth_key=1795244701-0-0-0fd9987c1a3218ae6e0f0881472a18b6
+https://pull.fmp.live/sla/1-6ae0c3b270a52b8b4e391d61.m3u8?auth_key=1795245961-0-0-bb40e8813335750fd1d76c41c66461e4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 5",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/cb372cd51fe923cc.m3u8?wsSecret=13B54DA9AAC8BF38976DB2132F4C12A2&wsTime=1795223107
+https://play.lacrima2000.com/live/cb372cd51fe923cc.m3u8?wsSecret=4EE6858C41431AE91FACDC7955E96465&wsTime=1795224369
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 6",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1795226768-0-0-4ef1d49fe497c8e57bfc5c74d681124a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1795228028-0-0-de37acc6ea5e1c45fad329f8ce211f3b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 7",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1795226768-0-0-49cbc9dbfd770a6b595cbc52b5cffbff
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1795228028-0-0-fc392391c572cac9f05e0c07222114c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 8",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1795226768-0-0-e12ab2cbd77d8f192d30800dfa5c3f3f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1795228028-0-0-7e56a0d8749d438b90ea370db3090e49
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 9",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1795226768-0-0-2a709fd7a70815db1fd5842b61eab517
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1795228028-0-0-99b2385d0307baa729b4062f27af0ae6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 10",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1795226768-0-0-d45615c91e42c1dcea8ab53bb016a42a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=15b6e20461d3d9ea5f73a180a513be05&txTime=6b0147cc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 11",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1795226768-0-0-d258eeb8be39b8a5fc8df7136a0b9bcb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=3719bce587bd34a0fba45e133e8d4529&txTime=6b0147cc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 12",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=b10c9d7ed5abf3b9e8f56f1d2db64f67&txTime=6b0142e0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1795228028-0-0-60edb41efc03627969fa4d2073f0df32
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 13",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=824242b6eb66611a694f6efb6758434e&txTime=6b0142e0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1795228028-0-0-ffabbd3ed5a13d3242087521eb8a44d6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 14",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1795226768-0-0-9b4c580e7bf8e47166a85c8891e27df1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1795228028-0-0-d4aa66b805611f2e5478e22ad1f97188
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 15",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1795226768-0-0-68fa517711ebff94c5004dc0dffccbf3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1795228028-0-0-eb4e7f9cd34ca8de007ce79081d55eac
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 16",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1795226768-0-0-49a204119b01b47e026881a32581c68d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1795228028-0-0-78eb2ba7c8597c7f4d22c19234f2ac0b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 17",[LIVE 08:00 WIB 21/11/26] Puebla vs Atletico San Luis | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1795226768-0-0-e7f8b0143f48c7dff3be3c215dcc0802
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1795228028-0-0-50e18a7d8fc8f82c9e7d3e0543dda551
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-cali-6e82c1.png" group-title="[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 1",[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1795228028-0-0-df9c21357a9d2877e3aaf32923ce1b8d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-cali-6e82c1.png" group-title="[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 2",[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1795228028-0-0-30701f9ca8dc61bb6bd67d10f4a33a95
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-cali-6e82c1.png" group-title="[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 3",[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=23b0f86b7db12591957bfc26b3cdf95c&txTime=6b0147cc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-cali-6e82c1.png" group-title="[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 4",[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=7c207be8b07fc92d8c2fe6012d0553a9&txTime=6b0147cc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-cali-6e82c1.png" group-title="[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 5",[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1795228028-0-0-f1410652b1027993429af48f3f2b52cb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-cali-6e82c1.png" group-title="[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 6",[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1795228028-0-0-bbc3b8a76b2590b154a9fe3203b2540f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-cali-6e82c1.png" group-title="[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 7",[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1795228028-0-0-305efb05f3a97832d70897b5ec777900
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-cali-6e82c1.png" group-title="[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 8",[LIVE 08:40 WIB 21/11/26] Deportivo Cali vs Millonarios | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1795228028-0-0-450c5a2a52e7ba409fb67fa56efea687
