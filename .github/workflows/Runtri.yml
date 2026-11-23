@@ -13,9 +13,9 @@ concurrency:
   queue: max   
 
 jobs:
-  runner:
+  bhns0:
     runs-on: ubuntu-22.04
-    timeout-minutes: 660
+    timeout-minutes: 3660
 
     steps:
       - name: ♪
