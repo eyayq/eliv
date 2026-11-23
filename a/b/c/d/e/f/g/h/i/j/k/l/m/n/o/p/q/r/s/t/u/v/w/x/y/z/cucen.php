@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [03.31 WIB 24/11/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [03.41 WIB 24/11/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php
 #EXTINF:-1 tvg-id="1550203" tvg-logo="https://media.chuoichientv.net/media/20251115_113434_59a0fece.png" group-title="[LIVE 02:45 WIB 24/11/26] Monza vs Fiorentina",[LIVE 02:45 WIB 24/11/26] Monza vs Fiorentina (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -31,62 +31,62 @@ https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1492467" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png" group-title="[UPCOMING 1j 58m 05:30 WIB 24/11/26] Internacional vs Vitoria",[UPCOMING 1j 58m 05:30 WIB 24/11/26] Internacional vs Vitoria (HD1)
+#EXTINF:-1 tvg-id="1492467" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png" group-title="[UPCOMING 1j 48m 05:30 WIB 24/11/26] Internacional vs Vitoria",[UPCOMING 1j 48m 05:30 WIB 24/11/26] Internacional vs Vitoria (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="1492467" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png" group-title="[UPCOMING 1j 58m 05:30 WIB 24/11/26] Internacional vs Vitoria",[UPCOMING 1j 58m 05:30 WIB 24/11/26] Internacional vs Vitoria (HD2)
+#EXTINF:-1 tvg-id="1492467" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png" group-title="[UPCOMING 1j 48m 05:30 WIB 24/11/26] Internacional vs Vitoria",[UPCOMING 1j 48m 05:30 WIB 24/11/26] Internacional vs Vitoria (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1492469" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png" group-title="[UPCOMING 3j 28m 07:00 WIB 24/11/26] Santos vs Gremio",[UPCOMING 3j 28m 07:00 WIB 24/11/26] Santos vs Gremio (HD1)
+#EXTINF:-1 tvg-id="1492469" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png" group-title="[UPCOMING 3j 18m 07:00 WIB 24/11/26] Santos vs Gremio",[UPCOMING 3j 18m 07:00 WIB 24/11/26] Santos vs Gremio (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="1492469" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png" group-title="[UPCOMING 3j 28m 07:00 WIB 24/11/26] Santos vs Gremio",[UPCOMING 3j 28m 07:00 WIB 24/11/26] Santos vs Gremio (HD2)
+#EXTINF:-1 tvg-id="1492469" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png" group-title="[UPCOMING 3j 18m 07:00 WIB 24/11/26] Santos vs Gremio",[UPCOMING 3j 18m 07:00 WIB 24/11/26] Santos vs Gremio (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1649498" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 4j 28m 08:00 WIB 24/11/26] St. Louis City vs Los Angeles FC",[UPCOMING 4j 28m 08:00 WIB 24/11/26] St. Louis City vs Los Angeles FC (HD1)
+#EXTINF:-1 tvg-id="1649498" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 4j 18m 08:00 WIB 24/11/26] St. Louis City vs Los Angeles FC",[UPCOMING 4j 18m 08:00 WIB 24/11/26] St. Louis City vs Los Angeles FC (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
-#EXTINF:-1 tvg-id="1649498" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 4j 28m 08:00 WIB 24/11/26] St. Louis City vs Los Angeles FC",[UPCOMING 4j 28m 08:00 WIB 24/11/26] St. Louis City vs Los Angeles FC (HD2)
+#EXTINF:-1 tvg-id="1649498" tvg-logo="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 4j 18m 08:00 WIB 24/11/26] St. Louis City vs Los Angeles FC",[UPCOMING 4j 18m 08:00 WIB 24/11/26] St. Louis City vs Los Angeles FC (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8
-#EXTINF:-1 tvg-id="1629982" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 13j 28m 17:00 WIB 24/11/26] Daejeon Citizen vs Beijing Guoan",[UPCOMING 13j 28m 17:00 WIB 24/11/26] Daejeon Citizen vs Beijing Guoan (HD1)
+#EXTINF:-1 tvg-id="1629982" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 13j 18m 17:00 WIB 24/11/26] Daejeon Citizen vs Beijing Guoan",[UPCOMING 13j 18m 17:00 WIB 24/11/26] Daejeon Citizen vs Beijing Guoan (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="1629982" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 13j 28m 17:00 WIB 24/11/26] Daejeon Citizen vs Beijing Guoan",[UPCOMING 13j 28m 17:00 WIB 24/11/26] Daejeon Citizen vs Beijing Guoan (HD2)
+#EXTINF:-1 tvg-id="1629982" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 13j 18m 17:00 WIB 24/11/26] Daejeon Citizen vs Beijing Guoan",[UPCOMING 13j 18m 17:00 WIB 24/11/26] Daejeon Citizen vs Beijing Guoan (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1629983" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 13j 28m 17:00 WIB 24/11/26] Kyoto Sanga vs Pohang Steelers",[UPCOMING 13j 28m 17:00 WIB 24/11/26] Kyoto Sanga vs Pohang Steelers (HD1)
+#EXTINF:-1 tvg-id="1629983" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 13j 18m 17:00 WIB 24/11/26] Kyoto Sanga vs Pohang Steelers",[UPCOMING 13j 18m 17:00 WIB 24/11/26] Kyoto Sanga vs Pohang Steelers (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="1629983" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 13j 28m 17:00 WIB 24/11/26] Kyoto Sanga vs Pohang Steelers",[UPCOMING 13j 28m 17:00 WIB 24/11/26] Kyoto Sanga vs Pohang Steelers (HD2)
+#EXTINF:-1 tvg-id="1629983" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 13j 18m 17:00 WIB 24/11/26] Kyoto Sanga vs Pohang Steelers",[UPCOMING 13j 18m 17:00 WIB 24/11/26] Kyoto Sanga vs Pohang Steelers (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="1629985" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 15j 43m 19:15 WIB 24/11/26] Ratchaburi vs Johor Darul Takzim FC",[UPCOMING 15j 43m 19:15 WIB 24/11/26] Ratchaburi vs Johor Darul Takzim FC (HD1)
+#EXTINF:-1 tvg-id="1629985" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 15j 33m 19:15 WIB 24/11/26] Ratchaburi vs Johor Darul Takzim FC",[UPCOMING 15j 33m 19:15 WIB 24/11/26] Ratchaburi vs Johor Darul Takzim FC (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="1629985" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 15j 43m 19:15 WIB 24/11/26] Ratchaburi vs Johor Darul Takzim FC",[UPCOMING 15j 43m 19:15 WIB 24/11/26] Ratchaburi vs Johor Darul Takzim FC (HD2)
+#EXTINF:-1 tvg-id="1629985" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_bd9cc718.png" group-title="[UPCOMING 15j 33m 19:15 WIB 24/11/26] Ratchaburi vs Johor Darul Takzim FC",[UPCOMING 15j 33m 19:15 WIB 24/11/26] Ratchaburi vs Johor Darul Takzim FC (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
