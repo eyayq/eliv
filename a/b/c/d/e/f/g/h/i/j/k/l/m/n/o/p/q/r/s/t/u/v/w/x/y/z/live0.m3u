@@ -1,28 +1,40 @@
 #EXTM3U
-# ⏰ Latest Updated: 07:40:08 WIB 24-11-2026
-# 🔄 Total Channels: 840
+# ⏰ Latest Updated: 07:58:28 WIB 24-11-2026
+# 🔄 Total Channels: 850
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [07:40:08 WIB 24-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [07:58:28 WIB 24-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
+#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_elite_2026/img/acl_elite_2026_1200-630.png" group-title="LIVE EVENT",14:45 WIB newcastle jets vs kashiwa reysol | AFC Champions League Elite | Server 1 | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4TDDc6khT2zes2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_elite_2026/img/acl_elite_2026_1200-630.png" group-title="LIVE EVENT",14:45 WIB newcastle jets vs kashiwa reysol | AFC Champions League Elite | Server 2 | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4TDDc6khT2zes2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE EVENT",14:45 WIB Newcastle Jets vs Kashiwa Reysol | AFC Champions League | Server 1 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/C444.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE EVENT",14:45 WIB Newcastle Jets vs Kashiwa Reysol | AFC Champions League | Server 2 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/573a52ae88e2dc0d538ebb7f1fb13c44fead290769efd0dda927462594a842ac.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=2200d534b18fd7e6a25197197d6fc847&wsTime=6b069020&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=729c2a7a26ab1d52c1a154c0820ff3b2&wsTime=6b069496&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 2 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=7161c32321b7918948f61c6265684339&wsTime=6b069022&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=2b65d106a9230b4cadb53e539866dbec&wsTime=6b06947c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 3 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=297302b7d5a70196ce0de88ebb54367f&wsTime=6b069024&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=cc711771a73b34d9a005c95f1977a3f6&wsTime=6b06948d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 4 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855026-10057-A-0-1.flv?wsSecret=37d8ea1765dfbab44e9b894e55e3c589&wsTime=6b069025&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855026-10057-A-0-1.flv?wsSecret=bd9a571fb894001954069667f68f9f18&wsTime=6b069487&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Sa Mi Ya vsYa Ta Wei Ming  2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=4edf7085b9258325eab6ba9151dc2897&wsTime=6b069021&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=54743b190594047297836284af5a9552&wsTime=6b069495&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Pa Te Li vsHa Ni  2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=d3e57912f3a11141295ddcf5165ac973&wsTime=6b069022&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=87a4e9e479b046cd8b31a994fd7594f2&wsTime=6b069497&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Guo Yu You Xian  IndiaMo Di Tiao Zhan Sai  BadmintonZhi Bo  | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1199656255873-1199656255873-5842788851378028544-2399312635202-10057-A-0-1-imgplus.flv?wsSecret=63a5a0151b626f312ff726e6186ab089&wsTime=6b069024&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1199656255873-1199656255873-5842788851378028544-2399312635202-10057-A-0-1-imgplus.flv?wsSecret=90d17eec190fa3909d671e3da938363c&wsTime=6b069498&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 1 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6082902_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 2 | Gvision TV
@@ -64,13 +76,13 @@ insertar3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sv7OnRZBgYw/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 04:30 WIB BRASILIA X PINHEIROS - WOMEN'S VOLEI SUPERLEAGUE | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/kick.php/.m3u8?id=led-stadium
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=b9595738bd0850771b1741de1b4ec632&wsTime=6b06905d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=6e3ea6ef138346059314591998a9b44e&wsTime=6b0694b7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 2 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=ae003dc812294925512d94ac56a71294&wsTime=6b06904b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=e2560850919388784d54c75a50ae93f6&wsTime=6b0694d1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 3 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=dd9b6d7c9f1106635410485fd1e54191&wsTime=6b06905f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=2f8ab51f7da55bdc2d04a413bd0d7934&wsTime=6b0694d2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 4 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855026-10057-A-0-1.flv?wsSecret=90888fb03b2bb623263e6c9630eed647&wsTime=6b069066&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855026-10057-A-0-1.flv?wsSecret=06f847dd186b8793be2227b02ec7c25e&wsTime=6b0694cf&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="Live Event: Badminton",Syed Modi India | Court 1 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6082902_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="Live Event: Badminton",Syed Modi India | Court 2 | Gvision TV
@@ -79,9 +91,29 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/215_6078867_1.m3u8?auth_key=88039
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6082904_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="Live Event: Badminton",Syed Modi India | Court 4 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6078872_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9iYmU3M2UwMmRmZDA3MzdiOThkMTY0NjVhZTAxNGQ5ZS5wbmc%253D" group-title="Live Event: KickLIve",14:45 WIB newcastle jets vs kashiwa reysol | AFC Champions League Elite | Server 1 | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4TDDc6khT2zes2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9iYmU3M2UwMmRmZDA3MzdiOThkMTY0NjVhZTAxNGQ5ZS5wbmc%253D" group-title="Live Event: KickLIve",14:45 WIB newcastle jets vs kashiwa reysol | AFC Champions League Elite | Server 2 | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4TDDc6khT2zes2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8zMGEwN2Q5OWYxZTk5ODc1NGIxMjdlZGI0OGY5ZmJkOS5wbmc%253D" group-title="Live Event: KickLIve",13:00 WIB yirga chefe bunna vs bench maji buna fc | Ethiopian Higher League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MxjobpoefQHm62FuA/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/cb7c21cdf0ae82e8a97065118f89f816.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 14:45 WIB Newcastle Jets vs Kashiwa Reysol | ColaTV | Gvision TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",14:45 WIB Newcastle Jets vs Kashiwa Reysol | AFC Champions League | Server 1 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/C444.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",14:45 WIB Newcastle Jets vs Kashiwa Reysol | AFC Champions League | Server 2 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/573a52ae88e2dc0d538ebb7f1fb13c44fead290769efd0dda927462594a842ac.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Live Event: Fawa",[ Belum Mulai ] 15:00 WIB South Africa vs Bangladesh | Cricket | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/RREGEGEAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Live Event: Fawa",[ Belum Mulai ] 15:15 WIB Australia vs England | Cricket | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/C444A.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/cb7c21cdf0ae82e8a97065118f89f816.png!w80" group-title="Live Event: ColaTV",14:45 WIB Newcastle Jets vs Kashiwa Reysol | ColaTV | Gvision TV
 https://live05.wecile.app/live/14830711.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?w=1280&h=720&fit=contain&cbg=ffffff&url=https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (VS OS6)
 #EXTVLCOPT:http-user-agent=android-R+
