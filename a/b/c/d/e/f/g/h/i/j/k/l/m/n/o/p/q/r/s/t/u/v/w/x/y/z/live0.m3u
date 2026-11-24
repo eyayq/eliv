@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 12:27:55 WIB 24-11-2026
-# 🔄 Total Channels: 885
+# ⏰ Latest Updated: 12:33:32 WIB 24-11-2026
+# 🔄 Total Channels: 894
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:27:55 WIB 24-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:33:32 WIB 24-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE EVENT",17:00 WIB Kyoto vs Pohang | AFC Champions League | Server 1 | FAWA | Gvision TV
@@ -61,20 +61,28 @@ http://193.47.62.41/hls/KIKIKI.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://www.rtmpcdn.com/live/c0e670b5e25255d6e81fdfeb04c42dee9a5dd4e0fcc1d48f571beecdafd308aa.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg" group-title="LIVE EVENT",19:30 WIB Venezuela U17 vs Romania U17 | World Cup U17 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/KIKIKIAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg" group-title="LIVE EVENT",19:30 WIB Costa Rica U17 vs Ireland U17 | World Cup U17 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/KIKIKIAAA.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=ce2c020c770e0f1dfbdf2b2e3b84a4fd&wsTime=6b06d23e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=8ef4712ed6b9fb14a0538a4397373b84&wsTime=6b06d508&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 2 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=836f423aae12c00f0bfadcd77c476694&wsTime=6b06d23f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=10878f62e815552e8dbae7be2711fe01&wsTime=6b06d50a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 3 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=1a2b1710cce05c8af384933590aebd1e&wsTime=6b06d22e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=d1e0bed64985075b6f2642d7f82b4e22&wsTime=6b06d50b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 4 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855026-10057-A-0-1.flv?wsSecret=d10db1c8bb92987f50fcd8e0407bab72&wsTime=6b06d241&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855026-10057-A-0-1.flv?wsSecret=76d8cce2674db8951073b40628162e7c&wsTime=6b06d4fc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Ni Shu u002FTa Nu VSAi Bi Gai Er u002FAi Si Te Er  2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=30cd553fd57c2d4130d36595dc44b2fa&wsTime=6b06d23b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=929dfa10de8cc4ef3377a882d1154c22&wsTime=6b06d508&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Qia Tuo En u002FLei Nuo A VSJia La Jia u002FPu Lu Te Wei  2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=ab72a8d89b912df90940369c67baf96e&wsTime=6b06d23d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=026c648fbfc50afacfeccd6ee88804e1&wsTime=6b06d50a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Guo Yu You Xian  IndiaMo Di Tiao Zhan Sai  BadmintonZhi Bo  | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1199656255873-1199656255873-5842788851378028544-2399312635202-10057-A-0-1-imgplus.flv?wsSecret=565a9a6ed927bab3d2882c2dc815b388&wsTime=6b06d23f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1199656255873-1199656255873-5842788851378028544-2399312635202-10057-A-0-1-imgplus.flv?wsSecret=f5eb67480e2cc114ff9a3058b19b263e&wsTime=6b06d50b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 1 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6082303_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 2 | Gvision TV
@@ -83,6 +91,10 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/215_6083044_1.m3u8?auth_key=88039
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6082301_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 4 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6078873_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg" group-title="LIVE EVENT",[ Belum Mulai ] 20:00 WIB Japan U17 vs Serbia U17 | World Cup U17 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/KIKIKIAAAAQQQ.m3u8
 #EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS4xYTgwN2UzNC01OGU4LTRjMjAtYTAzNi1kYWY5ZWE3NTkwNGMvMi9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="Live Event: Prime Sports",Italia: Milan Icons vs. Rome Gladiators  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -129,18 +141,18 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/
 insertar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/i5LUFbWk-QI/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 23:00 WIB Fenerbahce Medicana ISTANBUL vs Vasas Obuda BUDAPEST - CEV Champions League Volley 2027 | Gvision TV
 insertar2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1_uOfjXWAeU/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 02:00 WIB Mladost ZAGREB vs Fino KAPOSVAR - CEV XTB Champions League Volley 2027 | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1_uOfjXWAeU/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 02:00 WIB  | Gvision TV
 insertar3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sv7OnRZBgYw/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 04:30 WIB BRASILIA X PINHEIROS - WOMEN'S VOLEI SUPERLEAGUE | Gvision TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sv7OnRZBgYw/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 04:30 WIB  | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/kick.php/.m3u8?id=led-stadium
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=ce2c020c770e0f1dfbdf2b2e3b84a4fd&wsTime=6b06d23e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=f891f624e59c824de35729894af5b656&wsTime=6b06d546&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 2 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=836f423aae12c00f0bfadcd77c476694&wsTime=6b06d23f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=430f6e7244927ec6d8896a32e7601f3f&wsTime=6b06d535&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 3 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=1a2b1710cce05c8af384933590aebd1e&wsTime=6b06d22e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=83c9d8b1396ccd6ca10f5a68695168a0&wsTime=6b06d52f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 4 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855026-10057-A-0-1.flv?wsSecret=d10db1c8bb92987f50fcd8e0407bab72&wsTime=6b06d241&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855026-10057-A-0-1.flv?wsSecret=14dca7d39e9099408894a4fc7d8e8ac2&wsTime=6b06d541&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="Live Event: Badminton",Syed Modi India | Court 1 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6082303_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="Live Event: Badminton",Syed Modi India | Court 2 | Gvision TV
@@ -163,10 +175,20 @@ https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4TDDmVqsJ1svuN/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4TDDcN94YPn4wJ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9iYmU3M2UwMmRmZDA3MzdiOThkMTY0NjVhZTAxNGQ5ZS5wbmc%253D" group-title="Live Event: KickLIve",19:15 WIB ratchaburi fc vs johor darul ta'zim fc | AFC Champions League Elite | Server 2 | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4TDDcN94YPn4wJ/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9lNmI1OGI1YmZlZTE5MTBlYmRmODZiYjU0MmFiMzc3Ni5wbmc%253D" group-title="Live Event: KickLIve",17:25 WIB fc agniputhra vs hal fc | Indian Bangalore Super Division | KickLive | Gvision TV
-https://apxvf0ws91.yarncdn.live/live/sd-6Mxjoey8rSLC5mvkLY/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9mZDNhODAxOWFkNDU5M2U3NTFhYmU3YzFmYmFhYjgzYS5wbmc%253D" group-title="Live Event: KickLIve",17:30 WIB samaleshwari sc vs fc bengaluru united | Indian League Division 1 | KickLive | Gvision TV
-https://apxvf0ws91.yarncdn.live/live/sd-6Mxk43A1wi1wsQPWGg/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8yMWQ0NWQ2MWJlZGM5YjU1NzgwY2VkN2FjNTI4NDA5OS5wbmc%253D" group-title="Live Event: KickLIve",19:15 WIB al-raed sfc vs al okhdood | Saudi Arabia Division 1 | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MxiZdWkaJXGEjKcv4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8yMWQ0NWQ2MWJlZGM5YjU1NzgwY2VkN2FjNTI4NDA5OS5wbmc%253D" group-title="Live Event: KickLIve",19:20 WIB al-jabalain vs al zulfi | Saudi Arabia Division 1 | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MxiZdWm5pibETtXQU/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8yMWQ0NWQ2MWJlZGM5YjU1NzgwY2VkN2FjNTI4NDA5OS5wbmc%253D" group-title="Live Event: KickLIve",19:20 WIB al-orobah fc vs al najma(ksa) | Saudi Arabia Division 1 | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MxiZdWm5nX7Mz4cFa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg" group-title="Live Event: Fawa",19:30 WIB Venezuela U17 vs Romania U17 | World Cup U17 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/KIKIKIAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg" group-title="Live Event: Fawa",19:30 WIB Costa Rica U17 vs Ireland U17 | World Cup U17 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/KIKIKIAAA.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",19:15 WIB Shanghai Port vs Buriram | AFC Champions League | Server 1 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -211,14 +233,18 @@ https://www.rtmpcdn.com/live/35c6ffd01084704cbafb61109dc23778a0b9f43a519f6ffe8ab
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/RREGEGEAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg" group-title="Live Event: Fawa",[ Belum Mulai ] 19:30 WIB Venezuela U17 vs Romania U17 | World Cup U17 | FAWA | Gvision TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg" group-title="Live Event: Fawa",[ Belum Mulai ] 20:00 WIB Japan U17 vs Serbia U17 | World Cup U17 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/KIKIKIAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg" group-title="Live Event: Fawa",[ Belum Mulai ] 19:30 WIB Costa Rica U17 vs Ireland U17 | World Cup U17 | FAWA | Gvision TV
+http://193.47.62.41/hls/KIKIKIAAAAQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/507629164094976002/mrKxxdHT_400x400.jpeg" group-title="Live Event: Fawa",[ Belum Mulai ] 20:00 WIB Como U19 vs AEK U19 | UEFA Youth League | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/KIKIKIAAA.m3u8
+http://193.47.62.41/hls/KIKIKIAAAAQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/507629164094976002/mrKxxdHT_400x400.jpeg" group-title="Live Event: Fawa",[ Belum Mulai ] 20:00 WIB Arsenal U19 vs Dortmund U19 | UEFA Youth League | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/KIKIKIAAAAQ.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f3dde7370cf875e4e657b4331b1b4a31.png!w80" group-title="Live Event: ColaTV",19:15 WIB Cong An Ha Noi FC vs Vissel Kobe | ColaTV | Gvision TV
 https://live05.wecile.app/live/33982309.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c4e143e537412003565cdb7c2d212538.png!w80" group-title="Live Event: ColaTV",19:15 WIB Shanghai Port vs Buriram | ColaTV | Gvision TV
@@ -227,10 +253,14 @@ https://live05.wecile.app/live/08552895.m3u8
 https://live05.wecile.app/live/07428422.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/3afdfda57ca6ef4d3d875f098902f58f.png!w80" group-title="Live Event: ColaTV",18:30 WIB Shanxi Xing Rui Nu vs Wuhan Nu | ColaTV | Gvision TV
 https://live05.wecile.app/live/56998120.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 19:30 WIB Costa Rica U17 vs Ireland U17 | ColaTV | Gvision TV
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png!w80" group-title="Live Event: ColaTV",19:30 WIB Costa Rica U17 vs Ireland U17 | ColaTV | Gvision TV
 https://live05.wecile.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/dfa3dc7c4d56d73f925a782bc6063a4b.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 19:30 WIB Venezuela U17 vs Romania U17 | ColaTV | Gvision TV
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/dfa3dc7c4d56d73f925a782bc6063a4b.png!w80" group-title="Live Event: ColaTV",19:30 WIB Venezuela U17 vs Romania U17 | ColaTV | Gvision TV
 https://live05.wecile.app/live/14707124.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/361260e39f38a6fdd23d64eec1530ba1.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 20:00 WIB Arsenal U19 vs Dortmund U19 | ColaTV | Gvision TV
+https://live05.wecile.app/live/75915087.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0437356503a22e50b9e8aa76145c7f71.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 20:00 WIB Nhat Ban U17 vs Srbija C.Gora U17 | ColaTV | Gvision TV
+https://live05.wecile.app/live/97885009.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?w=1280&h=720&fit=contain&cbg=ffffff&url=https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (VS OS6)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
