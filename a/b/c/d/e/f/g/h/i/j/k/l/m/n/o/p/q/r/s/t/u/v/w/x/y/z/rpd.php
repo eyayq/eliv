@@ -1,84 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [21.57 WIB 24/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [22.09 WIB 24/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-u19-31f47f.webp" group-title="[LIVE 20:00 WIB 24/11/26] Arsenal U19 vs Borussia Dortmund U19 | Server 1",[LIVE 20:00 WIB 24/11/26] Arsenal U19 vs Borussia Dortmund U19 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c65.m3u8?auth_key=1795553641-0-0-041888253d8d89ae92458688ca170708
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-u19-31f47f.webp" group-title="[LIVE 20:00 WIB 24/11/26] Arsenal U19 vs Borussia Dortmund U19 | Server 2",[LIVE 20:00 WIB 24/11/26] Arsenal U19 vs Borussia Dortmund U19 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1795535589-0-0-f18d6165dad4479be498163fe4ef8f6d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-u19-31f47f.webp" group-title="[LIVE 20:00 WIB 24/11/26] Arsenal U19 vs Borussia Dortmund U19 | Server 3",[LIVE 20:00 WIB 24/11/26] Arsenal U19 vs Borussia Dortmund U19 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1795535589-0-0-d10c7a1ad9b442415cf6093256b83bc2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-u19-31f47f.webp" group-title="[LIVE 20:00 WIB 24/11/26] Arsenal U19 vs Borussia Dortmund U19 | Server 4",[LIVE 20:00 WIB 24/11/26] Arsenal U19 vs Borussia Dortmund U19 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912124_lsd.m3u8?auth_key=1795535589-0-0-128a56a63ed455b63c86f060cf2ecfdb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-u19-31f47f.webp" group-title="[LIVE 20:00 WIB 24/11/26] Arsenal U19 vs Borussia Dortmund U19 | Server 5",[LIVE 20:00 WIB 24/11/26] Arsenal U19 vs Borussia Dortmund U19 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1795535589-0-0-02333a14aa77342a4d3986238f22a22b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sreenidi-deccan-fc-7c8b55.png" group-title="[LIVE 20:00 WIB 24/11/26] Sreenidi Deccan FC vs Chanmari FC | Server 1",[LIVE 20:00 WIB 24/11/26] Sreenidi Deccan FC vs Chanmari FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c66.m3u8?auth_key=1795553641-0-0-db5f40c0a2bc76dd1a3d4e83860b259e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sreenidi-deccan-fc-7c8b55.png" group-title="[LIVE 20:00 WIB 24/11/26] Sreenidi Deccan FC vs Chanmari FC | Server 2",[LIVE 20:00 WIB 24/11/26] Sreenidi Deccan FC vs Chanmari FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/a9db02cfa21da44d.m3u8?wsSecret=76D59CF4D470203CBEE30561ACEC8369&wsTime=1795532033
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 1",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/jpn-ser-wcu17/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 2",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/jpn-ser-wcu17.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 3",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c62.m3u8?auth_key=1795553641-0-0-44b23fb24c6ad295696bc9d54d02a907
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 4",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/0e38729b62b091a0.m3u8?wsSecret=1A2169310672ADA94DBD9AE54DB44552&wsTime=1795532033
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 5",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-621843_lsd.m3u8?auth_key=1795535589-0-0-b9eb1d4f599c414e203cdd780fd04f2d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 6",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1795535589-0-0-3527d7d9d6ef35d038a0a0fb043eab13
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 7",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1795535589-0-0-a25b51ea9eeef239633ff2d51aa6e2b7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 8",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1795535589-0-0-0c5a2af7947cb744cf844f51271f60d0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 9",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1795535589-0-0-f15523e98ea3dba533d1d8e149d54747
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 10",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1795535589-0-0-9150174984b9d424b080c3dceec6131f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 11",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912131_lsd.m3u8?auth_key=1795535589-0-0-18a4fb5b978eb845ad918f67d57a1571
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 12",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1795535589-0-0-a5a21f3932ca0dd2cd5e645ee0ab9d23
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 13",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1795535589-0-0-523da27527ff8bfa4144c453c1f3aa66
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 14",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1795535589-0-0-ab22afdc223e16a1299610797dd500c5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 15",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1795535589-0-0-72bd11d9761aeaebdaa8d409d17983e1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/japan-u17-585f9b.png" group-title="[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 16",[LIVE 20:00 WIB 24/11/26] Japan U17 vs Serbia U17 | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1795535589-0-0-34d25c6aebeea8eefa0d6cfaf354b942
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-agmk-7a599b.png" group-title="[LIVE 20:15 WIB 24/11/26] FC AGMK vs Navbahor Namangan | Server 1",[LIVE 20:15 WIB 24/11/26] FC AGMK vs Navbahor Namangan | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/07c62e4679100078.m3u8?wsSecret=3EA41B316B51B707AC1A7A0681BC32FF&wsTime=1795532033
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-andijan-4403c0.png" group-title="[LIVE 20:15 WIB 24/11/26] FK Andijan vs Lokomotiv Tashkent | Server 1",[LIVE 20:15 WIB 24/11/26] FK Andijan vs Lokomotiv Tashkent | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/d602f3ebd02c83b4.m3u8?wsSecret=E7627CAB04B0F4CA79AE9F59D764E06E&wsTime=1795532033
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sao-paulo-u20-women-7aabbb.png" group-title="[LIVE 20:30 WIB 24/11/26] Sao Paulo U20 Women vs Criciuma U20 Women | Server 1",[LIVE 20:30 WIB 24/11/26] Sao Paulo U20 Women vs Criciuma U20 Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6b04e8a07cb66c539a67a099.m3u8?auth_key=1795553582-0-0-7c940a20c79487b9b8b87456bfcc28f9
+https://play.lacrima2000.com/live/d602f3ebd02c83b4.m3u8?wsSecret=72FCFDF8C62482160F5DA47C4032C614&wsTime=1795532754
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-agmk-7a599b.png" group-title="[LIVE 20:15 WIB 24/11/26] FC AGMK vs Navbahor Namangan | Server 1",[LIVE 20:15 WIB 24/11/26] FC AGMK vs Navbahor Namangan | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/07c62e4679100078.m3u8?wsSecret=7D7510F257DEBFD077979B9B519EC95D&wsTime=1795532754
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-u17-e1b688.png" group-title="[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 1",[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/mex-cam-wcu17/index.m3u8
@@ -87,190 +15,244 @@ https://hls.lauthaitv.cc/live/mex-cam-wcu17/index.m3u8
 https://flv.lauthaitv.cc/live/mex-cam-wcu17.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-u17-e1b688.png" group-title="[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 3",[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c68.m3u8?auth_key=1795553641-0-0-beca4104019d5a3fd165c2e473ab4fac
+https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c68.m3u8?auth_key=1795554362-0-0-25e0c63a2393389262da3fe366fa5240
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-u17-e1b688.png" group-title="[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 4",[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/3d4c0d353a66fa80.m3u8?wsSecret=2AF4E7C5109B29386DC8DA809E78FC6C&wsTime=1795532033
+https://play.lacrima2000.com/live/3d4c0d353a66fa80.m3u8?wsSecret=FF658C722F47FFD861C3072166D02A87&wsTime=1795532754
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-u17-e1b688.png" group-title="[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 5",[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912008_lsd.m3u8?txSecret=7f8ac3832304a33baa656977683da00d&txTime=6b05f971
+https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1795536309-0-0-619da1cc6a844cc841e3ee38ae497334
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-u17-e1b688.png" group-title="[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 6",[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912008_lhd.m3u8?txSecret=fdea5565b5c2166bad2bf2d56887b8e9&txTime=6b05f971
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1795536309-0-0-8bdab4cd174241d8b556ae9f3a4d80fd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-u17-e1b688.png" group-title="[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 7",[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-623743_lsd.m3u8?auth_key=1795535649-0-0-c9e23b70485000c712d84b54986b3736
+https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1795536309-0-0-700230a4ba4958355f74ac038ef8be75
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-u17-e1b688.png" group-title="[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 8",[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1795535649-0-0-840b2ba546c6489a246ea65c3a5bd64c
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1795536309-0-0-f5179a3133c567e3d96aa428345eb96f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-u17-e1b688.png" group-title="[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 9",[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1795535649-0-0-8b3bad8196b24cbcc1f5da721efc1722
+https://pull.niur.live/live/stream-9912008_lsd.m3u8?txSecret=28266fd31abdd472a6ef719280ad440f&txTime=6b05fc05
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-u17-e1b688.png" group-title="[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 10",[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1795535649-0-0-cc0d877f47134f898cf3d1aaa6a04758
+https://pull.niur.live/live/stream-9912008_lhd.m3u8?txSecret=247613a16ceff6f884f1b9b9abf51716&txTime=6b05fc05
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-u17-e1b688.png" group-title="[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 11",[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1795535649-0-0-4ed29fd39737e33141655457d592da67
+https://pull.niues.live/live/stream-623743_lsd.m3u8?auth_key=1795536309-0-0-3481164a6c29cc4aac9730e6c6fc3c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-u17-e1b688.png" group-title="[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 12",[LIVE 20:30 WIB 24/11/26] Mexico U17 vs Cameroon U17 | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1795535649-0-0-ea05d861eed468c0fb5f53d203995652
+https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1795536309-0-0-22196174faf913792d75aedd7e30c1e7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sao-paulo-u20-women-7aabbb.png" group-title="[LIVE 20:30 WIB 24/11/26] Sao Paulo U20 Women vs Criciuma U20 Women | Server 1",[LIVE 20:30 WIB 24/11/26] Sao Paulo U20 Women vs Criciuma U20 Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6b04e8a07cb66c539a67a099.m3u8?auth_key=1795554362-0-0-a32d556d68a28e8be03cb350f7539c58
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/east-bengal-fc-e3ced4.webp" group-title="[LIVE 20:45 WIB 24/11/26] East Bengal FC vs Al-Hussein SC (Irbid) | Server 1",[LIVE 20:45 WIB 24/11/26] East Bengal FC vs Al-Hussein SC (Irbid) | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c69.m3u8?auth_key=1795553641-0-0-4936f813155eae64cd4c1efe74475964
+https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c69.m3u8?auth_key=1795554362-0-0-d835127d1a719e7249ee8db0c1487a35
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/east-bengal-fc-e3ced4.webp" group-title="[LIVE 20:45 WIB 24/11/26] East Bengal FC vs Al-Hussein SC (Irbid) | Server 2",[LIVE 20:45 WIB 24/11/26] East Bengal FC vs Al-Hussein SC (Irbid) | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1795535649-0-0-f05410cb5b95ba185be61b4ddc8001f1
+https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1795536309-0-0-ea5a776d4caf336bb0b9a17843a41b63
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/east-bengal-fc-e3ced4.webp" group-title="[LIVE 20:45 WIB 24/11/26] East Bengal FC vs Al-Hussein SC (Irbid) | Server 3",[LIVE 20:45 WIB 24/11/26] East Bengal FC vs Al-Hussein SC (Irbid) | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1795535649-0-0-9f5c1c1bb3342defc3953a7cd38e2975
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1795536309-0-0-8b670c90ac824ea312654a5a9a3432a3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/east-bengal-fc-e3ced4.webp" group-title="[LIVE 20:45 WIB 24/11/26] East Bengal FC vs Al-Hussein SC (Irbid) | Server 4",[LIVE 20:45 WIB 24/11/26] East Bengal FC vs Al-Hussein SC (Irbid) | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1795535649-0-0-7b32db8c87023a81c96aa8a464d7e917
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1795536309-0-0-cb9ebcad89e16b7fa179bde9a2edf28a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/east-bengal-fc-e3ced4.webp" group-title="[LIVE 20:45 WIB 24/11/26] East Bengal FC vs Al-Hussein SC (Irbid) | Server 5",[LIVE 20:45 WIB 24/11/26] East Bengal FC vs Al-Hussein SC (Irbid) | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1795535649-0-0-7a04f4cdb85c8934b7fe667656e27fa1
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1795536309-0-0-555c10807f4f02bd00df66c24c9bb5e5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/east-bengal-fc-e3ced4.webp" group-title="[LIVE 20:45 WIB 24/11/26] East Bengal FC vs Al-Hussein SC (Irbid) | Server 6",[LIVE 20:45 WIB 24/11/26] East Bengal FC vs Al-Hussein SC (Irbid) | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=c8c3d76d04ade7e0d7abfa4ac595b3df&txTime=6b05f971
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=30b8a8498070c633dc39a8a6ee753d5c&txTime=6b05fc05
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/east-bengal-fc-e3ced4.webp" group-title="[LIVE 20:45 WIB 24/11/26] East Bengal FC vs Al-Hussein SC (Irbid) | Server 7",[LIVE 20:45 WIB 24/11/26] East Bengal FC vs Al-Hussein SC (Irbid) | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=62f1a2b89ebb5f9cac6d34594223423e&txTime=6b05f971
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hajer-8fac82.webp" group-title="[LIVE 21:00 WIB 24/11/26] Hajer vs Al-Tai | Server 1",[LIVE 21:00 WIB 24/11/26] Hajer vs Al-Tai | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c7d.m3u8?auth_key=1795553582-0-0-25f05d81dbd37628c472569588425358
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=cd933250a0a182612c4b31f5dbb12b5f&txTime=6b05fc05
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/akron-togliatti-116217.png" group-title="[LIVE 21:00 WIB 24/11/26] Akron Togliatti vs CSKA Moscow | Server 1",[LIVE 21:00 WIB 24/11/26] Akron Togliatti vs CSKA Moscow | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/a895cab1be46f07e.m3u8?wsSecret=F005D212E611015F18BDBC93F7A04D84&wsTime=1795532033
+https://play.lacrima2000.com/live/a895cab1be46f07e.m3u8?wsSecret=7EFB6483AA230CD30600757F02DCDFFE&wsTime=1795532754
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/akron-togliatti-116217.png" group-title="[LIVE 21:00 WIB 24/11/26] Akron Togliatti vs CSKA Moscow | Server 2",[LIVE 21:00 WIB 24/11/26] Akron Togliatti vs CSKA Moscow | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=d1148cfc2bd173d9459d94ef9134b5fc&txTime=6b05f971
+https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=54f07231afa8e708e35adb5dd119fdf2&txTime=6b05fc05
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/akron-togliatti-116217.png" group-title="[LIVE 21:00 WIB 24/11/26] Akron Togliatti vs CSKA Moscow | Server 3",[LIVE 21:00 WIB 24/11/26] Akron Togliatti vs CSKA Moscow | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=562b8d4fa2b20ad30363fb83780536c9&txTime=6b05f971
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=eadcaa74fca1756d2056efd991217293&txTime=6b05fc05
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/akron-togliatti-116217.png" group-title="[LIVE 21:00 WIB 24/11/26] Akron Togliatti vs CSKA Moscow | Server 4",[LIVE 21:00 WIB 24/11/26] Akron Togliatti vs CSKA Moscow | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-321443_lsd.m3u8?txSecret=6ed3fd70cb62dda344e4c86e63868f6f&txTime=6b05f971
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=f3394547198f255a0640a17efaf4fc99&txTime=6b05fc05
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/akron-togliatti-116217.png" group-title="[LIVE 21:00 WIB 24/11/26] Akron Togliatti vs CSKA Moscow | Server 5",[LIVE 21:00 WIB 24/11/26] Akron Togliatti vs CSKA Moscow | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=cc0a2eea6a2229266066e9dab1a05574&txTime=6b05f971
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ec1c85971df11e90f87640109fb4b8cb&txTime=6b05fc05
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/akron-togliatti-116217.png" group-title="[LIVE 21:00 WIB 24/11/26] Akron Togliatti vs CSKA Moscow | Server 6",[LIVE 21:00 WIB 24/11/26] Akron Togliatti vs CSKA Moscow | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=efdf723a4bc1013725896065df8e8ecd&txTime=6b05f971
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=618b378da72329e0e806c25390cc470c&txTime=6b05fc05
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/akron-togliatti-116217.png" group-title="[LIVE 21:00 WIB 24/11/26] Akron Togliatti vs CSKA Moscow | Server 7",[LIVE 21:00 WIB 24/11/26] Akron Togliatti vs CSKA Moscow | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=9d689f0e9d0c9c473571ed8b82dc4427&txTime=6b05f971
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=96250f6bc812aac9ddda52f7deeca40e&txTime=6b05fc05
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/northeast-united-fc-3b1adf.webp" group-title="[LIVE 21:00 WIB 24/11/26] NorthEast United FC vs Sporting Club Delhi | Server 1",[LIVE 21:00 WIB 24/11/26] NorthEast United FC vs Sporting Club Delhi | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c74.m3u8?auth_key=1795553641-0-0-b5014491e0c85e6ad658d10d36c8161f
+https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c74.m3u8?auth_key=1795554362-0-0-51adbfb06ed980cce6ad62539f398288
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/northeast-united-fc-3b1adf.webp" group-title="[LIVE 21:00 WIB 24/11/26] NorthEast United FC vs Sporting Club Delhi | Server 2",[LIVE 21:00 WIB 24/11/26] NorthEast United FC vs Sporting Club Delhi | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/2e026a5594493b4c.m3u8?wsSecret=5528E5DDF66054F516DB90AFFD043DF3&wsTime=1795532033
+https://play.lacrima2000.com/live/2e026a5594493b4c.m3u8?wsSecret=7CBD440DCCA96AF759DBD1048CBD2841&wsTime=1795532754
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hajer-8fac82.webp" group-title="[LIVE 21:00 WIB 24/11/26] Hajer vs Al-Tai | Server 1",[LIVE 21:00 WIB 24/11/26] Hajer vs Al-Tai | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c7d.m3u8?auth_key=1795554301-0-0-099c03a6d2426cad6268bca4a9842e97
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hajer-club-b153e2.png" group-title="[LIVE 21:30 WIB 24/11/26] Hajer Club vs Al Tai FC | Server 1",[LIVE 21:30 WIB 24/11/26] Hajer Club vs Al Tai FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/cbe7565ab6ea2c21.m3u8?wsSecret=622C7EB90C486808E6C59EEDFEDD0B07&wsTime=1795532033
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hajer-8fac82.webp" group-title="[LIVE 21:30 WIB 24/11/26] Hajer vs Al Taee | Server 1",[LIVE 21:30 WIB 24/11/26] Hajer vs Al Taee | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6MxiZdWm5u7YyRai5r.m3u8?txSecret=fe3d84f9f21287b0073e3545315ecbc9&txTime=6B064DCD
+https://play.lacrima2000.com/live/cbe7565ab6ea2c21.m3u8?wsSecret=E8874A135C45AD56AE183BE7F9CBA5E6&wsTime=1795532754
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dominican-republic-u17-f987bd.png" group-title="[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 1",[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/6c21245dbe0d45e9.m3u8?wsSecret=F61C7FC4CA632DF844008A5EA6C832FE&wsTime=1795532033
+https://play.lacrima2000.com/live/6c21245dbe0d45e9.m3u8?wsSecret=0C6DF8EC0B418B1B1C8C4D5780E6F934&wsTime=1795532754
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dominican-republic-u17-f987bd.png" group-title="[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 2",[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-620084_lsd.m3u8?txSecret=da2c8e52da7728c664a37b0546a83309&txTime=6b05f971
+https://pull.niur.live/live/stream-620084_lsd.m3u8?txSecret=a7e1452da85468baf43e63b99a462fb2&txTime=6b05fc41
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dominican-republic-u17-f987bd.png" group-title="[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 3",[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-620084_lhd.m3u8?txSecret=e12f9b7a78200caf340a03bc8ab9bf19&txTime=6b05f971
+https://pull.niur.live/live/stream-620084_lhd.m3u8?txSecret=0477e701d84996f9bd2b42dacf1c0c90&txTime=6b05fc41
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dominican-republic-u17-f987bd.png" group-title="[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 4",[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-603914_lsd.m3u8?txSecret=5222d8106a834510a11fda5e5580d4d5&txTime=6b05f971
+https://pull.niues.live/live/stream-633416_lsd.m3u8?auth_key=1795536369-0-0-c324f6115e23924d8653741fbaed59e4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dominican-republic-u17-f987bd.png" group-title="[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 5",[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-603914_lhd.m3u8?txSecret=129b5d6b797fb8e46a015910fa245a6d&txTime=6b05f971
+https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1795536369-0-0-3d0c63d531a613dbc8003df5376f3b9f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dominican-republic-u17-f987bd.png" group-title="[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 6",[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-633416_lsd.m3u8?auth_key=1795535649-0-0-f4a037419bf8ad690b4fa9463b6a7fba
+https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=81cd8310798ff60e2a867d6bd81684cb&txTime=6b05fc41
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dominican-republic-u17-f987bd.png" group-title="[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 7",[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1795535649-0-0-ebb46869defd3b57b96707239695f107
+https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=2ff8c109aafeb875c91056af001064f8&txTime=6b05fc41
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dominican-republic-u17-f987bd.png" group-title="[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 8",[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=ce16a9fade1aeda7eb74792bed27a799&txTime=6b05f971
+https://pull.niur.live/live/stream-603914_lsd.m3u8?txSecret=2b8668be680142e2a9bdd769b2bdd9b1&txTime=6b05fc41
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dominican-republic-u17-f987bd.png" group-title="[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 9",[LIVE 21:30 WIB 24/11/26] Dominican Republic U17 vs Chile U17 | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=b6352a41db7c60a69e6c1603f7d5aa69&txTime=6b05f971
+https://pull.niur.live/live/stream-603914_lhd.m3u8?txSecret=9fb07d8e3fc081220e048f2f934470d8&txTime=6b05fc41
 #EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/b881bdc95f60018b055309c3ab096a5b.png" group-title="[LIVE 21:30 WIB 24/11/26] Cộng hòa Dominican U17 vs Chilê U17 | Server 1",[LIVE 21:30 WIB 24/11/26] Cộng hòa Dominican U17 vs Chilê U17 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cds78y11d.org/live/sd-6Mwe5ZtgD8GumrjmoA.m3u8?txSecret=853b22511075f23e153cbd8c0d7f0dc3&txTime=6B064DCD
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/smouha-sc-1fd9fe.webp" group-title="[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 1",[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912138_lsd.m3u8?auth_key=1795535649-0-0-4b439173c8532b0a311647c7857310d9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/smouha-sc-1fd9fe.webp" group-title="[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 2",[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1795535649-0-0-48b985f721e0a9bff54ef258a38215ea
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/smouha-sc-1fd9fe.webp" group-title="[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 3",[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1795535649-0-0-8a2e91e548d994b7f9ad9a8052b1e370
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/smouha-sc-1fd9fe.webp" group-title="[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 4",[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1795535649-0-0-99780ec059d5355f59a8438b25738cf8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/feyenoord-u19-bddd4d.webp" group-title="[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 1",[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1795535649-0-0-a7f59adcf9834c938fcd0e4084650a67
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/feyenoord-u19-bddd4d.webp" group-title="[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 2",[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1795535649-0-0-e35b454bc30ab2855bd24b41adeb30fe
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/feyenoord-u19-bddd4d.webp" group-title="[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 3",[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1795535649-0-0-326c1ce0a672ead3f329e6f22437f8ff
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/feyenoord-u19-bddd4d.webp" group-title="[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 4",[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1795535649-0-0-8315269cd91cbf12a08fee9e10ef81cf
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-u19-3181d7.webp" group-title="[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 1",[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-511367_lsd.m3u8?txSecret=376b8e8e974c13ead58f2552bdbc6cd1&txTime=6b05f971
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-u19-3181d7.webp" group-title="[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 2",[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=ff6119f38b6a9c8e2391ff05425a75a2&txTime=6b05f971
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-u19-3181d7.webp" group-title="[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 3",[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=4a00fc117de0494780f18ed7e9117f6d&txTime=6b05f971
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-u19-3181d7.webp" group-title="[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 4",[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=119d40de8c0edaa28a2732523e661a4f&txTime=6b05f971
+https://live.cds78y11d.org/live/sd-6Mwe5ZtgD8GumrjmoA.m3u8?txSecret=ab6eff3c5ce0737ad0bb04be6eff3f96&txTime=6B06509C
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hajer-8fac82.webp" group-title="[LIVE 21:30 WIB 24/11/26] Hajer vs Al Taee | Server 1",[LIVE 21:30 WIB 24/11/26] Hajer vs Al Taee | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxiZdWm5u7YyRai5r.m3u8?txSecret=6c1e08897deeaf6492e60595e9c826e1&txTime=6B06509C
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portimonense-sc-u23-d3d5b1.png" group-title="[LIVE 22:00 WIB 24/11/26] Portimonense SC U23 vs CF Estrela da Amadora U23 | Server 1",[LIVE 22:00 WIB 24/11/26] Portimonense SC U23 vs CF Estrela da Amadora U23 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxia8uRQFTMGodq3r.m3u8?txSecret=2938f1a4dc366a981fa84fce99a53c32&txTime=6B06509C
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portimonense-sc-u23-d3d5b1.png" group-title="[LIVE 22:00 WIB 24/11/26] Portimonense SC U23 vs CF Estrela da Amadora U23 | Server 2",[LIVE 22:00 WIB 24/11/26] Portimonense SC U23 vs CF Estrela da Amadora U23 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c89.m3u8?auth_key=1795554122-0-0-0db18b29abf59510a2a5ed4d8860ada0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portimonense-sc-u23-d3d5b1.png" group-title="[LIVE 22:00 WIB 24/11/26] Portimonense SC U23 vs CF Estrela da Amadora U23 | Server 3",[LIVE 22:00 WIB 24/11/26] Portimonense SC U23 vs CF Estrela da Amadora U23 | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/73b5828660b1b6ae.m3u8?wsSecret=45105216F64B0E0AF988BEE4F7534324&wsTime=1795532754
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-felgueiras-u23-49bce5.png" group-title="[LIVE 22:00 WIB 24/11/26] FC Felgueiras U23 vs Academico Viseu U23 | Server 1",[LIVE 22:00 WIB 24/11/26] FC Felgueiras U23 vs Academico Viseu U23 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c87.m3u8?auth_key=1795554301-0-0-44e60eef07aacb7111e72cdeabd385c8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-felgueiras-u23-49bce5.png" group-title="[LIVE 22:00 WIB 24/11/26] FC Felgueiras U23 vs Academico Viseu U23 | Server 2",[LIVE 22:00 WIB 24/11/26] FC Felgueiras U23 vs Academico Viseu U23 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/8cc1d4029f58e7d8.m3u8?wsSecret=473E4A1C61F56603ECC0D996A207E96A&wsTime=1795532754
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rio-ave-fc-u23-7fb4a6.png" group-title="[LIVE 22:00 WIB 24/11/26] Rio Ave FC U23 vs Uniao Desportiva de Leiria U23 | Server 1",[LIVE 22:00 WIB 24/11/26] Rio Ave FC U23 vs Uniao Desportiva de Leiria U23 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxia8uRQDFsQKoutx.m3u8?txSecret=6410a03eb8f087c9d809da35016b1ce9&txTime=6B06509C
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rio-ave-fc-u23-7fb4a6.png" group-title="[LIVE 22:00 WIB 24/11/26] Rio Ave FC U23 vs Uniao Desportiva de Leiria U23 | Server 2",[LIVE 22:00 WIB 24/11/26] Rio Ave FC U23 vs Uniao Desportiva de Leiria U23 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c88.m3u8?auth_key=1795554301-0-0-739633572a703bd0a7192cc06fd27932
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rio-ave-fc-u23-7fb4a6.png" group-title="[LIVE 22:00 WIB 24/11/26] Rio Ave FC U23 vs Uniao Desportiva de Leiria U23 | Server 3",[LIVE 22:00 WIB 24/11/26] Rio Ave FC U23 vs Uniao Desportiva de Leiria U23 | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/c9a6d8c5f57df375.m3u8?wsSecret=3EE6516A5FC9EF6EB0F132DB34D9EA1B&wsTime=1795532754
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-gagra-760276.png" group-title="[LIVE 22:00 WIB 24/11/26] FC Gagra vs FC Dinamo Tbilisi | Server 1",[LIVE 22:00 WIB 24/11/26] FC Gagra vs FC Dinamo Tbilisi | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/7815971254cd2060.m3u8?wsSecret=A69D67FC76210B362C043BAB3D2DDBA0&wsTime=1795532754
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/smouha-sc-1fd9fe.webp" group-title="[LIVE 22:00 WIB 24/11/26] Smouha SC vs National Bank of Egypt SC | Server 1",[LIVE 22:00 WIB 24/11/26] Smouha SC vs National Bank of Egypt SC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/669e786387b268f7.m3u8?wsSecret=0A3A739764F912A1046F0A93C312B626&wsTime=1795532754
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zed-fc-9f44bb.webp" group-title="[LIVE 22:00 WIB 24/11/26] ZED FC vs Abo Qair Semads | Server 1",[LIVE 22:00 WIB 24/11/26] ZED FC vs Abo Qair Semads | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxiKay2hit7ztDfAt.m3u8?txSecret=39a32980e56d0e8ccbf8116a73f1b43e&txTime=6B06509C
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 1",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/bra-tan-wcu17/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mwe5Ztft2Wj84MtVJ.m3u8?txSecret=e07d940996bcca4d50832ed815606ee2&txTime=6B06509C
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 2",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/bra-tan-wcu17.flv
+https://hls.lauthaitv.cc/live/bra-tan-wcu17/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 3",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1795535649-0-0-4beef87816be9a6e5e18d1dc9248af7c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://flv.lauthaitv.cc/live/bra-tan-wcu17.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 4",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1795535649-0-0-f2b437200337a1381343f4cc04f13487
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://pull.fmp.live/sla/1-6ae4b8216c5a23a8c2841c7f.m3u8?auth_key=1795554301-0-0-f343d94b6e3a4d75eb14b10242745f46
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 5",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912127_lsd.m3u8?auth_key=1795535649-0-0-115123ae6ecab0e35a2e3300827a51cc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/47b4ccd06c60d267.m3u8?wsSecret=8B3CD5A09B3664E6126FFE9486C16D04&wsTime=1795532754
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 6",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1795535649-0-0-8e829619bf2ad635057256065812cbf3
+https://pull.niues.live/live/stream-9912127_lsd.m3u8?auth_key=1795536369-0-0-aac93fbf38cf4750ac67869cef68caea
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 7",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=cd9d2d6650f778904560e9458efa400b&txTime=6b05f971
+https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1795536369-0-0-844bf7f408e3452770d60df00a12ccb0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 8",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e211c3bc94fd4d36174172dc2ef2e57c&txTime=6b05f971
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1795536369-0-0-0cb9a71fdd9ee92dbd905ebc61dfde2d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 9",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912140_lsd.m3u8?auth_key=1795535649-0-0-d80ba761fa318105cd011d4f32b30f7d
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1795536369-0-0-ddc6298bf2a8d8de42137860589cf7d5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 10",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912140_lhd.m3u8?auth_key=1795535649-0-0-e0b3b95cd19597f1a8a01090d9fd688f
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=eacbc9ad34a95d25ae20d2b8d6790c5f&txTime=6b05fc41
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 11",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-380460_lsd.m3u8?txSecret=21d1932f3a8058aedd3f1238b243b9a5&txTime=6b05f971
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=cdbb69246e08ea5626c1f35ec5e1f283&txTime=6b05fc41
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 12",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-380460_lhd.m3u8?txSecret=c265cff77fefa8803bc984bd54dc7dc7&txTime=6b05f971
+https://pull.niues.live/live/stream-9912140_lsd.m3u8?auth_key=1795536369-0-0-72025d034b44059b1c0538b77ec3a057
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 13",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912140_lhd.m3u8?auth_key=1795536369-0-0-869927bb781e6771ccc88049d20a7fb0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 14",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-380460_lsd.m3u8?txSecret=4093f620201352309d734f92981f215d&txTime=6b05fc41
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brazil-u17-8f41e7.png" group-title="[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 15",[LIVE 22:00 WIB 24/11/26] Brazil U17 vs Tanzania U17 | Server 15 (SVR-BHNS 15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-380460_lhd.m3u8?txSecret=de1132bd12d06b0a825acebde02ea233&txTime=6b05fc41
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zed-fc-9f44bb.webp" group-title="[LIVE 22:00 WIB 24/11/26] ZED FC vs Abu Qair Semad | Server 1",[LIVE 22:00 WIB 24/11/26] ZED FC vs Abu Qair Semad | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.lacrima2000.com/live/097521dc24fd6532.m3u8?wsSecret=7F021DF8B975B557B23477B45C9E2D9F&wsTime=1795532754
+#EXTINF:-1 tvg-logo="https://static.wex1sora.com/thesports/football/team/2859c6dc44290631fe151b7d306dfde6.png" group-title="[LIVE 22:00 WIB 24/11/26] Smouha vs NBE SC | Server 1",[LIVE 22:00 WIB 24/11/26] Smouha vs NBE SC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6MxiKay2hm5bsN3aKn.m3u8?txSecret=7e42ad2496ecd84e88a75475a9813800&txTime=6B06509C
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/felgueiras-u23-39e89d.webp" group-title="[LIVE 22:00 WIB 24/11/26] Felgueiras U23 vs Học viện Viseu U23 | Server 1",[LIVE 22:00 WIB 24/11/26] Felgueiras U23 vs Học viện Viseu U23 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cds78y11d.org/live/sd-6Mxia8vuCzXVNsfmJC.m3u8?txSecret=cad8008caf876110676e8a69ba597df9&txTime=6B06509C
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-u19-3181d7.webp" group-title="[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 1",[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-621840_lsd.m3u8?txSecret=09076cf87df4d6f54f30d333a6ea73da&txTime=6b05fc41
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-u19-3181d7.webp" group-title="[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 2",[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=daea40246ec49a826ed92ec78832ff87&txTime=6b05fc41
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-u19-3181d7.webp" group-title="[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 3",[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-511367_lsd.m3u8?txSecret=99d427342e8e621e1c9b4ab98aa59255&txTime=6b05fc41
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-madrid-u19-3181d7.webp" group-title="[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 4",[LIVE 22:00 WIB 24/11/26] Real Madrid U19 vs PSV Eindhoven U19 | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=6ba367f3305d74b01795a286853e2c51&txTime=6b05fc41
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/feyenoord-u19-bddd4d.webp" group-title="[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 1",[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1795536369-0-0-ecb7344574d3fd52ec1fc320f3f2b5d7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/feyenoord-u19-bddd4d.webp" group-title="[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 2",[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1795536369-0-0-3991985f25253893c5d26caa17c0a4ad
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/feyenoord-u19-bddd4d.webp" group-title="[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 3",[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1795536369-0-0-8cd2891531b894b869700ead44c07e61
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/feyenoord-u19-bddd4d.webp" group-title="[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 4",[LIVE 22:00 WIB 24/11/26] Feyenoord U19 vs FC Porto U19 | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1795536369-0-0-ee1154f972663a3e2d34f35543675f86
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/smouha-sc-1fd9fe.webp" group-title="[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 1",[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1795536369-0-0-b4d53f066de867ef2730e020bc0bae6d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/smouha-sc-1fd9fe.webp" group-title="[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 2",[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1795536369-0-0-64aae1bfa45876688eeeedf1f5f4f18b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/smouha-sc-1fd9fe.webp" group-title="[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 3",[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912138_lsd.m3u8?auth_key=1795536369-0-0-f731a9ba7ec6acebf34b992d13f2ce85
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/smouha-sc-1fd9fe.webp" group-title="[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 4",[LIVE 22:00 WIB 24/11/26] Smouha SC vs Bank El Ahly | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1795536369-0-0-a583533219a4de4d89c29b051276ea9e
