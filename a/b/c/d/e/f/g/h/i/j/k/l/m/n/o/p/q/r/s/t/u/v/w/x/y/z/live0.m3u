@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 13:45:46 WIB 24-11-2026
-# 🔄 Total Channels: 928
+# ⏰ Latest Updated: 13:57:35 WIB 24-11-2026
+# 🔄 Total Channels: 933
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [13:45:46 WIB 24-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [13:57:35 WIB 24-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE EVENT",17:00 WIB Kyoto vs Pohang | AFC Champions League | Server 1 | FAWA | Gvision TV
@@ -90,20 +90,28 @@ http://193.47.62.41/hls/S666.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_two_2026/img/acl_two_2026_1200-630.png" group-title="LIVE EVENT",20:45 WIB east bengal fc vs al-hussein sc | AFC Champions League Two | Server 1 | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4TBj8pNsD3mhct/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_two_2026/img/acl_two_2026_1200-630.png" group-title="LIVE EVENT",20:45 WIB east bengal fc vs al-hussein sc | AFC Champions League Two | Server 2 | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4TBj8pNsD3mhct/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE EVENT",20:45 WIB East Bengal vs Al Hussein | AFC Champions League II | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/S666A.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=201bd0cf7df8e3933712ff421fbf0c37&wsTime=6b06e5ed&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=30321799ab25a8f149e1cde48a9aa517&wsTime=6b06e878&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 2 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=b6d2c59f4e78cab0ab9c61044e94bcab&wsTime=6b06e5d2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=2cb47c3078c595eaed8b16b036286d9b&wsTime=6b06e880&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 3 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=3f1bfbf8a08df7a539380bf2e797eb1e&wsTime=6b06e5ee&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=27b5d98338315bac467c079d9483789f&wsTime=6b06e881&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 4 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855026-10057-A-0-1.flv?wsSecret=111130bb6288807a18bf5cfab97875e3&wsTime=6b06e5f2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855026-10057-A-0-1.flv?wsSecret=41baaa7d420e84224966b3ce287d0062&wsTime=6b06e886&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Ni Shu u002FTa Nu VSAi Bi Gai Er u002FAi Si Te Er  2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=c98c27eb09838b1d85373feef30e4c65&wsTime=6b06e5ec&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=b23bfb226a44aa483e3f25a6b6560a78&wsTime=6b06e880&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Qia Tuo En u002FLei Nuo A VSJia La Jia u002FPu Lu Te Wei  2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=d041f3f253eb47ae1f2ca63df1d2a751&wsTime=6b06e5ed&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=8959fee856fdbece65cfc2ca338c7255&wsTime=6b06e881&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Guo Yu You Xian  IndiaMo Di Tiao Zhan Sai  BadmintonZhi Bo  | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1199656255873-1199656255873-5842788851378028544-2399312635202-10057-A-0-1-imgplus.flv?wsSecret=a5c7e83e47bdc4543d77444c25bd8c64&wsTime=6b06e5ef&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1199656255873-1199656255873-5842788851378028544-2399312635202-10057-A-0-1-imgplus.flv?wsSecret=3d8d3aa6657e6d7bb14cb22a29a03690&wsTime=6b06e883&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 1 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6082303_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 2 | Gvision TV
@@ -112,10 +120,6 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/215_6083044_1.m3u8?auth_key=88039
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6082301_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 4 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6078873_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE EVENT",[ Belum Mulai ] 20:45 WIB East Bengal vs Al Hussein | AFC Champions League II | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/S666A.m3u8
 #EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS4xMmVhYzcxNS00MjFmLTRjZDQtYjYyNS0xMjExMmIyNmQ1NjQvMy9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="Live Event: Prime Sports",Italia: Brescia Lions vs. Venice Livewires  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -205,6 +209,9 @@ https://dai.google.com/linear/hls/event/YEM-gkNKSaaG0VB4X6KiMg/master.m3u8
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&amp;s=10" group-title="Live Event: CFY",20:15 WIB Italia T10 League | Cricket | SandBrix HD | Gvision TV
 https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/40655/image" group-title="Live Event: CFY",20:45 WIB East Bengal FC vs Al-Hussein Irbid | Football | HD SERVER | Gvision TV
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live200.kravonstreamdelivery.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/22629/image" group-title="Live Event: CFY",20:30 WIB Mexico U17 vs Cameroon U17 | Football | FOX SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -219,13 +226,13 @@ insertar3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sv7OnRZBgYw/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 04:30 WIB BRASILIA X PINHEIROS - WOMEN'S VOLEI SUPERLEAGUE | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/kick.php/.m3u8?id=led-stadium
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=beac3422ea338feb6e37f3d717ab9b93&wsTime=6b06e628&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=9a2c94c5dfb8fceef995967f586ba47b&wsTime=6b06e8ea&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 2 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=731497473e0934330eeb6c2b179d30ba&wsTime=6b06e62a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=2c753f8228dc4a2e12e435f29f8d65c4&wsTime=6b06e8db&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 3 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=9442258d6ef852b698457abc3bcbf41a&wsTime=6b06e62c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=89f64a0fdc762895b52941e51ba1a9ff&wsTime=6b06e8fa&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 4 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855026-10057-A-0-1.flv?wsSecret=3902a5c91c1d31733a67ab9e1e1e5b8b&wsTime=6b06e62d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855026-10057-A-0-1.flv?wsSecret=8a38a86d55be1033a64b167606de3a94&wsTime=6b06e8fc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="Live Event: Badminton",Syed Modi India | Court 1 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6082303_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="Live Event: Badminton",Syed Modi India | Court 2 | Gvision TV
@@ -254,6 +261,10 @@ https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4TDDmVqsJ1svuN/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4TDDcN94YPn4wJ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9iYmU3M2UwMmRmZDA3MzdiOThkMTY0NjVhZTAxNGQ5ZS5wbmc%253D" group-title="Live Event: KickLIve",19:15 WIB ratchaburi fc vs johor darul ta'zim fc | AFC Champions League Elite | Server 2 | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4TDDcN94YPn4wJ/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi85YTIyZDg0MGRmMzI3NjFjMTI3YzVjZDEwNjIwM2NjZi5wbmc%253D" group-title="Live Event: KickLIve",20:45 WIB east bengal fc vs al-hussein sc (irbid) | AFC Champions League Two | Server 1 | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4TBj8pNsD3mhct/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi85YTIyZDg0MGRmMzI3NjFjMTI3YzVjZDEwNjIwM2NjZi5wbmc%253D" group-title="Live Event: KickLIve",20:45 WIB east bengal fc vs al-hussein sc (irbid) | AFC Champions League Two | Server 2 | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4TBj8pNsD3mhct/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8yMWQ0NWQ2MWJlZGM5YjU1NzgwY2VkN2FjNTI4NDA5OS5wbmc%253D" group-title="Live Event: KickLIve",19:15 WIB al-raed sfc vs al okhdood | Saudi Arabia Division 1 | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MxiZdWkaJXGEjKcv4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8yMWQ0NWQ2MWJlZGM5YjU1NzgwY2VkN2FjNTI4NDA5OS5wbmc%253D" group-title="Live Event: KickLIve",19:20 WIB al-jabalain vs al zulfi | Saudi Arabia Division 1 | KickLive | Gvision TV
