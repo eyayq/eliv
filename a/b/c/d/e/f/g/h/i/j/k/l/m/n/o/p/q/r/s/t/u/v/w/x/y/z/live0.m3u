@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 16:37:22 WIB 25-11-2026
-# 🔄 Total Channels: 917
+# ⏰ Latest Updated: 16:40:59 WIB 25-11-2026
+# 🔄 Total Channels: 925
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [16:37:22 WIB 25-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [16:40:59 WIB 25-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg" group-title="LIVE EVENT",20:30 WIB Uruguay U17 vs France U17 | World Cup U17 | FAWA | Gvision TV
@@ -73,26 +73,42 @@ https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/689878fa86603c806
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/8iWWwtcEQUQt/2026/11/25/15_57_13/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kp7NO29.jpeg" group-title="LIVE EVENT",23:00 WIB Panathinaikos ATHENS vs CSM Corona BRASOV - CEV Challenge Cup | Gvision TV
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/ST3BT0yTuWKA/2026/11/25/15_53_56/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_elite_2026/img/acl_elite_2026_1200-630.png" group-title="LIVE EVENT",23:00 WIB Al Muharraq vs Arkadag | AFC Champions League | FAWA | Gvision TV
+#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_elite_2026/img/acl_elite_2026_1200-630.png" group-title="LIVE EVENT",23:00 WIB Al Muharraq vs Arkadag | AFC Champions League | Server 1 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/ZLLLAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_elite_2026/img/acl_elite_2026_1200-630.png" group-title="LIVE EVENT",23:00 WIB Al Kuwait vs Al Wahda | AFC Champions League | FAWA | Gvision TV
+#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_elite_2026/img/acl_elite_2026_1200-630.png" group-title="LIVE EVENT",23:00 WIB Al Muharraq vs Arkadag | AFC Champions League | Server 2 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/a5a8ded6-8267-4802-b3c7-43b64f552584.m3u8
+#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_elite_2026/img/acl_elite_2026_1200-630.png" group-title="LIVE EVENT",23:00 WIB Al Kuwait vs Al Wahda | AFC Champions League | Server 1 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/ZLLLAAA.m3u8
-#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_elite_2026/img/acl_elite_2026_1200-630.png" group-title="LIVE EVENT",23:00 WIB Al Jazira vs Gol Gohar | AFC Champions League | FAWA | Gvision TV
+#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_elite_2026/img/acl_elite_2026_1200-630.png" group-title="LIVE EVENT",23:00 WIB Al Kuwait vs Al Wahda | AFC Champions League | Server 2 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/25e68e6a-2861-4232-9ef7-ec773d96b1c6.m3u8
+#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_elite_2026/img/acl_elite_2026_1200-630.png" group-title="LIVE EVENT",23:00 WIB Al Jazira vs Gol Gohar | AFC Champions League | Server 1 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/ZLLLAA.m3u8
-#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_elite_2026/img/acl_elite_2026_1200-630.png" group-title="LIVE EVENT",23:00 WIB Al Faisaly Amman vs Al Rayyan | AFC Champions League | FAWA | Gvision TV
+#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_elite_2026/img/acl_elite_2026_1200-630.png" group-title="LIVE EVENT",23:00 WIB Al Jazira vs Gol Gohar | AFC Champions League | Server 2 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/1a9591c1-10e5-4de2-92af-b57a75b74e29.m3u8
+#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_elite_2026/img/acl_elite_2026_1200-630.png" group-title="LIVE EVENT",23:00 WIB Al Faisaly Amman vs Al Rayyan | AFC Champions League | Server 1 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/ZLLLA.m3u8
+#EXTINF:-1 tvg-logo="https://www.jfa.jp/match/acl_elite_2026/img/acl_elite_2026_1200-630.png" group-title="LIVE EVENT",23:00 WIB Al Faisaly Amman vs Al Rayyan | AFC Champions League | Server 2 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/0c979ccd-fb9a-4fc1-ab9f-7ab441860cf1.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Qiao Ge Qiang Shi Jin Ji Jin Ji ,Heng Ai Ni Zhuan Jin Ji   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=b4fb62ed9ea086a8eb2e90a211560c38&wsTime=6b085fbd&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=cc13e01567b7c493e412045282de10fc&wsTime=6b08606d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Li Zi Jia Qiang Shi Jin Ji Zheng Jia Heng Ni Zhuan Jin Ji   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=e9aee9da663428cda9c09aa00771f27f&wsTime=6b085fbe&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=e0326f29706ce8ca88998744f5773047&wsTime=6b086070&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 1 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6084242_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 2 | Gvision TV
@@ -106,31 +122,31 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/215_6084250_1.m3u8?auth_key=88039
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 #EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS45N2VhZTQxOC05M2M3LTQwZTItYjJkNi02YTgxMzI3YjgzYmMvNS9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvcy16L3dpbGxvd3R2L2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUtc3RhY2tlZC5wbmclN0MwLTAtMTkyMC0xMDgwKzAtMC0xOTIwLTEwODArMTcyNC04ODUtMTE3LTExN19rdmViZWQzNmU3OGVhYTAzMzBmMjAwYmI2MDQ1YTUyYWNhX1NYNjI0X0ZNanBnXy5qcGVn" group-title="Live Event: Prime Sports",Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/23pcq587cm/out/v1/ee8c4d2ac4094688a867f0d1a76aef2b/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/23pcq587cm/out/v1/ee8c4d2ac4094688a867f0d1a76aef2b/cenc.mpd
 #EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS5iODUyYWQxYi04MjllLTQzNDYtOGZlNC02N2FmYTdiMmIwYTcvMi9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvcy16L3dpbGxvd3R2L2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUtc3RhY2tlZC5wbmclN0MwLTAtMTkyMC0xMDgwKzAtMC0xOTIwLTEwODArMTcyNC04ODUtMTE3LTExN19rdmViZWQzNmU3OGVhYTAzMzBmMjAwYmI2MDQ1YTUyYWNhX1NYNjI0X0ZNanBnXy5qcGVn" group-title="Live Event: Prime Sports",International League T20 2026 - 6th Match - Dubai Capitals vs Desert Vipers  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7070587c4a7d8db325db4540da4777c:c474bc272c73fdce1298511ac95bfdce
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zfivwvynvc/out/v1/3f9cead02b3a4945bb6b6654938b7ba3/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zfivwvynvc/out/v1/3f9cead02b3a4945bb6b6654938b7ba3/cenc.mpd
 #EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS41YTg5ZTk0ZS0yOTkxLTQ1MDMtOWM2Yi0zZmM2MzM0YmNkYzkvNy9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="Live Event: Prime Sports",Predator Pro Billiard Series: San Antonio  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
-#EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS5kMmJkNmRmYS02NzgxLTRjMzctODI2OS0wMmUzNWM2YzhhNDEvNC9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="Live Event: Prime Sports",Triton Poker Series Cyprus-$150K NLH 10th Anniversary Special  | Prime Sports | Gvision TV
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+#EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS5kMmJkNmRmYS02NzgxLTRjMzctODI2OS0wMmUzNWM2YzhhNDEvNS9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="Live Event: Prime Sports",Triton Poker Series Cyprus-$150K NLH 10th Anniversary Special  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl6f3IJM3zVoiU45GX2IhNPDjAyupyyFamzZwFnB5D6w&amp;s=10" group-title="Live Event: CFY",21:30 WIB ILT International League T20 | Cricket | WILLOW - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -223,22 +239,38 @@ https://apxvf0ws91.yarncdn.live/live/sd-6MxipaPVguMT98G3pC/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46Wx5xSfkTmDrQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8yMWQ0NWQ2MWJlZGM5YjU1NzgwY2VkN2FjNTI4NDA5OS5wbmc%253D" group-title="Live Event: KickLIve",22:10 WIB al ula fc vs al-adalah | Saudi Arabia Division 1 | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MxiZdWm5wK2quNGsA/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",23:00 WIB Al Muharraq vs Arkadag | AFC Champions League | FAWA | Gvision TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",23:00 WIB Al Muharraq vs Arkadag | AFC Champions League | Server 1 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/ZLLLAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",23:00 WIB Al Kuwait vs Al Wahda | AFC Champions League | FAWA | Gvision TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",23:00 WIB Al Muharraq vs Arkadag | AFC Champions League | Server 2 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/a5a8ded6-8267-4802-b3c7-43b64f552584.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",23:00 WIB Al Kuwait vs Al Wahda | AFC Champions League | Server 1 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/ZLLLAAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",23:00 WIB Al Jazira vs Gol Gohar | AFC Champions League | FAWA | Gvision TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",23:00 WIB Al Kuwait vs Al Wahda | AFC Champions League | Server 2 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/25e68e6a-2861-4232-9ef7-ec773d96b1c6.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",23:00 WIB Al Jazira vs Gol Gohar | AFC Champions League | Server 1 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/ZLLLAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",23:00 WIB Al Faisaly Amman vs Al Rayyan | AFC Champions League | FAWA | Gvision TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",23:00 WIB Al Jazira vs Gol Gohar | AFC Champions League | Server 2 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/1a9591c1-10e5-4de2-92af-b57a75b74e29.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",23:00 WIB Al Faisaly Amman vs Al Rayyan | AFC Champions League | Server 1 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/ZLLLA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Live Event: Fawa",23:00 WIB Al Faisaly Amman vs Al Rayyan | AFC Champions League | Server 2 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/0c979ccd-fb9a-4fc1-ab9f-7ab441860cf1.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="Live Event: Fawa",23:00 WIB Dubai vs Partizan | Basketball Euroleague | Server 1 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
