@@ -1,20 +1,28 @@
 #EXTM3U
-# ⏰ Latest Updated: 00:01:24 WIB 25-11-2026
-# 🔄 Total Channels: 880
+# ⏰ Latest Updated: 00:05:06 WIB 25-11-2026
+# 🔄 Total Channels: 881
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [00:01:24 WIB 25-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [00:05:06 WIB 25-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sv7OnRZBgYw/hq720.jpg" group-title="LIVE EVENT",04:30 WIB BRASILIA X PINHEIROS - WOMEN'S VOLEI SUPERLEAGUE | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/kick.php/.m3u8?id=led-stadium
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="LIVE EVENT",07:00 WIB Orlando Magic vs Detroit Pistons | NBA Basketball | Server 1 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/CUUUFAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="LIVE EVENT",07:00 WIB Orlando Magic vs Detroit Pistons | NBA Basketball | Server 2 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/58a3972ae0378b5958ca9d0fd1d6e8a20815b3f4d37f8439bb20b83db87291e8.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Chen Zheng Kuan u002FLiu Yan Heng 2-0Dui Shou Qiang Shi Jin Ji  2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=28b085baf0be5cc554a2438ca5d82676&wsTime=6b0775df&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=2ef5a4ebbdde4e1883afd1d74474f82b&wsTime=6b077703&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Gao Qiao Guang Shi Lian Sheng Liang Ju Jin Ji San Shi Er Qiang  2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=9e6ad90581f03e18cf15c1854c615dc6&wsTime=6b0775e1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=951d4e2f965059193d1dea2ea4c08385&wsTime=6b077707&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 1 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6082303_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 2 | Gvision TV
@@ -23,10 +31,6 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/215_6083044_1.m3u8?auth_key=88039
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6082301_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 4 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6078873_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="LIVE EVENT",[ Belum Mulai ] 07:00 WIB Orlando Magic vs Detroit Pistons | NBA Basketball | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/CUUUFAA.m3u8
 #EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS44NmQwODM1Ny02OTBhLTQ5ZTAtOTIzYi00NzQyYzEzYWY1MzEvNi9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl8uanBlZw" group-title="Live Event: Prime Sports",Triton Poker Series Cyprus-$100K NLH Main Event  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
