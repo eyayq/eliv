@@ -1,78 +1,102 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.49 WIB 25/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.53 WIB 25/11/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-wizards-c55b3a.webp" group-title="[LIVE 08:20 WIB 25/11/26] Washington Wizards vs Boston Celtics | Server 1",[LIVE 08:20 WIB 25/11/26] Washington Wizards vs Boston Celtics | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1795578249-0-0-d4ea02a0d007662c5ced39dd58f736f7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1795578609-0-0-8a77d442a1ecf23810a82c556bbe2066
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-wizards-c55b3a.webp" group-title="[LIVE 08:20 WIB 25/11/26] Washington Wizards vs Boston Celtics | Server 2",[LIVE 08:20 WIB 25/11/26] Washington Wizards vs Boston Celtics | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1795578249-0-0-77ae550d7c91c94e49914cf20818da68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1795578609-0-0-7110edadd8a20bc92a0dde4be4ba9434
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-wizards-c55b3a.webp" group-title="[LIVE 08:20 WIB 25/11/26] Washington Wizards vs Boston Celtics | Server 3",[LIVE 08:20 WIB 25/11/26] Washington Wizards vs Boston Celtics | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1795578249-0-0-857fcb3281f00118f811da62847fd239
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1795578609-0-0-e265d18f0954eb686b3383237850fa11
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-wizards-c55b3a.webp" group-title="[LIVE 08:20 WIB 25/11/26] Washington Wizards vs Boston Celtics | Server 4",[LIVE 08:20 WIB 25/11/26] Washington Wizards vs Boston Celtics | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1795578249-0-0-1107ca9876e2e5c349f4f9e1325f5434
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1795578609-0-0-5a172886dcd372bf33f6108bf322593b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-wizards-c55b3a.webp" group-title="[LIVE 08:20 WIB 25/11/26] Washington Wizards vs Boston Celtics | Server 5",[LIVE 08:20 WIB 25/11/26] Washington Wizards vs Boston Celtics | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1795578249-0-0-82ad25d73bf2e5a988ac51e4676d93f2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1795578609-0-0-57a02e3b3fa3c060900041f8b5f75970
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/washington-wizards-c55b3a.webp" group-title="[LIVE 08:20 WIB 25/11/26] Washington Wizards vs Boston Celtics | Server 6",[LIVE 08:20 WIB 25/11/26] Washington Wizards vs Boston Celtics | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1795578249-0-0-f439023423dee4e3c1163036a621f813
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1795578609-0-0-efe8e89bf46e2f1f5cde7e0a2b3f6b92
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/america-de-cali-7ba663.webp" group-title="[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 1",[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://pull.fmp.live/sla/1-6afcc76206a083c4585185b5.m3u8?auth_key=1795596302-0-0-9a417cff6fe41940ec731c695712a371
+https://pull.fmp.live/sla/1-6afcc76206a083c4585185b5.m3u8?auth_key=1795596661-0-0-6a7240929a9f4bab064b41101072e316
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/america-de-cali-7ba663.webp" group-title="[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 2",[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.lacrima2000.com/live/18b658c07c2c3510.m3u8?wsSecret=1A9D61BCB02F6880FBF15E5E452F5FD1&wsTime=1795574697
+https://play.lacrima2000.com/live/18b658c07c2c3510.m3u8?wsSecret=21177171E2B02CFB9D7E9134EA472F9B&wsTime=1795575058
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/america-de-cali-7ba663.webp" group-title="[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 3",[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912141_lsd.m3u8?auth_key=1795578249-0-0-736dd5e141e73737e475d5dc26e266ae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912141_lsd.m3u8?auth_key=1795578609-0-0-1499cf8b42be2df934cb70a5257d0679
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/america-de-cali-7ba663.webp" group-title="[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 4",[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1795578249-0-0-bceb5d94b063a31769cc54aa8126aed0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1795578609-0-0-1fd740baa95af75f983b34cca31df27b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/america-de-cali-7ba663.webp" group-title="[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 5",[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1795578249-0-0-d1a21c0297d0b6024e81338d547e1910
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1795578609-0-0-18665279bc06a48d6967ae50416a24cc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/america-de-cali-7ba663.webp" group-title="[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 6",[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795578249-0-0-622dada605f1522ee6e07b9232d9a89e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1795578609-0-0-dc48b16cbcb603427d6df256c4d90796
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/america-de-cali-7ba663.webp" group-title="[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 7",[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1795578249-0-0-a06e427790d44f16cd9fd3b11f19a5f2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1795578609-0-0-097298156c25d891b6f4bd8fa3101b5a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/america-de-cali-7ba663.webp" group-title="[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 8",[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1795578249-0-0-4f5f3a2bf979303fa24d74cf35301176
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1795578609-0-0-4e7d0009dca6b62d18f6725692a08153
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/america-de-cali-7ba663.webp" group-title="[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 9",[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1795578249-0-0-fccbd58aaf4198f90c7fdaef20dcf2ed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1795578609-0-0-a5151e9e74b73a5390ee08c8cc133c5a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/america-de-cali-7ba663.webp" group-title="[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 10",[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1795578249-0-0-93f161bd1ea72703058b418cc05a5c42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795578609-0-0-5e3be2879c17e8d51a68718f5cba1399
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/america-de-cali-7ba663.webp" group-title="[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 11",[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=013375d43c9d04ec8ef88ede17799303&txTime=6b069fd9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=77555fd92412628e458733212d14e213&txTime=6b06a141
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/america-de-cali-7ba663.webp" group-title="[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 12",[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=963742c2847debc801b84b8117cc9a67&txTime=6b069fd9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=7b2dcc0eb082397f857632cfc186e716&txTime=6b06a141
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/america-de-cali-7ba663.webp" group-title="[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 13",[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1795578249-0-0-a48eb86f78036ea3e8fdf62044528709
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1795578609-0-0-66d3d6b24cca5556b5f1d6dff021a492
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/america-de-cali-7ba663.webp" group-title="[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 14",[LIVE 08:30 WIB 25/11/26] America de Cali vs Deportivo Cali | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1795578249-0-0-0e3e2825158d217388637fd63b0272db
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ryukyu-okinawa-642e0f.webp" group-title="[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 1",[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-626841_lsd.m3u8?auth_key=1795578309-0-0-dfda33b09cfd8803c546f8d5422eb684
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ryukyu-okinawa-642e0f.webp" group-title="[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 2",[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1795578309-0-0-d67b76bd51b43ce1603bc6c88fdca361
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ryukyu-okinawa-642e0f.webp" group-title="[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 3",[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1795568337-0-0-e21bccbd6d6eae567dd486f23b0140a6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ryukyu-okinawa-642e0f.webp" group-title="[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 4",[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1795568337-0-0-c644d5fa87def38033d41c753c4fcef9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1795578609-0-0-2d9a0b801a92be8edd35f1b882ebd28e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 1",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1795578669-0-0-d3c0b738bb962a09dc4c3c88ed4a9fc0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 2",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1795578669-0-0-f01631ebfad5892a836ee1b2928ff86d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 3",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1795578669-0-0-c9392ed8db829b37a005f2bb47891c49
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 4",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1795578669-0-0-5d50b831f3fe262d22bc8c4b655d8351
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 5",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1795578669-0-0-72a227c1a3225569e2a06ef26293d6da
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 6",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1795578669-0-0-02ce9874c824c2609ca2928d5c7e2707
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 7",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1795578669-0-0-8f7484be68857495ff98eb3b51e66192
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 8",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1795578669-0-0-960cd8ed88199f9b5318af657acc44bb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 9",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1795578669-0-0-7e4d9a1a797f8062afb2d13a2faa9607
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 10",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1795578669-0-0-cb4c3d988778de70ccbefc90d5b73e03
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 11",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1795578669-0-0-7e40b5b6dc4cdf90d7c8d11160500247
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 12",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1795578669-0-0-e865ea593a14c9c12532954ebb94475f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-jose-earthquakes-b5b4f8.webp" group-title="[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 1",[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/sanjose-houston-mls/index.m3u8
@@ -83,68 +107,44 @@ https://flv.lauthaitv.cc/live/sanjose-houston-mls.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://pull.fmp.live/sla/1-6aeffaee53d3d88350531355.m3u8?auth_key=1795596242-0-0-e53b537b913f0deba0315f5124f488ae
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-jose-earthquakes-b5b4f8.webp" group-title="[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 4",[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1795578249-0-0-628db46e7f53af7bf7ade06e564a670a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1795578609-0-0-b003eb38d61c5a30b5c195376363a2b7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-jose-earthquakes-b5b4f8.webp" group-title="[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 5",[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1795578249-0-0-232be574c9e57156e5937a176089ea32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1795578609-0-0-1d6550c0b12fb8c6f99b68a39ae3138e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-jose-earthquakes-b5b4f8.webp" group-title="[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 6",[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1795578249-0-0-ac3321d1c48cb777e3cf62ec57b99c9d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1795578609-0-0-fd479573546ae865c83a2d3c2e2adc00
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-jose-earthquakes-b5b4f8.webp" group-title="[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 7",[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1795578249-0-0-22f7f624f8f369c801f56638ec1b2f0e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1795578609-0-0-1fcb2b94da2df9628d5ba293031ae3c9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-jose-earthquakes-b5b4f8.webp" group-title="[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 8",[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1795578249-0-0-b403b7dd0fe79b6590a19510f50ef967
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=e8cd76faa777b977b23f123aa5326237&txTime=6b06a141
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-jose-earthquakes-b5b4f8.webp" group-title="[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 9",[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1795578249-0-0-1ea242a972f350c927fa772cc014c82b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e27bd8913640071f9ba88a2bf1a8a239&txTime=6b06a141
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-jose-earthquakes-b5b4f8.webp" group-title="[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 10",[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=0398926dfb698637e4137a1c31286f9f&txTime=6b069fd9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1795578609-0-0-b7a753b6260cadf9e6d528771c5f51a5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-jose-earthquakes-b5b4f8.webp" group-title="[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 11",[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=4826992c5ca048af64cf8136d7a7daf6&txTime=6b069fd9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1795578609-0-0-564f33611596f8b3a4a8406038276786
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-jose-earthquakes-b5b4f8.webp" group-title="[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 12",[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1795578249-0-0-47a0f473cbcfbcff9a61b7e5c89c4e60
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1795578609-0-0-2109ea36d21c05a63f5727f8c55aa172
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-jose-earthquakes-b5b4f8.webp" group-title="[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 13",[LIVE 10:00 WIB 25/11/26] San Jose Earthquakes vs Houston Dynamo | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1795578249-0-0-a55990d4602d9a66767e200725e20e91
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 1",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1795578309-0-0-0c8022c27c47116687d9dafb55e95b31
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 2",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1795578309-0-0-a1203d64ac164cffc6f42320f5ad0bcd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 3",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1795578309-0-0-2034d6e040e003794f4801887a0a3bdb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 4",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1795578309-0-0-5532096a2fcbd94e19613c1f28a838fc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 5",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1795578309-0-0-aa7554e620ef7b831ad31e9235df41d2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 6",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1795578309-0-0-b6c8cc117c90b8de3593c0ed3cc1d1a3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 7",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1795578309-0-0-5e70c2f8d7746d35a9e2ced428d89532
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 8",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1795578309-0-0-de2bcd5636fdc8f93d8a7b7d16ebfecd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 9",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1795578309-0-0-20194813a56e18dd9bc7cd6571451255
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 10",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1795578309-0-0-2b96744a593370e99fdf50ec4d291d36
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 11",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1795578309-0-0-e9e044b65c3e28d806fd8a363afc8915
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denver-nuggets-8f9e91.webp" group-title="[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 12",[LIVE 10:00 WIB 25/11/26] Denver Nuggets vs Dallas Mavericks | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1795578309-0-0-9fde4d76cf2ccf345a8b0af6c882d232
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1795578609-0-0-4867b6a6df1ca7a58a96b35f711f3e42
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ryukyu-okinawa-642e0f.webp" group-title="[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 1",[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-626841_lsd.m3u8?auth_key=1795578669-0-0-82150310ce2c25dfc596e5cdb1c2d503
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ryukyu-okinawa-642e0f.webp" group-title="[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 2",[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1795578669-0-0-512d7c772d73fd33ccc316dd3241edf9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ryukyu-okinawa-642e0f.webp" group-title="[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 3",[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-621887_lsd.m3u8?auth_key=1795578669-0-0-f6eacfeb2ce75f1847aa74a26edcbd4a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-ryukyu-okinawa-642e0f.webp" group-title="[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 4",[LIVE 10:00 WIB 25/11/26] FC Ryukyu Okinawa vs Roasso Kumamoto | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1795578669-0-0-6b616b7d81270e0ece1e3bd9bee803fa
