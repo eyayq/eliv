@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 20:24:35 WIB 26-11-2026
-# 🔄 Total Channels: 1061
+# ⏰ Latest Updated: 20:28:18 WIB 26-11-2026
+# 🔄 Total Channels: 1079
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:24:35 WIB 26-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:28:18 WIB 26-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dJ-z_u4DRIY/hq720.jpg" group-title="LIVE EVENT",00:00 WIB UNI OPOLE vs Volley MULHOUSE Alsace - CEV Champions League Volley 2027 | Gvision TV
@@ -242,6 +242,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mfyznf7x8l/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba4effafbd36005baf92e3d281cd0999:7cc69113ebe304fdf3bf5006a72963bd
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xpa9135ywq/out/v1/cdc84e75e45248ff8b2016481e571838/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2569/image" group-title="LIVE EVENT",03:00 WIB TSG Hoffenheim vs SK Sturm Graz | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8202c517fe7618979c1c85605cc50c0b:8aa9fd9c3fc239df4f89b8791b7471bf
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kguqh1u6wc/out/v1/4ee96f7b64494c1aa1dc327b3f9b07ed/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2687/image" group-title="LIVE EVENT",03:00 WIB Juventus vs Omonia Nicosia | Football | DAZN SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -262,6 +267,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/umlbuet7s5/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd3c66bee767c44c347e01e245a499ed:278aafbfb1dd7a19125c1e10088b819d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ct9mx5npak/out/v1/206b509094744f4d99da3d82acc201a3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1649/image" group-title="LIVE EVENT",03:00 WIB Olympique Lyonnais vs Lillestrm SK | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7612cc85dd8bf1d7487825c3bbdddbcd:0f02b76f2674548dc98773331ffc03aa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikwiwip1gt/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2962/image" group-title="LIVE EVENT",03:00 WIB NEC Nijmegen vs Stade Rennais | Football | DAZN SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -287,6 +297,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yxovu0ikea/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e3517446dc9fd6446d36331b91851ed:f8da9d831839e2cdf9a4fe1ce732fe33
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l6sfgniifz/out/v1/df7f0a6ddae64fbdb93f255cbe9e8f82/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2218/image" group-title="LIVE EVENT",03:00 WIB AC Sparta Praha vs AZ Alkmaar | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a247b643241ff5ecaddf3b1c62e6033:75201ababa80fdb9a6458f0ebb673ae7
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dcqxxnyvxx/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/41/image" group-title="LIVE EVENT",03:00 WIB Sunderland vs Jagiellonia Biaystok | Football | DAZN SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -297,6 +312,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u6uztem2zs/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03b792ed89384753406fdf0438ded2f0:2fc6bad1309ab8bd07c8b6f02d9b2822
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g0tqaufo6z/out/v1/525a8ece5665430fb017e4a545fad99a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/41/image" group-title="LIVE EVENT",03:00 WIB Sunderland vs Jagiellonia Biaystok | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a72d49a731cd807bab10d856f62e4585:bbb8deb9b5222a0035dbda1c750ae292
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r23a6pv2cr/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/25787/image" group-title="LIVE EVENT",03:00 WIB Torreense vs Celtic | Football | DAZN SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -307,6 +327,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1r4rx5ln0v/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fb300b7cd79cb8d36d8269ff8178f7:c64d1c608fd89a85042b528c1e763f8b
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5xzu4ctvbh/out/v1/84b9ed4edde44d41b98b0b464dbe73e1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/25787/image" group-title="LIVE EVENT",03:00 WIB Torreense vs Celtic | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb08ace238c57af73556d628f2d05034:3e839c0fe2db5bb79b3c8f741a2d44f0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/br5b9somea/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/5235/image" group-title="LIVE EVENT",03:00 WIB FK Borac Banja Luka vs Atalanta | Football | DAZN SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -332,6 +357,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ljv91ssvaf/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=02440318a34e369ac8582785b2197d43:3fafea25a33b970e32632919797f5162
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/asavfkqt6o/out/v1/b0e8e5d6c020477b89ecf7c641aff79b/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3275/image" group-title="LIVE EVENT",03:00 WIB CSKA Sofia vs Trabzonspor | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=074379572c163fed977c50305dabda5a:c295d5b7036c49c373c1c54af0f36a8f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rfhszfxzjo/out/v1/704f75f0af534798951c89fbe90fa5c3/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1292/image" group-title="LIVE EVENT",03:00 WIB FC Nordsjlland vs Panathinaikos FC | Football | PARAMOUNT+ - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -342,6 +372,16 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d7xcz7rioe/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5aa0c86d77284f235e97c5d7e801f492:50cc7b4c45c75abc80d92753c44d2741
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/in1byv9kxb/out/v1/5b47785e66814ea59c06686245b2db19/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2903/image" group-title="LIVE EVENT",03:00 WIB KAA Gent vs FK Crvena zvezda | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eac7363821696be868655482c0fcdecd:3bc7d7deaf36db82098744a8db7f9ff8
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zorso6ksas/out/v1/fe1e6e7c2a3f421b87a96397f03e79e9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2903/image" group-title="LIVE EVENT",03:00 WIB KAA Gent vs FK Crvena zvezda | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d346573a7f8c45874f504316bc2ed7d:b80c34a49416b64e24e7929a8ce8e704
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yjt08fuqwm/out/v1/b5ef208fdea84ed8a2f0aefe7fdb86cf/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2538/image" group-title="LIVE EVENT",03:00 WIB SC Freiburg vs FC Twente | Football | DAZN SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -372,6 +412,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vdivyuprtt/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f40bf13f64c926d6e45f3dbb21fc388b:6e845b0b01a882963c3fca4e5c6d30e7
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1pd1mojapn/out/v1/2f3d0a26cd724ecba544def690bbf788/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/37946/image" group-title="LIVE EVENT",03:00 WIB Inter Club dEscaldes vs FC Kbenhavn | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e45d4841675035e24df02030b935a95c:17acede99bade461a89630bb86a084a6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1z0b6t9gvm/out/v1/b55e36403f7042409bb6f5fcfcc160c4/cenc.mpd
 #EXTINF:-1 tvg-logo="https://shorter.me/VJWW_" group-title="LIVE EVENT",03:00 WIB Juventus vs Omonia Nicosia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -401,9 +446,9 @@ https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Chen Liu Xian Sheng Jin Ji ,Tuo Jin Qiang Shi Jin Ji   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=584310d5428ab843e0b091a59c98d82e&wsTime=6b09e66d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=adef62935918eb9e3987738fd6766c49&wsTime=6b09e725&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Li Zi Jia Qiang Shi Jin Ji ,Zheng Jia Heng Xi Bai Tao Tai   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=f282feecb44ee0818edc91d22295c781&wsTime=6b09e673&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=d801768a826521b294977e24613ffc54&wsTime=6b09e726&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 1 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6088418_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 2 | Gvision TV
@@ -487,6 +532,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mfyznf7x8l/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba4effafbd36005baf92e3d281cd0999:7cc69113ebe304fdf3bf5006a72963bd
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xpa9135ywq/out/v1/cdc84e75e45248ff8b2016481e571838/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2569/image" group-title="Live Event: CFY",03:00 WIB TSG Hoffenheim vs SK Sturm Graz | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8202c517fe7618979c1c85605cc50c0b:8aa9fd9c3fc239df4f89b8791b7471bf
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kguqh1u6wc/out/v1/4ee96f7b64494c1aa1dc327b3f9b07ed/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2687/image" group-title="Live Event: CFY",03:00 WIB Juventus vs Omonia Nicosia | Football | DAZN SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -507,6 +557,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/umlbuet7s5/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd3c66bee767c44c347e01e245a499ed:278aafbfb1dd7a19125c1e10088b819d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ct9mx5npak/out/v1/206b509094744f4d99da3d82acc201a3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1649/image" group-title="Live Event: CFY",03:00 WIB Olympique Lyonnais vs Lillestrm SK | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7612cc85dd8bf1d7487825c3bbdddbcd:0f02b76f2674548dc98773331ffc03aa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikwiwip1gt/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2962/image" group-title="Live Event: CFY",03:00 WIB NEC Nijmegen vs Stade Rennais | Football | DAZN SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -532,6 +587,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yxovu0ikea/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e3517446dc9fd6446d36331b91851ed:f8da9d831839e2cdf9a4fe1ce732fe33
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l6sfgniifz/out/v1/df7f0a6ddae64fbdb93f255cbe9e8f82/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2218/image" group-title="Live Event: CFY",03:00 WIB AC Sparta Praha vs AZ Alkmaar | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a247b643241ff5ecaddf3b1c62e6033:75201ababa80fdb9a6458f0ebb673ae7
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dcqxxnyvxx/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/41/image" group-title="Live Event: CFY",03:00 WIB Sunderland vs Jagiellonia Biaystok | Football | DAZN SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -542,6 +602,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u6uztem2zs/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03b792ed89384753406fdf0438ded2f0:2fc6bad1309ab8bd07c8b6f02d9b2822
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g0tqaufo6z/out/v1/525a8ece5665430fb017e4a545fad99a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/41/image" group-title="Live Event: CFY",03:00 WIB Sunderland vs Jagiellonia Biaystok | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a72d49a731cd807bab10d856f62e4585:bbb8deb9b5222a0035dbda1c750ae292
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r23a6pv2cr/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/25787/image" group-title="Live Event: CFY",03:00 WIB Torreense vs Celtic | Football | DAZN SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -552,6 +617,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1r4rx5ln0v/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fb300b7cd79cb8d36d8269ff8178f7:c64d1c608fd89a85042b528c1e763f8b
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5xzu4ctvbh/out/v1/84b9ed4edde44d41b98b0b464dbe73e1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/25787/image" group-title="Live Event: CFY",03:00 WIB Torreense vs Celtic | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb08ace238c57af73556d628f2d05034:3e839c0fe2db5bb79b3c8f741a2d44f0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/br5b9somea/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/5235/image" group-title="Live Event: CFY",03:00 WIB FK Borac Banja Luka vs Atalanta | Football | DAZN SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -577,6 +647,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ljv91ssvaf/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=02440318a34e369ac8582785b2197d43:3fafea25a33b970e32632919797f5162
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/asavfkqt6o/out/v1/b0e8e5d6c020477b89ecf7c641aff79b/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3275/image" group-title="Live Event: CFY",03:00 WIB CSKA Sofia vs Trabzonspor | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=074379572c163fed977c50305dabda5a:c295d5b7036c49c373c1c54af0f36a8f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rfhszfxzjo/out/v1/704f75f0af534798951c89fbe90fa5c3/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1292/image" group-title="Live Event: CFY",03:00 WIB FC Nordsjlland vs Panathinaikos FC | Football | PARAMOUNT+ - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -587,6 +662,16 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d7xcz7rioe/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5aa0c86d77284f235e97c5d7e801f492:50cc7b4c45c75abc80d92753c44d2741
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/in1byv9kxb/out/v1/5b47785e66814ea59c06686245b2db19/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2903/image" group-title="Live Event: CFY",03:00 WIB KAA Gent vs FK Crvena zvezda | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eac7363821696be868655482c0fcdecd:3bc7d7deaf36db82098744a8db7f9ff8
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zorso6ksas/out/v1/fe1e6e7c2a3f421b87a96397f03e79e9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2903/image" group-title="Live Event: CFY",03:00 WIB KAA Gent vs FK Crvena zvezda | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d346573a7f8c45874f504316bc2ed7d:b80c34a49416b64e24e7929a8ce8e704
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yjt08fuqwm/out/v1/b5ef208fdea84ed8a2f0aefe7fdb86cf/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2538/image" group-title="Live Event: CFY",03:00 WIB SC Freiburg vs FC Twente | Football | DAZN SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -617,6 +702,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vdivyuprtt/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f40bf13f64c926d6e45f3dbb21fc388b:6e845b0b01a882963c3fca4e5c6d30e7
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1pd1mojapn/out/v1/2f3d0a26cd724ecba544def690bbf788/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/37946/image" group-title="Live Event: CFY",03:00 WIB Inter Club dEscaldes vs FC Kbenhavn | Football | VIX SPANISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e45d4841675035e24df02030b935a95c:17acede99bade461a89630bb86a084a6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1z0b6t9gvm/out/v1/b55e36403f7042409bb6f5fcfcc160c4/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4419/image" group-title="Live Event: CFY",01:00 WIB Detroit Lions vs Chicago Bears | American football | NFL GAMEPASS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
