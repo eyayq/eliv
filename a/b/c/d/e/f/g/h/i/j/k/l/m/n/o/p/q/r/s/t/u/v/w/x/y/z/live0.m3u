@@ -1,14 +1,33 @@
 #EXTM3U
-# ⏰ Latest Updated: 11:59:11 WIB 27-11-2026
-# 🔄 Total Channels: 903
+# ⏰ Latest Updated: 12:10:54 WIB 27-11-2026
+# 🔄 Total Channels: 905
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [11:59:11 WIB 27-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:10:54 WIB 27-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",19:10 WIB MotoGP: Motul Grand Prix of Valencia - Practice | TNT SPORTS 2 | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",19:10 WIB MotoGP: Motul Grand Prix of Valencia - Practice | Fancode | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",19:10 WIB MotoGP: Motul Grand Prix of Valencia - Practice | Nonton GP | Gvision TV
+#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
+http://master3.s3stream.top/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",19:10 WIB MotoGP: Motul Grand Prix of Valencia - Practice | MOTOGP TV | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",19:10 WIB MotoGP: Motul Grand Prix of Valencia - Practice | MOTOGP LIVE | Gvision TV
+https://s1.strea.ru/index_src/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg" group-title="LIVE EVENT",15:00 WIB Motogp | Motorsport | FANCODE - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -36,17 +55,15 @@ https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0002/ndhiis9ezs
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9mNjczOTM1ZDExNWQxOWZkNDEyYmNlZGY5YWMzZjkzNi5wbmc%253D" group-title="LIVE EVENT",18:30 WIB geylang united fc vs tanjong pagar united | Singapore Premier League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MxiZk7CAE5ntEGxnC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=4151fcaf9847ba7421d816473fea32c7&wsTime=6b0ac17b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=c17335297b8eb5f0d7d83bb3a233ad6d&wsTime=6b0ac40d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 2 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=dc7482b839143e3c258c76a0d23d8ae3&wsTime=6b0ac190&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 3 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=7fdf05205b5ab0295b217c66dcd62f2c&wsTime=6b0ac191&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=455ffef191e915c384306ccc16a17a89&wsTime=6b0ac41c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Ai Bi Gai Er u002FAi Si Te Er  VS Liu Zi Yu u002FAn Qi La   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=b8fa589243f534cd330cbb02890fc5de&wsTime=6b0ac191&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Ha Tai Di Pu u002FNa Pa Pa Qia Kong  VS Yi Si Ya Na u002FLin Jia Ni   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=537e6bf272c2d446cce5f0463def3d9b&wsTime=6b0ac198&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=f8071ac1849d41e9579cc0298f77b4a2&wsTime=6b0ac425&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Ai Bi Gai Er u002FAi Si Te Er  VS Liu Zi Yu u002FAn Qi La   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=fb458e62c9cd7270c85a560675a83c4c&wsTime=6b0ac40b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Mo Di Tiao Zhan Sai +Yu Chao Zhi Bo  BadmintonZhi Bo  | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1199656255873-1199656255873-5842788851378028544-2399312635202-10057-A-0-1.flv?wsSecret=6475659539b227cad28b1992d7f4be32&wsTime=6b0ac199&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1199656255873-1199656255873-5842788851378028544-2399312635202-10057-A-0-1.flv?wsSecret=701479e86c81b48896e9fad944b4dc54&wsTime=6b0ac427&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 1 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6088418_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 2 | Gvision TV
@@ -137,23 +154,14 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814834~acl=/*~id=51782647347076923355059385508694~hmac=94940f6df206c8440c3f88f64b3df390c718b49c7862016462ed0b3b957e9a9e
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/187754/image" group-title="Live Event: CFY",17:00 WIB Asia Cup 2 | Cricket | HD SERVER | Gvision TV
 https://sonymtmnew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795814432~acl=/*~id=03028719362836718699102298873974~hmac=7d1de365584060b9fb2b8d7860123eb8cfbdb24d65c51eea8ca8cc6ce9f6f198
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&amp;s=10" group-title="Live Event: CFY",18:00 WIB Italia T10 League | Cricket | UNBEATEN - AQ | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&amp;s=10" group-title="Live Event: CFY",18:00 WIB Italia T10 League | Cricket | SandBrix HD | Gvision TV
-https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wl1OhAR0meg/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 04:30 WIB NORDE VOLEI X GOIAS - MEN'S SUPERLEAGUE | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/kick.php/.m3u8?id=led-stadium
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dHNPpaOGrE0/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 07:00 WIB PRAIA CLUBE | Gvision TV
 http://gvisiontv2.channell.my.id/ch/tch/kick.php/.m3u8?id=led-stadium
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=b2701e86c1f247b62d3ebe55f90a9cbc&wsTime=6b0ac1bd&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=2dc58f10a81f0038ff07b1bda054af3f&wsTime=6b0ac499&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 2 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=2a529c0eca40b21a92dc20eaf3ef5d35&wsTime=6b0ac1b5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 3 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=2251d63a405c202a6178c3769f7afb0d&wsTime=6b0ac1ce&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=5992e3cf7401415815a32ac58887dae2&wsTime=6b0ac4a1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="Live Event: Badminton",Syed Modi India | Court 1 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6088418_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="Live Event: Badminton",Syed Modi India | Court 2 | Gvision TV
@@ -186,6 +194,34 @@ https://apxvf0ws91.yarncdn.live/live/sd-6MxipX8VGt2FaioZdz/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/sd-6MxipX8VGzchCAHK6g/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8wZWRmZjE0NzJlZGNhNGFlZWVjNzUzNGYwYmNlYjIzMC5wbmc%253D" group-title="Live Event: KickLIve",18:00 WIB thai nguyen vs hung yen | Vietnam National First Class League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MxjZDduPFpZ6r9kB2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8xY2YyMzBjYWZlYzY4YmRmZmQyZjdlODdkOWY2ZjUxMS5wbmc%253D" group-title="Live Event: KickLIve",19:00 WIB buxoro fk vs mashal muborak | Uzbekistan Super League | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MvVdGa9x2TSnmu4ME/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8xY2YyMzBjYWZlYzY4YmRmZmQyZjdlODdkOWY2ZjUxMS5wbmc%253D" group-title="Live Event: KickLIve",19:00 WIB fk kokand 1912 vs xorazm urganch | Uzbekistan Super League | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MvVdGa9x93tQDNoov/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1344253261650530304/NhvOsx8h_400x400.png" group-title="Live Event: Fawa",19:00 WIB Maccabi Petah Tikva vs Hapoel Tel Aviv | Israel Ligat ha'Al | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/DEDEDEAAAAQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_400x400.jpg" group-title="Live Event: Fawa",19:00 WIB Uthai Thani vs Sisaket United | Thailand Thai league 1 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/DEDEDEAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_400x400.jpg" group-title="Live Event: Fawa",19:00 WIB Kokand 1912 vs Xorazm Urganch | Uzbekistan Super League | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/DEDEDEAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_400x400.jpg" group-title="Live Event: Fawa",19:00 WIB Buxoro vs Mashal Muborak | Uzbekistan Super League | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/DEDEDEAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP.jpg" group-title="Live Event: Fawa",19:00 WIB Sri Lanka vs Bahrain | Basketball World Cup | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/DEDEDEA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP.jpg" group-title="Live Event: Fawa",19:00 WIB Syria vs Philippines | Basketball World Cup | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/DEDEDE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2100153089596772352/6HafEL9x_400x400.png" group-title="Live Event: Fawa",18:30 WIB Geylang vs Tanjong Pagar | Singapore Premier League | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -218,10 +254,6 @@ http://193.47.62.44/hls/BEEEAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.44/hls/BEEEAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP.jpg" group-title="Live Event: Fawa",16:00 WIB Iran vs Australia | Basketball World Cup | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/BEEEA.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="Live Event: Fawa",15:45 WIB North Melbourne W vs Melbourne Demons W | AFL Aussie Rules | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -242,30 +274,6 @@ http://193.47.62.41/hls/viii.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/FRFRFRV.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1344253261650530304/NhvOsx8h_400x400.png" group-title="Live Event: Fawa",[ Belum Mulai ] 19:00 WIB Maccabi Petah Tikva vs Hapoel Tel Aviv | Israel Ligat ha'Al | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/DEDEDEAAAAQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_400x400.jpg" group-title="Live Event: Fawa",[ Belum Mulai ] 19:00 WIB Uthai Thani vs Sisaket United | Thailand Thai league 1 | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/DEDEDEAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_400x400.jpg" group-title="Live Event: Fawa",[ Belum Mulai ] 19:00 WIB Kokand 1912 vs Xorazm Urganch | Uzbekistan Super League | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/DEDEDEAAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_400x400.jpg" group-title="Live Event: Fawa",[ Belum Mulai ] 19:00 WIB Buxoro vs Mashal Muborak | Uzbekistan Super League | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/DEDEDEAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP.jpg" group-title="Live Event: Fawa",[ Belum Mulai ] 19:00 WIB Sri Lanka vs Bahrain | Basketball World Cup | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/DEDEDEA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP.jpg" group-title="Live Event: Fawa",[ Belum Mulai ] 19:00 WIB Syria vs Philippines | Basketball World Cup | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/DEDEDE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1638733016985145344/DlS5U4Qj_400x400.jpg" group-title="Live Event: Fawa",[ Belum Mulai ] 19:15 WIB DPMM vs Kelantan Red Warrior | Malaysia Super League | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -288,9 +296,9 @@ https://live05.wecile.app/live/88508431.m3u8
 https://live05.wecile.app/live/33860426.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/8c41b09a722e18d468b422bcaa46e133.png!w80" group-title="Live Event: ColaTV",18:00 WIB Hong Kong Trung quoc vs Mong Co | ColaTV | Gvision TV
 https://live05.wecile.app/live/89756030.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/d5313f24c755a8f9d6963dd1d532b118.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 19:00 WIB Syrian vs Philippines | ColaTV | Gvision TV
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/d5313f24c755a8f9d6963dd1d532b118.png!w80" group-title="Live Event: ColaTV",19:00 WIB Syrian vs Philippines | ColaTV | Gvision TV
 https://live05.wecile.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0bebca8b04365cbdf36703122a59189c.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 19:00 WIB Uthai Thani vs Sisaket United | ColaTV | Gvision TV
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0bebca8b04365cbdf36703122a59189c.png!w80" group-title="Live Event: ColaTV",19:00 WIB Uthai Thani vs Sisaket United | ColaTV | Gvision TV
 https://live05.wecile.app/live/49572724.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/068aa9b10aa4d47ab3a8fdbe8b716518.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 19:15 WIB Al Kholood vs Al Khaleej | ColaTV | Gvision TV
 https://live05.wecile.app/live/08552895.m3u8
