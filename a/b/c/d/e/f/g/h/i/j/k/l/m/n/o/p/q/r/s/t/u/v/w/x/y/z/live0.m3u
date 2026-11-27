@@ -1,33 +1,14 @@
 #EXTM3U
-# ⏰ Latest Updated: 15:07:49 WIB 27-11-2026
+# ⏰ Latest Updated: 15:20:16 WIB 27-11-2026
 # 🔄 Total Channels: 929
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:07:49 WIB 27-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:20:16 WIB 27-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",19:10 WIB MotoGP: Motul Grand Prix of Valencia - Practice | TNT SPORTS 2 | Gvision TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",19:10 WIB MotoGP: Motul Grand Prix of Valencia - Practice | Fancode | Gvision TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",19:10 WIB MotoGP: Motul Grand Prix of Valencia - Practice | Nonton GP | Gvision TV
-#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
-http://master3.s3stream.top/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",19:10 WIB MotoGP: Motul Grand Prix of Valencia - Practice | MOTOGP TV | Gvision TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",19:10 WIB MotoGP: Motul Grand Prix of Valencia - Practice | MOTOGP LIVE | Gvision TV
-https://s1.strea.ru/index_src/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="LIVE EVENT",15:00 WIB MotoGP Grand Prix of Valencia | MotoGP | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -54,8 +35,6 @@ http://193.47.62.55/hls/DEDEDEAAAAQQQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/DEDEDEAAAAQQ.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9mZTkyOWJlZTcyZWRiYzIxNDYxZjZiMmYyY2ZhNGFlMi5wbmc%253D" group-title="LIVE EVENT",20:00 WIB al-sailiya sports club vs al-gharafa sports club | Qatar Stars League | KickLive | Gvision TV
-https://apxvf0ws91.yarncdn.live/live/sd-6MwarK5oZskRbfg7UL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg" group-title="LIVE EVENT",20:00 WIB Honduras U17 vs Japan U17 | World Cup U17 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -141,9 +120,9 @@ http://193.47.62.41/hls/XAXAXAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/XAXAXA.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Hua Tuo Ni Zhuan Jin Ji ,You Cheng Bu Di Tao Tai   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=b39985acbd44877d13e3528681f04915&wsTime=6b0aeda6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=1cd8ad59e5b4dbf72a1eea012bc3ec38&wsTime=6b0af0ae&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Li Zi Jia Bu Di Tao Tai ,Hu Da Ni Zhuan Jin Ji   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=5fc5989e442b89ca1cf521f3d3e95f8a&wsTime=6b0aeda7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=3126280ffbe1d64aa210fca143bd7eac&wsTime=6b0af0af&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 1 | Gvision TV
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6088418_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=D2B48C" group-title="LIVE EVENT",Syed Modi India | Court 2 | Gvision TV
@@ -326,8 +305,6 @@ https://apxvf0ws91.yarncdn.live/live/sd-6MwarYAjVh9azQVBPn/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3viTXz1cJH4Eoi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi83Y2M0ZTE1MmMzYmQ0MWJjN2Y2NjU4Y2M2ZWY4OGVhZS5wbmc%253D" group-title="Live Event: KickLIve",22:00 WIB malkiya vs manama club | Bahrain Premier League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3viTXwp8RoEKep/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9mZTkyOWJlZTcyZWRiYzIxNDYxZjZiMmYyY2ZhNGFlMi5wbmc%253D" group-title="Live Event: KickLIve",20:00 WIB al-sailiya sports club vs al-gharafa sports club | Qatar Stars League | KickLive | Gvision TV
-https://apxvf0ws91.yarncdn.live/live/sd-6MwarK5oZskRbfg7UL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9iMGVlNzg2NTc4ZjFlOWM3YzY0OGM5NTM2MTk3YjQ1Mi5wbmc%253D" group-title="Live Event: KickLIve",21:00 WIB empoli youth vs lazio u20 | Italian Campionato Primavera 1 | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MweKj2pLAtPga9ssv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8wNWVhMWMzOWQ5M2MwNmQ4MmFjYTBjM2I5NWY4YjQ5Yy5wbmc%253D" group-title="Live Event: KickLIve",21:00 WIB inter kashi vs churchill brothers | Indian Super League | KickLive | Gvision TV
@@ -442,6 +419,20 @@ http://193.47.62.41/hls/XAXAXAQQQQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/XAXAXAQQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/bc74439d19c8bbaa17c57406b120b86d.png!w80" group-title="Live Event: ColaTV",21:20 WIB Al Qadisiya vs CLB Al Fayha | ColaTV | Gvision TV
+https://live05.wecile.app/live/02456966.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png!w80" group-title="Live Event: ColaTV",21:00 WIB Costa Rica U17 vs Brazil U17 | ColaTV | Gvision TV
+https://live05.wecile.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ef47a299ed88735ebf75770b11597127.png!w80" group-title="Live Event: ColaTV",21:00 WIB Inter Kashi vs Churchill Brothers | ColaTV | Gvision TV
+https://live05.wecile.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9866b8a83d35abdd89ed76d565d71f75.png!w80" group-title="Live Event: ColaTV",22:00 WIB Montenegro U17 vs Chile U17 | ColaTV | Gvision TV
+https://live05.wecile.app/live/75748097.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c0f3a9cc8c0672341632498cdfb3fff9.png!w80" group-title="Live Event: ColaTV",22:00 WIB Algeria U17 vs Cong hoa Dominican U17 | ColaTV | Gvision TV
+https://live05.wecile.app/live/97885009.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ddb080ae05cb88519794aff16a819ff1.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 22:30 WIB Lusail city fc vs Al Arabi | ColaTV | Gvision TV
+https://live05.wecile.app/live/18812304.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/74c37787bcf9656e1372913981f69859.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 22:30 WIB Universitaea Cluj vs Sepsi | ColaTV | Gvision TV
+https://live05.wecile.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?w=1280&h=720&fit=contain&cbg=ffffff&url=https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (VS OS6)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
