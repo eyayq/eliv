@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 17:00:56 WIB 28-11-2026
-# 🔄 Total Channels: 1017
+# ⏰ Latest Updated: 17:04:33 WIB 28-11-2026
+# 🔄 Total Channels: 1028
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [17:00:56 WIB 28-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [17:04:33 WIB 28-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",21:15 WIB thaayth`dsd PREMIER LEAGUE 2026/2027 | MONO29 | Gvision TV
@@ -15,22 +15,6 @@ https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="LIVE EVENT",[ Belum Mulai ] 00:00 WIB Torino vs Lazio | Italy Serie A | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/TTTTUAAQQQQQAQA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz.jpg" group-title="LIVE EVENT",[ Belum Mulai ] 00:00 WIB MMA Cage Warriors 215 | MMA Fighting | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/btbtbtQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/2E6e8" group-title="LIVE EVENT",21:00 WIB Frosinone vs Parma
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://shorter.me/3gy7g" group-title="LIVE EVENT",21:20 WIB Al Ittifaq vs Al Hilal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -44,6 +28,113 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",22:00 WIB Leeds United vs Coventry City
+https://www.rtmpcdn.com/live/57e47c7e-e2ba-4901-b8ed-4c1d1203415f.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",22:00 WIB Leeds United vs Coventry City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel11.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",22:00 WIB Manchester United vs Brentford
+https://www.rtmpcdn.com/live/47c7fc17-4c1f-45ed-baba-1060957c0c84.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",22:00 WIB Manchester United vs Brentford
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/UXCX0" group-title="LIVE EVENT",22:00 WIB West Bromwich Albion vs Bristol City
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",22:15 WIB Malaga vs Athletic Club
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="LIVE EVENT",00:00 WIB Torino vs Lazio | Italy Serie A | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/TTTTUAAQQQQQAQA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz.jpg" group-title="LIVE EVENT",00:00 WIB MMA Cage Warriors 215 | MMA Fighting | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/btbtbtQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2696/image" group-title="LIVE EVENT",00:00 WIB Torino vs Lazio | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60943ec02f3bd2da2f7a89b4e30b124c:d74d790f29bdbd30a98e96466784d4cc
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tdjmgerldr/out/v1/13fbb564002948f293a5da8c8c36a00a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2696/image" group-title="LIVE EVENT",00:00 WIB Torino vs Lazio | Football | beIN ENGLISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2696/image" group-title="LIVE EVENT",00:00 WIB Torino vs Lazio | Football | PEACOCK ES - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00695ab8a3626259119b0ea0658860e7:7ff4d834432bd3e33f1f141f8b90f856
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/if1b6yheja/out/v1/d6627001ada042449014a391b7da23c0/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2696/image" group-title="LIVE EVENT",00:00 WIB Torino vs Lazio | Football | DAZN ITALIA - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0dd851b418b1e8424848a85e91c6b41:3d76f40f19670f7e5168e9c608db3aac
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8pfr5vwoqb/out/v1/fa741c09d7064a579412124ae20d6b83/cenc.mpd
+#EXTINF:-1 tvg-logo="https://shorter.me/2E6e8" group-title="LIVE EVENT",00:00 WIB Torino vs Lazio
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 1 | HUYA | Gvision TV
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=34c75f358f78addfd73a5d49d3e164d0&wsTime=6b0c5a91&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Ban Jue Sai Shuang Da Jing Cai Hui Fang   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=bdeaf24a2474b51869e61f55f41750b8&wsTime=6b0c5a8e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Ban Jue Sai Dan Da Jing Cai Hui Fang   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=8a5c2800e0d7cf4d0f2f030df2e2205f&wsTime=6b0c5a90&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS44OTY2MWQ5Ni04M2QwLTRhMzktODU0Ni0wOWVmZjE5M2RhNTEvMi9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="LIVE EVENT",West Bromwich Albion vs. Bristol City  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS41YTg5ZTk0ZS0yOTkxLTQ1MDMtOWM2Yi0zZmM2MzM0YmNkYzkvNy9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="LIVE EVENT",Predator Pro Billiard Series: San Antonio  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",[ Belum Mulai ] 00:30 WIB Elche vs Atletico Madrid | Spanish La Liga | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/FVFVFVAAAAQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1500628606988558343/MLN0_jMP_400x400.jpg" group-title="LIVE EVENT",[ Belum Mulai ] 00:30 WIB Stuttgart vs Eintracht Frankfurt | German Bundesliga | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/FVFVFVAAAAQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg" group-title="LIVE EVENT",[ Belum Mulai ] 00:30 WIB Al Ahli SC vs Al Taawon | Saudi Premier League | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/FVFVFVAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2120097007951917056/NFB9obas_400x400.jpg" group-title="LIVE EVENT",[ Belum Mulai ] 00:30 WIB Eibar vs Burgos CF | Spanish Segunda Liga | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/FVFVFVAA.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",[Belum Mulai] 00:30 WIB Ipswich Town vs Aston Villa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",[Belum Mulai] 00:30 WIB Elche vs Atletico Madrid
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg" group-title="LIVE EVENT",[Belum Mulai] 00:30 WIB Stuttgart vs Eintracht Frankfurt
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIVE EVENT",22:00 WIB Manchester United vs Brentford | English Premier League | Server 2 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -76,46 +167,6 @@ http://193.47.62.44/hls/XQXQXQAAAAAQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://www.rtmpcdn.com/live/d275a169-9992-4595-8218-4f84b0fa4a3f.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="LIVE EVENT",22:00 WIB QPR vs Sheffield United | English Championship | Server 1 | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/IGGGAAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="LIVE EVENT",22:00 WIB QPR vs Sheffield United | English Championship | Server 2 | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/82a4d81b-c619-45e5-83d2-5c0da1db0d1d.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="LIVE EVENT",22:00 WIB Millwall vs Burnley | English Championship | Server 1 | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/KCCCQQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="LIVE EVENT",22:00 WIB Millwall vs Burnley | English Championship | Server 2 | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/2523586a-68fa-4b13-b305-0c28de108669.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="LIVE EVENT",22:00 WIB Derby County vs Watford | English Championship | Server 1 | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/DOOOAAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="LIVE EVENT",22:00 WIB Derby County vs Watford | English Championship | Server 2 | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/21fb51d4-516b-4cf5-9db3-c9d408a5625d.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="LIVE EVENT",22:00 WIB Birmingham City vs Bolton | English Championship | Server 1 | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/XQXQXQAAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="LIVE EVENT",22:00 WIB Birmingham City vs Bolton | English Championship | Server 2 | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/900ce879-1123-4e93-be62-1bbacea6bbc3.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png" group-title="LIVE EVENT",22:00 WIB Wycombe vs Bradford City | English League One | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/KCCCQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png" group-title="LIVE EVENT",22:00 WIB Wigan vs Plymouth | English League One | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/DOOOAAAA.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/34/image" group-title="LIVE EVENT",22:00 WIB Leeds United vs Coventry City | Football | SKY SPORT PL - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -161,25 +212,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lvfql4t30e/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5aed837655fb76359bf334dd41a4cb53:45ffea1919db680a77ca36b6347e123b
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/00yfltkazn/out/v1/2b25a20b39c240959f90e6a09abe980c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",22:00 WIB Leeds United vs Coventry City
-https://www.rtmpcdn.com/live/57e47c7e-e2ba-4901-b8ed-4c1d1203415f.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",22:00 WIB Leeds United vs Coventry City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live3979.zundrixmediapipeline.com/live/channel11.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",22:00 WIB Manchester United vs Brentford
-https://www.rtmpcdn.com/live/47c7fc17-4c1f-45ed-baba-1060957c0c84.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",22:00 WIB Manchester United vs Brentford
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live3979.zundrixmediapipeline.com/live/channel1.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/UXCX0" group-title="LIVE EVENT",22:00 WIB West Bromwich Albion vs Bristol City
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8xZmJiYjRiZTNiNDdkOTQ2NWM1YmFkZWNjMzEyMmUwNy5wbmc%253D" group-title="LIVE EVENT",22:15 WIB malaga vs athletic club | Spanish La Liga | Server 1 | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxr1WyskiHAY/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8xZmJiYjRiZTNiNDdkOTQ2NWM1YmFkZWNjMzEyMmUwNy5wbmc%253D" group-title="LIVE EVENT",22:15 WIB malaga vs athletic club | Spanish La Liga | Server 2 | KickLive | Gvision TV
@@ -203,10 +235,6 @@ https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f
 https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT",22:15 WIB Malaga vs Athletic Club
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8yODBlN2RmNjQwODcyYzk5MDY0YTU2YTMzNjE0NTBhOS5wbmc%253D" group-title="LIVE EVENT",22:30 WIB excelsior sbv vs sc telstar | Netherlands Eredivisie | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6Mwdpr5P4menNM3bTe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi80Mjc1ZTY1MmU2YzY0ZDg5Njg2OWRjOTUxOWY0ZTY1NC5wbmc%253D" group-title="LIVE EVENT",22:30 WIB sg sonnenhof grossaspach vs msv duisburg | German 3.Liga | KickLive | Gvision TV
@@ -244,73 +272,48 @@ https://apxvf0ws91.yarncdn.live/live/sd-6MxiZy7gLT7zDbpvaU/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/sd-6MxiZy7gLZiRq3Jg3A/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi80ZTdjOTQ2MGVlODYyZDQ3YzJjZTZkZWJmZWY2YWFjZS5wbmc%253D" group-title="LIVE EVENT",23:30 WIB faroe islands women vs estonia women | International Friendly | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MxjoYWrxPL7kJBbqS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=35be4471959dab0142a98f3364a2ace4&wsTime=6b0c5961&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Ban Jue Sai Shuang Da Jing Cai Hui Fang   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=b2c6a3a6d68fb98d8629937f62055168&wsTime=6b0c5960&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Ban Jue Sai Dan Da Jing Cai Hui Fang   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=01c11bc056a0a8e6f831b1131d06ccfc&wsTime=6b0c5962&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS44OTY2MWQ5Ni04M2QwLTRhMzktODU0Ni0wOWVmZjE5M2RhNTEvMi9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="LIVE EVENT",West Bromwich Albion vs. Bristol City  | Prime Sports | Gvision TV
+#EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS44OTY2MWQ5Ni04M2QwLTRhMzktODU0Ni0wOWVmZjE5M2RhNTEvMi9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="Live Event: Prime Sports",West Bromwich Albion vs. Bristol City  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-#EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS41YTg5ZTk0ZS0yOTkxLTQ1MDMtOWM2Yi0zZmM2MzM0YmNkYzkvNy9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="LIVE EVENT",Predator Pro Billiard Series: San Antonio  | Prime Sports | Gvision TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/2E6e8" group-title="LIVE EVENT",[Belum Mulai] 00:00 WIB Torino vs Lazio
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS4wZWVjYWVkNS1hMzVmLTQzYjMtOWY3Ny02ZWUxNDkyYTYwYzQvNC9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="Live Event: Prime Sports",Italia: Final  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-#EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS44OTY2MWQ5Ni04M2QwLTRhMzktODU0Ni0wOWVmZjE5M2RhNTEvMi9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="Live Event: Prime Sports",West Bromwich Albion vs. Bristol City  | Prime Sports | Gvision TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS45MDU4N2Q3OS02MTliLTQwYjYtOTkxOC0xNDIyNmEwYjM0Y2IvMi9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvcy16L3dpbGxvd3R2L2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUtc3RhY2tlZC5wbmclN0MwLTAtMTkyMC0xMDgwKzAtMC0xOTIwLTEwODArMTcyNC04ODUtMTE3LTExN19rdmViZWQzNmU3OGVhYTAzMzBmMjAwYmI2MDQ1YTUyYWNhX1NYNjI0X0ZNanBnXy5qcGVn" group-title="Live Event: Prime Sports",International League T20 2026 - 10th Match - Dubai Capitals vs Gulf Giants  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7da4cf4e5d70d08dc105a46fe42944f1:70b38fae5d9baf9b4cedfd568bb442a6
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hew9euaay4/out/v1/fab4c018765d4574982ac6d67a51923a/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hew9euaay4/out/v1/fab4c018765d4574982ac6d67a51923a/cenc.mpd
 #EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS40OWRmMGVkNC1jZDQxLTQ0ZGMtYjRiNi03YjhlODI0MjQxNDYvMi9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="Live Event: Prime Sports",Brooks South & Midwest XC Championships  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
-#EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS45NThlYzQxNS0yYzIzLTQ1YmQtYjY2ZS05MGExNDgzZjc5MWQvNi9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="Live Event: Prime Sports",Triton Poker Series Cyprus-$100K PLO Main Event  | Prime Sports | Gvision TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
 #EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS41YTg5ZTk0ZS0yOTkxLTQ1MDMtOWM2Yi0zZmM2MzM0YmNkYzkvNy9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="Live Event: Prime Sports",Predator Pro Billiard Series: San Antonio  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+#EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS45NThlYzQxNS0yYzIzLTQ1YmQtYjY2ZS05MGExNDgzZjc5MWQvNi9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="Live Event: Prime Sports",Triton Poker Series Cyprus-$100K PLO Main Event  | Prime Sports | Gvision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
 #EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/event/event14/prime.php?yhjhs=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9XL0JXX01FRElBWF9BVklGX01FQVNVUkVNRU5UXzEzMDY2OTYtVDQvaW1hZ2VzL1MvbGUtdGFyZ2V0LWltYWdlcy1wcm9kL2Ftem4xLmR2Lmd0aS5kNWRmNGM5NC0yYjc2LTQ1YzAtYTFjYy0yMTk2YWIyNGRhNDgvNC9CT1hBUlQtMTZYOS9lbi1VUy5fVVIxOTIwLTEwODBfQ0xzJTdDMTkyMC0xMDgwJTdDL0cvYnVuZGxlL0JvdHRvbVJpZ2h0Q2FyZEdyYWRpZW50MTZ4OS5wbmctL0cvMDEvZGlnaXRhbC92aWRlby9tZXJjaC9zdWJzL2JlbmVmaXQtaWQvYS1mL2ZyZWV3aXRoYWRzL2xvZ29zL2NoYW5uZWxzLWxvZ28td2hpdGUucG5nJTdDMC0wLTE5MjAtMTA4MCswLTAtMTkyMC0xMDgwKzE1NzgtODQ3LTI2My0xNTZfa3YwNTM0OThmNjJkMjE4MDNmZmNiZjI4ZGEyMzRjZmU5Zl9TWDYyNF9GTWpwZ18uanBlZw" group-title="Live Event: Prime Sports",Agit Kabayel vs Nelson Hysa  | Prime Sports | Gvision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl6f3IJM3zVoiU45GX2IhNPDjAyupyyFamzZwFnB5D6w&amp;s=10" group-title="Live Event: CFY",21:30 WIB ILT International League T20 | Cricket | WILLOW - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -352,6 +355,26 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ulwuyu4ai4/out/v1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnj8aqoogh/out/v1/b427d030aa6c40b1ab5acccc70497a2f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/35/image" group-title="Live Event: CFY",22:00 WIB Manchester United vs Brentford | Football | HD SERVER | Gvision TV
 https://www.rtmpcdn.com/live/47c7fc17-4c1f-45ed-baba-1060957c0c84.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2696/image" group-title="Live Event: CFY",00:00 WIB Torino vs Lazio | Football | PARAMOUNT+ - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60943ec02f3bd2da2f7a89b4e30b124c:d74d790f29bdbd30a98e96466784d4cc
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tdjmgerldr/out/v1/13fbb564002948f293a5da8c8c36a00a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2696/image" group-title="Live Event: CFY",00:00 WIB Torino vs Lazio | Football | beIN ENGLISH - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2696/image" group-title="Live Event: CFY",00:00 WIB Torino vs Lazio | Football | PEACOCK ES - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00695ab8a3626259119b0ea0658860e7:7ff4d834432bd3e33f1f141f8b90f856
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/if1b6yheja/out/v1/d6627001ada042449014a391b7da23c0/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2696/image" group-title="Live Event: CFY",00:00 WIB Torino vs Lazio | Football | DAZN ITALIA - AQ | Gvision TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0dd851b418b1e8424848a85e91c6b41:3d76f40f19670f7e5168e9c608db3aac
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8pfr5vwoqb/out/v1/fa741c09d7064a579412124ae20d6b83/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2830/image" group-title="Live Event: CFY",22:15 WIB Malaga CF vs Athletic Club | Football | DAZN SPORTS - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -411,7 +434,7 @@ https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mp
 #KODIPROP:inputstream.adaptive.license_key=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f
 https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=c3f73f5c18497960c2451adbffc5d16a&wsTime=6b0c59dc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=961da37c10ea7aebd64f4e1e42d09c63&wsTime=6b0c5aca&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi85NzA2NWM3YzE4NmEyZjQ3NzM1NDVjMGM4YzJjOTIyZi5wbmc%253D" group-title="Live Event: KickLIve",23:00 WIB pyramids fc vs maghreb fez | CAF Champions League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4S2hbprganLE8p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi85NzA2NWM3YzE4NmEyZjQ3NzM1NDVjMGM4YzJjOTIyZi5wbmc%253D" group-title="Live Event: KickLIve",23:00 WIB esperance sportive de tunis vs wiliete s.c. | CAF Champions League | KickLive | Gvision TV
@@ -420,6 +443,8 @@ https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4S2hbwT8CDoybW/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/sd-6Mwdq5CWcgV3YM2Xfe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9hY2FhZTc4NDBlNzgzMzdmMWZjZGZmZDM0MzBlNDIwNS5wbmc%253D" group-title="Live Event: KickLIve",23:00 WIB hapoel haifa vs ironi tiberias | Israel Premier League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6Mwdq5CWcZtbvuYnCx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9hY2FhZTc4NDBlNzgzMzdmMWZjZGZmZDM0MzBlNDIwNS5wbmc%253D" group-title="Live Event: KickLIve",00:00 WIB maccabi tel aviv vs hapoel petah tikva | Israel Premier League | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6Mwdq5CWc9iKMdThX6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9kNGQ0NjE2NzllZWRmZWQ1MDM3NGQ0N2Q4NDQzMWVmMy5wbmc%253D" group-title="Live Event: KickLIve",23:00 WIB baltika kaliningrad vs akhmat grozny | Russian Premier League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MweaLC1KDkqMLmWcp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9kYzgyMTdiZjFjODIxOWQxMjY1ZmU3MDRmMWRkNDYwYi5wbmc%253D" group-title="Live Event: KickLIve",23:00 WIB fc noah vs bkma | Armenian Premier League | KickLive | Gvision TV
@@ -486,6 +511,18 @@ https://apxvf0ws91.yarncdn.live/live/sd-6MxiZy7gLT7zDbpvaU/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/sd-6MxiZy7gLZiRq3Jg3A/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi80ZTdjOTQ2MGVlODYyZDQ3YzJjZTZkZWJmZWY2YWFjZS5wbmc%253D" group-title="Live Event: KickLIve",23:30 WIB faroe islands women vs estonia women | International Friendly | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MxjoYWrxPL7kJBbqS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8zODQ2YTEzNDQzZmNlNWVjMzIyMzY5ZDg4ZjY0MmRmNy5wbmc%253D" group-title="Live Event: KickLIve",00:00 WIB rosenborg vs molde | Norwegian Eliteserien | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MvZ6ESTQrWiveoLAk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9iOWJmZTg2MjRhZmY2NWIyZWVlMjk5NjI5NjFkNDU3Yy5wbmc%253D" group-title="Live Event: KickLIve",00:00 WIB nk osijek vs rijeka | Croatian Football League | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MwdprAXo8cgKrKkye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi85YWZmOGVkYjcyZGZkNTIyZmQ5Njg5YmRmNWMyNTAzZS5wbmc%253D" group-title="Live Event: KickLIve",00:00 WIB vaduz vs fc zurich | Switzerland Super League | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6Mwdq5B4p8JBuDxPi8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi85YWZmOGVkYjcyZGZkNTIyZmQ5Njg5YmRmNWMyNTAzZS5wbmc%253D" group-title="Live Event: KickLIve",00:00 WIB grasshopper vs fc basel 1893 | Switzerland Super League | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3venGvaLxizsr8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8zYmM0MjFlYWQ3MWY4NTMyNGJmZWRiMDhhNTY1YWQyMy5wbmc%253D" group-title="Live Event: KickLIve",00:00 WIB fc wil 1900 vs yverdon | Switzerland Challenge League | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6Mwdq5BoUB1cxugwrQ/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi82NTVhNjUzYjE4NTQwOTQ5OTQyOGE1MmY3Y2JmMmY0NS5wbmc%253D" group-title="Live Event: KickLIve",00:00 WIB hhradec kralove vs bohemians | Czech Chance Liga | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MweaZK92JVP9SgDwn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Live Event: Fawa",00:00 WIB Torino vs Lazio | Italy Serie A | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
