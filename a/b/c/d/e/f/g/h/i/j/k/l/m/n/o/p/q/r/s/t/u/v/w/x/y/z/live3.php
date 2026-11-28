@@ -1,14 +1,10 @@
 #EXTM3U
-# Generated Sat Nov 28 17:59:12 2026
+# Generated Sat Nov 28 18:03:07 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Sunday 29-11-2026 00:58:39 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Sunday 29-11-2026 01:02:30 WIB😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 CAF Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/97065c7c186a2f4773545c0c8c2c922f.png",📁😈Esperance Sportive de Tunis😈 [🆚] 😈Wiliete S.C. [LIVE]😈📁
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
-https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4669512
 #EXTINF:-1 group-title="📁😈 French Ligue 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cf612a87b09f469ebb367da53e07a45f.png",📁😈Angers SCO😈 [🆚] 😈RC Lens [LIVE]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
@@ -124,11 +120,11 @@ https://tv.streamhy.com/live/5010720.m3u8?expire=1795902939&sign=9e77d4b2f927b2c
 #EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3f3a136c558e4aefa30f173ea58e8490.png",📁😈Elche CF😈 [🆚] 😈Atletico Madrid [LIVE]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
-https://tv.streamhy.com/live/5006865.m3u8?expire=1795899815&sign=a2fd11bc824d0f14c356cca047d36bb1
+https://tv.streamhy.com/live/5007242.m3u8?expire=1795903358&sign=99bab19dd4b3ea6d2b886dd052ac3d4b
 #EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3f3a136c558e4aefa30f173ea58e8490.png",📁😈Elche CF😈 [🆚] 😈Atletico Madrid [LIVE]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
-https://tv.streamhy.com/live/5010298.m3u8?expire=1795901866&sign=8dcfd476b5d6f829903b67a82868e5ca
+https://tv.streamhy.com/live/5006865.m3u8?expire=1795899815&sign=a2fd11bc824d0f14c356cca047d36bb1
 #EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3f3a136c558e4aefa30f173ea58e8490.png",📁😈Elche CF😈 [🆚] 😈Atletico Madrid [LIVE]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
@@ -137,6 +133,14 @@ https://tv.streamhy.com/live/5009850.m3u8?expire=1795902872&sign=a10435ea1037f5e
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://tv.streamhy.com/live/5007242.m3u8?expire=1795899757&sign=ba2ac23aa4aaaa5991a9d75e8e50c9d1
+#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3f3a136c558e4aefa30f173ea58e8490.png",📁😈Elche CF😈 [🆚] 😈Atletico Madrid [LIVE]😈📁
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
+https://tv.streamhy.com/live/5010298.m3u8?expire=1795901866&sign=8dcfd476b5d6f829903b67a82868e5ca
+#EXTINF:-1 group-title="📁😈 Bundesliga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/94e565f0182c459ab1d76bc2c67ba277.png",📁😈VfB Stuttgart😈 [🆚] 😈Eintracht Frankfurt [LIVE]😈📁
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
+https://tv.streamhy.com/live/5007266.m3u8?expire=1795900244&sign=acfdaae4e2736b6f0f80edb1aa4f154b
 #EXTINF:-1 group-title="📁😈 Bundesliga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/94e565f0182c459ab1d76bc2c67ba277.png",📁😈VfB Stuttgart😈 [🆚] 😈Eintracht Frankfurt [LIVE]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
@@ -149,10 +153,6 @@ https://tv.streamhy.com/live/5009621.m3u8?expire=1795899949&sign=2f504edf4657919
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://tv.streamhy.com/live/5007429.m3u8?expire=1795900468&sign=823bd6faab0014f67acdd5db0d28f509
-#EXTINF:-1 group-title="📁😈 Bundesliga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/94e565f0182c459ab1d76bc2c67ba277.png",📁😈VfB Stuttgart😈 [🆚] 😈Eintracht Frankfurt [LIVE]😈📁
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
-https://tv.streamhy.com/live/5007266.m3u8?expire=1795900244&sign=acfdaae4e2736b6f0f80edb1aa4f154b
 #EXTINF:-1 group-title="📁😈 Spanish Segunda Division 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png",📁😈Eibar😈 [🆚] 😈Burgos CF [LIVE]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
@@ -160,7 +160,7 @@ https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4567382
 #EXTINF:-1 group-title="📁😈 Saudi Professional League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9115e93d22380b87e231573b0a796f27.png",📁😈Al Ahli SC😈 [🆚] 😈Al Taawoun [LIVE]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
-https://tv.streamhy.com/live/5010721.m3u8?expire=1795899716&sign=f557ae333d73560378019c80ffa928d1
+https://tv.streamhy.com/live/5010721.m3u8?expire=1795903320&sign=714f1450d8f349e68efb53b31e297f1d
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈Charlotte FC😈 [🆚] 😈Chicago Fire [LIVE]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
@@ -173,131 +173,131 @@ https://tv.streamhy.com/live/5006875.m3u8?expire=1795900823&sign=92752e62cf27afb
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4557641
-#EXTINF:-1 group-title="📁😈 FIFA Women's World Cup qualification(CONCACAF) 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c4e4a4264232bb6dc9d2bc2f9359ac13.png",📁😈Canada Women😈 [🆚] 😈Panama Women [1m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA Women's World Cup qualification(CONCACAF) 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c4e4a4264232bb6dc9d2bc2f9359ac13.png",📁😈Canada Women😈 [🆚] 😈Panama Women [LIVE]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4549792
-#EXTINF:-1 group-title="📁😈 Romanian Super Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3888349404e5d5d09f977b30df0ee151.png",📁😈Fotbal Club FCSB😈 [🆚] 😈FK Csikszereda Miercurea Ciuc [1m]😈📁
+#EXTINF:-1 group-title="📁😈 Romanian Super Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3888349404e5d5d09f977b30df0ee151.png",📁😈Fotbal Club FCSB😈 [🆚] 😈FK Csikszereda Miercurea Ciuc [LIVE]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4567836
-#EXTINF:-1 group-title="📁😈 Liga Portugal 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png",📁😈Lusitania FC😈 [🆚] 😈Vizela [1m]😈📁
+#EXTINF:-1 group-title="📁😈 Liga Portugal 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png",📁😈Lusitania FC😈 [🆚] 😈Vizela [LIVE]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4577948
-#EXTINF:-1 group-title="📁😈 Liga Portugal 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png",📁😈Sporting CP B😈 [🆚] 😈Amarante [1m]😈📁
+#EXTINF:-1 group-title="📁😈 Liga Portugal 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png",📁😈Sporting CP B😈 [🆚] 😈Amarante [LIVE]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4577951
-#EXTINF:-1 group-title="📁😈 Portuguese Primeria Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",📁😈Viseu😈 [🆚] 😈Alverca [0m]😈📁
+#EXTINF:-1 group-title="📁😈 Portuguese Primeria Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",📁😈Viseu😈 [🆚] 😈Alverca [LIVE]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://tv.streamhy.com/live/5010717.m3u8?expire=1795899918&sign=faefe763cab61af95bcf5e9b615b58c4
-#EXTINF:-1 group-title="📁😈 Greek Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png",📁😈AE Kifisias😈 [🆚] 😈Kalamata F.C [0m]😈📁
+#EXTINF:-1 group-title="📁😈 Greek Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png",📁😈AE Kifisias😈 [🆚] 😈Kalamata F.C [LIVE]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4590642
-#EXTINF:-1 group-title="📁😈 PKO Bank Polski EKSTRAKLASA 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png",📁😈Wisla Krakow😈 [🆚] 😈Motor Lublin [75m]😈📁
+#EXTINF:-1 group-title="📁😈 PKO Bank Polski EKSTRAKLASA 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png",📁😈Wisla Krakow😈 [🆚] 😈Motor Lublin [72m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4559389
-#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9fb71d5c81624eed8c9a3cfa301fc19a.png",📁😈Inter Milan😈 [🆚] 😈Genoa [105m]😈📁
+#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9fb71d5c81624eed8c9a3cfa301fc19a.png",📁😈Inter Milan😈 [🆚] 😈Genoa [102m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4549171
-#EXTINF:-1 group-title="📁😈 French Ligue 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cf612a87b09f469ebb367da53e07a45f.png",📁😈Havre Athletic Club😈 [🆚] 😈RC Strasbourg Alsace [105m]😈📁
+#EXTINF:-1 group-title="📁😈 French Ligue 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cf612a87b09f469ebb367da53e07a45f.png",📁😈Havre Athletic Club😈 [🆚] 😈RC Strasbourg Alsace [102m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4550944
-#EXTINF:-1 group-title="📁😈 French Ligue 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cf612a87b09f469ebb367da53e07a45f.png",📁😈Le Mans😈 [🆚] 😈LOSC Lille [105m]😈📁
+#EXTINF:-1 group-title="📁😈 French Ligue 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cf612a87b09f469ebb367da53e07a45f.png",📁😈Le Mans😈 [🆚] 😈LOSC Lille [102m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4550945
-#EXTINF:-1 group-title="📁😈 French Ligue 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cf612a87b09f469ebb367da53e07a45f.png",📁😈Paris Saint Germain😈 [🆚] 😈Lorient [105m]😈📁
+#EXTINF:-1 group-title="📁😈 French Ligue 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cf612a87b09f469ebb367da53e07a45f.png",📁😈Paris Saint Germain😈 [🆚] 😈Lorient [102m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4550948
-#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3f3a136c558e4aefa30f173ea58e8490.png",📁😈Real Madrid😈 [🆚] 😈Deportivo Alavés [120m]😈📁
+#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3f3a136c558e4aefa30f173ea58e8490.png",📁😈Real Madrid😈 [🆚] 😈Deportivo Alavés [117m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4565638
-#EXTINF:-1 group-title="📁😈 Bolivian Primera Division 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5d75feb43ea08222def38c8aa43db089.png",📁😈Nacional Potosi😈 [🆚] 😈Oriente Petrolero [330m]😈📁
+#EXTINF:-1 group-title="📁😈 Bolivian Primera Division 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5d75feb43ea08222def38c8aa43db089.png",📁😈Nacional Potosi😈 [🆚] 😈Oriente Petrolero [327m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4661461
-#EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Botafogo - RJ😈 [🆚] 😈Bahia - BA [360m]😈📁
+#EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Botafogo - RJ😈 [🆚] 😈Bahia - BA [357m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4465933
-#EXTINF:-1 group-title="📁😈 Categoría Primera A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png",📁😈Independiente Santa Fe😈 [🆚] 😈Atletico Nacional Medellin [390m]😈📁
+#EXTINF:-1 group-title="📁😈 Categoría Primera A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png",📁😈Independiente Santa Fe😈 [🆚] 😈Atletico Nacional Medellin [387m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4671060
-#EXTINF:-1 group-title="📁😈 New Zealand Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/732478b51be209195a21c4b9e2969ef5.png",📁😈Birkenhead United😈 [🆚] 😈Miramar Rangers [540m]😈📁
+#EXTINF:-1 group-title="📁😈 New Zealand Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/732478b51be209195a21c4b9e2969ef5.png",📁😈Birkenhead United😈 [🆚] 😈Miramar Rangers [537m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4647575
-#EXTINF:-1 group-title="📁😈 Mexico Liga MX 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",📁😈Club America😈 [🆚] 😈Rayados de Monterrey [550m]😈📁
+#EXTINF:-1 group-title="📁😈 Mexico Liga MX 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",📁😈Club America😈 [🆚] 😈Rayados de Monterrey [547m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4671972
-#EXTINF:-1 group-title="📁😈 Japanese J2 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png",📁😈Jubilo Iwata😈 [🆚] 😈Tochigi City [660m]😈📁
+#EXTINF:-1 group-title="📁😈 Japanese J2 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png",📁😈Jubilo Iwata😈 [🆚] 😈Tochigi City [656m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4555701
-#EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Ulsan HD FC😈 [🆚] 😈Jeonbuk Hyundai Motors [660m]😈📁
+#EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Ulsan HD FC😈 [🆚] 😈Jeonbuk Hyundai Motors [656m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4662803
-#EXTINF:-1 group-title="📁😈 Indonesian Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/06565a2672fc1f85be8c44da526c3820.png",📁😈Persipura Jayapura😈 [🆚] 😈PSBS Biak Numfor  [750m]😈📁
+#EXTINF:-1 group-title="📁😈 Indonesian Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/06565a2672fc1f85be8c44da526c3820.png",📁😈Persipura Jayapura😈 [🆚] 😈PSBS Biak Numfor  [746m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4641283
-#EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Incheon United Club😈 [🆚] 😈Gangwon FC [810m]😈📁
+#EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Incheon United Club😈 [🆚] 😈Gangwon FC [806m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4662804
-#EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈Arema FC😈 [🆚] 😈Persebaya Surabaya [870m]😈📁
+#EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈Arema FC😈 [🆚] 😈Persebaya Surabaya [866m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4614432
-#EXTINF:-1 group-title="📁😈 Turkish Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png",📁😈Corum FK😈 [🆚] 😈Kocaelispor [990m]😈📁
+#EXTINF:-1 group-title="📁😈 Turkish Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png",📁😈Corum FK😈 [🆚] 😈Kocaelispor [986m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4581379
-#EXTINF:-1 group-title="📁😈 Thai League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/568f4b544f3d286be88ecffebb132726.png",📁😈Sukhothai FC😈 [🆚] 😈True Bangkok United [1020m]😈📁
+#EXTINF:-1 group-title="📁😈 Thai League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/568f4b544f3d286be88ecffebb132726.png",📁😈Sukhothai FC😈 [🆚] 😈True Bangkok United [1016m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4639941
-#EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈Borneo FC Samarinda😈 [🆚] 😈Persatuan sepak bola Indonesia Kediri [1080m]😈📁
+#EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈Borneo FC Samarinda😈 [🆚] 😈Persatuan sepak bola Indonesia Kediri [1076m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4614434
-#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3f3a136c558e4aefa30f173ea58e8490.png",📁😈Valencia CF😈 [🆚] 😈CA Osasuna [1140m]😈📁
+#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3f3a136c558e4aefa30f173ea58e8490.png",📁😈Valencia CF😈 [🆚] 😈CA Osasuna [1136m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4565643
-#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9fb71d5c81624eed8c9a3cfa301fc19a.png",📁😈Sassuolo😈 [🆚] 😈Napoli [1200m]😈📁
+#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9fb71d5c81624eed8c9a3cfa301fc19a.png",📁😈Sassuolo😈 [🆚] 😈Napoli [1196m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4549174
-#EXTINF:-1 group-title="📁😈 Bundesliga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/94e565f0182c459ab1d76bc2c67ba277.png",📁😈SC Freiburg😈 [🆚] 😈RB Leipzig [1230m]😈📁
+#EXTINF:-1 group-title="📁😈 Bundesliga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/94e565f0182c459ab1d76bc2c67ba277.png",📁😈SC Freiburg😈 [🆚] 😈RB Leipzig [1226m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4566427
-#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3f3a136c558e4aefa30f173ea58e8490.png",📁😈RC Deportivo😈 [🆚] 😈FC Barcelona [1275m]😈📁
+#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3f3a136c558e4aefa30f173ea58e8490.png",📁😈RC Deportivo😈 [🆚] 😈FC Barcelona [1271m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4565629
-#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9fb71d5c81624eed8c9a3cfa301fc19a.png",📁😈AS Roma😈 [🆚] 😈Monza [1380m]😈📁
+#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9fb71d5c81624eed8c9a3cfa301fc19a.png",📁😈AS Roma😈 [🆚] 😈Monza [1376m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4549231
-#EXTINF:-1 group-title="📁😈 Portuguese Primeria Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",📁😈FC Porto😈 [🆚] 😈Sporting CP [1590m]😈📁
+#EXTINF:-1 group-title="📁😈 Portuguese Primeria Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",📁😈FC Porto😈 [🆚] 😈Sporting CP [1586m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4578253
-#EXTINF:-1 group-title="📁😈 Mexico Liga MX 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",📁😈Club Deportivo Guadalajara😈 [🆚] 😈Pachuca [1865m]😈📁
+#EXTINF:-1 group-title="📁😈 Mexico Liga MX 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",📁😈Club Deportivo Guadalajara😈 [🆚] 😈Pachuca [1861m]😈📁
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://idlive.falou.net/l"
 https://bhns.bhns.workers.dev/?url=http://0.now1.tv:80/CC///CC.php&id=4671973
