@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 12:16:33 WIB 28-11-2026
-# 🔄 Total Channels: 971
+# ⏰ Latest Updated: 12:22:07 WIB 28-11-2026
+# 🔄 Total Channels: 968
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:16:33 WIB 28-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [12:22:07 WIB 28-11-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhfLWlyflwOU1fF90F4tB0-HpUTjDp45K9ABpRycXeCQ&s=10" group-title="LIVE EVENT",18:40 WIB Moto3&Moto2: Grand Prix of Valencia - Qualifying | TNT SPORTS 2 | Gvision TV
@@ -70,6 +70,10 @@ https://apxvf0ws91.yarncdn.live/live/sd-6MweaDixvSqeweh3Be/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDixvSqeweh3Be/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9lYWI2ZTM0OWNmNTgxMTQwOGMwNjI4YTc3NDcyNDg2OS5wbmc%253D" group-title="LIVE EVENT",19:00 WIB hertha berlin vs karlsruher sc | German Bundesliga 2 | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MweaDiy69WfkUBeTA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",19:00 WIB madura united vs java united f.c. | Indonesian Super League | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MxiKavpFW4ktKoZi8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",19:00 WIB persatuan sepakbola indonesia jakarta vs garudayaksa fc | Indonesian Super League | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MxiKavpFTsH1qyeZE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2595/image" group-title="LIVE EVENT",19:00 WIB SG Dynamo Dresden vs FC St. Pauli | Football | SKY BUNDESLIGA - AQ | Gvision TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -93,10 +97,14 @@ https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=bb63de534ee19881
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=0d60985b7fb50c97bf042f1420a8d2a5&wsABSTime=1795893322
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg" group-title="LIVE EVENT",19:15 WIB Al Hazem vs Al Nassr | Saudi Premier League | FAWA | Gvision TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg" group-title="LIVE EVENT",19:15 WIB Al Hazem vs Al Nassr | Saudi Premier League | Server 1 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/DEEEAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg" group-title="LIVE EVENT",19:15 WIB Al Hazem vs Al Nassr | Saudi Premier League | Server 2 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/bf421854-219b-402a-bdfb-9614f9601feb.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/3gy7g" group-title="LIVE EVENT",19:15 WIB Al Hazm vs Al Nassr
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -104,13 +112,13 @@ http://193.47.62.41/hls/DEEEAA.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="LIVE EVENT",Syed Modi India Internasional Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=8f3e0409f1bd4dc460d6a16ad9040652&wsTime=6b0c16f5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=a13c6732a932276bbd7525fd222485de&wsTime=6b0c186d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Ai Bi Gai Er u002FAi Si Te Er VSYi Si Ya Na u002FLin Jia Ni   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=4232a55b13cd088fbd761ee4c923a187&wsTime=6b0c170e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=e1f151d7e4e9117ed4f1ed306ae2e701&wsTime=6b0c187d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Ai Bi Gai Er u002FAi Si Te Er VSYi Si Ya Na u002FLin Jia Ni   2026 Syed Modi India Internasional Badminton | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=6084ba2377c40a351fbc6a37c4f7519f&wsTime=6b0c170f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=2bea14c3b5647dbd0b6b1907a7b1a086&wsTime=6b0c187f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=8eacc8" group-title="LIVE EVENT",Mo Di Tiao Zhan Sai +Yu Chao Zhi Bo  BadmintonZhi Bo  | HUYA CN | Gvision TV
-http://al.flv.huya.com/src/1199656255873-1199656255873-5842788851378028544-2399312635202-10057-A-0-1.flv?wsSecret=6aa5e136ea55982bcdccb51ed5f3455c&wsTime=6b0c1711&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1199656255873-1199656255873-5842788851378028544-2399312635202-10057-A-0-1.flv?wsSecret=ba08629e8cd174296f5b60b5cab273fa&wsTime=6b0c1880&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1542967955742498816/dJ9DwIEs_400x400.jpg" group-title="LIVE EVENT",[ Belum Mulai ] 19:30 WIB FC Voluntari vs CFR Cluj | Romania Superliga | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -200,7 +208,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oi4rnidcwc/out/v1
 #KODIPROP:inputstream.adaptive.license_key=eb5d2d0b9a495fd6d6e3564017b4114c:e6c14d3d9c6b4f3933991cb90324f1da
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uvs2xhdiej/out/v1/433bf6d117f7498bbec46459d95e4856/cenc.mpd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co.com%2FrGySkbHm%2F20260806-155101.png&bg=FFFF00" group-title="Live Event: Badminton",Syed Modi India Internasional Badminton 2026 | Court 1 | HUYA | Gvision TV
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=7ea7ac5ce1ea078397db75c7df3cef46&wsTime=6b0c1753&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=de32f1307966b01632edc0105a0bf925&wsTime=6b0c18af&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9kNGQ0NjE2NzllZWRmZWQ1MDM3NGQ0N2Q4NDQzMWVmMy5wbmc%253D" group-title="Live Event: KickLIve",18:00 WIB rubin kazan vs akron togliatti | Russian Premier League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MweaLBFpKu1RF8fkt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi85NDIyYWE5MWI3MjM3M2M0ZDY5ZjZkY2Y0NzdhY2ViMi5wbmc%253D" group-title="Live Event: KickLIve",18:00 WIB dynamo kyiv vs chornomorets odesa | Ukrainian Premier League | KickLive | Gvision TV
@@ -217,6 +225,10 @@ https://apxvf0ws91.yarncdn.live/live/sd-6MweaDixvSqeweh3Be/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDixvSqeweh3Be/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9lYWI2ZTM0OWNmNTgxMTQwOGMwNjI4YTc3NDcyNDg2OS5wbmc%253D" group-title="Live Event: KickLIve",19:00 WIB hertha berlin vs karlsruher sc | German Bundesliga 2 | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MweaDiy69WfkUBeTA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9iMWUyMjhhZDY5YjZhMmMyMzUwNDdlMGExM2NlYjM5MS5wbmc%253D" group-title="Live Event: KickLIve",19:00 WIB madura united vs java united f.c. | Indonesian Super League | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MxiKavpFW4ktKoZi8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9iMWUyMjhhZDY5YjZhMmMyMzUwNDdlMGExM2NlYjM5MS5wbmc%253D" group-title="Live Event: KickLIve",19:00 WIB persatuan sepakbola indonesia jakarta vs garudayaksa fc | Indonesian Super League | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MxiKavpFTsH1qyeZE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9kMDlhM2IxYWI5MmNlMzc4YTUyNzdiNzlhOThkYWM1OS5wbmc%253D" group-title="Live Event: KickLIve",17:30 WIB bandirmaspor vs batman petrolspor | Turkish First League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6aof7V3kwNk6mE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9kMDlhM2IxYWI5MmNlMzc4YTUyNzdiNzlhOThkYWM1OS5wbmc%253D" group-title="Live Event: KickLIve",17:30 WIB sivasspor vs bodrum fk | Turkish First League | KickLive | Gvision TV
@@ -225,8 +237,6 @@ https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6aoeGptmRMyPp4/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKLWZMWfe5swE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8wOGRhOWU3ODNiMTdjMjdiZjBiZjQ1NGFkMzE4YjlmNi5wbmc%253D" group-title="Live Event: KickLIve",18:30 WIB metalist kharkiv vs polissya zhytomyr b | Ukrainian First League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL17Z9QsAokc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9kZGU0NDU1ODI3NGY1ZmExNDZjODg1NjgxNzQwOTk4OS5wbmc%253D" group-title="Live Event: KickLIve",17:30 WIB tallinna fc ararat ttu vs viljandi tulevik | Estonian Esiliiga | KickLive | Gvision TV
-https://apxvf0ws91.yarncdn.live/live/sd-6Mxjof1NoyCgThjxqN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9jOWM2MjRjOTlmNDJiZTlkNGM0ZjM5YTQ0NzdmMDJmNC5wbmc%253D" group-title="Live Event: KickLIve",17:30 WIB fc kuressaare vs viimsi jk | Estonian Premium Liiga | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6Mxjof1Nea7Wcirgo2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8zOGM0MzVhNzI0YjRhYjY5ZTExZWQyYjY1ZWQ5MjNiYi5wbmc%253D" group-title="Live Event: KickLIve",17:45 WIB lokomotiv plovdiv vs spartak varna | Bulgarian First League | KickLive | Gvision TV
@@ -247,6 +257,8 @@ https://apxvf0ws91.yarncdn.live/live/sd-6MxiZk4wsDUK9hphSY/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/sd-6MxipEp4FAp7jyfFW8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8wNDAyZmJlYjVjMzc1ZGUyMWVlNzRmODY4ZDJiNWYwYi5wbmc%253D" group-title="Live Event: KickLIve",18:00 WIB bac ninh vs shb da nang | Vietnam National Champion League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MxipEp4F8cdsVqLME/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8wNDAyZmJlYjVjMzc1ZGUyMWVlNzRmODY4ZDJiNWYwYi5wbmc%253D" group-title="Live Event: KickLIve",19:15 WIB hanoi fc vs hong linh ha tinh | Vietnam National Champion League | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MxipEp4Ee3PZG6RMa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8wZWRmZjE0NzJlZGNhNGFlZWVjNzUzNGYwYmNlYjIzMC5wbmc%253D" group-title="Live Event: KickLIve",18:00 WIB quang ninh vs ho chi minh city | Vietnam National First Class League | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MxipX8VH51ew7w9QU/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8wZWRmZjE0NzJlZGNhNGFlZWVjNzUzNGYwYmNlYjIzMC5wbmc%253D" group-title="Live Event: KickLIve",18:00 WIB quy nhon united vs khatoco khanh hoa | Vietnam National First Class League | KickLive | Gvision TV
@@ -297,12 +309,18 @@ https://apxvf0ws91.yarncdn.live/live/sd-6Mxjof1MUhbtqUEM5J/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/sd-6MwdpnrcGxF1KC4wZ2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi9iMGVlNzg2NTc4ZjFlOWM3YzY0OGM5NTM2MTk3YjQ1Mi5wbmc%253D" group-title="Live Event: KickLIve",19:00 WIB juventus youth vs verona youth | Italian Campionato Primavera 1 | KickLive | Gvision TV
 https://apxvf0ws91.yarncdn.live/live/sd-6MweKj2pLFHMRXoiBi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi83NmNmNzY3MGQzMGE0OGFkMTQzNzMxNWE4YzUwYWNkYi5wbmc%253D" group-title="Live Event: KickLIve",19:00 WIB bjarg vs sogndal | Norwegian 1.Divisjon | KickLive | Gvision TV
-https://apxvf0ws91.yarncdn.live/live/sd-6MxjoboLBKgBGeyYBr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg" group-title="Live Event: Fawa",19:15 WIB Al Hazem vs Al Nassr | Saudi Premier League | FAWA | Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi8xOGM0MDc2ZmIwYzRiYjI5MjVmN2MzOWY5ZWYzY2ViMi5wbmc%253D" group-title="Live Event: KickLIve",19:00 WIB orebro sk vs enkoping | Sweden Superettan | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6Mxjoeysft8nzSYaXA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?fit=cover&bg=FFFFFF&url=https%3A%2F%2Fwww.kickofftv.id%2Fcdn%2Fteam%2FaHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC9jb21wZXRpdGlvbi85MTE1ZTkzZDIyMzgwYjg3ZTIzMTU3M2IwYTc5NmYyNy5wbmc%253D" group-title="Live Event: KickLIve",19:15 WIB al hazem vs al nassr | Saudi Professional League | KickLive | Gvision TV
+https://apxvf0ws91.yarncdn.live/live/sd-6MwarmCiUsJ1Gm2j3W/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg" group-title="Live Event: Fawa",19:15 WIB Al Hazem vs Al Nassr | Saudi Premier League | Server 1 | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/DEEEAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg" group-title="Live Event: Fawa",19:15 WIB Al Hazem vs Al Nassr | Saudi Premier League | Server 2 | FAWA | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/bf421854-219b-402a-bdfb-9614f9601feb.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/720539064781262848/q0CEFj5f_400x400.jpg" group-title="Live Event: Fawa",19:15 WIB Hanoi FC vs Hong Linh Ha Tinh | Vietnam V League | FAWA | Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -483,28 +501,6 @@ http://193.47.62.44/hls/D777AAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/DEEEAAAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1542967955742498816/dJ9DwIEs_400x400.jpg" group-title="Live Event: Fawa",[ Belum Mulai ] 19:30 WIB FC Voluntari vs CFR Cluj | Romania Superliga | FAWA | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/DEEEAAA.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0459eff25f56626beed63c97e0e67dcf.png!w80" group-title="Live Event: ColaTV",19:15 WIB CLB Al Hazm vs Al-Nassr | ColaTV | Gvision TV
-https://live05.wecile.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/99dd3ac7267c0e3870d9ad785e6f9661.png!w80" group-title="Live Event: ColaTV",18:00 WIB Thanh pho Ho Chi Minh vs Hoang Anh Gia Lai | ColaTV | Gvision TV
-https://live05.wecile.app/live/07428422.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png!w80" group-title="Live Event: ColaTV",19:15 WIB Ha Noi vs Hong Linh Ha Tinh | ColaTV | Gvision TV
-https://live05.wecile.app/live/88508431.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5b8a3bb282d72348c18e6338dd8d284c.png!w80" group-title="Live Event: ColaTV",19:00 WIB SG Dynamo Dresden vs St. Pauli | ColaTV | Gvision TV
-https://live05.wecile.app/live/16226575.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png!w80" group-title="Live Event: ColaTV",19:00 WIB Holstein Kiel vs Kaiserslautern | ColaTV | Gvision TV
-https://live05.wecile.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1f74843bf2ffff474d23d387fa240102.png!w80" group-title="Live Event: ColaTV",19:00 WIB Hertha BSC vs CLB KSC | ColaTV | Gvision TV
-https://live05.wecile.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/40b7d679de613aedfb80bcaba85fa7e0.png!w80" group-title="Live Event: ColaTV",18:00 WIB Bac Ninh vs SHB Da Nang | ColaTV | Gvision TV
-https://live05.wecile.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/bdee645df8bc3b8f33e4354133224f89.png!w80" group-title="Live Event: ColaTV",18:00 WIB United Arab Emirates vs Sri Lanka | ColaTV | Gvision TV
-https://live05.wecile.app/live/89756030.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8447d677d0ec4da28a9e8a8fddbbc53e.png!w80" group-title="Live Event: ColaTV",[ Belum Mulai ] 19:30 WIB Lincoln vs Wolverhampton Wanderers | ColaTV | Gvision TV
-https://live05.wecile.app/live/97885009.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?w=1280&h=720&fit=contain&cbg=ffffff&url=https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (VS OS6)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
